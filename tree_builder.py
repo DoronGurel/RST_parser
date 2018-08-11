@@ -32,7 +32,11 @@ class SpanNode(object):
         # Relation form: NN, NS, SN
         self.form = None
 
+    def is_leaf(self):
+        return self.rnode is None and self.lnode is None and self.nodelist == []
 
+    def is_root(self):
+        return self.prop == 'Root'
 
 def _createtext(lst):
     """ Create text from a list of tokens
@@ -65,6 +69,17 @@ def _processtext(tokens):
             tok = tok.replace(')','-RB-')
         tokens[idx] = tok
     return tokens
+
+
+def _checkcontent(label, c):
+    """ Check whether the content is legal
+    :type label: string
+    :param label: parsing label, such 'span', 'leaf'
+    :type c: list
+    :param c: list of tokens
+    """
+    if len(c) > 0:
+        raise ValueError("{} with content={}".format(label, c))
 
 
 def _createnode(node, content):
@@ -142,12 +157,12 @@ def buildtree_from_train(dir):
             elif label == 'leaf':
                 # Merge
                 eduindex = int(content.pop(0))
-                checkcontent(label, content)
+                _checkcontent(label, content)
                 stack.append(('leaf', eduindex, eduindex))
             elif label == 'rel2par':
                 # Merge
                 relation = content.pop(0)
-                checkcontent(label, content)
+                _checkcontent(label, content)
                 stack.append(('relation',relation))
             elif label == 'text':
                 # Merge

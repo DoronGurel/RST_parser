@@ -1,5 +1,5 @@
 
-from . import tree_builder, backprop
+import tree_builder, backprop
 
 def _postorder_DFT(tree, nodelist):
     """ Post order traversal on binary RST tree
@@ -41,7 +41,3 @@ def train_to_gold():
             file_prefix = filename.partition(".")[0]
             tree_to_dev(T, 'DEV3', file_prefix)
 
-
-
-if __name__ == '__main__':
-    train_to_gold()

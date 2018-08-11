@@ -37,9 +37,6 @@ class Stack:
         return len(self.items)
 
 
-
-
-
 def edus_parser(file_path):
     with open(file_path, "r") as f:
         nodes_lines = f.read().splitlines()
@@ -49,7 +46,6 @@ def edus_parser(file_path):
         for edu in nodes_lines:
             rst_queue.enqueue(edu)
         return rst_queue, rst_stack
-
 
 
 def shift(queue,stack):

@@ -42,15 +42,6 @@ def getedunode(tree):
 
 
 
-def checkcontent(label, c):
-    """ Check whether the content is legal
-    :type label: string
-    :param label: parsing label, such 'span', 'leaf'
-    :type c: list
-    :param c: list of tokens
-    """
-    if len(c) > 0:
-        raise ValueError("{} with content={}".format(label, c))
 
 
 class ParseError(Exception):
