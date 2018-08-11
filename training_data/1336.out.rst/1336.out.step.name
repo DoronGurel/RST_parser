@@ -1,0 +1,42 @@
+nextSentence really
+create-a-node-here really 2.35 1 {\nLiz Claiborne Inc., New York, said }
+create-a-node-here really 2.79 2 {its third-quarter net income jumped 62%, }
+create-a-node-here really 2.177 3 {citing continued strength in apparel sales and the start of shipments of its new product lines:}
+create-a-node-here really 2.247 4 { a men's fragrance, large-size women's apparel and casual knitwear.}
+nextSentence really
+create-a-node-here really 4.40 5 { \n\nThe big apparel maker and retailer said }
+nextSentence really
+nextSentence really
+create-a-node-here really 4.190 6 {that its net income in the latest quarter increased to $51.1 million, or 58 cents a share, from $31.7 million, or 36 cents a share, a year earlier.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 5.85 7 {\nSales in the quarter gained 29% to $410.4 million from $317.7 million a year earlier.}
+nextSentence really
+nextSentence really
+create-a-node-here really 7.96 8 { \n\nClaiborne shares closed yesterday at $25.125, up 50 cents, in national over-the-counter trading.}
+nextSentence really
+create-a-node-here really 9.172 9 { \n\nClaiborne's directors also declared its regular cash dividend payment of five cents a share payable on Dec. 5 to shareholders of record at the close of business on Nov. 13.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 11.133 10 { \n\nFor the nine months, net income rose 48% to $124.2 million, or $1.41 a share, from $83.8 million, or 96 cents a share a year earlier.}
+nextSentence really
+create-a-node-here really 12.52 11 {\nSales gained 16% to $1.03 billion from $894 million.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+autolink_nodes 3 4 satelite elaboration-set-member  5003
+autolink_nodes 5 6 nucleus attribution  5004
+autolink_nodes 7 8 multinuclear List  5005
+autolink_nodes 6 5005 satelite elaboration-additional below 5006
+autolink_nodes 5002 5004 satelite elaboration-additional  5007
+autolink_nodes 5007 9 satelite elaboration-additional  5008
+autolink_nodes 10 11 multinuclear List  5009
+autolink_nodes 5008 5009 satelite elaboration-additional  5010
+collapsed_nodes {5010}
+collapsed_nodes {}
+disconnect_node 5 disconnect
+autolink_nodes 6 5 nucleus attribution  5011
+disconnect_node 6 disconnect
+autolink_nodes 5 6 nucleus attribution  5012

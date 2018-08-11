@@ -1,0 +1,555 @@
+nextSentence really
+create-a-node-here really 2.103 1 {\nThe New York Mercantile Exchange, the world's chief oil futures marketplace, is at a critical juncture.}
+nextSentence really
+create-a-node-here really 4.60 2 { \n\nSeveral longtime observers of the commodities industry think}
+#create-a-node-here really 4.146 3 { the fortunes of the Merc over the next decade will be determined to a large extent}
+#create-a-node-here really 4.204 4 { by how well its new natural gas futures contract does }
+#create-a-node-here really 4.360 5 {and how successful its new president is in raising the level of compliance by floor traders with exchange and Commodity Futures Trading Commission rules.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 4.354 3 { the fortunes of the Merc over the next decade will be determined to a large extent by how well its new natural gas futures contract does and how successful its new president is in raising the level of compliance by floor traders with exchange and Commodity Futures Trading Commission rules.}
+autolink_nodes 2 3 nucleus attribution  5001
+create-a-node-here really 5.39 4 {\nIf the exchange falters in these moves,}
+create-a-node-here really 5.52 5 { they say,}
+create-a-node-here really 5.142 6 { it might once again fall behind its chief New York competitor, the Commodity Exchange.}
+nextSentence really
+autolink_nodes 4 5 satelite attribution  5002
+autolink_nodes 5002 6 nucleus condition  5003
+autolink_nodes 5001 5003 satelite hypothetical  5004
+create-a-node-here really 6.37 7 {\nOn Friday, the Merc's board announced}
+nextSentence really
+create-a-node-here really 6.182 8 { that it had approved Sabine Pipe Line Co. 's Henry Hub in Erath, La., as the delivery site for its long-awaited natural gas futures contract.}
+nextSentence really
+autolink_nodes 7 8 nucleus attribution  5005
+create-a-node-here really 7.13 9 {\nIt also said }
+create-a-node-here really 7.56 10 {that it would start trading the contract}
+create-a-node-here really 7.93 11 { as soon as the CFTC approved it.}
+nextSentence really
+autolink_nodes 10 11 satelite condition  5006
+autolink_nodes 9 5006 nucleus attribution  5007
+create-a-node-here really 8.53 12 {\nThe CFTC has 90 days to respond to such applications.}
+nextSentence really
+autolink_nodes 11 12 satelite elaboration-additional  5008
+autolink_nodes 5005 5007 satelite elaboration-additional  5009
+create-a-node-here really 9.67 13 {\nThe Merc first started working on developing this contract in 1984.}
+nextSentence really
+autolink_nodes 5009 13 satelite background  5010
+autolink_nodes 5004 5010 satelite elaboration-additional  5011
+#create-a-node-here really 11.154 14 { \n\nOnly three weeks earlier, the Merc had turned to one of its own executives, 40-year-old R. Patrick Thompson, to replace Rosemary T. McFadden as president.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 11.108 14 { \n\nOnly three weeks earlier, the Merc had turned to one of its own executives, 40-year-old R. Patrick Thompson,}
+create-a-node-here really 11.158 15 { to replace Rosemary T. McFadden as president.}
+autolink_nodes 14 15 satelite purpose  5012
+create-a-node-here really 12.70 16 {\nMr. Thompson is believed to have a mandate from the board of directors}
+create-a-node-here really 12.138 17 { to help improve the Merc's tarnished reputation as an exchange }
+create-a-node-here really 12.195 18 {whose floor traders don't follow the rules very well.}
+nextSentence really
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 16 5013 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 5012 5014 satelite elaboration-additional  5015
+create-a-node-here really 14.142 19 { \n\nMs. McFadden had been forced out in July in a bitter power struggle with Z. Lou Guttman, chairman and a longtime floor trader on the exchange.}
+nextSentence really
+autolink_nodes 5015 19 satelite background  5016
+create-a-node-here really 15.100 20 {\nMr. Guttman told one person familiar with the New York exchanges during the search for a replacement}
+create-a-node-here really 15.140 21 { that he was looking for a president}
+create-a-node-here really 15.216 22 { who would be "responsive to the needs of the membership and the board."}
+nextSentence really
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5017
+autolink_nodes 20 5017 nucleus attribution  5018
+autolink_nodes 5016 5018 satelite circumstance  5019
+create-a-node-here really 17.47 23 { \n\nMr. Thompson first came to the exchange in 1981}
+create-a-node-here really 17.107 24 { and has been executive vice president since March 1988.}
+nextSentence really
+autolink_nodes 23 24 multinuclear List  5020
+create-a-node-here really 18.110 25 {\nHe previously held posts of senior vice president of compliance and senior vice president and general counsel.}
+nextSentence really
+autolink_nodes 5020 25 satelite temporal-after  5021
+create-a-node-here really 20.104 26 { \n\nBy contrast, the Comex in July imported a highly regarded outsider, Arnold F. Staloff, as its president.}
+nextSentence really
+create-a-node-here really 21.73 27 {\nMr. Staloff, 44, was a senior officer of the Philadelphia Stock Exchange }
+create-a-node-here really 21.134 28 {and is considered a specialist in new financial products.}
+nextSentence really
+autolink_nodes 27 28 multinuclear List  5022
+autolink_nodes 26 5022 satelite elaboration-additional  5023
+create-a-node-here really 23.67 29 { \n\nMr. Thompson isn't bereft of experience with new products, however.}
+nextSentence really
+autolink_nodes 5023 29 nucleus comparison  5024
+create-a-node-here really 24.23 30 {\nFor the past two years,}
+create-a-node-here really 24.36 31 { he said,}
+create-a-node-here really 24.133 32 { he and the exchange's research department have been working on the new natural gas contract,}
+create-a-node-here really 24.167 33 { seeking a good delivery site }
+create-a-node-here really 24.207 34 {and studying the natural gas market.}
+nextSentence really
+autolink_nodes 33 34 multinuclear List  5025
+autolink_nodes 32 5025 satelite elaboration-additional  5026
+autolink_nodes 30 31 satelite-embedded attribution-e  5027
+autolink_nodes 5026 5027 multinuclear Same-Unit  5028
+create-a-node-here really 26.54 35 { \n\n"Our members are eager to begin trading this contract,}
+create-a-node-here really 26.86 36 { so we expect no difficulty }
+create-a-node-here really 26.135 37 {in attracting locals to the natural gas pit,"}
+create-a-node-here really 26.148 38 { he said.}
+nextSentence really
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 35 5029 nucleus reason  5030
+autolink_nodes 5030 38 satelite attribution  5031
+create-a-node-here really 27.22 39 {\nThe educational effort}
+create-a-node-here really 27.100 40 { of teaching companies in the natural gas industry how to use the futures }
+create-a-node-here really 27.113 41 {to hedge }
+create-a-node-here really 27.166 42 {would have to continue for another a year or two,}
+create-a-node-here really 27.180 43 { he added.}
+nextSentence really
+#autolink_nodes 40 41 satelite-embedded purpose-e  5032
+#UNDID
+autolink_nodes 40 41 satelite purpose  5032
+autolink_nodes 39 5032 satelite-embedded elaboration-object-attribute-e  5033
+autolink_nodes 42 5033 multinuclear Same-Unit  5034
+autolink_nodes 5034 43 satelite attribution  5035
+autolink_nodes 5031 5035 satelite elaboration-additional  5036
+create-a-node-here really 28.212 44 {\nThe Merc's extremely successful contracts in crude oil, gasoline and heating oil have made it the largest futures exchange in New York, and third behind the Chicago Board of Trade and Chicago Mercantile Exchange.}
+autolink_nodes 5036 44 satelite circumstance  5037
+autolink_nodes 5028 5037 satelite elaboration-additional  5038
+autolink_nodes 29 5038 satelite evidence below 5039
+autolink_nodes 5021 5024 satelite elaboration-additional  5040
+autolink_nodes 5019 5040 satelite elaboration-additional  5041
+create-a-node-here really 30.41 45 { \n\nIn a recent interview, Mr. Thompson said }
+create-a-node-here really 30.64 46 {the biggest problem}
+create-a-node-here really 30.99 47 { facing all commodity exchanges}
+create-a-node-here really 30.121 48 { was one of image.}
+nextSentence really
+autolink_nodes 46 47 satelite-embedded elaboration-object-attribute-e  5042
+autolink_nodes 5042 48 multinuclear Same-Unit  5043
+autolink_nodes 45 5043 nucleus attribution  5044
+#create-a-node-here really 31.46 49 {\nEarlier this year, the U.S. attorney indicted }
+#UNDID
+create-a-node-here really 31.110 49 {\nEarlier this year, the U.S. attorney indicted 45 floor traders and one clerk at the two big Chicago exchanges.}
+create-a-node-here really 32.71 50 {\nFederal authorities in New York started investigating exchanges in May,}
+create-a-node-here really 32.126 51 { though no indictments have been handed down there.}
+nextSentence really
+autolink_nodes 50 51 satelite antithesis  5045
+create-a-node-here really 33.44 52 {\nSo far they have issued scores of subpoenas,}
+create-a-node-here really 33.100 53 { some of which went to members of the New York Merc.}
+nextSentence really
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5046
+autolink_nodes 5046 5045 satelite result  5047
+create-a-node-here really 34.75 54 {\nMr. Thompson will have to face some of the consequences of those subpoenas.}
+nextSentence really
+autolink_nodes 5047 54 satelite consequence-s  5048
+autolink_nodes 5048 49 multinuclear List  5049
+autolink_nodes 5044 5049 satelite explanation-argumentative  5050
+create-a-node-here really 36.118 55 { \n\nIn a recent General Accounting Office study, the Merc was found to have been the most lax in enforcing exchange rules.}
+nextSentence really
+create-a-node-here really 37.105 56 {\nIt levied the smallest number of suspensions of traders and fines of the four largest commodity exchanges}
+create-a-node-here really 37.143 57 { studied over the past five years.}
+nextSentence really
+autolink_nodes 56 57 satelite-embedded elaboration-object-attribute-e  5051
+autolink_nodes 55 5051 satelite elaboration-general-specific  5052
+create-a-node-here really 38.95 58 {\nIt also had both the fewest, and least experienced, investigators per million contracts traded.}
+nextSentence really
+autolink_nodes 5052 58 satelite elaboration-additional  5053
+create-a-node-here really 40.49 59 { \n\nThe Merc received considerable criticism in 1987 }
+create-a-node-here really 40.122 60 {when it was discovered that its compliance director, Kevin P. Conway,}
+create-a-node-here really 40.204 61 { who then was responsible for policing the exchange's busy oil and metal pits,}
+create-a-node-here really 40.279 62 { "was engaged in other personal business activities on Exchange time," }
+create-a-node-here really 40.312 63 {including out-of-state trips,}
+#create-a-node-here really 40.345 64 { according to a New York Merc}
+#UNDID
+create-a-node-here really 40.352 64 { according to a New York Merc report}
+create-a-node-here really 40.376 65 { prepared last year.}
+autolink_nodes 64 65 satelite-embedded elaboration-object-attribute-e  5054
+autolink_nodes 60 61 satelite-embedded elaboration-additional-e  5055
+autolink_nodes 62 63 satelite-embedded example-e  5056
+autolink_nodes 5056 5055 multinuclear Same-Unit  5057
+autolink_nodes 5057 59 satelite cause  5058
+autolink_nodes 5058 5054 satelite attribution  5059
+create-a-node-here really 41.40 66 {\nMr. Conway is no longer at the exchange.}
+nextSentence really
+autolink_nodes 5059 66 satelite consequence-s  5060
+create-a-node-here really 43.63 67 { \n\n"We had a management breakdown in 1987 in terms of compliance,"}
+create-a-node-here really 43.86 68 { Mr. Thompson says.}
+nextSentence really
+autolink_nodes 67 68 satelite attribution  5061
+create-a-node-here really 43.118 69 { "We recognized the problem }
+create-a-node-here really 43.143 70 {and took care of it."}
+nextSentence really
+autolink_nodes 69 70 multinuclear List  5062
+create-a-node-here really 43.156 71 { He says }
+create-a-node-here really 43.164 72 {that}
+create-a-node-here really 43.241 73 { even if the natural gas contract boosts volume at the exchange strongly,}
+create-a-node-here really 43.313 74 { the 1990 business plan calls for having adequate compliance people }
+create-a-node-here really 43.326 75 {to ensure}
+create-a-node-here really 43.370 76 { that exchange rules are being followed.}
+nextSentence really
+autolink_nodes 75 76 nucleus attribution  5063
+autolink_nodes 74 5063 satelite purpose  5064
+#autolink_nodes 5064 73 satelite antithesis  5065
+#UNDID
+autolink_nodes 5064 73 satelite-embedded antithesis-e  5065
+autolink_nodes 5065 72 multinuclear Same-Unit  5066
+autolink_nodes 71 5066 nucleus attribution  5067
+#disconnect_node 5063 modify
+#autolink_nodes 74 5063 satelite-embedded elaboration-object-attribute-e below 5068
+#UNDID
+#UNDID
+autolink_nodes 5062 5067 satelite elaboration-general-specific  5068
+autolink_nodes 5061 5060 satelite summary-n  5069
+autolink_nodes 5053 5069 satelite elaboration-additional  5070
+autolink_nodes 5068 5070 multinuclear Problem-Solution  5071
+autolink_nodes 5050 5071 satelite elaboration-additional  5072
+collapsed_nodes {5040}
+autolink_nodes 5041 5072 satelite elaboration-additional  5073
+create-a-node-here really 45.110 77 { \n\nFor years the five New York exchanges have been talking about cooperating in various aspects of their business}
+create-a-node-here really 45.170 78 { in order to improve the efficiency of their operations.}
+autolink_nodes 77 78 satelite purpose  5074
+create-a-node-here really 46.80 79 {\nPeriodically, there has even been talk of mergers between one or more exchanges.}
+nextSentence really
+create-a-node-here really 47.48 80 {\nSo far there is little to show for such efforts.}
+nextSentence really
+autolink_nodes 5074 79 satelite elaboration-additional  5075
+autolink_nodes 5075 80 satelite evaluation-s  5076
+create-a-node-here really 49.21 81 { \n\nMr. Thompson believes}
+create-a-node-here really 49.35 82 { the case }
+create-a-node-here really 49.59 83 {for working together}
+create-a-node-here really 49.90 84 { is stronger now than ever.}
+nextSentence really
+autolink_nodes 82 83 satelite-embedded elaboration-object-attribute-e  5077
+autolink_nodes 84 5077 multinuclear Same-Unit  5078
+autolink_nodes 81 5078 nucleus attribution  5079
+autolink_nodes 5079 5076 satelite background  5080
+create-a-node-here really 49.147 85 { "The cost of competition has become extremely high,"}
+create-a-node-here really 49.160 86 { he says.}
+nextSentence really
+autolink_nodes 85 86 satelite attribution  5081
+create-a-node-here really 49.183 87 { "We must find ways}
+create-a-node-here really 49.239 88 { to save money for the futures commission merchants }
+create-a-node-here really 49.277 89 {who do business on our exchanges."}
+nextSentence really
+autolink_nodes 88 89 satelite-embedded elaboration-object-attribute-e  5082
+autolink_nodes 87 5082 satelite-embedded elaboration-object-attribute-e  5083
+autolink_nodes 5083 5081 satelite problem-solution-n  5084
+autolink_nodes 5080 5084 satelite explanation-argumentative  5085
+create-a-node-here really 49.292 90 { He thinks }
+create-a-node-here really 49.345 91 {that progress in cooperation can be made in areas}
+create-a-node-here really 49.390 92 { where no vested interests have built up.}
+nextSentence really
+autolink_nodes 91 92 satelite-embedded elaboration-object-attribute-e  5086
+autolink_nodes 90 5086 nucleus attribution  5087
+create-a-node-here really 50.70 93 {\nOne of those areas is the development of a hand-held electronic device}
+create-a-node-here really 50.123 94 { that would permit floor traders to enter trades }
+create-a-node-here really 50.145 95 {as they make them.}
+nextSentence really
+autolink_nodes 94 95 satelite temporal-same-time  5088
+autolink_nodes 93 5088 satelite-embedded elaboration-object-attribute-e  5089
+create-a-node-here really 51.49 96 {\nThe GAO has recommended the creation of a system }
+create-a-node-here really 51.74 97 {to record trade data }
+create-a-node-here really 51.143 98 {so that an independent, verifiable audit trail can be established}
+create-a-node-here really 51.174 99 { to prevent customer fraud.}
+nextSentence really
+autolink_nodes 98 99 satelite purpose  5090
+autolink_nodes 96 97 satelite-embedded elaboration-object-attribute-e  5091
+autolink_nodes 5091 5090 satelite enablement  5092
+create-a-node-here really 52.42 100 {\nThe Merc is now cooperating with the Comex}
+create-a-node-here really 52.75 101 { in developing such a device}
+create-a-node-here really 52.112 102 { to provide such an audit trail.}
+nextSentence really
+autolink_nodes 101 102 satelite purpose  5093
+autolink_nodes 100 5093 satelite manner  5094
+#autolink_nodes 5092 5094 satelite elaboration-additional  5095
+#UNDID
+autolink_nodes 5092 5094 satelite elaboration-additional  5095
+create-a-node-here really 53.56 103 {\nThe Chicago exchanges also are working on such a device.}
+autolink_nodes 5095 103 satelite elaboration-additional  5096
+autolink_nodes 5089 5096 satelite example  5097
+autolink_nodes 5087 5097 satelite example  5098
+autolink_nodes 5085 5098 satelite elaboration-additional  5099
+create-a-node-here really 55.52 104 { \n\nAnother major electronics problem faces Mr. Thompson}
+create-a-node-here really 55.101 105 { -- the creation of a 24-hour trading system}
+create-a-node-here really 55.153 106 { that can be used outside normal trading hours.}
+#nextSentence really
+#autolink_nodes 105 106 satelite-embedded elaboration-object-attribute-e  5100
+#UNDID
+#UNDID
+autolink_nodes 105 106 satelite-embedded elaboration-additional-e  5100
+autolink_nodes 104 5100 satelite-embedded elaboration-object-attribute-e  5101
+create-a-node-here really 56.100 107 {\nIn January, the New York Merc signed a letter of intent with the Chicago Merc as a preliminary step }
+create-a-node-here really 56.139 108 {to joining their electronic system}
+create-a-node-here really 56.159 109 { called Globex.}
+nextSentence really
+#autolink_nodes 108 109 satelite-embedded elaboration-object-attribute-e  5102
+#UNDID
+autolink_nodes 108 109 satelite-embedded elaboration-additional-e  5102
+autolink_nodes 107 5102 satelite-embedded elaboration-object-attribute-e  5103
+create-a-node-here really 57.34 110 {\nBut in May, the Chicago Merc said }
+create-a-node-here really 57.116 111 {it was looking into creating a common system with the Chicago Board of Trade,}
+create-a-node-here really 57.175 112 { and it suspended negotiations with the New York Merc.}
+autolink_nodes 111 112 satelite consequence-n  5104
+autolink_nodes 110 5104 nucleus attribution  5105
+autolink_nodes 5105 5103 satelite antithesis  5106
+autolink_nodes 5101 5106 satelite elaboration-general-specific  5107
+create-a-node-here really 59.18 113 { \n\nMr. Thompson says }
+create-a-node-here really 59.104 114 {his exchange isn't waiting for the results of the Chicago exchanges' cooperation.}
+nextSentence really
+autolink_nodes 113 114 nucleus attribution  5108
+create-a-node-here really 60.33 115 {\nIt recently began a pilot program}
+create-a-node-here really 60.76 116 { to test an electronic trading system }
+create-a-node-here really 60.123 117 {called ATS/2, the automated trading system}
+create-a-node-here really 60.185 118 { created by the International Commodities Clearing House.}
+nextSentence really
+autolink_nodes 117 118 satelite-embedded elaboration-object-attribute-e  5109
+autolink_nodes 116 5109 satelite-embedded elaboration-additional-e  5110
+autolink_nodes 115 5110 satelite-embedded elaboration-object-attribute-e  5111
+autolink_nodes 5108 5111 satelite evidence  5112
+collapsed_nodes {5040 5106}
+autolink_nodes 5112 5107 satelite problem-solution-n  5113
+collapsed_nodes {5040 5106 5098}
+collapsed_nodes {5040 5106 5098 5107}
+collapsed_nodes {5040 5106 5098 5107 5084}
+autolink_nodes 5099 5113 satelite antithesis  5114
+collapsed_nodes {5040 5106 5098 5107 5084 5072}
+collapsed_nodes {5040 5106 5098 5107 5084 5072 5018}
+autolink_nodes 5073 5114 satelite elaboration-additional  5115
+collapsed_nodes {5040 5106 5098 5107 5084 5072 5018 5010}
+autolink_nodes 5011 5115 satelite elaboration-additional  5116
+autolink_nodes 1 5116 satelite summary-n  5117
+create-a-node-here really 62.45 119 { \n\nLooking ahead to commodity markets this week:}
+create-a-node-here really 64.6 120 { \n\nCopper}
+create-a-node-here really 66.70 121 { \n\nMichael Frawley, metals trader for PaineWebber Inc. in New York, said }
+create-a-node-here really 66.159 122 {there is good technical support between $1.10 and $1.12 a pound for December copper,}
+create-a-node-here really 66.217 123 { which ended Friday at $1.1580 a pound, up 1.6 cents.}
+nextSentence really
+autolink_nodes 122 123 satelite-embedded elaboration-additional-e  5118
+autolink_nodes 121 5118 nucleus attribution  5119
+create-a-node-here really 67.58 124 {\nHe views the $1.10 to $1.12 range as a buying opportunity }
+create-a-node-here really 67.97 125 {and considers the market oversold.}
+nextSentence really
+autolink_nodes 124 125 multinuclear List  5120
+autolink_nodes 5119 5120 satelite interpretation-s  5121
+create-a-node-here really 69.8 126 { \n\n"I think}
+create-a-node-here really 69.65 127 { the market could pop up to the $1.22 to $1.25 level}
+create-a-node-here really 69.100 128 { without too much difficulty,"}
+create-a-node-here really 69.114 129 { he said.}
+nextSentence really
+autolink_nodes 127 128 satelite circumstance  5122
+autolink_nodes 126 5122 nucleus attribution  5123
+autolink_nodes 5123 129 satelite attribution  5124
+create-a-node-here really 70.11 130 {\nBut he said}
+create-a-node-here really 70.40 131 { it won't climb further }
+create-a-node-here really 70.116 132 {and he expects it to remain in a trading range between $1.10 and $1.25.}
+nextSentence really
+autolink_nodes 131 132 multinuclear List  5125
+autolink_nodes 130 5125 nucleus attribution  5126
+autolink_nodes 5126 5124 satelite antithesis  5127
+autolink_nodes 5121 5127 satelite evaluation-s  5128
+create-a-node-here really 71.8 133 {\nHe noted}
+create-a-node-here really 71.92 134 { that the equity markets will set the tone for the industrial metals this week }
+create-a-node-here really 71.143 135 {and traders should keep an eye on Wall Street.}
+nextSentence really
+autolink_nodes 134 135 satelite evaluation-s  5129
+autolink_nodes 133 5129 nucleus attribution  5130
+autolink_nodes 5128 5130 satelite elaboration-additional  5131
+create-a-node-here really 73.76 136 { \n\nWilliam O'Neill, research director for Elders Futures Inc. in New York, said}
+create-a-node-here really 73.103 137 { for a rally to occur,}
+create-a-node-here really 73.148 138 { there must be demand from the Far East.}
+nextSentence really
+#autolink_nodes 137 138 satelite condition  5132
+#UNDID
+autolink_nodes 137 138 satelite condition  5132
+autolink_nodes 136 5132 nucleus attribution  5133
+create-a-node-here really 74.9 139 {\nHe added }
+create-a-node-here really 74.91 140 {that talk of strike settlements at producing mines has been fully discounted.}
+autolink_nodes 139 140 nucleus attribution  5134
+autolink_nodes 5133 5134 satelite elaboration-additional  5135
+create-a-node-here really 75.8 141 {\nHowever,}
+create-a-node-here really 75.39 142 { to resume the bull trend,}
+create-a-node-here really 75.70 143 { according to Mr. O'Neill,}
+create-a-node-here really 75.114 144 { copper would have to close over $1.19.}
+nextSentence really
+autolink_nodes 142 143 satelite-embedded attribution-e  5136
+#autolink_nodes 144 5136 satelite-embedded purpose-e  5137
+#autolink_nodes 5137 141 multinuclear Same-Unit  5138
+#UNDID
+#UNDID
+#autolink_nodes 144 5136 satelite-embedded enablement-e  5137
+#UNDID
+#autolink_nodes 144 5136 satelite-embedded enablement-e  5137
+#UNDID
+#autolink_nodes 144 5136 satelite-embedded enablement-e  5137
+#UNDID
+#autolink_nodes 144 5136 satelite-embedded enablement-e  5137
+#autolink_nodes 5137 141 multinuclear Same-Unit  5138
+#UNDID
+#UNDID
+autolink_nodes 144 5136 satelite-embedded consequence-s-e  5137
+autolink_nodes 5137 141 multinuclear Same-Unit  5138
+#disconnect_node 138 disconnect
+#UNDID
+disconnect_node 138 modify
+autolink_nodes 137 138 satelite enablement below 5139
+autolink_nodes 5135 5138 satelite elaboration-additional  5140
+create-a-node-here really 76.8 145 {\nHe said }
+create-a-node-here really 76.44 146 {there are two reports this week}
+create-a-node-here really 76.75 147 { that might affect prices:}
+create-a-node-here really 76.163 148 { the purchasing managers report on Wednesday and the unemployment report on Friday.}
+#autolink_nodes 147 148 satelite elaboration-set-member  5141
+#UNDID
+autolink_nodes 146 147 satelite-embedded elaboration-object-attribute-e  5141
+autolink_nodes 5141 148 satelite elaboration-set-member  5142
+autolink_nodes 145 5142 nucleus attribution  5143
+autolink_nodes 5137 5143 satelite elaboration-additional  5144
+collapsed_nodes {5040 5106 5098 5107 5084 5072 5018 5010 5127}
+collapsed_nodes {5040 5106 5098 5107 5084 5072 5018 5010 5127 5130}
+autolink_nodes 5131 5140 multinuclear List  5145
+change_constit 5145 SectionText
+change_constit 120 SectionTitle
+#autolink_nodes 5145 120 multinuclear List below 5145
+#UNDID
+change_constit 5145 SectionText
+change_constit 120 SectionTitle
+autolink_nodes 120 5145 multinuclear TextualOrganization  5146
+collapsed_nodes {5040 5106 5098 5107 5084 5072 5018 5010 5127 5130 5145}
+create-a-node-here really 78.16 149 { \n\nPrecious Metals }
+create-a-node-here really 80.82 150 {\n\nFriday's strong price gains confirmed a turnaround in the precious metals markets,}
+create-a-node-here really 80.127 151 { according to PaineWebber's Mr. Frawley.}
+nextSentence really
+autolink_nodes 150 151 satelite attribution  5147
+create-a-node-here really 80.187 152 { "Most traders will be looking to buy {on} pullbacks," }
+create-a-node-here really 80.200 153 {he said.}
+nextSentence really
+autolink_nodes 152 153 satelite attribution  5148
+autolink_nodes 5147 5148 satelite consequence-s  5149
+create-a-node-here really 82.10 154 { \n\nHe thought}
+create-a-node-here really 82.132 155 { the moves in the metals last week were most influenced by the uncertainty in the equity and other financial markets.}
+nextSentence really
+autolink_nodes 154 155 nucleus attribution  5150
+autolink_nodes 5149 5150 satelite interpretation-s  5151
+create-a-node-here really 83.25 156 {\nAccording to Mr. Frawley,}
+create-a-node-here really 83.49 157 { floor traders say }
+create-a-node-here really 83.232 158 {there is good support for December gold in the $374 to $375 per ounce area, around $5.20 an ounce for December silver and in the $485 to $490 an ounce range for January platinum.}
+nextSentence really
+autolink_nodes 157 158 nucleus attribution  5152
+autolink_nodes 156 5152 nucleus attribution  5153
+autolink_nodes 5151 5153 satelite elaboration-additional  5154
+create-a-node-here really 85.76 159 { \n\nWilliam O'Neill, research director for Elders Futures Inc. in New York, said}
+create-a-node-here really 85.131 160 { the price action for all of last week is the best}
+create-a-node-here really 85.187 161 { he has seen on a weekly basis in more than a year.}
+nextSentence really
+autolink_nodes 160 161 satelite-embedded elaboration-object-attribute-e  5155
+autolink_nodes 159 5155 nucleus attribution  5156
+create-a-node-here really 86.8 162 {\nHe said }
+create-a-node-here really 86.106 163 {last week's activity in gold could portend a move to $390 an ounce for the December contract.}
+nextSentence really
+autolink_nodes 162 163 nucleus attribution  5157
+autolink_nodes 5156 5157 satelite hypothetical  5158
+create-a-node-here really 88.13 164 { \n\nHe also said }
+create-a-node-here really 88.65 165 {traders should keep an eye on the stock market,}
+create-a-node-here really 88.79 166 { because }
+create-a-node-here really 88.113 167 {"if the stock market rallies,}
+create-a-node-here really 88.169 168 { that could spell trouble for the precious metals."}
+nextSentence really
+#autolink_nodes 167 168 nucleus-embedded condition-e  5159
+#UNDID
+autolink_nodes 167 168 nucleus-embedded condition-e  5159
+autolink_nodes 5159 166 multinuclear Same-Unit  5160
+autolink_nodes 165 5160 satelite reason  5161
+autolink_nodes 164 5161 nucleus attribution  5162
+create-a-node-here really 90.7 169 { \n\nHe said}
+create-a-node-here really 90.91 170 { traders should be on the lookout for how metals producers react to this rally.}
+autolink_nodes 169 170 nucleus attribution  5163
+create-a-node-here really 90.127 171 { "I expect to see some selling,}
+create-a-node-here really 90.161 172 { but will they kill this one }
+create-a-node-here really 90.210 173 {as they have every rally in the recent past"}
+create-a-node-here really 90.226 174 { by selling}
+create-a-node-here really 90.275 175 { and locking in prices for their production?}
+nextSentence really
+autolink_nodes 174 175 multinuclear List  5164
+autolink_nodes 172 173 satelite manner  5165
+autolink_nodes 5165 5164 satelite means  5166
+autolink_nodes 171 5166 satelite antithesis  5167
+autolink_nodes 5163 5167 satelite elaboration-additional  5168
+autolink_nodes 5162 5168 satelite elaboration-additional  5169
+create-a-node-here really 91.8 176 {\nHe noted}
+create-a-node-here really 91.101 177 { that for the first time in months there was some light investor interest in the metals.}
+nextSentence really
+autolink_nodes 176 177 nucleus attribution  5170
+autolink_nodes 5169 5170 satelite elaboration-additional  5171
+autolink_nodes 5158 5171 satelite antithesis  5172
+collapsed_nodes {5040 5106 5098 5107 5084 5072 5018 5010 5127 5130 5145 5153}
+autolink_nodes 5154 5172 multinuclear List  5173
+change_constit 5173 SectionText
+change_constit 149 SectionTitle
+autolink_nodes 149 5173 multinuclear TextualOrganization  5174
+collapsed_nodes {5040 5106 5098 5107 5084 5072 5018 5010 5127 5130 5145 5153 5173}
+create-a-node-here really 93.19 178 { \n\nGrains And Soybeans}
+create-a-node-here really 95.182 179 { \n\nPrices this week will likely be dominated by reports on the progress of the corn and soybean harvest as well as by speculation about more purchases of U.S. crops by the Soviet Union.}
+nextSentence really
+create-a-node-here really 97.66 180 { \n\nIn recent weeks, warm and dry weather has sped the Midwest harvest}
+create-a-node-here really 97.128 181 { and that is permitting farmers to rebuild the stockpiles}
+create-a-node-here really 97.168 182 { that were cut by the 1988 drought.}
+nextSentence really
+autolink_nodes 181 182 satelite-embedded elaboration-object-attribute-e  5175
+#autolink_nodes 180 5175 satelite enablement  5176
+#UNDID
+autolink_nodes 180 5175 nucleus consequence-n  5176
+create-a-node-here really 98.72 183 {\nIf the weather allowed farmers to work in their fields over the weekend,}
+create-a-node-here really 98.180 184 { many Midwest grain elevators will probably sell futures contracts today at the Chicago Board of Trade }
+create-a-node-here really 98.240 185 {in order to hedge their weekend purchases from farmers.}
+autolink_nodes 184 185 satelite purpose  5177
+autolink_nodes 5177 183 satelite condition  5178
+autolink_nodes 5176 5178 satelite elaboration-additional  5179
+create-a-node-here really 99.118 186 {\nThat selling of futures contracts by elevators is what helps keep downward pressure on crop prices during the harvest.}
+nextSentence really
+autolink_nodes 5179 186 satelite interpretation-s  5180
+autolink_nodes 179 5180 satelite elaboration-additional  5181
+create-a-node-here really 101.105 187 { \n\nTraders will also watch for whether the Soviet Union continues its traditional fall buying of U.S. grain.}
+nextSentence really
+create-a-node-here really 102.86 188 {\nSo far this month, the Soviets have bought about 7.2 million metric tons of U.S. corn.}
+nextSentence really
+autolink_nodes 187 188 satelite elaboration-additional  5182
+autolink_nodes 5181 5182 satelite elaboration-additional  5183
+create-a-node-here really 104.54 189 { \n\nThere may be some activity in soybean prices this week}
+create-a-node-here really 104.126 190 { as investors try to get rid of the contract for November delivery.}
+nextSentence really
+#autolink_nodes 189 190 satelite circumstance  5184
+#UNDID
+autolink_nodes 189 190 satelite explanation-argumentative  5184
+create-a-node-here really 105.69 191 {\nInvestors usually don't want to take physical delivery of a contract,}
+create-a-node-here really 105.126 192 { preferring instead to profit from its price swings }
+create-a-node-here really 105.159 193 {and then end any obligation }
+create-a-node-here really 105.181 194 {to take delivery }
+create-a-node-here really 105.203 195 {or make delivery }
+create-a-node-here really 105.231 196 {as it nears expiration.}
+autolink_nodes 194 195 multinuclear List  5185
+autolink_nodes 193 5185 satelite-embedded elaboration-object-attribute-e  5186
+autolink_nodes 5186 196 satelite circumstance  5187
+autolink_nodes 5187 192 multinuclear List  5188
+#autolink_nodes 5188 191 satelite purpose  5189
+#UNDID
+autolink_nodes 5188 191 satelite preference  5189
+autolink_nodes 5184 5189 satelite elaboration-additional  5190
+collapsed_nodes {5040 5106 5098 5107 5084 5072 5018 5010 5127 5130 5145 5153 5173 5180}
+autolink_nodes 5183 5190 satelite elaboration-additional  5191
+change_constit 5191 SectionText
+change_constit 178 SectionTitle
+autolink_nodes 178 5191 multinuclear TextualOrganization  5192
+autolink_nodes 5174 5192 multinuclear List above 5193
+autolink_nodes 5193 5146 multinuclear List below 5193
+autolink_nodes 119 5193 satelite elaboration-set-member  5194
+collapsed_nodes {5040 5106 5098 5107 5084 5072 5018 5010 5127 5130 5145 5153 5173 5180 5115}
+autolink_nodes 5194 5117 multinuclear Topic-Shift  5195
+collapsed_nodes {5040 5106 5098 5107 5084 5072 5018 5127 5130 5145 5153 5173 5180 5115}
+collapsed_nodes {5127 5130 5145 5153 5173 5180}
+collapsed_nodes {5153 5173 5180}
+collapsed_nodes {5180}
+collapsed_nodes {}
+#disconnect_node 112 modify
+#autolink_nodes 111 112 satelite consequence-s below 5196
+#UNDID
+#UNDID
+disconnect_node 112 disconnect
+autolink_nodes 111 112 satelite consequence-s below 5196
+disconnect_node 143 disconnect
+autolink_nodes 142 143 satelite attribution  5197

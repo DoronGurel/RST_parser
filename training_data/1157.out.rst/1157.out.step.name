@@ -1,0 +1,327 @@
+nextSentence really
+create-a-node-here really 2.97 1 {\nInsiders have been selling shares in Dun & Bradstreet Corp., the huge credit-information concern.}
+nextSentence really
+create-a-node-here really 4.85 2 { \n\nSix top executives at the New York-based company sold shares in August and September.}
+nextSentence really
+create-a-node-here really 5.58 3 {\nFour of those insiders sold more than half their holdings.}
+nextSentence really
+autolink_nodes 2 3 satelite elaboration-general-specific  5001
+autolink_nodes 1 5001 satelite elaboration-general-specific  5002
+nextSentence really
+nextSentence really
+#create-a-node-here really 7.119 4 { \n\nThe stock, in New York Stock Exchange composite trading yesterday, closed at $51.75, up 62.5 cents, well below the $56.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 7.136 4 { \n\nThe stock, in New York Stock Exchange composite trading yesterday, closed at $51.75, up 62.5 cents, well below the $56.13 to $60 a share}
+create-a-node-here really 7.179 5 { the insiders received for their shares.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 8.157 6 {\nMuch of the recent slide in Dun & Bradstreet's stock came late last week, after negative comments by analysts at Merrill Lynch & Co. and Goldman, Sachs & Co.}
+autolink_nodes 5003 6 satelite elaboration-additional  5004
+create-a-node-here really 10.39 7 { \n\nA company spokesman declined to comment}
+create-a-node-here really 10.51 8 { and said}
+create-a-node-here really 10.74 9 { that the officials }
+create-a-node-here really 10.93 10 {who sold shares }
+create-a-node-here really 10.114 11 {wouldn't comment.}
+nextSentence really
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 5005 11 multinuclear Same-Unit  5006
+autolink_nodes 8 5006 nucleus attribution  5007
+autolink_nodes 7 5007 multinuclear List  5008
+autolink_nodes 5002 5004 satelite elaboration-additional  5009
+autolink_nodes 5009 5008 satelite elaboration-additional  5010
+create-a-node-here really 12.63 12 { \n\nOne of Dun & Bradstreet's chief businesses is compiling reports}
+create-a-node-here really 12.134 13 { that rate the credit-worthiness of millions of American companies.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5011
+create-a-node-here really 13.39 14 {\nIt also owns Moody's Investors Service,}
+#create-a-node-here really 13.116 15 { which assigns credit-ratings to bonds and preferred stock; A.C. Nielsen,}
+#create-a-node-here really 13.171 16 { known for its data on television-viewing patterns,}
+#create-a-node-here really 13.213 17 { and Yellow-pages publisher Donnelley.}
+#nextSentence really
+#autolink_nodes 15 16 satelite-embedded elaboration-additional-e  5012
+#autolink_nodes 5012 17 multinuclear Same-Unit  5013
+#UNDID
+#autolink_nodes 14 5012 satelite-embedded elaboration-additional-e  5013
+#autolink_nodes 5013 17 multinuclear Same-Unit  5014
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 13.102 15 { which assigns credit-ratings to bonds and preferred stock;}
+create-a-node-here really 13.120 16 { A.C. Nielsen,}
+create-a-node-here really 13.175 17 { known for its data on television-viewing patterns,}
+create-a-node-here really 13.217 18 { and Yellow-pages publisher Donnelley.}
+autolink_nodes 14 15 satelite-embedded elaboration-additional-e  5012
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5013
+autolink_nodes 5013 5012 multinuclear Same-Unit  5014
+autolink_nodes 5014 18 multinuclear Same-Unit below 5014
+autolink_nodes 5011 5014 satelite elaboration-additional  5015
+collapsed_nodes {5008}
+autolink_nodes 5010 5015 satelite background  5016
+create-a-node-here really 15.62 19 { \n\nLast March, this newspaper reported on widespread allegations }
+#create-a-node-here really 15.147 20 {that the company misled many customers into purchasing more credit-data services }
+#UNDID
+create-a-node-here really 15.159 20 {that the company misled many customers into purchasing more credit-data services than needed.}
+nextSentence really
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5017
+create-a-node-here really 16.70 21 {\nIn June, the company agreed to settle for $18 million several lawsuits}
+create-a-node-here really 16.106 22 { related to its sales practices,}
+create-a-node-here really 16.152 23 { without admitting or denying the charges.}
+nextSentence really
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5018
+autolink_nodes 5018 23 satelite circumstance  5019
+create-a-node-here really 17.57 24 {\nAn investigation by U.S. Postal inspectors is continuing.}
+nextSentence really
+autolink_nodes 5019 24 multinuclear Sequence  5020
+autolink_nodes 5020 5017 multinuclear Sequence below 5020
+collapsed_nodes {5008 5014}
+collapsed_nodes {5008 5014 5015}
+autolink_nodes 5016 5020 satelite elaboration-additional  5021
+create-a-node-here really 19.98 25 { \n\nAmong the insider sales, Charles Raikes, the firm's general counsel, sold 12,281 shares in August,}
+create-a-node-here really 19.151 26 { representing 46% of his holdings in the company.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-additional-e  5022
+create-a-node-here really 20.36 27 {\nHe received $724,579 for the shares,}
+create-a-node-here really 20.114 28 { according to insider filings with the Securities and Exchange Commission.}
+nextSentence really
+autolink_nodes 27 28 satelite attribution  5023
+autolink_nodes 5022 5023 satelite elaboration-additional  5024
+create-a-node-here really 22.116 29 { \n\nJohn C. Holt, an executive vice president and Dun & Bradstreet director, sold 10,000 shares on Aug. 31 for $588,800,}
+create-a-node-here really 22.134 30 { filings show.}
+nextSentence really
+autolink_nodes 29 30 satelite attribution  5025
+create-a-node-here really 23.24 31 {\nHe retains 9,232 shares.}
+nextSentence really
+autolink_nodes 5025 31 satelite elaboration-additional  5026
+create-a-node-here really 25.141 32 { \n\nWilliam H.J. Buchanan, the firm's secretary and associate general counsel, sold 7,000 shares in two separate sales in September for $406,000.}
+nextSentence really
+create-a-node-here really 26.60 33 {\nThe shares represented 66% of his Dun & Bradstreet holdings,}
+create-a-node-here really 26.90 34 { according to the company.}
+nextSentence really
+autolink_nodes 33 34 satelite attribution  5027
+autolink_nodes 32 5027 satelite elaboration-additional  5028
+create-a-node-here really 28.97 35 { \n\nThe other insiders, all senior or executive vice presidents, sold between 2,520 and 6,881 shares,}
+create-a-node-here really 28.152 36 { representing between 8% and 70% of their holdings,}
+create-a-node-here really 28.182 37 { according to SEC filings.}
+nextSentence really
+autolink_nodes 35 36 satelite-embedded elaboration-additional-e  5029
+autolink_nodes 5029 37 satelite attribution  5030
+autolink_nodes 5028 5030 multinuclear List  5031
+autolink_nodes 5031 5026 multinuclear List below 5031
+autolink_nodes 5031 5024 multinuclear List below 5031
+collapsed_nodes {5008 5014 5015 5024}
+collapsed_nodes {5008 5014 5015 5024 5020}
+collapsed_nodes {5008 5014 5015 5024 5020 5004}
+autolink_nodes 5021 5031 satelite elaboration-set-member  5032
+create-a-node-here really 30.79 38 { \n\nDun & Bradstreet's stock price began its recent spiral downward last Wednesday,}
+create-a-node-here really 30.132 39 { when the company reported third-quarter results.}
+nextSentence really
+#autolink_nodes 38 39 satelite temporal-same-time  5033
+#UNDID
+autolink_nodes 38 39 satelite consequence-n  5033
+create-a-node-here really 31.82 40 {\nNet income rose to 83 cents a share from 72 cents a share the year-earlier period.}
+create-a-node-here really 32.86 41 {\nBut analysts focused more on the drop in revenue, to $1.04 billion from $1.07 billion,}
+create-a-node-here really 32.184 42 { reflecting in part a continuing drop in sales of the controversial credit-reporting services.}
+nextSentence really
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5034
+autolink_nodes 5034 40 satelite antithesis  5035
+autolink_nodes 5033 5035 satelite explanation-argumentative  5036
+create-a-node-here really 34.105 43 { \n\nLast Thursday, Merrill Lynch securities analyst Peter Falco downgraded his investment rating on the firm,}
+create-a-node-here really 34.163 44 { according to Dow Jones Professional Investors Report,}
+create-a-node-here really 34.219 45 { citing a slowdown in the credit-reporting business.}
+nextSentence really
+autolink_nodes 43 44 satelite-embedded attribution-e  5037
+autolink_nodes 5037 45 satelite elaboration-additional  5038
+create-a-node-here really 35.68 46 {\nHe cut his rating to a short-term hold from above-average performer }
+create-a-node-here really 35.111 47 {and reduced his 1990 earnings estimate.}
+nextSentence really
+autolink_nodes 46 47 multinuclear List  5039
+autolink_nodes 5038 5039 satelite elaboration-additional  5040
+create-a-node-here really 36.53 48 {\nMr. Falco continues to rank the stock a longterm buy.}
+nextSentence really
+autolink_nodes 5040 48 satelite elaboration-additional  5041
+create-a-node-here really 37.67 49 {\nThe stock slid $1.875 on more than four times average daily volume.}
+nextSentence really
+autolink_nodes 5041 49 satelite consequence-s  5042
+create-a-node-here really 39.42 50 { \n\nThe stock received another blow on Friday,}
+create-a-node-here really 39.93 51 { when Goldman Sachs analyst Eric Philo advised }
+create-a-node-here really 39.173 52 {that investors with short-term horizons should avoid Dun & Bradstreet stock }
+create-a-node-here really 39.225 53 {because it is unlikely to outperform the market.}
+nextSentence really
+autolink_nodes 52 53 satelite reason  5043
+autolink_nodes 51 5043 nucleus attribution  5044
+autolink_nodes 50 5044 satelite explanation-argumentative  5045
+create-a-node-here really 40.24 54 {\nThe stock fell 75 cents.}
+nextSentence really
+autolink_nodes 5045 54 satelite consequence-s  5046
+autolink_nodes 5042 5046 multinuclear List  5047
+autolink_nodes 5034 5047 satelite example below 5048
+create-a-node-here really 42.51 55 { \n\nInsider selling is not unusual at Dun & Bradstreet;}
+create-a-node-here really 42.130 56 { in fact, the recent pace of selling is just about average for the company,}
+create-a-node-here really 42.155 57 { according to figures}
+nextSentence really
+create-a-node-here really 42.210 58 { compiled by Invest/Net, a North Miami, Fla., firm }
+create-a-node-here really 42.277 59 {that specializes in tracking and analyzing SEC insider filings.}
+nextSentence really
+autolink_nodes 58 59 satelite-embedded elaboration-additional-e  5049
+autolink_nodes 57 5049 satelite-embedded elaboration-object-attribute-e  5050
+autolink_nodes 56 5050 satelite attribution  5051
+autolink_nodes 55 5051 satelite elaboration-additional  5052
+create-a-node-here really 44.51 60 { \n\nBut previous sales have often been sales of shares }
+create-a-node-here really 44.102 61 {purchased through the exercise of stock options}
+create-a-node-here really 44.133 62 { and sold six months later,}
+create-a-node-here really 44.157 63 { as soon as allowed,}
+nextSentence really
+create-a-node-here really 45.0 64 { said Robert Gabele, president of Invest/Net.\n}
+autolink_nodes 62 63 satelite circumstance  5053
+autolink_nodes 61 5053 multinuclear Sequence  5054
+autolink_nodes 60 5054 satelite-embedded elaboration-object-attribute-e  5055
+autolink_nodes 5055 64 satelite attribution  5056
+autolink_nodes 5056 5052 satelite antithesis  5057
+create-a-node-here really 45.60 65 {The most recent sales don't appear to be option-related,}
+create-a-node-here really 45.73 66 { he said.}
+nextSentence really
+autolink_nodes 65 66 satelite attribution  5058
+autolink_nodes 5058 5057 satelite background  5059
+collapsed_nodes {5008 5014 5015 5024 5020 5004 5057}
+collapsed_nodes {5008 5014 5015 5024 5020 5004 5057 5031}
+autolink_nodes 5032 5036 satelite elaboration-additional  5060
+collapsed_nodes {5008 5014 5015 5024 5020 5004 5057 5031 5036}
+autolink_nodes 5060 5059 satelite elaboration-additional  5061
+create-a-node-here really 47.14 67 { \n\nTASTY PROFITS:}
+nextSentence really
+create-a-node-here really 47.172 68 { Michael A. Miles, chief executive officer of Philip Morris Cos. ' Kraft General Foods unit, bought 6,000 shares of the company on Sept. 22 for $157 each.}
+nextSentence really
+create-a-node-here really 48.59 69 {\nThe $942,000 purchase raised his holdings to 74,000 shares.}
+nextSentence really
+autolink_nodes 68 69 satelite elaboration-additional  5062
+nextSentence really
+create-a-node-here really 50.40 70 { \n\nThe stock split four-for-one on Oct. 10.}
+create-a-node-here really 51.60 71 {\nMr. Miles's newly purchased shares are now worth $1,068,000,}
+nextSentence really
+#create-a-node-here really 51.121 72 { based on Philip Morris's closing price of $44.50, up 62.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 51.192 72 { based on Philip Morris's closing price of $44.50, up 62.5 cents, in composite trading on the New York Stock Exchange yesterday.}
+nextSentence really
+autolink_nodes 71 72 satelite-embedded elaboration-additional-e  5063
+autolink_nodes 5063 70 satelite result  5064
+autolink_nodes 5064 5062 multinuclear Sequence  5065
+create-a-node-here really 53.31 73 { \n\nA spokesman for Mr. Miles said }
+create-a-node-here really 53.56 74 {he bought the shares }
+create-a-node-here really 53.75 75 {because he felt}
+create-a-node-here really 53.110 76 { they were "a good investment."}
+nextSentence really
+autolink_nodes 75 76 nucleus attribution  5066
+autolink_nodes 74 5066 satelite reason  5067
+autolink_nodes 73 5067 nucleus attribution  5068
+autolink_nodes 5065 5068 satelite elaboration-additional  5069
+create-a-node-here really 53.147 77 { The executive made his purchases}
+create-a-node-here really 53.229 78 { shortly before being named to his current chief executive officer's position;}
+create-a-node-here really 53.295 79 { formerly he was Kraft General Foods' chief operating officer.}
+nextSentence really
+#autolink_nodes 77 78 satelite temporal-after  5070
+#UNDID
+autolink_nodes 77 78 satelite temporal-before  5070
+autolink_nodes 78 79 satelite elaboration-additional  5071
+autolink_nodes 5069 5070 satelite elaboration-additional  5072
+change_constit 5072 SectionText
+change_constit 67 SectionText
+autolink_nodes 67 5072 multinuclear TextualOrganization  5073
+collapsed_nodes {5008 5014 5015 5024 5020 5004 5057 5031 5036 5069}
+create-a-node-here really 55.17 80 { \n\nSHEDDING GLITTER:}
+nextSentence really
+create-a-node-here really 55.156 81 { Two directors of Pegasus Gold Inc., a Spokane, Wash., precious-metals mining firm, sold most of their holdings in the company Aug. 31.}
+nextSentence really
+create-a-node-here really 56.48 82 {\nJohn J. Crabb sold 4,500 shares for $11.13 each,}
+create-a-node-here really 56.96 83 { leaving himself with a stake of 500 shares.}
+nextSentence really
+#autolink_nodes 82 83 satelite elaboration-additional  5074
+#UNDID
+autolink_nodes 82 83 satelite elaboration-additional  5074
+create-a-node-here really 57.20 84 {\nHe received $50,085.}
+autolink_nodes 5074 84 satelite elaboration-additional  5075
+nextSentence really
+nextSentence really
+create-a-node-here really 58.84 85 {\nPeter Kutney sold 5,000 shares, all of his holdings, for $11.38 a share, or $56,900.}
+autolink_nodes 5075 85 multinuclear List  5076
+autolink_nodes 81 5076 satelite elaboration-set-member  5077
+create-a-node-here really 60.53 86 { \n\nGary Straub, corporate counsel for the company, said }
+create-a-node-here really 60.109 87 {the directors sold for "personal financial reasons."}
+nextSentence really
+autolink_nodes 86 87 nucleus attribution  5078
+create-a-node-here really 60.148 88 { Both insiders declined to comment.}
+nextSentence really
+autolink_nodes 5077 5078 satelite elaboration-additional  5079
+autolink_nodes 5079 88 satelite elaboration-additional  5080
+create-a-node-here really 62.87 89 { \n\nOn Wall Street, Merrill Lynch & Co. analyst Daniel A. Roling rates the stock "neutral" }
+create-a-node-here really 62.143 90 {and Drexel Burnham Lambert Inc. lists it as a "buy."}
+nextSentence really
+autolink_nodes 89 90 multinuclear List  5081
+autolink_nodes 5080 5081 satelite elaboration-additional  5082
+create-a-node-here really 62.228 91 { Pegasus Gold "has been on a lot of recommended lists as a junior growth company }
+create-a-node-here really 62.264 92 {stepping into the big leagues," }
+create-a-node-here really 62.354 93 {says Marty McNeill, metals analyst at Dominick & Dominick, a New York investment firm.}
+nextSentence really
+autolink_nodes 91 92 satelite-embedded elaboration-object-attribute-e  5083
+autolink_nodes 5083 93 satelite attribution  5084
+create-a-node-here really 62.380 94 { "It's a good company,}
+create-a-node-here really 62.397 95 { and growing;}
+create-a-node-here really 62.418 96 { there's nothing }
+create-a-node-here really 62.458 97 {that would warrant that it be sold."}
+nextSentence really
+autolink_nodes 96 97 satelite-embedded elaboration-object-attribute-e  5085
+autolink_nodes 94 95 multinuclear List  5086
+autolink_nodes 5085 5086 satelite evaluation-n  5087
+autolink_nodes 5084 5087 satelite elaboration-additional  5088
+collapsed_nodes {5008 5014 5015 5024 5020 5004 5057 5031 5036 5069 5081}
+collapsed_nodes {5008 5014 5015 5024 5020 5004 5057 5031 5036 5069 5081 5078}
+autolink_nodes 5082 5088 satelite elaboration-additional  5089
+nextSentence really
+nextSentence really
+create-a-node-here really 64.105 98 { \n\nYesterday, in composite trading on the American Stock Exchange, Pegasus closed at $10.125, up 12.5 cents.}
+nextSentence really
+collapsed_nodes {5008 5014 5015 5024 5020 5004 5057 5031 5036 5069 5081 5078 5088}
+autolink_nodes 5089 98 satelite elaboration-additional  5090
+change_constit 5090 SectionText
+change_constit 80 SectionTitle
+autolink_nodes 5090 80 multinuclear TextualOrganization  5091
+autolink_nodes 5073 5091 multinuclear Topic-Shift above 5092
+autolink_nodes 5092 5061 multinuclear Topic-Shift below 5092
+collapsed_nodes {5008 5014 5015 5024 5020 5057 5031 5036 5069 5081 5078 5088}
+collapsed_nodes {5008 5014 5015 5024 5020 5057 5031 5036 5069 5081 5078 5088 5004}
+collapsed_nodes {5014 5015 5024 5020 5057 5031 5036 5069 5081 5078 5088 5004}
+collapsed_nodes {5014 5015 5024 5020 5057 5031 5036 5069 5081 5078 5088 5004 5008}
+collapsed_nodes {5024 5020 5057 5031 5036 5069 5081 5078 5088 5004 5008}
+collapsed_nodes {5024 5020 5057 5031 5036 5069 5081 5078 5088 5004 5008 5015}
+collapsed_nodes {5024 5057 5031 5036 5069 5081 5078 5088 5004 5008 5015}
+collapsed_nodes {5024 5057 5031 5036 5069 5081 5078 5088 5004 5008 5015 5020}
+collapsed_nodes {5057 5036 5069 5081 5078 5088 5004 5008 5015 5020}
+collapsed_nodes {5057 5036 5069 5081 5078 5088 5004 5008 5015 5020 5031}
+collapsed_nodes {5057 5069 5081 5078 5088 5004 5008 5015 5020 5031}
+collapsed_nodes {5057 5069 5081 5078 5088 5004 5008 5015 5020 5031 5036}
+collapsed_nodes {5069 5081 5078 5088 5004 5008 5015 5020 5031 5036}
+collapsed_nodes {5069 5081 5078 5088 5004 5008 5015 5020 5031 5036 5052}
+collapsed_nodes {5069 5081 5078 5088 5008 5015 5020 5031 5036 5052}
+collapsed_nodes {5069 5081 5078 5088 5015 5020 5031 5036 5052}
+collapsed_nodes {5069 5081 5078 5088 5020 5031 5036 5052}
+collapsed_nodes {5069 5081 5078 5088 5031 5036 5052}
+collapsed_nodes {5069 5081 5078 5088 5036 5052}
+collapsed_nodes {5069 5081 5078 5088 5052}
+disconnect_node 44 modify
+autolink_nodes 43 44 satelite attribution  5093
+collapsed_nodes {5069 5081 5078 5088}
+collapsed_nodes {5081 5078 5088}
+collapsed_nodes {5081 5088}
+collapsed_nodes {5088}
+collapsed_nodes {}
+collapsed_nodes {5060}
+collapsed_nodes {5060 5072}
+collapsed_nodes {5060}
+collapsed_nodes {}

@@ -1,0 +1,115 @@
+nextSentence really
+create-a-node-here really 2.21 1 {\nProspect Group Inc., }
+create-a-node-here really 2.118 2 {whose recent hostile tender offer for Recognition Equipment Inc. failed for lack of financing,}
+autolink_nodes 1 2 satelite elaboration-additional  5001
+create-a-node-here really 2.198 3 { apparently has gained a measure of control over the troubled company anyway.}
+nextSentence really
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 4.203 4 { \n\nAs part of what a Recognition spokeswoman termed an "amiable agreement," Prospect Group will wind up with control of top management posts and an increased stake in the maker of data management equipment.}
+nextSentence really
+autolink_nodes 5002 4 satelite explanation-argumentative  5003
+create-a-node-here really 6.101 5 { \n\nIn a management restructuring, Thomas L. Ringer resigned as chairman, chief executive and a director,}
+autolink_nodes 4 5 satelite elaboration-additional  5004
+create-a-node-here really 6.151 6 { while Israel Sheinberg resigned as a director.}
+nextSentence really
+autolink_nodes 5 6 multinuclear List  5005
+create-a-node-here really 7.50 7 {\nMr. Sheinberg remains as executive vice president.}
+nextSentence really
+autolink_nodes 5005 7 multinuclear List above 5006
+create-a-node-here really 8.41 8 {\nThomas M. Hurley and Robert A. Vanourek, }
+#autolink_nodes 5006 8 satelite elaboration-additional  5007
+#UNDID
+autolink_nodes 5006 8 multinuclear List below 5006
+create-a-node-here really 8.105 9 {who had been designated to take over Recognition's top spots }
+autolink_nodes 8 9 satelite-embedded elaboration-additional-e  5007
+change_rel 9 elaboration-object-attribute-e
+create-a-node-here really 8.146 10 {had Prospect's tender offer succeeded,}
+autolink_nodes 9 10 satelite condition  5008
+create-a-node-here really 9.0 11 { were named co-chief executives and directors.\n}
+autolink_nodes 5007 11 multinuclear Same-Unit  5009
+create-a-node-here really 9.100 12 {Mr. Hurley was formerly a vice president and general manager of an Avery International division;}
+autolink_nodes 5009 12 satelite background  5010
+create-a-node-here really 9.173 13 { Mr. Vanourek was a former group vice president of Pitney Bowes Inc. }
+autolink_nodes 12 13 multinuclear List  5011
+create-a-node-here really 11.153 14 {\n\nIn addition, the agreement calls for Gilbert H. Lamphere, chairman of Prospect Group's executive committee, to be named chairman of a restructured board }
+autolink_nodes 5006 14 multinuclear List below 5011
+create-a-node-here really 11.206 15 {that will include four new independent directors.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-additional-e  5012
+create-a-node-here really 12.109 16 {\nAlso named to the revised board was Thomas A. Loose, Recognition's senior vice president and general counsel.}
+nextSentence really
+autolink_nodes 5006 16 multinuclear List below 5012
+collapsed_nodes {5006}
+collapsed_nodes {}
+collapsed_nodes {5006}
+create-a-node-here really 14.101 17 { \n\nProspect, a New York-based leveraged buy-out firm, also agreed to invest $15 million in Recognition, }
+autolink_nodes 5006 17 satelite elaboration-additional  5013
+create-a-node-here really 14.176 18 {which in turn agreed to repurchase as much as $20 million of its stock.}
+nextSentence really
+autolink_nodes 17 18 satelite elaboration-additional  5014
+nextSentence really
+create-a-node-here really 15.109 19 {\nThat would increase Prospect's ownership of the company's fully-diluted shares outstanding to 20% from 14.1%.}
+nextSentence really
+autolink_nodes 18 19 satelite explanation-argumentative  5015
+change_rel 19 interpretation-s
+create-a-node-here really 16.87 20 {\nUnder the agreement, Prospect is permitted to increase its stake in Recognition to 30%.}
+nextSentence really
+autolink_nodes 5014 20 satelite elaboration-additional  5016
+create-a-node-here really 17.27 21 {\nBeyond that, Prospect said }
+autolink_nodes 20 21 satelite elaboration-additional  5017
+nextSentence really
+nextSentence really
+create-a-node-here really 17.188 22 {it wouldn't offer to acquire additional shares for less than $11.25 a share during the next year or less than $14.06 a share during the subsequent two years.}
+nextSentence really
+autolink_nodes 21 22 nucleus attribution  5018
+create-a-node-here really 19.21 23 { \n\nRecognition also said}
+autolink_nodes 5018 23 multinuclear List  5019
+create-a-node-here really 19.89 24 { it obtained a commitment from Chemical Bank and Bank of Boston }
+autolink_nodes 23 24 nucleus attribution  5020
+create-a-node-here really 19.179 25 {to convert an estimated $18 million in bank debt to a new, 24-month secured term loan }
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e below 5021
+create-a-node-here really 19.231 26 {to be repaid through the sale of certain assets.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5022
+create-a-node-here really 21.28 27 { \n\nIn August, Recognition said }
+#autolink_nodes 5019 27 satelite elaboration-additional  5023
+#UNDID
+autolink_nodes 5003 27 satelite background  5023
+create-a-node-here really 21.110 28 {it was in violation of certain terms of its debt agreements with bank lenders }
+autolink_nodes 27 28 nucleus attribution  5024
+create-a-node-here really 21.181 29 {because of a $3.9 million loss for the third quarter ended July 31.}
+autolink_nodes 28 29 multinuclear Cause-Result  5025
+create-a-node-here really 22.74 30 {\nThe company attributed the loss to declining revenue and litigation costs }
+autolink_nodes 5024 30 satelite explanation-argumentative  5026
+create-a-node-here really 22.195 31 {relating to criminal charges against the company and two former executives, William G. Moore Jr. and Robert W. Reedy.}
+nextSentence really
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5027
+create-a-node-here really 23.91 32 {\nThe former executives were indicted last October on charges of fraud, theft and conspiracy }
+autolink_nodes 31 32 satelite elaboration-additional  5028
+create-a-node-here really 23.129 33 {related to efforts by the company }
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5029
+create-a-node-here really 23.181 34 {to win $400 million in Postal Service contracts.}
+nextSentence really
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5030
+create-a-node-here really 25.27 35 { \n\nRecognition Equipment said }
+#autolink_nodes 5026 35 satelite elaboration-additional  5031
+#UNDID
+autolink_nodes 5026 35 satelite elaboration-additional  5031
+create-a-node-here really 25.141 36 {it expected to put the agreement with Prospect to a vote of its stockholders at a special meeting in January. }
+autolink_nodes 35 36 nucleus attribution  5032
+nextSentence really
+create-a-node-here really 27.84 37 {\n\nIn New York Stock Exchange composite trading, Recognition rose 87.5 cents to $6.625.}
+nextSentence really
+autolink_nodes 5032 37 satelite elaboration-additional  5033
+nextSentence really
+create-a-node-here really 28.73 38 {\nProspect slipped 25 cents to $10.50 in national over-the-counter trading.}
+nextSentence really
+autolink_nodes 37 38 multinuclear List  5034
+collapsed_nodes {5006 5033}
+collapsed_nodes {5006 5033 5031}
+collapsed_nodes {5006 5033 5031 5023}
+collapsed_nodes {}
+disconnect_node 2 disconnect
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5035
+collapsed_nodes {5023}
+collapsed_nodes {}

@@ -1,0 +1,253 @@
+nextSentence really
+create-a-node-here really 2.84 1 {\nProbably the most clear-cut Soviet violation, for example, is the Krasnoyarsk radar.}
+nextSentence really
+#create-a-node-here really 2.218 2 { -- "Arms Control Reality," Nov. 20, 1984, the first of some 20 Journal editorials saying that Krasnoyarsk violated the ABM treaty.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 2.169 2 { -- "Arms Control Reality," Nov. 20, 1984, the first of some 20 Journal editorials}
+create-a-node-here really 2.180 3 { saying }
+create-a-node-here really 2.224 4 {that Krasnoyarsk violated the ABM treaty.}
+autolink_nodes 3 4 nucleus attribution  5001
+autolink_nodes 2 5001 satelite-embedded elaboration-object-attribute-e  5002
+change_constit 1 Text
+change_constit 5002 Source
+autolink_nodes 5002 1 multinuclear TextualOrganization  5003
+create-a-node-here really 4.65 5 { \n\n-- "Whether the installation is for early warning or space track,}
+create-a-node-here really 4.97 6 { it clearly is not deployed,"}
+create-a-node-here really 4.120 7 { the lawmakers said.}
+nextSentence really
+autolink_nodes 6 5 satelite circumstance  5004
+autolink_nodes 5004 7 satelite attribution  5005
+create-a-node-here really 4.196 8 { "Thus we judge it to be not a violation of the ABM treaty at this time."}
+nextSentence really
+#autolink_nodes 5005 8 satelite interpretation-s  5006
+#UNDID
+autolink_nodes 5005 8 nucleus interpretation-n  5006
+create-a-node-here really 4.365 9 { The delegation included a reporter from the New York Times, aides to Sen. Edward M. Kennedy and Rep. Les AuCoin, and Natural Resources Defense Council staff members.}
+nextSentence really
+autolink_nodes 5006 9 satelite elaboration-additional  5007
+create-a-node-here really 4.407 10 { -- The Washington Post, Sept. 9, 1987.}
+nextSentence really
+change_constit 10 
+change_constit 5007 Text
+change_constit 10 Source
+#autolink_nodes 10 5007 multinuclear TextualOrganization  5008
+#UNDID
+change_constit 5007 Text
+change_constit 10 Source
+autolink_nodes 10 5007 multinuclear TextualOrganization  5008
+create-a-node-here really 6.72 11 { \n\n-- The U.S.S.R. has taken unprecedented unilateral measures of openness,}
+create-a-node-here really 6.125 12 { by giving American representatives a possibility}
+create-a-node-here really 6.239 13 { to inspect the building site of the Krasnoyarsk radar as well as radar vans in the areas of Gomel and Moscow,}
+create-a-node-here really 6.271 14 { so as to see for themselves}
+create-a-node-here really 6.363 15 { that there are no violations of the ABM treaty of 1972 on the part of the Soviet Union.}
+autolink_nodes 14 15 nucleus attribution  5009
+autolink_nodes 13 5009 satelite purpose  5010
+autolink_nodes 12 5010 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 11 5011 satelite means  5012
+create-a-node-here really 6.446 16 { -- Letter from Eduard Shevardnadze to U.N. Secretary-General Perez de Cuellar,}
+create-a-node-here really 6.483 17 { reported in Tass, June 10, 1988.}
+nextSentence really
+#autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5013
+#UNDID
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5013
+change_constit 5012 Text
+change_constit 5013 Source
+autolink_nodes 5013 5012 multinuclear TextualOrganization  5014
+collapsed_nodes {5014}
+collapsed_nodes {}
+create-a-node-here really 8.87 18 { \n\n-- The construction of this station equal in size to the Egyptian pyramids constituted,}
+create-a-node-here really 8.110 19 { I say it directly,}
+create-a-node-here really 8.140 20 { a clear violation of ABM.}
+autolink_nodes 18 19 satelite-embedded attribution-e  5015
+autolink_nodes 20 5015 multinuclear Same-Unit  5016
+create-a-node-here really 8.183 21 { -- Eduard Shevardnadze, Oct. 23, 1989.}
+nextSentence really
+change_constit 5016 Text
+change_constit 21 Source
+autolink_nodes 21 5016 multinuclear TextualOrganization  5017
+create-a-node-here really 10.12 22 { \n\nWe're happy,}
+create-a-node-here really 10.26 23 { we guess,}
+create-a-node-here really 10.101 24 { to receive confirmation of the Krasnoyarsk violation from the Soviets,}
+create-a-node-here really 10.151 25 { five years after we started writing about it.}
+nextSentence really
+autolink_nodes 24 25 satelite temporal-after  5018
+autolink_nodes 22 23 satelite-embedded attribution-e  5019
+autolink_nodes 5018 5019 multinuclear Same-Unit  5020
+create-a-node-here really 11.53 26 {\nPerhaps even the American apologists will now accede.}
+nextSentence really
+autolink_nodes 5020 26 satelite hypothetical  5021
+autolink_nodes 5003 5008 multinuclear List above 5022
+autolink_nodes 5022 5014 multinuclear List below 5022
+autolink_nodes 5022 5017 multinuclear List below 5022
+autolink_nodes 5021 5022 satelite circumstance  5023
+create-a-node-here really 12.17 27 {\nWithout question,}
+create-a-node-here really 12.95 28 { something intriguing is going on in the policy chambers of the Politburo.}
+nextSentence really
+autolink_nodes 27 28 nucleus comment  5024
+#create-a-node-here really 13.30 29 {\nAs it bids for new agreements,}
+#UNDID
+create-a-node-here really 13.85 29 {\nAs it bids for new agreements, new loans and indeed admission to the civilized world,}
+create-a-node-here really 13.127 30 { the Soviet government has recognized }
+create-a-node-here really 13.160 31 {it has a credibility problem.}
+autolink_nodes 30 31 nucleus attribution  5025
+autolink_nodes 5025 29 satelite circumstance  5026
+create-a-node-here really 14.48 32 {\nSo after 70 years, it is confessing the obvious,}
+create-a-node-here really 14.94 33 { hoping to be believed about other things.}
+nextSentence really
+#autolink_nodes 32 33 satelite consequence-s  5027
+#UNDID
+autolink_nodes 32 33 satelite elaboration-additional  5027
+#autolink_nodes 5027 5026 satelite reason  5028
+#UNDID
+autolink_nodes 5027 5026 satelite explanation-argumentative  5028
+#autolink_nodes 5024 5028 satelite elaboration-additional  5029
+#autolink_nodes 5029 5023 satelite circumstance  5030
+#create-a-node-here really 16.16 34 { \n\nIt's not enough.}
+#autolink_nodes 5030 34 nucleus concession  5031
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5024 5028 satelite elaboration-additional  5029
+autolink_nodes 5029 5023 satelite circumstance  5030
+create-a-node-here really 16.16 34 { \n\nIt's not enough.}
+autolink_nodes 5030 34 nucleus concession  5031
+create-a-node-here really 17.35 35 {\nIf the Soviets want to be believed,}
+create-a-node-here really 17.113 36 { they need to start telling the truth about more than the totally obvious.}
+nextSentence really
+autolink_nodes 35 36 nucleus condition  5032
+autolink_nodes 5031 5032 satelite explanation-argumentative  5033
+create-a-node-here really 18.68 37 {\nOur own test of "glasnost's" authenticity would be a Soviet decision}
+create-a-node-here really 18.191 38 { to open itself to a complete international examination of one of the most troubling mysteries in U.S.-Soviet relations}
+create-a-node-here really 18.278 39 { -- the reported 1979 anthrax outbreak at a Soviet military facility in Sverdlovsk.}
+nextSentence really
+autolink_nodes 38 39 satelite-embedded elaboration-object-attribute-e  5034
+autolink_nodes 37 5034 satelite-embedded elaboration-object-attribute-e  5035
+autolink_nodes 5035 5033 satelite problem-solution-n  5036
+create-a-node-here really 20.193 40 { \n\nThe U.S. government has never waivered in its assessment of this incident as an accident at a biological weapons facility there, and hence a violation of the 1972 Biological Weapons Convention.}
+nextSentence really
+create-a-node-here really 21.55 41 {\nThe Pentagon's recently issued "Soviet Military Power,"}
+create-a-node-here really 21.101 42 { though in general adopting a softer line,}
+create-a-node-here really 21.141 43 { repeated the Sverdlovsk assessment.}
+nextSentence really
+#autolink_nodes 41 42 satelite-embedded antithesis-e  5037
+#UNDID
+autolink_nodes 42 43 nucleus-embedded antithesis-e  5037
+autolink_nodes 5037 41 multinuclear Same-Unit  5038
+create-a-node-here really 22.67 44 {\nIt also was detailed in Congressional testimony this past February:}
+create-a-node-here really 22.164 45 { An explosion at the Microbiology and Virology Institute in Sverdlovsk released anthrax germs}
+create-a-node-here really 22.212 46 { that caused a significant number of deaths.}
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 44 5039 nucleus attribution  5040
+autolink_nodes 5040 5038 multinuclear List  5041
+autolink_nodes 40 5041 satelite evidence  5042
+autolink_nodes 5036 5042 satelite background  5043
+create-a-node-here really 24.76 47 { \n\nSince Mr. Shevardnadze did not address this topic before the Supreme Soviet,}
+create-a-node-here really 24.125 48 { the Soviet Union's official position remains}
+create-a-node-here really 24.182 49 { that the anthrax deaths were caused by tainted meat.}
+nextSentence really
+autolink_nodes 48 49 nucleus attribution  5044
+autolink_nodes 47 5044 nucleus conclusion  5045
+create-a-node-here really 25.19 50 {\nWe doubt this claim}
+create-a-node-here really 25.81 51 { just as we doubted Mr. Shevardnadze's assurance last year}
+create-a-node-here really 25.133 52 { that Krasnoyarsk didn't violate the ABM treaty.}
+nextSentence really
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5046
+#autolink_nodes 50 5046 satelite analogy  5047
+#UNDID
+autolink_nodes 50 5046 satelite analogy  5047
+create-a-node-here really 26.99 53 {\nAnd just as we did not believe the tendentious claims of the Congressmen and arms-control advocates}
+create-a-node-here really 26.128 54 { who visited Krasnoyarsk,}
+create-a-node-here really 26.229 55 { we are in no way persuaded by the assent to the tainted-meat theory by a U.S. team of scientists}
+create-a-node-here really 26.291 56 { who met with Soviet counterparts in Washington last year.}
+#autolink_nodes 55 56 satelite-embedded elaboration-object-attribute-e  5048
+#UNDID
+autolink_nodes 55 56 satelite-embedded elaboration-object-attribute-e  5048
+autolink_nodes 53 54 satelite-embedded elaboration-object-attribute-e  5049
+autolink_nodes 5048 5049 satelite analogy  5050
+autolink_nodes 5047 5050 satelite elaboration-additional  5051
+autolink_nodes 5051 5045 satelite antithesis  5052
+create-a-node-here really 28.78 57 { \n\nThe Soviets' explanation is that the anthrax came from one lot of animal feed }
+create-a-node-here really 28.112 58 {made from the bones of cattle }
+create-a-node-here really 28.135 59 {that grazed on soil}
+create-a-node-here really 28.188 60 { that was naturally infected with anthrax spores.}
+nextSentence really
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5053
+autolink_nodes 58 5053 satelite-embedded elaboration-object-attribute-e  5054
+autolink_nodes 57 5054 satelite-embedded elaboration-object-attribute-e  5055
+create-a-node-here really 29.26 61 {\nHarvard's Matthew Meselson}
+create-a-node-here really 29.38 62 { -- who }
+create-a-node-here really 29.49 63 {we read}
+create-a-node-here really 29.72 64 { has sold something}
+create-a-node-here really 29.124 65 { called the "scientific community" on the notion}
+create-a-node-here really 29.234 66 { that "yellow rain" attacks on the Laotian Hmong were in fact the result of fecal showers by giant bees --}
+create-a-node-here really 29.296 67 { found the Soviet anthrax scenario "completely plausible."}
+nextSentence really
+autolink_nodes 62 63 satelite-embedded attribution-e  5056
+autolink_nodes 65 66 satelite-embedded elaboration-object-attribute-e  5057
+autolink_nodes 64 5057 satelite-embedded elaboration-object-attribute-e  5058
+autolink_nodes 5058 5056 multinuclear Same-Unit  5059
+autolink_nodes 61 5059 satelite-embedded elaboration-additional-e  5060
+autolink_nodes 67 5060 multinuclear Same-Unit  5061
+autolink_nodes 5055 5061 satelite elaboration-additional  5062
+create-a-node-here really 31.20 68 { \n\nWe don't believe it.}
+nextSentence really
+create-a-node-here really 32.32 69 {\nAnd we certainly do not believe }
+create-a-node-here really 32.132 70 {that Mr. Gorbachev or any of his emissaries yet deserve to have the West take their word for it.}
+nextSentence really
+autolink_nodes 69 70 nucleus attribution-n  5063
+autolink_nodes 68 5063 satelite elaboration-additional  5064
+autolink_nodes 5064 5062 satelite antithesis  5065
+collapsed_nodes {5052}
+collapsed_nodes {}
+collapsed_nodes {5062}
+collapsed_nodes {5062 5050}
+autolink_nodes 5052 5065 satelite elaboration-additional  5066
+create-a-node-here really 33.113 71 {\nSverdlovsk is a large gray cloud over glasnost and indeed over the legitimacy of the arms-control process itself.}
+nextSentence really
+autolink_nodes 5066 71 nucleus interpretation-n  5067
+create-a-node-here really 35.96 72 { \n\nThe U.S. government's Sverdlovsk complaint, as with Krasnoyarsk, is no mere political posturing.}
+nextSentence really
+create-a-node-here really 36.70 73 {\nBiological weapons violations have figured little in political debate,}
+create-a-node-here really 36.149 74 { and indeed have not been pressed vigorously enough by the U.S. government.}
+nextSentence really
+autolink_nodes 73 74 multinuclear List  5068
+autolink_nodes 72 5068 satelite background  5069
+create-a-node-here really 37.54 75 {\nBut the stated U.S. position is detailed and specific,}
+create-a-node-here really 37.121 76 { and the prospect of biological warfare is profoundly chilling.}
+nextSentence really
+autolink_nodes 75 76 multinuclear List  5070
+#autolink_nodes 5069 5070 satelite explanation-argumentative  5071
+#UNDID
+autolink_nodes 5069 5070 satelite elaboration-additional  5071
+create-a-node-here really 39.56 77 { \n\nThe Soviets should be willing to set in motion a process}
+create-a-node-here really 39.98 78 { that would allow them to acknowledge }
+create-a-node-here really 39.145 79 {that Sverdlovsk violated the 1972 agreement}
+create-a-node-here really 39.224 80 { or, alternatively, that would give U.S. specialists reasonable confidence }
+create-a-node-here really 39.269 81 {that this was a wholly civilian accident.}
+autolink_nodes 80 81 satelite-embedded elaboration-object-attribute-e  5072
+#autolink_nodes 79 5072 multinuclear Disjunction  5073
+#UNDID
+autolink_nodes 78 79 nucleus attribution  5073
+autolink_nodes 5073 5072 multinuclear Disjunction  5074
+autolink_nodes 77 5074 satelite-embedded elaboration-object-attribute-e  5075
+create-a-node-here really 40.19 82 {\nUntil that happens,}
+create-a-node-here really 40.80 83 { glasnost cannot begin to deserve the kind of credibility}
+create-a-node-here really 40.149 84 { Mr. Shevardnadze was bidding for with his confessions on Monday.}
+nextSentence really
+autolink_nodes 83 84 satelite-embedded elaboration-object-attribute-e  5076
+autolink_nodes 5076 82 satelite condition  5077
+autolink_nodes 5075 5077 satelite evaluation-s  5078
+autolink_nodes 5078 5071 multinuclear Contrast  5079
+autolink_nodes 5079 5067 satelite circumstance  5080
+collapsed_nodes {5062 5050 5067}
+collapsed_nodes {5062 5050 5067 5042}
+autolink_nodes 5043 5080 satelite elaboration-additional  5081
+collapsed_nodes {5062 5050 5067 5042 5078}
+collapsed_nodes {5062 5050 5067 5042 5078 5033}
+collapsed_nodes {5062 5050 5067 5042 5078}
+collapsed_nodes {5062 5050 5067 5078}
+collapsed_nodes {5078}
+collapsed_nodes {}

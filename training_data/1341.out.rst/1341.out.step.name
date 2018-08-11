@@ -1,0 +1,38 @@
+nextSentence really
+create-a-node-here really 2.25 1 {\nBRISTOL-MYERS SQUIBB Co. }
+create-a-node-here really 2.42 2 {(New York) -- }
+create-a-node-here really 2.170 3 {Gerald C. Beddall, 47 years old, was named president of the Clairol division of this pharmaceuticals and health-care company.}
+nextSentence really
+create-a-node-here really 3.35 4 {\nHe succeeds C. Benjamin Brooks Jr.,}
+create-a-node-here really 4.0 5 { who will retire Nov. 1.\n}
+create-a-node-here really 4.40 6 {Mr. Brooks declined to give his age, }
+create-a-node-here really 4.55 7 {but he said }
+create-a-node-here really 4.93 8 {his leaving is a normal retirement.}
+nextSentence really
+create-a-node-here really 5.74 9 {\nMr. Beddall had been executive vice president of the division since April.}
+nextSentence really
+create-a-node-here really 6.9 10 {\nClairol, }
+create-a-node-here really 6.49 11 {which makes hair and skin products, }
+create-a-node-here really 6.136 12 {was a division of Bristol-Myers Co. before that company's merger with Squibb Corp. }
+autolink_nodes 3 4 satelite elaboration-additional  5001
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 5 6 satelite elaboration-additional  5003
+autolink_nodes 6 7 satelite elaboration-additional  5004
+autolink_nodes 7 8 nucleus attribution  5005
+autolink_nodes 5001 9 satelite background  5006
+#autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5007
+#UNDID
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 5007 12 multinuclear Same-Unit  5008
+autolink_nodes 5006 5008 satelite background  5009
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5010
+autolink_nodes 5010 5009 multinuclear TextualOrganization  5011
+change_constit 5009 Text
+change_constit 5010 Heading
+disconnect_node 2 disconnect
+disconnect_node 5009 disconnect
+autolink_nodes 1 2 multinuclear TextualOrganization  5012
+autolink_nodes 5012 5009 multinuclear TextualOrganization below 5012
+change_constit 1 Source
+change_constit 2 Point-of-Origin
+change_constit 5009 Text

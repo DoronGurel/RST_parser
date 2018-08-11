@@ -1,0 +1,31 @@
+nextSentence really
+create-a-node-here really 2.8 1 {\nA group }
+create-a-node-here really 2.134 2 {including Gene E. Phillips, former chairman of Southmark Corp., and William S. Friedman, former vice chairman of Southmark,}
+#autolink_nodes 1 2 satelite-embedded elaboration-part-whole-e  5001
+#UNDID
+autolink_nodes 1 2 satelite-embedded example-e  5001
+create-a-node-here really 2.199 3 { lowered its stake in the Dallas real estate concern to 7.7%, }
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 2.268 4 {according to a filing with the Securities and Exchange Commission.}
+nextSentence really
+autolink_nodes 5002 4 satelite attribution  5003
+create-a-node-here really 4.15 5 { \n\nThe group said }
+autolink_nodes 5003 5 satelite elaboration-additional  5004
+nextSentence really
+create-a-node-here really 4.117 6 {it sold 455,410 Southmark common shares from Sept. 5 to Oct. 5 for 18.75 cents to 25 cents a share.}
+nextSentence really
+autolink_nodes 5 6 nucleus attribution  5005
+create-a-node-here really 6.16 7 { \n\nThe filing said }
+autolink_nodes 5004 7 satelite elaboration-additional  5006
+create-a-node-here really 6.74 8 {the group continues to hold 3,481,887 remaining shares.}
+nextSentence really
+autolink_nodes 7 8 nucleus attribution  5007
+collapsed_nodes {5006}
+collapsed_nodes {}
+change_rel 2 elaboration-set-member-e
+collapsed_nodes {5006}
+collapsed_nodes {}
+disconnect_node 2 disconnect
+autolink_nodes 5001 2 satelite-embedded elaboration-set-member-e  5008
+collapsed_nodes {5006}
+collapsed_nodes {}

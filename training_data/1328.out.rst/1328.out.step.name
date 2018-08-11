@@ -1,0 +1,388 @@
+nextSentence really
+create-a-node-here really 2.10 1 {\nManville, }
+create-a-node-here really 2.44 2 {having rid itself of asbestos, }
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+create-a-node-here really 2.116 3 {now sells fiberglass, forest products, minerals and industrial goods.}
+nextSentence really
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 3.21 4 {\nHeady stuff it's not.}
+nextSentence really
+autolink_nodes 5002 4 satelite evaluation-s  5003
+create-a-node-here really 5.37 5 { \n\nBut Manville's ownership is unusual, }
+autolink_nodes 5003 5 nucleus antithesis  5004
+create-a-node-here really 5.80 6 {and it has caught the eye of some canny }
+create-a-node-here really 5.101 7 {-- and patient -- }
+autolink_nodes 6 7 satelite-embedded elaboration-additional-e  5005
+create-a-node-here really 5.114 8 {investors.}
+nextSentence really
+autolink_nodes 5005 8 multinuclear Same-Unit  5006
+autolink_nodes 5 5006 satelite consequence-s below 5007
+create-a-node-here really 6.26 9 {\nThe Denver-based concern, }
+create-a-node-here really 6.91 10 {which emerged from bankruptcy-law proceedings late last year, }
+autolink_nodes 9 10 satelite-embedded elaboration-additional-e  5008
+create-a-node-here really 6.158 11 {is controlled by the Manville Personal Injury Settlement Trust.}
+nextSentence really
+autolink_nodes 5008 11 multinuclear Same-Unit  5009
+create-a-node-here really 7.11 12 {\nThe trust, }
+create-a-node-here really 7.76 13 {which owns 80% of Manville's stock on a fully diluted basis, }
+autolink_nodes 12 13 satelite-embedded elaboration-additional-e  5010
+create-a-node-here really 7.107 14 {is a separate legal entity }
+autolink_nodes 5010 14 multinuclear Same-Unit  5011
+create-a-node-here really 7.157 15 {that is settling claims with asbestos victims.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 5009 5011 satelite elaboration-additional  5013
+autolink_nodes 5007 5013 satelite elaboration-general-specific below 5014
+create-a-node-here really 9.39 16 { \n\nWhen and if the trust runs out of cash }
+create-a-node-here really 9.81 17 {-- which seems increasingly likely -- }
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5015
+create-a-node-here really 9.136 18 {it will need to convert its Manville stock to cash.}
+nextSentence really
+disconnect_node 4 modify
+autolink_nodes 5002 4 satelite comment  5016
+autolink_nodes 5015 18 nucleus contingency  5017
+disconnect_node 5015 modify
+autolink_nodes 18 5015 satelite condition  5018
+create-a-node-here really 10.21 19 {\nBut as an 80% owner, }
+create-a-node-here really 10.78 20 {if it tried to sell much of its stock in the market, }
+create-a-node-here really 10.130 21 {it would likely depress the price of its shares.}
+nextSentence really
+autolink_nodes 20 21 nucleus condition  5019
+autolink_nodes 19 5019 multinuclear Same-Unit  5020
+disconnect_node 20 modify
+autolink_nodes 21 20 satelite-embedded condition-e  5021
+autolink_nodes 5018 5020 multinuclear Evaluation  5022
+disconnect_node 5020 modify
+autolink_nodes 5018 5020 multinuclear Contrast  5023
+create-a-node-here really 12.19 22 { \n\nSome investors say }
+create-a-node-here really 12.46 23 {there is a good chance }
+autolink_nodes 22 23 nucleus attribution  5024
+create-a-node-here really 12.165 24 {that the trust will, instead, seek to convert the company's shares to cash, in some sort of friendly restructuring }
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e below 5025
+create-a-node-here really 12.224 25 {that wouldn't involve just dumping stock on the market.}
+nextSentence really
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 5023 5024 multinuclear Problem-Solution above 5027
+create-a-node-here really 14.50 26 { \n\n"Their principal asset is Manville common stock," }
+create-a-node-here really 14.73 27 {says Jeffrey Halis,}
+autolink_nodes 26 27 satelite attribution  5028
+create-a-node-here really 14.124 28 { who runs Sabre Associates, an investment fund }
+autolink_nodes 27 28 satelite-embedded elaboration-additional-e  5029
+create-a-node-here really 14.154 29 {that owns Manville shares.}
+nextSentence really
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5030
+create-a-node-here really 14.183 30 { "If they tried to sell, }
+create-a-node-here really 14.220 31 {they'd be chasing their own tail.}
+nextSentence really
+autolink_nodes 30 31 nucleus condition  5031
+autolink_nodes 5028 5031 satelite comment  5032
+autolink_nodes 5027 5032 satelite explanation-argumentative  5033
+create-a-node-here really 15.45 32 {\nWhat makes the most sense is to find someone }
+create-a-node-here really 15.84 33 {who wants to buy the whole company }
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5034
+create-a-node-here really 15.131 34 {or cause a recapitalization of all shares."}
+nextSentence really
+autolink_nodes 33 34 multinuclear Disjunction  5035
+autolink_nodes 5032 5034 satelite interpretation-s  5036
+create-a-node-here really 17.79 35 { \n\nThe trust isn't commenting on when it might need to liquefy its Manville stock.}
+nextSentence really
+create-a-node-here really 18.97 36 {\nHowever, the trust's cash flow from investments is far short of its payments to asbestos victims.}
+nextSentence really
+create-a-node-here really 19.84 37 {\nIts cash and liquid securities fell by $338 million in the first six months of 1989.}
+nextSentence really
+autolink_nodes 36 37 multinuclear List  5037
+#autolink_nodes 35 5037 nucleus antithesis  5038
+#disconnect_node 5036 disconnect
+#autolink_nodes 5024 5036 satelite explanation-argumentative  5039
+#disconnect_node 35 modify
+#autolink_nodes 35 35 multinuclear Contrast  5040
+#UNDID
+#autolink_nodes 35 35 multinuclear Contrast  5040
+#UNDID
+#autolink_nodes 35 35 multinuclear Contrast  5040
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 35 5037 multinuclear Contrast  5038
+create-a-node-here really 21.47 38 { \n\nThe trust also will receive $75 million a year }
+create-a-node-here really 21.68 39 {starting in 1991 }
+disconnect_node 5036 disconnect
+autolink_nodes 5024 5036 satelite explanation-argumentative  5039
+autolink_nodes 38 39 satelite-embedded contingency-e  5040
+create-a-node-here really 21.82 40 {on a bond }
+autolink_nodes 5040 40 multinuclear Same-Unit  5041
+create-a-node-here really 22.0 41 {it holds from Manville.\n}
+autolink_nodes 40 41 satelite-embedded elaboration-object-attribute-e  5042
+create-a-node-here really 22.9 42 {And, }
+create-a-node-here really 22.32 43 {beginning in 1992, }
+create-a-node-here really 22.107 44 {it will have a claim on as much as 20% of Manville's annual net income.}
+nextSentence really
+#autolink_nodes 43 44 satelite-embedded temporal-same-time-e  5043
+#disconnect_node 39 modify
+#autolink_nodes 38 39 satelite-embedded circumstance-e  5044
+#disconnect_node 44 modify
+#autolink_nodes 43 44 satelite-embedded circumstance-e  5045
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 39 modify
+#autolink_nodes 38 39 satelite-embedded circumstance-e  5043
+#UNDID
+#autolink_nodes 43 39 nucleus-embedded circumstance-e  5043
+#UNDID
+#autolink_nodes 43 39 nucleus-embedded circumstance-e  5043
+#UNDID
+#autolink_nodes 44 39 satelite-embedded circumstance-e  5043
+#UNDID
+autolink_nodes 38 39 satelite-embedded circumstance-e  5043
+autolink_nodes 43 44 nucleus-embedded circumstance-e  5044
+autolink_nodes 42 5044 multinuclear Same-Unit  5045
+autolink_nodes 5041 5045 multinuclear Sequence above 5046
+create-a-node-here really 24.0 45 {\nEven so, the trust would seem to be facing a cash crunch.\n}
+autolink_nodes 5046 45 multinuclear Contrast above 5047
+create-a-node-here really 24.136 46 {As of June 30, it had settled only about 15,000 of the 81,000 received claims from asbestos victims, for an average of $40,424 each.}
+nextSentence really
+autolink_nodes 45 46 satelite explanation-argumentative  5048
+create-a-node-here really 24.177 47 { (The average should drop over time, }
+create-a-node-here really 24.238 48 {since the most expensive claims are being settled first).}
+nextSentence really
+autolink_nodes 47 48 satelite explanation-argumentative  5049
+autolink_nodes 46 5049 satelite hypothetical  5050
+create-a-node-here really 25.70 49 {\nAnd as of midyear, settled but unpaid claims amounted to $136 million }
+create-a-node-here really 25.160 50 {-- more than half the trust's total of $268 million in cash and marketable securities.}
+nextSentence really
+autolink_nodes 49 50 satelite restatement  5051
+autolink_nodes 5050 5051 multinuclear List  5052
+create-a-node-here really 25.224 51 { "At some point, we're going to need an infusion of funds," }
+create-a-node-here really 25.261 52 {a person close to the trust says.}
+nextSentence really
+autolink_nodes 51 52 satelite attribution  5053
+autolink_nodes 5048 5053 satelite comment  5054
+autolink_nodes 5039 5038 satelite elaboration-additional  5055
+create-a-node-here really 27.66 53 { \n\nEven before then, the trust may be eager to unload Manville stock.}
+nextSentence really
+create-a-node-here really 28.27 54 {\nIt doesn't pay a dividend, }
+create-a-node-here really 28.59 55 {and this trust needs income.}
+nextSentence really
+autolink_nodes 54 55 multinuclear List  5056
+autolink_nodes 53 5056 nucleus temporal-before  5057
+#create-a-node-here really 29.40 56 {\nMoreover, with 88% of its assets tied up}
+#UNDID
+disconnect_node 53 disconnect
+autolink_nodes 53 5056 satelite explanation-argumentative  5058
+create-a-node-here really 29.33 56 {\nMoreover, with 88% of its assets }
+create-a-node-here really 29.58 57 {tied up in Manville, }
+autolink_nodes 56 57 satelite-embedded elaboration-object-attribute-e  5059
+create-a-node-here really 29.109 58 {the trust is badly in need of diversification. }
+autolink_nodes 5059 58 multinuclear Same-Unit  5060
+autolink_nodes 5056 5060 satelite elaboration-additional  5061
+create-a-node-here really 29.172 59 {"Obviously, a diversified portfolio would have less risk," }
+create-a-node-here really 29.211 60 {the person close to the trust says.}
+nextSentence really
+autolink_nodes 59 60 satelite attribution  5062
+autolink_nodes 5060 5062 satelite interpretation-s  5063
+create-a-node-here really 31.49 61 { \n\nManville itself doesn't rule out a restructuring.}
+nextSentence really
+autolink_nodes 5038 5047 satelite elaboration-additional  5064
+autolink_nodes 5064 5058 satelite hypothetical  5065
+create-a-node-here really 32.72 62 {\nThough the ink is barely dry on its new, post-bankruptcy law structure, }
+#create-a-node-here really 32.137 63 {Bill Bullock, Manville's head of investor relations, says the}
+#autolink_nodes 62 63 satelite attribution  5066
+#UNDID
+#UNDID
+create-a-node-here really 32.134 63 {Bill Bullock, Manville's head of investor relations, says }
+autolink_nodes 62 63 nucleus concession  5066
+create-a-node-here really 32.175 64 {the company is continually pondering }
+autolink_nodes 63 64 nucleus attribution  5067
+#create-a-node-here really 33.0 65 {"whether there is a better way to be structured.\n}
+#UNDID
+create-a-node-here really 32.210 65 {"whether there is a better way }
+autolink_nodes 64 65 nucleus attribution  5068
+create-a-node-here really 32.231 66 {to be structured.}
+autolink_nodes 65 66 satelite-embedded elaboration-object-attribute-e below 5069
+create-a-node-here really 33.14 67 {\nWe understand }
+create-a-node-here really 33.90 68 {that the trust is ultimately going to need to sell some of our shares," }
+autolink_nodes 67 68 nucleus attribution  5070
+create-a-node-here really 33.102 69 {he says.}
+nextSentence really
+autolink_nodes 5070 69 satelite attribution  5071
+autolink_nodes 5066 5071 satelite elaboration-additional  5072
+create-a-node-here really 35.74 70 { \n\nOf course, one option would be for Manville to buy out the trust's shares }
+create-a-node-here really 35.134 71 {-- which would do little to benefit public stockholders.}
+nextSentence really
+autolink_nodes 70 71 satelite interpretation-s  5073
+create-a-node-here really 36.105 72 {\nBut the trust, in most cases, is forbidden from seeking a buyer for only its shares before November 1993.}
+nextSentence really
+autolink_nodes 5073 72 satelite condition  5074
+create-a-node-here really 37.71 73 {\nAnd both the trust and Manville are seeking to avoid the bad publicity }
+create-a-node-here really 37.127 74 {that, in the asbestos era, tarred the Manville name.}
+nextSentence really
+autolink_nodes 73 74 satelite-embedded elaboration-object-attribute-e  5075
+autolink_nodes 5072 5074 satelite means  5076
+autolink_nodes 5074 5075 satelite elaboration-additional  5077
+create-a-node-here really 38.6 75 {\nThus, }
+#create-a-node-here really 38.22 76 {analysts say}
+#UNDID
+create-a-node-here really 38.24 76 {analysts say, }
+autolink_nodes 75 76 satelite-embedded attribution-e  5078
+create-a-node-here really 38.65 77 {the trust is unlikely to do anything }
+create-a-node-here really 38.116 78 {that would hurt Manville's other shareholders. }
+autolink_nodes 77 78 satelite-embedded elaboration-object-attribute-e  5079
+autolink_nodes 5078 5079 multinuclear Same-Unit  5080
+autolink_nodes 5075 5080 satelite consequence-s  5081
+create-a-node-here really 38.181 79 {"This is a rare case of a company with a big majority holder }
+create-a-node-here really 38.252 80 {which will probably act in the interests of the minority holders," }
+autolink_nodes 79 80 satelite-embedded elaboration-object-attribute-e  5082
+create-a-node-here really 38.274 81 {one investor says.}
+nextSentence really
+autolink_nodes 5082 81 satelite attribution  5083
+autolink_nodes 5076 5083 satelite conclusion  5084
+autolink_nodes 61 5084 satelite summary-n  5085
+create-a-node-here really 40.35 82 { \n\nEven if there is no restructuring, }
+create-a-node-here really 40.81 83 {Manville seems to be attractive long-term.}
+nextSentence really
+autolink_nodes 82 83 nucleus concession  5086
+autolink_nodes 5055 5085 multinuclear List  5087
+create-a-node-here really 41.73 84 {\nIts stock, at 9 5/8, trades at about 8 1/2 times estimated 1989 earnings }
+create-a-node-here really 41.159 85 {-- an appropriately low multiple for a company with recession-sensitive customers.}
+nextSentence really
+autolink_nodes 84 85 satelite evaluation-s  5088
+create-a-node-here really 42.17 86 {\nMr. Bullock says }
+create-a-node-here really 42.62 87 {45% of revenues are tied to construction.}
+nextSentence really
+autolink_nodes 86 87 nucleus attribution  5089
+create-a-node-here really 43.47 88 {\nAnalysts predict little or no near-term growth.}
+nextSentence really
+#autolink_nodes 5089 88 nucleus interpretation-n  5090
+#UNDID
+autolink_nodes 87 88 nucleus interpretation-n  5090
+disconnect_node 86 disconnect
+autolink_nodes 87 86 satelite attribution  5091
+autolink_nodes 5086 5088 satelite explanation-argumentative  5092
+autolink_nodes 5092 5090 multinuclear Contrast  5093
+create-a-node-here really 45.54 89 { \n\nThey are, nonetheless, high on Manville's management. }
+create-a-node-here really 45.98 90 {"It's one of the best in the business," }
+autolink_nodes 89 90 satelite evaluation-s  5094
+create-a-node-here really 45.145 91 {says Salomon Brothers analyst Stephen Dobi.}
+nextSentence really
+autolink_nodes 90 91 satelite attribution  5095
+create-a-node-here really 46.12 92 {\nAnd he says }
+create-a-node-here really 46.55 93 {Manville has the financial flexibility }
+#create-a-node-here really 46.113 94 {to buy other companies at the best possible momentwhen}
+#UNDID
+create-a-node-here really 47.24 94 {to buy other companies at\nthe best possible moment}
+create-a-node-here really 48.0 95 { when other construction-related firms are hurting\n}
+create-a-node-here really 48.22 96 {and selling cheap.}
+autolink_nodes 95 96 multinuclear Consequence  5096
+autolink_nodes 94 5096 satelite temporal-same-time  5097
+autolink_nodes 93 5097 satelite-embedded elaboration-object-attribute-e  5098
+autolink_nodes 92 5098 nucleus attribution  5099
+autolink_nodes 5094 5099 multinuclear List  5100
+autolink_nodes 5093 5100 multinuclear Contrast below 5100
+create-a-node-here really 48.78 97 { With a conservative debt-to-equity ratio of 1-to-1 }
+create-a-node-here really 49.24 98 {-- and\n$329 million in cash -- }
+autolink_nodes 97 98 satelite-embedded elaboration-additional-e  5101
+create-a-node-here really 49.69 99 {Manville is indeed actively on the prowl.}
+nextSentence really
+autolink_nodes 5101 99 multinuclear Same-Unit  5102
+#autolink_nodes 5098 5102 satelite evaluation-s above 5102
+#UNDID
+autolink_nodes 5099 5102 satelite evaluation-s  5103
+create-a-node-here really 52.0 100 { \n\nSo far, as a price-conscious shopper, Manville hasn't bought much.\n}
+disconnect_node 5102 modify
+autolink_nodes 5099 5102 satelite elaboration-additional  5104
+autolink_nodes 5104 100 satelite antithesis  5105
+create-a-node-here really 52.57 101 {Paul Kleinaitis, an analyst at Duff & Phelps, says, }
+create-a-node-here really 52.102 102 {"Even though they have borrowing power, }
+create-a-node-here really 52.154 103 {they have been disciplined about acquisitions."}
+nextSentence really
+autolink_nodes 102 103 nucleus concession  5106
+autolink_nodes 101 5106 nucleus attribution  5107
+create-a-node-here really 52.184 104 { And Mr. Kleinaitis says }
+create-a-node-here really 52.280 105 {that with 80% of its stock in friendly hands, Manville is the rare publicly traded company }
+autolink_nodes 104 105 nucleus attribution  5108
+#autolink_nodes 5107 5108 satelite interpretation-s  5109
+#UNDID
+autolink_nodes 5107 5108 multinuclear List  5109
+autolink_nodes 5100 5109 satelite elaboration-additional  5110
+autolink_nodes 5004 5027 satelite elaboration-additional  5111
+autolink_nodes 5111 5093 multinuclear Topic-Drift  5112
+autolink_nodes 5112 5112 schema Text  5112
+#create-a-node-here really 55.0 106 {that can ignore short-term stock fluctuations and plan for the long haul. \n\nManville \n}
+#create-a-node-here really 57.0 107 {\n(NYSE; Symbol: MVL) \n}
+#UNDID
+#UNDID
+create-a-node-here really 52.331 106 {that can ignore short-term stock fluctuations }
+create-a-node-here really 52.364 107 {and plan for the long haul. }
+autolink_nodes 106 107 multinuclear List  5113
+autolink_nodes 105 5113 satelite-embedded elaboration-object-attribute-e below 5114
+create-a-node-here really 54.9 108 {\n\nManville }
+create-a-node-here really 56.15 109 {\n\n(NYSE; Symbol: }
+create-a-node-here really 56.25 110 {MVL) }
+autolink_nodes 109 110 satelite-embedded elaboration-general-specific-e  5115
+create-a-node-here really 58.10 111 {\n\nBusiness: }
+disconnect_node 110 modify
+autolink_nodes 109 110 satelite elaboration-general-specific  5116
+create-a-node-here really 58.43 112 {Forest products and roofing }
+autolink_nodes 111 112 satelite elaboration-general-specific  5117
+autolink_nodes 5115 5117 multinuclear List  5118
+create-a-node-here really 60.5 113 {\n\nYear }
+create-a-node-here really 60.30 114 {ended Dec. 31, 1988:}
+autolink_nodes 113 114 satelite-embedded elaboration-object-attribute-e  5119
+create-a-node-here really 62.7 115 { \n\nSales: }
+create-a-node-here really 62.27 116 {$2.06 billions }
+autolink_nodes 115 116 satelite elaboration-general-specific  5120
+create-a-node-here really 64.10 117 {\n\nNet loss: }
+create-a-node-here really 64.30 118 {$1.30 billion* }
+autolink_nodes 117 118 satelite elaboration-general-specific  5121
+autolink_nodes 5120 5121 multinuclear List  5122
+autolink_nodes 5119 5122 satelite elaboration-general-specific  5123
+autolink_nodes 5118 5123 multinuclear List below 5123
+create-a-node-here really 66.31 119 {\n\nThird quarter, Sept. 30, 1989: }
+create-a-node-here really 68.20 120 {\n\nPer-share earnings: }
+create-a-node-here really 68.49 121 {30 cents vs. 44 cents** }
+autolink_nodes 120 121 satelite elaboration-general-specific  5124
+disconnect_node 5122 modify
+autolink_nodes 5119 5122 satelite elaboration-set-member  5125
+create-a-node-here really 70.30 122 {\n\nAverage daily trading volume: }
+autolink_nodes 119 5124 satelite elaboration-set-member  5126
+autolink_nodes 5125 5126 multinuclear Sequence  5127
+create-a-node-here really 72.14 123 {\n\n74,351 shares }
+autolink_nodes 122 123 satelite elaboration-general-specific  5128
+autolink_nodes 5118 5128 multinuclear List below 5128
+create-a-node-here really 74.27 124 {\n\nCommon shares outstanding: }
+create-a-node-here really 75.0 125 {120 million \n}
+autolink_nodes 124 125 satelite elaboration-general-specific  5129
+autolink_nodes 5118 5129 multinuclear List below 5129
+autolink_nodes 108 5118 nucleus summary-s  5130
+autolink_nodes 5130 5130 schema Text  5130
+create-a-node-here really 76.45 126 {\n*Includes $1.29 billion extraordinary charge.}
+nextSentence really
+create-a-node-here really 78.30 127 { \n\n**Year ago figure is restated.}
+nextSentence really
+#autolink_nodes 5130 126 schema Footnote  5130
+#UNDID
+autolink_nodes 126 126 schema Footnote  5130
+autolink_nodes 127 127 schema Footnote  5130
+autolink_nodes 5130 126 multinuclear TextualOrganization  5131
+autolink_nodes 5131 127 multinuclear TextualOrganization below 5131
+#autolink_nodes 5131 5131 schema Footnote  5131
+#UNDID
+autolink_nodes 5131 5131 schema Footnote  5131
+autolink_nodes 5112 5131 multinuclear TextualOrganization above 5132
+disconnect_node 2 disconnect
+autolink_nodes 3 2 satelite-embedded circumstance-e  5133
+disconnect_node 5049 modify
+autolink_nodes 46 5049 satelite evaluation-s  5134
+disconnect_node 5058 modify
+autolink_nodes 5064 5058 satelite elaboration-additional  5135
+disconnect_node 5083 modify
+autolink_nodes 5076 5083 satelite comment  5136
+#disconnect_node 110 modify
+#autolink_nodes 109 110 satelite-embedded elaboration-general-specific-e  5137
+#UNDID
+#UNDID

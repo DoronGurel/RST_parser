@@ -1,0 +1,112 @@
+nextSentence really
+create-a-node-here really 2.18 1 {\nThe Treasury said }
+create-a-node-here really 2.88 2 {it plans to sell $2 billion of 51-day cash-management bills today, }
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.112 3 {raising all new cash.}
+nextSentence really
+#autolink_nodes 2 3 satelite-embedded purpose-e below 5002
+#UNDID
+autolink_nodes 2 3 satelite purpose below 5002
+create-a-node-here really 4.32 4 { \n\nThe bills will be dated Oct. 31 }
+create-a-node-here really 4.59 5 {and will mature Dec. 21,}
+autolink_nodes 4 5 multinuclear Sequence  5003
+create-a-node-here really 7.0 6 { \n\nNo non-competitive tenders will be accepted.\n}
+autolink_nodes 5002 5003 satelite elaboration-general-specific below 5004
+#autolink_nodes 5001 6 satelite elaboration-additional  5005
+#create-a-node-here really 7.134 7 {Tenders, available in minimum denominations of $1 million, must be received by noon EST today at Federal Reserve Banks or branches.}
+#nextSentence really
+#autolink_nodes 5001 7 satelite elaboration-additional above 5005
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 7.134 7 {Tenders, available in minimum denominations of $1 million, must be received by noon EST today at Federal Reserve Banks or branches.}
+nextSentence really
+autolink_nodes 6 7 multinuclear List  5005
+autolink_nodes 5004 5005 satelite elaboration-additional below 5006
+create-a-node-here really 9.72 8 { \n\nThe Treasury also announced details of this week's unusual bill auction,}
+create-a-node-here really 9.99 9 { which has been changed }
+autolink_nodes 8 9 satelite-embedded elaboration-additional-e  5007
+create-a-node-here really 9.181 10 {to accommodate the expiration of the federal debt ceiling at midnight tomorrow.}
+nextSentence really
+autolink_nodes 9 10 satelite purpose  5008
+autolink_nodes 5001 5007 multinuclear List  5009
+create-a-node-here really 11.84 11 { \n\nThe 13-week and 27-week bills will be issued tomorrow rather than Thursday, Nov. 2, }
+create-a-node-here really 11.110 12 {as originally planned.}
+nextSentence really
+autolink_nodes 11 12 satelite elaboration-additional  5010
+autolink_nodes 5009 5010 multinuclear List below 5010
+create-a-node-here really 12.53 13 {\nThe three-month bills will still mature Feb. 1, 1990,}
+create-a-node-here really 12.97 14 { and the six-month bills on May 3, 1990.}
+nextSentence really
+autolink_nodes 13 14 multinuclear List  5011
+disconnect_node 5010 disconnect
+autolink_nodes 5010 5011 multinuclear List  5012
+autolink_nodes 5009 5012 multinuclear List below 5012
+create-a-node-here really 14.23 15 { \n\nThe Treasury also said }
+create-a-node-here really 14.76 16 {noncompetitive tenders will be considered timely }
+autolink_nodes 15 16 nucleus attribution  5013
+create-a-node-here really 14.125 17 {if postmarked no later than Sunday, Oct. 29, }
+create-a-node-here really 14.165 18 {and received no later than tomorrow.}
+nextSentence really
+autolink_nodes 17 18 multinuclear Sequence  5014
+autolink_nodes 5013 5014 satelite condition  5015
+autolink_nodes 5009 5015 multinuclear List below 5015
+create-a-node-here really 16.18 19 { \n\nThe Treasury said }
+create-a-node-here really 16.92 20 {it won't be able to honor reinvestment requests from holders of bills }
+autolink_nodes 19 20 nucleus attribution  5016
+create-a-node-here really 16.112 21 {maturing Nov. 2 }
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e below 5017
+create-a-node-here really 16.157 22 {held in the Treasury's book-entry system.}
+nextSentence really
+autolink_nodes 20 22 satelite-embedded elaboration-additional-e below 5018
+create-a-node-here really 17.43 23 {\nThe department will make payment for bills }
+create-a-node-here really 17.66 24 {maturing on Nov. 2 }
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5019
+create-a-node-here really 17.87 25 {to all investors }
+autolink_nodes 5019 25 multinuclear Same-Unit  5020
+create-a-node-here really 17.152 26 {who have requested reinvestment of their bills on that date, }
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5021
+create-a-node-here really 17.190 27 {as well as to all account holders }
+autolink_nodes 5021 27 multinuclear List  5022
+create-a-node-here really 17.232 28 {who have previously requested payment.}
+nextSentence really
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5023
+#autolink_nodes 5016 5016 multinuclear List  5024
+#UNDID
+autolink_nodes 5016 5020 multinuclear List  5024
+autolink_nodes 5009 5024 multinuclear List below 5024
+change_constit 19 
+disconnect_node 5020 disconnect
+#autolink_nodes 5016 5020 multinuclear Problem-Solution  5025
+#UNDID
+autolink_nodes 5016 5020 multinuclear Problem-Solution  5025
+disconnect_node 5012 disconnect
+autolink_nodes 5007 5012 satelite elaboration-set-member  5026
+disconnect_node 5015 disconnect
+autolink_nodes 5012 5015 satelite elaboration-additional  5027
+disconnect_node 7 disconnect
+#autolink_nodes 5001 7 satelite condition  5028
+#UNDID
+disconnect_node 6 disconnect
+autolink_nodes 5001 6 satelite elaboration-additional  5028
+autolink_nodes 5028 7 satelite condition  5029
+#disconnect_node 5003 disconnect
+#UNDID
+disconnect_node 5003 disconnect
+#autolink_nodes 5001 5003 satelite elaboration-general-specific above 5029
+#UNDID
+autolink_nodes 5001 5003 satelite elaboration-general-specific below 5030
+autolink_nodes 5001 5003 satelite elaboration-general-specific elaboration-general-specific 5031
+disconnect_node 5027 modify
+autolink_nodes 5007 5027 satelite elaboration-general-specific  5032
+disconnect_node 5015 disconnect
+autolink_nodes 5032 5015 satelite elaboration-additional  5033
+disconnect_node 5025 disconnect
+disconnect_node 5033 modify
+autolink_nodes 5029 5033 multinuclear Topic-Drift  5034
+disconnect_node 22 disconnect
+autolink_nodes 21 22 multinuclear List  5035
+autolink_nodes 5033 5025 satelite elaboration-additional  5036
+disconnect_node 5023 modify
+autolink_nodes 5021 5023 multinuclear Same-Unit  5037

@@ -1,0 +1,746 @@
+nextSentence really
+create-a-node-here really 2.20 1 {\nWhen the good fairy }
+create-a-node-here really 2.44 2 {assigned to Slovakia }
+#create-a-node-here really 2.119 3 {hovered over the cradle of Edita Gruberova many years ago in Bratislava,}
+#UNDID
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+create-a-node-here really 2.120 3 {hovered over the cradle of Edita Gruberova many years ago in Bratislava, }
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 2.235 4 {she sprinkled her with high E flats, sparkling Ds, clean trills, and coloratura ornaments silvery as magic dust.}
+nextSentence really
+#autolink_nodes 5002 4 multinuclear Temporal-Same-Time above 5003
+#UNDID
+autolink_nodes 5002 4 nucleus temporal-same-time  5003
+create-a-node-here really 3.50 5 {\nMaybe she could drop by at the Metropolitan Opera }
+create-a-node-here really 3.152 6 {and bring along what she forgot, a little charm, a few smidgins of thespian skills and a nice wig. }
+autolink_nodes 5 6 satelite purpose  5004
+#autolink_nodes 5003 5004 satelite comment  5005
+#UNDID
+#autolink_nodes 5003 5004 nucleus evaluation-n  5005
+#UNDID
+#autolink_nodes 5003 5004 nucleus evaluation-n  5005
+#UNDID
+autolink_nodes 5003 5004 satelite comment  5005
+create-a-node-here really 5.70 7 {\n\nCast as Violetta Valery in a new production of Verdi's "La Traviata," }
+create-a-node-here really 5.143 8 {Ms. Gruberova last week did many things nicely and others not so well.}
+nextSentence really
+#autolink_nodes 7 8 nucleus-embedded elaboration-additional-e  5006
+#UNDID
+autolink_nodes 7 8 nucleus-embedded elaboration-additional-e  5006
+autolink_nodes 5005 5006 nucleus evaluation-n  5007
+create-a-node-here really 6.43 9 {\nIt isn't every day that we hear a Violetta }
+create-a-node-here really 6.119 10 {who can sing the first act's high-flying music with all the little notes }
+autolink_nodes 9 10 satelite-embedded elaboration-additional-e  5008
+create-a-node-here really 6.140 11 {perfectly pitched}
+#autolink_nodes 10 11 satelite-embedded elaboration-additional-e  5009
+#UNDID
+autolink_nodes 10 11 satelite-embedded evaluation-s-e  5009
+create-a-node-here really 7.0 12 { and neatly stitched together.\n}
+#autolink_nodes 11 12 multinuclear List  5010
+#autolink_nodes 5007 5008 multinuclear Topic-Drift  5011
+#collapsed_nodes {5007}
+#UNDID
+#UNDID
+autolink_nodes 11 12 multinuclear List  5010
+#create-a-node-here really 7.52 13 {Never once did she gasp for air or mop her brow.}
+#nextSentence really
+#create-a-node-here really 8.30 14 {\nShe was as cool as a cucumber.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 7.36 13 {Never once did she gasp for air }
+create-a-node-here really 7.56 14 {or mop her brow.}
+nextSentence really
+autolink_nodes 13 14 multinuclear List  5011
+create-a-node-here really 8.30 15 {\nShe was as cool as a cucumber.}
+nextSentence really
+autolink_nodes 5011 15 multinuclear List below 5011
+autolink_nodes 5009 5011 satelite explanation-argumentative  5012
+autolink_nodes 5007 5008 satelite evaluation-s  5013
+create-a-node-here really 9.4 16 {\nBut }
+create-a-node-here really 9.25 17 {as you may know, }
+create-a-node-here really 9.68 18 {things are not going well for Violetta.}
+nextSentence really
+#autolink_nodes 17 18 nucleus analogy  5014
+#UNDID
+autolink_nodes 17 18 nucleus analogy  5014
+autolink_nodes 16 5014 multinuclear Same-Unit  5015
+create-a-node-here really 10.16 19 {\nThere are times }
+create-a-node-here really 11.0 20 {when she must show a little emotion.\n}
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5016
+create-a-node-here really 11.50 21 {She has TB, after all, and a weak-kneed lover;}
+#create-a-node-here really 11.130 22 { and though a successful courtesan, she is just about overdrawn at the bank.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 11.130 22 { and though a successful courtesan, she is just about overdrawn at the bank.}
+nextSentence really
+autolink_nodes 21 22 multinuclear List  5017
+autolink_nodes 5016 5017 satelite explanation-argumentative  5018
+create-a-node-here really 13.35 23 { \n\nWorse, her walls move all the time }
+create-a-node-here really 13.70 24 {-- at least in this production.}
+nextSentence really
+autolink_nodes 23 24 satelite elaboration-additional  5019
+autolink_nodes 5017 5019 multinuclear List below 5019
+create-a-node-here really 14.54 25 {\nJust when Ms. Gruberova sat down away from her guests }
+create-a-node-here really 14.79 26 {to cough in private, }
+autolink_nodes 25 26 satelite purpose  5020
+create-a-node-here really 14.125 27 {her salon began sliding around the stage; }
+create-a-node-here really 14.187 28 {her country hideaway also has a very active set of drapes.}
+nextSentence really
+autolink_nodes 5020 27 multinuclear Temporal-Same-Time  5021
+autolink_nodes 28 5021 satelite explanation-argumentative  5022
+autolink_nodes 5019 5022 satelite explanation-argumentative  5023
+create-a-node-here really 15.30 29 {\nHold on to those funny braids!}
+nextSentence really
+create-a-node-here really 15.61 30 { you wanted to caution her }
+autolink_nodes 29 30 satelite attribution  5024
+create-a-node-here really 15.110 31 {as the sets started to roll around once more.}
+nextSentence really
+autolink_nodes 5024 31 satelite circumstance  5025
+create-a-node-here really 16.35 32 {\nThis is the most moving "Traviata" }
+create-a-node-here really 16.54 33 {I've ever seen.}
+nextSentence really
+#autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5026
+#UNDID
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5026
+#autolink_nodes 5025 5026 multinuclear List  5027
+#UNDID
+collapsed_nodes {5021}
+autolink_nodes 5023 5025 satelite comment  5027
+collapsed_nodes {5021 5025}
+autolink_nodes 5027 5026 satelite evaluation-s  5028
+autolink_nodes 5015 5018 satelite explanation-argumentative  5029
+collapsed_nodes {5021 5025 5011}
+autolink_nodes 5008 5029 nucleus concession  5030
+collapsed_nodes {5021 5025 5011 5013}
+create-a-node-here really 18.45 34 { \n\nNormally, Violetta can go about her business }
+create-a-node-here really 18.67 35 {without wondering }
+#autolink_nodes 34 35 satelite-embedded elaboration-additional-e  5031
+#UNDID
+autolink_nodes 34 35 satelite circumstance  5031
+create-a-node-here really 19.0 36 {whether she is moving as gracefully as the scenery.\n}
+autolink_nodes 35 36 nucleus attribution  5032
+create-a-node-here really 19.29 37 {But this is a production }
+create-a-node-here really 19.76 38 {designed and directed by Franco Zeffirelli }
+create-a-node-here really 19.113 39 {and paid for by Sybil Harrington,}
+autolink_nodes 38 39 multinuclear List  5033
+autolink_nodes 37 5033 satelite-embedded elaboration-additional-e  5034
+create-a-node-here really 19.155 40 { who has no need to count her pennies,}
+autolink_nodes 39 40 satelite-embedded elaboration-additional-e  5035
+create-a-node-here really 19.213 41 { unlike Violetta, down to 20 louis at the opera's end.}
+nextSentence really
+#autolink_nodes 40 41 satelite analogy  5036
+#UNDID
+autolink_nodes 40 41 satelite analogy  5036
+create-a-node-here really 20.37 42 {\nSeeing all those millions in action, }
+create-a-node-here really 20.64 43 {I was just so relieved }
+#autolink_nodes 42 43 nucleus circumstance  5037
+#UNDID
+autolink_nodes 42 43 nucleus circumstance  5037
+create-a-node-here really 20.87 44 {that Ms. Gruberova,}
+autolink_nodes 43 44 nucleus attribution  5038
+create-a-node-here really 20.117 45 { gawky thing that she is, }
+autolink_nodes 44 45 satelite-embedded elaboration-additional-e below 5039
+create-a-node-here really 20.169 46 {didn't accidentally smother herself in a drape. }
+autolink_nodes 5039 46 multinuclear Same-Unit  5040
+collapsed_nodes {5021 5025 5011 5013 5039}
+collapsed_nodes {5021 5025 5011 5013 5039 5036}
+autolink_nodes 5035 5037 satelite comment  5041
+create-a-node-here really 22.127 47 {\n\nLarge and lavish, "Traviata" is another addition to the Met's growing stock of cast-proof productions mostly by Mr. Zeffirelli.}
+nextSentence really
+collapsed_nodes {5021 5025 5011 5013 5039 5036 5041}
+autolink_nodes 5034 47 satelite elaboration-additional  5042
+create-a-node-here really 23.29 48 {\nThey have a life of their own}
+create-a-node-here really 23.81 49 { and can be counted on to look good and perform }
+create-a-node-here really 23.120 50 {whenever a cast isn't up to either.}
+nextSentence really
+autolink_nodes 48 49 satelite cause  5043
+autolink_nodes 49 50 satelite contingency  5044
+#autolink_nodes 47 5043 satelite explanation-argumentative  5045
+#UNDID
+autolink_nodes 47 5043 satelite interpretation-s  5045
+create-a-node-here really 24.31 51 {\nIf a strike ever hits the Met, }
+create-a-node-here really 24.101 52 {the company can still sell tickets to his "Boheme" and "Turandot" }
+autolink_nodes 51 52 nucleus condition  5046
+create-a-node-here really 24.129 53 {and boom out recordings }
+autolink_nodes 52 53 multinuclear List  5047
+create-a-node-here really 25.0 54 {(of another era).\n}
+autolink_nodes 53 54 satelite-embedded elaboration-additional-e  5048
+autolink_nodes 5043 5046 satelite explanation-argumentative  5049
+create-a-node-here really 25.102 55 {Last week's discerning audience gave a bigger hand to a greenhouse than to the tenor Neil Shicoff,}
+create-a-node-here really 25.134 56 { who sang an aria inside it.}
+nextSentence really
+autolink_nodes 55 56 satelite-embedded elaboration-additional-e  5050
+autolink_nodes 5046 5050 satelite explanation-argumentative  5051
+create-a-node-here really 26.46 57 {\nInexplicably costumed as a rabbinical student,}
+create-a-node-here really 26.77 58 { tottering around on lifts,}
+create-a-node-here really 26.119 59 { Mr. Shicoff hardly seemed the fellow }
+create-a-node-here really 26.154 60 {to catch a fancy cocotte's eye.}
+nextSentence really
+autolink_nodes 57 58 multinuclear List  5052
+autolink_nodes 5052 59 nucleus elaboration-additional  5053
+autolink_nodes 59 60 satelite consequence-s below 5054
+autolink_nodes 5050 5053 satelite explanation-argumentative  5055
+create-a-node-here really 27.6 61 {\nI wish}
+create-a-node-here really 27.44 62 { he could wear lifts in his voice.}
+nextSentence really
+autolink_nodes 61 62 nucleus attribution  5056
+autolink_nodes 5053 5056 satelite comment  5057
+create-a-node-here really 28.101 63 {\nNot nearly in his best form, the tenor made dullish sounds along with his usual clumsy hand gestures.}
+nextSentence really
+autolink_nodes 5055 63 satelite evaluation-s  5058
+create-a-node-here really 29.41 64 {\nMaybe Mr. Z. was too busy taming his set }
+create-a-node-here really 29.89 65 {to work with his naturally ungainly Alfredo.}
+nextSentence really
+autolink_nodes 64 65 nucleus circumstance  5059
+autolink_nodes 63 5059 satelite comment  5060
+create-a-node-here really 30.61 66 {\nOr is it that Mr. Z. is getting a little tired of "Traviata"?}
+nextSentence really
+autolink_nodes 5059 66 multinuclear Disjunction  5061
+create-a-node-here really 31.28 67 {\nThis is the same production }
+create-a-node-here really 31.68 68 {already seen in Paris and Florence, }
+autolink_nodes 67 68 satelite-embedded elaboration-additional-e  5062
+create-a-node-here really 31.108 69 {and its scenic ideas echo the movie }
+autolink_nodes 5062 69 multinuclear List  5063
+create-a-node-here really 31.160 70 {he made with Placido Domingo and Teresa Stratas.}
+nextSentence really
+autolink_nodes 69 70 satelite-embedded elaboration-additional-e  5064
+autolink_nodes 5061 5063 satelite explanation-argumentative  5065
+create-a-node-here really 32.54 71 {\nDecades earlier, Maria Callas sang the Dallas staging }
+create-a-node-here really 32.93 72 {that introduced the flashback idea.}
+nextSentence really
+#autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e  5066
+#UNDID
+autolink_nodes 71 72 satelite-embedded elaboration-additional-e  5066
+create-a-node-here really 33.16 73 {\nIn an invention }
+create-a-node-here really 33.55 74 {that drives Verdi purists bananas, }
+create-a-node-here really 33.105 75 {Violetta lies dying in bed during the prelude,}
+create-a-node-here really 33.129 76 { rising deliriously }
+autolink_nodes 75 76 satelite-embedded elaboration-additional-e  5067
+autolink_nodes 73 74 satelite-embedded elaboration-additional-e  5068
+autolink_nodes 5068 5067 multinuclear Same-Unit  5069
+create-a-node-here really 33.174 77 {when then she remembers the great parties}
+autolink_nodes 76 77 satelite result  5070
+create-a-node-here really 34.0 78 { she used to throw.\n}
+autolink_nodes 77 78 satelite-embedded elaboration-additional-e  5071
+autolink_nodes 5066 5069 satelite explanation-argumentative  5072
+create-a-node-here really 34.34 79 {The entire opera is her dream.}
+nextSentence really
+autolink_nodes 5069 79 satelite explanation-argumentative  5073
+autolink_nodes 5013 5031 multinuclear Topic-Drift  5074
+autolink_nodes 5031 5042 nucleus concession  5075
+collapsed_nodes {5039 5036 5041 5007 5033}
+collapsed_nodes {5039 5036 5041 5007 5033 5046}
+collapsed_nodes {5039 5036 5041 5007 5033 5046 5069}
+collapsed_nodes {5039 5036 5041 5007 5033 5046 5069 5032}
+collapsed_nodes {5039 5036 5041 5007 5033 5046 5069 5032 5043}
+collapsed_nodes {5039 5036 5041 5007 5033 5046 5069 5032 5043 5049}
+collapsed_nodes {5039 5036 5041 5007 5033 5069 5032}
+autolink_nodes 5064 5072 satelite background  5076
+collapsed_nodes {5039 5036 5041 5007 5033 5032}
+create-a-node-here really 36.56 80 { \n\nGiven the prelude's thematic connections with the music }
+create-a-node-here really 36.83 81 {preceding the last act,}
+autolink_nodes 80 81 satelite-embedded elaboration-additional-e  5077
+create-a-node-here really 36.119 82 { the idea is more worn than bad,}
+create-a-node-here really 36.131 83 { though }
+autolink_nodes 82 5077 multinuclear Same-Unit  5078
+create-a-node-here really 36.158 84 {as luck would have it, }
+create-a-node-here really 36.217 85 {for a change there actually was a conductor in the pit }
+disconnect_node 82 disconnect
+autolink_nodes 5077 82 nucleus circumstance  5079
+autolink_nodes 85 84 satelite analogy  5080
+autolink_nodes 5080 83 multinuclear Same-Unit  5081
+autolink_nodes 5081 5079 satelite concession  5082
+create-a-node-here really 36.245 86 {whom we wanted to hear, }
+autolink_nodes 85 86 satelite-embedded elaboration-additional-e below 5083
+create-a-node-here really 36.264 87 {Carlos Kleiber,}
+autolink_nodes 5083 87 multinuclear Same-Unit  5084
+create-a-node-here really 36.300 88 { trying to make memorable music }
+autolink_nodes 5084 88 satelite-embedded elaboration-additional-e below 5085
+create-a-node-here really 36.359 89 {while we all waited for the bed lump to stir into song.}
+nextSentence really
+autolink_nodes 88 89 satelite circumstance  5086
+create-a-node-here really 37.16 90 {\nOnce she did so,}
+create-a-node-here really 37.72 91 { the big-souled German maestro with the shaky nerves}
+autolink_nodes 90 91 nucleus circumstance  5087
+create-a-node-here really 37.97 92 { who so often cancels}
+#autolink_nodes 91 92 satelite-embedded elaboration-additional-e below 5088
+#UNDID
+autolink_nodes 91 92 satelite-embedded elaboration-additional-e below 5088
+create-a-node-here really 37.140 93 { offered a limpid, flowing performance }
+autolink_nodes 5088 93 multinuclear Same-Unit  5089
+create-a-node-here really 37.230 94 {that in its unswagged and unswaggering approach was totally at odds with the staging. }
+autolink_nodes 93 94 satelite-embedded elaboration-additional-e  5090
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5079}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5079 5086}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5086}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5086 5075}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5086 5075 5079}
+autolink_nodes 5074 5082 multinuclear Topic-Drift below 5090
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5086 5075 5079 5084}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5079}
+autolink_nodes 89 5087 satelite elaboration-additional  5091
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5079 5085}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081}
+create-a-node-here really 39.49 95 {\n\nOf heart-pounding moments there were nearly none,}
+create-a-node-here really 39.132 96 { and whether this has to do with Mr. Kleiber or the wooden cast is hard to say.}
+nextSentence really
+#autolink_nodes 95 96 multinuclear Cause-Result  5092
+#UNDID
+autolink_nodes 95 96 multinuclear Cause-Result  5092
+autolink_nodes 5082 5092 satelite evaluation-s  5093
+create-a-node-here really 40.108 97 {\nIn any event, Ms. Gruberova barely ventilated Violetta's anguish in her long meeting with Wolfgang Brendel, }
+create-a-node-here really 40.151 98 {who as Germont seemed fairly desperate }
+autolink_nodes 97 98 satelite-embedded elaboration-additional-e  5094
+create-a-node-here really 40.225 99 {trying to inject an Italianate lilt into his heavy, teutonic baritone.}
+autolink_nodes 98 99 satelite consequence-n  5095
+autolink_nodes 5092 5094 satelite explanation-argumentative  5096
+create-a-node-here really 40.303 100 { "Di Provenza" wasn't much of an advertisement for sunny, southern France.}
+nextSentence really
+autolink_nodes 5095 100 satelite evaluation-s  5097
+create-a-node-here really 41.132 101 {\nPerhaps Mr. Kleiber could let him substitute one of the songs about dead children and dark nights from Mahler's "Kindertotenlieder."}
+nextSentence really
+autolink_nodes 100 101 satelite comment  5098
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093}
+create-a-node-here really 43.25 102 { \n\nSpeaking of dark nights, }
+create-a-node-here really 43.109 103 {the Met's next-door neighbor, the New York City Opera, has canceled its season }
+autolink_nodes 102 103 nucleus circumstance  5099
+create-a-node-here really 43.170 104 {after failing to reach a settlement with its musicians, }
+autolink_nodes 103 104 satelite circumstance below 5100
+create-a-node-here really 43.259 105 {who wanted pay parity with the the Chicago Lyric and San Francisco Opera orchestras.}
+nextSentence really
+autolink_nodes 104 105 satelite-embedded elaboration-additional-e  5101
+create-a-node-here really 44.41 106 {\nWell, they can now go and audition there.}
+nextSentence really
+autolink_nodes 5099 106 satelite cause  5102
+create-a-node-here really 45.10 107 {\nGood luck.}
+nextSentence really
+autolink_nodes 106 107 satelite comment  5103
+create-a-node-here really 46.22 108 {\nCommon sense suggests }
+create-a-node-here really 46.62 109 {that people who play for a company }
+autolink_nodes 108 109 nucleus attribution  5104
+create-a-node-here really 46.91 110 {that charges about half }
+autolink_nodes 109 110 satelite-embedded elaboration-additional-e below 5105
+create-a-node-here really 46.129 111 {what those houses do for a ticket}
+autolink_nodes 110 111 satelite-embedded elaboration-object-attribute-e  5106
+create-a-node-here really 46.162 112 { are not in the same market.}
+nextSentence really
+autolink_nodes 5105 112 multinuclear Same-Unit  5107
+autolink_nodes 107 5104 multinuclear List  5108
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103}
+create-a-node-here really 48.44 113 { \n\nThe cancellation bodes poorly for a company }
+create-a-node-here really 48.87 114 {already beset with an identity crisis }
+autolink_nodes 113 114 satelite-embedded elaboration-additional-e  5109
+create-a-node-here really 48.222 115 {exacerbated by the retirement of general director Beverly Sills and the amazing appointment of Christopher Keene as her successor }
+autolink_nodes 114 115 satelite-embedded elaboration-additional-e  5110
+create-a-node-here really 48.274 116 {after his years of feckless toiling in the pit.}
+nextSentence really
+autolink_nodes 115 116 satelite circumstance  5111
+autolink_nodes 5102 5109 satelite evaluation-s  5112
+create-a-node-here really 49.32 117 {\nAs the Met discovered years ago }
+create-a-node-here really 49.74 118 {following a belated December opening,}
+autolink_nodes 117 118 satelite circumstance  5113
+create-a-node-here really 49.129 119 { it is nearly impossible to recapture subscribers }
+create-a-node-here really 49.158 120 {once they have had time }
+autolink_nodes 119 120 satelite circumstance  5114
+autolink_nodes 5114 5113 satelite analogy  5115
+create-a-node-here really 49.201 121 {to ponder their entertainment choices.}
+nextSentence really
+autolink_nodes 120 121 satelite-embedded elaboration-object-attribute-e  5116
+autolink_nodes 5109 5115 satelite explanation-argumentative  5117
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5113}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5113 5110}
+create-a-node-here really 51.72 122 { \n\nI, for instance, was perfectly happy at Avery Fisher Hall the other day }
+create-a-node-here really 51.153 123 {listening to Helmuth Rilling conduct the Messa per Rossini, a strange piece }
+autolink_nodes 122 123 satelite circumstance  5118
+create-a-node-here really 51.199 124 {written by 13 different Italian composers}
+autolink_nodes 123 124 satelite-embedded elaboration-additional-e  5119
+create-a-node-here really 51.246 125 { to honor Rossini after his death in 1868.}
+nextSentence really
+autolink_nodes 124 125 satelite purpose  5120
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110}
+create-a-node-here really 52.59 126 {\nEach of them contributed a section at the behest of Verdi, }
+create-a-node-here really 52.141 127 {who was nearly driven to his own early grave by the troublesome arrangements.}
+nextSentence really
+autolink_nodes 126 127 satelite-embedded elaboration-additional-e  5121
+#autolink_nodes 5120 5121 satelite elaboration-additional  5122
+#UNDID
+autolink_nodes 5120 5121 satelite elaboration-general-specific  5122
+create-a-node-here really 53.62 128 {\nFor all that, the piece landed unperformed in a dusty archive }
+create-a-node-here really 53.123 129 {after Bologna refused to supply a chorus and orchestra. }
+autolink_nodes 128 129 satelite circumstance  5123
+autolink_nodes 5121 5123 multinuclear Contrast  5124
+create-a-node-here really 55.8 130 {\n\nWe know }
+create-a-node-here really 55.60 131 {Verdi's own contribution was mighty impressive }
+autolink_nodes 130 131 nucleus attribution  5125
+create-a-node-here really 55.134 132 {since the operatic "Libera me" was reworked for the Manzoni Requiem, }
+autolink_nodes 5125 132 satelite result  5126
+create-a-node-here really 55.175 133 {of which he wrote every note himself}
+autolink_nodes 132 133 satelite-embedded elaboration-additional-e  5127
+create-a-node-here really 55.207 134 { having learned his lesson.}
+nextSentence really
+autolink_nodes 133 134 satelite circumstance  5128
+autolink_nodes 5114 5118 satelite example below 5129
+autolink_nodes 5122 5126 satelite elaboration-additional  5130
+create-a-node-here really 56.72 135 {\nThe surprising discovery of the evening at Fisher was the high standard }
+create-a-node-here really 56.152 136 {achieved by some of his now-obscure colleagues, notably Raimondo Boucheron.}
+nextSentence really
+autolink_nodes 135 136 satelite-embedded elaboration-additional-e  5131
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130}
+autolink_nodes 5118 5131 satelite elaboration-additional  5132
+create-a-node-here really 57.68 137 {\nHis melodious "Confutatis" was smoothly sung by bass Brian Matthews.}
+nextSentence really
+create-a-node-here really 58.64 138 {\nAlso, Teodulo Mabellini's "Lux aeterna" was intriguingly scored }
+create-a-node-here really 58.110 139 {and splendidly put across by Mr. Rilling.}
+nextSentence really
+autolink_nodes 138 139 multinuclear List  5133
+autolink_nodes 137 5133 multinuclear List  5134
+create-a-node-here really 59.119 140 {\nHe brought along his Stuttgart-based Gaechinger Kantorei chorus, and even better, the Czech soprano Gabriela Benackova.}
+nextSentence really
+autolink_nodes 5133 140 satelite elaboration-additional  5135
+create-a-node-here really 60.46 141 {\nShe was in her most radiant, expressive voice.}
+nextSentence really
+autolink_nodes 140 141 satelite-embedded elaboration-additional-e  5136
+create-a-node-here really 61.49 142 {\nMaybe she could step across the plaza to the Met }
+autolink_nodes 141 142 satelite comment  5137
+create-a-node-here really 61.98 143 {-- where she has still to make her debut -- }
+autolink_nodes 142 143 satelite-embedded elaboration-additional-e  5138
+create-a-node-here really 61.136 144 {and help out her Czech compatriot}
+autolink_nodes 5138 144 multinuclear List  5139
+create-a-node-here really 61.182 145 { by singing the slow parts of "Traviata."}
+nextSentence really
+autolink_nodes 144 145 satelite means  5140
+disconnect_node 5135 disconnect
+#autolink_nodes 136 137 satelite explanation-argumentative  5141
+#UNDID
+autolink_nodes 5135 137 multinuclear List  5141
+autolink_nodes 136 5141 satelite example  5142
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117}
+autolink_nodes 5074 5112 multinuclear Topic-Drift below 5142
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117 5112}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117 5112 5013}
+create-a-node-here really 63.102 146 { \n\nThe Tokyo International Film Festival was no match for the Cannes Film Festival in terms of prestige, }
+create-a-node-here really 63.129 147 {but it made its mark: }
+autolink_nodes 146 147 multinuclear Contrast  5143
+create-a-node-here really 63.225 148 {It awarded the largest cash prize of any film festival to young and first-time film makers.}
+autolink_nodes 147 148 satelite explanation-argumentative  5144
+create-a-node-here really 65.158 149 { \n\nAt this year's event, the third since the festival got under way in 1985, Idrissa Ouedraogo of Burkina Faso won the Sakura Gold prize of $143,000 for "Yaaba" }
+create-a-node-here really 65.177 150 {("Old Woman").}
+nextSentence really
+autolink_nodes 149 150 satelite-embedded interpretation-s-e  5145
+#autolink_nodes 5143 5145 satelite elaboration-additional  5146
+#UNDID
+autolink_nodes 148 5145 satelite explanation-argumentative  5146
+create-a-node-here really 66.85 151 {\nBy comparison, Cannes now gives $39,000 to the winner of its young director's award. }
+autolink_nodes 5145 151 multinuclear Comparison  5147
+create-a-node-here really 68.28 152 {\n\nSays director George Miller }
+create-a-node-here really 68.46 153 {("Mad Max"): }
+autolink_nodes 152 153 satelite-embedded elaboration-additional-e  5148
+create-a-node-here really 68.60 154 {"I think }
+create-a-node-here really 68.143 155 {the Tokyo festival may become known as a major attraction for young directors }
+autolink_nodes 154 155 nucleus attribution  5149
+autolink_nodes 5148 5149 nucleus attribution  5150
+create-a-node-here really 68.197 156 {because of the money as well as the recognition."}
+nextSentence really
+autolink_nodes 155 156 multinuclear Cause-Result  5151
+create-a-node-here really 70.20 157 { \n\nThere are drawbacks.}
+nextSentence really
+autolink_nodes 5147 5150 satelite elaboration-additional  5152
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117 5112 5013 5150}
+autolink_nodes 5143 157 satelite evaluation-s  5153
+create-a-node-here really 71.112 158 {\nVincent Tolentino, a correspondent for the French magazine Telerama, says of the recently ended Tokyo festival: }
+#create-a-node-here really 71.138 159 {"No one makes deals .}
+#nextSentence really
+#autolink_nodes 158 159 nucleus attribution  5154
+#autolink_nodes 157 5154 satelite explanation-argumentative  5155
+#create-a-node-here really 71.145 160 { .}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#nextSentence really
+#create-a-node-here really 71.148 160 { . . }
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+nextSentence really
+create-a-node-here really 71.142 159 {"No one makes deals . . .}
+nextSentence really
+create-a-node-here really 71.212 160 { and most of the films have been seen before at other festivals."}
+nextSentence really
+autolink_nodes 159 160 multinuclear List  5154
+autolink_nodes 158 5154 nucleus attribution  5155
+autolink_nodes 157 5155 satelite explanation-argumentative  5156
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117 5112 5013 5150 5156}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117 5112 5013 5150 5156 5143}
+autolink_nodes 5074 5153 multinuclear Topic-Shift above 5157
+create-a-node-here really 73.15 161 { \n\nBelgium decided}
+create-a-node-here really 73.35 162 { that investors}
+autolink_nodes 161 162 nucleus attribution  5158
+create-a-node-here really 73.85 163 { who demand the delivery of their securities }
+#autolink_nodes 162 163 satelite-embedded elaboration-additional-e below 5159
+#UNDID
+autolink_nodes 162 163 satelite-embedded elaboration-object-attribute-e below 5159
+create-a-node-here really 73.129 164 {when they buy shares or domestic bonds }
+autolink_nodes 163 164 satelite circumstance  5160
+create-a-node-here really 73.184 165 {will have to pay an additional 100 Belgian francs }
+autolink_nodes 5159 165 multinuclear Same-Unit  5161
+create-a-node-here really 73.202 166 {(about $2.60)}
+#autolink_nodes 165 166 satelite definition  5162
+#UNDID
+autolink_nodes 165 166 satelite definition  5162
+create-a-node-here really 73.230 167 { for each transaction, }
+autolink_nodes 5162 167 multinuclear Same-Unit  5163
+create-a-node-here really 74.0 168 {bringing the total fee to 200 francs.\n}
+disconnect_node 166 disconnect
+#autolink_nodes 165 166 satelite restatement  5164
+#UNDID
+disconnect_node 167 disconnect
+autolink_nodes 165 166 satelite restatement  5164
+autolink_nodes 5164 167 multinuclear Same-Unit  5165
+autolink_nodes 5165 168 satelite interpretation-s  5166
+create-a-node-here really 74.28 169 {While no figures exist,}
+create-a-node-here really 74.113 170 { it is thought that many small investors in Belgium store securities privately, }
+#autolink_nodes 169 170 nucleus circumstance  5167
+#UNDID
+autolink_nodes 169 170 nucleus concession  5167
+create-a-node-here really 74.171 171 {in some cases to avoid paying high inheritance taxes.}
+nextSentence really
+autolink_nodes 170 171 satelite purpose below 5168
+autolink_nodes 5167 5158 multinuclear Problem-Solution  5169
+create-a-node-here really 75.60 172 {\nThe law could redound to the advantage of brokers and banks,}
+create-a-node-here really 75.137 173 { who incur high administrative costs to deliver securities to investors.}
+nextSentence really
+autolink_nodes 172 173 satelite-embedded elaboration-additional-e  5170
+autolink_nodes 5169 5170 satelite consequence-s  5171
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117 5112 5013 5150 5156 5143 5171}
+autolink_nodes 5157 5171 multinuclear Topic-Shift below 5171
+create-a-node-here really 77.54 174 { \n\nJapan is considering giving aid to Hungary and Poland }
+create-a-node-here really 77.102 175 {to support their recent political reforms, }
+autolink_nodes 174 175 satelite purpose  5172
+create-a-node-here really 77.149 176 {a spokesman for the Foreign Ministry said.}
+nextSentence really
+autolink_nodes 5172 176 satelite attribution  5173
+create-a-node-here really 77.179 177 { "This is the first time,}
+create-a-node-here really 77.208 178 { if we decide to do so, }
+create-a-node-here really 77.282 179 {for Japan to extend aid of this kind to Eastern European countries," }
+#create-a-node-here really 77.306 180 {the spokesman said.}
+#nextSentence really
+#UNDID
+#UNDID
+autolink_nodes 178 179 nucleus condition  5174
+autolink_nodes 177 5174 multinuclear Same-Unit  5175
+create-a-node-here really 78.0 180 {the spokesman said.\n}
+autolink_nodes 5175 180 satelite attribution  5176
+autolink_nodes 5173 5176 satelite elaboration-additional  5177
+create-a-node-here really 78.13 181 {He said }
+create-a-node-here really 78.158 182 {Prime Minister Toshiki Kaifu also is studying the possibility of a visit to the two Eastern bloc nations and to Western Europe next January.}
+nextSentence really
+autolink_nodes 181 182 nucleus attribution  5178
+autolink_nodes 5176 5178 multinuclear List  5179
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117 5112 5013 5150 5156 5143 5171 5179}
+autolink_nodes 5157 5177 multinuclear Topic-Shift below 5179
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117 5112 5013 5150 5156 5143 5171 5179 5177}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117 5112 5013 5150 5156 5143 5171 5179 5177 5074}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117 5112 5013 5150 5156 5143 5171 5179 5177 5074 5153}
+collapsed_nodes {5039 5036 5041 5007 5033 5032 5072 5065 5053 5075 5081 5093 106 5101 5103 5111 5110 5130 5132 5117 5112 5013 5150 5156 5143 5171 5179 5177 5074 5153}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075}
+create-a-node-here really 80.134 183 { \n\nDrugs were a major issue in two days of talks between French President Francois Mitterrand and Spanish Prime Minister Felipe Gonzalez.}
+nextSentence really
+autolink_nodes 5157 183 multinuclear Topic-Shift below 5179
+create-a-node-here really 80.210 184 { "I demand the utmost severity in the fight against drug traffickers," }
+create-a-node-here really 80.280 185 {President Mitterrand said after the meeting in Valladolid, Spain.}
+nextSentence really
+autolink_nodes 184 185 satelite attribution  5180
+autolink_nodes 183 5180 satelite elaboration-additional  5181
+create-a-node-here really 81.9 186 {\nHe added:}
+create-a-node-here really 81.45 187 { "Banks must open their books."}
+nextSentence really
+autolink_nodes 186 187 nucleus attribution  5182
+autolink_nodes 5180 5182 satelite elaboration-additional  5183
+create-a-node-here really 81.190 188 { The leaders' talks coincided with a meeting in Madrid of anti-drug experts from the U.S., France, Italy, Spain, Peru, Bolivia and Colombia.}
+nextSentence really
+autolink_nodes 5181 188 satelite elaboration-additional  5184
+create-a-node-here really 82.16 189 {\nThat conference,}
+create-a-node-here really 82.45 190 { which began yesterday, }
+autolink_nodes 189 190 satelite-embedded elaboration-additional-e  5185
+create-a-node-here really 82.132 191 {was expected to cover such matters as police training and extradition agreements, }
+autolink_nodes 5185 191 multinuclear Same-Unit  5186
+create-a-node-here really 82.160 192 {Spanish officials said.}
+nextSentence really
+autolink_nodes 5186 192 satelite attribution  5187
+autolink_nodes 188 5187 satelite elaboration-additional  5188
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184}
+create-a-node-here really 84.34 193 { \n\nThree Soviet government officials }
+autolink_nodes 5157 193 multinuclear Topic-Shift below 5188
+create-a-node-here really 84.133 194 {-- the ministers of railroads, of foreign economic relations and of heavy-machine building -- }
+autolink_nodes 193 194 satelite-embedded elaboration-set-member-e  5189
+create-a-node-here really 84.177 195 {will visit Tehran next month for talks,}
+autolink_nodes 5189 195 multinuclear Same-Unit  5190
+create-a-node-here really 84.220 196 { Iran's official news agency reported.}
+nextSentence really
+autolink_nodes 5190 196 satelite attribution  5191
+create-a-node-here really 85.18 197 {\nUnder an agreement}
+create-a-node-here really 85.41 198 { signed last June,}
+autolink_nodes 197 198 satelite-embedded elaboration-additional-e  5192
+create-a-node-here really 85.154 199 { the Soviets will help Iran in oil exploration and other areas in return for exports of Iranian natural gas.}
+nextSentence really
+autolink_nodes 5192 199 multinuclear Same-Unit  5193
+autolink_nodes 5191 5193 satelite circumstance  5194
+create-a-node-here really 86.93 200 {\nAnd in Paris, Mahmoud Vaezi, Iran's vice minister of foreign affairs, began a five-day visit }
+create-a-node-here really 86.174 201 {to discuss such matters as compensation to French enterprises for contracts }
+autolink_nodes 200 201 satelite purpose  5195
+create-a-node-here really 86.209 202 {broken by the Khomeini regime.}
+nextSentence really
+autolink_nodes 201 202 satelite-embedded elaboration-object-attribute-e  5196
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5191}
+autolink_nodes 5194 5195 multinuclear Topic-Drift  5197
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5191 5197}
+create-a-node-here really 88.60 203 { \n\nToto Co., a Japanese ceramics maker, has developed a toilet }
+create-a-node-here really 88.98 204 {that can check the user's health.}
+nextSentence really
+autolink_nodes 203 204 satelite-embedded elaboration-object-attribute-e  5198
+create-a-node-here really 89.22 205 {\nA Toto spokesman said }
+create-a-node-here really 89.86 206 {the toilet not only tests blood pressure, pulse and urine, }
+create-a-node-here really 89.134 207 {it also stores the data for up to 130 days.}
+nextSentence really
+autolink_nodes 205 206 nucleus attribution  5199
+autolink_nodes 206 207 multinuclear Sequence  5200
+create-a-node-here really 90.103 208 {\nNippon Telegraph & Telephone Corp. and Omron Tateisi Electronics are involved with Toto's new product, }
+autolink_nodes 5198 5199 satelite elaboration-additional  5201
+autolink_nodes 5201 208 satelite elaboration-additional  5202
+create-a-node-here really 90.160 209 {which will go on the market in about two years time.}
+nextSentence really
+autolink_nodes 208 209 satelite-embedded elaboration-additional-e  5203
+create-a-node-here really 90.194 210 { "It will be very expensive,"}
+autolink_nodes 5202 210 satelite elaboration-additional  5204
+create-a-node-here really 90.221 211 { the spokesman warned.}
+nextSentence really
+autolink_nodes 210 211 satelite attribution  5205
+create-a-node-here really 90.266 212 { "The price cannot be less than $7,000."}
+nextSentence really
+autolink_nodes 5205 212 satelite elaboration-additional  5206
+autolink_nodes 5157 5204 multinuclear Topic-Shift below 5206
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5191 5197 5202}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5191 5197 5202 5204}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5202 5204}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5202 5204 5194}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5202 5204 5194 5195}
+create-a-node-here really 92.76 213 { \n\nSince Mexican President Carlos Salinas de Gortari took office last December,}
+create-a-node-here really 92.156 214 { special agents have arrested more than 6,000 federal employees on charges }
+autolink_nodes 213 214 nucleus circumstance  5207
+create-a-node-here really 92.199 215 {ranging from extortion to tax evasion.}
+nextSentence really
+autolink_nodes 214 215 satelite-embedded example-e below 5208
+create-a-node-here really 94.82 216 { \n\nHector Castaneda Jimenez, chief prosecutor at the Attorney General's Office, said }
+nextSentence really
+create-a-node-here really 94.195 217 {that an estimated $82.8 million in government property and unpaid taxes have been recovered in the campaign }
+autolink_nodes 216 217 nucleus attribution  5209
+create-a-node-here really 94.232 218 {to root out official corruption.}
+nextSentence really
+autolink_nodes 217 218 satelite-embedded elaboration-object-attribute-e below 5210
+autolink_nodes 5207 5209 satelite elaboration-additional  5211
+create-a-node-here really 96.132 219 { \n\nMr. Castaneda's office will reportedly issue warrants during the next six months for the arrest of another 10,000 federal employees.}
+nextSentence really
+autolink_nodes 5209 219 multinuclear List  5212
+nextSentence really
+create-a-node-here really 97.80 220 {\nThose employees are suspected of illegally gaining an estimated $376.8 million, }
+create-a-node-here really 97.151 221 {the prosecutor was quoted as saying by the Excelsior news service.}
+nextSentence really
+autolink_nodes 220 221 satelite attribution  5213
+autolink_nodes 5212 5213 satelite elaboration-additional  5214
+create-a-node-here really 98.9 222 {\nHe added }
+create-a-node-here really 98.76 223 {that federal agents hope to recover at least half that amount.}
+nextSentence really
+autolink_nodes 222 223 nucleus attribution  5215
+autolink_nodes 5213 5215 satelite elaboration-additional  5216
+create-a-node-here really 100.42 224 { \n\n"The rest will probably not be recoverable}
+create-a-node-here really 100.98 225 { either because the statute of limitations expired }
+autolink_nodes 224 225 satelite result  5217
+create-a-node-here really 100.158 226 {or because many prefer to spend additional time in jail}
+autolink_nodes 225 226 multinuclear Otherwise  5218
+create-a-node-here really 100.194 227 { rather than return the money,"}
+autolink_nodes 226 227 satelite preference  5219
+autolink_nodes 5215 5217 multinuclear Contrast  5220
+create-a-node-here really 100.220 228 { the prosecutor said.}
+nextSentence really
+autolink_nodes 5217 228 satelite attribution  5221
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5202 5204 5194 5195 5220}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5202 5204 5194 5195 5220 5214}
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5202 5204 5194 5195 5220 5214 5207}
+#autolink_nodes 5157 5211 multinuclear Topic-Shift below 5221
+#UNDID
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5202 5204 5194 5195 5220 5214 5207 5211}
+autolink_nodes 5157 5211 multinuclear Topic-Shift below 5221
+create-a-node-here really 102.19 229 { \n\nThe United Nations,}
+create-a-node-here really 102.91 230 { which is distributing farm tools to returning refugees in Namibia,}
+autolink_nodes 229 230 satelite-embedded elaboration-additional-e  5222
+create-a-node-here really 102.118 231 { is rethinking a plan }
+autolink_nodes 5222 231 multinuclear Same-Unit  5223
+create-a-node-here really 102.144 232 {to hand out machetes }
+autolink_nodes 231 232 satelite-embedded elaboration-object-attribute-e  5224
+create-a-node-here really 102.243 233 {because of the tense political climate during preparations for independence from South Africa.}
+autolink_nodes 5223 233 satelite reason  5225
+create-a-node-here really 102.262 234 { "The decision}
+create-a-node-here really 102.304 235 { to distribute machetes at this time,}
+autolink_nodes 234 235 satelite-embedded elaboration-object-attribute-e  5226
+create-a-node-here really 102.341 236 { which could be used as weapons,}
+autolink_nodes 235 236 satelite-embedded elaboration-additional-e  5227
+create-a-node-here really 102.365 237 { is under review," }
+autolink_nodes 5226 237 multinuclear Same-Unit  5228
+#create-a-node-here really 102.392 238 {said a U.N. spokesman.}
+#nextSentence really
+#autolink_nodes 5228 238 satelite attribution  5229
+#autolink_nodes 5225 5229 satelite restatement  5230
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 102.399 238 {said a U.N. spokesman. . . . }
+autolink_nodes 5228 238 satelite attribution  5229
+autolink_nodes 5225 5229 satelite restatement  5230
+autolink_nodes 5157 5230 multinuclear Topic-Shift below 5230
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5202 5204 5194 5195 5220 5214 5207 5211 5230}
+create-a-node-here really 102.480 239 {Sources close to the family of Pakistani Prime Minister Benazir Bhutto said }
+create-a-node-here really 102.543 240 {she is expecting a second child, probably early next year.}
+nextSentence really
+autolink_nodes 239 240 nucleus attribution  5231
+autolink_nodes 5157 5231 multinuclear Topic-Shift below 5231
+collapsed_nodes {5150 5156 5143 5171 5179 5177 5153 5013 5045 5093 5103 5117 5102 5112 5033 5075 5184 5202 5204 5194 5195 5220 5214 5207 5211 5230 5157}
+collapsed_nodes {}
+disconnect_node 84 disconnect
+autolink_nodes 5085 84 satelite-embedded analogy-e  5232
+disconnect_node 166 disconnect
+autolink_nodes 165 166 satelite-embedded restatement-e  5233
+disconnect_node 178 disconnect
+autolink_nodes 179 178 satelite-embedded condition-e  5234
+collapsed_nodes {5074}
+collapsed_nodes {5074 5157}
+collapsed_nodes {}

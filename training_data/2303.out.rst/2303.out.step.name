@@ -1,0 +1,335 @@
+nextSentence really
+create-a-node-here really 2.34 1 {\nA consortium of private investors }
+create-a-node-here really 2.66 2 {operating as LJH Funding Co. }
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.74 3 {said }
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 2.187 4 {it has made a $409 million cash bid for most of L.J. Hooker Corp. 's real-estate and shopping-center holdings.}
+nextSentence really
+autolink_nodes 5002 4 nucleus attribution  5003
+create-a-node-here really 4.117 5 { \n\nThe $409 million bid includes the assumption of an estimated $300 million in secured liabilities on those properties,}
+autolink_nodes 5003 5 satelite elaboration-part-whole  5004
+create-a-node-here really 4.140 6 { according to those }
+autolink_nodes 5 6 satelite attribution  5005
+create-a-node-here really 4.158 7 {making the bid.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 6.182 8 { \n\nThe group is led by Jay Shidler, chief executive officer of Shidler Investment Corp. in Honolulu, and A. Boyd Simpson, chief executive of the Atlanta-based Simpson Organization Inc. }
+autolink_nodes 5004 8 satelite elaboration-additional  5007
+create-a-node-here really 6.256 9 {Mr. Shidler's company specializes in commercial real-estate investment }
+autolink_nodes 8 9 satelite elaboration-additional  5008
+create-a-node-here really 6.300 10 {and claims to have $1 billion in assets; }
+autolink_nodes 9 10 multinuclear List  5009
+create-a-node-here really 6.376 11 {Mr. Simpson is a developer and a former senior executive of L.J. Hooker.}
+nextSentence really
+autolink_nodes 5009 11 multinuclear List above 5010
+create-a-node-here really 8.21 12 { \n\n"The assets are good,}
+autolink_nodes 5010 12 satelite elaboration-additional  5011
+create-a-node-here really 8.70 13 { but they require more money and management" }
+autolink_nodes 12 13 nucleus antithesis  5012
+create-a-node-here really 8.130 14 {than can be provided in L.J. Hooker's current situation,}
+autolink_nodes 13 14 multinuclear Comparison  5013
+create-a-node-here really 8.168 15 { said Mr. Simpson in an interview.}
+nextSentence really
+autolink_nodes 5012 15 satelite attribution  5014
+create-a-node-here really 8.216 16 { "Hooker's philosophy was to build and sell.}
+nextSentence really
+autolink_nodes 5014 16 satelite elaboration-additional  5015
+create-a-node-here really 9.27 17 {\nWe want to build and hold."}
+nextSentence really
+autolink_nodes 16 17 multinuclear Contrast  5016
+create-a-node-here really 11.13 18 { \n\nL.J. Hooker, }
+autolink_nodes 5011 18 satelite circumstance  5017
+create-a-node-here really 11.35 19 {based in Atlanta, }
+autolink_nodes 18 19 satelite-embedded elaboration-additional-e  5018
+create-a-node-here really 11.132 20 {is operating with protection from its creditors under Chapter 11 of the U.S. Bankruptcy Code.}
+nextSentence really
+autolink_nodes 5018 20 multinuclear Same-Unit  5019
+create-a-node-here really 12.126 21 {\nIts parent company, Hooker Corp. of Sydney, Australia, is currently being managed by a court-appointed provisional liquidator.}
+nextSentence really
+autolink_nodes 5019 21 satelite elaboration-additional  5020
+create-a-node-here really 13.80 22 {\nSanford Sigoloff, chief executive of L.J. Hooker, said yesterday in a statement }
+autolink_nodes 5020 22 satelite elaboration-additional  5021
+create-a-node-here really 13.117 23 {that he has not yet seen the bid }
+autolink_nodes 22 23 nucleus attribution  5022
+create-a-node-here really 13.149 24 {but that he would review it }
+autolink_nodes 23 24 nucleus antithesis  5023
+create-a-node-here really 13.210 25 {and bring it to the attention of the creditors committee.}
+nextSentence really
+autolink_nodes 24 25 multinuclear List  5024
+change_rel 25 Sequence
+create-a-node-here really 16.0 26 { \n\nThe $409 million bid is estimated by Mr. Simpson as representing 75% of the value of all Hooker real-estate holdings in the U.S.\n}
+collapsed_nodes {5021}
+collapsed_nodes {5021 5015}
+collapsed_nodes {5021 5015 5008}
+autolink_nodes 5007 26 satelite elaboration-additional  5025
+create-a-node-here really 16.104 27 {Not included in the bid are Bonwit Teller or B. Altman & Co., L.J. Hooker's department-store chains.}
+nextSentence really
+autolink_nodes 26 27 satelite elaboration-additional  5026
+create-a-node-here really 18.222 28 { \n\nThe offer covers the massive 1.8 million-square-foot Forest Fair Mall in Cincinnati, the 800,000 square-foot Richland Fashion Mall in Columbia, S.C., and the 700,000 square-foot Thornton Town Center mall in Thornton, Colo.}
+nextSentence really
+autolink_nodes 5026 28 satelite elaboration-part-whole  5027
+create-a-node-here really 19.75 29 {\nThe Thornton mall opened Sept. 19 with a Bigg's hypermarket as its anchor; }
+autolink_nodes 28 29 satelite elaboration-additional  5028
+create-a-node-here really 19.125 30 {the Columbia mall is expected to open Nov. 15.}
+nextSentence really
+autolink_nodes 29 30 multinuclear List  5029
+create-a-node-here really 21.80 31 { \n\nOther Hooker properties included are a 20-story office tower in midtown Atlanta,}
+autolink_nodes 5028 31 multinuclear List  5030
+create-a-node-here really 21.125 32 { expected to be completed next February; }
+autolink_nodes 31 32 satelite-embedded elaboration-additional-e  5031
+create-a-node-here really 21.240 33 {vacant land sites in Florida and Ohio; L.J. Hooker International, the commercial real-estate brokerage company }
+autolink_nodes 5031 33 multinuclear Same-Unit  5032
+create-a-node-here really 21.308 34 {that once did business as Merrill Lynch Commercial Real Estate, }
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5033
+create-a-node-here really 21.340 35 {plus other shopping centers.}
+nextSentence really
+autolink_nodes 5032 35 multinuclear Same-Unit below 5033
+collapsed_nodes {5021 5015 5008 5030}
+collapsed_nodes {5021 5015 5008 5030 5027}
+collapsed_nodes {5021 5015 5008 5030 5027 5005}
+collapsed_nodes {5021 5015 5008 5030 5027 5005 5007}
+create-a-node-here really 23.93 36 { \n\nThe consortium was put together by Hoare Govett, the London-based investment banking company }
+autolink_nodes 5025 36 satelite elaboration-additional  5034
+create-a-node-here really 23.144 37 {that is a subsidiary of Security Pacific Corp. }
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5035
+create-a-node-here really 23.182 38 {"We don't anticipate any problems }
+autolink_nodes 5035 38 satelite explanation-argumentative  5036
+change_rel 38 evaluation-s
+create-a-node-here really 23.223 39 {in raising the funding for the bid," }
+autolink_nodes 38 39 satelite circumstance  5037
+create-a-node-here really 23.318 40 {said Allan Campbell, the head of mergers and acquisitions at Hoare Govett, in an interview.}
+nextSentence really
+autolink_nodes 5037 40 satelite attribution  5038
+create-a-node-here really 24.62 41 {\nHoare Govett is acting as the consortium's investment bankers.}
+nextSentence really
+autolink_nodes 5036 41 satelite elaboration-additional  5039
+create-a-node-here really 26.49 42 { \n\nAccording to people familiar with the consortium,}
+autolink_nodes 5039 42 satelite elaboration-additional  5040
+create-a-node-here really 26.124 43 { the bid was code-named Project Klute, a reference to the film "Klute" }
+autolink_nodes 42 43 nucleus attribution  5041
+create-a-node-here really 26.150 44 {in which a prostitute }
+#autolink_nodes 43 44 satelite-embedded elaboration-additional-e below 5042
+#UNDID
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e below 5042
+create-a-node-here really 26.183 45 {played by actress Jane Fonda }
+autolink_nodes 44 45 satelite-embedded elaboration-additional-e  5043
+#create-a-node-here really 26.263 46 {is saved from a psychotic businessman by a police officer named John Klute. }
+#autolink_nodes 5043 46 multinuclear Same-Unit  5044
+#create-a-node-here really 28.46 47 {\n\nL.J. Hooker was a small home-building company }
+#collapsed_nodes {5021 5015 5008 5030 5027 5005 5007 5041}
+#collapsed_nodes {5021 5015 5008 5030 5027 5005 5007 5041 5040}
+#autolink_nodes 5034 47 satelite background  5045
+#create-a-node-here really 28.75 48 {based in Atlanta in 1979 }
+#autolink_nodes 47 48 satelite-embedded elaboration-additional-e  5046
+#create-a-node-here really 28.145 49 {when Mr. Simpson was hired to push it into commercial development.}
+#nextSentence really
+#autolink_nodes 5046 49 satelite circumstance  5047
+#create-a-node-here really 29.37 50 {\nThe company grew modestly until 1986,}
+#autolink_nodes 5047 50 satelite elaboration-additional  5048
+#create-a-node-here really 29.163 51 { when a majority position in Hooker Corp. was acquired by Australian developer George Herscu, currently Hooker's chairman.}
+#nextSentence really
+#autolink_nodes 50 51 multinuclear Sequence  5049
+#create-a-node-here really 31.88 52 { \n\nMr. Herscu proceeded to launch an ambitious, but ill-fated, $1 billion acquisition binge}
+#autolink_nodes 5049 52 multinuclear Sequence below 5049
+#create-a-node-here really 31.314 53 { that included Bonwit Teller and B. Altman & Co., as well as majority positions in Merksamer Jewelers, a Sacramento chain; Sakowitz Inc., the Houston-based retailer, and Parisian Inc., the Southeast department-store chain.}
+#nextSentence really
+#autolink_nodes 52 53 satelite-embedded elaboration-part-whole-e  5050
+#create-a-node-here really 33.91 54 { \n\nEventually Mr. Simpson and Mr. Herscu had a falling out over the direction of the company, }
+#autolink_nodes 5049 54 multinuclear Sequence below 5050
+#create-a-node-here really 33.99 55 {and }
+#autolink_nodes 5049 55 multinuclear Sequence below 5050
+#create-a-node-here really 33.120 56 {Mr. Simpson said }
+#autolink_nodes 55 56 satelite attribution  5051
+#create-a-node-here really 33.144 57 {he resigned in 1988.}
+#nextSentence really
+#autolink_nodes 5051 57 multinuclear Same-Unit  5052
+#create-a-node-here really 34.98 58 {\nSince then, Hooker Corp. has sold its interest in the Parisian chain back to Parisian's management}
+#autolink_nodes 5049 58 multinuclear Sequence below 5052
+#create-a-node-here really 34.165 59 { and is currently attempting to sell the B. Altman & Co. chain.}
+#nextSentence really
+#autolink_nodes 5049 59 multinuclear Sequence below 5052
+#create-a-node-here really 35.86 60 {\nIn addition, Robert Sakowitz, chief executive of the Sakowitz chain, is seeking funds }
+#autolink_nodes 59 60 multinuclear List  5053
+#create-a-node-here really 35.136 61 {to buy out the Hooker interest in his company.}
+#nextSentence really
+#autolink_nodes 60 61 satelite purpose  5054
+#create-a-node-here really 36.78 62 {\nThe Merksamer chain is currently being offered for sale by First Boston Corp. }
+#autolink_nodes 5049 62 multinuclear Sequence below 5054
+#collapsed_nodes {5021 5015 5008 5030 5027 5005 5007 5041 5040 5049}
+#create-a-node-here really 38.21 63 {\n\nReached in Honolulu, }
+#autolink_nodes 5045 63 satelite elaboration-additional  5055
+#create-a-node-here really 38.42 64 {Mr. Shidler said }
+#autolink_nodes 63 64 nucleus circumstance  5056
+#create-a-node-here really 38.63 65 {that he believes }
+#autolink_nodes 64 65 nucleus attribution  5057
+#create-a-node-here really 38.134 66 {the various Hooker malls can become profitable with new management.}
+#nextSentence really
+#autolink_nodes 65 66 nucleus attribution  5058
+#create-a-node-here really 38.168 67 { "These aren't mature assets, }
+#autolink_nodes 5056 67 satelite explanation-argumentative  5059
+#create-a-node-here really 38.211 68 {but they have the potential to be so," }
+#autolink_nodes 67 68 nucleus antithesis  5060
+#create-a-node-here really 38.232 69 {said Mr. Shidler.}
+#nextSentence really
+#autolink_nodes 5060 69 satelite attribution  5061
+#create-a-node-here really 38.256 70 { "Managed properly, }
+#autolink_nodes 5061 70 satelite elaboration-additional  5062
+#create-a-node-here really 38.344 71 {and with a long-term outlook, these can become investment-grade quality properties."}
+#nextSentence really
+#autolink_nodes 70 71 nucleus condition  5063
+#collapsed_nodes {5021 5015 5008 5030 5027 5005 5007 5041 5040 5049 5055}
+#collapsed_nodes {}
+#disconnect_node 56 disconnect
+#autolink_nodes 55 56 satelite-embedded attribution-e  5064
+#collapsed_nodes {5055}
+#collapsed_nodes {}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 26.245 46 {is saved from a psychotic businessman by a police officer }
+autolink_nodes 5043 46 multinuclear Same-Unit  5044
+create-a-node-here really 27.0 47 {named John Klute. \n}
+autolink_nodes 46 47 satelite-embedded elaboration-object-attribute-e  5045
+collapsed_nodes {5021 5015 5008 5030 5027 5005 5007 5041}
+collapsed_nodes {5021 5015 5008 5030 5027 5005 5007 5041 5040}
+create-a-node-here really 28.46 48 {\nL.J. Hooker was a small home-building company }
+autolink_nodes 5034 48 satelite background  5046
+create-a-node-here really 28.74 49 {based in Atlanta in 1979}
+autolink_nodes 48 49 satelite-embedded elaboration-additional-e  5047
+create-a-node-here really 28.145 50 { when Mr. Simpson was hired to push it into commercial development.}
+nextSentence really
+autolink_nodes 5047 50 satelite circumstance  5048
+create-a-node-here really 29.38 51 {\nThe company grew modestly until 1986, }
+create-a-node-here really 29.163 52 {when a majority position in Hooker Corp. was acquired by Australian developer George Herscu, currently Hooker's chairman.}
+nextSentence really
+autolink_nodes 51 52 multinuclear Sequence  5049
+create-a-node-here really 31.89 53 { \n\nMr. Herscu proceeded to launch an ambitious, but ill-fated, $1 billion acquisition binge }
+autolink_nodes 5049 53 multinuclear Sequence below 5049
+create-a-node-here really 31.314 54 {that included Bonwit Teller and B. Altman & Co., as well as majority positions in Merksamer Jewelers, a Sacramento chain; Sakowitz Inc., the Houston-based retailer, and Parisian Inc., the Southeast department-store chain.}
+nextSentence really
+autolink_nodes 53 54 satelite-embedded elaboration-part-whole-e  5050
+create-a-node-here really 33.90 55 { \n\nEventually Mr. Simpson and Mr. Herscu had a falling out over the direction of the company,}
+autolink_nodes 5049 55 multinuclear Sequence below 5050
+create-a-node-here really 33.99 56 { and }
+autolink_nodes 5049 56 multinuclear Sequence below 5050
+create-a-node-here really 33.119 57 {Mr. Simpson said}
+autolink_nodes 56 57 satelite-embedded attribution-e  5051
+create-a-node-here really 33.144 58 { he resigned in 1988.}
+nextSentence really
+autolink_nodes 5049 58 multinuclear Sequence below 5051
+collapsed_nodes {5021 5015 5008 5030 5027 5005 5007 5041 5040 5050}
+autolink_nodes 5048 5049 satelite elaboration-additional  5052
+create-a-node-here really 34.99 59 {\nSince then, Hooker Corp. has sold its interest in the Parisian chain back to Parisian's management }
+autolink_nodes 5049 59 multinuclear Sequence below 5052
+create-a-node-here really 34.165 60 {and is currently attempting to sell the B. Altman & Co. chain.}
+#nextSentence really
+#autolink_nodes 59 60 multinuclear List  5053
+#create-a-node-here really 35.86 61 {\nIn addition, Robert Sakowitz, chief executive of the Sakowitz chain, is seeking funds }
+#autolink_nodes 5053 61 satelite elaboration-additional  5054
+#create-a-node-here really 35.136 62 {to buy out the Hooker interest in his company.}
+#nextSentence really
+#autolink_nodes 61 62 satelite purpose  5055
+#disconnect_node 5054 disconnect
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5049 60 multinuclear Sequence below 5052
+create-a-node-here really 35.86 61 {\nIn addition, Robert Sakowitz, chief executive of the Sakowitz chain, is seeking funds }
+autolink_nodes 60 61 satelite elaboration-additional  5053
+create-a-node-here really 35.136 62 {to buy out the Hooker interest in his company.}
+nextSentence really
+autolink_nodes 61 62 satelite purpose  5054
+create-a-node-here really 36.77 63 {\nThe Merksamer chain is currently being offered for sale by First Boston Corp.}
+autolink_nodes 5053 63 multinuclear Temporal-Same-Time  5055
+collapsed_nodes {5021 5015 5008 5030 5027 5005 5007 5041 5040 5050 5049}
+collapsed_nodes {5021 5015 5008 5030 5027 5005 5007 5041 5040 5050 5049 5034}
+create-a-node-here really 38.20 64 { \n\nReached in Honolulu,}
+autolink_nodes 5046 64 satelite elaboration-additional  5056
+create-a-node-here really 38.42 65 { Mr. Shidler said }
+autolink_nodes 64 65 nucleus circumstance  5057
+create-a-node-here really 38.63 66 {that he believes }
+autolink_nodes 65 66 nucleus attribution  5058
+create-a-node-here really 38.134 67 {the various Hooker malls can become profitable with new management.}
+nextSentence really
+autolink_nodes 66 67 nucleus attribution  5059
+create-a-node-here really 38.168 68 { "These aren't mature assets, }
+autolink_nodes 5057 68 satelite explanation-argumentative  5060
+create-a-node-here really 38.200 69 {but they have the potential }
+autolink_nodes 68 69 nucleus antithesis  5061
+create-a-node-here really 38.215 70 {to be so," }
+autolink_nodes 69 70 satelite-embedded elaboration-object-attribute-e below 5062
+create-a-node-here really 38.236 71 {said Mr. Shidler.}
+nextSentence really
+autolink_nodes 5061 71 satelite attribution  5063
+create-a-node-here really 38.260 72 { "Managed properly, }
+autolink_nodes 5063 72 satelite elaboration-additional  5064
+create-a-node-here really 38.348 73 {and with a long-term outlook, these can become investment-grade quality properties."}
+nextSentence really
+autolink_nodes 72 73 nucleus condition  5065
+collapsed_nodes {}

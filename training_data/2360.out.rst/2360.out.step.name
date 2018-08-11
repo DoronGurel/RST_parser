@@ -1,0 +1,253 @@
+nextSentence really
+create-a-node-here really 2.27 1 {\nCenTrust Savings Bank said }
+create-a-node-here really 2.135 2 {federal thrift regulators ordered it to suspend dividend payments on its two classes of preferred stock, }
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.222 3 {indicating that regulators' concerns about the troubled institution have heightened.}
+nextSentence really
+autolink_nodes 2 3 satelite cause below 5002
+create-a-node-here really 4.41 4 { \n\nIn a statement, Miami-based CenTrust said}
+autolink_nodes 5001 4 satelite explanation-argumentative  5003
+create-a-node-here really 4.145 5 { the regulators cited the thrift's operating losses and "apparent losses" in its junk-bond portfolio }
+autolink_nodes 4 5 nucleus attribution  5004
+create-a-node-here really 4.192 6 {in ordering the suspension of the dividends.}
+nextSentence really
+autolink_nodes 5 6 satelite circumstance below 5005
+create-a-node-here really 5.73 7 {\nRegulators also ordered CenTrust to stop buying back the preferred stock.}
+nextSentence really
+autolink_nodes 5004 7 satelite elaboration-additional  5006
+create-a-node-here really 7.105 8 { \n\nDavid L. Paul, chairman and chief executive officer, criticized the federal Office of Thrift Supervision,}
+autolink_nodes 5006 8 satelite elaboration-additional  5007
+create-a-node-here really 7.136 9 { which issued the directive,}
+autolink_nodes 8 9 satelite-embedded elaboration-additional-e  5008
+create-a-node-here really 7.147 10 { saying }
+autolink_nodes 5008 10 satelite means  5009
+change_rel 5009 evaluation-s
+create-a-node-here really 7.174 11 {it was "inappropriate" }
+autolink_nodes 10 11 nucleus attribution  5010
+create-a-node-here really 7.214 12 {and based on "insufficient" reasons.}
+nextSentence really
+autolink_nodes 11 12 multinuclear List  5011
+create-a-node-here really 8.8 13 {\nHe said }
+autolink_nodes 5010 13 satelite elaboration-additional  5012
+create-a-node-here really 8.74 14 {the thrift will try to get regulators to reverse the decision.}
+nextSentence really
+autolink_nodes 13 14 nucleus attribution  5013
+collapsed_nodes {5009}
+collapsed_nodes {5009 5001}
+create-a-node-here really 10.63 15 { \n\nThe suspension of a preferred stock dividend is a serious step }
+autolink_nodes 5003 15 satelite interpretation-s  5014
+create-a-node-here really 10.80 16 {that signals }
+autolink_nodes 15 16 satelite-embedded elaboration-additional-e  5015
+create-a-node-here really 10.149 17 {that regulators have deep concerns about an institution's health.}
+nextSentence really
+autolink_nodes 16 17 nucleus attribution  5016
+collapsed_nodes {5009 5001 5015}
+create-a-node-here really 12.64 18 { \n\nIn March, regulators labeled CenTrust a "troubled institution," }
+autolink_nodes 5014 18 satelite circumstance  5017
+create-a-node-here really 12.139 19 {largely because of its big junk-bond holdings and its operating losses.}
+nextSentence really
+autolink_nodes 18 19 satelite reason  5018
+#create-a-node-here really 13.114 20 {\nIn the same month, the Office of Thrift Supervision ordered the institution to stop paying common stock dividends }
+#UNDID
+create-a-node-here really 13.114 20 {\nIn the same month, the Office of Thrift Supervision ordered the institution to stop paying common stock dividends }
+#autolink_nodes 5018 20 satelite elaboration-additional  5019
+#UNDID
+autolink_nodes 5018 20 satelite elaboration-additional  5019
+create-a-node-here really 13.153 21 {until its operations were on track.}
+#autolink_nodes 20 21 satelite circumstance  5020
+#UNDID
+autolink_nodes 20 21 satelite condition  5020
+create-a-node-here really 15.20 22 { \n\nFor the nine months }
+collapsed_nodes {5009 5001 5015 5014}
+autolink_nodes 5017 22 satelite background  5021
+create-a-node-here really 15.38 23 {ended June 30,}
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5022
+nextSentence really
+create-a-node-here really 15.85 24 { CenTrust had a net loss of $21.3 million, }
+#autolink_nodes 5022 24 multinuclear Same-Unit  5023
+#UNDID
+autolink_nodes 5022 24 multinuclear Same-Unit  5023
+nextSentence really
+create-a-node-here really 15.144 25 {compared with year-earlier net income of $52.8 million.}
+nextSentence really
+autolink_nodes 5023 25 satelite comparison  5024
+create-a-node-here really 16.10 26 {\nCenTrust, }
+autolink_nodes 5024 26 satelite elaboration-additional  5025
+create-a-node-here really 16.49 27 {which is Florida's largest thrift, }
+autolink_nodes 26 27 satelite-embedded elaboration-additional-e  5026
+create-a-node-here really 16.127 28 {holds one of the largest junk-bond portfolios of any thrift in the nation.}
+nextSentence really
+autolink_nodes 5026 28 multinuclear Same-Unit  5027
+create-a-node-here really 17.96 29 {\nSince April, it has pared its high-yield bond holdings to about $890 million from $1.35 billion.}
+nextSentence really
+autolink_nodes 5025 29 satelite circumstance  5028
+create-a-node-here really 18.14 30 {\nMr. Paul said }
+autolink_nodes 29 30 satelite elaboration-additional  5029
+create-a-node-here really 18.91 31 {only about $150 million of the current holdings are tradeable securities }
+autolink_nodes 30 31 nucleus attribution  5030
+create-a-node-here really 18.150 32 {registered with the Securities and Exchange Commission.}
+nextSentence really
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e below 5031
+create-a-node-here really 19.15 33 {\nThe remainder, }
+autolink_nodes 5030 33 satelite elaboration-additional  5032
+create-a-node-here really 19.28 34 {he said, }
+autolink_nodes 33 34 satelite attribution  5033
+create-a-node-here really 19.91 35 {are commercial loan participations, or private placements, }
+autolink_nodes 5033 35 multinuclear Same-Unit  5034
+create-a-node-here really 19.126 36 {that aren't filed with the SEC }
+autolink_nodes 5034 36 satelite-embedded elaboration-object-attribute-e  5035
+create-a-node-here really 19.160 37 {and don't have a ready market.}
+nextSentence really
+autolink_nodes 36 37 multinuclear List  5036
+create-a-node-here really 21.89 38 { \n\nCenTrust and regulators have been in a dispute over market valuations for the junk bonds.}
+nextSentence really
+collapsed_nodes {5009 5001 5015 5014 5032}
+collapsed_nodes {5009 5001 5015 5014 5032 5027}
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028}
+autolink_nodes 5021 38 satelite circumstance  5037
+create-a-node-here really 22.110 39 {\nThe Office of Thrift Supervision has been hounding CenTrust to provide current market values for its holdings,}
+autolink_nodes 38 39 satelite elaboration-additional  5038
+create-a-node-here really 22.137 40 { but CenTrust has said }
+autolink_nodes 39 40 multinuclear Contrast  5039
+create-a-node-here really 22.175 41 {it can't easily obtain such values}
+autolink_nodes 40 41 nucleus attribution  5040
+create-a-node-here really 22.256 42 { because of the relative illiquidity of the bonds and lack of a ready market.}
+nextSentence really
+#autolink_nodes 5040 42 satelite result  5041
+#UNDID
+autolink_nodes 41 42 satelite result below 5041
+create-a-node-here really 25.0 43 { \n\nRegulators have become increasingly antsy about CenTrust's and other thrifts' junk-bond holdings in light of the recent federal thrift bailout legislation and the recent deep decline in the junk-bond market.\n}
+autolink_nodes 5038 43 satelite elaboration-additional  5042
+create-a-node-here really 25.110 44 {The legislation requires thrifts to divest themselves of junk bonds in the new, somber regulatory climate.}
+nextSentence really
+autolink_nodes 43 44 satelite elaboration-additional  5043
+nextSentence really
+create-a-node-here really 27.106 45 { \n\nIn American Stock Exchange composite trading Friday, CenTrust common shares closed at $3, down 12.5 cents.}
+nextSentence really
+autolink_nodes 5042 45 satelite elaboration-additional  5044
+create-a-node-here really 29.68 46 { \n\nIn a statement Friday, Mr. Paul challenged the regulators' decision,}
+autolink_nodes 5044 46 satelite elaboration-additional  5045
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5039}
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5039 5042}
+create-a-node-here really 29.80 47 { saying }
+autolink_nodes 46 47 satelite means  5046
+create-a-node-here really 29.220 48 {the thrift's operating losses and "apparent" junk-bond losses "have been substantially offset by gains in other activities of the bank."}
+nextSentence really
+autolink_nodes 47 48 nucleus attribution  5047
+create-a-node-here really 29.238 49 { He also said }
+autolink_nodes 5046 49 satelite elaboration-additional  5048
+create-a-node-here really 29.323 50 {substantial reserves have been set aside for possible losses from the junk bonds.}
+nextSentence really
+autolink_nodes 49 50 nucleus attribution  5049
+nextSentence really
+create-a-node-here really 30.89 51 {\nIn the third quarter, for instance, CenTrust added $22.5 million to its general reserves.}
+nextSentence really
+autolink_nodes 5049 51 satelite example  5050
+create-a-node-here really 32.13 52 { \n\nMr. Paul said}
+autolink_nodes 5048 52 satelite elaboration-additional  5051
+create-a-node-here really 32.93 53 { the regulators should instead move ahead with approving CenTrust's request }
+autolink_nodes 52 53 nucleus attribution  5052
+create-a-node-here really 32.189 54 {to sell 63 of its 71 branches to Great Western Bank, a unit of Great Western Financial Corp.}
+autolink_nodes 53 54 satelite-embedded elaboration-object-attribute-e below 5053
+create-a-node-here really 32.224 55 { based in Beverly Hills, Calif.}
+nextSentence really
+autolink_nodes 54 55 satelite-embedded elaboration-additional-e  5054
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5039 5042 5050}
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5039 5042 5050 5046}
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5039 5042 5050 5046 5017}
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5039 5042 5050 5046 5017 5044}
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5017}
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5017 5039}
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5017 5039 5046}
+create-a-node-here really 34.58 56 { \n\nThe branch sale is the centerpiece of CenTrust's strategy }
+autolink_nodes 5052 56 satelite interpretation-s  5055
+create-a-node-here really 34.136 57 {to transform itself into a traditional S&L from a high-flying institution }
+autolink_nodes 56 57 satelite-embedded elaboration-object-attribute-e  5056
+create-a-node-here really 34.195 58 {that relied heavily on securities trading for profits, }
+autolink_nodes 57 58 satelite-embedded elaboration-object-attribute-e  5057
+create-a-node-here really 34.221 59 {according to Mr. Paul.}
+nextSentence really
+autolink_nodes 5056 59 satelite attribution  5058
+create-a-node-here really 35.88 60 {\nMost analysts and thrift executives had expected a decision on the proposed transaction,}
+autolink_nodes 5058 60 satelite elaboration-additional  5059
+create-a-node-here really 35.121 61 { which was announced in July,}
+autolink_nodes 60 61 satelite-embedded elaboration-additional-e  5060
+create-a-node-here really 35.142 62 { long before now.}
+nextSentence really
+autolink_nodes 5060 62 multinuclear Same-Unit  5061
+create-a-node-here really 36.42 63 {\nMany interpret the delay as an indication }
+autolink_nodes 5061 63 satelite elaboration-additional  5062
+create-a-node-here really 36.95 64 {that regulators are skeptical about the proposal.}
+nextSentence really
+autolink_nodes 63 64 satelite-embedded elaboration-object-attribute-e  5063
+create-a-node-here really 37.59 65 {\nBranches and deposits can be sold at a premium in the event}
+autolink_nodes 5062 65 satelite explanation-argumentative  5064
+create-a-node-here really 37.108 66 { federal regulators take over an institution.}
+nextSentence really
+autolink_nodes 65 66 satelite-embedded elaboration-object-attribute-e  5065
+create-a-node-here really 39.41 67 { \n\nCenTrust, however, touts the branch sale,}
+#autolink_nodes 5064 67 multinuclear Contrast  5066
+#UNDID
+disconnect_node 5065 disconnect
+autolink_nodes 5063 5065 satelite explanation-argumentative  5066
+autolink_nodes 5066 67 multinuclear Contrast  5067
+change_rel 5067 evaluation-s
+create-a-node-here really 39.53 68 { saying }
+autolink_nodes 67 68 satelite means  5068
+create-a-node-here really 39.87 69 {it would bring in $150 million}
+autolink_nodes 68 69 nucleus attribution  5069
+create-a-node-here really 40.0 70 { and reduce the thrift's assets to $6.7 billion from $9 billion.\n}
+autolink_nodes 69 70 multinuclear List  5070
+create-a-node-here really 40.12 71 {It said }
+autolink_nodes 5068 71 satelite elaboration-additional  5071
+create-a-node-here really 40.150 72 {the sale would give it positive tangible capital of $82 million, or about 1.2% of assets, from a negative $33 million as of Sept. 30, }
+autolink_nodes 71 72 nucleus attribution  5072
+create-a-node-here really 40.207 73 {thus bringing CenTrust close to regulatory standards.}
+nextSentence really
+autolink_nodes 72 73 multinuclear Consequence  5073
+create-a-node-here really 42.14 74 { \n\nCenTrust said }
+autolink_nodes 5071 74 satelite elaboration-additional  5074
+create-a-node-here really 42.114 75 {the branch sale would also reduce the company's large amount of good will by about $180 million.}
+nextSentence really
+autolink_nodes 74 75 nucleus attribution  5075
+create-a-node-here really 43.22 76 {\nCritics, however, say }
+autolink_nodes 5075 76 multinuclear Contrast  5076
+create-a-node-here really 43.122 77 {the branch sale will make CenTrust more dependent than ever on brokered deposits and junk bonds.}
+nextSentence really
+autolink_nodes 76 77 nucleus attribution  5077
+create-a-node-here really 45.17 78 { \n\nMr. Paul counters}
+autolink_nodes 5077 78 nucleus antithesis  5078
+create-a-node-here really 45.75 79 { that he intends to further pare the size of CenTrust }
+autolink_nodes 78 79 nucleus attribution  5079
+disconnect_node 5078 disconnect
+autolink_nodes 5075 5078 nucleus antithesis  5080
+disconnect_node 5075 disconnect
+autolink_nodes 5077 5075 nucleus antithesis  5081
+disconnect_node 5081 disconnect
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5017 5039 5046 5072}
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5017 5039 5046}
+autolink_nodes 5072 5081 satelite elaboration-additional  5082
+disconnect_node 5079 disconnect
+autolink_nodes 5077 5079 satelite elaboration-additional  5083
+create-a-node-here really 45.152 80 {by not renewing more than $1 billion of brokered certificates of deposit }
+autolink_nodes 79 80 satelite means below 5084
+create-a-node-here really 45.175 81 {when they come due.}
+nextSentence really
+autolink_nodes 80 81 satelite circumstance  5085
+create-a-node-here really 46.61 82 {\nThe thrift is also working to unload its junk-bond portfolio }
+autolink_nodes 5079 82 satelite elaboration-additional  5086
+create-a-node-here really 46.102 83 {by continuing to sell off the bonds, }
+autolink_nodes 82 83 satelite means  5087
+create-a-node-here really 46.177 84 {and it plans to eventually place some of them in a separate affiliate, }
+autolink_nodes 5087 84 multinuclear List  5088
+create-a-node-here really 46.218 85 {as required under the new thrift law.}
+nextSentence really
+autolink_nodes 84 85 satelite circumstance  5089
+disconnect_node 5086 disconnect
+autolink_nodes 5077 5086 multinuclear Statement-Response  5090
+collapsed_nodes {5009 5001 5015 5014 5032 5027 5028 5017 5039 5046 5037}
+collapsed_nodes {}
+disconnect_node 34 disconnect
+autolink_nodes 33 34 satelite-embedded attribution-e  5091
+collapsed_nodes {5037}
+collapsed_nodes {}

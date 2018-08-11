@@ -1,0 +1,41 @@
+nextSentence really
+create-a-node-here really 2.84 1 {\nFinnair, Finland's state-owned airline, joined the wave of global airline alliances }
+create-a-node-here really 2.179 2 {and signed a wide-ranging cooperation agreement with archrival Scandinavian Airlines System.}
+nextSentence really
+create-a-node-here really 4.154 3 { \n\nUnder the accord, Finnair agreed to coordinate flights, marketing and other functions with SAS, the 50%-state-owned airline of Denmark, Norway and Sweden.}
+nextSentence really
+create-a-node-here really 5.98 4 {\nThe pact also calls for coordination between Finnair and Switzerland's national carrier, Swissair,}
+create-a-node-here really 5.155 5 { with which SAS entered a similar alliance last month.}
+nextSentence really
+create-a-node-here really 7.21 6 { \n\nFinnair and SAS said }
+create-a-node-here really 7.63 7 {they plan to swap stakes in each other.}
+nextSentence really
+autolink_nodes 1 2 satelite elaboration-additional  5001
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+autolink_nodes 4 5 satelite elaboration-additional  5003
+autolink_nodes 6 7 nucleus attribution  5004
+autolink_nodes 5002 5003 satelite elaboration-additional  5005
+nextSentence really
+create-a-node-here really 8.25 8 {\nNeither disclosed details}
+create-a-node-here really 8.63 9 { pending board meetings next month.}
+create-a-node-here really 9.27 10 {\nOfficials hinted, however, }
+create-a-node-here really 9.85 11 {that SAS would take a stake of at least 6% in Finnair,}
+create-a-node-here really 9.143 12 { valued at about $40 million at current market prices.}
+nextSentence really
+create-a-node-here really 10.33 13 {\nFinnair would receive SAS shares }
+create-a-node-here really 10.64 14 {valued at the same amount, }
+create-a-node-here really 10.83 15 {officials said.}
+nextSentence really
+autolink_nodes 5004 8 satelite attribution-n  5006
+autolink_nodes 8 9 satelite condition  5007
+autolink_nodes 10 11 nucleus attribution  5008
+autolink_nodes 11 12 satelite elaboration-additional below 5009
+autolink_nodes 13 14 satelite elaboration-additional  5010
+autolink_nodes 5010 15 satelite attribution  5011
+autolink_nodes 5008 5011 multinuclear Comparison  5012
+autolink_nodes 5006 5012 satelite elaboration-additional  5013
+autolink_nodes 5005 5013 satelite elaboration-additional  5014
+collapsed_nodes {5014}
+collapsed_nodes {}
+disconnect_node 2 modify
+autolink_nodes 1 2 multinuclear List  5015

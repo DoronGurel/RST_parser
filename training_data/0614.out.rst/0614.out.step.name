@@ -1,0 +1,21 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.96 1 {\nQUANTUM CHEMICAL Corp. 's plant in Morris, Ill., is expected to resume production in early 1990.}
+nextSentence really
+create-a-node-here really 3.44 2 {\nThe year was misstated in Friday's editions.}
+nextSentence really
+create-a-node-here really 5.5 3 { \n\n(See:}
+create-a-node-here really 5.25 4 { "Dividend News: }
+create-a-node-here really 5.69 5 {Payout Stalled at Quantum Chemical Corp. }
+create-a-node-here really 5.103 6 {--- Firm Posts Quarterly Loss, }
+create-a-node-here really 5.129 7 {Plans a Stock Dividend }
+create-a-node-here really 5.155 8 {to Take Place of Cash" }
+create-a-node-here really 5.180 9 {-- WSJ Oct. 27, 1989) }
+autolink_nodes 1 2 multinuclear Contrast  5001
+autolink_nodes 3 4 nucleus comment  5002
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e below 5003
+autolink_nodes 5003 6 satelite elaboration-additional below 5004
+autolink_nodes 6 7 multinuclear List  5005
+autolink_nodes 7 8 satelite purpose  5006
+autolink_nodes 5004 9 satelite attribution below 5007
+autolink_nodes 5001 5002 satelite elaboration-additional  5008

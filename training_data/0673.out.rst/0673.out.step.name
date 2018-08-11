@@ -1,0 +1,147 @@
+nextSentence really
+create-a-node-here really 2.20 1 {\nLockheed Corp. said }
+create-a-node-here really 2.126 2 {it will trim its Aeronautical Systems work force in California and Georgia by several hundred workers, }
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.171 3 {reflecting the defense industry's decline.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-additional-e below 5002
+create-a-node-here really 4.38 4 { \n\nThe Lockheed unit has 24,000 workers; }
+#autolink_nodes 2 4 satelite elaboration-general-specific above 5002
+#UNDID
+autolink_nodes 5001 4 satelite elaboration-general-specific  5003
+create-a-node-here really 5.0 5 {it expects to make the cuts through a combination of furloughs, attrition and retirements.\n}
+autolink_nodes 5003 5 satelite elaboration-process-step  5004
+create-a-node-here really 5.61 6 {The reductions should be complete by the end of the year, }
+create-a-node-here really 5.82 7 {a spokesman said, }
+autolink_nodes 6 7 satelite attribution  5005
+create-a-node-here really 5.92 8 {adding }
+autolink_nodes 7 8 satelite elaboration-additional  5006
+create-a-node-here really 5.117 9 {that the exact number }
+autolink_nodes 8 9 nucleus attribution  5007
+create-a-node-here really 5.130 10 {to be cut }
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e below 5008
+create-a-node-here really 5.157 11 {hasn't been determined.}
+nextSentence really
+autolink_nodes 5008 11 multinuclear Same-Unit  5009
+disconnect_node 5 disconnect
+autolink_nodes 5003 5 satelite means  5010
+autolink_nodes 5010 5005 satelite hypothetical  5011
+create-a-node-here really 7.56 12 { \n\nLockheed reported a $32 million third-quarter net loss, }
+create-a-node-here really 7.127 13 {largely because of cost overruns on fixed-price military contracts.}
+nextSentence really
+autolink_nodes 12 13 satelite explanation-argumentative  5012
+#create-a-node-here really 9.83 14 { \n\nNoting that other defense contractors are complaining of losses on such contracts, }
+#create-a-node-here really 9.100 15 {analysts say }
+#autolink_nodes 14 15 nucleus circumstance  5013
+#create-a-node-here really 9.188 16 {taxpayers have been getting illusionary bargains on weapons systems in recent years.}
+#autolink_nodes 15 16 nucleus attribution  5014
+#disconnect_node 4 disconnect
+#autolink_nodes 5001 4 satelite elaboration-additional above 5014
+#UNDID
+#autolink_nodes 5002 4 satelite elaboration-additional above 5014
+#disconnect_node 14 disconnect
+#autolink_nodes 5012 14 satelite elaboration-additional  5015
+#UNDID
+#UNDID
+#autolink_nodes 5012 5013 satelite interpretation-s  5015
+#autolink_nodes 5012 5011 nucleus reason  5016
+#UNDID
+#autolink_nodes 5011 5015 satelite reason  5016
+#create-a-node-here really 11.70 17 { \n\nDefense contractors "cannot continue to get contracts on that basis," }
+#create-a-node-here really 11.157 18 {said Howard Rubel, an analyst with C.J. Lawrence, Morgan Grenfell Inc. in New York.}
+#nextSentence really
+#create-a-node-here really 11.186 19 { "The pain is too great."}
+#nextSentence really
+#UNDID
+#UNDID
+#autolink_nodes 17 18 nucleus-embedded attribution-e  5017
+#create-a-node-here really 11.187 19 { "The pain is too great." }
+#autolink_nodes 5017 19 multinuclear Same-Unit  5018
+#disconnect_node 17 disconnect
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 17 18 satelite-embedded attribution-e  5017
+#create-a-node-here really 11.187 19 { "The pain is too great." }
+#autolink_nodes 5017 19 multinuclear Same-Unit  5018
+#autolink_nodes 5013 5018 satelite elaboration-additional  5019
+#disconnect_node 19 disconnect
+#autolink_nodes 5017 19 multinuclear List  5020
+#disconnect_node 19 disconnect
+#autolink_nodes 18 19 nucleus attribution  5021
+#disconnect_node 5021 disconnect
+#disconnect_node 18 disconnect
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#disconnect_node 19 disconnect
+#disconnect_node 18 disconnect
+#autolink_nodes 18 19 satelite-embedded attribution-e  5021
+#autolink_nodes 5017 5021 multinuclear List  5022
+#disconnect_node 19 disconnect
+#autolink_nodes 18 19 satelite-embedded attribution-e  5023
+#disconnect_node 19 disconnect
+#autolink_nodes 18 19 nucleus attribution  5024
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 17 18 satelite-embedded attribution-e  5021
+#autolink_nodes 17 19 multinuclear List  5022
+#UNDID
+#autolink_nodes 5021 19 multinuclear List  5022
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 9.7 14 { \n\nNoting }
+create-a-node-here really 9.87 15 {that other defense contractors are complaining of losses on such contracts, }
+autolink_nodes 14 15 nucleus attribution  5013
+create-a-node-here really 9.104 16 {analysts say }
+autolink_nodes 5013 16 nucleus circumstance  5014
+create-a-node-here really 9.193 17 {taxpayers have been getting illusionary bargains on weapons systems in recent years. }
+autolink_nodes 16 17 nucleus attribution  5015
+autolink_nodes 5012 5014 satelite interpretation-s  5016
+create-a-node-here really 11.70 18 {\n\nDefense contractors "cannot continue to get contracts on that basis," }
+create-a-node-here really 11.157 19 {said Howard Rubel, an analyst with C.J. Lawrence, Morgan Grenfell Inc. in New York.}
+nextSentence really
+autolink_nodes 18 19 satelite attribution  5017
+create-a-node-here really 11.186 20 { "The pain is too great."}
+nextSentence really
+autolink_nodes 5017 20 satelite elaboration-additional  5018
+autolink_nodes 5014 5018 satelite elaboration-additional  5019
+autolink_nodes 5011 5016 satelite reason  5020
+disconnect_node 3 modify
+autolink_nodes 2 3 satelite consequence-n  5021
+disconnect_node 3 disconnect
+autolink_nodes 5001 3 satelite consequence-n below 5022
+disconnect_node 5007 disconnect
+autolink_nodes 5005 5007 satelite elaboration-additional  5023
+disconnect_node 13 modify
+autolink_nodes 12 13 satelite consequence-n below 5024
+disconnect_node 5016 modify
+autolink_nodes 5011 5016 satelite explanation-argumentative  5025
+disconnect_node 20 modify
+autolink_nodes 5017 20 satelite comment  5026

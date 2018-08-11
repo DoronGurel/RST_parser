@@ -1,0 +1,226 @@
+nextSentence really
+create-a-node-here really 2.44 1 {\nThe chemical industry is expected to report }
+create-a-node-here really 2.88 2 {that profits eroded in the third quarter }
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.155 3 {because of skidding prices in the commodity end of the business.}
+nextSentence really
+autolink_nodes 2 3 satelite consequence-n below 5002
+create-a-node-here really 4.54 4 { \n\nProducers of commodity chemicals, the basic chemicals }
+create-a-node-here really 4.107 5 {produced in huge volumes for other manufacturers, }
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 4.154 6 {have seen sharp inventory cutting by buyers.}
+nextSentence really
+autolink_nodes 5003 6 multinuclear Same-Unit  5004
+create-a-node-here really 5.171 7 {\nOnce the chief beneficiaries of the industry's now fading boom, these producers also will be reporting against exceptionally strong performances in the 1988 third quarter.}
+nextSentence really
+#autolink_nodes 5001 7 satelite elaboration-additional  5005
+#UNDID
+autolink_nodes 5001 5004 satelite circumstance  5005
+autolink_nodes 5005 7 satelite elaboration-additional  5006
+create-a-node-here really 7.102 8 { \n\n"For some of these companies, this will be the first quarter with year-to-year negative comparisons," }
+create-a-node-here really 7.184 9 {says Leonard Bogner, a chemical industry analyst at Prudential Bache Research. }
+autolink_nodes 8 9 satelite attribution  5007
+create-a-node-here really 7.242 10 {"This could be the first of five or six down quarters."}
+nextSentence really
+autolink_nodes 5007 10 satelite hypothetical  5008
+#autolink_nodes 5006 5008 multinuclear Comment-Topic  5009
+#UNDID
+autolink_nodes 5006 5008 multinuclear Topic-Comment  5009
+create-a-node-here really 9.42 11 { \n\nPerhaps most prominent, Dow Chemical Co., }
+create-a-node-here really 9.115 12 {which as of midyear had racked up eight consecutive record quarters, }
+autolink_nodes 11 12 satelite-embedded elaboration-additional-e  5010
+create-a-node-here really 9.141 13 {is expected to report }
+autolink_nodes 5010 13 multinuclear Same-Unit  5011
+create-a-node-here really 10.0 14 {that profit decreased in the latest quarter from a year earlier, if only by a shade.\n}
+autolink_nodes 5011 14 nucleus attribution  5012
+autolink_nodes 5008 5012 satelite example  5013
+create-a-node-here really 10.90 15 {Though Dow has aggressively diversified into specialty chemicals and pharmaceuticals, }
+create-a-node-here really 10.144 16 {the company still has a big stake in polyethylene,}
+autolink_nodes 15 16 nucleus concession  5014
+create-a-node-here really 10.191 17 { which is used in packaging and housewares.}
+nextSentence really
+autolink_nodes 16 17 satelite-embedded definition-e below 5015
+nextSentence really
+autolink_nodes 5012 5014 satelite explanation-argumentative  5016
+create-a-node-here really 12.111 18 { \n\nAnalysts' third-quarter estimates for the Midland, Mich., company are between $3.20 a share and $3.30 a share, }
+create-a-node-here really 12.147 19 {compared with $3.36 a year ago, }
+autolink_nodes 18 19 satelite-embedded comparison-e  5017
+create-a-node-here really 12.206 20 {when profit was $632 million on sales of $4.15 billion.}
+nextSentence really
+autolink_nodes 19 20 satelite circumstance  5018
+create-a-node-here really 13.55 21 {\nA Dow spokeswoman declined to comment on the estimates.}
+nextSentence really
+autolink_nodes 5017 21 satelite elaboration-additional  5019
+autolink_nodes 5016 5019 satelite evaluation-s  5020
+disconnect_node 5020 modify
+autolink_nodes 5008 5020 satelite elaboration-general-specific  5021
+create-a-node-here really 15.99 22 { \n\nAt the investment firm of Smith Barney, Harris Upham & Co., the commodity-chemical segment is seen }
+create-a-node-here really 15.198 23 {pulling down overall profit for 20 companies representative of the whole industry by 8% to 10%.}
+nextSentence really
+autolink_nodes 22 23 satelite manner  5022
+create-a-node-here really 15.321 24 { "You will find the commodities off more than the others and the diversified companies about even or slightly better," }
+create-a-node-here really 15.367 25 {says James Wilbur, a Smith Barney analyst.}
+nextSentence really
+autolink_nodes 24 25 satelite attribution  5023
+autolink_nodes 5022 5023 satelite explanation-argumentative  5024
+autolink_nodes 5009 5024 satelite evaluation-s  5025
+create-a-node-here really 17.28 26 { \n\nFirst Boston Corp. projects }
+create-a-node-here really 17.96 27 {that 10 of the 15 companies it follows will report lower profit.}
+nextSentence really
+autolink_nodes 26 27 nucleus attribution  5026
+create-a-node-here really 18.54 28 {\nMost of the 10 have big commodity-chemical operations.}
+nextSentence really
+autolink_nodes 5026 28 satelite explanation-argumentative  5027
+autolink_nodes 5024 5027 multinuclear List  5028
+create-a-node-here really 20.69 29 { \n\nStill, some industry giants are expected to report continuing gains, }
+create-a-node-here really 20.146 30 {largely because so much of their business is outside commodity chemicals.}
+nextSentence really
+autolink_nodes 29 30 satelite explanation-argumentative  5029
+create-a-node-here really 21.95 31 {\nDu Pont Co. is thought to have had steady profit growth in white pigments, fibers and polymers.}
+nextSentence really
+nextSentence really
+create-a-node-here really 22.50 32 {\nMoreover, the Wilmington, Del., company is helped }
+create-a-node-here really 22.100 33 {when prices weaken on the commodity chemicals }
+create-a-node-here really 22.141 34 {it buys for its own production needs,}
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5030
+create-a-node-here really 22.163 35 { such as ethylene.}
+nextSentence really
+autolink_nodes 5030 35 multinuclear Same-Unit  5031
+#autolink_nodes 32 5031 satelite circumstance  5032
+#UNDID
+autolink_nodes 32 5031 satelite circumstance  5032
+disconnect_node 5031 modify
+autolink_nodes 32 5031 satelite contingency  5033
+autolink_nodes 31 5033 satelite elaboration-additional  5034
+autolink_nodes 30 5034 satelite elaboration-general-specific  5035
+disconnect_node 5020 modify
+autolink_nodes 5008 5020 satelite example  5036
+disconnect_node 5034 modify
+autolink_nodes 30 5034 satelite example  5037
+create-a-node-here really 24.21 36 { \n\nAnalysts are divided }
+create-a-node-here really 25.0 37 {over whether Du Pont will report much of a gain in the latest quarter from its Conoco Inc. oil company.\n}
+#autolink_nodes 36 37 nucleus attribution  5038
+#UNDID
+autolink_nodes 36 37 nucleus attribution  5038
+autolink_nodes 5034 5038 multinuclear Contrast  5039
+create-a-node-here really 25.64 38 {The estimates for Du Pont range from $2.25 to $2.45 a share.}
+nextSentence really
+autolink_nodes 5039 38 satelite evaluation-s  5040
+create-a-node-here really 26.104 39 {\nIn the 1988 third quarter, the company earned $461 million, or $1.91 a share, on sales of $7.99 billion.}
+nextSentence really
+autolink_nodes 38 39 satelite elaboration-additional  5041
+create-a-node-here really 27.28 40 {\nDu Pont declined to comment.}
+nextSentence really
+autolink_nodes 5040 40 satelite elaboration-additional  5042
+create-a-node-here really 29.68 41 { \n\nMonsanto Co., too, is expected to continue reporting higher profit, }
+create-a-node-here really 29.194 42 {even though its sales of crop chemicals were hurt in the latest quarter by drought in northern Europe and the western U.S.}
+autolink_nodes 41 42 satelite concession  5043
+create-a-node-here really 30.56 43 {\nThe St. Louis-based company is expected to report again }
+create-a-node-here really 30.135 44 {that losses in its G.D. Searle & Co. pharmaceutical business are narrowing.}
+nextSentence really
+autolink_nodes 43 44 nucleus attribution  5044
+autolink_nodes 5043 5044 satelite elaboration-additional  5045
+create-a-node-here really 31.75 45 {\nSearle continued to operate in the red through the first half of the year, }
+create-a-node-here really 31.101 46 {but Monsanto has said }
+create-a-node-here really 31.156 47 {it expects Searle to post a profit for all of 1989.}
+nextSentence really
+autolink_nodes 46 47 nucleus attribution  5046
+autolink_nodes 45 5046 nucleus antithesis  5047
+autolink_nodes 5044 5047 satelite interpretation-s  5048
+create-a-node-here really 33.61 48 { \n\nMost estimates for Monsanto run between $1.70 and $2 a share.}
+nextSentence really
+autolink_nodes 5045 48 satelite evaluation-s  5049
+create-a-node-here really 34.113 49 {\nA year ago, the company posted third-quarter profit of $116 million, or $1.67 a share, on sales of $2.02 billion.}
+nextSentence really
+autolink_nodes 48 49 satelite comparison  5050
+create-a-node-here really 35.29 50 {\nMonsanto declined to comment.}
+nextSentence really
+autolink_nodes 5049 50 satelite elaboration-additional  5051
+autolink_nodes 5042 5051 multinuclear List  5052
+autolink_nodes 5025 5029 multinuclear Contrast  5053
+create-a-node-here really 37.83 51 { \n\nBut the commodity-chemical producers are caught on the downside of a pricing cycle.}
+nextSentence really
+create-a-node-here really 38.94 52 {\nBy some accounts on Wall Street and in the industry, the inventory reductions are near an end,}
+create-a-node-here really 38.131 53 { which may presage firmer demand.}
+nextSentence really
+autolink_nodes 52 53 satelite interpretation-s  5054
+create-a-node-here really 39.17 54 {\nBut doubters say }
+create-a-node-here really 39.100 55 {growing production capacity could keep pressure on prices into the early 1990s.}
+nextSentence really
+autolink_nodes 54 55 nucleus attribution  5055
+autolink_nodes 5054 5055 multinuclear Contrast  5056
+autolink_nodes 51 5056 satelite explanation-argumentative  5057
+create-a-node-here really 41.68 56 { \n\nIn the latest quarter, at least, profit is expected to fall sharply.}
+nextSentence really
+autolink_nodes 5057 56 satelite evaluation-s  5058
+create-a-node-here really 42.38 57 {\nFor Himont Inc., "how far down it is, }
+create-a-node-here really 42.58 58 {we don't know," }
+autolink_nodes 57 58 satelite attribution-n  5059
+create-a-node-here really 42.101 59 {says Leslie Ravitz at Salomon Brothers.}
+nextSentence really
+autolink_nodes 5059 59 satelite attribution  5060
+create-a-node-here really 43.73 60 {\nThe projections are in the neighborhood of 50 cents a share to 75 cents, }
+create-a-node-here really 43.132 61 {compared with a restated $1.65 a share a year earlier, }
+nextSentence really
+nextSentence really
+autolink_nodes 60 61 satelite comparison  5061
+create-a-node-here really 43.194 62 {when profit was $107.8 million on sales of $435.5 million.}
+nextSentence really
+autolink_nodes 61 62 satelite circumstance  5062
+autolink_nodes 5060 5061 satelite evaluation-s  5063
+create-a-node-here really 45.67 63 { \n\nHimont faces lower prices for its mainstay product, polypropylene, }
+create-a-node-here really 45.133 64 {while it goes forward with a heavy capital investment program }
+autolink_nodes 63 64 multinuclear Temporal-Same-Time  5064
+create-a-node-here really 45.171 65 {to bolster its raw material supply}
+create-a-node-here really 45.216 66 { and develop new uses for polypropylene, }
+autolink_nodes 65 66 multinuclear List  5065
+autolink_nodes 5064 5065 satelite-embedded elaboration-object-attribute-e  5066
+create-a-node-here really 45.282 67 {whose markets include the packaging and automobile industries.}
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+autolink_nodes 66 67 satelite-embedded elaboration-additional-e  5067
+create-a-node-here really 46.13 68 {\nThe company, }
+create-a-node-here really 46.44 69 {based in Wilmington, Del., }
+autolink_nodes 68 69 satelite-embedded elaboration-additional-e  5068
+create-a-node-here really 47.11 70 {is 81%-owned by Montedison S.p.\nA., Milan, }
+autolink_nodes 5068 70 multinuclear Same-Unit  5069
+create-a-node-here really 47.68 71 {which has an offer outstanding for the Himont shares }
+create-a-node-here really 47.96 72 {it doesn't already own. }
+autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e  5070
+autolink_nodes 70 5070 satelite-embedded elaboration-additional-e  5071
+autolink_nodes 5066 5069 satelite background  5072
+autolink_nodes 5063 5072 satelite elaboration-additional  5073
+autolink_nodes 5058 5073 satelite example  5074
+create-a-node-here really 49.158 73 {\n\nAt Quantum Chemical Corp., New York, the trouble is lower prices for polyethylene, higher debt costs and the idling of an important plant due to an explosion.}
+nextSentence really
+create-a-node-here really 50.49 74 {\nSome analysts hedge their estimates for Quantum, }
+create-a-node-here really 50.128 75 {because it isn't known when the company will book certain one-time charges.}
+nextSentence really
+autolink_nodes 74 75 satelite explanation-argumentative  5075
+autolink_nodes 73 5075 satelite elaboration-additional  5076
+create-a-node-here really 51.60 76 {\nBut the estimates range from break-even to 35 cents a share.}
+nextSentence really
+autolink_nodes 5075 76 multinuclear Contrast  5077
+disconnect_node 5077 modify
+autolink_nodes 73 5077 satelite evaluation-s  5078
+nextSentence really
+nextSentence really
+create-a-node-here really 52.102 77 {\nIn the 1988 third quarter, Quantum earned $99.8 million, or $3.92 a share, on sales of $724.4 million.}
+nextSentence really
+autolink_nodes 5078 77 satelite elaboration-additional  5079
+autolink_nodes 5073 5079 multinuclear List  5080
+create-a-node-here really 54.116 78 { \n\nAnother big polyethylene producer, Union Carbide Corp., is expected to post profit of between $1 a share and $1.25, }
+create-a-node-here really 54.164 79 {compared with $1.56 a share a year earlier, }
+autolink_nodes 78 79 satelite comparison  5081
+create-a-node-here really 54.231 80 {when the company earned $213 million on sales of $2.11 billion.}
+nextSentence really
+autolink_nodes 79 80 satelite circumstance  5082
+autolink_nodes 5080 5081 multinuclear List below 5082
+create-a-node-here really 56.58 81 { \n\nHimont, Quantum and Union Carbide all declined to comment.}
+nextSentence really
+autolink_nodes 5080 81 satelite elaboration-additional  5083
+autolink_nodes 5053 5074 satelite elaboration-additional  5084
+disconnect_node 39 modify
+autolink_nodes 38 39 satelite comparison  5085

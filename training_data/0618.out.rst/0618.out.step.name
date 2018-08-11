@@ -1,0 +1,88 @@
+nextSentence really
+create-a-node-here really 2.87 1 {\nThe head of the nation's largest car-dealers group is telling dealers to "just say no" }
+create-a-node-here really 2.153 2 {when auto makers pressure them to stockpile cars on their lots.}
+nextSentence really
+autolink_nodes 1 2 satelite circumstance  5001
+create-a-node-here really 4.17 3 { \n\nIn an open letter}
+create-a-node-here really 4.78 4 { that will run today in the trade journal Automotive News,}
+create-a-node-here really 4.150 5 { Ron Tonkin, president of the National Car Dealers Association, says }
+create-a-node-here really 4.220 6 {dealers should cut their inventories to no more than half the level}
+create-a-node-here really 4.259 7 { traditionally considered desirable.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5002
+#autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5003
+#UNDID
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 5 5003 multinuclear Same-Unit  5004
+autolink_nodes 5004 5002 nucleus attribution  5005
+create-a-node-here really 6.11 8 { \n\nMr. Tonkin,}
+create-a-node-here really 6.55 9 { who has been feuding with the Big Three }
+create-a-node-here really 6.97 10 {since he took office earlier this year,}
+create-a-node-here really 6.107 11 { said }
+create-a-node-here really 6.115 12 {that}
+create-a-node-here really 6.167 13 { with half of the nation's dealers losing money }
+create-a-node-here really 6.188 14 {or breaking even,}
+create-a-node-here really 6.228 15 { it was time for "emergency action."}
+autolink_nodes 9 10 satelite temporal-after  5006
+autolink_nodes 8 5006 satelite-embedded elaboration-additional-e  5007
+autolink_nodes 11 5007 multinuclear Same-Unit  5008
+autolink_nodes 13 14 multinuclear Disjunction  5009
+autolink_nodes 15 5009 satelite-embedded circumstance-e  5010
+autolink_nodes 5010 12 multinuclear Same-Unit  5011
+autolink_nodes 5011 5008 satelite attribution  5012
+autolink_nodes 5005 5012 satelite elaboration-additional  5013
+create-a-node-here really 8.97 16 { \n\nU.S. car dealers had an average of 59 days' supply of cars in their lots at the end of September,}
+create-a-node-here really 8.141 17 { according to Ward's Automotive Reports.}
+nextSentence really
+#autolink_nodes 16 17 satelite attribution  5014
+#UNDID
+autolink_nodes 16 17 satelite attribution  5014
+create-a-node-here really 9.20 18 {\nBut Mr. Tonkin said }
+create-a-node-here really 9.77 19 {dealers should slash stocks to between 15 and 30 days}
+create-a-node-here really 9.101 20 { to reduce the costs}
+create-a-node-here really 9.129 21 { of financing inventory.}
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 19 5015 satelite purpose  5016
+autolink_nodes 18 5016 nucleus attribution  5017
+autolink_nodes 5017 5014 satelite antithesis  5018
+collapsed_nodes {5012}
+autolink_nodes 5013 5018 satelite elaboration-general-specific  5019
+create-a-node-here really 11.53 22 { \n\nHis message is getting a chilly reception in Detroit,}
+create-a-node-here really 11.130 23 { where the Big Three auto makers are already being forced to close plants}
+create-a-node-here really 11.183 24 { because of soft sales and reduced dealer orders.}
+nextSentence really
+autolink_nodes 23 24 satelite reason  5020
+autolink_nodes 22 5020 satelite-embedded elaboration-object-attribute-e  5021
+create-a-node-here really 12.60 25 {\nEven before Mr. Tonkin's broadside, some large dealers said }
+create-a-node-here really 12.94 26 {they were cutting inventories.}
+nextSentence really
+autolink_nodes 25 26 nucleus attribution  5022
+#autolink_nodes 24 5022 satelite example  5023
+#UNDID
+autolink_nodes 5020 5022 satelite example  5023
+create-a-node-here really 14.93 27 { \n\nFord Motor Co. and Chrysler Corp. representatives criticized Mr. Tonkin's plan as unworkable.}
+create-a-node-here really 15.41 28 {\nIt "is going to sound neat to the dealer }
+create-a-node-here really 15.114 29 {except when his 15-day car supply doesn't include the bright red one }
+create-a-node-here really 15.145 30 {that the lady wants to buy }
+create-a-node-here really 15.176 31 {and she goes up the street }
+create-a-node-here really 15.193 32 {to buy one," }
+create-a-node-here really 15.223 33 {a Chrysler spokesman said.}
+nextSentence really
+autolink_nodes 31 32 satelite purpose  5024
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5025
+autolink_nodes 5024 5025 satelite reason  5026
+autolink_nodes 5026 28 satelite antithesis  5027
+autolink_nodes 5027 33 satelite attribution  5028
+autolink_nodes 27 5028 satelite explanation-argumentative  5029
+autolink_nodes 5021 5029 satelite elaboration-additional  5030
+collapsed_nodes {5012 5018}
+autolink_nodes 5019 5030 satelite antithesis  5031
+#autolink_nodes 5019 5001 satelite summary-s below 5032
+#UNDID
+disconnect_node 5030 disconnect
+autolink_nodes 5019 5001 nucleus summary-n  5032
+#autolink_nodes 5032 5030 satelite antithesis  5033
+#UNDID
+autolink_nodes 5032 5030 multinuclear Contrast  5033
+collapsed_nodes {5018}
+collapsed_nodes {}

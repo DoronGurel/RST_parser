@@ -1,0 +1,279 @@
+nextSentence really
+create-a-node-here really 2.31 1 {\nAre consumers too deep in hock?}
+nextSentence really
+create-a-node-here really 4.29 2 { \n\nA lot of observers think so, }
+create-a-node-here really 4.36 3 {and,}
+create-a-node-here really 4.58 4 { if they're right, }
+create-a-node-here really 4.130 5 {the whole economy as well as the spendthrifts among us could be hurt.}
+nextSentence really
+create-a-node-here really 5.39 6 {\nA sudden, forced cutback by consumers, }
+create-a-node-here really 5.106 7 {who normally account for about two-thirds of economic activity, }
+create-a-node-here really 5.142 8 {would damp the economy at a time }
+create-a-node-here really 5.190 9 {when plant-and-equipment spending is slowing }
+create-a-node-here really 5.256 10 {and deficit-racked governments can't readily take up the slack.}
+nextSentence really
+create-a-node-here really 6.91 11 {\nAnd another wave of bad loans would further batter many already-shaky lending institutions.}
+nextSentence really
+create-a-node-here really 8.40 12 { \n\nThe worriers cite some worrisome trends.}
+nextSentence really
+create-a-node-here really 9.177 13 {\nDuring the almost seven-year-old economic expansion, inflation-adjusted gross national product, disposable personal income and personal consumption expenditures have risen 30%, }
+create-a-node-here really 9.247 14 {but inflation-adjusted consumer installment credit has surged 66%.}
+nextSentence really
+create-a-node-here really 10.64 15 {\nAnd the ratio of installment debt to disposable personal income }
+create-a-node-here really 10.102 16 {-- personal income after taxes -- }
+create-a-node-here really 10.138 17 {has hit a high of about 18 1/2%.}
+nextSentence really
+autolink_nodes 5 4 satelite condition  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+autolink_nodes 2 1 multinuclear Question-Answer  5003
+autolink_nodes 6 7 satelite-embedded elaboration-additional-e  5004
+autolink_nodes 8 5004 multinuclear Same-Unit  5005
+autolink_nodes 10 9 multinuclear List  5006
+autolink_nodes 5005 5006 satelite circumstance  5007
+collapsed_nodes {5006}
+autolink_nodes 11 5007 multinuclear List  5008
+autolink_nodes 5001 5008 satelite explanation-argumentative  5009
+collapsed_nodes {5006 5008}
+autolink_nodes 2 5002 multinuclear List  5010
+autolink_nodes 13 14 multinuclear Contrast  5011
+autolink_nodes 15 16 satelite-embedded definition-e  5012
+autolink_nodes 17 5012 multinuclear Same-Unit  5013
+#autolink_nodes 5011 5013 multinuclear Contrast below 5013
+#UNDID
+autolink_nodes 5011 5013 multinuclear List above 5014
+autolink_nodes 12 5014 satelite example  5015
+create-a-node-here really 13.0 18 { \n\nHowever, these figures don't seem to worry Thomas A. Durkin, an economist at the Federal Reserve Board.\n}
+create-a-node-here really 13.15 19 {In a paper }
+create-a-node-here really 13.127 20 {presented at the recent annual meeting of the National Association of Business Economists in San Francisco, }
+create-a-node-here really 13.151 21 {Mr. Durkin comments }
+create-a-node-here really 13.222 22 {that "installment credit always grows rapidly in cyclical advances,}
+create-a-node-here really 13.292 23 { and growth in this cycle is very typical of earlier experiences."}
+nextSentence really
+create-a-node-here really 13.306 24 { He adds: }
+create-a-node-here really 13.344 25 {"We are now witnessing a slowdown }
+create-a-node-here really 13.354 26 {which,}
+create-a-node-here really 13.382 27 { if history is a guide, }
+create-a-node-here really 13.413 28 {could persist for a while."}
+nextSentence really
+create-a-node-here really 15.31 29 { \n\nBut what about the debt burden?}
+nextSentence really
+create-a-node-here really 16.18 30 {\nMr. Durkin doubts }
+create-a-node-here really 16.55 31 {that "there is some magic level" }
+create-a-node-here really 16.149 32 {at which the ratio of installment debt to disposable income "indicates economic problems."}
+nextSentence really
+create-a-node-here really 16.179 33 { And, "more importantly," }
+create-a-node-here really 16.192 34 {he says, }
+create-a-node-here really 16.213 35 {"the debt burden }
+create-a-node-here really 16.237 36 {measured other ways }
+create-a-node-here really 16.276 37 {is not really in uncharted waters."}
+nextSentence really
+autolink_nodes 19 20 satelite-embedded elaboration-additional-e  5016
+#autolink_nodes 21 5016 multinuclear Same-Unit  5017
+#autolink_nodes 21 22 nucleus attribution  5018
+#UNDID
+#UNDID
+autolink_nodes 21 22 nucleus attribution  5017
+autolink_nodes 5017 5016 multinuclear Same-Unit  5018
+autolink_nodes 22 23 multinuclear List  5019
+autolink_nodes 28 27 satelite condition  5020
+autolink_nodes 5020 26 multinuclear Same-Unit  5021
+autolink_nodes 25 5021 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 5022 24 satelite attribution  5023
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 5024 30 satelite attribution-n  5025
+autolink_nodes 5025 29 multinuclear Question-Answer  5026
+autolink_nodes 33 34 satelite-embedded attribution-e  5027
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5028
+autolink_nodes 37 5028 multinuclear Same-Unit  5029
+autolink_nodes 5029 5027 multinuclear Same-Unit above 5030
+autolink_nodes 5025 5030 multinuclear List  5031
+autolink_nodes 5018 5023 satelite elaboration-additional  5032
+disconnect_node 5023 disconnect
+autolink_nodes 5018 5023 satelite circumstance  5033
+collapsed_nodes {5006 5008 5023}
+create-a-node-here really 18.26 38 { \n\nThe chart below shows why }
+create-a-node-here really 18.61 39 {(see accompanying illustration }
+create-a-node-here really 19.0 40 {-- WSJ Oct. 23, 1989).\n}
+create-a-node-here really 19.108 41 {The ratio of consumer installment credit to disposable income, though up a bit, hasn't climbed steeply, }
+create-a-node-here really 19.177 42 {and such debt as a percent of household assets is little changed.}
+nextSentence really
+create-a-node-here really 20.122 43 {\nMoreover, the burden of consumer credit payments relative to disposable income may be "lower in this cycle than earlier," }
+create-a-node-here really 20.142 44 {Mr. Durkin says.}
+nextSentence really
+create-a-node-here really 21.9 45 {\nHe notes }
+create-a-node-here really 21.85 46 {that some "revolving credit-card credit is actually convenience credit" }
+create-a-node-here really 21.122 47 {being used simply as a handy way }
+create-a-node-here really 21.142 48 {of paying bills }
+create-a-node-here really 21.170 49 {rather than a handy way }
+create-a-node-here really 21.187 50 {of borrowing.}
+nextSentence really
+create-a-node-here really 22.22 51 {\nIn addition, he says, }
+create-a-node-here really 22.193 52 {"longer maturities on automobile and other forms of installment credit boost the stock of debt faster than the flow of repayments and the accompanying payment burden."}
+nextSentence really
+create-a-node-here really 24.4 53 { \n\nAnd }
+create-a-node-here really 24.63 54 {if you "consider the changing distribution of credit," }
+create-a-node-here really 24.83 55 {Mr. Durkin says,}
+create-a-node-here really 24.194 56 { "much of the increase in debt in recent years is due to increasing credit use by higher-income families," }
+create-a-node-here really 24.247 57 {that is, "those probably best able to handle it."}
+nextSentence really
+create-a-node-here really 26.37 58 { \n\nCiting figures on home-equity loans, }
+create-a-node-here really 26.50 59 {he notes }
+create-a-node-here really 26.111 60 {that "11% of homeowners had home-equity credit accounts, }
+create-a-node-here really 26.246 61 {but the proportion rises to 16% of homeowners in the $45,000-$60,000 income range and 23% of homeowners with income above $60,000."}
+nextSentence really
+create-a-node-here really 26.302 62 { And much home-equity credit is used conservatively.}
+nextSentence really
+create-a-node-here really 26.351 63 { "The most frequent use is home improvement, }
+create-a-node-here really 26.409 64 {which presumably improves the value of the property," }
+create-a-node-here really 26.429 65 {Mr. Durkin says.}
+nextSentence really
+autolink_nodes 39 40 satelite-embedded elaboration-additional-e  5034
+autolink_nodes 38 5034 satelite-embedded comment-e  5035
+disconnect_node 5034 disconnect
+disconnect_node 40 disconnect
+autolink_nodes 5034 40 satelite-embedded attribution-e  5036
+autolink_nodes 5035 5036 satelite-embedded comment-e  5037
+autolink_nodes 42 41 nucleus consequence-s  5038
+autolink_nodes 43 44 satelite attribution  5039
+autolink_nodes 47 48 satelite-embedded elaboration-object-attribute-e  5040
+autolink_nodes 49 50 satelite-embedded elaboration-object-attribute-e  5041
+autolink_nodes 5041 5040 multinuclear Comparison  5042
+autolink_nodes 46 5042 satelite-embedded elaboration-object-attribute-e  5043
+autolink_nodes 5043 45 satelite attribution  5044
+autolink_nodes 5038 5039 satelite circumstance  5045
+autolink_nodes 5039 5044 satelite explanation-argumentative  5046
+collapsed_nodes {5006 5008 5023 5042}
+autolink_nodes 52 51 satelite attribution  5047
+autolink_nodes 54 55 satelite-embedded attribution-e  5048
+autolink_nodes 56 5048 satelite condition  5049
+autolink_nodes 56 57 satelite-embedded elaboration-additional-e below 5050
+autolink_nodes 5049 53 multinuclear Same-Unit  5051
+autolink_nodes 5051 5047 multinuclear List above 5052
+autolink_nodes 59 58 satelite manner  5053
+autolink_nodes 60 61 satelite antithesis  5054
+autolink_nodes 5053 5054 nucleus attribution  5055
+autolink_nodes 63 64 satelite-embedded elaboration-additional-e  5056
+autolink_nodes 5056 65 satelite attribution  5057
+autolink_nodes 5055 62 satelite elaboration-additional  5058
+autolink_nodes 5058 5057 satelite elaboration-additional  5059
+disconnect_node 5044 disconnect
+#disconnect_node 5039 disconnect
+#UNDID
+disconnect_node 5039 disconnect
+disconnect_node 5051 disconnect
+autolink_nodes 5047 5044 multinuclear List  5060
+autolink_nodes 5039 5060 satelite explanation-argumentative  5061
+collapsed_nodes {5006 5008 5023 5042 5060}
+autolink_nodes 5051 5059 satelite example  5062
+collapsed_nodes {5006 5008 5023 5042 5060 5059}
+autolink_nodes 5061 5038 multinuclear List  5063
+autolink_nodes 5063 5062 multinuclear List below 5063
+create-a-node-here really 28.76 66 { \n\nSo, it isn't surprising that consumer-credit delinquencies at banks remain, }
+create-a-node-here really 28.99 67 {as the chart shows,}
+create-a-node-here really 28.142 68 { reassuringly below some earlier highs }
+create-a-node-here really 28.177 69 {(see accompanying illustration }
+create-a-node-here really 28.204 70 {-- WSJ Oct. 23, 1989). }
+create-a-node-here really 30.61 71 {\n\nA severe recession could, of course, raise delinquency rates,}
+create-a-node-here really 30.150 72 { but so far the current levels of consumer debt don't seem to loom as a major threat.}
+nextSentence really
+create-a-node-here really 31.132 73 {\nIn fact, the current weakness in auto buying and department-store sales and the gradual upturn in the household saving rate suggest }
+create-a-node-here really 31.228 74 {that consumers, conservative as ever, are already clutching their purses a bit more tightly.}
+nextSentence really
+create-a-node-here really 32.92 75 {\nIn July, consumer installment credit outstanding fell for the first time since January 1987.}
+nextSentence really
+create-a-node-here really 34.53 76 { \n\n"Consumers appear unwilling to add to their leverage }
+create-a-node-here really 34.85 77 {to support their spending," }
+create-a-node-here really 34.138 78 {Bruce Steinberg, a Merrill Lynch economist, says.}
+nextSentence really
+create-a-node-here really 34.220 79 { "As a result, household debt appears to be stabilizing at around 63% of GNP."}
+nextSentence really
+create-a-node-here really 36.80 80 { \n\nConsumers, credit cards in hand, aren't running amok through the shopping malls }
+create-a-node-here really 36.128 81 {-- or putting the economy at any great risk.}
+nextSentence really
+collapsed_nodes {5006 5008 5023 5042 5060 5059 5062}
+autolink_nodes 69 70 satelite-embedded attribution-e  5064
+autolink_nodes 68 5064 satelite-embedded comment-e  5065
+autolink_nodes 66 67 satelite-embedded attribution-e  5066
+autolink_nodes 5065 5066 multinuclear Same-Unit  5067
+collapsed_nodes {5006 5008 5023 5042 5060 5059 5062 5065}
+autolink_nodes 71 72 multinuclear Contrast  5068
+autolink_nodes 74 73 satelite attribution  5069
+autolink_nodes 76 77 satelite-embedded purpose-e  5070
+autolink_nodes 5070 78 satelite attribution  5071
+autolink_nodes 75 5071 satelite interpretation-s  5072
+autolink_nodes 79 5072 multinuclear Cause-Result  5073
+autolink_nodes 5073 5069 satelite elaboration-general-specific  5074
+autolink_nodes 80 81 multinuclear List  5075
+#autolink_nodes 73 5068 multinuclear Contrast  5076
+#UNDID
+disconnect_node 72 disconnect
+autolink_nodes 72 71 satelite concession  5076
+autolink_nodes 5069 5076 multinuclear Contrast  5077
+autolink_nodes 5037 5063 satelite interpretation-s  5078
+collapsed_nodes {5006 5008 5023 5042 5060 5059 5062 5065 5063}
+autolink_nodes 5067 5078 satelite evidence  5079
+collapsed_nodes {5006 5008 5023 5042 5060 5059 5062 5065 5063 5078}
+autolink_nodes 5031 5079 satelite explanation-argumentative  5080
+collapsed_nodes {5006 5008 5023 5042 5060 5059 5062 5065 5063 5078 5025}
+collapsed_nodes {5006 5008 5023 5042 5060 5059 5062 5065 5063 5078 5025 5030}
+disconnect_node 5077 disconnect
+autolink_nodes 5077 5073 satelite evidence  5081
+#disconnect_node 5072 disconnect
+#disconnect_node 79 disconnect
+#UNDID
+#UNDID
+disconnect_node 5073 disconnect
+disconnect_node 79 disconnect
+disconnect_node 5071 disconnect
+autolink_nodes 79 5071 multinuclear Cause-Result  5082
+autolink_nodes 75 5082 satelite interpretation-s  5083
+autolink_nodes 5077 5083 satelite evidence  5084
+collapsed_nodes {5006 5008 5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083}
+#autolink_nodes 5026 5033 multinuclear Question-Answer below 5084
+#UNDID
+autolink_nodes 5033 5026 multinuclear List  5085
+autolink_nodes 18 5085 satelite evidence  5086
+collapsed_nodes {5006 5008 5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083 5085}
+collapsed_nodes {5006 5008 5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083 5085 5014}
+#autolink_nodes 5084 5086 multinuclear Contrast  5087
+#UNDID
+autolink_nodes 5086 5015 multinuclear Contrast  5087
+disconnect_node 5086 disconnect
+collapsed_nodes {5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083 5085 5014}
+#autolink_nodes 5008 5015 satelite evidence  5088
+#collapsed_nodes {5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083 5085 5014 5015}
+#collapsed_nodes {5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083 5085 5014 5015 5006}
+#collapsed_nodes {5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083 5085 5014 5015 5006 5088}
+#UNDID
+autolink_nodes 5008 5015 satelite evidence  5088
+collapsed_nodes {5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083 5085 5014 5015}
+collapsed_nodes {5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083 5085 5014 5015 5088}
+disconnect_node 5010 disconnect
+autolink_nodes 5010 5086 multinuclear Contrast above 5089
+autolink_nodes 5075 5084 satelite circumstance  5090
+collapsed_nodes {5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083 5085 5014 5015 5088 5084}
+#autolink_nodes 5090 5089 satelite explanation-argumentative  5091
+#collapsed_nodes {5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083 5085 5014 5015 5088 5084 5089}
+#autolink_nodes 5091 1 multinuclear Question-Answer  5092
+#collapsed_nodes {5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5085 5014 5015 5088 5089}
+#UNDID
+#UNDID
+autolink_nodes 5090 5089 satelite explanation-argumentative  5091
+collapsed_nodes {5023 5042 5060 5059 5062 5065 5063 5078 5025 5030 5083 5085 5014 5015 5088 5084 5089}
+autolink_nodes 5091 1 multinuclear Question-Answer  5092
+collapsed_nodes {5083 5084}
+collapsed_nodes {5083 5084 5010}
+collapsed_nodes {5083 5084 5010 5033}
+collapsed_nodes {5083 5084 5010 5033 5030}
+collapsed_nodes {5083 5084 5010 5033 5030 5025}
+collapsed_nodes {5083 5084 5033 5030 5025}
+collapsed_nodes {5083 5084 5033 5030 5025 5014}
+collapsed_nodes {5083 5084 5033 5030 5025 5014 5088}
+collapsed_nodes {5083 5084 5033 5030 5025 5014 5088 5009}
+collapsed_nodes {5083 5084 5033 5030 5025 5014 5088 5009 5002}
+collapsed_nodes {5083 5084 5033 5030 5025 5014 5088 5009 5002 5060}
+collapsed_nodes {5083 5084 5033 5030 5025 5014 5088 5009 5002 5060 5059}
+collapsed_nodes {5083 5084 5033 5030 5025 5014 5088 5009 5002 5060 5059 5063}
+collapsed_nodes {5083 5084 5033 5030 5025 5014 5088 5009 5002 5060 5059 5063 5079}
+collapsed_nodes {5083 5084 5033 5030 5025 5014 5088 5009 5002 5060 5059 5063 5079 5089}
+collapsed_nodes {}

@@ -1,0 +1,49 @@
+nextSentence really
+create-a-node-here really 2.15 1 {\nCNW Corp. said }
+#create-a-node-here really 2.86 2 {the final step in the acquisition of the company has been completed }
+#autolink_nodes 1 2 nucleus attribution  5001
+#create-a-node-here really 2.172 3 {with the merger of CNW with a subsidiary of Chicago & North Western Holdings Corp. }
+#autolink_nodes 5001 3 satelite means  5002
+#create-a-node-here really 4.13 4 {\n\nAs reported, }
+#nextSentence really
+#create-a-node-here really 4.27 5 {CNW agreed }
+#autolink_nodes 4 5 nucleus circumstance  5003
+#disconnect_node 4 disconnect
+#autolink_nodes 4 5 nucleus background  5004
+#create-a-node-here really 4.69 6 {to be acquired by a group of investors }
+#autolink_nodes 5 6 nucleus attribution  5005
+#create-a-node-here really 4.127 7 {led by Blackstone Capital Partners Limited Partnership }
+#autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e below 5006
+#create-a-node-here really 4.170 8 {for $50 a share, or about $950 million. }
+#autolink_nodes 5006 8 multinuclear Same-Unit  5007
+#autolink_nodes 5002 5004 satelite elaboration-additional  5008
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 3.0 2 {the final step in the acquisition of the company has been completed with the merger of CNW with a subsidiary of Chicago & North Western Holdings Corp. \n}
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.13 3 {\nAs reported, }
+nextSentence really
+create-a-node-here really 4.66 4 {CNW agreed to be acquired by a group of investors }
+create-a-node-here really 4.124 5 {led by Blackstone Capital Partners Limited Partnership }
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5002
+create-a-node-here really 4.167 6 {for $50 a share, or about $950 million. }
+autolink_nodes 5002 6 multinuclear Same-Unit  5003
+autolink_nodes 3 5003 nucleus circumstance  5004
+autolink_nodes 5001 5004 satelite elaboration-additional  5005
+disconnect_node 5 modify
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5006

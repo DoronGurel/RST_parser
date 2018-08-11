@@ -1,0 +1,71 @@
+nextSentence really
+create-a-node-here really 2.20 1 {\nEnviropact Inc. said}
+create-a-node-here really 2.66 2 { it entered into an agreement in principle }
+create-a-node-here really 2.166 3 {to sell its pump and tank division and drilling division to GSX Chemical Services for $4 million.}
+nextSentence really
+#autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+#UNDID
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 1 5001 nucleus attribution  5002
+create-a-node-here really 4.54 4 { \n\nThe Miami-based environmental engineering concern said}
+create-a-node-here really 4.114 5 { GSX Chemical also will assume about $1.6 million in debt}
+create-a-node-here really 4.145 6 { related to those divisions.}
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 4 5003 nucleus attribution  5004
+autolink_nodes 5002 5004 satelite elaboration-additional  5005
+create-a-node-here really 6.94 7 { \n\nFurther, GSX will buy $1 million of Enviropact common stock, at $2.625 a share, plus an option}
+create-a-node-here really 6.164 8 { to acquire an additional $1.5 million of common at the same price,}
+create-a-node-here really 6.185 9 { the company said.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5006 9 satelite attribution  5007
+create-a-node-here really 7.101 10 {\nIn American Stock Exchange composite trading yesterday, Enviropact closed at $3 a share, up 25 cents.}
+nextSentence really
+autolink_nodes 5007 10 satelite elaboration-additional  5008
+autolink_nodes 5005 5008 satelite elaboration-additional  5009
+create-a-node-here really 9.16 11 { \n\nEnviropact said }
+create-a-node-here really 9.114 12 {the two divisions account for about $8 million of the company's $20 million in annual revenue.}
+nextSentence really
+autolink_nodes 11 12 nucleus attribution  5010
+collapsed_nodes {5008}
+autolink_nodes 5009 5010 satelite elaboration-additional  5011
+create-a-node-here really 10.58 13 {\nThe transaction is expected to close within about 20 days,}
+create-a-node-here really 10.81 14 { the company added.}
+nextSentence really
+autolink_nodes 13 14 satelite attribution  5012
+autolink_nodes 5011 5012 satelite elaboration-additional  5013
+create-a-node-here really 12.15 15 { \n\nEnviropact said}
+#create-a-node-here really 12.78 16 { the proceeds will be used as working capital for expansion}
+#create-a-node-here really 12.143 17 { and to pay its existing tax liability of about $1.5 million }
+#create-a-node-here really 12.169 18 {that was due Sept. 15.}
+#nextSentence really
+#autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5014
+#autolink_nodes 16 5014 multinuclear List  5015
+#autolink_nodes 15 5015 nucleus attribution  5016
+#autolink_nodes 5013 5016 satelite elaboration-additional  5017
+#create-a-node-here really 14.67 19 { \n\nGSX is a unit of Laidlaw Transportation Ltd. of Burlington, Canada.}
+#nextSentence really
+#autolink_nodes 5017 19 satelite background  5018
+#collapsed_nodes {}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 12.139 16 { the proceeds will be used as working capital for expansion and to pay its existing tax liability of about $1.5 million }
+create-a-node-here really 12.165 17 {that was due Sept. 15.}
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 15 5014 nucleus attribution  5015
+autolink_nodes 5013 5015 satelite elaboration-additional  5016
+collapsed_nodes {}
+create-a-node-here really 14.67 18 { \n\nGSX is a unit of Laidlaw Transportation Ltd. of Burlington, Canada.}
+nextSentence really
+#autolink_nodes 5016 18 satelite background  5017
+#UNDID
+autolink_nodes 5016 18 satelite elaboration-additional  5017

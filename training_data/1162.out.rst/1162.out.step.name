@@ -1,0 +1,381 @@
+nextSentence really
+create-a-node-here really 2.51 1 {\nPeople start their own businesses for many reasons.}
+nextSentence really
+create-a-node-here really 3.13 2 {\nBut a chance }
+create-a-node-here really 3.46 3 {to fill out sales-tax records }
+#autolink_nodes 2 3 satelite-embedded elaboration-additional-e  5001
+#UNDID
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 3.71 4 {is rarely one of them.}
+autolink_nodes 5001 4 multinuclear Same-Unit  5002
+autolink_nodes 1 5002 satelite antithesis  5003
+disconnect_node 5002 modify
+autolink_nodes 1 5002 multinuclear Contrast  5004
+create-a-node-here really 5.42 5 { \n\nRed tape is the bugaboo of small business.}
+nextSentence really
+autolink_nodes 5002 5 satelite elaboration-additional  5005
+create-a-node-here really 6.23 6 {\nIronically, the person }
+create-a-node-here really 6.67 7 {who wants to run his or her own business }
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 6.220 8 {is probably the active, results-oriented sort most likely to hate meeting the rules and record-keeping demands of federal, state and local regulators.}
+nextSentence really
+autolink_nodes 5006 8 multinuclear Same-Unit  5007
+autolink_nodes 5004 5007 satelite explanation-argumentative  5008
+create-a-node-here really 7.72 9 {\nYet every business owner has to face the mound of forms and regulations }
+autolink_nodes 5007 9 nucleus concession  5009
+create-a-node-here really 7.127 10 {-- and often is the only one available to tackle it.}
+nextSentence really
+#autolink_nodes 9 10 satelite elaboration-additional below 5010
+#UNDID
+autolink_nodes 9 10 satelite elaboration-additional below 5010
+create-a-node-here really 9.24 11 { \n\nThere is hope of change.}
+autolink_nodes 5008 11 multinuclear Contrast  5011
+nextSentence really
+nextSentence really
+create-a-node-here really 10.31 12 {\nLast week, Sen. Malcolm Wallop }
+create-a-node-here really 10.46 13 {(R., Wyo.) }
+autolink_nodes 12 13 satelite-embedded elaboration-additional-e  5012
+create-a-node-here really 10.74 14 {held hearings on a bill }
+autolink_nodes 5012 14 multinuclear Same-Unit  5013
+create-a-node-here really 10.108 15 {to strengthen an existing law }
+autolink_nodes 14 15 satelite-embedded elaboration-additional-e  5014
+create-a-node-here really 10.171 16 {designed to reduce regulatory hassles for small businesses.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 11 5013 satelite evidence  5016
+create-a-node-here really 10.240 17 { "A great many federal regulations are meant for larger entities }
+create-a-node-here really 10.289 18 {and don't really apply to small businesses," }
+create-a-node-here really 10.346 19 {says Marian Jacob, a legislative aide to Sen. Wallop.}
+nextSentence really
+autolink_nodes 17 18 multinuclear List  5017
+autolink_nodes 5017 19 satelite attribution  5018
+autolink_nodes 5013 5018 satelite explanation-argumentative  5019
+create-a-node-here really 11.25 20 {\nOther lawmakers are busy }
+create-a-node-here really 11.90 21 {trying to revive the recently lapsed Paperwork Reduction Act,}
+autolink_nodes 20 21 satelite reason  5020
+disconnect_node 21 modify
+autolink_nodes 20 21 satelite consequence-n  5021
+autolink_nodes 20 21 satelite consequence-n  5022
+create-a-node-here really 11.139 22 { which many feel benefited small enterprises.}
+nextSentence really
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5023
+autolink_nodes 5019 5021 multinuclear List  5024
+create-a-node-here really 13.70 23 { \n\nThus, optimistic entrepreneurs await a promised land of less red tape }
+create-a-node-here really 13.131 24 {-- just as soon as Uncle Sam gets around to arranging it.}
+nextSentence really
+autolink_nodes 23 24 satelite contingency  5025
+autolink_nodes 5016 5025 satelite consequence-s  5026
+disconnect_node 24 modify
+autolink_nodes 23 24 satelite condition  5027
+create-a-node-here really 14.43 25 {\nMeanwhile, they tackle the mounds of paper }
+create-a-node-here really 14.84 26 {-- and fantasize about a dream world }
+create-a-node-here really 14.162 27 {where bulk-mail postal regulations and government inspectors are banished.}
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5028
+#autolink_nodes 25 5028 multinuclear List  5029
+#UNDID
+autolink_nodes 25 5028 satelite antithesis  5029
+disconnect_node 5028 disconnect
+autolink_nodes 5027 25 satelite concession  5030
+#autolink_nodes 5027 5028 satelite restatement above 5030
+#UNDID
+#autolink_nodes 5027 5028 satelite restatement below 5031
+#UNDID
+#autolink_nodes 5027 5028 satelite restatement above 5030
+#UNDID
+disconnect_node 25 disconnect
+autolink_nodes 25 5028 multinuclear Contrast  5031
+autolink_nodes 5027 5031 satelite restatement  5032
+create-a-node-here really 16.51 28 { \n\nTo find out what red tape riles entrepreneurs most,}
+create-a-node-here really 16.179 29 { the Journal asked a completely unscientific, random sample of business owners to fantasize about the forms and regulations }
+autolink_nodes 28 29 nucleus purpose  5033
+create-a-node-here really 16.228 30 {they would most like to get lost in the mail.}
+nextSentence really
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e below 5034
+create-a-node-here really 18.23 31 { \n\nSome entrepreneurs say }
+create-a-node-here really 18.40 32 {the red tape }
+autolink_nodes 31 32 nucleus attribution  5035
+create-a-node-here really 18.67 33 {they most love to hate }
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e below 5036
+create-a-node-here really 18.83 34 {is red tape }
+#autolink_nodes 5035 34 multinuclear Same-Unit  5037
+#UNDID
+autolink_nodes 5036 34 multinuclear Same-Unit  5037
+create-a-node-here really 19.0 35 {they would also hate to lose.\n}
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5038
+create-a-node-here really 19.17 36 {They concede }
+create-a-node-here really 19.58 37 {that much of the government meddling }
+autolink_nodes 36 37 nucleus attribution  5039
+create-a-node-here really 19.81 38 {that torments them }
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e below 5040
+create-a-node-here really 19.151 39 {is essential to the public good, and even to their own businesses.}
+nextSentence really
+autolink_nodes 5040 39 multinuclear Same-Unit  5041
+autolink_nodes 5035 5039 nucleus concession  5042
+create-a-node-here really 21.6 40 { \n\nRules }
+create-a-node-here really 21.42 41 {that set standards for products }
+create-a-node-here really 21.75 42 {or govern business behavior, }
+autolink_nodes 41 42 multinuclear Disjunction  5043
+autolink_nodes 40 5043 satelite-embedded elaboration-object-attribute-e  5044
+create-a-node-here really 21.155 43 {generally the best regarded form of red tape, "create a level playing field }
+autolink_nodes 5044 43 multinuclear Same-Unit  5045
+create-a-node-here really 21.200 44 {and keep unscrupulous competitors away," }
+autolink_nodes 5045 44 multinuclear List above 5046
+nextSentence really
+create-a-node-here really 21.295 45 {says Sidney West, president of TechDesign International Inc., a Springfield, Va., business }
+autolink_nodes 5046 45 satelite attribution  5047
+create-a-node-here really 21.349 46 {that designs telecommunication and other products.}
+nextSentence really
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5048
+create-a-node-here really 22.105 47 {\nMr. West cites the Federal Communications Commission and its standards for telecommunications equipment: }
+autolink_nodes 5047 47 satelite elaboration-general-specific  5049
+autolink_nodes 5042 5049 satelite explanation-argumentative  5050
+create-a-node-here really 22.138 48 {"They monitor product quality}
+create-a-node-here really 22.186 49 { and prevent junk from flooding the market."}
+nextSentence really
+autolink_nodes 48 49 multinuclear Sequence  5051
+autolink_nodes 47 5051 satelite elaboration-additional  5052
+create-a-node-here really 24.44 50 { \n\nSome gripes about red tape are predictable: }
+create-a-node-here really 24.106 51 {Architects complain about a host of building regulations, }
+create-a-node-here really 24.159 52 {auto leasing companies about car insurance rules.}
+nextSentence really
+autolink_nodes 51 52 multinuclear List  5053
+#autolink_nodes 50 5053 satelite elaboration-general-specific  5054
+#UNDID
+autolink_nodes 50 5053 satelite elaboration-general-specific  5054
+create-a-node-here really 25.83 53 {\nDetermining when handicapped access is required can be a nightmare for architects, }
+create-a-node-here really 25.170 54 {says Mark Dooling, president of Dooling & Co., a Newton, Mass., architectural firm.}
+nextSentence really
+autolink_nodes 53 54 satelite attribution  5055
+autolink_nodes 5053 5055 multinuclear List below 5055
+disconnect_node 5053 modify
+autolink_nodes 50 5053 satelite example  5056
+create-a-node-here really 26.55 55 {\nThere is such a maze of federal, state and local codes }
+create-a-node-here really 26.127 56 {that "building inspectors are backing away from interpreting them," }
+autolink_nodes 55 56 nucleus consequence-n  5057
+create-a-node-here really 26.148 57 {Mr. Dooling says.}
+nextSentence really
+autolink_nodes 5057 57 satelite attribution  5058
+disconnect_node 5055 disconnect
+autolink_nodes 5055 5058 satelite explanation-argumentative  5059
+autolink_nodes 5053 5059 satelite elaboration-general-specific  5060
+create-a-node-here really 28.34 58 { \n\nTaxi, leasing and other companies }
+create-a-node-here really 28.71 59 {that maintain fleets of vehicles }
+autolink_nodes 58 59 satelite-embedded elaboration-object-attribute-e  5061
+create-a-node-here really 28.166 60 {devote substantial resources to complying with state insurance laws and a host of agencies.}
+nextSentence really
+autolink_nodes 5061 60 multinuclear Same-Unit  5062
+create-a-node-here really 28.210 61 { "It's very costly and time-consuming," }
+autolink_nodes 5062 61 satelite explanation-argumentative  5063
+create-a-node-here really 28.306 62 {says Phil Rosen, a partner in Fleet & Leasing Management Inc., a Boston car-leasing company.}
+nextSentence really
+autolink_nodes 61 62 satelite attribution  5064
+create-a-node-here really 29.76 63 {\nOne senior executive at his firm spends nearly 20% of his time on insurance,}
+create-a-node-here really 29.89 64 { he says.}
+nextSentence really
+autolink_nodes 63 64 satelite attribution  5065
+autolink_nodes 5064 5065 satelite evidence  5066
+autolink_nodes 5060 5063 satelite elaboration-general-specific  5067
+create-a-node-here really 31.43 65 { \n\nOther forms of red tape are more pervasive.}
+nextSentence really
+autolink_nodes 5056 65 multinuclear List  5068
+create-a-node-here really 32.18 66 {\nThe most onerous, }
+create-a-node-here really 32.46 67 {many entrepreneurs say, }
+autolink_nodes 66 67 satelite-embedded attribution-e  5069
+create-a-node-here really 32.83 68 {is the record-keeping and filing }
+create-a-node-here really 32.115 69 {required by tax authorities.}
+nextSentence really
+autolink_nodes 68 69 satelite-embedded elaboration-object-attribute-e  5070
+autolink_nodes 5069 5070 multinuclear Same-Unit  5071
+autolink_nodes 65 5071 satelite example  5072
+create-a-node-here really 33.75 70 {\nComplying with environmental and workplace regulations runs a close second.}
+nextSentence really
+autolink_nodes 5071 70 multinuclear List above 5073
+create-a-node-here really 34.25 71 {\nBut gripes run the gamut.}
+nextSentence really
+autolink_nodes 5068 71 multinuclear List below 5073
+create-a-node-here really 35.21 72 {\nHere is the red tape }
+create-a-node-here really 35.70 73 {that irks surveyed business owners the most: }
+autolink_nodes 72 73 satelite-embedded elaboration-object-attribute-e  5074
+autolink_nodes 5011 5033 multinuclear Topic-Drift above 5075
+autolink_nodes 71 5074 satelite elaboration-general-specific  5076
+create-a-node-here really 37.27 74 {\n\nENVIRONMENTAL REGULATIONS: }
+change_constit 74 SectionTitle
+create-a-node-here really 37.164 75 {Next to medical insurance, "costs of compliance" are the fastest-growing expense at Impco Inc., a Providence, R.I., chemical company.}
+nextSentence really
+create-a-node-here really 38.41 76 {\nPeter Gebhard, the company's owner, says }
+create-a-node-here really 38.94 77 {spending on regulatory paper work and the people }
+autolink_nodes 76 77 nucleus attribution  5077
+create-a-node-here really 38.107 78 {to do it }
+autolink_nodes 77 78 satelite-embedded elaboration-object-attribute-e below 5078
+create-a-node-here really 38.183 79 {-- mostly to comply with federal, state and local environmental laws -- }
+#autolink_nodes 5078 79 satelite-embedded purpose-e above 5078
+#UNDID
+autolink_nodes 5078 79 satelite-embedded purpose-e below 5079
+create-a-node-here really 39.0 80 {will rise almost 30% this year to $100,000.\n}
+autolink_nodes 5079 80 multinuclear Same-Unit  5080
+autolink_nodes 75 5077 satelite explanation-argumentative  5081
+create-a-node-here really 39.21 81 {Mr. Gebhard adds }
+create-a-node-here really 39.134 82 {that spending on environmental red tape amounts to between 6.5% and 7.5% of Impco's total operating expenses.}
+nextSentence really
+autolink_nodes 81 82 nucleus attribution  5082
+disconnect_node 5077 modify
+autolink_nodes 75 5077 satelite evidence  5083
+autolink_nodes 5077 5082 satelite elaboration-additional  5084
+nextSentence really
+create-a-node-here really 41.199 83 { \n\nEastern Reproduction Corp., a Waltham, Mass., maker of thin metal precision parts, must report to five federal and state agencies as well as to local fire, police, hospital and plumbing authorities, }
+create-a-node-here really 41.234 84 {says Robert Maguire, president.}
+nextSentence really
+autolink_nodes 83 84 satelite attribution  5085
+autolink_nodes 5083 5085 multinuclear List  5086
+create-a-node-here really 42.52 85 {\nOne state environmental regulator returned a report }
+autolink_nodes 5085 85 satelite elaboration-additional  5087
+create-a-node-here really 42.89 86 {because "it wasn't heavy enough, }
+create-a-node-here really 42.124 87 {it couldn't have been correct,"}
+autolink_nodes 86 87 nucleus consequence-n  5088
+autolink_nodes 85 5088 satelite reason  5089
+create-a-node-here really 42.146 88 { Mr. Maguire says.}
+nextSentence really
+autolink_nodes 5089 88 satelite attribution  5090
+change_constit 5086 SectionText
+autolink_nodes 74 5086 multinuclear TextualOrganization  5091
+create-a-node-here really 44.19 89 { \n\nWITHHOLDING RULES: }
+change_constit 89 SectionTitle
+create-a-node-here really 44.64 90 {Employers must deposit withholding taxes }
+create-a-node-here really 44.85 91 {exceeding $3,000 }
+autolink_nodes 90 91 satelite-embedded elaboration-object-attribute-e  5092
+create-a-node-here really 44.121 92 {within three days after payroll }
+autolink_nodes 5092 92 multinuclear Same-Unit  5093
+create-a-node-here really 44.154 93 {-- or pay stiff penalties -- }
+autolink_nodes 5093 93 multinuclear Disjunction above 5094
+create-a-node-here really 44.204 94 {and that's a big problem for small businesses.}
+nextSentence really
+autolink_nodes 5094 94 multinuclear Evaluation above 5095
+create-a-node-here really 45.27 95 {\nIt's especially nettlesome }
+create-a-node-here really 45.54 96 {"if you're on the road }
+create-a-node-here really 45.91 97 {and you're the one responsible," }
+autolink_nodes 96 97 multinuclear List  5096
+autolink_nodes 95 5096 satelite condition  5097
+create-a-node-here really 45.191 98 {says Eddie Brown, president of Brown Capital Management Inc., a Baltimore money-management firm.}
+nextSentence really
+autolink_nodes 5097 98 satelite attribution  5098
+autolink_nodes 94 5098 satelite elaboration-additional  5099
+change_constit 5095 SectionText
+autolink_nodes 89 5095 multinuclear TextualOrganization  5100
+autolink_nodes 5091 5100 multinuclear List above 5101
+create-a-node-here really 47.18 99 { \n\nEMPLOYEE MANUALS: }
+change_constit 99 SectionTitle
+nextSentence really
+create-a-node-here really 47.252 100 {Revising employee manuals on pensions, health care and other subjects costs over $25,000 a year for Bert Giguiere, president of Professional Agricultural Management Inc., a Fresno, Calif., provider of business services to farmers.}
+nextSentence really
+create-a-node-here really 48.60 101 {\nAn employer leaves itself open to a great deal of liability }
+create-a-node-here really 48.125 102 {if its employee manuals don't reflect the most recent laws, }
+autolink_nodes 101 102 satelite condition  5102
+create-a-node-here really 48.138 103 {he says.}
+nextSentence really
+autolink_nodes 5102 103 satelite attribution  5103
+autolink_nodes 100 5103 satelite explanation-argumentative  5104
+create-a-node-here really 49.68 104 {\nBut the ever-changing laws are usually so complicated and confusing }
+autolink_nodes 5103 104 nucleus concession  5105
+create-a-node-here really 49.102 105 {that "you need professionals }
+create-a-node-here really 49.120 106 {to help you; }
+#autolink_nodes 105 106 satelite-embedded elaboration-object-attribute-e  5106
+#UNDID
+autolink_nodes 105 106 satelite purpose  5106
+create-a-node-here really 49.152 107 {you can't do it yourself," }
+autolink_nodes 5106 107 satelite restatement  5107
+disconnect_node 106 modify
+autolink_nodes 105 106 satelite-embedded elaboration-object-attribute-e below 5108
+autolink_nodes 104 5107 multinuclear Consequence  5109
+create-a-node-here really 49.166 108 {he adds. }
+autolink_nodes 5105 108 satelite attribution  5110
+change_constit 5104 SectionText
+autolink_nodes 99 5104 multinuclear TextualOrganization  5111
+autolink_nodes 5101 5111 multinuclear List below 5111
+create-a-node-here really 51.33 109 {\n\nPENSION AND PROFIT-SHARING RULES:}
+change_constit 109 SectionTitle
+create-a-node-here really 51.70 110 { Complying with these is enough }
+create-a-node-here really 51.138 111 {to make business owners look forward to their own pension days.}
+nextSentence really
+autolink_nodes 110 111 satelite-embedded elaboration-object-attribute-e  5112
+create-a-node-here really 52.116 112 {\nYearly changes in federal benefit laws force small businesses to repeatedly re-evaluate and redesign existing plans.}
+nextSentence really
+autolink_nodes 5112 112 satelite explanation-argumentative  5113
+create-a-node-here really 53.12 113 {\nAlice Fixx, }
+create-a-node-here really 53.72 114 {who runs her own public-relations concern in New York, }
+autolink_nodes 113 114 satelite-embedded elaboration-additional-e  5114
+create-a-node-here really 53.82 115 {says }
+autolink_nodes 5114 115 multinuclear Same-Unit  5115
+create-a-node-here really 53.184 116 {she has had to overhaul her pension and profit-sharing plans three times in the past three years.}
+nextSentence really
+autolink_nodes 5115 116 nucleus attribution  5116
+autolink_nodes 112 5116 satelite evidence  5117
+create-a-node-here really 53.221 117 { "It doesn't increase benefits, }
+create-a-node-here really 53.263 118 {but it's costly and time-consuming," }
+autolink_nodes 117 118 multinuclear Contrast  5118
+create-a-node-here really 53.282 119 {Ms. Fixx says.}
+nextSentence really
+autolink_nodes 5118 119 satelite attribution  5119
+autolink_nodes 5116 5119 satelite comment  5120
+create-a-node-here really 54.62 120 {\nCompliance added 15% to 20% to her accounting bill last year, }
+create-a-node-here really 54.76 121 {she says.}
+nextSentence really
+autolink_nodes 120 121 satelite attribution  5121
+autolink_nodes 5120 5121 satelite elaboration-additional  5122
+change_constit 5113 SectionText
+autolink_nodes 109 5113 multinuclear TextualOrganization  5123
+autolink_nodes 5101 5123 multinuclear List below 5123
+create-a-node-here really 56.19 122 { \n\nSALES TAX RECORDS: }
+#change_constit 122 SectionText
+#UNDID
+change_constit 122 SectionTitle
+create-a-node-here really 56.130 123 {Advertising agencies and other service companies are exempt from city and state sales tax in most locales }
+create-a-node-here really 56.216 124 {-- but the exemption comes at a price of exhaustive records and rigorous reviews.}
+autolink_nodes 123 124 satelite antithesis  5124
+#create-a-node-here really 57.52 125 {\nTo justify their exempt status and avoid penalties, }
+#disconnect_node 124 disconnect
+#autolink_nodes 123 124 nucleus concession  5125
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 5121 modify
+autolink_nodes 5119 5121 satelite evidence  5125
+disconnect_node 124 modify
+autolink_nodes 123 124 nucleus concession  5126
+create-a-node-here really 57.31 125 {\nTo justify their exempt status }
+create-a-node-here really 57.57 126 {and avoid penalties, }
+autolink_nodes 125 126 multinuclear Sequence  5127
+create-a-node-here really 57.101 127 {these businesses must show once a year }
+autolink_nodes 5127 127 nucleus purpose  5128
+create-a-node-here really 57.138 128 {that each and every transaction }
+autolink_nodes 127 128 nucleus attribution  5129
+create-a-node-here really 57.178 129 {on which they didn't pay sales tax }
+autolink_nodes 128 129 satelite-embedded elaboration-object-attribute-e below 5130
+create-a-node-here really 57.217 130 {was a legitimate business expense.}
+nextSentence really
+autolink_nodes 5130 130 multinuclear Same-Unit  5131
+autolink_nodes 5126 5128 satelite example  5132
+create-a-node-here really 57.244 131 { "You need one person }
+create-a-node-here really 57.282 132 {to just take care of sales tax," }
+autolink_nodes 131 132 satelite-embedded elaboration-object-attribute-e  5133
+create-a-node-here really 57.375 133 {says Jennie Tong, executive vice president of Lee Liu & Tong Advertising Inc., New York.}
+nextSentence really
+autolink_nodes 5133 133 satelite attribution  5134
+autolink_nodes 5128 5134 satelite elaboration-additional  5135
+change_constit 5132 SectionText
+autolink_nodes 122 5132 multinuclear TextualOrganization  5136
+autolink_nodes 5101 5136 multinuclear List below 5136
+autolink_nodes 5074 5101 satelite elaboration-set-member  5137
+autolink_nodes 5050 5068 nucleus antithesis  5138
+autolink_nodes 5033 5138 multinuclear Question-Answer  5139
+disconnect_node 5026 modify
+autolink_nodes 5008 5026 multinuclear Problem-Solution  5140
+disconnect_node 5015 modify
+autolink_nodes 14 5015 satelite-embedded elaboration-object-attribute-e  5141
+#disconnect_node 5031 modify
+#autolink_nodes 5027 5031 satelite temporal-same-time  5142
+#UNDID
+#UNDID
+disconnect_node 5031 modify
+autolink_nodes 5027 5031 satelite temporal-same-time  5142
+disconnect_node 5063 disconnect
+autolink_nodes 5059 5063 multinuclear List  5143

@@ -1,0 +1,610 @@
+nextSentence really
+create-a-node-here really 2.81 1 {\nJust five months after Ogilvy Group was swallowed up in an unsolicited takeover, }
+create-a-node-here really 2.151 2 {Kenneth Roman, Ogilvy's chairman and chief executive officer, said }
+create-a-node-here really 2.168 3 {he is leaving }
+create-a-node-here really 2.214 4 {to take a top post at American Express Co. }
+autolink_nodes 3 4 satelite purpose  5001
+autolink_nodes 2 5001 nucleus attribution  5002
+autolink_nodes 1 5002 nucleus circumstance  5003
+create-a-node-here really 4.44 5 {\n\nMr. Roman, 59 years old, abruptly announced }
+create-a-node-here really 4.86 6 {he will leave the venerable ad agency, }
+autolink_nodes 5 6 nucleus attribution  5004
+create-a-node-here really 4.131 7 {whose largest client is American Express, }
+#autolink_nodes 5004 7 satelite-embedded elaboration-additional-e  5005
+#UNDID
+autolink_nodes 6 7 satelite-embedded elaboration-additional-e below 5005
+create-a-node-here really 4.229 8 {to become American Express's executive vice president for corporate affairs and communications.}
+nextSentence really
+autolink_nodes 5005 8 satelite purpose below 5006
+autolink_nodes 5002 5004 satelite elaboration-general-specific above 5006
+create-a-node-here really 5.38 9 {\nHe will succeed Harry L. Freeman, 57, }
+create-a-node-here really 5.54 10 {who has said }
+#autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5007
+#UNDID
+autolink_nodes 9 10 satelite-embedded elaboration-additional-e  5007
+create-a-node-here really 5.85 11 {he will retire in December.}
+autolink_nodes 10 11 nucleus attribution  5008
+autolink_nodes 5003 5007 satelite elaboration-additional  5009
+create-a-node-here really 6.27 12 {\nMr. Freeman said in August }
+create-a-node-here really 6.76 13 {that he would retire by the end of this year }
+autolink_nodes 12 13 nucleus attribution  5010
+create-a-node-here really 6.141 14 {to take "executive responsibility" for an embarrassing effort}
+autolink_nodes 13 14 satelite reason below 5011
+create-a-node-here really 6.179 15 { to discredit banker Edmond Safra.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 5007 5010 satelite circumstance  5013
+create-a-node-here really 7.111 16 {\nAmerican Express representatives apparently influenced the publication of unfavorable articles about Mr. Safra.}
+nextSentence really
+#autolink_nodes 5012 16 satelite explanation-argumentative  5014
+#UNDID
+autolink_nodes 5010 16 satelite explanation-argumentative  5014
+create-a-node-here really 8.29 17 {\nThe company later apologized }
+create-a-node-here really 8.93 18 {and agreed to make $8 million in contributions to charities }
+autolink_nodes 17 18 multinuclear List  5015
+create-a-node-here really 8.111 19 {chosen by him.}
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 16 5015 multinuclear Sequence  5017
+create-a-node-here really 10.33 20 { \n\nAlthough Mr. Freeman is retiring,}
+create-a-node-here really 10.119 21 { he will continue to work as a consultant for American Express on a project basis.}
+nextSentence really
+autolink_nodes 20 21 nucleus antithesis  5018
+autolink_nodes 5013 5018 satelite elaboration-additional  5019
+create-a-node-here really 12.65 22 { \n\nAd industry executives weren't surprised by Mr. Roman's decision }
+create-a-node-here really 12.85 23 {to leave Ogilvy.}
+nextSentence really
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 5009 5020 satelite attribution-n  5021
+create-a-node-here really 13.95 24 {\nThe agency, under his direction, bitterly fought a takeover attempt by WPP Group PLC of London }
+create-a-node-here really 13.124 25 {before succumbing in May.}
+nextSentence really
+autolink_nodes 24 25 satelite temporal-before  5022
+autolink_nodes 5020 5022 satelite explanation-argumentative  5023
+create-a-node-here really 14.4 26 {\nAnd }
+create-a-node-here really 14.97 27 {although Mr. Roman and WPP's chief executive, Martin Sorrell, have gone out of their way }
+create-a-node-here really 14.142 28 {to be publicly supportive of each other, }
+autolink_nodes 27 28 satelite purpose  5024
+create-a-node-here really 14.176 29 {people close to Mr. Roman say }
+autolink_nodes 5024 29 nucleus-embedded concession-e  5025
+autolink_nodes 26 5025 multinuclear Same-Unit  5026
+create-a-node-here really 14.228 30 {he was unhappy giving up control of the company.}
+nextSentence really
+autolink_nodes 29 30 nucleus attribution  5027
+disconnect_node 5024 modify
+autolink_nodes 5025 5024 satelite antithesis  5028
+autolink_nodes 5022 5026 multinuclear List  5029
+create-a-node-here really 15.34 31 {\nSome executives also cite tension }
+create-a-node-here really 15.90 32 {because of efforts by Mr. Sorrell, a financial man, }
+autolink_nodes 31 32 satelite explanation-argumentative  5030
+create-a-node-here really 15.121 33 {to cut costs at the agency.}
+nextSentence really
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5031
+#autolink_nodes 5026 5030 multinuclear Same-Unit below 5031
+#UNDID
+autolink_nodes 5029 5030 multinuclear List below 5031
+create-a-node-here really 17.123 34 { \n\nMr. Roman will be succeeded as the head of Ogilvy's flagship ad agency, Ogilvy & Mather Worldwide, by Graham Phillips, 50, }
+create-a-node-here really 17.179 35 {who had been president of North American operations }
+create-a-node-here really 17.221 36 {and who, like Mr. Sorrell, is British.}
+autolink_nodes 35 36 multinuclear List  5032
+autolink_nodes 34 5032 satelite-embedded elaboration-additional-e  5033
+autolink_nodes 5021 5033 multinuclear Sequence  5034
+create-a-node-here really 18.151 37 {\nAlexander Brody, 56, will take on the newly created position of president of the world-wide agency and chief executive of its international operations.}
+nextSentence really
+autolink_nodes 5033 37 multinuclear Temporal-Same-Time  5035
+create-a-node-here really 19.54 38 {\nHe had been president of the international operations.}
+nextSentence really
+autolink_nodes 37 38 satelite background  5036
+create-a-node-here really 20.130 39 {\nMr. Roman also had overseen Ogilvy Group's two other units, the Scali McCabe Sloves advertising agency and its research division, }
+create-a-node-here really 20.182 40 {but those units will now report directly to WPP.}
+nextSentence really
+autolink_nodes 39 40 multinuclear Contrast  5037
+autolink_nodes 5035 5037 multinuclear Temporal-Same-Time below 5037
+create-a-node-here really 22.59 41 { \n\nMr. Roman appears custom-made for the American Express job.}
+nextSentence really
+autolink_nodes 5034 41 satelite evaluation-s  5038
+create-a-node-here really 23.34 42 {\nKnown as a traditional executive, }
+create-a-node-here really 23.96 43 {he is very much in the conservative American Express mold.}
+nextSentence really
+#autolink_nodes 42 43 satelite-embedded elaboration-additional-e  5039
+#UNDID
+autolink_nodes 42 43 nucleus-embedded elaboration-additional-e  5039
+autolink_nodes 41 5039 satelite explanation-argumentative  5040
+#create-a-node-here really 24.10 44 {\nMoreover, }
+#create-a-node-here really 24.39 45 {after 26 years at Ogilvy }
+#create-a-node-here really 24.114 46 {he had honed a reputation for being squeaky-clean and a straight arrow }
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 24.61 44 {\nMoreover, after 26 years at Ogilvy he had honed a reputation }
+create-a-node-here really 24.110 45 {for being squeaky-clean and a straight arrow }
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5041
+create-a-node-here really 25.0 46 {-- which can only help American Express in the wake of the Safra incident.\n}
+autolink_nodes 5041 46 satelite-embedded elaboration-additional-e  5042
+autolink_nodes 5039 5042 multinuclear List  5043
+disconnect_node 46 modify
+autolink_nodes 5041 46 satelite-embedded evaluation-s-e  5044
+create-a-node-here really 25.103 47 {He also is close to American Express's chairman and chief executive officer, James D. Robinson III.}
+nextSentence really
+autolink_nodes 5043 47 multinuclear List below 5044
+create-a-node-here really 25.209 48 { Aside from working with Mr. Robinson on the American Express advertising account for about 11 years, }
+create-a-node-here really 25.290 49 {Mr. Roman serves on several of the same charities and boards as Mr. Robinson.}
+nextSentence really
+autolink_nodes 48 49 nucleus elaboration-additional  5045
+autolink_nodes 47 5045 satelite explanation-argumentative  5046
+create-a-node-here really 27.60 50 { \n\nThe abrupt management change sparked widespread speculation }
+create-a-node-here really 27.135 51 {that Mr. Roman had been pushed out of Ogilvy's top spot by Mr. Sorrell.}
+nextSentence really
+#autolink_nodes 50 51 satelite-embedded elaboration-object-attribute-e  5047
+#UNDID
+autolink_nodes 50 51 satelite-embedded elaboration-object-attribute-e  5047
+create-a-node-here really 28.45 52 {\nBut Mr. Roman flatly denied the speculation, }
+autolink_nodes 5047 52 multinuclear Contrast  5048
+create-a-node-here really 28.56 53 {saying }
+autolink_nodes 52 53 satelite manner  5049
+disconnect_node 53 modify
+autolink_nodes 52 53 satelite means  5050
+create-a-node-here really 28.121 54 {Mr. Sorrell had tried several times to persuade him to stay, }
+autolink_nodes 53 54 nucleus attribution  5051
+create-a-node-here really 28.153 55 {offering various incentives }
+autolink_nodes 54 55 satelite means below 5052
+create-a-node-here really 28.212 56 {and in one instance sending a note with a case of wine }
+autolink_nodes 55 56 multinuclear List  5053
+create-a-node-here really 28.278 57 {(The wine, naturally, was Seagram's brand, an Ogilvy client). }
+autolink_nodes 56 57 satelite-embedded elaboration-general-specific-e  5054
+create-a-node-here really 28.309 58 {"He asked me not to resign.}
+nextSentence really
+autolink_nodes 5052 58 nucleus summary-n  5055
+create-a-node-here really 29.16 59 {\nThe implication }
+create-a-node-here really 29.44 60 {that I was pushed aside }
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5056
+create-a-node-here really 29.71 61 {wouldn't be accurate," }
+autolink_nodes 5056 61 multinuclear Same-Unit  5057
+create-a-node-here really 29.90 62 {Mr. Roman said.}
+nextSentence really
+autolink_nodes 5057 62 satelite attribution  5058
+autolink_nodes 5050 5058 satelite elaboration-additional  5059
+create-a-node-here really 30.13 63 {\nMr. Sorrell, }
+create-a-node-here really 30.43 64 {traveling in the Far East,}
+autolink_nodes 63 64 satelite-embedded elaboration-additional-e  5060
+create-a-node-here really 30.68 65 { couldn't be reached.}
+nextSentence really
+autolink_nodes 5060 65 multinuclear Same-Unit  5061
+autolink_nodes 5059 5061 satelite antithesis  5062
+create-a-node-here really 32.15 66 { \n\nMr. Roman said }
+create-a-node-here really 32.104 67 {American Express's Mr. Robinson first approached him about the job in late September.}
+nextSentence really
+autolink_nodes 66 67 nucleus attribution  5063
+create-a-node-here really 33.34 68 {\nAccording to industry executives, }
+create-a-node-here really 33.169 69 {Peter Sutherland, a former European Community commissioner from Ireland, was also a serious contender for the American Express job.}
+nextSentence really
+autolink_nodes 68 69 nucleus attribution  5064
+autolink_nodes 5063 5064 multinuclear Temporal-Same-Time  5065
+create-a-node-here really 34.45 70 {\nAlthough it ultimately wasn't offered to him,}
+create-a-node-here really 34.132 71 { he will be on retainer to American Express as an adviser on international matters.}
+nextSentence really
+autolink_nodes 70 71 satelite concession  5066
+disconnect_node 71 modify
+autolink_nodes 70 71 nucleus concession  5067
+autolink_nodes 5065 5067 nucleus background  5068
+create-a-node-here really 35.50 72 {\nAfter talking on and off for the past four weeks, }
+create-a-node-here really 35.70 73 {Mr. Roman said, }
+autolink_nodes 72 73 satelite attribution  5069
+create-a-node-here really 35.100 74 {he agreed to take the job }
+autolink_nodes 5069 74 nucleus temporal-after  5070
+create-a-node-here really 35.133 75 {because "it's the right time,}
+autolink_nodes 74 75 satelite reason below 5071
+create-a-node-here really 35.166 76 { it's a terrific opportunity,}
+#autolink_nodes 75 76 multinuclear List  5072
+#UNDID
+autolink_nodes 75 76 multinuclear List  5072
+create-a-node-here really 35.183 77 { and I think }
+create-a-node-here really 36.0 78 {I leave the company in very strong hands.\n}
+autolink_nodes 77 78 nucleus attribution  5073
+autolink_nodes 5072 5073 multinuclear List below 5073
+disconnect_node 20 modify
+autolink_nodes 21 20 satelite concession  5074
+#autolink_nodes 5040 5048 satelite elaboration-additional  5075
+#UNDID
+#autolink_nodes 5038 5048 satelite elaboration-additional  5075
+#UNDID
+autolink_nodes 5068 5070 multinuclear Sequence  5075
+autolink_nodes 5062 5075 satelite elaboration-additional  5076
+autolink_nodes 5038 5048 satelite elaboration-additional  5077
+create-a-node-here really 36.43 79 {It was my decision, not anyone else's."}
+nextSentence really
+autolink_nodes 5070 79 nucleus summary-n  5078
+create-a-node-here really 38.108 80 { \n\nMr. Roman also brushed aside reports about infighting between him and Mr. Phillips, his successor at Ogilvy.}
+nextSentence really
+autolink_nodes 5076 80 multinuclear List  5079
+create-a-node-here really 39.50 81 {\nThe two executives could hardly be more different.}
+nextSentence really
+autolink_nodes 5077 81 satelite comment  5080
+create-a-node-here really 40.47 82 {\nMr. Roman comes across as a low-key executive; }
+create-a-node-here really 40.91 83 {Mr. Phillips has a flashier personality.}
+nextSentence really
+autolink_nodes 82 83 multinuclear Contrast  5081
+autolink_nodes 81 5081 satelite evidence  5082
+create-a-node-here really 41.48 84 {\nDuring time off, Mr. Roman tends to his garden; }
+create-a-node-here really 41.135 85 {Mr. Phillips confesses to a fondness for, among other things, fast cars and planes.}
+nextSentence really
+autolink_nodes 84 85 multinuclear Contrast  5083
+autolink_nodes 5081 5083 multinuclear List above 5084
+disconnect_node 5082 disconnect
+autolink_nodes 80 5082 satelite evaluation-s  5085
+create-a-node-here really 42.24 86 {\nIndustry executives say }
+create-a-node-here really 42.33 87 {that }
+create-a-node-here really 42.95 88 {although the two executives used to clash more frequently,}
+autolink_nodes 86 87 nucleus attribution  5086
+create-a-node-here really 42.146 89 { the WPP takeover brought them closer together.}
+nextSentence really
+autolink_nodes 88 89 nucleus antithesis  5087
+#autolink_nodes 5086 5087 multinuclear Same-Unit  5088
+#UNDID
+autolink_nodes 87 5087 multinuclear Same-Unit  5088
+create-a-node-here really 44.13 90 { \n\n"I'm the guy }
+create-a-node-here really 44.93 91 {who made him head of New York, head of the U.S., president of North America,}
+autolink_nodes 90 91 satelite-embedded elaboration-object-attribute-e  5089
+create-a-node-here really 44.151 92 { and recommended him {to Mr. Sorrell} as my successor.}
+autolink_nodes 91 92 multinuclear List  5090
+create-a-node-here really 45.48 93 {\nWould I have done all those things successively }
+create-a-node-here really 45.70 94 {if I didn't think }
+autolink_nodes 93 94 satelite condition  5091
+create-a-node-here really 45.96 95 {he was the right guy?"}
+nextSentence really
+autolink_nodes 94 95 nucleus attribution  5092
+autolink_nodes 5089 5091 satelite rhetorical-question  5093
+create-a-node-here really 45.117 96 { Mr. Roman asked.}
+nextSentence really
+autolink_nodes 5091 96 satelite attribution  5094
+autolink_nodes 5086 5093 satelite evidence  5095
+create-a-node-here really 46.45 97 {\nHe labeled reports of friction "ridiculous," }
+create-a-node-here really 46.58 98 {and said }
+create-a-node-here really 46.134 99 {that he spent part of the weekend on Mr. Phillips's boat in Connecticut.}
+nextSentence really
+autolink_nodes 98 99 nucleus attribution  5096
+disconnect_node 94 modify
+autolink_nodes 95 94 satelite attribution-n  5097
+autolink_nodes 97 5096 multinuclear List  5098
+#autolink_nodes 5093 5098 multinuclear List  5099
+#UNDID
+autolink_nodes 5093 5098 multinuclear List  5099
+autolink_nodes 5048 5095 satelite elaboration-additional  5100
+disconnect_node 5023 modify
+autolink_nodes 5009 5023 satelite interpretation-s  5101
+disconnect_node 5017 modify
+autolink_nodes 5010 5017 satelite background  5102
+disconnect_node 5095 disconnect
+autolink_nodes 5085 5095 satelite interpretation-s  5103
+create-a-node-here really 48.103 100 { \n\nMr. Roman will oversee American Express's public relations and government affairs, among other things, }
+create-a-node-here really 48.153 101 {but he won't be involved in its advertising, }
+autolink_nodes 100 101 satelite antithesis  5104
+create-a-node-here really 48.199 102 {which is handled by the operating units. }
+autolink_nodes 101 102 satelite-embedded elaboration-additional-e  5105
+create-a-node-here really 48.239 103 {"I consider this a second career," }
+create-a-node-here really 48.252 104 {he said.}
+nextSentence really
+autolink_nodes 103 104 satelite attribution  5106
+autolink_nodes 5104 5106 satelite interpretation-s  5107
+create-a-node-here really 49.75 105 {\nHe also will sit on the company's corporate planning and policy committee, }
+create-a-node-here really 49.134 106 {made up of the top corporate and operating executives.}
+nextSentence really
+autolink_nodes 105 106 satelite-embedded elaboration-set-member-e  5108
+autolink_nodes 5107 5108 multinuclear List  5109
+autolink_nodes 5077 5109 satelite elaboration-additional  5110
+create-a-node-here really 51.82 107 { \n\nMr. Roman's departure isn't expected to have any enormous repercussions at Ogilvy.}
+nextSentence really
+autolink_nodes 5110 107 satelite evaluation-s  5111
+create-a-node-here really 52.66 108 {\nAmerican Express, Kraft General Foods, and Mattel executives said }
+create-a-node-here really 52.132 109 {the move won't affect their relationships with the ad agency.}
+nextSentence really
+autolink_nodes 108 109 nucleus attribution  5112
+autolink_nodes 107 5112 satelite elaboration-additional  5113
+create-a-node-here really 52.219 110 { "General Foods's relationships with its agencies are based on the agencies' work,}
+create-a-node-here really 52.251 111 { and will continue to be," }
+autolink_nodes 110 111 multinuclear Sequence  5114
+create-a-node-here really 52.316 112 {said David Hurwitt, a vice president of Kraft General Foods.}
+nextSentence really
+autolink_nodes 5114 112 satelite attribution  5115
+disconnect_node 5112 disconnect
+autolink_nodes 5112 5115 multinuclear List  5116
+autolink_nodes 107 5116 satelite elaboration-additional  5117
+create-a-node-here really 54.48 113 { \n\nBut some clients and analysts expressed concern }
+create-a-node-here really 54.107 114 {that Mr. Phillips isn't as well-known to many clients.}
+nextSentence really
+autolink_nodes 113 114 satelite-embedded elaboration-object-attribute-e  5118
+create-a-node-here really 54.139 115 { "Ken was my key contact," }
+create-a-node-here really 54.221 116 {said J. Nicholas Hahn, president and chief executive officer of Cotton Inc., }
+autolink_nodes 115 116 satelite attribution  5119
+create-a-node-here really 54.260 117 {which represents cotton producers.}
+nextSentence really
+autolink_nodes 116 117 satelite-embedded elaboration-additional-e  5120
+nextSentence really
+nextSentence really
+create-a-node-here really 56.0 118 { "I don't know {Mr.\nPhillips} all that well.\n}
+autolink_nodes 5119 118 satelite explanation-argumentative  5121
+disconnect_node 118 modify
+autolink_nodes 5119 118 multinuclear List  5122
+autolink_nodes 5118 5122 satelite evidence  5123
+create-a-node-here really 56.55 119 {I haven't seen or talked to him in several years."}
+nextSentence really
+autolink_nodes 118 119 satelite elaboration-additional  5124
+create-a-node-here really 58.29 120 { \n\nAnd some analysts questioned }
+create-a-node-here really 58.77 121 {whether Mr. Phillips would have the skills }
+autolink_nodes 120 121 nucleus attribution  5125
+#disconnect_node 120 modify
+#UNDID
+disconnect_node 120 modify
+autolink_nodes 121 120 satelite attribution-n  5126
+create-a-node-here really 58.95 122 {Ogilvy needs }
+autolink_nodes 121 122 satelite-embedded elaboration-object-attribute-e below 5127
+create-a-node-here really 58.126 123 {to turn the agency around.}
+#autolink_nodes 5127 123 satelite-embedded elaboration-object-attribute-e above 5127
+#UNDID
+#autolink_nodes 121 123 satelite-embedded elaboration-object-attribute-e below 5128
+#UNDID
+#autolink_nodes 121 123 satelite-embedded elaboration-object-attribute-e above 5127
+#UNDID
+autolink_nodes 5127 123 satelite-embedded elaboration-object-attribute-e below 5128
+autolink_nodes 5123 5126 multinuclear List  5129
+autolink_nodes 5117 5129 multinuclear Contrast  5130
+create-a-node-here really 59.58 124 {\nWhile the agency has done well in many parts of the world,}
+create-a-node-here really 59.133 125 { its flagship New York office has had a dismal track record recently; }
+autolink_nodes 124 125 nucleus antithesis  5131
+create-a-node-here really 59.166 126 {it has won few new accounts }
+create-a-node-here really 59.193 127 {while losing big ones,}
+#autolink_nodes 126 127 multinuclear Contrast  5132
+#UNDID
+autolink_nodes 126 127 multinuclear Temporal-Same-Time  5132
+create-a-node-here really 59.223 128 { including Maxwell House.}
+nextSentence really
+autolink_nodes 127 128 satelite example  5133
+autolink_nodes 125 5132 satelite evidence below 5134
+nextSentence really
+#create-a-node-here really 60.37 129 { "I think {Mr.\nPhillips} is going to need some help.}
+#nextSentence really
+#autolink_nodes 5131 129 nucleus interpretation-n  5135
+#create-a-node-here really 61.8 130 {\nI think }
+#create-a-node-here really 61.43 131 {they need creative leadership,}
+#autolink_nodes 130 131 nucleus attribution  5136
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 59.238 129 { "I think }
+create-a-node-here really 61.0 130 {{Mr.\nPhillips} is going to need some help.\n}
+autolink_nodes 129 130 nucleus attribution  5135
+create-a-node-here really 61.13 131 {I think }
+create-a-node-here really 61.48 132 {they need creative leadership,}
+autolink_nodes 131 132 nucleus attribution  5136
+create-a-node-here really 61.71 133 { and I don't think}
+create-a-node-here really 61.91 134 { they have it,"}
+autolink_nodes 133 134 nucleus attribution-n  5137
+autolink_nodes 5135 5136 multinuclear List  5138
+autolink_nodes 5138 5137 multinuclear List below 5138
+create-a-node-here really 61.143 135 { said Emma Hill, an analyst with Wertheim & Co.}
+autolink_nodes 5138 135 satelite attribution  5139
+autolink_nodes 5131 5139 satelite interpretation-s  5140
+create-a-node-here really 63.90 136 { \n\nOgilvy & Mather's top creative executive, Norman Berry, left the agency earlier this year.}
+nextSentence really
+create-a-node-here really 63.150 137 { "Norm Berry was a creative inspiration at the company,}
+autolink_nodes 136 137 nucleus background  5141
+create-a-node-here really 63.190 138 { and nobody has filled that void," }
+autolink_nodes 137 138 multinuclear Contrast  5142
+create-a-node-here really 63.209 139 {said Ms. Hill.}
+nextSentence really
+autolink_nodes 5141 139 satelite attribution  5143
+autolink_nodes 5139 5143 satelite explanation-argumentative  5144
+create-a-node-here really 65.24 140 { \n\nBut other analysts said }
+create-a-node-here really 65.107 141 {that having Mr. Phillips succeed Mr. Roman would make for a smooth transition.}
+nextSentence really
+autolink_nodes 140 141 nucleus attribution  5145
+autolink_nodes 5144 5145 multinuclear Contrast  5146
+create-a-node-here really 65.157 142 { "Graham Phillips has been there a long time,}
+create-a-node-here really 65.186 143 { knows the culture well,}
+autolink_nodes 142 143 multinuclear List  5147
+create-a-node-here really 65.207 144 { is aggressive, }
+autolink_nodes 5147 144 multinuclear List below 5147
+create-a-node-here really 65.261 145 {and apparently gets along well with" Mr. Sorrell,}
+autolink_nodes 5147 145 multinuclear List below 5147
+create-a-node-here really 65.327 146 { said Andrew Wallach, an analyst with Drexel Burnham Lambert.}
+nextSentence really
+autolink_nodes 5147 146 satelite attribution  5148
+create-a-node-here really 65.372 147 { "It's probably a reasonable transition.}
+nextSentence really
+autolink_nodes 5129 5140 multinuclear List below 5148
+disconnect_node 5145 disconnect
+#autolink_nodes 5129 5145 multinuclear Contrast above 5149
+#UNDID
+#autolink_nodes 5129 5145 multinuclear Contrast above 5149
+#UNDID
+#autolink_nodes 5130 5145 multinuclear Contrast below 5148
+#UNDID
+autolink_nodes 5130 5145 multinuclear Contrast below 5148
+#autolink_nodes 5145 5148 satelite explanation-argumentative  5149
+#UNDID
+autolink_nodes 5145 5148 satelite explanation-argumentative  5149
+autolink_nodes 5148 147 nucleus interpretation-n  5150
+create-a-node-here really 66.47 148 {\nHopefully, he'll be the answer to the problems }
+create-a-node-here really 66.78 149 {they've had in New York." }
+autolink_nodes 148 149 satelite-embedded elaboration-object-attribute-e  5151
+autolink_nodes 5149 5151 satelite hypothetical  5152
+disconnect_node 5148 disconnect
+disconnect_node 147 disconnect
+disconnect_node 5151 disconnect
+autolink_nodes 147 5151 multinuclear List  5153
+autolink_nodes 5145 5148 satelite explanation-argumentative  5154
+autolink_nodes 5154 5153 satelite hypothetical  5155
+create-a-node-here really 68.27 150 {\n\nSale of Saatchi Unit Close }
+autolink_nodes 150 150 schema SectionTitle  5155
+nextSentence really
+create-a-node-here really 70.50 151 {\n\nComputer Sciences Corp., El Segundo, Calif., said }
+create-a-node-here really 70.96 152 {it is close to making final an agreement }
+autolink_nodes 151 152 nucleus attribution  5156
+create-a-node-here really 70.163 153 {to buy Cleveland Consulting Associates from Saatchi & Saatchi }
+autolink_nodes 152 153 satelite-embedded elaboration-object-attribute-e below 5157
+create-a-node-here really 72.90 154 {\n\nComputer Sciences wouldn't disclose the proposed purchase price for Cleveland Consulting, }
+create-a-node-here really 72.144 155 {which counsels companies on logistics and supply.}
+nextSentence really
+autolink_nodes 154 155 satelite-embedded elaboration-additional-e  5158
+create-a-node-here really 73.77 156 {\nBut David Lord, managing editor of Consultants News, an industry publication }
+create-a-node-here really 73.110 157 {based in Fitzwilliam, N.H., }
+autolink_nodes 156 157 satelite-embedded elaboration-object-attribute-e  5159
+create-a-node-here really 73.120 158 {said }
+autolink_nodes 5159 158 multinuclear Same-Unit  5160
+create-a-node-here really 73.270 159 {an industry standard would suggest a purchase price of between one and two times Cleveland Consulting's approximately $15 million annual revenue.}
+nextSentence really
+autolink_nodes 5160 159 nucleus attribution  5161
+autolink_nodes 5158 5161 multinuclear Contrast  5162
+create-a-node-here really 75.23 160 { \n\nBoth Saatchi & Saatchi,}
+create-a-node-here really 75.58 161 { which announced its intention}
+autolink_nodes 160 161 satelite-embedded elaboration-additional-e  5163
+create-a-node-here really 75.116 162 { to sell off most of its consulting business in June,}
+autolink_nodes 161 162 satelite-embedded elaboration-object-attribute-e  5164
+create-a-node-here really 75.188 163 { and Cleveland Consulting declined to comment on the proposed sale.}
+nextSentence really
+autolink_nodes 5163 163 multinuclear Same-Unit  5165
+autolink_nodes 5162 5165 multinuclear Contrast above 5166
+autolink_nodes 5156 5166 satelite summary-n  5167
+#autolink_nodes 5167 5167 schema SectionText  5167
+#UNDID
+autolink_nodes 5167 5167 schema Text  5167
+autolink_nodes 150 150 schema Title  5167
+autolink_nodes 150 5167 multinuclear TextualOrganization  5168
+autolink_nodes 5111 5168 multinuclear Topic-Shift  5169
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 77.16 164 { \n\nAd Notes. . . . }
+autolink_nodes 164 164 schema Title  5169
+create-a-node-here really 79.13 165 {\n\nNEW ACCOUNT: }
+autolink_nodes 165 165 schema SectionTitle  5169
+create-a-node-here really 79.137 166 {AmBase Corp., New York, awarded the ad account for its Home Insurance Co. unit to Biederman, Kelly & Shaffer, New York.}
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 80.34 167 {\nBillings weren't disclosed. . . . }
+autolink_nodes 166 167 satelite elaboration-additional  5170
+create-a-node-here really 80.160 168 {Puerto Rico Telephone Co. awarded its $3 million account to West Indies & Grey, Grey Advertising's office in Puerto Rico.}
+nextSentence really
+autolink_nodes 5170 168 multinuclear List  5171
+#autolink_nodes 5171 5171 schema Text  5171
+#UNDID
+autolink_nodes 5171 5171 schema SectionText  5171
+autolink_nodes 165 5171 multinuclear TextualOrganization  5172
+create-a-node-here really 82.11 169 { \n\nDIET COKE: }
+autolink_nodes 169 169 schema SectionTitle  5172
+create-a-node-here really 82.45 170 {Coca-Cola Co. yesterday said }
+#create-a-node-here really 82.108 171 {singer Elton John signed to appear in an ad for Diet Coke.}
+#autolink_nodes 170 171 nucleus attribution  5173
+#create-a-node-here really 83.27 172 {\nDetails of the commercial, }
+#create-a-node-here really 83.93 173 {which will be part of the brand's 1990 advertising campaign, }
+#autolink_nodes 172 173 satelite-embedded elaboration-object-attribute-e  5174
+#create-a-node-here really 83.116 174 {weren't disclosed.}
+#nextSentence really
+#autolink_nodes 5174 174 multinuclear Same-Unit  5175
+#create-a-node-here really 84.49 175 {\nMr. John becomes the latest of many music stars, }
+#create-a-node-here really 84.98 176 {including George Michael and Whitney Houston}
+#UNDID
+#create-a-node-here really 84.100 176 {including George Michael and Whitney Houston, }
+#autolink_nodes 175 176 satelite-embedded example-e  5176
+#create-a-node-here really 84.141 177 {to appear in ads for the diet drink.}
+#autolink_nodes 175 177 satelite-embedded elaboration-object-attribute-e above 5176
+#UNDID
+#autolink_nodes 5176 177 satelite-embedded elaboration-object-attribute-e  5177
+#autolink_nodes 5175 5175 multinuclear List above 5178
+#UNDID
+#autolink_nodes 5175 5177 multinuclear List above 5178
+#autolink_nodes 5173 5178 satelite elaboration-additional  5179
+#UNDID
+#UNDID
+#autolink_nodes 5173 5175 satelite elaboration-additional  5178
+#autolink_nodes 5178 5177 satelite elaboration-additional  5179
+#autolink_nodes 5179 5179 schema SectionText  5179
+#autolink_nodes 169 5179 multinuclear TextualOrganization  5180
+#autolink_nodes 5172 5180 multinuclear List above 5181
+#autolink_nodes 5181 5181 schema Text  5181
+#autolink_nodes 164 5181 multinuclear TextualOrganization  5182
+#autolink_nodes 5111 5182 multinuclear Topic-Shift  5183
+#UNDID
+#autolink_nodes 5169 5182 multinuclear Topic-Shift below 5182
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 82.75 171 {singer Elton John signed }
+autolink_nodes 170 171 nucleus attribution  5173
+create-a-node-here really 83.0 172 {to appear in an ad for Diet Coke.\n}
+autolink_nodes 171 172 satelite purpose below 5174
+create-a-node-here really 83.32 173 {Details of the commercial, }
+create-a-node-here really 83.98 174 {which will be part of the brand's 1990 advertising campaign, }
+autolink_nodes 173 174 satelite-embedded elaboration-additional-e  5175
+autolink_nodes 5173 5175 satelite elaboration-additional  5176
+create-a-node-here really 83.121 175 {weren't disclosed.}
+nextSentence really
+autolink_nodes 5175 175 multinuclear Same-Unit  5177
+create-a-node-here really 84.49 176 {\nMr. John becomes the latest of many music stars, }
+create-a-node-here really 84.100 177 {including George Michael and Whitney Houston, }
+autolink_nodes 176 177 satelite-embedded example-e  5178
+create-a-node-here really 84.141 178 {to appear in ads for the diet drink.}
+nextSentence really
+autolink_nodes 5178 178 satelite-embedded elaboration-object-attribute-e  5179
+autolink_nodes 5176 5179 satelite elaboration-additional  5180
+autolink_nodes 5180 5180 schema SectionText  5180
+autolink_nodes 169 5180 multinuclear TextualOrganization  5181
+#autolink_nodes 5172 5172 schema Text  5181
+#autolink_nodes 164 5172 multinuclear TextualOrganization  5182
+#UNDID
+#UNDID
+autolink_nodes 5172 5181 multinuclear List above 5182
+autolink_nodes 5182 5182 schema Text  5182
+autolink_nodes 164 5182 multinuclear TextualOrganization  5183
+autolink_nodes 5168 5183 multinuclear Topic-Shift above 5184
+#disconnect_node 1 disconnect
+#autolink_nodes 2 1 satelite circumstance  5185
+#UNDID
+#UNDID
+disconnect_node 5004 disconnect
+autolink_nodes 5003 5004 satelite elaboration-general-specific below 5185
+disconnect_node 5019 disconnect
+autolink_nodes 5004 5019 satelite elaboration-additional  5186
+disconnect_node 5051 modify
+autolink_nodes 52 5051 satelite manner below 5187
+disconnect_node 53 disconnect
+autolink_nodes 5052 53 satelite attribution  5188
+disconnect_node 5055 disconnect
+disconnect_node 5188 disconnect
+autolink_nodes 52 5188 satelite manner below 5189
+autolink_nodes 5188 58 nucleus summary-n  5190
+#disconnect_node 5083 disconnect
+#autolink_nodes 5081 5083 satelite example  5191
+#UNDID
+#UNDID
+disconnect_node 5084 modify
+autolink_nodes 81 5084 satelite example  5191
+disconnect_node 88 disconnect
+autolink_nodes 89 88 satelite-embedded antithesis-e  5192
+disconnect_node 5122 modify
+autolink_nodes 5118 5122 satelite example  5193
+disconnect_node 5153 modify
+autolink_nodes 5154 5153 satelite conclusion  5194

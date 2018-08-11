@@ -1,0 +1,119 @@
+nextSentence really
+create-a-node-here really 2.28 1 {\nProperty Capital Trust said }
+create-a-node-here really 2.51 2 {it dropped its plan }
+#create-a-node-here really 2.113 3 {to liquidate because it wasn't able to realize the value it}
+#UNDID
+#create-a-node-here really 2.111 3 {to liquidate because it wasn't able to realize the value }
+#create-a-node-here really 2.130 4 {it had expected.}
+#nextSentence really
+#create-a-node-here really 3.8 5 {\nIt said }
+#nextSentence really
+#create-a-node-here really 3.83 6 {it will buy back two million shares, or 18.4%, of the total outstanding,}
+#create-a-node-here really 3.111 7 { and continue operations }
+#create-a-node-here really 3.146 8 {buying and managing real estate.}
+#nextSentence really
+#create-a-node-here really 5.18 9 { \n\nProperty Capital, }
+#create-a-node-here really 5.47 10 {which is based in Boston, }
+#create-a-node-here really 5.73 11 {had told shareholders }
+#create-a-node-here really 5.160 12 {it expected to distribute at least $21 a share, or $229 million, in a liquidation, }
+#create-a-node-here really 5.226 13 {based on an expected asset sale price of $290 million or more.}
+#nextSentence really
+#create-a-node-here really 6.17 14 {\nThe company said }
+#create-a-node-here really 6.48 15 {it didn't receive an offer }
+#create-a-node-here really 6.72 16 {it wanted to accept.}
+#nextSentence really
+#create-a-node-here really 8.46 17 { \n\nAs a result of dropping the liquidation plan, }
+#create-a-node-here really 8.92 18 {shareholders will have to treat dividends }
+#create-a-node-here really 8.115 19 {received this year }
+#create-a-node-here really 8.199 20 {as ordinary income or capital gains rather than as tax free returns of capital, }
+#create-a-node-here really 8.220 21 {the company said.}
+#nextSentence really
+#create-a-node-here really 10.59 22 { \n\nThe share repurchase will be funded mostly from borrowings.}
+#nextSentence really
+#autolink_nodes 1 2 nucleus attribution  5001
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.67 3 {to liquidate }
+create-a-node-here really 2.113 4 {because it wasn't able to realize the value}
+create-a-node-here really 2.133 5 { it had expected.}
+nextSentence really
+create-a-node-here really 3.8 6 {\nIt said }
+nextSentence really
+create-a-node-here really 3.83 7 {it will buy back two million shares, or 18.4%, of the total outstanding,}
+create-a-node-here really 3.111 8 { and continue operations }
+create-a-node-here really 3.146 9 {buying and managing real estate.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e below 5002
+autolink_nodes 5002 4 satelite consequence-n above 5002
+autolink_nodes 4 5 satelite elaboration-object-attribute  5003
+autolink_nodes 6 7 nucleus attribution  5004
+autolink_nodes 7 8 multinuclear List  5005
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 5.17 10 { \n\nProperty Capital,}
+create-a-node-here really 5.48 11 { which is based in Boston, }
+create-a-node-here really 5.74 12 {had told shareholders }
+create-a-node-here really 5.160 13 {it expected to distribute at least $21 a share, or $229 million, in a liquidation,}
+create-a-node-here really 5.227 14 { based on an expected asset sale price of $290 million or more.}
+nextSentence really
+create-a-node-here really 6.17 15 {\nThe company said }
+create-a-node-here really 6.48 16 {it didn't receive an offer }
+create-a-node-here really 6.72 17 {it wanted to accept.}
+nextSentence really
+create-a-node-here really 8.45 18 { \n\nAs a result of dropping the liquidation plan,}
+create-a-node-here really 8.92 19 { shareholders will have to treat dividends }
+create-a-node-here really 8.115 20 {received this year }
+create-a-node-here really 8.199 21 {as ordinary income or capital gains rather than as tax free returns of capital, }
+create-a-node-here really 8.220 22 {the company said.}
+nextSentence really
+create-a-node-here really 10.59 23 { \n\nThe share repurchase will be funded mostly from borrowings.}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 5007 12 multinuclear Same-Unit  5008
+autolink_nodes 12 13 satelite elaboration-additional  5009
+autolink_nodes 13 14 satelite elaboration-additional  5010
+autolink_nodes 15 16 nucleus attribution  5011
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e below 5012
+autolink_nodes 5001 5004 satelite elaboration-additional  5013
+collapsed_nodes {5004}
+autolink_nodes 5013 5008 satelite circumstance  5014
+autolink_nodes 18 19 nucleus consequence-n  5015
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e below 5016
+autolink_nodes 5016 21 multinuclear Same-Unit  5017
+autolink_nodes 5015 22 satelite attribution  5018
+collapsed_nodes {5004 5013}
+autolink_nodes 5014 5011 satelite elaboration-additional  5019
+autolink_nodes 5019 5018 satelite elaboration-additional  5020
+collapsed_nodes {5004 5013 5019}
+autolink_nodes 5020 23 satelite elaboration-additional  5021
+collapsed_nodes {}
+collapsed_nodes {5021}
+collapsed_nodes {}
+collapsed_nodes {5021}
+collapsed_nodes {}

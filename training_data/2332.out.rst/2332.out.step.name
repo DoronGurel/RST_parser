@@ -1,0 +1,67 @@
+nextSentence really
+create-a-node-here really 2.84 1 {\nCiting a payment from a supplier and strong sales of certain data-storage products, }
+create-a-node-here really 2.105 2 {Maxtor Corp. said }
+create-a-node-here really 2.158 3 {earnings and revenue jumped in its second quarter }
+create-a-node-here really 2.176 4 {ended Sept. 24.}
+nextSentence really
+create-a-node-here really 4.49 5 { \n\nThe maker of computer-data-storage products said }
+create-a-node-here really 4.167 6 {net income rose to $4.8 million, or 23 cents a share, from year-earlier net of $1.1 million, or five cents a share.}
+nextSentence really
+nextSentence really
+create-a-node-here really 5.50 7 {\nRevenue soared to $117 million from $81.5 million.}
+nextSentence really
+create-a-node-here really 7.12 8 { \n\nMaxtor said }
+autolink_nodes 2 3 nucleus attribution  5001
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e below 5002
+#autolink_nodes 1 5001 nucleus consequence-n  5003
+#UNDID
+autolink_nodes 1 5001 nucleus consequence-n  5003
+autolink_nodes 5 6 nucleus attribution  5004
+autolink_nodes 5004 7 satelite elaboration-additional  5005
+create-a-node-here really 7.66 9 {its results were boosted by $2 million in payments }
+create-a-node-here really 7.95 10 {received from a supplier, }
+create-a-node-here really 7.130 11 {for a certain line of products }
+create-a-node-here really 7.174 12 {that Maxtor isn't going to sell anymore.}
+create-a-node-here really 8.11 13 {\nMaxtor said}
+create-a-node-here really 8.24 14 { effects }
+create-a-node-here really 8.56 15 {from discontinuing the line }
+create-a-node-here really 8.118 16 {may have a positive effect on future earnings and revenue.}
+nextSentence really
+create-a-node-here really 9.33 17 {\nA spokeswoman wouldn't elaborate,}
+create-a-node-here really 9.59 18 { but the company said }
+create-a-node-here really 9.139 19 {the discontinued product has never been a major source of revenue or profit.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5006
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e below 5007
+autolink_nodes 5007 11 multinuclear Same-Unit  5008
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 13 14 nucleus attribution  5010
+autolink_nodes 14 15 satelite-embedded elaboration-additional-e below 5011
+autolink_nodes 5011 16 multinuclear Same-Unit  5012
+autolink_nodes 18 19 nucleus attribution  5013
+autolink_nodes 18 17 nucleus antithesis  5014
+disconnect_node 5014 disconnect
+autolink_nodes 18 19 nucleus attribution  5015
+create-a-node-here really 11.61 20 { \n\nOperationally, Maxtor benefited from robust sales of products}
+create-a-node-here really 11.140 21 { that store data for high-end personal computers and computer workstations.}
+nextSentence really
+create-a-node-here really 13.126 22 { \n\nIn the fiscal first half, net was $7 million, or 34 cents a share, up from the year-earlier $3.1 million, or 15 cents a share.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 14.51 23 {\nRevenue rose to $225.5 million from $161.8 million.}
+nextSentence really
+autolink_nodes 5003 5005 satelite elaboration-additional  5016
+autolink_nodes 5016 5006 satelite reason  5017
+collapsed_nodes {5016}
+autolink_nodes 5017 5010 satelite elaboration-additional  5018
+autolink_nodes 5010 5014 satelite elaboration-additional  5019
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 22 23 multinuclear List  5021
+autolink_nodes 5018 5020 satelite elaboration-additional  5022
+collapsed_nodes {5016 5018}
+autolink_nodes 5022 5021 satelite background  5023
+collapsed_nodes {5016 5018 5022}
+collapsed_nodes {}
+collapsed_nodes {5023}
+collapsed_nodes {}

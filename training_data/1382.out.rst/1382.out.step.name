@@ -1,0 +1,44 @@
+nextSentence really
+create-a-node-here really 2.113 1 {\nCompanies listed below reported quarterly profit substantially different from the average of analysts' estimates.}
+nextSentence really
+create-a-node-here really 3.54 2 {\nThe companies are followed by at least three analysts,}
+create-a-node-here really 3.122 3 { and had a minimum five-cent change in actual earnings per share.}
+nextSentence really
+autolink_nodes 2 3 multinuclear List  5001
+autolink_nodes 1 5001 satelite elaboration-additional  5002
+create-a-node-here really 4.28 4 {\nEstimated and actual results}
+create-a-node-here really 4.48 5 { involving losses}
+create-a-node-here really 4.64 6 { are omitted.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 6 5003 multinuclear Same-Unit  5004
+autolink_nodes 5002 5004 satelite elaboration-additional  5005
+create-a-node-here really 6.71 7 { \n\nThe percent difference compares actual profit with the 30-day estimate }
+create-a-node-here really 6.146 8 {where at least three analysts have issues forecasts in the past 30 days.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 7.63 9 {\nOtherwise, actual profit is compared with the 300-day estimate.}
+nextSentence really
+autolink_nodes 5006 9 multinuclear Otherwise  5007
+autolink_nodes 5005 5007 satelite elaboration-additional  5008
+create-a-node-here really 8.7 10 {\nSource:}
+create-a-node-here really 8.38 11 { Zacks Investment Research }
+autolink_nodes 10 11 satelite elaboration-general-specific  5009
+change_constit 5009 
+change_constit 5009 Source
+#change_constit 5008 Text
+#UNDID
+change_constit 5009 Source
+#change_constit 5008 Text
+#autolink_nodes 5009 5008 multinuclear TextualOrganization  5010
+#UNDID
+#UNDID
+change_constit 5009 Source
+change_constit 5008 Source
+#autolink_nodes 5009 5008 multinuclear TextualOrganization  5010
+#UNDID
+collapsed_nodes {5007}
+change_constit 5009 Source
+change_constit 5008 Text
+autolink_nodes 5009 5008 multinuclear TextualOrganization  5010
+collapsed_nodes {}

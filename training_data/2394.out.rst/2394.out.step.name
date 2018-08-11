@@ -1,0 +1,157 @@
+nextSentence really
+create-a-node-here really 2.10 1 {\nAvis Inc.,}
+create-a-node-here really 2.50 2 { following rival Hertz Corp. 's lead,}
+create-a-node-here really 2.59 3 { said }
+create-a-node-here really 2.127 4 {it is backing out of frequent-flier programs with three airlines.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 3 5001 multinuclear Same-Unit  5002
+autolink_nodes 5002 4 nucleus attribution  5003
+create-a-node-here really 4.47 5 { \n\nThe Garden City, N.Y., car-rental company said }
+create-a-node-here really 4.209 6 {it won't renew contracts with NWA Inc. 's Northwest Airlines unit, Pan Am Corp. 's Pan American World Airways unit and Midway Airlines at the end of this year.}
+nextSentence really
+autolink_nodes 5 6 nucleus attribution  5004
+autolink_nodes 5003 5004 satelite elaboration-additional  5005
+create-a-node-here really 5.97 7 {\nBut it remains involved in programs with AMR Corp. 's American Airlines unit and Delta Air Lines.}
+nextSentence really
+change_rel 5004 elaboration-general-specific
+autolink_nodes 5005 7 satelite antithesis  5006
+create-a-node-here really 7.101 8 { \n\nIndustry estimates put Avis's annual cost of all five programs at between $8 million and $14 million.}
+nextSentence really
+create-a-node-here really 8.47 9 {\nA spokesman for Avis wouldn't specify the costs}
+create-a-node-here really 8.60 10 { but said }
+create-a-node-here really 8.83 11 {the three airlines }
+create-a-node-here really 8.101 12 {being dropped }
+create-a-node-here really 8.151 13 {account for "far less than half" of the total.}
+nextSentence really
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 13 5007 multinuclear Same-Unit  5008
+autolink_nodes 10 5008 nucleus attribution  5009
+autolink_nodes 5009 9 satelite antithesis  5010
+autolink_nodes 8 5010 satelite elaboration-additional  5011
+autolink_nodes 5006 5011 satelite elaboration-additional  5012
+create-a-node-here really 10.101 14 { \n\nBudget Rent a Car Corp., of Chicago, and National Car Rental Systems Inc., of Minneapolis, both said }
+create-a-node-here really 10.123 15 {they had no plans }
+create-a-node-here really 10.142 16 {to follow suit.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 14 5013 nucleus attribution  5014
+create-a-node-here really 11.8 17 {\nIn fact,}
+create-a-node-here really 11.30 18 { Budget indicated }
+create-a-node-here really 11.53 19 {it saw some benefit}
+create-a-node-here really 11.96 20 { to staying involved in these programs,}
+create-a-node-here really 11.143 21 { in which renters earn frequent-flier miles}
+create-a-node-here really 11.188 22 { and fliers can get car-rental discounts.}
+nextSentence really
+autolink_nodes 21 22 multinuclear List  5015
+autolink_nodes 20 5015 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 19 5016 satelite-embedded elaboration-object-attribute-e  5017
+autolink_nodes 17 18 satelite-embedded attribution-e  5018
+autolink_nodes 5017 5018 multinuclear Same-Unit  5019
+create-a-node-here really 13.14 23 { \n\n"I cannot see }
+create-a-node-here really 13.85 24 {how this news by Hertz and Avis cannot benefit Budget's programs," }
+create-a-node-here really 13.150 25 {said Bob Wilson, Budget's vice president, marketing planning.}
+nextSentence really
+autolink_nodes 23 24 nucleus attribution-n  5020
+autolink_nodes 5020 25 satelite attribution  5021
+autolink_nodes 5019 5021 satelite elaboration-additional  5022
+create-a-node-here really 14.49 26 {\nNorthwest and Midway are two of the five airlines}
+create-a-node-here really 14.87 27 { with which Budget has agreements.}
+nextSentence really
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5023
+autolink_nodes 5022 5023 satelite elaboration-additional  5024
+autolink_nodes 5014 5024 satelite elaboration-additional  5025
+collapsed_nodes {5021}
+collapsed_nodes {5021 5023}
+collapsed_nodes {5021}
+create-a-node-here really 16.98 28 { \n\nNational also participates in the Northwest frequent-flier program along with four other airlines,}
+create-a-node-here really 16.154 29 { including Delta and USAir Group Inc. 's USAir unit.}
+nextSentence really
+autolink_nodes 28 29 satelite-embedded elaboration-set-member-e  5026
+autolink_nodes 5023 5026 satelite elaboration-additional  5027
+collapsed_nodes {5021 5027}
+autolink_nodes 5012 5025 satelite elaboration-additional  5028
+change_rel 5025 consequence-s
+change_rel 5025 summary-s
+change_rel 5025 statement-response-s
+collapsed_nodes {5021 5027 5025}
+change_rel 5025 statement-response-s
+create-a-node-here really 18.45 30 { \n\nA month ago, Hertz, of Park Ridge, N.J., said}
+create-a-node-here really 18.196 31 { that it would drop its marketing agreements at year end with Delta, America West and Texas Air Corp. 's Continental Airlines and Eastern Airlines,}
+#create-a-node-here really 18.296 32 { and that pacts with American Airlines, UAL Inc's United Airlines and USAir also would be ended.}
+#nextSentence really
+#UNDID
+#UNDID
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 18.324 32 { and that pacts with American Airlines, UAL Inc's United Airlines and USAir also would be ended. . . sometime after Dec. 31.}
+autolink_nodes 31 32 multinuclear List  5029
+autolink_nodes 30 5029 nucleus attribution  5030
+collapsed_nodes {}
+collapsed_nodes {5025}
+#create-a-node-here really 19.24 33 {\nAt the time, Hertz said }
+#create-a-node-here really 19.86 34 {its annual fees to those airlines amounted to $20 million }
+#create-a-node-here really 19.147 35 {and that the value of redeemed awards topped $15 million.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 19.81 33 {\nAt the time, Hertz said its annual fees to those airlines amounted to $20 million}
+#create-a-node-here really 19.143 34 { and that the value of redeemed awards topped $15 million.}
+#nextSentence really
+#autolink_nodes 33 34 multinuclear List  5031
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 19.24 33 {\nAt the time, Hertz said }
+create-a-node-here really 19.85 34 {its annual fees to those airlines amounted to $20 million}
+create-a-node-here really 19.147 35 { and that the value of redeemed awards topped $15 million.}
+nextSentence really
+autolink_nodes 34 35 multinuclear List  5031
+autolink_nodes 33 5031 nucleus attribution  5032
+autolink_nodes 5030 5032 satelite elaboration-additional  5033
+create-a-node-here really 20.40 36 {\nAnalysts and competitors, however, doubt}
+create-a-node-here really 20.72 37 { the numbers were that high.}
+nextSentence really
+autolink_nodes 36 37 nucleus attribution  5034
+autolink_nodes 5032 5034 satelite antithesis  5035
+create-a-node-here really 21.12 38 {\nBudget said }
+create-a-node-here really 21.80 39 {its frequent-flier costs are "substantially below" Avis's level.}
+nextSentence really
+autolink_nodes 38 39 nucleus attribution  5036
+autolink_nodes 5034 5036 satelite example  5037
+autolink_nodes 5028 5033 satelite elaboration-additional  5038
+create-a-node-here really 23.59 40 { \n\nRobert D. Cardillo, Avis vice president of marketing, said,}
+create-a-node-here really 23.92 41 { "The proliferation and costs}
+create-a-node-here really 23.134 42 { attached to {frequent-flier programs}}
+create-a-node-here really 23.182 43 { have significantly diminished their value."}
+nextSentence really
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 5039 43 multinuclear Same-Unit  5040
+autolink_nodes 40 5040 nucleus attribution  5041
+nextSentence really
+autolink_nodes 5038 5041 satelite explanation-argumentative  5042
+create-a-node-here really 25.53 44 { \n\nThis year has been difficult for both Hertz and Avis,}
+create-a-node-here really 26.13 45 { said Charles Finnie, car-rental industry analyst at Alex.\nBrown & Sons.}
+nextSentence really
+autolink_nodes 44 45 satelite attribution  5043
+create-a-node-here really 26.64 46 { "They've been looking to get their costs down,}
+create-a-node-here really 26.113 47 { and this is a fairly sensible way to do it,"}
+create-a-node-here really 26.126 48 { he said.}
+nextSentence really
+autolink_nodes 46 47 satelite elaboration-additional  5044
+autolink_nodes 5044 48 satelite attribution  5045
+autolink_nodes 5043 5045 satelite elaboration-additional  5046
+#autolink_nodes 5042 5046 satelite elaboration-additional  5047
+#UNDID
+collapsed_nodes {5025 5041}
+collapsed_nodes {5025 5041 5033}
+collapsed_nodes {5025 5041 5033 5011}
+autolink_nodes 5042 5046 satelite elaboration-additional  5047
+collapsed_nodes {5025 5041 5033}
+collapsed_nodes {5041 5033}
+collapsed_nodes {5041}
+collapsed_nodes {}

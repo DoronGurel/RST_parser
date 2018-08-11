@@ -1,0 +1,205 @@
+1
+ First Tennessee National Corp. said
+5002
+attribution
+
+2
+ it would take a $4 million charge in the fourth quarter,
+5002
+span
+
+3
+ as a result of plans
+5001
+span
+
+4
+ to expand its systems operation.
+3
+elaboration-object-attribute-e
+
+5
+ The banking company said
+5004
+attribution
+
+6
+ it reached an agreement in principle with International Business Machines Corp. on a systems operations contract
+5004
+span
+
+7
+ calling for IBM to operate First Tennessee's computer and telecommunications functions.
+6
+elaboration-object-attribute-e
+
+8
+ Further, under the agreement, First Tennesse would continue to develop the software 
+5006
+span
+
+9
+that creates customer products and sevices.
+8
+elaboration-object-attribute-e
+
+10
+ Because personal computers will soon be on the desks of all of our tellers, and customer service and loan representatives,
+11
+consequence-n
+
+11
+ information will be instantly available to help customers with product decisions and provide them with information about their accounts, 
+5008
+span
+
+12
+according to John Kelley, executive vice president and corporate services group manager at First Tennessee.
+5008
+attribution
+
+13
+ However, about 120 employees will be affected by the agreement.
+5015
+Problem-Solution
+
+14
+ First Tennessee,
+5010
+span
+
+15
+ assisted by IBM,
+14
+elaboration-object-attribute-e
+
+16
+ said 
+5011
+Same-Unit
+
+17
+it will attempt to place the employees within the company, IBM or other companies in Memphis.
+5012
+span
+
+18
+ The process will take as many as six months to complete,
+5013
+span
+
+19
+ the company said.
+18
+attribution
+
+20
+ The agreement is subject to the banking company's board approval,
+5019
+span
+
+21
+ which is expected next month.
+20
+elaboration-object-attribute-e
+
+5001
+span
+2
+result
+
+5002
+span
+5003
+span
+
+5003
+span
+5018
+span
+
+5004
+span
+5005
+span
+
+5005
+span
+5007
+span
+
+5006
+span
+5005
+elaboration-additional
+
+5007
+span
+5017
+span
+
+5008
+span
+5009
+span
+
+5009
+span
+5016
+span
+
+5010
+span
+5011
+Same-Unit
+
+5011
+multinuc
+17
+attribution
+
+5012
+span
+5014
+span
+
+5013
+span
+5012
+elaboration-additional
+
+5014
+span
+5015
+Problem-Solution
+
+5015
+multinuc
+5009
+consequence-s
+
+5016
+span
+5007
+consequence-s
+
+5017
+span
+5020
+span
+
+5018
+span
+
+
+
+5019
+span
+5017
+elaboration-additional
+
+5020
+span
+5003
+summary-n
+

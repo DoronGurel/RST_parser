@@ -1,0 +1,31 @@
+nextSentence really
+showText really
+create-a-node-here really 2.68 1 {\nThe NBC network canceled its first new series of the fall TV season,}
+create-a-node-here really 2.130 2 { killing Mel Brooks's wacky hotel comedy "The Nutt House." }
+autolink_nodes 1 2 nucleus-embedded elaboration-additional-e  5001
+create-a-node-here really 5.0 3 {\n\nThe show, one of five new NBC series, is the second casualty of the three networks so far this fall.\n}
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+create-a-node-here really 5.55 4 {Last week CBS Inc. canceled "The People Next Door." }
+create-a-node-here really 5.104 5 {NBC's comedy had aired Wednesdays at 9:30 p.m.}
+create-a-node-here really 5.172 6 { and in five outings had drawn an average of only 13.2% of homes,}
+create-a-node-here really 5.294 7 { lagging behind the Jamie Lee Curtis comedy "Anything But Love" on ABC and CBS's one-hour drama "Jake and the Fatman." }
+autolink_nodes 5 6 multinuclear List  5003
+#autolink_nodes 5003 7 satelite-embedded elaboration-additional-e  5004
+#UNDID
+autolink_nodes 6 7 satelite-embedded elaboration-additional-e  5004
+#autolink_nodes 5002 4 satelite comparison  5005
+#UNDID
+autolink_nodes 5002 4 satelite comparison  5005
+autolink_nodes 5005 5003 satelite elaboration-additional  5006
+create-a-node-here really 5.400 8 {NBC, a unit of General Electric Co., hasn't decided on a permanent replacement for the canceled series.}
+autolink_nodes 5006 8 satelite elaboration-additional  5007
+disconnect_node 1 disconnect
+#autolink_nodes 2 1 nucleus elaboration-additional  5008
+#UNDID
+autolink_nodes 2 1 nucleus elaboration-additional  5008
+disconnect_node 4 disconnect
+autolink_nodes 3 4 satelite elaboration-additional  5009
+disconnect_node 5003 disconnect
+autolink_nodes 4 5003 satelite elaboration-additional  5010
+disconnect_node 5003 disconnect
+autolink_nodes 5002 5003 satelite elaboration-additional below 5011

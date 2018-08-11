@@ -1,0 +1,396 @@
+nextSentence really
+create-a-node-here really 2.161 1 {\nBenjamin Jacobson & Sons has been the New York Stock Exchange specialist firm in charge of trading stock in UAL Corp. and its predecessors since the early 1930s.}
+nextSentence really
+create-a-node-here really 4.48 2 { \n\nBut the firm has never had a day like yesterday.}
+nextSentence really
+autolink_nodes 1 2 nucleus background  5001
+#create-a-node-here really 6.55 3 { \n\nAt first UAL didn't open because of an order imbalance.}
+#nextSentence really
+#create-a-node-here really 7.41 4 {\nWhen it did a half-hour into the session,}
+#create-a-node-here really 7.115 5 { it was priced at $150 a share, down more than $28 from Monday's close.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 6.25 3 { \n\nAt first UAL didn't open }
+create-a-node-here really 6.58 4 {because of an order imbalance.}
+#autolink_nodes 3 4 nucleus purpose  5002
+#UNDID
+autolink_nodes 3 4 satelite purpose  5002
+create-a-node-here really 7.41 5 {\nWhen it did a half-hour into the session,}
+create-a-node-here really 7.115 6 { it was priced at $150 a share, down more than $28 from Monday's close.}
+nextSentence really
+disconnect_node 4 modify
+#autolink_nodes 3 4 nucleus reason  5003
+#disconnect_node 3 modify
+#UNDID
+#UNDID
+autolink_nodes 3 4 satelite reason  5003
+autolink_nodes 6 5 satelite circumstance  5004
+create-a-node-here really 8.34 7 {\nIt sank further to as low as $145,}
+create-a-node-here really 8.86 8 { but a big rally developed in the last half hour,}
+create-a-node-here really 9.0 9 { pushing the stock back up to close at $170, down just $8.375 from Monday.\n}
+autolink_nodes 8 9 satelite elaboration-additional  5005
+autolink_nodes 7 5005 nucleus concession  5006
+autolink_nodes 5004 5006 multinuclear Sequence  5007
+autolink_nodes 5007 5003 multinuclear Sequence below 5007
+create-a-node-here really 9.45 10 {In the process, 4.9 million shares traded,}
+create-a-node-here really 9.107 11 { making UAL the second most active issue on the Big Board.}
+nextSentence really
+autolink_nodes 10 11 nucleus consequence-n  5008
+autolink_nodes 5008 5007 satelite circumstance  5009
+collapsed_nodes {5007}
+autolink_nodes 5001 5009 satelite evidence  5010
+#create-a-node-here really 11.31 12 { \n\nMunching pizza when they could }
+#UNDID
+create-a-node-here really 11.15 12 { \n\nMunching pizza }
+create-a-node-here really 11.35 13 {when they could }
+create-a-node-here really 11.51 14 {and yelling }
+create-a-node-here really 11.83 15 {until their voices gave out,}
+create-a-node-here really 11.241 16 { the two Benjamin Jacobson specialists at the Big Board's UAL trading post yesterday presided over what can only be described as a financial free-for-all.}
+autolink_nodes 12 13 satelite circumstance  5011
+autolink_nodes 14 15 satelite circumstance  5012
+autolink_nodes 5012 5011 multinuclear List  5013
+autolink_nodes 5013 16 nucleus temporal-same-time  5014
+create-a-node-here really 13.16 17 { \n\n"It was chaotic.}
+nextSentence really
+create-a-node-here really 14.44 18 {\nBut we like to call it 'controlled chaos, '"}
+create-a-node-here really 14.121 19 { said 47-year-old Robert J. Jacobson Jr., grandson of the firm's founder.}
+nextSentence really
+autolink_nodes 18 19 satelite attribution  5015
+autolink_nodes 17 5015 satelite elaboration-additional  5016
+autolink_nodes 5014 5016 satelite elaboration-additional  5017
+create-a-node-here really 15.87 20 {\nHe manned the UAL post yesterday with Christopher Bates, 33, an energetic Long Islander}
+create-a-node-here really 15.135 21 { who's a dead ringer for actor Nicolas Cage.}
+nextSentence really
+autolink_nodes 20 21 satelite-embedded elaboration-additional-e  5018
+#autolink_nodes 5015 5018 satelite elaboration-additional  5019
+#UNDID
+autolink_nodes 5017 5018 satelite elaboration-additional  5019
+create-a-node-here really 17.30 22 { \n\nWho was doing all the selling?}
+create-a-node-here really 17.70 23 { "Options traders, arbitrage traders}
+create-a-node-here really 17.89 24 { -- everyone," }
+create-a-node-here really 17.108 25 {said Mr. Bates,}
+create-a-node-here really 17.181 26 { cooling down with a carton of apple juice after the close yesterday.}
+nextSentence really
+autolink_nodes 25 26 satelite elaboration-additional  5020
+autolink_nodes 23 24 satelite restatement  5021
+autolink_nodes 5021 22 multinuclear Question-Answer  5022
+autolink_nodes 5022 5020 satelite attribution  5023
+create-a-node-here really 18.19 27 {\nAdded Mr. Jacobson,}
+create-a-node-here really 18.73 28 { "There were some pretty bad losses in the stock."}
+nextSentence really
+#autolink_nodes 27 28 nucleus attribution  5024
+#autolink_nodes 5023 5024 nucleus consequence-n  5025
+#collapsed_nodes {5007 5018}
+#collapsed_nodes {5007 5018 5023}
+#UNDID
+#UNDID
+autolink_nodes 27 28 nucleus attribution  5024
+autolink_nodes 5023 5024 satelite elaboration-additional  5025
+autolink_nodes 5019 5025 satelite elaboration-additional  5026
+collapsed_nodes {5007 5025}
+create-a-node-here really 20.23 29 { \n\nBig Board traders said }
+create-a-node-here really 20.69 30 {a 200,000-share buy order at $150 a share }
+create-a-node-here really 20.104 31 {entered by Bear, Stearns & Co.,}
+create-a-node-here really 20.147 32 { which was active in UAL stock all day,}
+create-a-node-here really 20.204 33 { is what set off the UAL crowd in the late afternoon.}
+autolink_nodes 30 31 satelite-embedded elaboration-additional-e  5027
+autolink_nodes 31 32 satelite-embedded elaboration-additional-e  5028
+autolink_nodes 33 5027 multinuclear Same-Unit  5029
+autolink_nodes 29 5029 nucleus attribution  5030
+collapsed_nodes {5007 5025 5018}
+autolink_nodes 5026 5030 satelite result  5031
+create-a-node-here really 21.115 34 {\nA subsequent rally in UAL helped the staggering stock market stage an astonishing recovery from an 80-point deficit}
+create-a-node-here really 21.165 35 { to finish only slightly below Monday's close.}
+nextSentence really
+autolink_nodes 34 35 satelite elaboration-additional  5032
+autolink_nodes 5030 5032 multinuclear Sequence  5033
+create-a-node-here really 23.22 36 { \n\nBoth Jacobson traders,}
+create-a-node-here really 23.47 37 { who had been hoping }
+create-a-node-here really 23.88 38 {UAL trading would get back to normal,}
+create-a-node-here really 23.191 39 { read the news about the unraveling of UAL takeover plans on the train into work yesterday morning.}
+nextSentence really
+autolink_nodes 37 38 nucleus attribution  5034
+#autolink_nodes 36 5034 satelite-embedded elaboration-additional-e  5035
+#autolink_nodes 5035 39 multinuclear Same-Unit  5036
+#create-a-node-here really 24.19 40 {\nThe news told them }
+#create-a-node-here really 24.50 41 {it would be a while longer }
+#create-a-node-here really 24.136 42 {before UAL resumed trading like a regular airline stock after months of gyrations.}
+#nextSentence really
+#autolink_nodes 41 42 nucleus circumstance  5037
+#autolink_nodes 40 5037 nucleus attribution  5038
+#disconnect_node 5034 modify
+#autolink_nodes 36 5034 satelite-embedded elaboration-object-attribute-e  5039
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 36 5034 satelite-embedded elaboration-object-attribute-e  5035
+autolink_nodes 5035 39 multinuclear Same-Unit  5036
+create-a-node-here really 24.18 40 {\nThe news told them}
+create-a-node-here really 24.49 41 { it would be a while longer}
+create-a-node-here really 24.136 42 { before UAL resumed trading like a regular airline stock after months of gyrations.}
+autolink_nodes 41 42 nucleus circumstance  5037
+autolink_nodes 40 5037 nucleus attribution  5038
+autolink_nodes 5036 5038 satelite elaboration-additional  5039
+nextSentence really
+nextSentence really
+create-a-node-here really 25.58 43 {\nWhen Mr. Jacobson walked into the office at 7:30 a.m. EDT,}
+create-a-node-here really 25.77 44 { he announced: }
+create-a-node-here really 25.97 45 {"OK, buckle up."}
+nextSentence really
+autolink_nodes 44 45 nucleus attribution  5040
+autolink_nodes 43 5040 nucleus circumstance  5041
+nextSentence really
+nextSentence really
+create-a-node-here really 28.78 46 { \n\nMessrs.\nJacobson and Bates walked on the Big Board floor at about 8:45 a.m. yesterday }
+create-a-node-here really 28.114 47 {and immediately spotted trouble.}
+nextSentence really
+autolink_nodes 46 47 nucleus circumstance  5042
+create-a-node-here really 29.114 48 {\nAlready entered in the Big Board's computers and transmitted to their post were sell orders for 65,000 UAL shares.}
+nextSentence really
+autolink_nodes 5042 48 satelite elaboration-general-specific  5043
+create-a-node-here really 31.78 49 { \n\nThe UAL news had already caused a selling furor in the so-called third market,}
+create-a-node-here really 31.146 50 { in which firms buy and sell stock away from the exchange floor.}
+nextSentence really
+#autolink_nodes 49 50 nucleus-embedded elaboration-object-attribute-e  5044
+#UNDID
+autolink_nodes 49 50 satelite-embedded elaboration-object-attribute-e  5044
+#autolink_nodes 5043 5044 satelite explanation-argumentative  5045
+#UNDID
+autolink_nodes 5043 5044 satelite elaboration-additional  5045
+create-a-node-here really 32.4 51 {\nUAL,}
+create-a-node-here really 32.66 52 { which closed on the Big Board Monday at $178.375 a share,}
+create-a-node-here really 32.131 53 { traded in the third market afterward as low as $158 a share.}
+nextSentence really
+#autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5046
+#UNDID
+autolink_nodes 51 52 satelite-embedded elaboration-additional-e  5046
+autolink_nodes 5046 53 multinuclear Same-Unit  5047
+autolink_nodes 5044 5047 satelite elaboration-additional  5048
+create-a-node-here really 33.42 54 {\nThere were rumors of $148-a-share trades. }
+#autolink_nodes 5047 54 satelite elaboration-additional  5049
+#UNDID
+autolink_nodes 5047 54 satelite elaboration-additional  5049
+autolink_nodes 5045 5041 multinuclear Sequence  5050
+collapsed_nodes {5007 5025 5018 5038}
+autolink_nodes 5050 5039 multinuclear Sequence below 5050
+create-a-node-here really 35.126 55 {\n\nIn the 45 minutes before the 9:30 opening bell, the Jacobson specialists kept getting sell orders, heavier than they imagined.}
+nextSentence really
+collapsed_nodes {5007 5025 5018 5038 5048}
+create-a-node-here really 36.79 56 {\nAnd at 9:15, they posted a $135 to $155 "first indication," or the price range }
+create-a-node-here really 36.122 57 {in which the stock would probably open.}
+nextSentence really
+autolink_nodes 56 57 satelite elaboration-object-attribute  5051
+create-a-node-here really 37.48 58 {\nThat range was quickly narrowed to $145 to $155,}
+create-a-node-here really 37.69 59 { although traders}
+create-a-node-here really 37.94 60 { surrounding the post}
+create-a-node-here really 37.154 61 { were told that $148 to $150 would be the likely target.}
+nextSentence really
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5052
+autolink_nodes 61 5052 multinuclear Same-Unit  5053
+autolink_nodes 58 5053 satelite antithesis  5054
+autolink_nodes 5051 5054 satelite temporal-before  5055
+autolink_nodes 5055 55 multinuclear Sequence  5056
+autolink_nodes 5050 5056 multinuclear Sequence below 5056
+disconnect_node 5054 disconnect
+autolink_nodes 5056 5054 multinuclear Sequence below 5056
+disconnect_node 55 disconnect
+disconnect_node 5056 disconnect
+#autolink_nodes 5050 55 multinuclear Sequence below 5056
+#UNDID
+autolink_nodes 5050 55 multinuclear Sequence below 5056
+autolink_nodes 5050 5056 multinuclear Sequence below 5056
+collapsed_nodes {5007 5025 5018 5038 5048 5033}
+collapsed_nodes {5007 5025 5018 5038 5048 5033 5039}
+collapsed_nodes {5007 5025 5018 5038 5048 5033 5039 5016}
+collapsed_nodes {5007 5025 5018 5038 5048 5033 5039 5016 5041}
+autolink_nodes 5031 5050 satelite elaboration-additional  5057
+create-a-node-here really 39.41 62 { \n\nWhen UAL finally opened a half hour late,}
+create-a-node-here really 39.81 63 { some 400,000 shares traded at $150.}
+#autolink_nodes 62 63 satelite circumstance  5058
+#UNDID
+autolink_nodes 62 63 nucleus circumstance  5058
+create-a-node-here really 40.44 64 {\nThere was "selling pressure from everyone," }
+create-a-node-here really 40.64 65 {said one trader.}
+nextSentence really
+autolink_nodes 64 65 satelite attribution  5059
+autolink_nodes 5058 5059 satelite interpretation-s  5060
+create-a-node-here really 42.43 66 { \n\nThis month's Friday-the-13th market plunge }
+create-a-node-here really 42.67 67 {spurred by UAL news }
+create-a-node-here really 42.136 68 {wasn't as bad for the Jacobson specialists as yesterday's action.}
+nextSentence really
+autolink_nodes 66 67 satelite-embedded elaboration-object-attribute-e  5061
+autolink_nodes 5061 68 multinuclear Same-Unit  5062
+autolink_nodes 5060 5062 satelite evaluation-s  5063
+create-a-node-here really 43.71 69 {\nOn that earlier day, the stock's trading was halted at a critical time }
+create-a-node-here really 43.119 70 {so the specialists could catch their breath.}
+nextSentence really
+autolink_nodes 69 70 satelite purpose  5064
+create-a-node-here really 44.14 71 {\nNot yesterday.}
+nextSentence really
+#autolink_nodes 5064 71 multinuclear Contrast  5065
+#UNDID
+autolink_nodes 5064 71 multinuclear Contrast  5065
+autolink_nodes 5062 5065 satelite explanation-argumentative  5066
+create-a-node-here really 46.13 72 { \n\nMr. Jacobson,}
+create-a-node-here really 46.39 73 { his gray hair flying,}
+create-a-node-here really 46.92 74 { didn't wear out his red-white-and-blue sneakers,}
+create-a-node-here really 46.118 75 { but he sweat so much }
+create-a-node-here really 46.164 76 {he considered sending out for a new shirt.}
+autolink_nodes 72 73 satelite-embedded elaboration-additional-e  5067
+autolink_nodes 74 5067 multinuclear Same-Unit  5068
+#autolink_nodes 76 75 satelite reason  5069
+#UNDID
+autolink_nodes 76 75 satelite reason  5069
+autolink_nodes 5068 5069 nucleus antithesis  5070
+create-a-node-here really 48.60 77 { \n\nMr. Bates usually handles day-to-day UAL trading on his own.}
+nextSentence really
+create-a-node-here really 50.52 78 {\nBut yesterday, the heavy trading action eventually consumed not only Messrs.\nJacobson and Bates but four other Jacobson partners,}
+create-a-node-here really 50.92 79 { all doing their specialist-firm job}
+create-a-node-here really 50.136 80 { of tugging buyers and sellers together }
+create-a-node-here really 50.161 81 {and adjusting prices }
+create-a-node-here really 50.191 82 {to accommodate the market.}
+nextSentence really
+autolink_nodes 81 82 satelite purpose  5071
+autolink_nodes 80 5071 multinuclear List  5072
+autolink_nodes 79 5072 satelite-embedded elaboration-object-attribute-e  5073
+autolink_nodes 78 5073 satelite-embedded elaboration-additional-e  5074
+autolink_nodes 77 5074 nucleus concession  5075
+autolink_nodes 5070 5075 multinuclear List  5076
+autolink_nodes 71 5076 satelite evidence  5077
+create-a-node-here really 51.65 83 {\nAbout 30 floor traders crammed near the UAL post most of the day,}
+create-a-node-here really 51.111 84 { and probably hundreds more came and went }
+create-a-node-here really 51.137 85 {-- a "seething mass," }
+create-a-node-here really 51.168 86 {as one trader described it.}
+nextSentence really
+autolink_nodes 85 86 satelite attribution  5078
+autolink_nodes 83 84 multinuclear List  5079
+autolink_nodes 5079 5078 satelite elaboration-additional  5080
+#autolink_nodes 5076 5080 multinuclear List below 5080
+#UNDID
+autolink_nodes 5076 5080 multinuclear List below 5080
+create-a-node-here really 52.28 87 {\nThe 4.9 million-share volume}
+create-a-node-here really 52.83 88 { flowing through the Jacobson specialist operation }
+create-a-node-here really 52.129 89 {was about five times normal for the stock.}
+autolink_nodes 87 88 satelite-embedded elaboration-object-attribute-e  5081
+autolink_nodes 89 5081 multinuclear Same-Unit  5082
+disconnect_node 5080 disconnect
+autolink_nodes 5080 5082 multinuclear List  5083
+autolink_nodes 5075 5083 satelite explanation-argumentative  5084
+collapsed_nodes {5007 5025 5018 5038 5048 5033 5039 5016 5041 5056}
+autolink_nodes 5050 5063 multinuclear Sequence below 5084
+create-a-node-here really 54.81 90 { \n\nThe heavy buying in the last half hour led the specialists to take special steps.}
+nextSentence really
+create-a-node-here really 56.23 91 { \n\nThe Bear Stearns order }
+create-a-node-here really 56.63 92 {that marked the late-day turnaround }
+create-a-node-here really 56.99 93 {caused a "massive buying effort"}
+create-a-node-here really 56.160 94 { as UAL jumped $20 a share to $170 in the last half hour,}
+create-a-node-here really 56.180 95 { said Mr. Bates.}
+nextSentence really
+autolink_nodes 91 92 satelite-embedded elaboration-object-attribute-e  5085
+autolink_nodes 5085 93 multinuclear Same-Unit  5086
+autolink_nodes 93 94 satelite evidence  5087
+autolink_nodes 5086 95 satelite attribution  5088
+autolink_nodes 90 5088 satelite elaboration-additional  5089
+disconnect_node 94 modify
+autolink_nodes 93 94 satelite consequence-s  5090
+create-a-node-here really 57.33 96 {\nWith 15 seconds of trading to go,}
+create-a-node-here really 57.68 97 { Mr. Jacobson, with what voice }
+create-a-node-here really 57.84 98 {he had left,}
+create-a-node-here really 57.118 99 { announced to the trading mob:}
+create-a-node-here really 57.168 100 { "We're going to trade one price on the bell."}
+nextSentence really
+#autolink_nodes 99 100 nucleus attribution  5091
+#autolink_nodes 97 98 satelite-embedded elaboration-object-attribute-e  5092
+#autolink_nodes 99 5092 multinuclear Same-Unit  5093
+#UNDID
+#autolink_nodes 5092 5091 multinuclear Same-Unit  5093
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 97 98 satelite-embedded elaboration-object-attribute-e  5091
+autolink_nodes 99 5091 multinuclear Same-Unit  5092
+autolink_nodes 5092 100 nucleus attribution  5093
+autolink_nodes 5091 96 satelite circumstance  5094
+create-a-node-here really 57.239 101 { That meant no trading would occur in the final seconds, as a way }
+create-a-node-here really 57.324 102 {of making sure that last-second orders aren't subjected to a sudden price swing }
+create-a-node-here really 57.356 103 {that would upset customers.}
+#autolink_nodes 102 103 satelite-embedded elaboration-object-attribute-e  5095
+#UNDID
+autolink_nodes 102 103 satelite-embedded elaboration-object-attribute-e  5095
+autolink_nodes 101 5095 satelite-embedded elaboration-object-attribute-e  5096
+autolink_nodes 5093 5096 satelite definition  5097
+create-a-node-here really 59.45 104 { \n\nAbout 11,000 shares sold at $170 on the bell,}
+create-a-node-here really 59.94 105 { representing about eight to 10 late orders,}
+create-a-node-here really 59.125 106 { the specialists estimate.}
+nextSentence really
+autolink_nodes 104 105 satelite-embedded elaboration-additional-e  5098
+autolink_nodes 5098 106 satelite attribution  5099
+#autolink_nodes 5097 5099 nucleus result  5100
+#UNDID
+collapsed_nodes {5007 5025 5018 5038 5048 5033 5039 5016 5041 5056 5088}
+autolink_nodes 5089 5097 satelite elaboration-general-specific  5100
+collapsed_nodes {5007 5025 5018 5038 5048 5033 5039 5016 5041 5056 5088 5097}
+autolink_nodes 5100 5099 satelite consequence-s  5101
+create-a-node-here really 61.104 107 { \n\nBig Board traders praised the Jacobson specialists for getting through yesterday without a trading halt.}
+create-a-node-here really 62.124 108 {\nIn Chicago, a UAL spokesman, "by way of policy," declined to comment on the company's stock or the specialists' performance.}
+nextSentence really
+autolink_nodes 107 108 satelite antithesis  5102
+autolink_nodes 5101 5102 satelite consequence-s  5103
+collapsed_nodes {5007 5025 5018 5038 5048 5033 5039 5016 5041 5056 5088 5097 5065}
+collapsed_nodes {5007 5025 5018 5038 5048 5033 5039 5016 5041 5056 5088 5097 5065 5063}
+autolink_nodes 5050 5103 multinuclear Sequence below 5103
+nextSentence really
+nextSentence really
+create-a-node-here really 64.37 109 { \n\nLeaving the exchange at about 5 p.m.,}
+create-a-node-here really 64.87 110 { the Jacobson specialists made no predictions}
+create-a-node-here really 64.126 111 { about how trading might go today.}
+nextSentence really
+autolink_nodes 110 111 satelite-embedded elaboration-object-attribute-e  5104
+autolink_nodes 5104 109 satelite circumstance  5105
+create-a-node-here really 65.35 112 {\nSaid Earl Ellis, a Jacobson partner}
+create-a-node-here really 65.76 113 { who got involved in the UAL action,}
+create-a-node-here really 65.119 114 { "It all starts all over again" today.}
+nextSentence really
+autolink_nodes 112 113 satelite-embedded elaboration-object-attribute-e  5106
+#autolink_nodes 5106 114 nucleus attribution  5107
+#UNDID
+autolink_nodes 114 5106 satelite attribution  5107
+autolink_nodes 5105 5107 satelite elaboration-additional  5108
+collapsed_nodes {5007 5025 5018 5038 5048 5033 5039 5016 5041 5056 5088 5097 5065 5063 5103}
+autolink_nodes 5050 5108 multinuclear Sequence below 5108
+autolink_nodes 5057 5010 nucleus summary-n  5109
+collapsed_nodes {5025 5018 5038 5048 5033 5039 5016 5041 5056 5088 5097 5065 5063 5103}
+collapsed_nodes {5025 5018 5038 5048 5033 5039 5041 5056 5088 5097 5065 5063 5103}
+collapsed_nodes {5025 5038 5048 5033 5039 5041 5056 5088 5097 5065 5063 5103}
+collapsed_nodes {5038 5048 5033 5039 5041 5056 5088 5097 5065 5063 5103}
+collapsed_nodes {5038 5048 5039 5041 5056 5088 5097 5065 5063 5103}
+collapsed_nodes {5048 5041 5056 5088 5097 5065 5063 5103}
+collapsed_nodes {5048 5056 5088 5097 5065 5063 5103}
+collapsed_nodes {5056 5088 5097 5065 5063 5103}
+collapsed_nodes {5088 5097 5065 5063 5103}
+collapsed_nodes {5088 5097 5103}
+collapsed_nodes {}
+collapsed_nodes {5103}
+collapsed_nodes {5103 5063}
+collapsed_nodes {5103 5063 5056}
+collapsed_nodes {5103 5063 5056 5045}
+collapsed_nodes {5103 5063 5056 5045 5041}
+collapsed_nodes {5103 5063 5056 5045 5041 5039}
+collapsed_nodes {5103 5063 5056 5045 5041 5039 5033}
+collapsed_nodes {5103 5063 5056 5045 5041 5039 5033 5108}
+collapsed_nodes {5103 5063 5056 5045 5041 5039 5033 5108 5025}
+collapsed_nodes {5103 5063 5056 5045 5041 5039 5033 5108 5025 5057}
+collapsed_nodes {5103 5063 5056 5045 5041 5039 5033 5108 5025 5057 5007}
+collapsed_nodes {5103 5063 5056 5045 5041 5039 5033 5108 5025 5057}
+collapsed_nodes {}

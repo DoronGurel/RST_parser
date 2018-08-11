@@ -1,0 +1,407 @@
+nextSentence really
+create-a-node-here really 2.78 1 {\nAt age eight, Josephine Baker was sent by her mother to a white woman's house }
+create-a-node-here really 2.137 2 {to do chores in exchange for meals and a place to sleep }
+autolink_nodes 1 2 satelite purpose  5001
+create-a-node-here really 2.181 3 {-- a place in the basement with the coal.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 4.38 4 { \n\nAt age 19, she was a Paris sensation, }
+create-a-node-here really 4.123 5 {transformed from unwanted child to international sex symbol in just over a decade.}
+nextSentence really
+autolink_nodes 4 5 satelite elaboration-additional  5003
+autolink_nodes 5001 5003 multinuclear Sequence  5004
+create-a-node-here really 5.47 6 {\nIt is the stuff of dreams, but also of traumas.}
+nextSentence really
+create-a-node-here really 6.54 7 {\nOnly the bravest spirits survive such roller coasters.}
+nextSentence really
+create-a-node-here really 7.47 8 {\nAnd, for Ms. Baker, the ride was far from over.}
+nextSentence really
+autolink_nodes 6 7 satelite elaboration-additional  5005
+autolink_nodes 7 8 satelite antithesis  5006
+autolink_nodes 5004 5005 satelite comment  5007
+create-a-node-here really 9.123 9 { \n\nHer bare breasts, her dancing, her voice, her beauty and, perhaps most famously, her derriere, were prominent attractions, }
+create-a-node-here really 9.187 10 {but courage of a rare sort made her remarkable life possible.}
+nextSentence really
+create-a-node-here really 10.39 11 {\nBricktop, another American black woman }
+create-a-node-here really 10.80 12 {who found a measure of fame in Paris,}
+create-a-node-here really 10.91 13 { said: }
+create-a-node-here really 10.110 14 {"I don't think }
+create-a-node-here really 10.175 15 {I've ever known anyone with a less complicated view of life, }
+create-a-node-here really 10.232 16 {or whose life was more complicated than Josephine's."}
+nextSentence really
+create-a-node-here really 12.33 17 { \n\nMen were a constant complication.}
+nextSentence really
+create-a-node-here really 13.23 18 {\nBaker had lots of them.}
+nextSentence really
+create-a-node-here really 14.26 19 {\nBut she didn't trust them }
+create-a-node-here really 14.54 20 {and didn't reward trust.}
+nextSentence really
+autolink_nodes 9 10 satelite elaboration-additional  5008
+autolink_nodes 5007 5008 satelite elaboration-additional  5009
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 5010 13 multinuclear Same-Unit  5011
+#autolink_nodes 5011 14 satelite attribution  5012
+#UNDID
+#autolink_nodes 14 15 nucleus attribution  5012
+#UNDID
+autolink_nodes 5011 14 nucleus attribution  5012
+autolink_nodes 14 15 nucleus attribution  5013
+autolink_nodes 15 16 multinuclear Comparison  5014
+autolink_nodes 5014 17 satelite elaboration-additional below 5015
+autolink_nodes 17 18 satelite elaboration-additional  5016
+autolink_nodes 18 19 satelite antithesis  5017
+autolink_nodes 19 20 multinuclear List  5018
+create-a-node-here really 15.32 21 {\nAs she saw one key love affair, }
+create-a-node-here really 15.71 22 {the problem wasn't her infidelity, }
+create-a-node-here really 15.96 23 {it was his jealousy. }
+create-a-node-here really 17.41 24 {\n\nHer appetite for children also was large.}
+nextSentence really
+create-a-node-here really 18.33 25 {\nShe adopted 12 of assorted races,}
+create-a-node-here really 18.69 26 { naming them the Rainbow Tribe, }
+create-a-node-here really 18.136 27 {and driving her husband first to despair and then to Argentina.}
+nextSentence really
+autolink_nodes 21 22 satelite interpretation-s  5019
+autolink_nodes 22 23 multinuclear Contrast  5020
+autolink_nodes 5016 5019 satelite elaboration-additional  5021
+autolink_nodes 24 25 satelite explanation-argumentative  5022
+#autolink_nodes 25 26 satelite elaboration-additional  5023
+#autolink_nodes 5023 27 satelite elaboration-additional  5024
+#UNDID
+#UNDID
+autolink_nodes 25 26 satelite-embedded elaboration-additional-e  5023
+autolink_nodes 5023 27 satelite elaboration-additional  5024
+autolink_nodes 5021 5022 satelite elaboration-additional  5025
+create-a-node-here really 20.16 28 { \n\nShe made money, }
+create-a-node-here really 21.0 29 {but spent more.\n}
+create-a-node-here really 21.23 30 {Friends pitched in.}
+nextSentence really
+create-a-node-here really 22.89 31 {\nFinally, Prince Rainier and Princess Grace saved her with the offer of a house in Monaco.}
+nextSentence really
+create-a-node-here really 24.31 32 { \n\nAnother lifelong complication, }
+create-a-node-here really 24.83 33 {as Phyllis Rose makes clear in "Jazz Cleopatra: }
+create-a-node-here really 24.116 34 {Josephine Baker in Her Time" }
+nextSentence really
+create-a-node-here really 24.152 35 {(Doubleday, 321 pages, $22.50), }
+create-a-node-here really 24.167 36 {was racism.}
+nextSentence really
+autolink_nodes 28 29 multinuclear Contrast  5026
+autolink_nodes 5026 30 satelite elaboration-additional  5027
+autolink_nodes 5027 31 satelite elaboration-additional  5028
+autolink_nodes 32 33 satelite-embedded attribution-e  5029
+autolink_nodes 33 34 satelite-embedded elaboration-additional-e  5030
+autolink_nodes 34 35 satelite-embedded elaboration-additional-e  5031
+autolink_nodes 5029 36 multinuclear Same-Unit  5032
+create-a-node-here really 25.24 37 {\nBaker had the good luck }
+create-a-node-here really 25.52 38 {to arrive in 1925 Paris,}
+create-a-node-here really 25.88 39 { where blacks had become exotic.}
+create-a-node-here really 26.25 40 {\nAfrican art was in vogue }
+create-a-node-here really 26.95 41 {and some intellectuals were writing breathlessly of a dawning age }
+create-a-node-here really 26.124 42 {to be inspired by blacks.}
+nextSentence really
+create-a-node-here really 27.52 43 {\nTo be exotic was to be patronized as well as prized,}
+collapsed_nodes {5004}
+autolink_nodes 5009 5012 satelite elaboration-additional  5033
+collapsed_nodes {5004 5021}
+autolink_nodes 5015 5028 satelite elaboration-additional below 5034
+collapsed_nodes {5004 5021 5028}
+autolink_nodes 5034 5032 satelite elaboration-additional below 5035
+autolink_nodes 37 38 satelite-embedded elaboration-additional-e  5036
+autolink_nodes 38 39 satelite-embedded elaboration-object-attribute-e  5037
+autolink_nodes 5032 5036 satelite elaboration-additional  5038
+autolink_nodes 40 41 multinuclear List  5039
+autolink_nodes 41 42 satelite elaboration-additional  5040
+autolink_nodes 5039 43 satelite explanation-argumentative  5041
+autolink_nodes 5036 5041 satelite elaboration-additional  5042
+create-a-node-here really 27.125 44 { but for the most part Paris was a friendly island in a racist world.}
+nextSentence really
+create-a-node-here really 28.102 45 {\nBaker had bitter experience of bigotry from her St. Louis childhood and her days in New York theater, }
+create-a-node-here really 28.165 46 {where she was judged too dark for an all-black chorus line }
+create-a-node-here really 28.216 47 {(performing of course for all-white audiences).}
+nextSentence really
+create-a-node-here really 30.31 48 { \n\nParis loved her at first sight.}
+nextSentence really
+create-a-node-here really 30.64 49 { "She just wiggled her fanny }
+create-a-node-here really 30.111 50 {and all the French fell in love with her," }
+create-a-node-here really 30.183 51 {sniffed the literary world's Maria Jolas, not entirely inaccurately.}
+nextSentence really
+create-a-node-here really 30.251 52 { "One can hardly overemphasize the importance of her rear end," }
+create-a-node-here really 30.271 53 {Ms. Rose writes.}
+nextSentence really
+autolink_nodes 43 44 satelite elaboration-additional  5043
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5044
+autolink_nodes 46 47 satelite elaboration-additional  5045
+change_rel 47 elaboration-additional
+autolink_nodes 48 49 satelite elaboration-additional  5046
+autolink_nodes 49 50 multinuclear Cause-Result  5047
+autolink_nodes 5046 51 satelite attribution  5048
+autolink_nodes 5044 5048 multinuclear Comparison  5049
+autolink_nodes 52 53 satelite attribution  5050
+autolink_nodes 5048 5050 satelite comment  5051
+create-a-node-here really 31.10 54 {\nMs. Rose, }
+create-a-node-here really 31.61 55 {who teaches literature at Wesleyan University, }
+create-a-node-here really 31.100 56 {quickly proceeds to overemphasize, }
+create-a-node-here really 31.113 57 {claiming }
+create-a-node-here really 31.178 58 {that Baker's dancing "had uncovered a new region for desire" }
+create-a-node-here really 31.244 59 {and thereby ignoring centuries of tributes to the callipygous.}
+nextSentence really
+autolink_nodes 54 55 satelite-embedded elaboration-object-attribute-e  5052
+autolink_nodes 5052 56 multinuclear Same-Unit  5053
+autolink_nodes 5053 57 satelite elaboration-additional  5054
+autolink_nodes 57 58 nucleus attribution  5055
+autolink_nodes 58 59 satelite consequence-s below 5056
+create-a-node-here really 33.61 60 { \n\n"Jazz Cleopatra" contains other, more important, false notes }
+create-a-node-here really 33.171 61 {that undermine what is, for the most part, a lively account of a life already familiar from earlier works.}
+nextSentence really
+create-a-node-here really 34.43 62 {\nIt is easy to see why Baker, a free spirit }
+create-a-node-here really 34.80 63 {who broke many of the restraints }
+create-a-node-here really 34.111 64 {convention places on women,}
+create-a-node-here really 34.207 65 { attracts Ms. Rose, the author of "Parallel Lives," a wonderful study of Victorian marriage.}
+nextSentence really
+create-a-node-here really 36.80 66 { \n\nStill, even the title raises questions about the author's vision of her subject.}
+nextSentence really
+create-a-node-here really 37.60 67 {\nBaker's art was jazz only by the widest stretch of the term.}
+nextSentence really
+create-a-node-here really 38.87 68 {\nTo find parallels, other than sexual appeal, with Cleopatra, requires an equal stretch.}
+nextSentence really
+autolink_nodes 60 61 satelite-embedded elaboration-object-attribute-e  5057
+autolink_nodes 62 63 satelite-embedded elaboration-object-attribute-e  5058
+#autolink_nodes 63 64 satelite elaboration-additional  5059
+#UNDID
+autolink_nodes 63 64 satelite elaboration-additional  5059
+autolink_nodes 5058 65 multinuclear Same-Unit  5060
+collapsed_nodes {5004 5021 5028 5036}
+disconnect_node 5044 disconnect
+autolink_nodes 5042 5044 multinuclear Contrast  5061
+collapsed_nodes {5004 5021 5028}
+disconnect_node 5050 disconnect
+disconnect_node 51 disconnect
+autolink_nodes 5046 51 satelite attribution  5062
+autolink_nodes 5044 5062 multinuclear Contrast  5063
+autolink_nodes 5062 5050 satelite comment  5064
+autolink_nodes 5050 5054 satelite elaboration-additional  5065
+collapsed_nodes {5004 5021 5028 5050}
+autolink_nodes 5065 5057 satelite elaboration-additional  5066
+autolink_nodes 5066 5060 satelite elaboration-additional  5067
+collapsed_nodes {5004 5021 5028 5050 5033}
+autolink_nodes 66 67 satelite explanation-argumentative  5068
+autolink_nodes 5068 68 satelite elaboration-additional  5069
+create-a-node-here really 40.22 69 { \n\nBaker was 68 years old}
+create-a-node-here really 40.107 70 { when she died in Paris, two days after the sold-out opening of her newest show: }
+create-a-node-here really 41.0 71 {a movie-like ending to what was a cinematic life.\n}
+autolink_nodes 69 70 satelite-embedded elaboration-additional-e  5070
+#autolink_nodes 70 71 satelite-embedded elaboration-object-attribute-e  5071
+#UNDID
+autolink_nodes 70 71 satelite elaboration-additional  5071
+create-a-node-here really 41.51 72 {In fact, Ms. Baker played scenes in Casablanca }
+create-a-node-here really 41.97 73 {that could have made it into "Casablanca."}
+nextSentence really
+autolink_nodes 72 73 satelite-embedded elaboration-object-attribute-e  5072
+autolink_nodes 5070 5072 satelite elaboration-additional  5073
+autolink_nodes 5069 5073 satelite elaboration-additional  5074
+create-a-node-here really 43.78 74 { \n\nDuring World War II, her uncomplicated view of life led her to the conclusion }
+create-a-node-here really 43.107 75 {that the Nazis were evil }
+create-a-node-here really 43.132 76 {and must be resisted,}
+create-a-node-here really 43.148 77 { a decision }
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e  5075
+autolink_nodes 75 76 multinuclear List  5076
+autolink_nodes 5075 77 multinuclear Same-Unit  5077
+create-a-node-here really 43.193 78 {made by only about 2% of French citizens.}
+nextSentence really
+autolink_nodes 77 78 satelite-embedded elaboration-object-attribute-e  5078
+create-a-node-here really 44.46 79 {\nShe was devoted to Charles de Gaulle's cause, }
+create-a-node-here really 44.108 80 {accepting great financial sacrifice and considerable risk }
+create-a-node-here really 44.194 81 {to become first a spy and then a one-woman USO tour for the forces of Free France.}
+nextSentence really
+create-a-node-here really 46.98 82 { \n\nIn Humphrey Bogart's nightclub, Victor Laszlo leads Free French sympathizers in "La Marseillaise" }
+create-a-node-here really 46.125 83 {to drown out the Nazis.}
+nextSentence really
+create-a-node-here really 47.10 84 {\nThe night }
+create-a-node-here really 47.50 85 {the Germans occupied all of France, }
+create-a-node-here really 47.84 86 {Baker performed in Casablanca.}
+#nextSentence really
+#collapsed_nodes {}
+#collapsed_nodes {}
+#UNDID
+autolink_nodes 5077 79 satelite elaboration-additional  5079
+autolink_nodes 79 80 satelite-embedded elaboration-additional-e  5080
+#autolink_nodes 80 81 satelite result  5081
+#UNDID
+autolink_nodes 80 81 satelite consequence-s  5081
+autolink_nodes 82 83 satelite purpose  5082
+autolink_nodes 84 85 satelite-embedded elaboration-object-attribute-e  5083
+autolink_nodes 5083 86 multinuclear Same-Unit  5084
+autolink_nodes 5082 5084 multinuclear Comparison  5085
+autolink_nodes 5080 5085 satelite evidence  5086
+create-a-node-here really 48.37 87 {\nThe Free French wore black arm bands,}
+create-a-node-here really 48.46 88 { and }
+create-a-node-here really 48.82 89 {when she sang "J'ai deux amours"}
+create-a-node-here really 48.97 90 { they wept.}
+nextSentence really
+autolink_nodes 87 88 multinuclear List  5087
+autolink_nodes 90 89 satelite temporal-same-time  5088
+autolink_nodes 88 5088 multinuclear Same-Unit  5089
+collapsed_nodes {5004 5021 5028 5050 5033 5085}
+autolink_nodes 5086 5087 satelite evidence  5090
+collapsed_nodes {5085}
+collapsed_nodes {5085 5032}
+autolink_nodes 5073 5079 satelite elaboration-additional  5091
+collapsed_nodes {5085 5032 5074}
+collapsed_nodes {5032}
+collapsed_nodes {}
+collapsed_nodes {5038}
+autolink_nodes 5038 5074 satelite elaboration-additional  5092
+create-a-node-here really 51.0 91 { \n\nMs. Rose is best on the early years and World War II.\n}
+create-a-node-here really 51.41 92 {In her introduction, Ms. Rose writes }
+create-a-node-here really 51.60 93 {that she feels }
+create-a-node-here really 51.98 94 {she has much in common with Baker,}
+create-a-node-here really 51.136 95 { but as "Jazz Cleopatra" goes on, }
+create-a-node-here really 51.162 96 {it seems more rushed, }
+create-a-node-here really 51.216 97 {as though the author were growing less interested.}
+nextSentence really
+collapsed_nodes {5032 5038}
+autolink_nodes 5092 91 satelite comment  5093
+autolink_nodes 92 93 satelite attribution  5094
+autolink_nodes 93 94 nucleus attribution  5095
+autolink_nodes 95 96 multinuclear Temporal-Same-Time  5096
+autolink_nodes 5094 5096 satelite antithesis  5097
+autolink_nodes 96 97 satelite evaluation-s  5098
+create-a-node-here really 52.78 98 {\nIt doesn't help that sometimes Ms. Rose's language fails to deliver the effect}
+create-a-node-here really 52.103 99 { she appears to want.}
+nextSentence really
+autolink_nodes 98 99 satelite-embedded elaboration-object-attribute-e  5099
+autolink_nodes 5097 5099 satelite comment  5100
+create-a-node-here really 53.19 100 {\nOne chapter opens: }
+create-a-node-here really 53.80 101 {"World War II was not one of France's glorious moments."}
+nextSentence really
+#create-a-node-here really 55.25 102 { \n\nElsewhere, in an attempt }
+#UNDID
+autolink_nodes 91 5100 satelite elaboration-additional  5101
+#autolink_nodes 100 101 satelite elaboration-additional  5102
+#UNDID
+autolink_nodes 100 101 satelite elaboration-additional  5102
+autolink_nodes 5099 5102 satelite example  5103
+create-a-node-here really 55.24 102 { \n\nElsewhere, in an attempt}
+create-a-node-here really 55.41 103 { to explain }
+create-a-node-here really 55.73 104 {without stating it plainly }
+create-a-node-here really 55.134 105 {that Baker had a large gay following later in her career}
+create-a-node-here really 55.207 106 { when she was an overdressed singer rather than underdressed dancer,}
+create-a-node-here really 55.229 107 { Ms. Rose writes:}
+#create-a-node-here really 55.269 108 { "She was a female impersonator who}
+#create-a-node-here really 55.299 109 { happened to be a woman."}
+#autolink_nodes 103 104 satelite manner  5104
+#autolink_nodes 5104 105 nucleus attribution  5105
+#autolink_nodes 105 106 multinuclear Temporal-Same-Time  5106
+#disconnect_node 5104 disconnect
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 102 103 satelite-embedded elaboration-object-attribute-e  5104
+#autolink_nodes 103 104 satelite manner  5105
+#autolink_nodes 5105 105 nucleus attribution  5106
+#autolink_nodes 105 106 multinuclear Temporal-Same-Time  5107
+#autolink_nodes 107 108 nucleus attribution  5108
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 55.266 108 { "She was a female impersonator }
+create-a-node-here really 55.300 109 {who happened to be a woman." }
+autolink_nodes 102 103 satelite-embedded elaboration-object-attribute-e  5104
+autolink_nodes 103 104 satelite manner  5105
+autolink_nodes 5105 105 nucleus attribution  5106
+autolink_nodes 105 106 multinuclear Temporal-Same-Time  5107
+#autolink_nodes 5104 107 satelite circumstance  5108
+#autolink_nodes 107 108 nucleus attribution  5109
+#UNDID
+#UNDID
+#autolink_nodes 5104 107 multinuclear Same-Unit  5108
+#UNDID
+autolink_nodes 5104 107 multinuclear Same-Unit  5108
+autolink_nodes 107 108 nucleus attribution  5109
+autolink_nodes 108 109 multinuclear List  5110
+autolink_nodes 5103 5108 satelite example  5111
+create-a-node-here really 57.15 110 {\n\nOne devoted fan}
+create-a-node-here really 57.58 111 { who fell under Baker's spell in 1963 }
+create-a-node-here really 57.102 112 {and began collecting Baker memorabilia }
+create-a-node-here really 57.125 113 {was Bryan Hammond.}
+nextSentence really
+create-a-node-here really 58.21 114 {\nIn "Josephine Baker" }
+create-a-node-here really 58.58 115 {(Jonathan Cape, 304 pages, $35),}
+create-a-node-here really 58.105 116 { which was published in Britain last year }
+create-a-node-here really 58.149 117 {and distributed in the U.S. this month,}
+create-a-node-here really 58.191 118 { Mr. Hammond has used his collection }
+create-a-node-here really 58.256 119 {to produce an album of photographs and drawings of the star.}
+nextSentence really
+collapsed_nodes {}
+autolink_nodes 110 111 satelite-embedded elaboration-object-attribute-e  5112
+autolink_nodes 111 112 multinuclear List  5113
+autolink_nodes 5112 113 multinuclear Same-Unit  5114
+autolink_nodes 114 115 satelite-embedded elaboration-additional-e  5115
+#autolink_nodes 5115 116 multinuclear Same-Unit  5116
+#autolink_nodes 116 117 multinuclear Sequence  5117
+#change_rel 5113 
+#change_rel 112 Sequence
+#disconnect_node 5112 disconnect
+#UNDID
+#change_rel 112 Sequence
+#autolink_nodes 5114 5116 satelite elaboration-additional  5118
+#UNDID
+#autolink_nodes 118 119 satelite purpose  5118
+#create-a-node-here really 59.45 120 {\nThe text by Patrick O'Connor is a tough read,}
+#create-a-node-here really 59.93 121 { but the pictures make her magnetism clear }
+#create-a-node-here really 59.115 122 {and help explain }
+#create-a-node-here really 59.182 123 {why Ernest Hemingway called Baker "The most sensational woman }
+#create-a-node-here really 59.204 124 {anybody ever saw.}
+#create-a-node-here really 60.14 125 {\nOr ever will."}
+#nextSentence really
+#create-a-node-here really 62.45 126 { \n\nMr. Lescaze is foreign editor of the Journal.}
+#nextSentence really
+#autolink_nodes 5116 5118 multinuclear Same-Unit below 5118
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 115 116 satelite-embedded elaboration-object-attribute-e  5116
+autolink_nodes 116 117 multinuclear Sequence  5117
+autolink_nodes 5115 118 multinuclear Same-Unit  5118
+autolink_nodes 118 119 satelite purpose  5119
+autolink_nodes 5114 5118 satelite elaboration-additional  5120
+create-a-node-here really 59.45 120 {\nThe text by Patrick O'Connor is a tough read,}
+create-a-node-here really 59.92 121 { but the pictures make her magnetism clear}
+create-a-node-here really 59.115 122 { and help explain }
+create-a-node-here really 59.181 123 {why Ernest Hemingway called Baker "The most sensational woman}
+create-a-node-here really 59.204 124 { anybody ever saw.}
+create-a-node-here really 60.14 125 {\nOr ever will."}
+nextSentence really
+create-a-node-here really 62.45 126 { \n\nMr. Lescaze is foreign editor of the Journal.}
+nextSentence really
+autolink_nodes 120 121 satelite antithesis  5121
+autolink_nodes 121 122 multinuclear List  5122
+autolink_nodes 122 123 nucleus attribution  5123
+autolink_nodes 123 124 satelite-embedded elaboration-object-attribute-e below 5124
+autolink_nodes 124 125 multinuclear List  5125
+collapsed_nodes {5118}
+autolink_nodes 5120 5121 satelite elaboration-additional  5126
+collapsed_nodes {5118 5092}
+autolink_nodes 5093 5126 satelite elaboration-additional  5127
+collapsed_nodes {5118 5092 5033}
+autolink_nodes 5033 5033 schema Text  5127
+autolink_nodes 126 126 schema Author  5127
+autolink_nodes 5033 126 multinuclear TextualOrganization  5128
+collapsed_nodes {}

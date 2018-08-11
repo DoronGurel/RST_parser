@@ -1,0 +1,23 @@
+nextSentence really
+create-a-node-here really 3.0 1 {\nBUELL INDUSTRIES Inc. halved its quarterly dividend to five cents a share, payable Nov. 17 to stock of record Nov. 3.\n}
+create-a-node-here really 3.83 2 {The company's quarterly dividend had been 10 cents a share since April 30, 1988.}
+nextSentence really
+create-a-node-here really 4.20 3 {\nBuell recently said }
+create-a-node-here really 4.101 4 {it would incur an aftertax charge of about $3.6 million in its fourth quarter }
+create-a-node-here really 4.119 5 {ending Tuesday,}
+create-a-node-here really 4.198 6 { in connection with the sale and discontinuance of several lines at a plant.}
+nextSentence really
+showText really
+create-a-node-here really 5.108 7 {\nThe Waterbury, Conn., maker of industrial fasteners and metal stampings has 2.3 million shares outstanding. }
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5001
+#autolink_nodes 5001 3 satelite attribution  5002
+#UNDID
+#autolink_nodes 5001 6 satelite cause  5002
+#UNDID
+autolink_nodes 6 5001 multinuclear Same-Unit  5002
+autolink_nodes 5002 3 satelite attribution  5003
+autolink_nodes 1 2 satelite comparison  5004
+autolink_nodes 5004 5003 satelite cause  5005
+autolink_nodes 5005 7 satelite elaboration-additional  5006
+disconnect_node 5003 disconnect
+autolink_nodes 5004 5003 satelite result below 5007

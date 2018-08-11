@@ -1,0 +1,39 @@
+nextSentence really
+create-a-node-here really 2.32 1 {\nIdeal Basic Industries Inc. said}
+create-a-node-here really 2.84 2 { its directors reached an agreement in principle }
+create-a-node-here really 2.197 3 {calling for HOFI North America Inc. to combine its North American cement holdings with Ideal in a transaction }
+nextSentence really
+create-a-node-here really 2.281 4 {that will leave Ideal's minority shareholders with 12.8% of the combined company.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 2 5001 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 1 5002 nucleus attribution  5003
+create-a-node-here really 4.233 5 { \n\nHOFI, the North American holding company of Swiss concern Holderbank Financiere Glaris Ltd., previously proposed combining its 100% stake in St. Lawrence Cement Inc. and its 60% stake in Dundee Cement Co. with its 67% stake in Ideal.}
+nextSentence really
+create-a-node-here really 6.101 6 { \n\nBut HOFI's first offer would have given Ideal's other shareholders about 10% of the combined company.}
+nextSentence really
+create-a-node-here really 7.38 7 {\nIdeal's directors rejected that offer,}
+create-a-node-here really 7.61 8 { although they said }
+create-a-node-here really 7.98 9 {they endorsed the merger proposal.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5004
+autolink_nodes 7 5004 satelite antithesis  5005
+autolink_nodes 5005 6 satelite antithesis  5006
+autolink_nodes 5006 5 satelite circumstance  5007
+autolink_nodes 5003 5007 satelite background  5008
+nextSentence really
+create-a-node-here really 9.65 10 { \n\nUnder the agreement, HOFI will own 87.2% of the combined company.}
+nextSentence really
+nextSentence really
+create-a-node-here really 10.78 11 {\nIdeal's current operations will represent about 39.2% of the combined company.}
+nextSentence really
+autolink_nodes 10 11 multinuclear List  5009
+autolink_nodes 5008 5009 satelite elaboration-additional  5010
+create-a-node-here really 12.88 12 { \n\nThe transaction is subject to a definitive agreement and approval by Ideal shareholders.}
+nextSentence really
+create-a-node-here really 13.11 13 {\nIdeal said }
+create-a-node-here really 13.70 14 {it expects to complete the transaction early next year.}
+nextSentence really
+autolink_nodes 13 14 nucleus attribution  5011
+autolink_nodes 12 5011 satelite elaboration-additional  5012
+autolink_nodes 5010 5012 satelite elaboration-additional  5013

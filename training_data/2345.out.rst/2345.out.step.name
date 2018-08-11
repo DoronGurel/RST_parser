@@ -1,0 +1,156 @@
+nextSentence really
+create-a-node-here really 2.142 1 {\nMany of the nation's highest-ranking executives saluted Friday's market plunge as an overdue comeuppance for speculators and takeover players.}
+nextSentence really
+create-a-node-here really 4.67 2 { \n\nAssuming that the market doesn't head into a bottomless free fall, }
+create-a-node-here really 4.92 3 {some executives think }
+create-a-node-here really 4.148 4 {Friday's action could prove a harbinger of good news }
+autolink_nodes 3 4 nucleus attribution  5001
+autolink_nodes 2 5001 nucleus condition  5002
+create-a-node-here really 4.164 5 {-- as a sign }
+create-a-node-here really 4.245 6 {that the leveraged buy-out and takeover frenzy of recent years may be abating.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 4 5003 satelite elaboration-general-specific below 5004
+create-a-node-here really 4.333 7 { "This is a reaction to artificial LBO valuations, rather than to any fundamentals," }
+create-a-node-here really 4.385 8 {said John Young, chairman of Hewlett-Packard Co.,}
+autolink_nodes 7 8 satelite attribution  5005
+nextSentence really
+create-a-node-here really 4.428 9 { whose shares dropped $3.125 to $48.125.}
+nextSentence really
+autolink_nodes 8 9 satelite-embedded elaboration-additional-e  5006
+create-a-node-here really 4.474 10 { "If we get rid of a lot of that nonsense, }
+create-a-node-here really 4.501 11 {it will be a big plus."}
+nextSentence really
+autolink_nodes 10 11 nucleus contingency  5007
+autolink_nodes 5005 5007 satelite elaboration-additional  5008
+autolink_nodes 5002 5008 satelite example  5009
+create-a-node-here really 6.83 12 { \n\nA few of the executives here for the fall meeting of the Business Council, a group }
+create-a-node-here really 6.98 13 {that meets }
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5010
+create-a-node-here really 6.130 14 {to discuss national issues, }
+autolink_nodes 13 14 satelite purpose  5011
+create-a-node-here really 6.185 15 {were only too happy to personalize their criticism.}
+nextSentence really
+autolink_nodes 5010 15 multinuclear Same-Unit  5012
+create-a-node-here really 6.203 16 { "People wish }
+create-a-node-here really 6.267 17 {the government would do something about leveraged buy-outs, }
+create-a-node-here really 6.300 18 {do something about takeovers,}
+create-a-node-here really 6.339 19 { do something about Donald Trump," }
+autolink_nodes 17 18 multinuclear List  5013
+autolink_nodes 5013 19 multinuclear List below 5013
+autolink_nodes 16 5013 nucleus attribution  5014
+create-a-node-here really 6.385 20 {said Rand Araskog, chairman of ITT Corp., }
+autolink_nodes 5014 20 satelite attribution  5015
+nextSentence really
+create-a-node-here really 6.417 21 {whose stock dropped $3.375. }
+autolink_nodes 20 21 satelite-embedded elaboration-additional-e  5016
+autolink_nodes 5012 5015 satelite example  5017
+create-a-node-here really 6.445 22 {"Where's the leadership?}
+nextSentence really
+autolink_nodes 5015 22 satelite rhetorical-question  5018
+create-a-node-here really 7.16 23 {\nWhere's the guy }
+#create-a-node-here really 7.40 24 {who can say: `Enough}
+#autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5019
+#UNDID
+#UNDID
+create-a-node-here really 7.33 24 {who can say: }
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5019
+create-a-node-here really 7.58 25 {`Enough is enough'"? }
+autolink_nodes 5019 25 nucleus attribution  5020
+autolink_nodes 22 5020 multinuclear List  5021
+autolink_nodes 5009 5017 satelite elaboration-additional  5022
+create-a-node-here really 9.57 26 {\n\nThe executives were remarkably unperturbed by the plunge }
+create-a-node-here really 9.136 27 {even though it lopped billions of dollars off the value of their companies }
+create-a-node-here really 9.184 28 {-- and millions off their personal fortunes.}
+nextSentence really
+create-a-node-here really 11.50 29 { \n\n"I'm not going to worry about one day's decline," }
+create-a-node-here really 11.109 30 {said Kenneth Olsen, Digital Equipment Corp. president, }
+autolink_nodes 26 27 satelite concession  5023
+autolink_nodes 27 28 satelite elaboration-additional  5024
+#autolink_nodes 29 30 satelite attribution-n  5025
+#UNDID
+autolink_nodes 29 30 satelite attribution  5025
+create-a-node-here really 11.207 31 {who was leisurely strolling through the bright orange and yellow leaves of the mountains here }
+autolink_nodes 30 31 satelite-embedded elaboration-additional-e  5026
+create-a-node-here really 11.271 32 {after his company's shares plunged $5.75 to close at $86.50.}
+nextSentence really
+autolink_nodes 31 32 satelite temporal-after  5027
+autolink_nodes 5023 5025 satelite example  5028
+create-a-node-here really 11.310 33 { "I didn't bother calling anybody; }
+create-a-node-here really 11.340 34 {I didn't even turn on TV."}
+nextSentence really
+autolink_nodes 33 34 multinuclear List  5029
+autolink_nodes 5025 5029 satelite elaboration-additional  5030
+create-a-node-here really 13.59 35 { \n\n"There hasn't been any fundamental change in the economy," }
+create-a-node-here really 13.81 36 {added John Smale, }
+autolink_nodes 35 36 satelite attribution  5031
+nextSentence really
+create-a-node-here really 13.152 37 {whose Procter & Gamble Co. took an $8.75 slide to close at $120.75.}
+nextSentence really
+autolink_nodes 36 37 satelite-embedded elaboration-additional-e  5032
+#create-a-node-here really 13.171 38 { "The fact that}
+#create-a-node-here really 13.204 39 { this happened two years ago }
+#create-a-node-here really 13.233 40 {and there was a recovery }
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 13.167 38 { "The fact }
+create-a-node-here really 13.204 39 {that this happened two years ago }
+create-a-node-here really 13.233 40 {and there was a recovery }
+autolink_nodes 39 40 multinuclear Sequence  5033
+autolink_nodes 38 5033 satelite-embedded elaboration-object-attribute-e  5034
+create-a-node-here really 13.263 41 {gives people some comfort }
+autolink_nodes 5034 41 multinuclear Same-Unit  5035
+create-a-node-here really 13.298 42 {that this won't be a problem." }
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5036
+autolink_nodes 5031 5035 satelite elaboration-additional  5037
+autolink_nodes 5030 5037 multinuclear List  5038
+autolink_nodes 5017 5028 satelite elaboration-additional  5039
+create-a-node-here really 15.122 43 {\n\nOf course, established corporate managements often tend to applaud the setbacks of stock speculators and takeover artists.}
+nextSentence really
+create-a-node-here really 16.28 44 {\nIndeed, one chief executive }
+create-a-node-here really 16.79 45 {who was downright delighted by Friday's events }
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5040
+create-a-node-here really 16.207 46 {was Robert Crandall, chairman of AMR Corp., the parent of American Airlines and the target of a takeover offer by Mr. Trump.}
+nextSentence really
+autolink_nodes 5040 46 multinuclear Same-Unit  5041
+autolink_nodes 43 5041 satelite elaboration-general-specific  5042
+create-a-node-here really 17.102 47 {\nAsked whether Friday's action could help him avoid being Trumped by the New York real estate magnate, }
+create-a-node-here really 17.134 48 {Mr. Crandall smiled broadly }
+create-a-node-here really 17.148 49 {and said: }
+create-a-node-here really 17.165 50 {"No comment."}
+nextSentence really
+autolink_nodes 49 50 nucleus attribution  5043
+autolink_nodes 48 5043 multinuclear List  5044
+autolink_nodes 47 5044 multinuclear Question-Answer  5045
+autolink_nodes 5041 5045 satelite elaboration-additional  5046
+create-a-node-here really 19.86 51 { \n\nOn Friday morning, before the market's sell-off, the business leaders issued a report }
+create-a-node-here really 19.192 52 {predicting the economy would grow at roughly an inflation-adjusted 2% annual rate, through next year, }
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5047
+create-a-node-here really 19.225 53 {then accelerate anew in 1991.}
+nextSentence really
+autolink_nodes 52 53 multinuclear Sequence  5048
+autolink_nodes 1 5022 satelite summary-n  5049
+autolink_nodes 5049 5042 satelite comment  5050
+create-a-node-here really 20.21 54 {\nOf the 19 economists }
+create-a-node-here really 20.70 55 {who worked on the Business Council forecast, }
+autolink_nodes 54 55 satelite-embedded elaboration-object-attribute-e  5051
+create-a-node-here really 20.160 56 {only two projected periods of decline in the nation's output over the next two years, }
+autolink_nodes 5051 56 multinuclear Same-Unit  5052
+create-a-node-here really 20.215 57 {and in "both instances the declines are too modest }
+create-a-node-here really 20.253 58 {to warrant the phrase recession," }
+autolink_nodes 57 58 satelite consequence-s  5053
+autolink_nodes 5052 5053 satelite elaboration-additional  5054
+autolink_nodes 5047 5054 satelite antithesis  5055
+create-a-node-here really 20.349 59 {said Lewis Preston, chairman of J.P. Morgan & Co. and vice chairman of the Business Council.}
+nextSentence really
+autolink_nodes 5054 59 satelite attribution  5056
+autolink_nodes 5050 5055 satelite elaboration-additional  5057
+disconnect_node 5008 modify
+autolink_nodes 5002 5008 satelite explanation-argumentative below 5058
+disconnect_node 5028 disconnect
+autolink_nodes 5017 5028 multinuclear Contrast  5059
+disconnect_node 5042 disconnect
+autolink_nodes 5059 5042 multinuclear Contrast below 5059
+disconnect_node 5055 modify
+autolink_nodes 5049 5055 satelite interpretation-s  5060

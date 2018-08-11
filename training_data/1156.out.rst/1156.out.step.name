@@ -1,0 +1,210 @@
+nextSentence really
+#create-a-node-here really 2.90 1 {\nJohnson & Johnson reported a 10% rise in third-quarter net income on a 12% sales increase-}
+#create-a-node-here really 2.100 2 {results}
+#create-a-node-here really 2.150 3 { that were driven particularly by new products }
+#create-a-node-here really 2.178 4 {including pharmaceuticals}
+#create-a-node-here really 2.224 5 { and the company's professional operations.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 2.90 1 {\nJohnson & Johnson reported a 10% rise in third-quarter net income on a 12% sales increase-}
+#UNDID
+create-a-node-here really 2.89 1 {\nJohnson & Johnson reported a 10% rise in third-quarter net income on a 12% sales increase}
+create-a-node-here really 2.100 2 {-results}
+create-a-node-here really 2.149 3 { that were driven particularly by new products}
+create-a-node-here really 2.178 4 { including pharmaceuticals}
+create-a-node-here really 2.224 5 { and the company's professional operations.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded example-e  5001
+autolink_nodes 5 5001 multinuclear List  5002
+#autolink_nodes 2 5002 satelite-embedded elaboration-object-attribute-e  5003
+#UNDID
+autolink_nodes 2 5002 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 1 5003 satelite-embedded elaboration-additional-e  5004
+create-a-node-here really 4.176 6 { \n\nNet for the New Brunswick, N.J., maker of health-care products climbed to $265 million, or 80 cents a share, from $240 million, or 71 cents a share, in the year-earlier period.}
+create-a-node-here really 5.46 7 {\nSales rose to $2.45 billion from $2.2 billion.}
+nextSentence really
+create-a-node-here really 6.45 8 {\nThe year-ago per-share earnings are adjusted }
+create-a-node-here really 6.90 9 {to reflect a 2-for-1 stock split last May.}
+nextSentence really
+autolink_nodes 8 9 satelite purpose  5005
+#autolink_nodes 6 7 satelite elaboration-additional  5006
+#UNDID
+autolink_nodes 6 7 satelite elaboration-additional  5006
+autolink_nodes 5006 5005 satelite elaboration-additional  5007
+autolink_nodes 5004 5007 satelite elaboration-additional  5008
+create-a-node-here really 8.75 10 { \n\nIn a statement, Ralph S. Larsen, chairman and chief executive officer, said}
+create-a-node-here really 8.306 11 { the company was pleased with its third-quarter sales performance, "especially in light of the extremely competitive environment in domestic consumer markets and the negative impact of unfavorable exchange rates this quarter." }
+autolink_nodes 10 11 nucleus attribution  5009
+collapsed_nodes {5007}
+autolink_nodes 5008 5009 satelite elaboration-additional  5010
+create-a-node-here really 10.71 12 {\n\nDavid J. Lothson, an industry analyst for PaineWebber Group Inc., said }
+create-a-node-here really 10.160 13 {Johnson & Johnson's results slightly exceeded his expectations for the third quarter.}
+nextSentence really
+autolink_nodes 12 13 nucleus attribution  5011
+collapsed_nodes {5007 5009}
+autolink_nodes 5010 5011 satelite elaboration-additional  5012
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 12.108 14 { \n\nIn New York Stock Exchange composite trading yesterday, Johnson & Johnson shares fell 37.5 cents to $54.625.}
+collapsed_nodes {5007 5009 5011}
+autolink_nodes 5012 14 satelite antithesis  5013
+collapsed_nodes {5007 5009 5011}
+#create-a-node-here really 14.17 15 { \n\nMr. Larsen noted }
+#create-a-node-here really 14.148 16 {"substantial sales growth" for the recently introduced Acuvue disposable contact lens and Hismanal, a once-a-day antihistamine.}
+#nextSentence really
+#autolink_nodes 15 16 nucleus attribution  5014
+#create-a-node-here really 15.6 17 {\nEprex,}
+#create-a-node-here really 15.37 18 { used by dialysis patients }
+#create-a-node-here really 15.56 19 {who are anemic,}
+#create-a-node-here really 15.120 20 { and Prepulsid, a gastro-intestinal drug, did well overseas,}
+#create-a-node-here really 15.133 21 { he said.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 14.144 15 { \n\nMr. Larsen noted "substantial sales growth" for the recently introduced Acuvue disposable contact lens and Hismanal, a once-a-day antihistamine.}
+create-a-node-here really 15.6 16 {\nEprex,}
+create-a-node-here really 15.37 17 { used by dialysis patients }
+create-a-node-here really 15.56 18 {who are anemic,}
+create-a-node-here really 15.120 19 { and Prepulsid, a gastro-intestinal drug, did well overseas,}
+create-a-node-here really 15.133 20 { he said.}
+nextSentence really
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5014
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 19 5014 multinuclear Same-Unit  5016
+autolink_nodes 5016 20 satelite attribution  5017
+autolink_nodes 5017 15 multinuclear List  5018
+autolink_nodes 5013 5018 satelite elaboration-additional  5019
+create-a-node-here really 17.46 21 { \n\nDespite health-care cost controls and programs}
+create-a-node-here really 17.74 22 { to hold down inventory,}
+create-a-node-here really 17.105 23 { the professional division,}
+create-a-node-here really 17.131 24 { which makes products }
+create-a-node-here really 17.185 25 {including sutures and surgical stapling equipment,}
+create-a-node-here really 17.215 26 { "achieved solid growth," }
+create-a-node-here really 17.242 27 {Johnson & Johnson said.}
+nextSentence really
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 24 25 satelite-embedded example-e  5021
+autolink_nodes 23 5021 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 26 5022 multinuclear Same-Unit  5023
+autolink_nodes 5020 5023 nucleus antithesis  5024
+autolink_nodes 5024 27 satelite attribution  5025
+create-a-node-here really 19.92 28 { \n\nBut domestic consumer sales slipped 1.2% for the quarter, to $490 million from $496 million.}
+nextSentence really
+collapsed_nodes {5007 5009 5011 5017}
+collapsed_nodes {5007 5009 5011 5017 5020}
+autolink_nodes 5018 5025 satelite elaboration-additional  5026
+collapsed_nodes {5007 5009 5011 5020}
+create-a-node-here really 20.161 29 {\nThe company cited softness in the retail health and beauty aids category, "as well as the intense competition in the company's sanitary protection product line."}
+nextSentence really
+autolink_nodes 28 29 satelite explanation-argumentative  5027
+disconnect_node 5025 disconnect
+collapsed_nodes {5007 5009 5011 5020 5018}
+autolink_nodes 5019 5025 satelite elaboration-additional  5028
+create-a-node-here really 20.195 30 { Overseas sales were stronger,}
+create-a-node-here really 20.243 31 { principally because of a rebound in Brazil,}
+create-a-node-here really 20.301 32 { where economic turmoil had hurt year-earlier results,}
+create-a-node-here really 20.329 33 { Johnson & Johnson said.}
+nextSentence really
+autolink_nodes 31 32 satelite-embedded elaboration-additional-e  5029
+autolink_nodes 30 5029 satelite explanation-argumentative  5030
+autolink_nodes 5030 33 satelite attribution  5031
+autolink_nodes 5031 5027 multinuclear Contrast  5032
+collapsed_nodes {5007 5009 5011 5020 5018 5025}
+autolink_nodes 5028 5032 satelite elaboration-additional  5033
+create-a-node-here really 22.31 34 { \n\nMr. Lothson of PaineWebber said}
+create-a-node-here really 22.81 35 { the company's sales pace has been picking up }
+create-a-node-here really 22.158 36 {largely because the effect of unfavorable exchange rates has been easing }
+create-a-node-here really 22.175 37 {-- a pattern }
+create-a-node-here really 22.203 38 {continuing this quarter.}
+nextSentence really
+#autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5034
+#UNDID
+autolink_nodes 37 38 satelite elaboration-object-attribute  5034
+#autolink_nodes 35 36 satelite explanation-argumentative  5035
+#UNDID
+autolink_nodes 35 36 satelite explanation-argumentative  5035
+autolink_nodes 5035 5034 satelite-embedded elaboration-object-attribute-e  5036
+autolink_nodes 34 5036 nucleus attribution  5037
+create-a-node-here really 23.22 39 {\nHe cautioned, however,}
+create-a-node-here really 23.125 40 { that a "tough tax-rate comparison" may slow the company's earnings growth for the current quarter.}
+autolink_nodes 39 40 nucleus attribution  5038
+autolink_nodes 5037 5038 satelite hypothetical  5039
+create-a-node-here really 24.73 41 {\nFor last year's fourth quarter, the company's tax rate was less than 20%,}
+create-a-node-here really 24.86 42 { he said.}
+nextSentence really
+autolink_nodes 41 42 satelite attribution  5040
+autolink_nodes 5038 5040 satelite elaboration-additional  5041
+create-a-node-here really 26.52 43 { \n\nWhile the third period contained no major surprises,}
+create-a-node-here really 26.74 44 { Mr. Lothson said,}
+create-a-node-here really 26.96 45 { the results show }
+create-a-node-here really 26.191 46 {how sensitive the multinationals can be to developments in a single country such as Brazil.}
+nextSentence really
+autolink_nodes 45 46 nucleus attribution  5042
+autolink_nodes 43 44 satelite-embedded attribution-e  5043
+autolink_nodes 5043 5042 nucleus antithesis  5044
+collapsed_nodes {5007 5009 5011 5020 5018 5025 5041}
+autolink_nodes 5039 5044 satelite elaboration-additional  5045
+create-a-node-here really 27.18 47 {\nHe also questioned}
+create-a-node-here really 27.77 48 { whether recent gains in that country can be sustained.}
+nextSentence really
+autolink_nodes 47 48 nucleus attribution  5046
+autolink_nodes 5044 5046 satelite elaboration-additional  5047
+autolink_nodes 5031 5045 satelite elaboration-additional  5048
+collapsed_nodes {5007 5009 5011 5020 5018 5025 5041 5048}
+create-a-node-here really 29.86 49 { \n\nThe following issues were recently filed with the Securities and Exchange Commission: }
+create-a-node-here really 31.105 50 {\n\nBergen Brunswig Corp., proposed offering of liquid yield option notes, via Merrill Lynch Capital Markets.}
+nextSentence really
+create-a-node-here really 33.77 51 { \n\nColumbia Gas System Inc., shelf offering of up to $200 million of debentures.}
+nextSentence really
+create-a-node-here really 35.56 52 { \n\nLaserscope, initial offering of 1,656,870 common shares,}
+#create-a-node-here really 35.150 53 { of which 1,455,000 shares are to be sold by the company and 201,870 by holders, via Alex.}
+#nextSentence really
+#autolink_nodes 52 53 satelite-embedded elaboration-additional-e  5049
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 36.47 53 { of which 1,455,000 shares are to be sold by the company and 201,870 by holders, via Alex.\nBrown & Sons Inc. and Volpe, Covington & Welty.}
+nextSentence really
+autolink_nodes 52 53 satelite-embedded elaboration-additional-e  5049
+create-a-node-here really 38.69 54 { \n\nTeleVideo Systems Inc., proposed offering of 1,853,735 common shares,}
+create-a-node-here really 38.96 55 { to be sold by holders.}
+nextSentence really
+autolink_nodes 54 55 satelite-embedded elaboration-object-attribute-e  5050
+create-a-node-here really 40.69 56 { \n\nWestern Gas System Inc., initial offering of 3,250,000 common shares,}
+create-a-node-here really 40.248 57 { of which 3,040,000 shares will be sold by the company and 210,000 by a holder, via Prudential-Bache Capital Funding, Smith Barney, Harris Upham & Co. and Hanifen, Imhoff Inc.}
+autolink_nodes 56 57 satelite-embedded elaboration-additional-e  5051
+autolink_nodes 5050 5051 multinuclear List  5052
+autolink_nodes 5052 5049 multinuclear List below 5052
+autolink_nodes 5052 51 multinuclear List below 5052
+autolink_nodes 5052 50 multinuclear List below 5052
+autolink_nodes 49 5052 satelite elaboration-set-member  5053
+autolink_nodes 5053 5033 multinuclear Topic-Shift  5054
+collapsed_nodes {5009 5011 5020 5018 5025 5041 5048}
+collapsed_nodes {5011 5020 5018 5025 5041 5048}
+collapsed_nodes {5020 5018 5025 5041 5048}
+collapsed_nodes {5020 5025 5041 5048}
+collapsed_nodes {5041 5048}
+collapsed_nodes {}
+disconnect_node 44 modify
+autolink_nodes 43 44 satelite attribution  5055
+disconnect_node 5001 modify
+autolink_nodes 5 5001 multinuclear Same-Unit  5056
+change_rel 14 concession
+disconnect_node 9 modify
+autolink_nodes 8 9 satelite purpose  5057
+disconnect_node 38 modify
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5058

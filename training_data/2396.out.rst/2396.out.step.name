@@ -1,0 +1,175 @@
+nextSentence really
+create-a-node-here really 2.22 1 {\nTandem Computers Inc.,}
+create-a-node-here really 2.127 2 { preparing to fight with International Business Machines Corp. for a piece of the mainframe business, }
+autolink_nodes 1 2 satelite-embedded circumstance-e  5001
+create-a-node-here really 2.135 3 {said }
+disconnect_node 2 disconnect
+autolink_nodes 2 3 nucleus circumstance  5002
+autolink_nodes 1 5002 multinuclear Same-Unit  5003
+create-a-node-here really 2.215 4 {it expects to post higher revenue and earnings for its fiscal fourth quarter }
+autolink_nodes 5001 4 nucleus attribution  5004
+create-a-node-here really 2.233 5 {ended Sept. 30.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e below 5005
+create-a-node-here really 4.12 6 { \n\nTandem said }
+autolink_nodes 5004 6 satelite elaboration-additional  5006
+create-a-node-here really 4.111 7 {it expects to report revenue of about $450 million and earnings of 35 cents to 40 cents a share.}
+nextSentence really
+autolink_nodes 6 7 nucleus attribution  5007
+create-a-node-here really 5.13 8 {\nThe results, }
+autolink_nodes 5007 8 satelite elaboration-additional  5008
+create-a-node-here really 5.60 9 {which are in line with analysts' estimates, }
+autolink_nodes 8 9 satelite-embedded elaboration-additional-e  5009
+create-a-node-here really 5.119 10 {reflect "a continued improvement in our U.S. business," }
+autolink_nodes 5009 10 multinuclear Same-Unit  5010
+create-a-node-here really 5.176 11 {said James Treybig, Tandem's chief executive officer.}
+nextSentence really
+autolink_nodes 5010 11 satelite attribution  5011
+nextSentence really
+nextSentence really
+create-a-node-here really 7.123 12 { \n\nIn the year-earlier period, Tandem reported net income of $30.1 million, or 31 cents a share, on revenue of $383.9 million.}
+nextSentence really
+#autolink_nodes 5008 12 satelite circumstance  5012
+#UNDID
+collapsed_nodes {5007}
+autolink_nodes 5006 12 satelite circumstance  5012
+create-a-node-here really 10.0 13 { \n\nTandem expects to report the full results for the quarter next week.\n}
+autolink_nodes 5012 13 satelite elaboration-additional  5013
+create-a-node-here really 10.28 14 {Analysts have predicted }
+autolink_nodes 13 14 satelite elaboration-additional  5014
+nextSentence really
+create-a-node-here really 10.165 15 {that the Cupertino, Calif., company will report revenue of $430 million to $460 million and earnings of 35 cents to 40 cents a share.}
+nextSentence really
+autolink_nodes 14 15 nucleus attribution  5015
+create-a-node-here really 12.43 16 { \n\nCommenting on the results for the quarter, }
+autolink_nodes 5014 16 satelite comment  5016
+create-a-node-here really 12.64 17 {Mr. Treybig said }
+autolink_nodes 16 17 nucleus circumstance  5017
+create-a-node-here really 12.145 18 {the strength of the company's domestic business came as "a surprise" to him, }
+autolink_nodes 17 18 nucleus attribution  5018
+create-a-node-here really 12.156 19 {noting }
+autolink_nodes 5017 19 satelite elaboration-additional  5019
+create-a-node-here really 12.219 20 {that sales "in every region of the U.S. exceeded our plan."}
+nextSentence really
+autolink_nodes 19 20 nucleus attribution  5020
+create-a-node-here really 14.82 21 { \n\nThe company's U.S. performance was helped by "a record quarter for new customers,"}
+autolink_nodes 5019 21 satelite explanation-argumentative  5021
+create-a-node-here really 14.95 22 { he said.}
+nextSentence really
+autolink_nodes 21 22 satelite attribution  5022
+collapsed_nodes {5007 5021}
+collapsed_nodes {5007 5021 5006}
+collapsed_nodes {5007 5021 5006 5012}
+create-a-node-here really 16.39 23 { \n\nTandem makes "fault-tolerant" computers}
+autolink_nodes 5013 23 multinuclear Topic-Drift  5023
+create-a-node-here really 16.88 24 { -- machines with built-in backup systems -- }
+autolink_nodes 23 24 satelite-embedded elaboration-general-specific-e  5024
+create-a-node-here really 16.183 25 {that run stock exchanges, networks of automatic tellers and other complex computer systems.}
+nextSentence really
+autolink_nodes 5024 25 satelite-embedded elaboration-object-attribute-e  5025
+create-a-node-here really 17.79 26 {\nTomorrow the company is scheduled to announce its most powerful computer ever, }
+autolink_nodes 5025 26 satelite elaboration-additional  5026
+create-a-node-here really 17.181 27 {which for the first time will bring it into direct competition with makers of mainframe computers.}
+nextSentence really
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5027
+create-a-node-here really 19.49 28 { \n\nTandem's new high-end computer is called Cyclone.}
+nextSentence really
+autolink_nodes 5026 28 satelite elaboration-additional  5028
+create-a-node-here really 20.24 29 {\nPrices for the machine, }
+autolink_nodes 28 29 satelite elaboration-additional  5029
+create-a-node-here really 20.69 30 {which can come in various configurations,}
+autolink_nodes 29 30 satelite-embedded elaboration-additional-e  5030
+create-a-node-here really 20.104 31 { are $2 million to $10 million.}
+nextSentence really
+autolink_nodes 5030 31 multinuclear Same-Unit  5031
+create-a-node-here really 22.117 32 { \n\nAnalysts expect the new computer to wrest a hefty slice of business away from IBM, the longtime leader in mainframes.}
+nextSentence really
+disconnect_node 5029 disconnect
+autolink_nodes 5027 5029 satelite elaboration-additional  5032
+autolink_nodes 5032 32 satelite interpretation-s  5033
+create-a-node-here really 24.11 33 { \n\n"We believe}
+autolink_nodes 32 33 satelite explanation-argumentative  5034
+create-a-node-here really 24.106 34 { they could siphon perhaps two to three billion dollars from IBM" over the next few years, }
+autolink_nodes 33 34 nucleus attribution  5035
+create-a-node-here really 24.161 35 {said George Weiss, an analyst at the Gartner group.}
+nextSentence really
+autolink_nodes 5035 35 satelite attribution  5036
+create-a-node-here really 25.31 36 {\nThat will spur Tandem's growth.}
+nextSentence really
+autolink_nodes 5036 36 satelite elaboration-additional  5037
+create-a-node-here really 25.57 37 { "I'd be disappointed }
+autolink_nodes 5037 37 satelite elaboration-additional  5038
+create-a-node-here really 25.110 38 {if the company grew by less than 20% next year," }
+autolink_nodes 37 38 satelite condition  5039
+create-a-node-here really 25.168 39 {said John Levinson, an analyst at Goldman, Sachs & Co.}
+autolink_nodes 5039 39 satelite attribution  5040
+collapsed_nodes {5007 5021 5006 5012 5034}
+collapsed_nodes {5007 5021 5006 5012 5034 5029}
+create-a-node-here really 27.47 40 { \n\nIBM is expected to respond to Tandem's Cyclone }
+autolink_nodes 5033 40 multinuclear Statement-Response  5041
+create-a-node-here really 27.86 41 {by discounting its own mainframes, }
+autolink_nodes 40 41 satelite means  5042
+create-a-node-here really 27.96 42 {which }
+#autolink_nodes 41 42 satelite-embedded elaboration-additional-e  5043
+#UNDID
+#create-a-node-here really 27.207 43 {analysts say are roughly three times the price of a comparable system from Tandem. "Obviously IBM can give }
+#autolink_nodes 41 42 satelite-embedded elaboration-additional-e  5043
+#UNDID
+#UNDID
+autolink_nodes 41 42 satelite-embedded elaboration-additional-e  5043
+create-a-node-here really 27.113 43 {analysts say }
+autolink_nodes 42 43 satelite attribution  5044
+create-a-node-here really 27.186 44 {are roughly three times the price of a comparable system from Tandem.}
+autolink_nodes 5044 44 multinuclear Same-Unit  5045
+create-a-node-here really 27.255 45 { "Obviously IBM can give bigger discounts to users immediately," }
+autolink_nodes 5042 45 satelite elaboration-additional  5046
+create-a-node-here really 27.274 46 {said Mr. Weiss.}
+nextSentence really
+autolink_nodes 45 46 satelite attribution  5047
+create-a-node-here really 29.26 47 { \n\nBut Mr. Treybig questions }
+autolink_nodes 5047 47 nucleus antithesis  5048
+create-a-node-here really 29.58 48 {whether that will be enough }
+autolink_nodes 47 48 nucleus attribution  5049
+create-a-node-here really 29.132 49 {to stop Tandem's first mainframe from taking on some of the functions }
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e below 5050
+create-a-node-here really 29.204 50 {that large organizations previously sought from Big Blue's machines.}
+nextSentence really
+autolink_nodes 49 50 satelite-embedded elaboration-object-attribute-e  5051
+create-a-node-here really 29.263 51 { "The answer isn't price reductions, but new systems," }
+autolink_nodes 5049 51 satelite explanation-argumentative below 5052
+create-a-node-here really 29.275 52 {he said.}
+nextSentence really
+autolink_nodes 51 52 satelite attribution  5053
+#create-a-node-here really 31.52 53 { \n\nNevertheless, Tandem faces a variety of challenges, }
+#autolink_nodes 5053 53 nucleus concession  5054
+#UNDID
+#UNDID
+create-a-node-here really 31.63 53 { \n\nNevertheless, Tandem faces a variety of challenges, the biggest}
+autolink_nodes 5053 53 nucleus concession  5054
+create-a-node-here really 32.0 54 { being that customers generally view the company's computers as complementary to IBM's mainframes.\n}
+autolink_nodes 53 54 satelite-embedded elaboration-object-attribute-e below 5055
+create-a-node-here really 32.57 55 {Even Mr. Treybig is reluctant to abandon this notion,}
+autolink_nodes 5054 55 satelite elaboration-additional  5056
+create-a-node-here really 32.72 56 { insisting }
+autolink_nodes 55 56 satelite elaboration-additional  5057
+create-a-node-here really 32.144 57 {that Tandem's new machines aren't replacements for IBM's mainframes.}
+nextSentence really
+autolink_nodes 56 57 nucleus elaboration-additional  5058
+create-a-node-here really 34.37 58 { \n\n"We're after a little bigger niche," }
+autolink_nodes 5057 58 satelite explanation-argumentative  5059
+create-a-node-here really 34.49 59 {he said.}
+nextSentence really
+autolink_nodes 58 59 satelite attribution  5060
+collapsed_nodes {5007 5021 5006 5012 5034 5029 5023}
+collapsed_nodes {}
+disconnect_node 2 disconnect
+autolink_nodes 3 2 satelite-embedded circumstance-e  5061
+disconnect_node 43 disconnect
+autolink_nodes 42 43 satelite-embedded attribution-e  5062
+collapsed_nodes {5013}
+collapsed_nodes {5013 5023}
+collapsed_nodes {}
+disconnect_node 56 disconnect
+autolink_nodes 57 56 satelite attribution  5063
+collapsed_nodes {5013}
+collapsed_nodes {}

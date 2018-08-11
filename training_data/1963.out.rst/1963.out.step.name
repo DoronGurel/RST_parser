@@ -1,0 +1,133 @@
+nextSentence really
+create-a-node-here really 2.73 1 {\nHopes for quick enactment of pending deficit-reduction legislation faded }
+create-a-node-here really 2.87 2 {as efforts }
+create-a-node-here really 2.162 3 {to streamline the House version in advance of a House-Senate conference }
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.176 4 {broke down.}
+nextSentence really
+autolink_nodes 5001 4 multinuclear Same-Unit  5002
+autolink_nodes 1 5002 satelite circumstance  5003
+create-a-node-here really 4.52 5 { \n\nHouse leaders had hoped to follow the Senate's lead }
+create-a-node-here really 4.109 6 {by getting an agreement from House committee chairmen }
+autolink_nodes 5 6 satelite means  5004
+create-a-node-here really 4.146 7 {under which they would drop items }
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 4.227 8 {that wouldn't reduce the fiscal 1990 budget deficit from the House-passed bill}
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 4.277 9 { before the negotiations with the Senate began.}
+nextSentence really
+autolink_nodes 5006 9 satelite temporal-before  5007
+create-a-node-here really 6.46 10 { \n\nBut the effort became snagged on the question }
+create-a-node-here really 6.87 11 {of what would become of other issues,}
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5008
+create-a-node-here really 6.193 12 { ranging from cutting the capital-gains tax to child care to repeal of catastrophic-illness insurance.}
+nextSentence really
+autolink_nodes 11 12 satelite-embedded elaboration-additional-e  5009
+autolink_nodes 5004 5008 multinuclear Contrast  5010
+create-a-node-here really 6.217 13 { "Many members feel }
+create-a-node-here really 6.268 14 {there are important features of the House bill }
+autolink_nodes 13 14 nucleus attribution  5011
+create-a-node-here really 6.297 15 {that should be enacted," }
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e below 5012
+create-a-node-here really 6.322 16 {Speaker Thomas Foley }
+nextSentence really
+nextSentence really
+create-a-node-here really 6.338 17 {(D., Wash.) }
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5013
+create-a-node-here really 6.347 18 {said.}
+nextSentence really
+autolink_nodes 5013 18 multinuclear Same-Unit  5014
+autolink_nodes 5011 5014 satelite attribution  5015
+autolink_nodes 5003 5010 satelite background  5016
+#autolink_nodes 5016 5015 satelite elaboration-additional  5017
+#UNDID
+autolink_nodes 5016 5015 satelite elaboration-additional  5017
+create-a-node-here really 6.377 19 { "If there is any support }
+create-a-node-here really 6.404 20 {for reducing the bill, }
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5018
+create-a-node-here really 6.442 21 {it is conditioned on their desire }
+autolink_nodes 5018 21 nucleus contingency  5019
+create-a-node-here really 6.483 22 {to see them passed in another form." }
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e below 5020
+autolink_nodes 5015 5019 satelite elaboration-additional  5021
+create-a-node-here really 8.64 23 {\n\nNow those items will be discussed in a House-Senate conference, }
+create-a-node-here really 8.104 24 {which could begin as soon as today, }
+autolink_nodes 23 24 satelite-embedded elaboration-additional-e  5022
+create-a-node-here really 8.129 25 {with the expectation }
+autolink_nodes 5022 25 multinuclear Same-Unit  5023
+create-a-node-here really 8.174 26 {that they could either be resolved there }
+create-a-node-here really 8.211 27 {or placed into other legislation.}
+nextSentence really
+autolink_nodes 26 27 multinuclear Disjunction  5024
+autolink_nodes 25 5024 satelite-embedded elaboration-object-attribute-e  5025
+create-a-node-here really 8.267 28 { "You've got to give these chairmen the opportunity }
+create-a-node-here really 8.278 29 {to see }
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5026
+#create-a-node-here really 8.316 30 {if they can work things out," said}
+#autolink_nodes 29 30 nucleus attribution  5027
+#disconnect_node 5021 modify
+#autolink_nodes 5016 5021 satelite interpretation-s  5028
+#disconnect_node 5021 disconnect
+#disconnect_node 12 modify
+#autolink_nodes 11 12 satelite-embedded elaboration-general-specific-e  5029
+#autolink_nodes 5008 5021 satelite elaboration-additional  5030
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 5021 disconnect
+autolink_nodes 5008 5021 satelite elaboration-additional  5027
+create-a-node-here really 8.312 30 {if they can work things out," }
+autolink_nodes 29 30 nucleus attribution  5028
+create-a-node-here really 8.366 31 {said House Budget Committee Chairman Leon Panetta }
+nextSentence really
+autolink_nodes 5026 31 satelite attribution  5029
+create-a-node-here really 8.383 32 {(D., Calif.).}
+nextSentence really
+autolink_nodes 31 32 satelite-embedded elaboration-additional-e  5030
+autolink_nodes 5027 5023 satelite enablement  5031
+disconnect_node 5023 modify
+autolink_nodes 5027 5023 satelite consequence-s  5032
+autolink_nodes 5032 5029 satelite interpretation-s  5033
+create-a-node-here really 8.418 33 { "This is a democratic process }
+create-a-node-here really 8.467 34 {-- you can't slam-dunk anything around here."}
+nextSentence really
+autolink_nodes 33 34 multinuclear Consequence  5034
+autolink_nodes 5029 5034 satelite explanation-argumentative  5035
+create-a-node-here really 10.52 35 { \n\nWhite House Budget Director Richard Darman has said }
+create-a-node-here really 10.83 36 {he would continue to press }
+autolink_nodes 35 36 nucleus attribution  5036
+create-a-node-here really 10.156 37 {to keep the capital-gains provision in the final version of the bill }
+autolink_nodes 36 37 satelite purpose below 5037
+create-a-node-here really 10.213 38 {unless the House drops many of its costly provisions.}
+nextSentence really
+autolink_nodes 5037 38 satelite condition below 5038
+autolink_nodes 5016 5036 satelite elaboration-additional  5039
+create-a-node-here really 12.122 39 { \n\nSenate leaders had hoped to be able to send a compromise version of the measure to President Bush by the end of the week, }
+create-a-node-here really 12.149 40 {but Speaker Foley said }
+create-a-node-here really 12.172 41 {that wasn't likely.}
+nextSentence really
+autolink_nodes 40 41 nucleus attribution  5040
+autolink_nodes 39 5040 multinuclear Contrast  5041
+autolink_nodes 5039 5041 satelite elaboration-additional  5042
+nextSentence really
+create-a-node-here really 14.8 42 { \n\nFailure }
+create-a-node-here really 14.29 43 {to pass the bill }
+autolink_nodes 42 43 satelite-embedded elaboration-object-attribute-e  5043
+create-a-node-here really 14.145 44 {meant that $16.1 billion in across-the-board spending cuts took effect Monday under the Gramm-Rudman budget law.}
+nextSentence really
+autolink_nodes 5043 44 multinuclear Same-Unit  5044
+autolink_nodes 5042 5044 satelite interpretation-s  5045
+create-a-node-here really 15.25 45 {\nThe bill must be enacted }
+create-a-node-here really 15.61 46 {before the cuts can be restored.}
+nextSentence really
+autolink_nodes 45 46 nucleus contingency  5046
+autolink_nodes 5044 5046 satelite explanation-argumentative  5047
+disconnect_node 5010 modify
+autolink_nodes 5003 5010 satelite summary-n below 5048
+disconnect_node 5018 modify
+autolink_nodes 5020 5018 satelite condition  5049

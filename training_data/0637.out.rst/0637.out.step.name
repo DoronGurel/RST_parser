@@ -1,0 +1,55 @@
+nextSentence really
+create-a-node-here really 2.21 1 {\nJohn Labatt Ltd. said}
+create-a-node-here really 2.86 2 { it plans a private placement of 150 million Canadian dollars }
+autolink_nodes 1 2 nucleus attribution  5001
+nextSentence really
+create-a-node-here really 2.107 3 {(US$127.5 million)}
+autolink_nodes 2 3 satelite-embedded restatement-e below 5002
+create-a-node-here really 2.132 4 { in preferred shares, }
+autolink_nodes 5002 4 multinuclear Same-Unit  5003
+create-a-node-here really 2.166 5 {to be completed around Nov. 1. }
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5004
+create-a-node-here really 4.22 6 {\n\nProceeds will be used }
+autolink_nodes 5001 6 satelite elaboration-additional  5005
+create-a-node-here really 4.80 7 {to reduce short-term debt at the beer and food concern,}
+autolink_nodes 6 7 satelite purpose  5006
+create-a-node-here really 4.126 8 { said Robert Vaux, vice president, finance.}
+nextSentence really
+autolink_nodes 5006 8 satelite attribution  5007
+create-a-node-here really 6.131 9 { \n\nThe preferred shares will carry a floating annual dividend equal to 72% of the 30-day bankers' acceptance rate until Dec. 31, 1994.}
+nextSentence really
+autolink_nodes 5005 9 satelite elaboration-additional  5008
+create-a-node-here really 7.42 10 {\nThereafter, the rate will be renegotiated.}
+nextSentence really
+autolink_nodes 9 10 multinuclear Sequence  5009
+create-a-node-here really 8.13 11 {\nMr. Vaux said}
+autolink_nodes 10 11 satelite elaboration-additional  5010
+create-a-node-here really 8.23 12 { that }
+autolink_nodes 11 12 nucleus attribution  5011
+create-a-node-here really 8.55 13 {if no agreement is reached, }
+create-a-node-here really 8.105 14 {other buyers will be sought by bid or auction.}
+nextSentence really
+autolink_nodes 13 14 nucleus condition  5012
+autolink_nodes 12 5012 multinuclear Same-Unit  5013
+create-a-node-here really 9.48 15 {\nThe shares are redeemable after the end of 1994.}
+nextSentence really
+autolink_nodes 5009 15 satelite elaboration-additional  5014
+create-a-node-here really 11.14 16 { \n\nMr. Vaux said }
+autolink_nodes 5014 16 satelite elaboration-additional  5015
+create-a-node-here really 11.56 17 {the share issue is part of a strategy }
+autolink_nodes 16 17 nucleus attribution  5016
+create-a-node-here really 11.129 18 {to strengthen Labatt's balance sheet in anticipation of acquisitions }
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e below 5017
+create-a-node-here really 11.176 19 {to be made during the next 12 to 18 months.}
+nextSentence really
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5018
+create-a-node-here really 12.52 20 {\nLabatt's has no takeover bids outstanding currently,}
+autolink_nodes 5016 20 multinuclear List  5019
+create-a-node-here really 12.65 21 { he said.}
+nextSentence really
+autolink_nodes 20 21 satelite attribution  5020
+create-a-node-here really 14.66 22 { \n\nLead underwriter to the issue is Toronto Dominion Securities Inc. }
+autolink_nodes 5008 22 satelite elaboration-additional  5021
+collapsed_nodes {5021}
+collapsed_nodes {}
+collapsed_nodes {}

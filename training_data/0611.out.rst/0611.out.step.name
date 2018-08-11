@@ -1,0 +1,52 @@
+nextSentence really
+create-a-node-here really 2.22 1 {\nPARKER HANNIFIN Corp.,}
+create-a-node-here really 2.88 2 { which is selling three automotive replacement parts divisions,}
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+create-a-node-here really 2.97 3 { said }
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 2.168 4 {it will retain its Automotive Connectors and Cliff Impact divisions.}
+nextSentence really
+autolink_nodes 3 4 nucleus attribution  5003
+create-a-node-here really 3.14 5 {\nThe divisions }
+autolink_nodes 5002 5 satelite elaboration-additional  5004
+create-a-node-here really 3.51 6 {that Parker Hannifin is retaining }
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 3.94 7 {weren't mentioned in Thursday's edition.}
+nextSentence really
+autolink_nodes 5005 7 multinuclear Same-Unit  5006
+#create-a-node-here really 5.5 8 { \n\n(See:}
+#autolink_nodes 5004 8 multinuclear TextualOrganization  5007
+#create-a-node-here really 5.31 9 { "Parker Hannifin Sale"}
+#autolink_nodes 8 9 nucleus OTHER-rel  5008
+#create-a-node-here really 5.57 10 { -- WSJ Oct. 26, 1989) }
+#autolink_nodes 5008 10 satelite attribution  5009
+#change_constit 5009 Footnote
+#change_constit 5004 Text
+#change_constit 5004 Text
+#change_constit 5009 Footnote
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 5.28 8 { \n\n(See: "Parker Hannifin Sale"}
+autolink_nodes 5004 8 multinuclear TextualOrganization  5007
+change_constit 5004 Text
+change_constit 8 Footnote
+#create-a-node-here really 5.54 9 { -- WSJ Oct. 26, 1989) }
+#autolink_nodes 8 9 satelite attribution  5008
+#UNDID
+#UNDID
+create-a-node-here really 5.53 9 { -- WSJ Oct. 26, 1989)}
+autolink_nodes 8 9 satelite attribution  5008
+change_constit 5008 Footnote
+change_constit 5004 Text
+disconnect_node 3 disconnect
+disconnect_node 4 disconnect
+autolink_nodes 5001 3 multinuclear Same-Unit  5009
+autolink_nodes 5009 4 nucleus attribution  5010

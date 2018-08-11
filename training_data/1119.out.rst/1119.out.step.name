@@ -1,0 +1,18 @@
+nextSentence really
+create-a-node-here really 2.106 1 {\nRoy E. Parrott, the company's president and chief operating officer since Sept. 1, was named to its board.}
+nextSentence really
+create-a-node-here really 3.57 2 {\nThe appointment increased the number of directors to 10, }
+create-a-node-here really 3.96 3 {three of whom are company employees.}
+nextSentence really
+create-a-node-here really 4.31 4 {\nSimpson is an auto parts maker.}
+nextSentence really
+autolink_nodes 1 2 satelite elaboration-additional  5001
+autolink_nodes 2 3 satelite elaboration-object-attribute  5002
+autolink_nodes 5001 4 satelite elaboration-additional  5003
+change_rel 4 topic-drift
+#change_rel 4 
+#UNDID
+disconnect_node 3 disconnect
+autolink_nodes 2 3 satelite elaboration-set-member  5004
+nextSentence really
+nextSentence really

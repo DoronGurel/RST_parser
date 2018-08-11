@@ -1,0 +1,71 @@
+nextSentence really
+create-a-node-here really 2.100 1 {\nAmid a crowd of crashing stocks, Relational Technology Inc. 's stock fell particularly hard Friday, }
+create-a-node-here really 2.116 2 {dropping 23% }
+autolink_nodes 1 2 satelite manner  5001
+create-a-node-here really 2.221 3 {because its problems were compounded by disclosure of an unexpected loss for its fiscal first quarter.}
+nextSentence really
+autolink_nodes 5001 3 satelite consequence-n  5002
+create-a-node-here really 4.35 4 { \n\nThe database software company said }
+create-a-node-here really 4.100 5 {it expects a $2 million net loss for the fiscal first quarter }
+autolink_nodes 4 5 nucleus attribution  5003
+create-a-node-here really 4.118 6 {ended Sept. 30.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e below 5004
+autolink_nodes 5002 5003 satelite evaluation-s  5005
+create-a-node-here really 5.8 7 {\nIt said }
+create-a-node-here really 5.69 8 {analysts had been expecting a small profit for the period.}
+nextSentence really
+autolink_nodes 7 8 nucleus attribution  5006
+autolink_nodes 5003 5006 multinuclear Contrast  5007
+nextSentence really
+create-a-node-here really 6.63 9 {\nRevenue is expected to be "up modestly" from the $26.5 million }
+create-a-node-here really 6.86 10 {reported a year ago.}
+nextSentence really
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5008
+create-a-node-here really 7.107 11 {\nRelational Technology reported net income of $1.5 million, or 12 cents a share, in the year-earlier period.}
+nextSentence really
+autolink_nodes 5008 11 multinuclear Comparison  5009
+autolink_nodes 5007 5009 satelite background  5010
+create-a-node-here really 9.58 12 { \n\n"While our international operations showed strong growth, }
+create-a-node-here really 9.123 13 {our domestic business was substantially below expectations," }
+#autolink_nodes 12 13 nucleus comparison  5011
+#UNDID
+autolink_nodes 12 13 multinuclear Comparison  5011
+create-a-node-here really 10.0 14 {said Paul Newton, president and chief executive officer.\n}
+autolink_nodes 5011 14 satelite attribution  5012
+autolink_nodes 5010 5012 satelite explanation-argumentative  5013
+create-a-node-here really 10.21 15 {A spokesman said }
+create-a-node-here really 10.75 16 {the company's first quarter is historically soft, }
+autolink_nodes 15 16 nucleus attribution  5014
+create-a-node-here really 10.143 17 {and computer companies in general are experiencing slower sales.}
+nextSentence really
+autolink_nodes 16 17 multinuclear List  5015
+autolink_nodes 5012 5014 multinuclear List  5016
+create-a-node-here really 12.16 18 { \n\nMr. Newton said }
+create-a-node-here really 12.101 19 {he accepted the resignation of Thomas Wilson, vice president of corporate sales, }
+autolink_nodes 18 19 nucleus attribution  5017
+create-a-node-here really 12.166 20 {and that his marketing responsibilities have been reassigned.}
+nextSentence really
+autolink_nodes 19 20 multinuclear Sequence  5018
+create-a-node-here really 13.17 21 {\nThe company said }
+create-a-node-here really 13.84 22 {Mr. Wilson's resignation wasn't related to the sales shortfall.}
+nextSentence really
+autolink_nodes 21 22 nucleus attribution  5019
+autolink_nodes 5017 5019 satelite explanation-argumentative  5020
+autolink_nodes 5005 5020 satelite elaboration-additional  5021
+create-a-node-here really 15.61 23 { \n\nRelational Technology went public in May 1988 at $14 a share.}
+nextSentence really
+create-a-node-here really 16.80 24 {\nIt fell $1.875 a share Friday, to $6.25, a new low, in over-the-counter trading.}
+nextSentence really
+nextSentence really
+create-a-node-here really 17.47 25 {\nIts high for the past year was $16.375 a share.}
+nextSentence really
+autolink_nodes 23 24 multinuclear Sequence  5022
+autolink_nodes 24 25 satelite elaboration-additional  5023
+autolink_nodes 5021 5022 satelite background  5024
+nextSentence really
+create-a-node-here really 19.105 26 { \n\nIn the previous quarter, the company earned $4.5 million, or 37 cents a share, on sales of $47.2 million.}
+nextSentence really
+autolink_nodes 5023 26 multinuclear Inverted-Sequence  5025
+disconnect_node 5019 modify
+autolink_nodes 5017 5019 satelite comment  5026

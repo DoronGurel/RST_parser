@@ -1,0 +1,294 @@
+nextSentence really
+create-a-node-here really 2.57 1 {\nIf a hostile predator emerges for Saatchi & Saatchi Co., }
+create-a-node-here really 2.140 2 {co-founders Charles and Maurice Saatchi will lead a management buy-out attempt, }
+autolink_nodes 1 2 nucleus condition  5001
+create-a-node-here really 2.181 3 {an official close to the company said.}
+nextSentence really
+autolink_nodes 5001 3 satelite attribution  5002
+create-a-node-here really 4.148 4 { \n\nFinancing for any takeover attempt may be problematic in the wake of Friday's stock-market sell-off in New York and turmoil in the junk-bond market.}
+nextSentence really
+autolink_nodes 5002 4 satelite interpretation-s  5003
+create-a-node-here really 5.62 5 {\nBut the beleaguered British advertising and consulting giant, }
+create-a-node-here really 5.117 6 {which last week named a new chief executive officer }
+create-a-node-here really 5.148 7 {to replace Maurice Saatchi, }
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 5 5004 satelite-embedded elaboration-additional-e  5005
+create-a-node-here really 5.214 8 {has been the subject of intense takeover speculation for weeks.}
+nextSentence really
+autolink_nodes 5005 8 multinuclear Same-Unit  5006
+autolink_nodes 4 5006 multinuclear Contrast  5007
+create-a-node-here really 7.78 9 { \n\nLast week, Saatchi's largest shareholder, Southeastern Asset Management, said }
+create-a-node-here really 7.133 10 {it had been approached by one or more third parties }
+autolink_nodes 9 10 nucleus attribution  5008
+create-a-node-here really 7.176 11 {interested in a possible restructuring.}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e below 5009
+disconnect_node 5007 disconnect
+autolink_nodes 5002 5007 satelite background  5010
+autolink_nodes 5006 5008 satelite evidence  5011
+#create-a-node-here really 8.104 12 {\nAnd Carl Spielvogel, chief executive officer of Saatchi's big Backer Spielvogel Bates advertising unit, }
+#create-a-node-here really 8.173 13 {said he had offered to lead a management buy-out of the company, }
+#UNDID
+#UNDID
+create-a-node-here really 8.109 12 {\nAnd Carl Spielvogel, chief executive officer of Saatchi's big Backer Spielvogel Bates advertising unit, said }
+create-a-node-here really 8.173 13 {he had offered to lead a management buy-out of the company, }
+autolink_nodes 12 13 nucleus attribution  5012
+create-a-node-here really 9.0 14 {but was rebuffed by Charles Saatchi.\n}
+autolink_nodes 13 14 satelite antithesis below 5013
+autolink_nodes 5008 5012 multinuclear List  5014
+create-a-node-here really 9.24 15 {Mr. Spielvogel said }
+create-a-node-here really 9.61 16 {he wouldn't launch a hostile bid.}
+nextSentence really
+autolink_nodes 15 16 nucleus attribution  5015
+autolink_nodes 5012 5015 satelite elaboration-additional  5016
+create-a-node-here really 11.46 17 { \n\nThe executive close to Saatchi & Saatchi said }
+create-a-node-here really 11.55 18 {that }
+autolink_nodes 17 18 nucleus attribution  5017
+create-a-node-here really 11.125 19 {"if a bidder came up with a ludicrously high offer, a crazy offer }
+create-a-node-here really 11.148 20 {which Saatchi knew }
+create-a-node-here really 11.170 21 {it couldn't beat, }
+autolink_nodes 20 21 nucleus attribution  5018
+autolink_nodes 19 5018 satelite-embedded elaboration-object-attribute-e  5019
+create-a-node-here really 11.198 22 {it would have no choice }
+create-a-node-here really 11.238 23 {but to recommend it to shareholders.}
+nextSentence really
+#autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5020
+#UNDID
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5020
+#autolink_nodes 5019 5020 satelite-embedded condition-e  5021
+#UNDID
+autolink_nodes 5019 5020 nucleus-embedded condition-e  5021
+autolink_nodes 18 5021 multinuclear Same-Unit  5022
+create-a-node-here really 13.0 24 {\nBut {otherwise} it would undoubtedly come back" with an offer by management.\n}
+autolink_nodes 5017 24 multinuclear Otherwise  5023
+create-a-node-here really 13.23 25 {The executive said }
+create-a-node-here really 13.74 26 {any buy-out would be led by the current board, }
+autolink_nodes 25 26 nucleus attribution  5024
+create-a-node-here really 13.112 27 {whose chairman is Maurice Saatchi }
+create-a-node-here really 13.184 28 {and whose strategic guiding force is believed to be Charles Saatchi.}
+nextSentence really
+#autolink_nodes 27 28 multinuclear List  5025
+#UNDID
+autolink_nodes 26 27 satelite-embedded elaboration-set-member-e below 5025
+autolink_nodes 5025 28 satelite-embedded elaboration-additional-e below 5026
+autolink_nodes 5023 5024 satelite elaboration-additional  5027
+create-a-node-here really 14.40 29 {\nMr. Spielvogel isn't part of the board, }
+create-a-node-here really 14.115 30 {nor are any of the other heads of Saatchi's big U.S.-based ad agencies.}
+autolink_nodes 29 30 multinuclear Disjunction  5028
+autolink_nodes 5024 5028 multinuclear Contrast  5029
+autolink_nodes 5016 5027 satelite explanation-argumentative  5030
+create-a-node-here really 16.37 31 { \n\nThe executive didn't name any price, }
+create-a-node-here really 16.75 32 {but securities analysts have said }
+create-a-node-here really 16.122 33 {Saatchi would fetch upward of $1.3 billion.}
+nextSentence really
+autolink_nodes 32 33 nucleus attribution  5031
+autolink_nodes 31 5031 nucleus antithesis  5032
+autolink_nodes 5027 5032 satelite evaluation-s  5033
+create-a-node-here really 18.33 34 { \n\nThe executive denied speculation }
+create-a-node-here really 18.98 35 {that Saatchi was bringing in the new chief executive officer }
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5034
+create-a-node-here really 18.143 36 {only to clean up the company financially }
+autolink_nodes 35 36 satelite purpose  5035
+create-a-node-here really 18.190 37 {so that the brothers could lead a buy-back.}
+nextSentence really
+autolink_nodes 36 37 satelite purpose  5036
+disconnect_node 5032 disconnect
+autolink_nodes 5010 5032 satelite evaluation-s  5037
+disconnect_node 24 modify
+autolink_nodes 5017 24 satelite otherwise below 5038
+autolink_nodes 5037 5034 satelite elaboration-additional  5039
+create-a-node-here really 19.33 38 {\nThat speculation abounded Friday }
+create-a-node-here really 19.135 39 {as industry executives analyzed the appointment of the new chief executive, Robert Louis-Dreyfus, }
+create-a-node-here really 19.157 40 {who joins Saatchi }
+create-a-node-here really 20.0 41 {and becomes a member of its board on Jan. 1.\n}
+autolink_nodes 40 41 multinuclear Temporal-Same-Time  5040
+autolink_nodes 39 5040 satelite-embedded elaboration-additional-e  5041
+autolink_nodes 38 5041 satelite circumstance  5042
+create-a-node-here really 20.155 42 {Mr. Louis-Dreyfus, formerly chief executive of the pharmaceutical research firm IMS International Inc., has a reputation as a savvy financial manager, }
+create-a-node-here really 20.233 43 {and will be charged largely with repairing Saatchi's poor financial state.}
+nextSentence really
+autolink_nodes 42 43 nucleus consequence-n  5043
+autolink_nodes 5042 5043 satelite elaboration-additional  5044
+autolink_nodes 5034 5044 satelite elaboration-additional  5045
+create-a-node-here really 22.28 44 { \n\nAsked about the speculation }
+create-a-node-here really 22.70 45 {that Mr. Louis-Dreyfus has been hired }
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5046
+create-a-node-here really 22.121 46 {to pave the way for a buy-out by the brothers, }
+autolink_nodes 45 46 satelite purpose  5047
+create-a-node-here really 22.148 47 {the executive replied, }
+create-a-node-here really 22.175 48 {"That isn't the reason }
+create-a-node-here really 22.207 49 {Dreyfus has been brought in.}
+nextSentence really
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5048
+autolink_nodes 47 5048 nucleus attribution  5049
+autolink_nodes 5046 5049 nucleus question-answer-n  5050
+create-a-node-here really 23.18 50 {\nHe was brought in }
+create-a-node-here really 23.50 51 {to turn around the company."}
+nextSentence really
+autolink_nodes 50 51 satelite purpose  5051
+#autolink_nodes 5050 5051 nucleus antithesis  5052
+#UNDID
+#autolink_nodes 5050 5051 multinuclear Contrast  5052
+#UNDID
+#autolink_nodes 5050 5051 multinuclear Contrast  5052
+#UNDID
+autolink_nodes 5049 5051 multinuclear Contrast  5052
+autolink_nodes 5045 5050 satelite elaboration-additional  5053
+create-a-node-here really 25.48 52 { \n\nSeparately, several Saatchi agency clients said }
+create-a-node-here really 25.65 53 {they believe }
+autolink_nodes 52 53 nucleus attribution  5054
+create-a-node-here really 25.135 54 {the company's management shakeup will have little affect on them. }
+autolink_nodes 53 54 nucleus attribution  5055
+autolink_nodes 5039 5054 satelite interpretation-s  5056
+#disconnect_node 24 modify
+#autolink_nodes 5017 24 multinuclear Otherwise  5057
+#UNDID
+#UNDID
+disconnect_node 5007 disconnect
+disconnect_node 5054 disconnect
+disconnect_node 5050 disconnect
+disconnect_node 5045 disconnect
+#disconnect_node 5032 disconnect
+#UNDID
+disconnect_node 5032 disconnect
+#autolink_nodes 5002 5007 satelite background  5057
+#UNDID
+autolink_nodes 5002 5007 satelite background  5057
+autolink_nodes 5057 5032 satelite evaluation-s  5058
+autolink_nodes 5058 5045 satelite interpretation-s  5059
+autolink_nodes 5059 5050 satelite problem-solution-s  5060
+autolink_nodes 5060 5054 satelite evaluation-s  5061
+create-a-node-here really 27.33 55 {\n\n"It hasn't had any impact on us, }
+create-a-node-here really 27.62 56 {nor do we expect it to," }
+create-a-node-here really 27.145 57 {said a spokeswoman for Miller Brewing Co., a major client of Backer Spielvogel.}
+nextSentence really
+autolink_nodes 55 56 multinuclear List  5062
+autolink_nodes 5062 57 satelite attribution  5063
+autolink_nodes 5054 5063 satelite elaboration-general-specific  5064
+create-a-node-here really 28.103 58 {\nJohn Lampe, director of advertising at PaineWebber Inc., a Saatchi & Saatchi Advertising client, said: }
+create-a-node-here really 28.150 59 {"We have no problem with the announcement, }
+autolink_nodes 58 59 nucleus antithesis  5065
+create-a-node-here really 28.188 60 {because we don't know what change }
+create-a-node-here really 28.218 61 {it's going to bring about.}
+nextSentence really
+autolink_nodes 60 61 satelite-embedded elaboration-object-attribute-e  5066
+autolink_nodes 59 5066 satelite reason below 5067
+autolink_nodes 5064 5065 multinuclear List  5068
+create-a-node-here really 29.35 62 {\nWe aren't going to change agencies }
+create-a-node-here really 29.70 63 {because of a change in London."}
+nextSentence really
+autolink_nodes 62 63 satelite consequence-n  5069
+autolink_nodes 5065 5069 satelite elaboration-additional  5070
+create-a-node-here really 31.111 64 { \n\nExecutives at Backer Spielvogel client Avis Inc., as well as at Saatchi client Philips Lighting Co., also said }
+create-a-node-here really 31.134 65 {they saw no effect.}
+nextSentence really
+autolink_nodes 64 65 nucleus attribution  5071
+autolink_nodes 5068 5071 multinuclear List below 5071
+create-a-node-here really 32.75 66 {\nExecutives at Prudential-Bache Securities Inc., a Backer Spielvogel client }
+create-a-node-here really 32.110 67 {that is reviewing its account, }
+autolink_nodes 66 67 satelite-embedded elaboration-object-attribute-e  5072
+create-a-node-here really 32.131 68 {declined comment.}
+nextSentence really
+autolink_nodes 5072 68 multinuclear Same-Unit  5073
+autolink_nodes 5068 5073 satelite elaboration-additional  5074
+#create-a-node-here really 33.28 69 {\nMr. Spielvogel had said that}
+#UNDID
+#create-a-node-here really 33.29 69 {\nMr. Spielvogel had said that }
+#create-a-node-here really 33.162 70 {Prudential-Bache was prepared to finance either a management buy-out and restructuring, or a buy-out of Backer Spielvogel alone, }
+#autolink_nodes 69 70 nucleus attribution  5075
+#UNDID
+#autolink_nodes 69 70 nucleus attribution  5075
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 33.24 69 {\nMr. Spielvogel had said }
+create-a-node-here really 33.162 70 {that Prudential-Bache was prepared to finance either a management buy-out and restructuring, or a buy-out of Backer Spielvogel alone, }
+autolink_nodes 69 70 nucleus attribution  5075
+create-a-node-here really 33.178 71 {led by him. }
+#autolink_nodes 70 71 satelite-embedded elaboration-additional-e below 5076
+#UNDID
+collapsed_nodes {5061}
+autolink_nodes 70 71 satelite-embedded elaboration-additional-e below 5076
+autolink_nodes 5061 5075 satelite elaboration-additional  5077
+collapsed_nodes {}
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 35.16 72 {\n\nAd Notes. . . . }
+#autolink_nodes 72 72 schema SectionTitle  5077
+#UNDID
+autolink_nodes 72 72 schema Title  5077
+create-a-node-here really 37.13 73 {\n\nNEW ACCOUNT: }
+autolink_nodes 73 73 schema SectionTitle  5077
+create-a-node-here really 37.156 74 {California's Glendale Federal Bank awarded its $12 million to $15 million account to the Los Angeles office of Omnicom Group's BBDO agency.}
+nextSentence really
+create-a-node-here really 38.102 75 {\nThe account was previously handled by Davis, Ball & Colombatto Advertising Inc., a Los Angeles agency.}
+nextSentence really
+autolink_nodes 74 75 satelite background  5078
+autolink_nodes 5078 5078 schema SectionText  5078
+autolink_nodes 73 5078 multinuclear TextualOrganization  5079
+create-a-node-here really 40.16 76 { \n\nACCOUNT REVIEW: }
+autolink_nodes 76 76 schema SectionTitle  5079
+create-a-node-here really 40.130 77 {Royal Crown Cola Co. has ended its relationship with the Boston office of Hill, Holliday, Connors, Cosmopulos.}
+nextSentence really
+create-a-node-here really 41.49 78 {\nThe account had billed about $6 million in 1988, }
+create-a-node-here really 41.95 79 {according to Leading National Advertisers.}
+nextSentence really
+autolink_nodes 78 79 satelite attribution  5080
+autolink_nodes 77 5080 satelite background  5081
+autolink_nodes 5081 5081 schema SectionText  5081
+autolink_nodes 76 5081 multinuclear TextualOrganization  5082
+autolink_nodes 5079 5082 multinuclear List above 5083
+create-a-node-here really 43.17 80 { \n\nNOT-GUILTY PLEA: }
+autolink_nodes 80 80 schema SectionTitle  5083
+create-a-node-here really 43.34 81 {As expected, }
+nextSentence really
+create-a-node-here really 43.211 82 {Young & Rubicam Inc. along with two senior executives and a former employee, pleaded not guilty in federal court in New Haven, Conn., to conspiracy and racketeering charges.}
+nextSentence really
+autolink_nodes 81 82 nucleus comment  5084
+create-a-node-here really 44.27 83 {\nThe government has charged }
+create-a-node-here really 44.67 84 {that they bribed Jamaican officials }
+autolink_nodes 83 84 nucleus attribution  5085
+create-a-node-here really 44.123 85 {to win the Jamaica Tourist Board ad account in 1981.}
+nextSentence really
+autolink_nodes 84 85 satelite purpose below 5086
+create-a-node-here really 45.48 86 {\nA spokesman for the U.S. Attorney's office said }
+create-a-node-here really 45.238 87 {extradition proceedings are "just beginning" for the other two defendants in the case, Eric Anthony Abrahams, former Jamaican tourism minister, and Jamaican businessman Arnold Foote Jr. }
+autolink_nodes 86 87 nucleus attribution  5087
+autolink_nodes 5085 5087 satelite elaboration-additional  5088
+autolink_nodes 5084 5088 satelite elaboration-general-specific  5089
+autolink_nodes 5089 5089 schema SectionText  5089
+autolink_nodes 80 5089 multinuclear TextualOrganization  5090
+autolink_nodes 5083 5090 multinuclear List below 5090
+create-a-node-here really 47.15 88 {\n\nKOREAN AGENCY: }
+autolink_nodes 88 88 schema SectionTitle  5090
+create-a-node-here really 47.123 89 {The Samsung Group and Bozell Inc. agreed to establish a joint venture advertising agency in South Korea.}
+nextSentence really
+create-a-node-here really 48.20 90 {\nBozell Cheil Corp., }
+create-a-node-here really 48.57 91 {as the new agency will be called,}
+autolink_nodes 90 91 satelite-embedded elaboration-additional-e  5091
+create-a-node-here really 48.85 92 { will be based in Seoul }
+create-a-node-here really 48.117 93 {and is 70% owned by Samsung }
+create-a-node-here really 48.145 94 {and 30% owned by Bozell.}
+nextSentence really
+autolink_nodes 93 94 multinuclear List  5092
+autolink_nodes 5091 92 multinuclear Same-Unit  5093
+autolink_nodes 5093 5092 satelite elaboration-part-whole  5094
+autolink_nodes 89 5094 satelite elaboration-general-specific  5095
+create-a-node-here really 49.80 95 {\nSamsung already owns Korea First Advertising Co., that country's largest agency.}
+nextSentence really
+autolink_nodes 5095 95 satelite background  5096
+create-a-node-here really 50.105 96 {\nBozell joins Backer Spielvogel Bates and Ogilvy Group as U.S. agencies with interests in Korean agencies.}
+nextSentence really
+autolink_nodes 95 96 multinuclear List  5097
+autolink_nodes 5096 5096 schema SectionText  5097
+autolink_nodes 88 5096 multinuclear TextualOrganization  5098
+autolink_nodes 5083 5098 multinuclear List below 5098
+autolink_nodes 5083 5083 schema Text  5098
+autolink_nodes 72 5083 multinuclear TextualOrganization  5099
+autolink_nodes 5077 5099 multinuclear Topic-Shift  5100
+disconnect_node 5014 modify
+autolink_nodes 5006 5014 satelite elaboration-additional  5101
+disconnect_node 58 modify
+autolink_nodes 5067 58 satelite attribution below 5102

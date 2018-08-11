@@ -1,0 +1,242 @@
+nextSentence really
+create-a-node-here really 2.39 1 {\n"The croaker's done gone from the hook }
+create-a-node-here really 2.50 2 {-- damn!}
+nextSentence really
+create-a-node-here really 2.107 3 { My language sure goes to pot down here on the coast."}
+nextSentence really
+create-a-node-here really 2.181 4 { The husky blond guide with the Aggie cap twists his face in mock fury.}
+nextSentence really
+create-a-node-here really 2.214 5 { "I got to get back to school }
+create-a-node-here really 2.248 6 {and straighten out my English."}
+nextSentence really
+create-a-node-here really 4.35 7 { \n\nHe has two more years at Texas A&M.}
+nextSentence really
+autolink_nodes 1 2 satelite comment  5001
+create-a-node-here really 5.77 8 {\nRight now he takes people out to fish in the bays behind the barrier islands }
+create-a-node-here really 5.146 9 {that curve for hundreds of miles along the eastern coast of Texas,}
+create-a-node-here really 5.219 10 { enclosing milky green lagoons behind ridges of sand and grassy scrub }
+create-a-node-here really 5.265 11 {that rim the deep blue of the Gulf beyond.}
+nextSentence really
+#autolink_nodes 2 3 satelite explanation-argumentative  5002
+#UNDID
+autolink_nodes 2 3 nucleus explanation-argumentative  5002
+autolink_nodes 5001 4 satelite elaboration-additional  5003
+autolink_nodes 5 6 satelite purpose  5004
+autolink_nodes 5004 7 satelite elaboration-additional  5005
+autolink_nodes 7 8 multinuclear Inverted-Sequence  5006
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 5007 10 satelite-embedded elaboration-object-attribute-e  5008
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5009
+create-a-node-here really 7.52 12 { \n\nThere have been three days of hot, wind-swept rain, }
+create-a-node-here really 7.114 13 {and now with the first sun we are after speckled seatrout,}
+autolink_nodes 5003 5005 satelite circumstance  5010
+create-a-node-here really 8.0 14 { which with redfish provides most of the game fishing hereabouts.\n}
+create-a-node-here really 8.28 15 {The little radio fizzes }
+create-a-node-here really 8.59 16 {as other boats want to see }
+create-a-node-here really 8.89 17 {if we have found any fish }
+create-a-node-here really 8.142 18 {-- spotting location is everything in this sport.}
+nextSentence really
+#autolink_nodes 12 13 satelite temporal-after  5011
+#UNDID
+#autolink_nodes 12 13 satelite temporal-after  5011
+#UNDID
+autolink_nodes 12 13 nucleus temporal-after  5011
+autolink_nodes 13 14 satelite elaboration-additional below 5012
+autolink_nodes 15 16 multinuclear Temporal-Same-Time  5013
+autolink_nodes 16 17 satelite condition  5014
+autolink_nodes 5013 18 satelite comment  5015
+autolink_nodes 5006 5011 satelite elaboration-additional  5016
+autolink_nodes 5011 5015 satelite elaboration-additional  5017
+create-a-node-here really 9.31 19 {\nNegative answers crackle back. }
+autolink_nodes 5015 19 satelite elaboration-additional  5018
+create-a-node-here really 11.69 20 {\n\nThe fish often are plentiful around the pilings of the old gas wells }
+create-a-node-here really 11.132 21 {that dot the flat surface like the remains of sunken ships.}
+nextSentence really
+create-a-node-here really 12.28 22 {\nWe go from one to the other.}
+nextSentence really
+create-a-node-here really 13.19 23 {\nThe sun is hot now }
+create-a-node-here really 13.57 24 {though it's only 8 in the morning.}
+nextSentence really
+create-a-node-here really 14.74 25 {\nThe great silver clouds on the horizon build themselves on the pale water.}
+nextSentence really
+create-a-node-here really 16.40 26 { \n\nWe cruise toward another set of pilings.}
+nextSentence really
+create-a-node-here really 17.29 27 {\nThe guide scoops into a pail }
+create-a-node-here really 17.85 28 {and puts a frantically wiggling croaker on the hook.}
+nextSentence really
+create-a-node-here really 18.18 29 {\nThen he casts out.}
+nextSentence really
+create-a-node-here really 18.69 30 { "Just wait for that tap-tap, that thump-thump.}
+nextSentence really
+create-a-node-here really 19.21 31 {\nIt comes real gentle }
+create-a-node-here really 19.41 32 {before it pulls.}
+nextSentence really
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5019
+autolink_nodes 5017 5019 satelite elaboration-additional  5020
+autolink_nodes 5019 22 satelite elaboration-additional  5021
+autolink_nodes 23 24 satelite concession  5022
+autolink_nodes 5022 25 multinuclear Temporal-Same-Time  5023
+autolink_nodes 5023 26 multinuclear Temporal-Same-Time below 5023
+#autolink_nodes 27 28 satelite temporal-after  5024
+#UNDID
+autolink_nodes 27 28 satelite temporal-after  5024
+autolink_nodes 5024 29 multinuclear Sequence  5025
+autolink_nodes 5023 5025 satelite temporal-after  5026
+autolink_nodes 30 31 satelite interpretation-s  5027
+autolink_nodes 31 32 satelite temporal-before  5028
+#autolink_nodes 5025 5027 satelite comment  5029
+#create-a-node-here really 20.13 33 {\nDon't forget,}
+#create-a-node-here really 20.48 34 { trout have very soft mouths." }
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 20.14 33 {\nDon't forget, }
+create-a-node-here really 21.0 34 {trout have very soft mouths." \n}
+autolink_nodes 33 34 nucleus attribution-n  5029
+autolink_nodes 5027 5029 satelite elaboration-additional  5030
+autolink_nodes 5026 5030 satelite comment  5031
+create-a-node-here really 22.24 35 {\nThe radio queries again.}
+nextSentence really
+create-a-node-here really 22.51 36 { "Pickin' one or two," }
+create-a-node-here really 22.81 37 {says the guide, chuckling.}
+nextSentence really
+create-a-node-here really 22.100 38 { "You can tell }
+create-a-node-here really 22.125 39 {they've got nothin'."}
+nextSentence really
+create-a-node-here really 22.189 40 { A pair of black skimmers zig-zag past close to the surface.}
+nextSentence really
+create-a-node-here really 23.46 41 {\nSoon we have our limit of the shimmering fish }
+create-a-node-here really 23.82 42 {stippled in rose-gold and black.}
+nextSentence really
+autolink_nodes 36 37 satelite attribution  5032
+autolink_nodes 35 5032 satelite explanation-argumentative  5033
+autolink_nodes 38 39 nucleus attribution  5034
+autolink_nodes 5033 5034 satelite elaboration-additional  5035
+autolink_nodes 5035 40 multinuclear Sequence  5036
+#autolink_nodes 5036 41 multinuclear Sequence below 5036
+#UNDID
+#autolink_nodes 5036 41 multinuclear Sequence below 5036
+#UNDID
+autolink_nodes 5036 41 multinuclear Sequence below 5036
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5037
+create-a-node-here really 24.39 43 {\nAnd we are the first back at the dock, }
+create-a-node-here really 24.77 44 {where the great blue herons stand }
+create-a-node-here really 25.0 45 {waiting by the cleaning benches.\n}
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5038
+autolink_nodes 44 45 satelite elaboration-additional  5039
+#autolink_nodes 5036 5038 multinuclear Sequence below 5039
+#UNDID
+#autolink_nodes 5036 5038 multinuclear Sequence below 5039
+#UNDID
+autolink_nodes 5036 5038 multinuclear Sequence below 5039
+create-a-node-here really 25.23 46 {The guide is young }
+create-a-node-here really 25.54 47 {and he knows this business }
+create-a-node-here really 25.149 48 {but he wants a different life after college, such as working for IBM and wearing a necktie.}
+nextSentence really
+create-a-node-here really 27.58 49 { \n\nThis must be the last big stretch of the American seacoast}
+create-a-node-here really 27.85 50 { that is "undeveloped."}
+nextSentence really
+create-a-node-here really 27.173 51 { There are a few ramshackle fishing towns with quiet atolls of resort houses nearby.}
+nextSentence really
+create-a-node-here really 28.70 52 {\nPeople are not apt to be self-conscious about the place or themselves.}
+nextSentence really
+create-a-node-here really 29.27 53 {\nTexas is big and beautiful }
+create-a-node-here really 29.51 54 {and they live here, }
+create-a-node-here really 29.66 55 {that's all.}
+nextSentence really
+autolink_nodes 46 47 multinuclear List  5040
+autolink_nodes 5040 48 satelite antithesis  5041
+autolink_nodes 49 50 satelite-embedded elaboration-object-attribute-e  5042
+#autolink_nodes 5042 51 satelite elaboration-additional  5043
+#UNDID
+autolink_nodes 5042 51 multinuclear List  5043
+#autolink_nodes 5043 52 multinuclear List below 5043
+#UNDID
+autolink_nodes 5043 52 multinuclear List below 5043
+autolink_nodes 53 54 multinuclear List  5044
+autolink_nodes 5044 55 satelite comment  5045
+autolink_nodes 5043 5045 satelite comment  5046
+create-a-node-here really 31.63 56 { \n\nJutting out just to the north of us is the Blackjack Peninsula }
+create-a-node-here really 31.97 57 {(after the oak, not the game) }
+create-a-node-here really 32.0 58 {which forms the core of the Aransas Wildlife Refuge.\n}
+create-a-node-here really 32.106 59 {It is famous as the winter home of the whooping crane, that symbol of the destruction of wild America.}
+nextSentence really
+create-a-node-here really 33.45 60 {\nLast year a gunner shot a whooper by mistake }
+create-a-node-here really 33.58 61 {thinking }
+create-a-node-here really 33.87 62 {that it was a snow goose.}
+nextSentence really
+create-a-node-here really 34.24 63 {\nHe paid an immense fine }
+create-a-node-here really 34.43 64 {and was lucky, }
+create-a-node-here really 34.72 65 {according to a local wag,}
+create-a-node-here really 34.103 66 { to escape the gas chamber.}
+nextSentence really
+autolink_nodes 56 57 satelite-embedded explanation-argumentative-e  5047
+autolink_nodes 5047 58 satelite-embedded elaboration-object-attribute-e  5048
+autolink_nodes 5048 59 satelite elaboration-additional  5049
+autolink_nodes 59 60 satelite elaboration-additional  5050
+autolink_nodes 61 62 nucleus attribution  5051
+autolink_nodes 60 5051 satelite elaboration-additional  5052
+autolink_nodes 63 64 multinuclear List  5053
+#autolink_nodes 5053 65 satelite attribution  5054
+#UNDID
+#autolink_nodes 64 65 satelite attribution  5054
+#autolink_nodes 5054 66 multinuclear Same-Unit  5055
+#UNDID
+#UNDID
+autolink_nodes 64 65 satelite-embedded attribution-e  5054
+autolink_nodes 5054 66 multinuclear Same-Unit  5055
+autolink_nodes 5052 5053 multinuclear Cause-Result  5056
+create-a-node-here really 36.111 67 { \n\nThe peninsula comes off the vast southeastern alluvial plain with fields of rice and cotton and sorghum as far }
+create-a-node-here really 37.0 68 {as the eye can see.\n}
+create-a-node-here really 37.55 69 {Near the coast there are dense coverts of live oak }
+create-a-node-here really 37.98 70 {interspersed with marshes and prairies.}
+nextSentence really
+create-a-node-here really 38.69 71 {\nDeer, wild hog, armadillos and alligators are the glamour quadrupeds }
+autolink_nodes 67 68 satelite circumstance  5057
+autolink_nodes 69 70 satelite-embedded elaboration-object-attribute-e  5058
+autolink_nodes 5057 5058 satelite elaboration-additional  5059
+autolink_nodes 5059 71 satelite elaboration-additional  5060
+create-a-node-here really 38.145 72 {and the birds are innumerable, especially the herons and the spoonbills.}
+nextSentence really
+autolink_nodes 71 72 multinuclear List  5061
+create-a-node-here really 39.120 73 {\nAbove the blossoms of lantana and scarlet pea the inky-brown and golden palamedes butterfly floats on its lazy wingbeat.}
+nextSentence really
+create-a-node-here really 41.52 74 { \n\nInland a few miles from the refuge there is a place }
+create-a-node-here really 41.71 75 {called Tivoli, }
+create-a-node-here really 41.199 76 {with a white church, a gas station and a grocery, the houses relatively close together for such a settlement in these parts.}
+nextSentence really
+create-a-node-here really 41.273 77 { "Tivoli Motel," I read a sign in the usual pronunciation of the name }
+create-a-node-here really 41.298 78 {as we whoosh through.}
+nextSentence really
+create-a-node-here really 41.345 79 { "Here in south Texas we say Tie-vole-ee," }
+create-a-node-here really 41.373 80 {my host gently corrects.}
+nextSentence really
+create-a-node-here really 43.65 81 { \n\nMr. King is the director of the Foreign Press Center in New York.}
+nextSentence really
+autolink_nodes 5061 73 multinuclear List below 5061
+autolink_nodes 5061 74 multinuclear List below 5061
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e  5062
+autolink_nodes 5062 76 multinuclear Same-Unit  5063
+autolink_nodes 76 77 satelite-embedded elaboration-additional-e  5064
+autolink_nodes 77 78 multinuclear Temporal-Same-Time  5065
+autolink_nodes 79 80 satelite attribution  5066
+autolink_nodes 5065 5066 satelite elaboration-additional  5067
+autolink_nodes 5050 5060 satelite elaboration-additional  5068
+autolink_nodes 5046 5049 satelite elaboration-additional  5069
+autolink_nodes 5041 5069 satelite elaboration-additional  5070
+autolink_nodes 5036 5070 satelite elaboration-additional  5071
+autolink_nodes 5031 5071 satelite elaboration-additional  5072
+autolink_nodes 5021 5072 satelite elaboration-additional  5073
+collapsed_nodes {5003}
+autolink_nodes 5010 81 multinuclear TextualOrganization  5074
+collapsed_nodes {}
+#autolink_nodes 5074 5074 schema Text  5074
+#UNDID
+disconnect_node 81 disconnect
+autolink_nodes 81 81 schema Author  5074
+autolink_nodes 5010 5010 schema Text  5074
+collapsed_nodes {5010}
+autolink_nodes 5010 81 multinuclear TextualOrganization  5075
+collapsed_nodes {}
+collapsed_nodes {5010}
+collapsed_nodes {}

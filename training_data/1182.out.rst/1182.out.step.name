@@ -1,0 +1,53 @@
+nextSentence really
+create-a-node-here really 2.24 1 {\nKnight-Ridder Inc. said }
+create-a-node-here really 2.61 2 {third-quarter earnings jumped 18%,}
+create-a-node-here really 2.123 3 { partly because of the sale of two of its media properties.}
+nextSentence really
+create-a-node-here really 4.23 4 { \n\nThe media concern said }
+nextSentence really
+create-a-node-here really 4.147 5 {net income rose to $37.8 million, or 72 cents a share, from $32 million, or 57 cents a share, in the year-earlier period.}
+nextSentence really
+create-a-node-here really 5.143 6 {\nThe latest results include a gain of $4.2 million, or eight cents a share, on the sale of television stations in Oklahoma City and Flint, Mich.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 7.61 7 { \n\nRevenue increased 7.5% to $540.9 million from $503.1 million.}
+nextSentence really
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 2 3 satelite consequence-s below 5002
+autolink_nodes 4 5 nucleus attribution  5003
+autolink_nodes 5001 5003 satelite elaboration-additional  5004
+autolink_nodes 5 6 satelite elaboration-additional below 5005
+autolink_nodes 5005 7 multinuclear List  5006
+nextSentence really
+create-a-node-here really 9.67 8 { \n\nRobert F. Singleton, Knight-Ridder's chief financial officer, said }
+create-a-node-here really 10.0 9 {the company was "pleased" with its overall performance, despite only single-digit growth in newspaper revenue.\n}
+nextSentence really
+create-a-node-here really 10.98 10 {That division's revenue rose 2.3% to $472.5 million from $461.9 million in the year-ago period.}
+nextSentence really
+nextSentence really
+create-a-node-here really 11.85 11 {\nGains in advertising revenue, however, resulted in operating profit of $78.4 million }
+nextSentence really
+create-a-node-here really 11.118 12 {-- up 20% from $65.6 million.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 13.102 13 { \n\nIn New York Stock Exchange composite trading, Knight Ridder closed at $51.50 a share, down 12.5 cents.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5007
+autolink_nodes 9 10 satelite explanation-argumentative below 5008
+autolink_nodes 11 12 satelite elaboration-additional  5009
+autolink_nodes 10 5009 nucleus concession  5010
+autolink_nodes 5003 5007 satelite elaboration-additional  5011
+collapsed_nodes {5011}
+autolink_nodes 5004 13 multinuclear Topic-Drift  5012
+collapsed_nodes {}
+collapsed_nodes {5012}
+collapsed_nodes {}
+disconnect_node 10 disconnect
+autolink_nodes 5009 10 multinuclear List  5013
+disconnect_node 8 disconnect
+autolink_nodes 9 8 satelite attribution below 5014
+collapsed_nodes {5012}
+collapsed_nodes {}

@@ -1,0 +1,133 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.99 1 {\nAshton-Tate Corp. reported a net loss of $19.4 million, or 74 cents a share, for the third quarter,}
+#create-a-node-here really 2.204 2 { which was burdened by severance costs and the expense of upgrading its database software inventories.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 2.157 2 { which was burdened by severance costs and the expense }
+create-a-node-here really 2.207 3 {of upgrading its database software inventories.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 1 5001 satelite-embedded elaboration-object-attribute-e  5002
+nextSentence really
+nextSentence really
+create-a-node-here really 4.25 4 { \n\nThe software company said}
+create-a-node-here really 4.63 5 { revenue slid 28% to $53.9 million.}
+autolink_nodes 4 5 nucleus attribution  5003
+nextSentence really
+nextSentence really
+create-a-node-here really 5.41 6 {\nThis contrasts with the year-ago quarter,}
+create-a-node-here really 5.144 7 { when the company had net income of $11.7 million, or 45 cents a share, on revenue of $75.7 million.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 5003 5004 satelite comparison  5005
+autolink_nodes 5002 5005 satelite elaboration-additional  5006
+nextSentence really
+create-a-node-here really 7.79 8 { \n\nFor the nine months, Ashton-Tate had a loss of $27.6 million, or $1.05 a share.}
+nextSentence really
+create-a-node-here really 8.82 9 {\nIn the year-ago period, the company had profit of $34.3 million, or $1.32 a share.}
+nextSentence really
+autolink_nodes 8 9 satelite comparison  5007
+nextSentence really
+create-a-node-here really 9.89 10 {\nRevenue in the period slid almost 8% to $203.2 million from about $220 million last year.}
+nextSentence really
+autolink_nodes 5007 10 satelite elaboration-additional  5008
+autolink_nodes 5006 5008 satelite elaboration-additional  5009
+create-a-node-here really 11.117 11 { \n\nEdward M. Esber, chairman, president and chief executive officer, attributed the decline to reduced domestic revenue }
+#create-a-node-here really 11.150 12 {because of $4.9 million spent}
+#UNDID
+create-a-node-here really 11.144 12 {because of $4.9 million}
+create-a-node-here really 11.154 13 { spent}
+create-a-node-here really 11.235 14 { to upgrade existing software inventories to the new database IV Version 1.1,}
+create-a-node-here really 11.257 15 { and $1.8 million }
+create-a-node-here really 11.305 16 {spent on the recent reduction in work force.}
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 13 14 satelite purpose  5011
+autolink_nodes 12 5011 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 5010 5012 multinuclear Same-Unit  5013
+autolink_nodes 11 5013 satelite explanation-argumentative  5014
+create-a-node-here really 12.8 17 {\nHe said }
+create-a-node-here really 12.52 18 {the company was "encouraged by feedback"}
+create-a-node-here really 12.117 19 { it received from selected customers now testing Version 1.1.}
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 17 5015 nucleus attribution  5016
+autolink_nodes 5014 5016 satelite elaboration-additional  5017
+autolink_nodes 5009 5017 satelite elaboration-additional  5018
+create-a-node-here really 14.47 20 { \n\nThe red ink came as no surprise to Wall Street,}
+create-a-node-here really 14.70 21 { but analysts said }
+create-a-node-here really 14.206 22 {they saw ominous hints of a further delay in volume shipments of Version 1.1, a harbinger of continued losses in the fourth quarter.}
+nextSentence really
+autolink_nodes 21 22 nucleus attribution  5019
+autolink_nodes 20 5019 satelite elaboration-additional  5020
+create-a-node-here really 16.45 23 { \n\n"The loss is in line with our expectations," }
+create-a-node-here really 16.122 24 {said John C. Maxwell III, an analyst with Dillon, Read & Co. in New York.}
+nextSentence really
+autolink_nodes 23 24 satelite attribution  5021
+create-a-node-here really 17.8 25 {\nHe added}
+create-a-node-here really 17.181 26 { gross margins and operating profit "eroded quite dramatically" from the prior quarter, along with sales of existing software product lines like Multimate and Framework.}
+nextSentence really
+autolink_nodes 25 26 nucleus attribution  5022
+autolink_nodes 5021 5022 satelite elaboration-additional  5023
+autolink_nodes 5020 5023 satelite example  5024
+create-a-node-here really 19.61 27 { \n\n"The success of a new product in the database line is needed.}
+nextSentence really
+create-a-node-here really 20.3 28 {\nAnd}
+create-a-node-here really 20.59 29 { while the company hasn't made a definite statement,}
+create-a-node-here really 20.120 30 { it now looks like that's not going to be anytime soon," }
+create-a-node-here really 20.141 31 {Mr. Maxwell said.}
+nextSentence really
+autolink_nodes 28 29 satelite-embedded antithesis-e  5025
+autolink_nodes 30 5025 multinuclear Same-Unit  5026
+autolink_nodes 5026 31 satelite attribution  5027
+#autolink_nodes 27 5027 satelite elaboration-additional  5028
+#UNDID
+autolink_nodes 5027 27 satelite antithesis  5028
+create-a-node-here really 21.31 32 {\nThe company said in a statement}
+create-a-node-here really 21.104 33 { that it expects to ship new products "during the next two quarters."}
+autolink_nodes 32 33 nucleus attribution  5029
+autolink_nodes 5027 5029 satelite evidence below 5030
+create-a-node-here really 23.113 34 { \n\n"It now looks like database IV Version 1.1 isn't going to be {widely} available until the first quarter of 1990,"}
+create-a-node-here really 23.191 35 { said David Bayer, an analyst with Montgomery Securities in San Francisco.}
+nextSentence really
+autolink_nodes 34 35 satelite attribution  5031
+autolink_nodes 5029 5031 satelite elaboration-additional  5032
+change_rel 5031 interpretation-s
+#create-a-node-here really 23.262 36 { "This is the second delay now in getting the product out the door.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 23.226 36 { "This is the second delay now }
+create-a-node-here really 23.266 37 {in getting the product out the door.}
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5033
+create-a-node-here really 24.35 38 {\nIt does prolong the pain somewhat."}
+nextSentence really
+autolink_nodes 5033 38 satelite consequence-s  5034
+#autolink_nodes 5032 5034 satelite elaboration-additional  5035
+#UNDID
+autolink_nodes 5031 5034 satelite elaboration-additional  5035
+create-a-node-here really 26.17 39 { \n\nMr. Maxwell said }
+create-a-node-here really 26.101 40 {unless the company can start shipments of the new product sometime this quarter,}
+create-a-node-here really 26.182 41 { the fourth-quarter loss is likely to be "comparable to the third quarter's."}
+autolink_nodes 40 41 nucleus otherwise  5036
+autolink_nodes 39 5036 nucleus attribution  5037
+create-a-node-here really 26.240 42 { If the company can start to ship during this quarter,}
+create-a-node-here really 26.291 43 { it could stem some, if not all of the red ink,}
+create-a-node-here really 26.304 44 { he said.}
+nextSentence really
+autolink_nodes 42 43 nucleus condition  5038
+autolink_nodes 5038 44 satelite attribution  5039
+autolink_nodes 5039 5037 multinuclear Problem-Solution  5040
+autolink_nodes 5028 5040 satelite elaboration-additional  5041
+collapsed_nodes {5017}
+collapsed_nodes {5017 5008}
+autolink_nodes 5018 5024 satelite elaboration-additional  5042
+collapsed_nodes {5017 5008 5024}
+nextSentence really
+create-a-node-here really 28.97 45 { \n\nIn national over-the-counter trading, Ashton-Tate closed yesterday at $10 a share, up 62.5 cents.}
+nextSentence really
+autolink_nodes 5042 5041 satelite elaboration-additional  5043
+autolink_nodes 5043 45 satelite elaboration-additional  5044
+collapsed_nodes {5017 5024}
+collapsed_nodes {5024}
+collapsed_nodes {}

@@ -1,0 +1,54 @@
+nextSentence really
+create-a-node-here really 2.54 1 {\nWang Laboratories Inc. has sold $25 million of assets }
+create-a-node-here really 2.93 2 {and reached agreements in principle }
+autolink_nodes 1 2 multinuclear List  5001
+create-a-node-here really 2.140 3 {to sell an additional $187 million shortly, }
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 2.197 4 {Richard Miller, president, said at the annual meeting.}
+nextSentence really
+autolink_nodes 5001 4 satelite attribution  5003
+create-a-node-here really 4.8 5 { \n\nHe said }
+create-a-node-here really 4.71 6 {Wang had reached an agreement with a "major financial firm" }
+autolink_nodes 5 6 nucleus attribution  5004
+autolink_nodes 5003 5004 satelite elaboration-general-specific  5005
+create-a-node-here really 4.183 7 {to sell for $150 million its domestic equipment lease portfolio and that of its Wang Credit Corp. subsidiary.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e below 5006
+create-a-node-here really 5.8 8 {\nHe said }
+create-a-node-here really 5.93 9 {it also agreed to sell a portion of its European real estate unit for $37 million.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5007
+autolink_nodes 5004 5007 multinuclear List  5008
+create-a-node-here really 7.16 10 { \n\nMr. Miller said }
+create-a-node-here really 7.88 11 {that Wang has already sold some $12 million of miscellaneous assets }
+autolink_nodes 10 11 nucleus attribution  5009
+create-a-node-here really 7.106 12 {and disclosed }
+create-a-node-here really 7.246 13 {that it had received $13 million from Compaq Computer Corp., Houston, in the previously announced sale of its Stirling, Scotland, plant.}
+nextSentence really
+autolink_nodes 12 13 nucleus attribution  5010
+autolink_nodes 5009 5010 multinuclear List  5011
+autolink_nodes 5008 5011 multinuclear List above 5012
+create-a-node-here really 9.20 14 { \n\nMr. Miller repeated }
+create-a-node-here really 9.116 15 {that in the next six months he plans to sell another $200 million to $300 million of assets }
+autolink_nodes 14 15 nucleus attribution  5013
+collapsed_nodes {5005}
+autolink_nodes 5005 5013 satelite restatement  5014
+create-a-node-here really 9.134 16 {to repay debt }
+autolink_nodes 5013 16 satelite purpose  5015
+create-a-node-here really 9.211 17 {and reduce interest costs at Wang, a minincomputer maker in Lowell, Mass.}
+nextSentence really
+autolink_nodes 16 17 multinuclear List  5016
+create-a-node-here really 11.67 18 { \n\nIn response to questions after the annual meeting, Mr. Miller said }
+create-a-node-here really 11.127 19 {the company is no longer looking for an equity investor.}
+nextSentence really
+autolink_nodes 18 19 nucleus attribution  5017
+create-a-node-here really 12.44 20 {\nDuring the summer, Wang executives had said }
+create-a-node-here really 12.83 21 {they might seek outside investment.}
+nextSentence really
+autolink_nodes 20 21 nucleus attribution  5018
+autolink_nodes 5017 5018 satelite explanation-argumentative  5019
+autolink_nodes 5014 5019 satelite comment  5020
+collapsed_nodes {}
+collapsed_nodes {5020}
+nextSentence really
+collapsed_nodes {}

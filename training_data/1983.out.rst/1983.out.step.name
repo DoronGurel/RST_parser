@@ -1,0 +1,60 @@
+nextSentence really
+create-a-node-here really 2.134 1 {\nThe former president of FirstSouth F.A., a defunct Arkansas thrift, pleaded guilty to conspiring to inflate the institution's earnings}
+create-a-node-here really 2.178 2 { by concealing worthless loan guarantees.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded means-e  5001
+create-a-node-here really 4.21 3 { \n\nRoderick D. Reed III,}
+create-a-node-here really 4.76 4 { who was also chief operating officer of FirstSouth,}
+create-a-node-here really 4.165 5 { could receive a maximum sentence of five years in federal prison and a $250,000 fine.}
+nextSentence really
+#autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5002
+#UNDID
+autolink_nodes 3 4 satelite-embedded elaboration-additional-e  5002
+autolink_nodes 5 5002 multinuclear Same-Unit  5003
+create-a-node-here really 5.34 6 {\nA sentencing date hasn't been set.}
+autolink_nodes 5003 6 satelite elaboration-additional  5004
+autolink_nodes 5001 5004 satelite elaboration-additional  5005
+create-a-node-here really 7.18 7 { \n\nMr. Reed admitted }
+create-a-node-here really 7.57 8 {he conspired to conceal an agreement}
+create-a-node-here really 7.92 9 { not to enforce loan guarantees }
+create-a-node-here really 7.179 10 {executed by Dallas real-estate developers A. Starke Taylor III and George S. Watson,}
+create-a-node-here really 7.226 11 { both of whom were FirstSouth stockholders.}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 9 5006 satelite-embedded elaboration-object-attribute-e  5007
+change_rel 11 elaboration-additional-e
+autolink_nodes 8 5007 satelite-embedded elaboration-object-attribute-e  5008
+autolink_nodes 7 5008 nucleus attribution  5009
+autolink_nodes 5005 5009 satelite elaboration-additional  5010
+create-a-node-here really 8.77 12 {\nNeither Mr. Taylor nor Mr. Watson have been charged with criminal wrongdoing.}
+#autolink_nodes 5009 12 satelite elaboration-additional  5011
+#UNDID
+autolink_nodes 5006 12 satelite elaboration-additional  5011
+create-a-node-here really 10.44 13 { \n\nBy concealing the non-enforcement agreement,}
+create-a-node-here really 11.62 14 { certain transactions with Messrs.\nTaylor and Watson were entered on FirstSouth's books as loans,}
+create-a-node-here really 11.133 15 { allowing the thrift to report fees and interest as current income,}
+create-a-node-here really 11.198 16 { according to the U.S. attorney's office in Little Rock, Ark.}
+nextSentence really
+#autolink_nodes 14 13 satelite means  5012
+#UNDID
+autolink_nodes 14 13 satelite manner  5012
+autolink_nodes 5012 15 nucleus result  5013
+autolink_nodes 5013 16 satelite attribution  5014
+autolink_nodes 5009 5014 satelite elaboration-additional  5015
+create-a-node-here really 13.49 17 { \n\nThe conspiracy was part of an effort by Mr. Reed }
+create-a-node-here really 13.124 18 {to hide FirstSouth's shaky financial condition from federal regulators,}
+create-a-node-here really 13.177 19 { according to federal prosecutors and regulators.}
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 5016 19 satelite attribution  5017
+create-a-node-here really 14.76 20 {\nThe $1.68 billion thrift was declared insolvent and closed in December 1986.}
+nextSentence really
+autolink_nodes 5017 20 satelite elaboration-additional  5018
+autolink_nodes 5010 5018 satelite elaboration-additional  5019
+collapsed_nodes {5015}
+create-a-node-here really 17.18 21 { \n\nFirstSouth's former chairman and chief executive officer, Howard Weichern, is also charged with conspiring to conceal the agreements with Messrs.\nWatson and Taylor.}
+nextSentence really
+create-a-node-here really 18.96 22 {\nMr. Weichern is scheduled for trial Jan. 3 before federal Judge Stephen Reasoner of Little Rock.}
+nextSentence really
+autolink_nodes 21 22 satelite elaboration-additional  5020
+autolink_nodes 5019 5020 satelite elaboration-additional  5021
+collapsed_nodes {}

@@ -1,0 +1,77 @@
+nextSentence really
+create-a-node-here really 2.21 1 {\nA.H. Belo Corp. said }
+create-a-node-here really 2.179 2 {its net income was $3.1 million, or 15 cents a share, in the third quarter, more than four times its profit of $663,000, or three cents a share, last year.}
+nextSentence really
+create-a-node-here really 4.81 3 { \n\nIncluded in the results was an adjustment to the Dallas-based company's tax rate }
+create-a-node-here really 4.163 4 {that reduced net income by about 10 cents a share, or approximately $2 million.}
+nextSentence really
+create-a-node-here really 5.10 5 {\nBelo said }
+create-a-node-here really 5.65 6 {it increased its effective tax rate to 52% from 47% }
+create-a-node-here really 5.105 7 {to account for potential liabilities }
+create-a-node-here really 5.212 8 {related to an Internal Revenue Service investigation of its tax returns for the years 1984 through 1988.}
+nextSentence really
+create-a-node-here really 7.40 9 { \n\nThe newspaper and television owner said }
+create-a-node-here really 7.159 10 {it expects the tax adjustment to reduce its net income for the full year by 14 cents, or approximately $2.8 million }
+#create-a-node-here really 7.179 11 {based on its 20.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 7.208 11 {based on its 20.2 million shares outstanding.}
+nextSentence really
+create-a-node-here really 9.33 12 { \n\nFor the third quarter, Belo said }
+showText really
+create-a-node-here really 9.112 13 {its revenue increased 11%, to $101.5 million from $91.2 million last year. }
+create-a-node-here really 12.0 14 {\n\nFor the nine months, the company had net income of $15.1 million, or 74 cents a share, up 98% from $7.6 million, or 38 cents a share last year.\n}
+create-a-node-here really 12.76 15 {Revenue grew almost 8% to $301.9 million from $279.8 million last year. }
+autolink_nodes 2 1 satelite attribution  5001
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 6 7 satelite-embedded purpose-e  5003
+autolink_nodes 5003 5 satelite attribution  5004
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5005
+#autolink_nodes 10 11 satelite-embedded circumstance-e  5006
+#UNDID
+autolink_nodes 10 11 satelite-embedded circumstance-e  5006
+autolink_nodes 5006 9 satelite attribution  5007
+autolink_nodes 13 12 satelite attribution  5008
+#autolink_nodes 5004 5002 satelite elaboration-general-specific  5009
+#collapsed_nodes {5005}
+#UNDID
+autolink_nodes 5004 5002 nucleus elaboration-general-specific  5009
+collapsed_nodes {5004}
+collapsed_nodes {}
+autolink_nodes 5009 5007 satelite consequence-s  5010
+collapsed_nodes {5007}
+collapsed_nodes {5007 5004}
+autolink_nodes 14 5008 multinuclear List  5011
+autolink_nodes 5011 15 satelite comparison  5012
+autolink_nodes 5001 5010 satelite elaboration-additional  5013
+autolink_nodes 5013 5012 satelite elaboration-additional  5014
+collapsed_nodes {5007 5004 5012}
+collapsed_nodes {5007 5012}
+disconnect_node 5004 disconnect
+#autolink_nodes 5002 5004 satelite cause below 5015
+#UNDID
+autolink_nodes 5002 5004 satelite result below 5015
+collapsed_nodes {5012}
+disconnect_node 5007 disconnect
+collapsed_nodes {}
+disconnect_node 5012 disconnect
+disconnect_node 5015 disconnect
+autolink_nodes 5015 5007 satelite consequence-s  5016
+collapsed_nodes {5004}
+collapsed_nodes {5004 5007}
+disconnect_node 15 disconnect
+autolink_nodes 5011 15 satelite comparison  5017
+disconnect_node 15 disconnect
+autolink_nodes 5011 15 multinuclear List below 5017
+autolink_nodes 5016 5001 multinuclear List  5018
+disconnect_node 15 disconnect
+autolink_nodes 5011 15 satelite consequence-s  5019
+disconnect_node 5016 disconnect
+#autolink_nodes 5019 5016 multinuclear List  5020
+#autolink_nodes 5020 5001 nucleus summary-n  5021
+#UNDID
+#UNDID
+autolink_nodes 5001 5016 satelite elaboration-additional  5020
+autolink_nodes 5020 5019 satelite elaboration-general-specific  5021
+collapsed_nodes {}

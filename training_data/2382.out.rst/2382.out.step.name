@@ -1,0 +1,61 @@
+nextSentence really
+create-a-node-here really 2.56 1 {\nFood and Drug Administration spokesman Jeff Nesbit said }
+create-a-node-here really 2.123 2 {the agency has turned over evidence in a criminal investigation }
+create-a-node-here really 2.166 3 {concerning Vitarine Pharmaceuticals Inc.}
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.213 4 { to the U.S. Attorney's office in Baltimore.}
+nextSentence really
+autolink_nodes 5001 4 multinuclear Same-Unit  5002
+autolink_nodes 1 5002 nucleus attribution  5003
+create-a-node-here really 4.126 5 { \n\nNeither Vitarine nor any of the Springfield Gardens, N.Y., company's officials or employees have been charged with any crimes.}
+nextSentence really
+autolink_nodes 5003 5 satelite elaboration-additional  5004
+create-a-node-here really 5.22 6 {\nVitarine won approval }
+create-a-node-here really 5.74 7 {to market a version of a blood pressure medicine }
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 5.94 8 {but acknowledged }
+create-a-node-here really 5.170 9 {that it substituted a SmithKline Beecham PLC product as its own in tests.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5006
+autolink_nodes 5005 5006 nucleus concession  5007
+autolink_nodes 5004 5007 satelite elaboration-general-specific  5008
+create-a-node-here really 7.21 10 { \n\nMr. Nesbit also said }
+create-a-node-here really 7.127 11 {the FDA has asked Bolar Pharmaceutical Co. to recall at the retail level its urinary tract antibiotic.}
+nextSentence really
+autolink_nodes 10 11 nucleus attribution  5009
+create-a-node-here really 8.58 12 {\nBut so far the company hasn't complied with that request, }
+create-a-node-here really 8.81 13 {the spokesman said.}
+nextSentence really
+autolink_nodes 12 13 satelite attribution  5010
+autolink_nodes 5009 5010 multinuclear Contrast  5011
+autolink_nodes 5008 5011 multinuclear Topic-Drift  5012
+create-a-node-here really 10.259 14 { \n\nBolar, the subject of a criminal investigation by the FDA and the Inspector General's office of the Health and Human Services Department, only agreed to recall two strengths of its version of Macrodantin "as far down as direct customers, mostly wholesalers," }
+create-a-node-here really 10.279 15 {Mr. Nesbit said.}
+nextSentence really
+autolink_nodes 14 15 satelite attribution  5013
+autolink_nodes 5010 5013 nucleus concession  5014
+create-a-node-here really 12.123 16 { \n\nBolar, of Copiague, N.Y., earlier began a voluntary recall of both its 100 milligram and 50 milligram versions of the drug.}
+nextSentence really
+autolink_nodes 5013 16 satelite elaboration-general-specific below 5015
+create-a-node-here really 14.17 17 { \n\nThe FDA has said }
+create-a-node-here really 14.43 18 {it presented evidence }
+create-a-node-here really 14.60 19 {it uncovered }
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5016
+create-a-node-here really 14.79 20 {to the company }
+autolink_nodes 5016 20 multinuclear Same-Unit  5017
+autolink_nodes 17 5017 nucleus attribution  5018
+create-a-node-here really 14.94 21 {indicating }
+create-a-node-here really 14.156 22 {that Bolar substituted the brand-name product for its own }
+autolink_nodes 21 22 nucleus attribution  5019
+create-a-node-here really 14.187 23 {to gain government approval}
+autolink_nodes 22 23 satelite purpose below 5020
+create-a-node-here really 14.232 24 { to sell generic versions of Macrodantin.}
+nextSentence really
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5021
+autolink_nodes 5017 5019 satelite-embedded elaboration-general-specific-e below 5022
+create-a-node-here really 15.17 25 {\nBolar has denied }
+create-a-node-here really 15.89 26 {that it switched the brand-name product for its own in such testing.}
+nextSentence really
+autolink_nodes 25 26 nucleus attribution-n  5023
+autolink_nodes 5018 5023 multinuclear Statement-Response  5024
+autolink_nodes 5011 5024 satelite elaboration-additional  5025

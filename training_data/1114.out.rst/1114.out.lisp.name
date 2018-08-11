@@ -1,0 +1,4 @@
+( Root (span 1 2) (prom 1)
+   ( Nucleus (leaf 1) (rel2par span) (prom 1) (text  Richard W. Lock, retired vice president and treasurer of Owens-Illinois Inc., was named a director of this transportation industry supplier, ) )
+   ( Satellite (leaf 2) (rel2par consequence-s) (prom 2) (text increasing its board to six members.) )
+)

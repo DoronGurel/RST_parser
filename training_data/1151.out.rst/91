@@ -1,0 +1,450 @@
+1
+ The stock market's woes spooked currency traders
+5001
+Contrast
+
+2
+ but prompted a quiet little party among bond investors.
+5001
+Contrast
+
+3
+ Prices of long-term Treasury bonds moved inversely to the stock market 
+5003
+Temporal-Same-Time
+
+4
+as investors sought safety amid growing evidence 
+5004
+span
+
+5
+the economy is weakening.
+4
+elaboration-object-attribute-e
+
+6
+ But the shaky economic outlook and the volatile stock market forced the dollar lower against major currencies.
+5005
+Contrast
+
+7
+ The bond market got an early boost from the opening-hour sell-off in stocks.
+5007
+span
+
+8
+ That rout was triggered by UAL Corp. 's announcement late Monday
+9
+attribution
+
+9
+ that the proposed management-labor buy-out had collapsed.
+5008
+span
+
+10
+ The 80-point decline in the Dow Jones Industrial Average during the morning trading session touched off a flight to safety 
+5010
+span
+
+11
+that saw investors shifting assets from stocks to Treasury bonds.
+10
+elaboration-additional-e
+
+12
+ At its strongest, the Treasury's benchmark 30-year bond rose more than a point, or more than $10 for each $1,000 face amount.
+5009
+elaboration-additional
+
+13
+ As the stock market recovered some of its losses later in the day, 
+14
+circumstance
+
+14
+bond prices retreated.
+5013
+span
+
+15
+ But analysts said 
+16
+attribution
+
+16
+the combination of a second consecutive decline in monthly durable-goods orders and lackluster mid-October auto sales helped prop up the Treasury market.
+5015
+span
+
+17
+ A slowing economy and the implication of lower inflation and interest rates tend to bolster bond prices.
+5015
+interpretation-s
+
+18
+ On the surface, the decline in September durable goods 
+5018
+span
+
+19
+-- only 0.1% -- 
+18
+elaboration-additional-e
+
+20
+didn't appear very weak. 
+5019
+Same-Unit
+
+21
+But orders for non-defense capital goods, a precursor of future plant and equipment spending, were off 5.6%
+5021
+span
+
+22
+ after falling 10.3% in August.
+21
+circumstance
+
+23
+ Auto makers reported 
+5024
+attribution
+
+24
+that mid-October sales were running at an annual rate of about 5.8 million units, far less than the 6.6 million units
+5024
+span
+
+25
+ analysts had expected.
+24
+elaboration-object-attribute-e
+
+26
+ Taken together, 
+5027
+circumstance
+
+27
+the auto-sales and durable-goods reports confirmed perceptions
+5027
+span
+
+28
+ that the economy is bogging down.
+27
+elaboration-object-attribute-e
+
+29
+ Although analysts don't expect the Federal Reserve to ease credit policy soon,
+5030
+concession
+
+30
+ reports like those yesterday help build the case for lower rates.
+31
+explanation-argumentative
+
+31
+ Now bond investors are looking toward next week's report from national purchasing managers and the government's October employment report as potentially prompting the Fed to lower rates.
+5030
+span
+
+32
+ The stock market's precipitous drop frightened foreign investors,
+5031
+span
+
+33
+ who quickly bid the dollar lower.
+32
+elaboration-additional-e
+
+34
+ But as stock prices recovered some of the early losses,
+5033
+Comparison
+
+35
+ so did the U.S. currency.
+5033
+Comparison
+
+36
+ Although dealers said
+5037
+attribution
+
+37
+ investors are becoming more bearish toward the dollar in the wake of the stock market's recent troubles 
+5036
+span
+
+38
+and as the U.S. economy weakens,
+37
+circumstance-e
+
+39
+ the dollar ended down only modestly.
+5037
+span
+
+40
+ In major market activity: 
+5039
+span
+
+41
+ Bond prices rose.
+5040
+span
+
+42
+ The Treasury's benchmark 30-year bond gained nearly half a point, or about $5 for each $1,000 face amount.
+5041
+span
+
+43
+ The yield on the issue slipped to 7.89%.
+42
+elaboration-additional
+
+44
+ The dollar retreated.
+5043
+span
+
+45
+ In late New York trading the currency was quoted at 1.8355 marks and 141.45 yen,
+5044
+Comparison
+
+46
+ compared with 1.8470 marks and 141.90 yen Monday.
+5044
+Comparison
+
+5001
+multinuc
+5005
+evaluation-s
+
+5002
+span
+5006
+span
+
+5003
+multinuc
+5005
+Contrast
+
+5004
+span
+5003
+Temporal-Same-Time
+
+5005
+multinuc
+5002
+span
+
+5006
+span
+5028
+Topic-Drift
+
+5007
+span
+5009
+List
+
+5008
+span
+7
+circumstance
+
+5009
+multinuc
+5011
+span
+
+5010
+span
+5009
+List
+
+5011
+span
+5012
+Sequence
+
+5012
+multinuc
+5002
+circumstance
+
+5013
+span
+5014
+Contrast
+
+5014
+multinuc
+5017
+span
+
+5015
+span
+5016
+span
+
+5016
+span
+5014
+Contrast
+
+5017
+span
+5012
+Sequence
+
+5018
+span
+5019
+Same-Unit
+
+5019
+multinuc
+5021
+concession
+
+5020
+span
+5022
+span
+
+5021
+span
+5020
+span
+
+5022
+span
+5025
+span
+
+5023
+span
+5020
+elaboration-additional
+
+5024
+span
+5023
+span
+
+5025
+span
+5014
+explanation-argumentative
+
+5026
+span
+5022
+elaboration-additional
+
+5027
+span
+5026
+span
+
+5028
+multinuc
+
+
+
+5029
+span
+5028
+Topic-Drift
+
+5030
+span
+5029
+span
+
+5031
+span
+5033
+concession
+
+5032
+span
+5034
+span
+
+5033
+multinuc
+5032
+span
+
+5034
+span
+5028
+Topic-Drift
+
+5035
+span
+5038
+span
+
+5036
+span
+39
+concession
+
+5037
+span
+5035
+span
+
+5038
+span
+5032
+elaboration-additional
+
+5039
+span
+5035
+explanation-argumentative
+
+5040
+span
+5042
+List
+
+5041
+span
+41
+explanation-argumentative
+
+5042
+multinuc
+40
+example
+
+5043
+span
+5042
+List
+
+5044
+multinuc
+44
+explanation-argumentative
+

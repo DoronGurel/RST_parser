@@ -1,0 +1,208 @@
+nextSentence really
+create-a-node-here really 2.60 1 {\nNew orders for durable goods fell back slightly in September}
+create-a-node-here really 2.99 2 { after shooting up the month before,}
+create-a-node-here really 2.180 3 { reflecting weakening auto demand after a spurt of orders for new 1990 models,}
+create-a-node-here really 2.217 4 { the Commerce Department reported.}
+nextSentence really
+autolink_nodes 1 2 multinuclear Inverted-Sequence  5001
+autolink_nodes 5001 3 satelite interpretation-s  5002
+autolink_nodes 5002 4 satelite attribution  5003
+create-a-node-here really 4.79 5 { \n\nOrders for military equipment, household appliances, machinery and other goods }
+create-a-node-here really 4.119 6 {expected to last at least three years}
+nextSentence really
+create-a-node-here really 4.166 7 { dipped 0.1% last month, to $126.68 billion,}
+create-a-node-here really 4.200 8 { after leaping 3.9% in August, }
+create-a-node-here really 4.223 9 {the department said.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 5004 7 multinuclear Same-Unit  5005
+#autolink_nodes 5005 8 satelite temporal-after  5006
+#UNDID
+autolink_nodes 5005 8 satelite temporal-before  5006
+autolink_nodes 5006 9 satelite attribution  5007
+create-a-node-here really 7.0 10 { \n\nMost analysts had expected a sharper decline after the steep rise in August.\n}
+create-a-node-here really 7.40 11 {Moreover, a recent government report}
+create-a-node-here really 7.89 12 { showing widespread layoffs in manufacturing }
+create-a-node-here really 7.124 13 {had contributed to perceptions }
+create-a-node-here really 7.195 14 {that the manufacturing sector of the economy had slowed to a crawl.}
+nextSentence really
+create-a-node-here really 9.108 15 { \n\nBut many economists pointed to a 1.8% September rise in orders outside the volatile transportation category.}
+nextSentence really
+autolink_nodes 5007 10 satelite antithesis  5008
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 5009 13 multinuclear Same-Unit  5010
+autolink_nodes 13 14 satelite elaboration-object-attribute  5011
+create-a-node-here really 10.15 16 {\nThat "suggests }
+create-a-node-here really 10.67 17 {the manufacturing sector is not falling apart," }
+create-a-node-here really 10.159 18 {said Sally Kleinman, an economist at Manufacturers Hanover Securities Corp. in New York.}
+create-a-node-here really 11.20 19 {\nShe added, however: }
+create-a-node-here really 11.56 20 {"It is not robust by any means."}
+nextSentence really
+autolink_nodes 5010 15 multinuclear Contrast above 5012
+autolink_nodes 16 17 nucleus interpretation-n  5013
+autolink_nodes 5013 18 satelite attribution  5014
+autolink_nodes 19 20 nucleus attribution  5015
+autolink_nodes 5014 5015 satelite elaboration-additional  5016
+autolink_nodes 5012 5016 satelite elaboration-additional  5017
+create-a-node-here really 13.87 21 { \n\nWhile a decline in orders for cars and civilian airplanes pulled down the orders total,}
+create-a-node-here really 13.162 22 { an enormous jump in orders for heavy military equipment propped it up.}
+nextSentence really
+create-a-node-here really 14.49 23 {\nOrders for capital defense goods skyrocketed 56%,}
+create-a-node-here really 14.84 24 { and a government analyst said }
+create-a-node-here really 14.120 25 {nearly all areas saw increases, }
+create-a-node-here really 14.197 26 {including airplanes, missiles, ships, tanks and communications equipment.}
+nextSentence really
+#autolink_nodes 21 22 nucleus consequence-s  5018
+#UNDID
+#autolink_nodes 21 22 multinuclear Cause-Result  5018
+#UNDID
+#autolink_nodes 21 22 nucleus result  5018
+#UNDID
+autolink_nodes 21 22 multinuclear Contrast  5018
+autolink_nodes 22 23 satelite elaboration-additional  5019
+autolink_nodes 24 25 nucleus attribution  5020
+autolink_nodes 25 26 satelite elaboration-additional below 5021
+autolink_nodes 5018 5020 satelite elaboration-additional  5022
+#autolink_nodes 5016 5022 satelite elaboration-additional  5023
+#UNDID
+autolink_nodes 5016 5022 satelite elaboration-additional  5023
+create-a-node-here really 16.56 27 { \n\nOrders for military goods usually catapult in September,}
+create-a-node-here really 16.86 28 { government officials say,}
+create-a-node-here really 16.136 29 { as the Pentagon scrambles to spend its money }
+create-a-node-here really 17.0 30 {before the new fiscal year begins Oct. 1.\n}
+create-a-node-here really 17.95 31 {While all the numbers in the durable goods report were adjusted for seasonal fluctuations, }
+create-a-node-here really 17.133 32 {a Commerce Department analyst said}
+create-a-node-here really 17.234 33 { that the adjustment probably didn't factor out all of the wide-ranging surge in defense orders. }
+autolink_nodes 27 28 satelite attribution  5024
+autolink_nodes 5024 29 multinuclear Temporal-Same-Time  5025
+#autolink_nodes 5025 30 satelite temporal-after  5026
+#UNDID
+autolink_nodes 5025 30 satelite temporal-before  5026
+autolink_nodes 32 33 nucleus attribution  5027
+autolink_nodes 31 5027 nucleus interpretation-n  5028
+autolink_nodes 5022 5026 satelite elaboration-additional  5029
+autolink_nodes 5026 5028 satelite elaboration-additional  5030
+create-a-node-here really 19.42 34 {\n\nWithout the increase in defense bookings, }
+create-a-node-here really 19.89 35 {September orders would have plummeted 3.9%.}
+nextSentence really
+autolink_nodes 34 35 nucleus condition  5031
+create-a-node-here really 21.41 36 { \n\nAnalysts were most unsettled by evidence }
+create-a-node-here really 21.92 37 {the backlog of orders at factories is slipping.}
+nextSentence really
+nextSentence really
+create-a-node-here really 22.77 38 {\nUnfilled orders for durable goods rose 0.4% in September, to $476.14 billion,}
+create-a-node-here really 22.142 39 { after declining for the first time in 2 1/2 years in August.}
+nextSentence really
+create-a-node-here really 23.32 40 {\nIn July unfilled orders grew 1%.}
+nextSentence really
+create-a-node-here really 24.19 41 {\nBut analysts noted }
+create-a-node-here really 24.28 42 {that }
+create-a-node-here really 24.57 43 {excluding transportation-}
+create-a-node-here really 24.144 44 {where what they believe was a temporary surge in auto demand pushed up the figures-}
+create-a-node-here really 24.203 45 {order backlogs have declined for three months in a row.}
+nextSentence really
+autolink_nodes 36 37 satelite elaboration-object-attribute  5032
+autolink_nodes 38 39 satelite temporal-after  5033
+autolink_nodes 5031 5032 satelite explanation-argumentative  5034
+autolink_nodes 5034 5033 satelite elaboration-additional  5035
+#autolink_nodes 5035 40 satelite circumstance  5036
+#autolink_nodes 41 42 nucleus attribution  5037
+#autolink_nodes 43 44 satelite comment  5038
+#UNDID
+#autolink_nodes 43 44 nucleus-embedded elaboration-object-attribute-e  5038
+#autolink_nodes 5037 45 multinuclear Same-Unit  5039
+#UNDID
+#UNDID
+#autolink_nodes 42 45 multinuclear Same-Unit  5038
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5035 40 satelite circumstance  5036
+autolink_nodes 43 44 satelite elaboration-additional  5037
+autolink_nodes 5037 45 nucleus example  5038
+autolink_nodes 42 5038 multinuclear Same-Unit  5039
+autolink_nodes 41 5039 nucleus attribution  5040
+autolink_nodes 40 5040 multinuclear Contrast  5041
+collapsed_nodes {5030}
+autolink_nodes 5029 5036 satelite elaboration-additional  5042
+create-a-node-here really 26.38 46 { \n\n"It means we're eating into the bread }
+create-a-node-here really 27.0 47 {that keeps us going.\n}
+create-a-node-here really 27.34 48 {That is a little disturbing," }
+create-a-node-here really 27.56 49 {Ms. Kleinman said.}
+nextSentence really
+create-a-node-here really 27.76 50 { "It also means }
+create-a-node-here really 27.118 51 {if you have a real drop-off in orders,}
+create-a-node-here really 27.168 52 { production will likely fall off very quickly }
+create-a-node-here really 27.194 53 {because there is less }
+create-a-node-here really 27.220 54 {to keep things going."}
+nextSentence really
+autolink_nodes 46 47 satelite elaboration-object-attribute  5043
+autolink_nodes 48 49 satelite attribution  5044
+autolink_nodes 5043 5044 satelite elaboration-additional  5045
+autolink_nodes 51 52 nucleus condition  5046
+autolink_nodes 50 5046 multinuclear Same-Unit  5047
+autolink_nodes 53 54 satelite elaboration-additional  5048
+#autolink_nodes 5047 5048 satelite comment  5049
+#UNDID
+change_rel 5044 comment
+#autolink_nodes 5045 5047 multinuclear Evaluation  5049
+#UNDID
+autolink_nodes 5045 5047 multinuclear Evaluation  5049
+autolink_nodes 5046 5048 satelite consequence-s  5050
+autolink_nodes 5041 5049 satelite elaboration-additional  5051
+create-a-node-here really 29.90 55 { \n\nCapital goods orders outside of the defense sector tumbled for the second month in a row, }
+create-a-node-here really 29.136 56 {posting a 5.6% drop after a 10.3% decline.}
+nextSentence really
+create-a-node-here really 30.31 57 {\nSuch steep drops in a category }
+create-a-node-here really 30.77 58 {seen as a barometer of business investment}
+create-a-node-here really 30.130 59 { would customarily be grave news for the economy.}
+nextSentence really
+create-a-node-here really 31.39 60 {\nBut a Commerce Department analyst said }
+create-a-node-here really 31.87 61 {that in both months orders would have risen }
+create-a-node-here really 31.160 62 {had it not been for a drop in civilian aircraft bookings, a category }
+create-a-node-here really 31.231 63 {that is showing declines only after a huge surge earlier this year.}
+nextSentence really
+create-a-node-here really 33.94 64 { \n\nStill, Milton Hudson, senior economic adviser at Morgan Guaranty Trust Co. in New York, said: }
+create-a-node-here really 33.134 65 {"If you look back a half-year or so }
+create-a-node-here really 33.219 66 {the evidence was pretty good of affirmative strength in the capital-goods sector.}
+nextSentence really
+create-a-node-here really 34.49 67 {\nNow at least there are question marks about that,}
+create-a-node-here really 34.110 68 { and without any question the pace of growth has slowed."}
+nextSentence really
+#autolink_nodes 55 56 satelite consequence-n  5052
+#UNDID
+#autolink_nodes 55 56 satelite result  5052
+#UNDID
+autolink_nodes 55 56 satelite cause  5052
+#autolink_nodes 57 58 nucleus-embedded comparison-e  5053
+#UNDID
+autolink_nodes 57 58 satelite-embedded elaboration-object-attribute-e  5053
+autolink_nodes 5053 59 multinuclear Same-Unit  5054
+autolink_nodes 5052 5054 satelite comment  5055
+autolink_nodes 60 61 nucleus attribution  5056
+autolink_nodes 61 62 multinuclear Contrast  5057
+autolink_nodes 62 63 satelite elaboration-object-attribute  5058
+autolink_nodes 5055 5056 satelite concession  5059
+autolink_nodes 64 65 nucleus attribution  5060
+autolink_nodes 65 66 nucleus condition  5061
+autolink_nodes 66 67 satelite elaboration-additional below 5062
+autolink_nodes 67 68 multinuclear List  5063
+autolink_nodes 5056 5060 satelite concession  5064
+autolink_nodes 5049 5059 satelite elaboration-additional  5065
+autolink_nodes 5003 5008 satelite elaboration-additional  5066
+autolink_nodes 5008 5017 satelite elaboration-additional  5067
+collapsed_nodes {5030 5066}
+collapsed_nodes {}
+change_rel 26 example
+disconnect_node 47 disconnect
+autolink_nodes 46 47 satelite elaboration-object-attribute below 5068
+disconnect_node 47 disconnect
+autolink_nodes 46 47 satelite-embedded elaboration-object-attribute-e below 5069
+disconnect_node 56 disconnect
+autolink_nodes 55 56 satelite result below 5070
+disconnect_node 63 disconnect
+autolink_nodes 62 63 satelite elaboration-object-attribute  5071
+disconnect_node 63 disconnect
+autolink_nodes 62 63 satelite-embedded elaboration-object-attribute-e  5072
+collapsed_nodes {5066}
+collapsed_nodes {}

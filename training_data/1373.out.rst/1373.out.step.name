@@ -1,0 +1,319 @@
+nextSentence really
+create-a-node-here really 4.21 1 {\nChip's Memory Is Here \n\nToday, Here Tomorrow }
+create-a-node-here really 6.62 2 {\n\nTWO COMPANIES plan to market a new chip with ceramic circuits }
+autolink_nodes 1 1 schema Title  5000
+create-a-node-here really 6.81 3 {that store data }
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 6.111 4 {even when the power is off.}
+nextSentence really
+autolink_nodes 3 4 satelite concession  5002
+create-a-node-here really 8.69 5 { \n\nToday's most widely used data-storing chips have "volatile" memories }
+create-a-node-here really 8.96 6 {-- their data disappear }
+create-a-node-here really 8.147 7 {if they aren't fed a steady diet of electricity,}
+autolink_nodes 6 7 satelite condition  5003
+create-a-node-here really 8.188 8 { so they need external power supplies.}
+nextSentence really
+autolink_nodes 5 5003 satelite restatement  5004
+#autolink_nodes 5004 5004 multinuclear Consequence  5005
+#UNDID
+autolink_nodes 5004 8 satelite consequence-s  5005
+create-a-node-here really 10.44 9 { \n\nNational Semiconductor Corp. and a start-up }
+create-a-node-here really 10.66 10 {named Ramtron Corp.}
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 10.128 11 { plan to start shipping so-called ferroelectric memories, }
+autolink_nodes 5006 11 multinuclear Same-Unit  5007
+create-a-node-here really 10.178 12 {which can remember data for at least 10 years }
+create-a-node-here really 10.218 13 {without any current flowing to them.}
+autolink_nodes 12 13 satelite manner  5008
+autolink_nodes 11 5008 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 5001 5005 satelite explanation-argumentative  5010
+autolink_nodes 5010 5007 satelite elaboration-general-specific  5011
+create-a-node-here really 11.58 14 {\nThe chips use materials, such as lead zirconate titanate, }
+create-a-node-here really 11.91 15 {to form microscopic switches }
+autolink_nodes 14 15 satelite purpose  5012
+create-a-node-here really 11.118 16 {that retain their data }
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5013
+create-a-node-here really 11.142 17 {without electricity.}
+nextSentence really
+autolink_nodes 16 17 satelite circumstance  5014
+disconnect_node 13 modify
+autolink_nodes 12 13 satelite circumstance  5015
+autolink_nodes 5007 5012 satelite enablement  5016
+create-a-node-here really 13.19 18 { \n\nDevelopers caution }
+create-a-node-here really 13.70 19 {that broad applications are several years away }
+autolink_nodes 18 19 nucleus attribution  5017
+create-a-node-here really 13.117 20 {because the technology isn't fully refined.}
+nextSentence really
+autolink_nodes 19 20 satelite explanation-argumentative below 5018
+nextSentence really
+create-a-node-here really 14.128 21 {\nBut Ramtron of Colorado Springs, Colo., plans to start shipping commercial quantities of simple ferroelectric chips in December.}
+nextSentence really
+autolink_nodes 5017 21 multinuclear Contrast  5019
+create-a-node-here really 15.63 22 {\nThe company expects the chips eventually to be used in devices }
+create-a-node-here really 15.122 23 {that mimic a whole range of computer memory equipment, }
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5020
+create-a-node-here really 15.169 24 {including floppy-disk and hard-disk drives.}
+nextSentence really
+autolink_nodes 23 24 satelite example  5021
+autolink_nodes 21 5020 satelite hypothetical  5022
+create-a-node-here really 17.100 25 { \n\nNational Semiconductor is getting ferroelectric technology from Krysalis Corp. in Albuquerque, N.M. }
+autolink_nodes 5022 25 multinuclear List  5023
+create-a-node-here really 17.118 26 {National says }
+create-a-node-here really 17.161 27 {it agreed to acquire Krysalis's assets }
+autolink_nodes 26 27 nucleus attribution  5024
+create-a-node-here really 17.231 28 {and will start shipping commercial quantities of its first chips, }
+autolink_nodes 27 28 multinuclear Sequence  5025
+create-a-node-here really 17.265 29 {including a 4-kilobit memory, }
+autolink_nodes 28 29 satelite-embedded elaboration-set-member-e  5026
+create-a-node-here really 17.279 30 {next year.}
+nextSentence really
+autolink_nodes 5026 30 multinuclear Same-Unit  5027
+autolink_nodes 25 5024 satelite elaboration-additional  5028
+create-a-node-here really 19.38 31 { \n\nOnce production hurdles are overcome, }
+create-a-node-here really 19.101 32 {the chips could take over a significant part of the market.}
+nextSentence really
+autolink_nodes 31 32 nucleus circumstance  5029
+autolink_nodes 5023 5029 satelite hypothetical  5030
+create-a-node-here really 20.52 33 {\nIn addition to not needing an outside power source, }
+create-a-node-here really 20.93 34 {they are potentially cheaper to make }
+create-a-node-here really 20.168 35 {because they require fewer manufacturing steps than conventional chips.}
+nextSentence really
+autolink_nodes 34 35 satelite explanation-argumentative  5031
+autolink_nodes 33 5031 nucleus elaboration-additional  5032
+autolink_nodes 5029 5032 satelite explanation-argumentative  5033
+create-a-node-here really 22.37 36 { \n\nMilitary buyers have shown interest, }
+create-a-node-here really 22.56 37 {National says, }
+autolink_nodes 36 37 satelite attribution  5034
+create-a-node-here really 22.112 38 {because ferroelectric chips resist atomic radiation.}
+nextSentence really
+autolink_nodes 5034 38 multinuclear Consequence  5035
+autolink_nodes 5011 5019 multinuclear Topic-Drift  5036
+create-a-node-here really 23.4 39 {\nAnd }
+create-a-node-here really 23.41 40 {while today's non-volatile chips }
+create-a-node-here really 23.119 41 {-- such as electronically erasable programmable read-only memory chips -- }
+autolink_nodes 40 41 satelite-embedded example-e  5037
+create-a-node-here really 23.168 42 {can't be used in a computer's central memory }
+#create-a-node-here really 23.206 43 {because they "learn" data slowly, }
+#UNDID
+autolink_nodes 5037 42 multinuclear Same-Unit  5038
+create-a-node-here really 23.206 43 {because they "learn" data slowly, }
+autolink_nodes 5038 43 satelite explanation-argumentative  5039
+create-a-node-here really 23.263 44 {ferroelectric chips accept data at very high speeds. }
+autolink_nodes 5039 44 nucleus-embedded concession-e  5040
+autolink_nodes 39 5040 multinuclear Same-Unit  5041
+autolink_nodes 5035 5041 satelite elaboration-additional  5042
+autolink_nodes 5033 5042 satelite elaboration-additional  5043
+autolink_nodes 5036 5036 schema Text  5043
+autolink_nodes 1 5036 multinuclear TextualOrganization  5044
+create-a-node-here really 25.20 45 {\n\nShowing Up in Court }
+create-a-node-here really 27.20 46 {\n\nWithout Being There }
+autolink_nodes 45 46 multinuclear Contrast  5045
+autolink_nodes 5045 5045 schema Title  5045
+create-a-node-here really 29.95 47 {\n\nAN AUSTIN, Texas, company plans to make it easy for you show up in court a thousand miles away }
+create-a-node-here really 29.120 48 {without leaving town.}
+nextSentence really
+autolink_nodes 47 48 satelite concession  5046
+create-a-node-here really 31.43 49 { \n\nWitnesses often must travel long distances }
+create-a-node-here really 31.115 50 {to give face-to-face depositions before lawyers and court reporters.}
+nextSentence really
+autolink_nodes 49 50 satelite purpose  5047
+create-a-node-here really 32.29 51 {\nThat means huge travel bills.}
+nextSentence really
+autolink_nodes 5047 51 satelite consequence-s  5048
+create-a-node-here really 33.76 52 {\nAnd telephone or videotape depositions just don't match physical encounters.}
+nextSentence really
+autolink_nodes 5048 52 multinuclear List  5049
+create-a-node-here really 35.79 53 { \n\nThat could change, thanks to lower long-distance rates and cheaper electronics.}
+nextSentence really
+autolink_nodes 5049 53 satelite hypothetical  5050
+create-a-node-here really 36.21 54 {\nVideo Telecom Corp., }
+create-a-node-here really 36.66 55 {which markets videoconferencing systems, }
+autolink_nodes 54 55 satelite-embedded elaboration-additional-e  5051
+create-a-node-here really 36.102 56 {is working with court reporters }
+#autolink_nodes 54 56 multinuclear Same-Unit  5052
+#UNDID
+autolink_nodes 5051 56 multinuclear Same-Unit  5052
+create-a-node-here really 36.135 57 {to wire a nationwide network }
+autolink_nodes 5052 57 satelite purpose  5053
+create-a-node-here really 36.180 58 {to allow depositions by live television. }
+autolink_nodes 57 58 satelite purpose  5054
+autolink_nodes 5050 5053 multinuclear Problem-Solution  5055
+create-a-node-here really 38.41 59 {\n\nThe company installed a prototype system }
+create-a-node-here really 38.102 60 {that connects Dallas with Miami over digital phone lines.}
+nextSentence really
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5056
+create-a-node-here really 39.76 61 {\nAnd it is preparing to set up shop in Chicago, New York and 10 other cities }
+autolink_nodes 5056 61 multinuclear Sequence  5057
+create-a-node-here really 39.153 62 {where court-reporting agencies can tie conference rooms into the network.}
+nextSentence really
+autolink_nodes 61 62 satelite-embedded elaboration-object-attribute-e  5058
+autolink_nodes 5053 5057 satelite enablement  5059
+create-a-node-here really 41.50 63 { \n\nWhile lawyers arranged individual tie-ups before, }
+create-a-node-here really 41.130 64 {the formal network of court reporters should make things easier and cheaper.}
+nextSentence really
+autolink_nodes 63 64 nucleus concession  5060
+autolink_nodes 5057 5060 satelite evaluation-s  5061
+disconnect_node 5060 disconnect
+autolink_nodes 5059 5060 satelite evaluation-s  5062
+create-a-node-here really 43.88 65 { \n\nAn attorney will be able to use the network for an hourly fee of between $200 and $400, }
+create-a-node-here really 43.133 66 {depending on the quality of the picture, }
+autolink_nodes 65 66 satelite contingency  5063
+create-a-node-here really 43.203 67 {to take depositions from witnesses in any of the connected cities.}
+nextSentence really
+autolink_nodes 5063 67 satelite purpose  5064
+autolink_nodes 5062 5064 satelite interpretation-s  5065
+autolink_nodes 5046 5055 satelite elaboration-additional  5066
+disconnect_node 5055 modify
+autolink_nodes 5046 5055 satelite summary-n  5067
+autolink_nodes 5067 5067 schema Text  5067
+autolink_nodes 5045 5067 multinuclear TextualOrganization above 5068
+autolink_nodes 5044 5068 multinuclear Topic-Shift above 5069
+create-a-node-here really 47.21 68 { \n\nJapanese Reverse Tack \n\nOn Patent Protection }
+autolink_nodes 68 68 schema Title  5069
+create-a-node-here really 49.78 69 {\n\nJAPAN'S MISUSE of U.S. patents has been a sore point for American chip makers.}
+nextSentence really
+create-a-node-here really 50.66 70 {\nNow at least one Japanese company is turning the courtroom tables.}
+nextSentence really
+autolink_nodes 69 70 satelite elaboration-additional  5070
+create-a-node-here really 52.75 71 { \n\nUntil now, most Japanese charges have been responses to suits against them.}
+nextSentence really
+create-a-node-here really 53.66 72 {\nBut last year Hitachi Ltd. surprised Japan's electronics industry }
+create-a-node-here really 53.146 73 {when it accused Korea's Samsung Electronics Co. of using Hitachi technology }
+create-a-node-here really 53.193 74 {to make dynamic random-access memory chips.}
+nextSentence really
+autolink_nodes 73 74 satelite purpose  5071
+autolink_nodes 72 5071 satelite circumstance  5072
+autolink_nodes 71 5072 multinuclear Contrast  5073
+autolink_nodes 70 5073 satelite example  5074
+create-a-node-here really 53.224 75 { (A settlement was reached }
+nextSentence really
+create-a-node-here really 53.253 76 {but wasn't made public.) }
+autolink_nodes 75 76 multinuclear Contrast  5075
+autolink_nodes 5072 5075 satelite consequence-s  5076
+create-a-node-here really 53.355 77 {And Hitachi went on the offensive against the U.S.'s Motorola Inc. earlier this month with a suit }
+create-a-node-here really 53.368 78 {charging }
+autolink_nodes 77 78 satelite-embedded elaboration-object-attribute-e  5077
+create-a-node-here really 53.435 79 {that Motorola's new MC88200 chip infringes on a Hitachi patent.}
+nextSentence really
+autolink_nodes 78 79 nucleus attribution  5078
+autolink_nodes 5076 5077 multinuclear Sequence  5079
+create-a-node-here really 55.89 80 { \n\nAnother recent Hitachi suit accuses Motorola of reverse engineering a Hitachi technology }
+create-a-node-here really 55.152 81 {-- a turnabout from a nation of champion reverse engineers.}
+nextSentence really
+autolink_nodes 80 81 multinuclear Contrast  5080
+disconnect_node 5077 modify
+autolink_nodes 5076 5077 multinuclear List  5081
+autolink_nodes 5081 5080 multinuclear List below 5081
+create-a-node-here really 57.75 82 { \n\nThe moves illustrate the more aggressive attitude toward patent protection }
+create-a-node-here really 57.84 83 {that }
+create-a-node-here really 57.107 84 {patent experts say }
+autolink_nodes 83 84 satelite-embedded attribution-e  5082
+create-a-node-here really 57.137 85 {Japan is starting to take.}
+nextSentence really
+autolink_nodes 5082 85 multinuclear Same-Unit  5083
+autolink_nodes 82 5083 satelite-embedded elaboration-object-attribute-e  5084
+autolink_nodes 5081 5084 satelite comment  5085
+create-a-node-here really 59.79 86 { \n\nHitachi made the reverse-engineering charges in an amendment to a counterclaim }
+create-a-node-here really 59.125 87 {filed in a federal district court in Texas}
+create-a-node-here really 59.179 88 { after Motorola sued Hitachi for patent violation.}
+nextSentence really
+autolink_nodes 87 88 satelite temporal-after  5086
+autolink_nodes 86 5086 satelite-embedded elaboration-object-attribute-e  5087
+autolink_nodes 5085 5087 satelite explanation-argumentative  5088
+create-a-node-here really 60.16 89 {\nHitachi charges }
+create-a-node-here really 60.128 90 {Motorola "has engaged in fraudulent and inequitable conduct in the procurement of certain Motorola patents" }
+autolink_nodes 89 90 nucleus attribution  5089
+create-a-node-here really 60.179 91 {used in Motorola's MC68030 microprocessor chip.}
+nextSentence really
+autolink_nodes 90 91 satelite-embedded elaboration-object-attribute-e below 5090
+create-a-node-here really 62.13 92 { \n\nTranslation: }
+create-a-node-here really 62.69 93 {Motorola appears to have taken a Hitachi technology }
+create-a-node-here really 62.103 94 {that is patented in the U.S., }
+create-a-node-here really 62.121 95 {Hitachi says, }
+#autolink_nodes 94 95 satelite attribution  5091
+#UNDID
+#autolink_nodes 94 95 satelite attribution  5091
+#UNDID
+autolink_nodes 93 94 satelite-embedded elaboration-object-attribute-e  5091
+autolink_nodes 5091 95 satelite attribution  5092
+create-a-node-here really 62.175 96 {and "tried to make it look like a new technology."}
+autolink_nodes 5092 96 multinuclear Sequence  5093
+autolink_nodes 92 5093 satelite elaboration-general-specific  5094
+autolink_nodes 5089 5094 satelite restatement  5095
+autolink_nodes 5088 5095 satelite elaboration-additional  5096
+disconnect_node 5087 modify
+autolink_nodes 5085 5087 satelite elaboration-general-specific below 5097
+disconnect_node 5095 modify
+autolink_nodes 5087 5095 satelite elaboration-additional  5098
+create-a-node-here really 64.66 97 { \n\nMotorola either denied or wouldn't comment on the various charges.}
+nextSentence really
+disconnect_node 5080 modify
+autolink_nodes 5077 5080 multinuclear List  5099
+disconnect_node 5084 disconnect
+autolink_nodes 5099 5084 satelite comment  5100
+disconnect_node 5098 disconnect
+autolink_nodes 5100 5098 satelite elaboration-general-specific  5101
+autolink_nodes 5081 97 multinuclear Statement-Response above 5102
+autolink_nodes 5070 5070 schema Text  5102
+autolink_nodes 68 5070 multinuclear TextualOrganization  5103
+autolink_nodes 5069 5103 multinuclear Topic-Shift below 5103
+create-a-node-here really 66.14 98 { \n\nOdds and Ends }
+autolink_nodes 98 98 schema Title  5103
+create-a-node-here really 68.15 99 {\n\nCOMPUTER chips }
+create-a-node-here really 68.46 100 {that simulate human vision }
+autolink_nodes 99 100 satelite-embedded elaboration-object-attribute-e  5104
+create-a-node-here really 69.0 101 {have been developed by Japan's Sharp Corp.\n}
+autolink_nodes 5104 101 multinuclear Same-Unit  5105
+create-a-node-here really 69.26 102 {They mimic the brain }
+create-a-node-here really 69.56 103 {by "looking" at an image,}
+create-a-node-here really 69.90 104 { extracting the fundamentals }
+autolink_nodes 103 104 multinuclear Sequence  5106
+create-a-node-here really 69.131 105 {-- boundaries, corners and lines -- }
+autolink_nodes 104 105 satelite-embedded definition-e  5107
+create-a-node-here really 69.176 106 {and translating them into computer data.}
+nextSentence really
+autolink_nodes 5106 106 multinuclear Sequence below 5107
+autolink_nodes 102 5106 satelite means  5108
+create-a-node-here really 70.11 107 {\nSharp says }
+create-a-node-here really 70.106 108 {the set of chips could improve fax machines, graphics computers or identification systems }
+autolink_nodes 107 108 nucleus attribution  5109
+create-a-node-here really 70.142 109 {that recognize facial features.}
+#nextSentence really
+#autolink_nodes 108 109 satelite-embedded elaboration-object-attribute-e below 5110
+#UNDID
+#UNDID
+nextSentence really
+nextSentence really
+nextSentence really
+autolink_nodes 108 109 satelite-embedded elaboration-object-attribute-e below 5110
+nextSentence really
+autolink_nodes 5105 5108 satelite elaboration-additional  5111
+autolink_nodes 5111 5109 satelite hypothetical  5112
+create-a-node-here really 70.205 110 { . . . An N.V. Philips unit has created a computer system }
+create-a-node-here really 70.283 111 {that processes video images 3,000 times faster than conventional systems.}
+nextSentence really
+autolink_nodes 110 111 satelite-embedded elaboration-object-attribute-e  5113
+autolink_nodes 5112 5113 multinuclear List  5114
+create-a-node-here really 71.56 112 {\nUsing reduced instruction-set computing, or RISC, chips }
+nextSentence really
+create-a-node-here really 71.101 113 {made by Intergraph of Huntsville, Ala., }
+autolink_nodes 112 113 satelite-embedded elaboration-object-attribute-e  5115
+create-a-node-here really 71.134 114 {the system splits the image }
+create-a-node-here really 71.149 115 {it "sees" }
+autolink_nodes 114 115 satelite-embedded elaboration-object-attribute-e  5116
+create-a-node-here really 71.192 116 {into 20 digital representations, each }
+autolink_nodes 5116 116 multinuclear Same-Unit  5117
+create-a-node-here really 71.219 117 {processed by one chip.}
+nextSentence really
+autolink_nodes 116 117 satelite-embedded elaboration-object-attribute-e  5118
+autolink_nodes 5115 5117 nucleus means  5119
+autolink_nodes 5113 5119 satelite elaboration-general-specific  5120
+autolink_nodes 5114 5114 schema Text  5120
+autolink_nodes 98 5114 multinuclear TextualOrganization  5121
+autolink_nodes 5069 5121 multinuclear Topic-Shift below 5121
+disconnect_node 29 modify
+autolink_nodes 28 29 satelite-embedded example-e  5122
+disconnect_node 5020 disconnect
+autolink_nodes 21 5020 nucleus hypothetical  5123
+disconnect_node 24 disconnect
+autolink_nodes 23 24 satelite-embedded example-e  5124

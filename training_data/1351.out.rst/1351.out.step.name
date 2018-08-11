@@ -1,0 +1,51 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.39 1 {\nAmtech Systems Inc., Tempe, Ariz., said}
+#create-a-node-here really 2.89 2 { its preliminary year-end results of operations}
+#create-a-node-here really 2.158 3 { indicate "substantial improvement" over the previous fiscal year.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.155 2 { its preliminary year-end results of operations indicate "substantial improvement" over the previous fiscal year.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.7 3 { \n\nAmtech,}
+create-a-node-here really 4.50 4 { which makes an automated process system}
+create-a-node-here really 4.110 5 { that improves the yields of semiconductor manufacturers,}
+create-a-node-here really 4.118 6 { said}
+create-a-node-here really 4.141 7 { profit for the year}
+create-a-node-here really 4.159 8 { ended Sept. 30}
+create-a-node-here really 4.214 9 { rose to more than $800,000 from $446,000 last year.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 9 5002 multinuclear Same-Unit  5003
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 3 5004 satelite-embedded elaboration-additional-e  5005
+autolink_nodes 6 5005 multinuclear Same-Unit  5006
+autolink_nodes 5006 5003 nucleus attribution  5007
+create-a-node-here really 5.89 10 {\nPer-share earnings are estimated at more than 40 cents, up from 22 cents for fiscal 1988.}
+nextSentence really
+autolink_nodes 5007 10 satelite elaboration-additional  5008
+nextSentence really
+create-a-node-here really 7.80 11 { \n\nTotal revenue is expected to double to more than $22 million from $10.8 million.}
+nextSentence really
+autolink_nodes 5008 11 satelite elaboration-additional  5009
+autolink_nodes 5001 5009 satelite elaboration-additional  5010
+create-a-node-here really 9.7 12 { \n\nAmtech,}
+create-a-node-here really 9.176 13 { which also provides technical temporary employment services to aerospace, defense, computer and high-tech companies in the Southwest and Baltimore-Washington areas,}
+create-a-node-here really 9.185 14 { said}
+create-a-node-here really 9.241 15 { its final audited results are due in late November.}
+nextSentence really
+#disconnect_node 11 disconnect
+#autolink_nodes 5008 15 satelite elaboration-additional  5011
+#UNDID
+#UNDID
+autolink_nodes 14 15 nucleus attribution  5011
+autolink_nodes 12 13 satelite-embedded elaboration-additional-e  5012
+autolink_nodes 5011 5012 multinuclear Same-Unit  5013
+autolink_nodes 5010 5013 satelite elaboration-additional  5014
+create-a-node-here really 11.215 16 { \n\nThe company attributed the improvement to strong demand in the semiconductor equipment segment as well as the acquisition of Echelon Service Co. and the inclusion of a full year's results of operations for RTS Inc.,}
+create-a-node-here really 11.275 17 { compared with seven months' results for the prior year.}
+autolink_nodes 16 17 satelite comparison  5015
+autolink_nodes 5014 5015 satelite elaboration-additional  5016

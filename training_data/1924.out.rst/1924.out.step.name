@@ -1,0 +1,233 @@
+nextSentence really
+create-a-node-here really 2.65 1 {\nCALIFORNIA STRUGGLED with the aftermath of a Bay area earthquake.}
+nextSentence really
+create-a-node-here really 4.48 2 { \n\nAs aftershocks shook the San Francisco Bay area,}
+create-a-node-here really 4.120 3 { rescuers searched through rubble for survivors of Tuesday's temblor,}
+create-a-node-here really 4.184 4 { and residents picked their way through glass-strewn streets.}
+nextSentence really
+autolink_nodes 3 4 multinuclear List  5001
+autolink_nodes 5001 2 satelite temporal-same-time  5002
+create-a-node-here really 5.24 5 {\nIn Oakland, hopes faded }
+create-a-node-here really 5.131 6 {for finding any more survivors within the concrete and steel from the collapse of an interstate highway.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 6.83 7 {\nAt least 270 people were reported killed and 1,400 injured in the rush-hour tremor }
+create-a-node-here really 6.169 8 {that caused billions of dollars of damage along 100 miles of the San Andreas fault.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 1 5002 satelite elaboration-additional  5005
+autolink_nodes 5005 5003 satelite elaboration-additional  5006
+autolink_nodes 5006 5004 satelite elaboration-additional  5007
+create-a-node-here really 7.46 9 {\nBush declared the region a major disaster area}
+create-a-node-here really 7.81 10 { and the military was mobilized }
+create-a-node-here really 7.104 11 {to prevent looting.}
+nextSentence really
+autolink_nodes 10 11 satelite purpose  5008
+autolink_nodes 9 5008 satelite consequence-s  5009
+autolink_nodes 5007 5009 satelite elaboration-additional  5010
+create-a-node-here really 9.31 12 { \n\nThe baseball commissioner said }
+create-a-node-here really 9.151 13 {the third game of the World Series between the Giants and the Athletics would be played Tuesday in Candlestick Park.}
+nextSentence really
+autolink_nodes 12 13 nucleus attribution  5011
+autolink_nodes 5010 5011 satelite elaboration-additional  5012
+collapsed_nodes {5002}
+collapsed_nodes {5002 5004}
+collapsed_nodes {5002 5004 5003}
+collapsed_nodes {5002 5004 5003 5009}
+collapsed_nodes {5002 5004 5003 5009 5011}
+create-a-node-here really 11.66 14 { \n\nHONECKER WAS OUSTED as leader of East Germany amid growing unrest.}
+nextSentence really
+create-a-node-here really 13.25 15 { \n\nThe 77-year-old official,}
+create-a-node-here really 13.74 16 { who oversaw the building of the Berlin Wall,}
+create-a-node-here really 13.175 17 { was removed during a meeting of the 163-member Communist Party Central Committee in East Berlin.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 17 5013 multinuclear Same-Unit  5014
+create-a-node-here really 14.9 18 {\nHonecker,}
+create-a-node-here really 14.34 19 { who was reported ill}
+create-a-node-here really 14.80 20 { following gall-bladder surgery in August,}
+create-a-node-here really 14.90 21 { said }
+create-a-node-here really 14.130 22 {he was resigning for health reasons.}
+nextSentence really
+autolink_nodes 19 20 satelite temporal-after  5015
+#autolink_nodes 5015 21 multinuclear Same-Unit  5016
+#UNDID
+autolink_nodes 18 5015 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 21 5016 multinuclear Same-Unit  5017
+autolink_nodes 22 5017 satelite attribution  5018
+autolink_nodes 5014 5018 satelite elaboration-additional  5019
+create-a-node-here really 15.73 23 {\nHe was succeeded by internal-security chief Egon Krenz, 52, a hard-liner }
+create-a-node-here really 15.146 24 {who quickly ruled out any sharing of power with pro-democracy groups.}
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 5019 5020 satelite elaboration-additional  5021
+create-a-node-here really 17.98 25 { \n\nHonecker's departure came after weeks of street protests and an exodus to the West of East Germans}
+create-a-node-here really 17.145 26 { who had become disenchanted with his rule.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 5021 5022 satelite elaboration-additional  5023
+autolink_nodes 5023 14 nucleus summary-n  5024
+collapsed_nodes {5002 5004 5003 5009 5011 5023}
+disconnect_node 5002 disconnect
+disconnect_node 5003 disconnect
+disconnect_node 5004 disconnect
+disconnect_node 5009 disconnect
+#disconnect_node 5011 disconnect
+#UNDID
+collapsed_nodes {5002 5004 5003 5009 5023}
+disconnect_node 5011 disconnect
+autolink_nodes 5003 5002 multinuclear List  5025
+autolink_nodes 5025 5004 multinuclear List below 5025
+autolink_nodes 5025 5009 multinuclear List below 5025
+autolink_nodes 5025 5011 multinuclear List below 5025
+autolink_nodes 5025 1 nucleus summary-n  5026
+collapsed_nodes {5002 5004 5009 5023 5 5025}
+create-a-node-here really 19.38 27 { \n\nHUNGARY ADOPTED constitutional changes}
+create-a-node-here really 19.71 28 { to form a democratic system.}
+create-a-node-here really 21.105 29 { \n\nAt a nationally televised legislative session in Budapest, the Parliament overwhelmingly approved changes}
+create-a-node-here really 21.162 30 { formally ending one-party domination in the country,}
+create-a-node-here really 21.207 31 { regulating free elections by next summer}
+create-a-node-here really 21.258 32 { and establishing the office of state president}
+create-a-node-here really 21.294 33 { to replace a 21-member council.}
+nextSentence really
+#autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5027
+#UNDID
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5027
+autolink_nodes 31 30 multinuclear List  5028
+autolink_nodes 5028 5027 multinuclear List below 5028
+autolink_nodes 27 28 satelite purpose  5029
+autolink_nodes 29 5028 satelite-embedded elaboration-object-attribute-e  5030
+create-a-node-here really 22.48 34 {\nThe country was renamed the Republic of Hungary.}
+autolink_nodes 5030 34 satelite elaboration-additional  5031
+create-a-node-here really 23.81 35 {\nLike other Soviet bloc nations, it had been known as a "people's republic" since }
+autolink_nodes 34 35 satelite elaboration-additional  5032
+create-a-node-here really 25.140 36 {\n\nThe voting for new laws followed dissolution of Hungary's Communist Party this month and its replacement by a Western-style Socialist Party.}
+nextSentence really
+autolink_nodes 5031 36 satelite elaboration-additional  5033
+autolink_nodes 5033 5029 nucleus summary-n  5034
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033}
+nextSentence really
+create-a-node-here really 27.72 37 { \n\nThe space shuttle Atlantis blasted into orbit from Cape Canaveral, Fla.,}
+create-a-node-here really 27.192 38 { and its crew of five astronauts launched the nuclear-powered Galileo space probe on a flight to the planet Jupiter.}
+nextSentence really
+autolink_nodes 37 38 multinuclear Sequence  5035
+nextSentence really
+create-a-node-here really 28.77 39 {\nThe $1.4 billion robot spacecraft's exploratory mission is to take six years.}
+autolink_nodes 38 39 satelite elaboration-additional  5036
+create-a-node-here really 29.53 40 {\nThe shuttle is slated to return Monday to California.}
+nextSentence really
+autolink_nodes 5035 40 satelite elaboration-additional  5037
+create-a-node-here really 31.66 41 { \n\nSouth Korea's President Roh addressed a joint House-Senate meeting}
+create-a-node-here really 31.166 42 { and urged patience over U.S. demands for the opening of Seoul's markets to more American goods,}
+create-a-node-here really 31.178 43 { saying }
+create-a-node-here really 31.238 44 {trade issues would be "resolved to mutual satisfaction."}
+nextSentence really
+autolink_nodes 43 44 nucleus attribution  5038
+autolink_nodes 42 41 satelite circumstance  5039
+autolink_nodes 5039 5038 satelite elaboration-additional  5040
+create-a-node-here really 31.256 45 { He also said }
+create-a-node-here really 31.352 46 {tragic results could follow any "hint of weakening" of the U.S. defense commitment to Seoul.}
+nextSentence really
+autolink_nodes 45 46 nucleus attribution  5041
+autolink_nodes 5040 5041 satelite elaboration-additional  5042
+disconnect_node 5041 modify
+autolink_nodes 5040 5041 satelite elaboration-additional  5043
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041}
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038}
+nextSentence really
+nextSentence really
+create-a-node-here really 33.27 47 { \n\nThe Census Bureau reported }
+create-a-node-here really 33.121 48 {that 13.1% of the U.S. population, or 31.9 million people, were living in poverty in 1988.}
+nextSentence really
+autolink_nodes 47 48 nucleus attribution  5044
+nextSentence really
+create-a-node-here really 34.47 49 {\nLast year's figure was down from 13.4% in 1987 }
+create-a-node-here really 34.119 50 {and marked the fifth consecutive annual decline in the poverty rate.}
+nextSentence really
+autolink_nodes 49 50 multinuclear List  5045
+autolink_nodes 5044 5045 satelite elaboration-additional  5046
+nextSentence really
+create-a-node-here really 35.39 51 {\nPer capita income rose 1.7% to $13,120,}
+create-a-node-here really 35.79 52 { but median family income fell 0.2%.}
+autolink_nodes 51 52 multinuclear Contrast  5047
+autolink_nodes 5046 5047 satelite elaboration-additional  5048
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047}
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045}
+create-a-node-here really 37.150 53 { \n\nThe Bush administration accused Israeli Prime Minister Shamir of hindering peace efforts in the Mideast with "unhelpful" and disappointing statements.}
+nextSentence really
+create-a-node-here really 38.20 54 {\nShamir said Tuesday }
+create-a-node-here really 38.106 55 {that he was prepared to risk a policy conflict with the U.S. over an Egyptian plan}
+create-a-node-here really 38.152 56 { to hold direct Israeli-Palestinian talks,}
+create-a-node-here really 38.196 57 { which the premier's Likud bloc opposes.}
+nextSentence really
+autolink_nodes 56 57 satelite-embedded elaboration-object-attribute-e  5049
+autolink_nodes 55 5049 satelite-embedded elaboration-object-attribute-e  5050
+autolink_nodes 54 5050 nucleus attribution  5051
+autolink_nodes 53 5051 satelite example  5052
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045 5051}
+create-a-node-here really 40.110 58 { \n\nCuba was elected to the U.N. Security Council for the first time since its Castro-led revolution 30 years ago.}
+nextSentence really
+create-a-node-here really 41.58 59 {\nThe election was by secret ballot in the General Assembly.}
+nextSentence really
+autolink_nodes 58 59 satelite elaboration-additional  5053
+create-a-node-here really 42.84 60 {\nThe U.S. didn't openly oppose Cuba's seating as the Latin American council delegate.}
+nextSentence really
+autolink_nodes 5053 60 satelite elaboration-additional  5054
+create-a-node-here really 44.87 61 { \n\nBritain's Prime Minister Thatcher told a Commonwealth summit in Kuala Lumpur, Malaysia,}
+create-a-node-here really 44.157 62 { that sanctions against South Africa were "utterly irresponsible,"}
+create-a-node-here really 44.177 63 { officials said.}
+nextSentence really
+autolink_nodes 61 62 nucleus attribution  5055
+autolink_nodes 5055 63 satelite attribution  5056
+create-a-node-here really 45.149 64 {\nBut other nations at the opening of the 49-nation meeting of Britain and its former colonies pressed for continued or stronger embargoes in an effort}
+create-a-node-here really 45.171 65 { to end apartheid.}
+nextSentence really
+autolink_nodes 64 65 satelite-embedded elaboration-object-attribute-e  5057
+autolink_nodes 5057 5056 multinuclear Contrast  5058
+create-a-node-here really 47.36 66 { \n\nArab officials in Saudi Arabia said }
+create-a-node-here really 47.82 67 {three-week-old talks by Lebanese lawmakers}
+create-a-node-here really 47.123 68 { aimed at ending Lebanon's civil war }
+create-a-node-here really 47.154 69 {appeared about to collapse.}
+nextSentence really
+autolink_nodes 67 68 satelite-embedded elaboration-object-attribute-e  5059
+autolink_nodes 69 5059 multinuclear Same-Unit  5060
+autolink_nodes 66 5060 nucleus attribution  5061
+create-a-node-here really 48.74 70 {\nChristian legislators are insisting on a Syrian troop pullout from Lebanon}
+create-a-node-here really 48.115 71 { before agreeing to political changes}
+create-a-node-here really 48.186 72 { giving the nation's Moslems a greater role in Beirut's government.}
+nextSentence really
+autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e  5062
+autolink_nodes 70 5062 satelite temporal-before  5063
+autolink_nodes 5061 5063 satelite explanation-argumentative  5064
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045 5051 5063}
+create-a-node-here really 50.43 73 { \n\nColombia's judges launched a 72-hour strike}
+create-a-node-here really 50.73 74 { to press security demands}
+create-a-node-here really 50.141 75 { following Tuesday's murder of a High Court justice in Medellin.}
+nextSentence really
+autolink_nodes 73 74 satelite purpose  5065
+autolink_nodes 5065 75 satelite circumstance  5066
+create-a-node-here really 51.75 76 {\nThe country's narcotics traffickers claimed responsibility for the slaying.}
+nextSentence really
+autolink_nodes 75 76 satelite elaboration-additional  5067
+create-a-node-here really 52.84 77 {\nMost of the country's 20,000 judges and judicial employees joined the work stoppage.}
+nextSentence really
+autolink_nodes 5066 77 satelite elaboration-additional  5068
+autolink_nodes 5024 5026 multinuclear Topic-Shift  5069
+autolink_nodes 5069 5034 multinuclear Topic-Shift below 5069
+autolink_nodes 5069 5037 multinuclear Topic-Shift below 5069
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045 5051 5063 5037}
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045 5051 5063 5037 5034}
+autolink_nodes 5069 5043 multinuclear Topic-Shift below 5069
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045 5051 5063 5037 5034 5043}
+autolink_nodes 5069 5048 multinuclear Topic-Shift below 5069
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045 5051 5063 5037 5034 5043 5048}
+autolink_nodes 5069 5052 multinuclear Topic-Shift below 5069
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045 5051 5063 5037 5034 5043 5048 5052}
+autolink_nodes 5069 5054 multinuclear Topic-Shift below 5069
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045 5051 5063 5037 5034 5043 5048 5052 5054}
+autolink_nodes 5069 5058 multinuclear Topic-Shift below 5069
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045 5051 5063 5037 5034 5043 5048 5052 5054 5058}
+autolink_nodes 5069 5064 multinuclear Topic-Shift below 5069
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045 5051 5063 5037 5034 5043 5048 5052 5054 5058 5064}
+autolink_nodes 5069 5068 multinuclear Topic-Shift below 5069
+collapsed_nodes {5002 5004 5009 5023 5 5025 5033 5041 5038 5047 5045 5051 5063 5037 5034 5043 5048 5052 5054 5058 5064 5069}
+collapsed_nodes {}

@@ -1,0 +1,86 @@
+nextSentence really
+create-a-node-here really 2.56 1 {\nThe National Highway Traffic Safety Administration said }
+create-a-node-here really 2.157 2 {it will start enforcing stiffer regulations Jan. 31 for so-called gray-market imports of vehicles.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.17 3 { \n\nThe regulations, }
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+#create-a-node-here really 4.77 4 {required under legislation enacted by Congress last year,}
+#autolink_nodes 3 4 satelite-embedded elaboration-additional-e  5003
+#UNDID
+#UNDID
+create-a-node-here really 4.47 4 {required under legislation }
+autolink_nodes 3 4 satelite-embedded elaboration-additional-e  5003
+create-a-node-here really 4.81 5 {enacted by Congress last year, }
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5004
+create-a-node-here really 4.118 6 {will apply to imports of vehicles }
+autolink_nodes 5003 6 multinuclear Same-Unit  5005
+create-a-node-here really 4.139 7 {that weren't built}
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 4.189 8 { to meet U.S. government auto safety standards }
+autolink_nodes 7 8 satelite purpose  5007
+create-a-node-here really 4.249 9 {and were intended for use in Europe or elsewhere abroad. }
+autolink_nodes 5007 9 multinuclear List  5008
+collapsed_nodes {5005}
+create-a-node-here really 6.24 10 {\n\nU.S. officials estimated}
+autolink_nodes 5002 10 satelite elaboration-additional  5009
+create-a-node-here really 6.139 11 { that gray-market imports total about 2,100 units a year, a small part of the more than three million vehicles }
+autolink_nodes 10 11 nucleus attribution  5010
+create-a-node-here really 6.174 12 {exported to the U.S. each year.}
+nextSentence really
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e below 5011
+collapsed_nodes {5005 5002}
+create-a-node-here really 8.24 13 { \n\nAccording to the NHTSA, }
+autolink_nodes 5009 13 satelite interpretation-s  5012
+create-a-node-here really 8.92 14 {the new regulations will prohibit anyone other than an importer }
+autolink_nodes 13 14 nucleus attribution  5013
+create-a-node-here really 8.141 15 {that has registered with the U.S. government,}
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e below 5014
+create-a-node-here really 8.157 16 { or a person}
+#autolink_nodes 5014 16 multinuclear List  5015
+#UNDID
+autolink_nodes 5014 16 multinuclear Same-Unit  5015
+create-a-node-here really 8.209 17 { who has a contract with a registered importer, }
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5016
+create-a-node-here really 8.250 18 {from permanently importing a vehicle }
+autolink_nodes 5015 18 multinuclear Same-Unit below 5016
+create-a-node-here really 8.304 19 {that doesn't meet the U.S. auto safety standards. }
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5017
+create-a-node-here really 10.113 20 {\n\nThe registered importer would be required to bring such vehicles into compliance with the U.S. safety standards, }
+autolink_nodes 5013 20 satelite elaboration-additional  5018
+create-a-node-here really 10.153 21 {compared with the current situation }
+autolink_nodes 20 21 satelite comparison  5019
+create-a-node-here really 10.199 22 {in which anyone can bring in such vehicles}
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5020
+create-a-node-here really 10.220 23 { and modify them }
+autolink_nodes 22 23 multinuclear List  5021
+create-a-node-here really 10.251 24 {to meet the U.S. standards.}
+nextSentence really
+autolink_nodes 23 24 satelite purpose  5022
+create-a-node-here really 12.64 25 { \n\nCongress tightened auto safety standards for gray-market imports}
+collapsed_nodes {5005 5002 5019}
+collapsed_nodes {5005 5002 5019 5018}
+collapsed_nodes {5005 5002}
+autolink_nodes 5018 25 satelite background  5023
+create-a-node-here really 12.94 26 { after U.S. auto dealers, }
+autolink_nodes 25 26 satelite circumstance  5024
+create-a-node-here really 12.140 27 {including franchised foreign-car dealers, }
+#autolink_nodes 26 27 satelite-embedded example-e  5025
+#UNDID
+autolink_nodes 26 27 satelite-embedded example-e  5025
+create-a-node-here really 12.155 28 {complained }
+autolink_nodes 5025 28 multinuclear Same-Unit  5026
+create-a-node-here really 12.187 29 {that they often were blamed }
+autolink_nodes 28 29 nucleus attribution  5027
+create-a-node-here really 12.247 30 {when the second and third buyers of such vehicles found }
+autolink_nodes 29 30 satelite circumstance below 5028
+create-a-node-here really 12.307 31 {that the cars couldn't meet U.S. auto safety standards. }
+autolink_nodes 30 31 nucleus attribution  5029
+collapsed_nodes {5005 5002 5012}
+collapsed_nodes {}
+disconnect_node 28 disconnect
+disconnect_node 5028 disconnect
+autolink_nodes 5025 28 multinuclear Same-Unit  5030
+autolink_nodes 5030 5028 nucleus attribution  5031
+collapsed_nodes {5012}
+collapsed_nodes {}

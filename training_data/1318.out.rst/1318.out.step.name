@@ -1,0 +1,104 @@
+nextSentence really
+create-a-node-here really 2.37 1 {\nTurner Broadcasting System Inc. said }
+create-a-node-here really 2.57 2 {it formed a unit }
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.150 3 {to make and distribute movies to theaters overseas and, eventually, to U.S. theaters, too.}
+nextSentence really
+autolink_nodes 2 3 satelite purpose below 5002
+create-a-node-here really 4.47 4 { \n\nThe operator of cable-television networks said }
+autolink_nodes 5001 4 satelite elaboration-additional  5003
+create-a-node-here really 4.99 5 {the new Turner Pictures unit will produce movies }
+autolink_nodes 4 5 nucleus attribution  5004
+create-a-node-here really 4.189 6 {that will premiere on Turner Broadcasting's Turner Network Television channel, or TNT, }
+create-a-node-here really 4.252 7 {and then will be released internationally in movie theaters.}
+nextSentence really
+autolink_nodes 6 7 multinuclear List  5005
+autolink_nodes 5 5005 satelite result below 5006
+change_rel 5005 elaboration-object-attribute
+create-a-node-here really 6.127 8 { \n\nThe unit's first two offerings are slated to be "The Secret Life of Ian Fleming," a dramatization about the former British spy }
+autolink_nodes 5003 8 satelite example  5007
+create-a-node-here really 6.163 9 {who wrote the James Bond novels, }
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5008
+create-a-node-here really 6.189 10 {and "Treasure Island," }
+autolink_nodes 5008 10 multinuclear Same-Unit  5009
+create-a-node-here really 6.222 11 {produced by Charlton Heston, }
+autolink_nodes 10 11 satelite elaboration-object-attribute  5010
+create-a-node-here really 6.254 12 {who also stars in the movie.}
+nextSentence really
+#autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5011
+#UNDID
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5011
+create-a-node-here really 8.83 13 { \n\nTed Turner, Turner Broadcasting's chairman, was named chairman of Turner Pictures, }
+autolink_nodes 5007 13 satelite elaboration-part-whole  5012
+create-a-node-here really 8.181 14 {and Gerry Hogan, president of Turner Entertainment Networks, was named president of the unit. }
+autolink_nodes 13 14 multinuclear List  5013
+create-a-node-here really 10.32 15 {\n\nIn an interview, Mr. Hogan said }
+autolink_nodes 5012 15 satelite elaboration-additional  5014
+create-a-node-here really 10.139 16 {the subsidiary's primary mission will be to make movies for TNT and to distribute them internationally.}
+nextSentence really
+autolink_nodes 15 16 nucleus attribution  5015
+create-a-node-here really 11.12 17 {\nBut he said }
+autolink_nodes 16 17 satelite antithesis above 5015
+create-a-node-here really 11.65 18 {Turner Broadcasting already has found some ideas }
+autolink_nodes 17 18 nucleus attribution  5016
+create-a-node-here really 12.0 19 {that might work well as films for theatrical release in the U.S. \n}
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e below 5017
+create-a-node-here really 13.19 20 {\n"When that occurs, }
+autolink_nodes 19 20 satelite elaboration-additional  5018
+create-a-node-here really 13.50 21 {and when the time is right,}
+autolink_nodes 20 21 multinuclear List  5019
+create-a-node-here really 13.93 22 { we'll release the films in the U.S.," }
+autolink_nodes 5019 22 nucleus condition  5020
+create-a-node-here really 13.106 23 {he said, }
+#autolink_nodes 5020 23 nucleus attribution  5021
+#UNDID
+autolink_nodes 5020 23 satelite attribution  5021
+create-a-node-here really 13.117 24 {adding }
+autolink_nodes 5020 24 satelite elaboration-additional below 5022
+create-a-node-here really 14.0 25 {that Turner Pictures may develop such movies next year for domestic release in 1991. \n}
+autolink_nodes 24 25 satelite temporal-after  5023
+disconnect_node 23 disconnect
+autolink_nodes 5023 23 satelite attribution  5024
+create-a-node-here really 15.95 26 {\nTurner has made several movies, docudramas and documentaries for its networks in recent years, }
+autolink_nodes 5015 26 satelite background  5025
+create-a-node-here really 15.162 27 {but the company has never acted as a full-fledged movie studio }
+autolink_nodes 26 27 satelite antithesis  5026
+create-a-node-here really 15.208 28 {and released its own pictures to theaters.}
+nextSentence really
+autolink_nodes 27 28 multinuclear List  5027
+create-a-node-here really 17.16 29 { \n\nMr. Hogan said "}
+autolink_nodes 5026 29 satelite explanation-argumentative  5028
+create-a-node-here really 17.105 30 {The Secret Life of Ian Fleming" and "Treasure Island" cost more than $6 million each }
+autolink_nodes 29 30 nucleus attribution  5029
+create-a-node-here really 17.118 31 {to make, }
+autolink_nodes 30 31 satelite result below 5030
+create-a-node-here really 17.176 32 {which is only about one-third the cost of most movies }
+autolink_nodes 5030 32 satelite-embedded elaboration-object-attribute-e below 5031
+create-a-node-here really 17.208 33 {made for theatrical release.}
+nextSentence really
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5032
+create-a-node-here really 19.82 34 { \n\nThe Turner move is in line with a cable-TV trend toward more original programming }
+autolink_nodes 5014 34 satelite evaluation-s  5033
+create-a-node-here really 19.118 35 {-- and toward finding more ways }
+autolink_nodes 34 35 multinuclear List  5034
+create-a-node-here really 19.167 36 {to amortize the high cost of producing films.}
+nextSentence really
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5035
+create-a-node-here really 20.44 37 {\nIn July, Viacom Inc. formed Viacom Pictures }
+autolink_nodes 5034 37 satelite example  5036
+change_rel 37 evidence
+create-a-node-here really 20.87 38 {to produce 12 low-budget movies a year }
+autolink_nodes 37 38 satelite purpose  5037
+create-a-node-here really 20.130 39 {that will premiere on Showtime network }
+autolink_nodes 38 39 satelite-embedded elaboration-object-attribute-e  5038
+create-a-node-here really 20.178 40 {and be distributed later in various markets,}
+autolink_nodes 39 40 multinuclear List  5039
+create-a-node-here really 20.210 41 { including foreign theaters.}
+nextSentence really
+autolink_nodes 40 41 satelite-embedded elaboration-part-whole-e  5040
+nextSentence really
+nextSentence really
+collapsed_nodes {5033}
+nextSentence really
+nextSentence really
+collapsed_nodes {}

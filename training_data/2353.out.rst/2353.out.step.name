@@ -1,0 +1,190 @@
+nextSentence really
+create-a-node-here really 2.47 1 {\nValley Federal Savings & Loan Association said }
+create-a-node-here really 2.117 2 {Imperial Corp. of America withdrew from regulators its application }
+create-a-node-here really 2.156 3 {to buy five Valley Federal branches,}
+create-a-node-here really 2.193 4 { leaving the transaction in limbo.}
+nextSentence really
+create-a-node-here really 4.80 5 { \n\nThe broken purchase appears as additional evidence of trouble at Imperial Corp.,}
+create-a-node-here really 4.105 6 { whose spokesman said }
+create-a-node-here really 4.191 7 {the company withdrew its application from the federal Office of Thrift Supervision }
+create-a-node-here really 4.224 8 {because of an informal notice }
+create-a-node-here really 4.310 9 {that Imperial's thrift unit failed to meet Community Reinvestment Act requirements.}
+nextSentence really
+create-a-node-here really 6.94 10 { \n\nThe Community Reinvestment Act requires savings and loan associations to lend money in amounts}
+create-a-node-here really 6.116 11 { related to areas }
+create-a-node-here really 6.148 12 {where deposits are received.}
+nextSentence really
+create-a-node-here really 8.16 13 { \n\nThe transaction,}
+create-a-node-here really 8.41 14 { announced in August,}
+create-a-node-here really 8.141 15 { included about $146 million in deposits at the five outlets in California's San Joaquin Valley.}
+nextSentence really
+create-a-node-here really 9.25 16 {\nTerms weren't disclosed, }
+create-a-node-here really 9.57 17 {but Valley Federal had said }
+create-a-node-here really 9.159 18 {it expected to post a modest pretax gain and to save about $2 million in operating costs annually.}
+nextSentence really
+create-a-node-here really 11.27 19 { \n\nValley Federal said Friday }
+create-a-node-here really 11.150 20 {that it is considering whether to seek another buyer for the branches or to pursue the transaction with Imperial Corp.,}
+create-a-node-here really 11.166 21 { which said }
+create-a-node-here really 11.235 22 {it is attempting to meet Community Reinvestment Act requirements.}
+nextSentence really
+create-a-node-here really 13.66 23 { \n\nValley Federal, with assets of $3.3 billion, is based in Van Nuys.}
+nextSentence really
+create-a-node-here really 14.16 24 {\nImperial Corp., }
+create-a-node-here really 14.40 25 {based in San Diego, }
+create-a-node-here really 14.85 26 {is the parent of Imperial Savings & Loan.}
+nextSentence really
+#create-a-node-here really 15.64 27 {\nIn the first six months of the year it posted a net loss of $33.}
+#nextSentence really
+#autolink_nodes 2 1 satelite attribution  5001
+#autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e below 5002
+#autolink_nodes 5001 4 satelite-embedded consequence-s-e  5003
+#autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5004
+#autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5005
+#autolink_nodes 7 5005 satelite reason  5006
+#autolink_nodes 6 5006 nucleus attribution  5007
+#autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5008
+#autolink_nodes 10 5008 satelite-embedded elaboration-object-attribute-e  5009
+#autolink_nodes 13 14 satelite-embedded elaboration-additional-e  5010
+#autolink_nodes 5010 15 multinuclear Same-Unit  5011
+#autolink_nodes 17 18 nucleus attribution  5012
+#autolink_nodes 16 5012 nucleus antithesis  5013
+#autolink_nodes 21 22 nucleus attribution  5014
+#autolink_nodes 20 5014 satelite-embedded elaboration-additional-e  5015
+#autolink_nodes 5015 19 satelite attribution  5016
+#autolink_nodes 24 25 satelite-embedded elaboration-additional-e  5017
+#autolink_nodes 5017 26 multinuclear Same-Unit  5018
+#autolink_nodes 5003 5004 satelite interpretation-s  5019
+#collapsed_nodes {5004}
+#autolink_nodes 5013 5011 multinuclear List  5020
+#autolink_nodes 5020 5009 satelite background  5021
+#autolink_nodes 5018 27 satelite elaboration-additional  5022
+#autolink_nodes 5022 23 multinuclear List  5023
+#collapsed_nodes {5004 5018}
+#collapsed_nodes {5004 5018 5020}
+#autolink_nodes 5019 5021 satelite background  5024
+#autolink_nodes 5024 5016 satelite consequence-s  5025
+#collapsed_nodes {5004 5018 5020 5016}
+#autolink_nodes 5025 5023 satelite background  5026
+#collapsed_nodes {5018 5020 5016}
+#collapsed_nodes {5018 5020 5016 5004}
+#collapsed_nodes {5018 5016 5004}
+#disconnect_node 5011 disconnect
+#autolink_nodes 5013 5011 satelite enablement below 5027
+#disconnect_node 5021 disconnect
+#collapsed_nodes {5018 5004}
+#UNDID
+#disconnect_node 5016 disconnect
+#disconnect_node 5023 disconnect
+#collapsed_nodes {5018 5004}
+#disconnect_node 5004 disconnect
+#disconnect_node 5021 disconnect
+#collapsed_nodes {5018}
+#disconnect_node 5009 disconnect
+#autolink_nodes 5011 5009 satelite background  5028
+#autolink_nodes 5003 5004 satelite cause  5029
+#collapsed_nodes {5018 5028}
+#collapsed_nodes {5018 5028 5004}
+#autolink_nodes 5029 5027 satelite elaboration-additional  5030
+#collapsed_nodes {5018 5028 5004 5027}
+#collapsed_nodes {5028 5004 5027}
+#autolink_nodes 5030 5016 satelite consequence-s  5031
+#UNDID
+#autolink_nodes 5030 5016 satelite consequence-s  5031
+#collapsed_nodes {5028 5004 5027 5016}
+#autolink_nodes 5031 5023 satelite background  5032
+#disconnect_node 4 disconnect
+#autolink_nodes 5002 4 satelite consequence-s below 5033
+#disconnect_node 4 disconnect
+#disconnect_node 1 disconnect
+#autolink_nodes 5002 4 satelite consequence-s  5034
+#autolink_nodes 5002 1 satelite attribution below 5035
+#collapsed_nodes {}
+#UNDID
+#UNDID
+#autolink_nodes 5002 4 satelite consequence-s  5034
+#autolink_nodes 5034 1 satelite attribution  5035
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 15.74 27 {\nIn the first six months of the year it posted a net loss of $33.1 million.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+#autolink_nodes 5001 1 satelite attribution  5002
+#UNDID
+autolink_nodes 5001 1 satelite attribution  5002
+autolink_nodes 5002 4 satelite consequence-s  5003
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 7 5004 satelite reason  5005
+autolink_nodes 6 5005 nucleus attribution  5006
+autolink_nodes 5 5006 satelite-embedded elaboration-additional-e  5007
+autolink_nodes 5003 5007 satelite cause  5008
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 10 5009 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 13 14 satelite-embedded elaboration-additional-e  5011
+autolink_nodes 15 5011 multinuclear Same-Unit  5012
+autolink_nodes 5012 5010 satelite background  5013
+autolink_nodes 17 18 nucleus attribution  5014
+autolink_nodes 5014 16 satelite antithesis  5015
+autolink_nodes 5015 5013 satelite enablement  5016
+collapsed_nodes {5013}
+collapsed_nodes {5013 5007}
+autolink_nodes 5008 5016 satelite elaboration-additional  5017
+disconnect_node 4 disconnect
+autolink_nodes 5001 4 satelite consequence-s below 5018
+autolink_nodes 21 22 nucleus attribution  5019
+#autolink_nodes 20 5019 satelite elaboration-additional  5020
+#UNDID
+autolink_nodes 20 5019 satelite-embedded elaboration-additional-e  5020
+autolink_nodes 19 5020 nucleus attribution  5021
+collapsed_nodes {5013 5007 5016}
+autolink_nodes 5017 5021 satelite consequence-s  5022
+collapsed_nodes {5013 5007 5016 5021}
+autolink_nodes 24 25 satelite-embedded elaboration-additional-e  5023
+autolink_nodes 26 5023 multinuclear Same-Unit  5024
+autolink_nodes 5024 27 satelite elaboration-additional  5025
+autolink_nodes 23 5025 multinuclear List  5026
+autolink_nodes 5022 5026 satelite background  5027
+collapsed_nodes {}

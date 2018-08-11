@@ -1,0 +1,37 @@
+nextSentence really
+create-a-node-here really 2.87 1 {\n"Lifestyles of the Rich and Famous" may be visiting some new venues in the near future.}
+nextSentence really
+create-a-node-here really 3.13 2 {\nJudge Robert }
+create-a-node-here really 3.32 3 {("Maximum Bob") }
+create-a-node-here really 3.103 4 {Potter sentenced Jim Bakker to 45 years in the big house yesterday, }
+create-a-node-here really 3.219 5 {while a Beverly Hills judge tucked away Zsa Zsa Gabor for three days, plus 120 hours of work with homeless women.}
+nextSentence really
+create-a-node-here really 4.69 6 {\nMiss Gabor recanted her earlier-expressed fear of jailhouse lesbians.}
+nextSentence really
+create-a-node-here really 5.16 7 {\nMr. Bakker said }
+create-a-node-here really 5.54 8 {he was guilty of sin but not fraud.}
+nextSentence really
+create-a-node-here really 6.19 9 {\nWe can only wonder }
+create-a-node-here really 6.53 10 {who will be the next lost soul }
+create-a-node-here really 6.98 11 {chosen to be America's Celebrity Convict.}
+nextSentence really
+autolink_nodes 2 3 satelite restatement  5001
+autolink_nodes 5001 4 multinuclear Same-Unit  5002
+autolink_nodes 5002 5 multinuclear Temporal-Same-Time above 5003
+autolink_nodes 5 6 satelite elaboration-additional  5004
+autolink_nodes 7 8 nucleus attribution  5005
+autolink_nodes 5002 5005 satelite elaboration-additional  5006
+autolink_nodes 9 10 nucleus rhetorical-question  5007
+autolink_nodes 10 11 satelite elaboration-additional below 5008
+autolink_nodes 1 5003 satelite elaboration-additional  5009
+collapsed_nodes {5005}
+change_rel 9 attribution
+change_rel 9 attribution
+autolink_nodes 5009 5007 satelite rhetorical-question  5010
+collapsed_nodes {}
+disconnect_node 5005 disconnect
+autolink_nodes 5003 5005 satelite elaboration-additional  5011
+disconnect_node 3 disconnect
+autolink_nodes 2 3 satelite-embedded restatement-e  5012
+disconnect_node 11 disconnect
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e below 5013

@@ -1,0 +1,66 @@
+nextSentence really
+create-a-node-here really 2.21 1 {\nBank of Montreal said}
+nextSentence really
+nextSentence really
+create-a-node-here really 2.63 2 { it added 850 million Canadian dollars }
+create-a-node-here really 2.84 3 {(US$725.8 million)}
+create-a-node-here really 2.140 4 { to its reserves against losses on Third World loans,}
+create-a-node-here really 2.162 5 { bringing the total}
+create-a-node-here really 2.193 6 { it has set aside this year }
+create-a-node-here really 2.211 7 {to C$1 billion.}
+autolink_nodes 2 3 satelite-embedded restatement-e  5001
+autolink_nodes 5001 4 multinuclear Same-Unit  5002
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 5003 7 multinuclear Same-Unit  5004
+autolink_nodes 5002 5004 satelite elaboration-additional  5005
+autolink_nodes 1 5005 nucleus attribution  5006
+#create-a-node-here really 4.14 8 { \n\nThe bank said }
+#UNDID
+disconnect_node 5004 modify
+autolink_nodes 5002 5004 satelite elaboration-additional below 5007
+create-a-node-here really 4.14 8 { \n\nThe bank said }
+create-a-node-here really 4.103 9 {the C$1 billion in reserves will result in a charge of C$595 million against earnings }
+create-a-node-here really 4.164 10 {but said it still expects to report a profit for the year }
+create-a-node-here really 4.183 11 {ending Tuesday.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5008
+disconnect_node 5004 modify
+autolink_nodes 5002 5004 satelite elaboration-object-attribute below 5009
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 5008 5010 nucleus concession  5011
+create-a-node-here really 5.65 12 {\nThe bank reported net income of C$389 million for the nine months}
+create-a-node-here really 5.84 13 { ended July 31.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 5006 5011 satelite elaboration-additional  5013
+#autolink_nodes 5010 5012 satelite elaboration-additional below 5014
+#UNDID
+create-a-node-here really 6.13 14 {\nThe bank said}
+create-a-node-here really 6.93 15 { the increase in loan-loss provisions won't affect the payment of dividends.}
+autolink_nodes 5011 5012 satelite explanation-argumentative  5014
+autolink_nodes 14 15 nucleus attribution  5015
+autolink_nodes 5014 5015 satelite elaboration-additional  5016
+create-a-node-here really 8.14 16 { \n\nThe bank said }
+create-a-node-here really 8.90 17 {reserves now amount to 61% of its total less-developed-country exposure.}
+nextSentence really
+autolink_nodes 16 17 nucleus attribution  5017
+create-a-node-here really 9.17 18 {\nExcluding Mexico,}
+create-a-node-here really 9.57 19 { reserves equal 95% of LDC exposure.}
+nextSentence really
+#autolink_nodes 18 19 nucleus circumstance  5018
+#autolink_nodes 5017 5018 satelite elaboration-additional  5019
+#UNDID
+#UNDID
+autolink_nodes 18 19 nucleus condition  5018
+autolink_nodes 5017 5018 satelite elaboration-additional  5019
+collapsed_nodes {5016}
+autolink_nodes 5013 5019 satelite elaboration-additional  5020
+collapsed_nodes {5016 5019}
+nextSentence really
+nextSentence really
+create-a-node-here really 11.94 20 { \n\nIn Toronto Stock Exchange trading, Bank of Montreal closed at C$33.25, up 87.5 Canadian cents.}
+autolink_nodes 5020 20 satelite elaboration-additional  5021
+collapsed_nodes {5019}
+collapsed_nodes {}
+disconnect_node 5004 modify
+autolink_nodes 5002 5004 satelite elaboration-additional below 5022

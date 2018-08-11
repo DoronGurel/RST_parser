@@ -1,0 +1,427 @@
+nextSentence really
+create-a-node-here really 2.199 1 {\nAt a private dinner Thursday, Drexel Burnham Lambert Inc. chief executive Frederick Joseph delivered a sobering message about the junk bond market to officials of Prudential Insurance Co. of America.}
+nextSentence really
+create-a-node-here really 4.20 2 { \n\nMr. Joseph conceded }
+create-a-node-here really 4.55 3 {the junk market was in disarray,}
+create-a-node-here really 4.108 4 { according to people familiar with the discussion.}
+nextSentence really
+autolink_nodes 2 3 nucleus attribution  5001
+autolink_nodes 5001 4 satelite attribution  5002
+create-a-node-here really 5.7 5 {\nHe said}
+create-a-node-here really 5.17 6 { Drexel}
+create-a-node-here really 5.74 7 { -- the leading underwriter of high-risk junk bonds --}
+create-a-node-here really 5.127 8 { could no longer afford to sell any junk offerings}
+create-a-node-here really 5.167 9 { if they might later become troubled }
+create-a-node-here really 5.235 10 {because Drexel risked losing its highly lucrative junk franchise.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 8 5003 multinuclear Same-Unit  5004
+autolink_nodes 5004 9 satelite circumstance  5005
+autolink_nodes 5005 10 satelite reason  5006
+autolink_nodes 5 5006 nucleus attribution  5007
+autolink_nodes 5002 5007 satelite elaboration-additional  5008
+autolink_nodes 1 5008 satelite elaboration-additional  5009
+create-a-node-here really 7.35 11 { \n\nThe dinner was a stark confirmation}
+create-a-node-here really 7.106 12 { that 1989 is the worst year ever for the $200 billion junk market.}
+nextSentence really
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5010
+create-a-node-here really 8.36 13 {\nAnd investors and traders alike say }
+create-a-node-here really 8.88 14 {the current turmoil could take years to resolve.}
+nextSentence really
+autolink_nodes 13 14 nucleus attribution  5011
+autolink_nodes 5010 5011 satelite elaboration-additional  5012
+autolink_nodes 5009 5012 satelite elaboration-additional  5013
+create-a-node-here really 10.38 15 { \n\nAmid the market disorder, even Drexel,}
+create-a-node-here really 10.112 16 { which has the widest and most loyal following of junk bond investors,}
+create-a-node-here really 10.141 17 { is pulling in its horns.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 17 5014 multinuclear Same-Unit  5015
+create-a-node-here really 11.65 18 {\nAlthough the big investment bank still dominates the junk market,}
+create-a-node-here really 11.265 19 { Drexel has been unable to stem the fallout from growing junk bond defaults, withdrawn new offerings, redemptions by shareholders in junk bond mutual funds and an exodus of once-devoted investors.}
+nextSentence really
+autolink_nodes 18 19 nucleus antithesis  5016
+autolink_nodes 5015 5016 satelite explanation-argumentative  5017
+#autolink_nodes 5012 5017 satelite consequence-s  5018
+#UNDID
+autolink_nodes 5012 5017 satelite consequence-s  5018
+create-a-node-here really 13.68 20 { \n\nFor many money managers, the past four months have been humiliating.}
+create-a-node-here really 13.125 21 { "This is the worst shakeout ever in the junk market,}
+create-a-node-here really 13.172 22 { and it could take years before it's over,"}
+create-a-node-here really 13.273 23 { says Mark Bachmann, a senior vice president at Standard & Poor's Corp., a credit rating company.}
+nextSentence really
+autolink_nodes 21 22 multinuclear List  5019
+autolink_nodes 5019 23 satelite attribution  5020
+autolink_nodes 20 5020 satelite elaboration-additional  5021
+create-a-node-here really 15.45 24 { \n\nIn the third quarter, for example, junk bonds}
+create-a-node-here really 15.103 25 { -- those with less than an investment-grade rating --}
+create-a-node-here really 15.173 26 { showed negative returns, the only major sector of the bond market}
+create-a-node-here really 15.187 27 { to do so.}
+nextSentence really
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5022
+#autolink_nodes 24 25 satelite-embedded elaboration-additional-e  5023
+#UNDID
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5023
+autolink_nodes 5022 5023 multinuclear Same-Unit  5024
+autolink_nodes 5021 5024 satelite example  5025
+create-a-node-here really 16.106 28 {\nSince the end of last year, junk bonds have been outperformed by all categories of investment-grade bonds,}
+create-a-node-here really 16.152 29 { including ultra-safe Treasury securities.}
+autolink_nodes 28 29 satelite-embedded elaboration-set-member-e  5026
+#autolink_nodes 5024 5026 multinuclear List above 5027
+#UNDID
+autolink_nodes 5024 5026 multinuclear List above 5027
+change_rel 5027 evidence
+create-a-node-here really 18.16 30 { \n\nThe junk market,}
+create-a-node-here really 18.107 31 { which mushroomed to $200 billion from less than $2 billion at the start of the decade,}
+create-a-node-here really 18.142 32 { has been declining for months }
+create-a-node-here really 18.215 33 {as issuers have stumbled under the weight of hefty interest payments.}
+nextSentence really
+autolink_nodes 32 33 satelite explanation-argumentative  5028
+autolink_nodes 30 31 satelite-embedded elaboration-additional-e  5029
+autolink_nodes 5028 5029 multinuclear Same-Unit  5030
+disconnect_node 5027 disconnect
+autolink_nodes 5020 5027 satelite evidence  5031
+autolink_nodes 5027 5030 multinuclear List below 5031
+collapsed_nodes {5017}
+autolink_nodes 5018 5021 satelite elaboration-additional  5032
+disconnect_node 5021 disconnect
+autolink_nodes 5013 5021 satelite elaboration-additional  5033
+create-a-node-here really 19.75 34 {\nThe fragile market received its biggest jolt last month from Campeau Corp.,}
+create-a-node-here really 19.164 35 { which created its U.S. retailing empire with more than $3 billion in junk financing.}
+nextSentence really
+disconnect_node 5030 disconnect
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5034
+create-a-node-here really 20.32 36 {\nCampeau developed a cash squeeze}
+create-a-node-here really 20.167 37 { that caused it to be tardy on some interest payments and to put its prestigious Bloomingdale's department store chain up for sale.}
+nextSentence really
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5035
+autolink_nodes 5034 5035 satelite elaboration-additional  5036
+create-a-node-here really 21.51 38 {\nAt that point, the junk market went into a tailspin}
+#create-a-node-here really 21.78 39 { as buyers disappeared }
+#create-a-node-here really 21.110 40 {and investors tried to sell.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 21.78 39 { as buyers disappeared }
+create-a-node-here really 21.110 40 {and investors tried to sell.}
+autolink_nodes 39 40 multinuclear List  5037
+autolink_nodes 38 5037 satelite explanation-argumentative  5038
+autolink_nodes 5036 5038 satelite consequence-s  5039
+autolink_nodes 5030 5039 satelite elaboration-additional  5040
+collapsed_nodes {5017 5031}
+autolink_nodes 5021 5040 satelite elaboration-additional  5041
+create-a-node-here really 23.32 41 { \n\nIn an interview, Mr. Joseph says}
+create-a-node-here really 23.121 42 { his dinner discussion with the Prudential executives acknowledged problems for junk.}
+nextSentence really
+autolink_nodes 41 42 nucleus attribution  5042
+create-a-node-here really 23.141 43 { "What I thought}
+create-a-node-here really 23.159 44 { I was saying }
+create-a-node-here really 23.262 45 {is that the market is troubled but still viable and, appropriately enough, quite quality-conscious,}
+create-a-node-here really 23.292 46 { which is not at all bad,"}
+create-a-node-here really 23.305 47 { he says.}
+nextSentence really
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5043
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5044
+autolink_nodes 5043 5044 multinuclear Same-Unit  5045
+autolink_nodes 5045 47 satelite attribution  5046
+autolink_nodes 5042 5046 satelite elaboration-additional  5047
+create-a-node-here really 23.381 48 { "Nobody's been perfect in their credit judgments the past couple years,}
+create-a-node-here really 23.414 49 { and we're going to make sure}
+create-a-node-here really 23.497 50 { our default rates are going to be in the acceptable parameters of the market."}
+nextSentence really
+autolink_nodes 49 50 nucleus attribution  5048
+autolink_nodes 5048 48 satelite circumstance  5049
+autolink_nodes 5047 5049 satelite elaboration-additional  5050
+collapsed_nodes {5017 5031 5039}
+collapsed_nodes {5017 5031 5039 5041}
+collapsed_nodes {5017 5031 5039 5041 5018}
+collapsed_nodes {5017 5031 5039 5041 5018 5007}
+autolink_nodes 5033 5050 satelite elaboration-additional  5051
+create-a-node-here really 25.58 51 { \n\nWhat has jolted many junk buyers is the sudden realization}
+create-a-node-here really 25.180 52 { that junk bonds cannot necessarily be bought and sold with the ease of common stocks and many investment-grade bonds.}
+nextSentence really
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5052
+create-a-node-here really 26.35 53 {\nUnlike the New York Stock Exchange,}
+create-a-node-here really 26.85 54 { where buyers and sellers are quickly matched,}
+create-a-node-here really 26.106 55 { the junk market,}
+create-a-node-here really 26.150 56 { where risky corporate loans are traded,}
+create-a-node-here really 26.187 57 { is sometimes closed for repairs.}
+nextSentence really
+autolink_nodes 53 54 satelite-embedded elaboration-object-attribute-e  5053
+autolink_nodes 55 56 satelite-embedded elaboration-object-attribute-e  5054
+autolink_nodes 5054 5053 multinuclear Same-Unit  5055
+autolink_nodes 5055 57 multinuclear Same-Unit below 5055
+autolink_nodes 5052 5055 satelite explanation-argumentative  5056
+create-a-node-here really 28.108 58 { \n\nAt closely held Deltec Securities Corp., junk bond money managers Amy K. Minella and Hannah H. Strasser say }
+create-a-node-here really 28.179 59 {the problems of the junk market go deeper than a temporary malaise.}
+nextSentence really
+autolink_nodes 58 59 nucleus attribution  5057
+create-a-node-here really 29.17 60 {\nIn recent months,}
+create-a-node-here really 29.31 61 { they say,}
+create-a-node-here really 29.125 62 { there has been heavy selling of junk bonds by some of the market's traditional investors,}
+create-a-node-here really 29.168 63 { while new buyers haven't materialized }
+create-a-node-here really 29.188 64 {to replace them.}
+nextSentence really
+autolink_nodes 63 64 satelite purpose  5058
+autolink_nodes 60 61 satelite-embedded attribution-e  5059
+autolink_nodes 62 5059 multinuclear Same-Unit  5060
+#autolink_nodes 62 5058 multinuclear Contrast  5061
+#UNDID
+autolink_nodes 5058 5060 multinuclear Contrast  5061
+autolink_nodes 5057 5061 satelite elaboration-additional  5062
+autolink_nodes 5056 5062 satelite elaboration-additional  5063
+create-a-node-here really 31.126 65 { \n\nWall Street securities firms, "the primary source of liquidity for the high yield market," have been net sellers of junk bonds}
+create-a-node-here really 31.157 66 { because of trading losses,}
+create-a-node-here really 31.212 67 { Deltec said in a recent, grim report to customers.}
+autolink_nodes 65 66 satelite explanation-argumentative  5064
+autolink_nodes 5064 67 satelite attribution  5065
+autolink_nodes 5061 5065 satelite interpretation-s  5066
+create-a-node-here really 32.53 68 {\nMutual funds have also been net sellers of junk bonds}
+create-a-node-here really 32.181 69 { as junk's relatively poor performance and negative press coverage have produced "above-normal" redemptions by shareholders,}
+create-a-node-here really 32.198 70 { Deltec said.}
+nextSentence really
+autolink_nodes 68 69 satelite explanation-argumentative  5067
+autolink_nodes 5067 70 satelite attribution  5068
+autolink_nodes 5066 5068 satelite elaboration-additional  5069
+create-a-node-here really 34.10 71 { \n\nInvestors,}
+create-a-node-here really 34.36 72 { trying to raise cash,}
+create-a-node-here really 34.115 73 { have sold "large liquid issues" such as RJR Holdings Corp. and Kroger Co.;}
+autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e  5070
+autolink_nodes 73 5070 multinuclear Same-Unit  5071
+create-a-node-here really 34.197 74 { declines in these benchmark issues have contributed to the market's distress.}
+nextSentence really
+#autolink_nodes 5071 74 satelite elaboration-additional  5072
+#UNDID
+disconnect_node 5068 disconnect
+autolink_nodes 5062 5068 satelite elaboration-additional  5072
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066}
+autolink_nodes 5072 5071 satelite elaboration-additional  5073
+autolink_nodes 5071 74 satelite elaboration-additional  5074
+create-a-node-here really 36.4 75 { \n\nAnd,}
+create-a-node-here really 36.21 76 { Deltec said,}
+create-a-node-here really 36.59 77 { buying has been severely reduced }
+create-a-node-here really 36.179 78 {because savings and loans have been restricted in their junk purchases by recently passed congressional legislation.}
+autolink_nodes 75 76 satelite-embedded attribution-e  5075
+autolink_nodes 77 5075 multinuclear Same-Unit  5076
+autolink_nodes 5076 78 satelite explanation-argumentative  5077
+create-a-node-here really 36.273 79 { "In fact, savings and loans were sellers of high yield holdings throughout the quarter," }
+create-a-node-here really 36.289 80 {Deltec said.}
+nextSentence really
+autolink_nodes 79 80 satelite attribution  5078
+#create-a-node-here really 38.29 81 { \n\nMs. Minella and Ms. Strasser }
+#UNDID
+#create-a-node-here really 38.33 81 { \n\nMs. Minella and Ms. Strasser say }
+#create-a-node-here really 38.89 82 {they are managing their junk portfolios defensively,}
+#autolink_nodes 81 82 nucleus attribution  5079
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 78 5078 satelite elaboration-additional  5079
+autolink_nodes 5073 5077 satelite elaboration-additional  5080
+create-a-node-here really 38.33 81 { \n\nMs. Minella and Ms. Strasser say }
+create-a-node-here really 38.89 82 {they are managing their junk portfolios defensively,}
+create-a-node-here really 38.107 83 { building cash}
+create-a-node-here really 38.158 84 { and selectively upgrading the overall quality.}
+autolink_nodes 83 84 multinuclear List  5081
+autolink_nodes 82 5081 satelite elaboration-additional  5082
+autolink_nodes 81 5082 nucleus attribution  5083
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077}
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074}
+autolink_nodes 5080 5083 satelite consequence-s  5084
+create-a-node-here really 40.187 85 { \n\nMeanwhile, Prudential, the nation's largest insurer and the biggest investor in junk bonds, has seen the value of its junk bond portfolio drop to $6.5 billion from $7 billion since August}
+create-a-node-here really 40.223 86 { because of falling junk prices.}
+nextSentence really
+#autolink_nodes 85 86 satelite explanation-argumentative  5085
+#UNDID
+autolink_nodes 85 86 satelite result  5085
+create-a-node-here really 40.275 87 { "We certainly do have a lack of liquidity here,}
+create-a-node-here really 40.299 88 { and it's something }
+create-a-node-here really 40.327 89 {to be concerned about," }
+create-a-node-here really 40.375 90 {says James A. Gregoire, a managing director.}
+autolink_nodes 88 89 satelite-embedded elaboration-object-attribute-e  5086
+autolink_nodes 87 5086 satelite elaboration-additional  5087
+autolink_nodes 5087 90 satelite attribution  5088
+autolink_nodes 5085 5088 satelite elaboration-additional  5089
+create-a-node-here really 40.398 91 { "I have no reason }
+create-a-node-here really 40.410 92 {to think}
+create-a-node-here really 40.437 93 { things will get worse,}
+create-a-node-here really 40.469 94 { but this market has a knack}
+create-a-node-here really 40.492 95 { for surprising us.}
+nextSentence really
+autolink_nodes 94 95 satelite-embedded elaboration-object-attribute-e  5090
+autolink_nodes 92 93 nucleus attribution  5091
+autolink_nodes 91 5091 satelite-embedded elaboration-object-attribute-e  5092
+#autolink_nodes 5092 5090 satelite antithesis  5093
+#UNDID
+autolink_nodes 5090 5092 multinuclear Contrast  5093
+create-a-node-here really 41.37 96 {\nThis market teaches us to be humble."}
+autolink_nodes 5093 96 satelite interpretation-s  5094
+autolink_nodes 5088 5094 satelite elaboration-additional  5095
+create-a-node-here really 43.66 97 { \n\nThe junk market's "yield hogs are learning a real painful lesson,"}
+create-a-node-here really 43.79 98 { he says.}
+nextSentence really
+autolink_nodes 97 98 satelite attribution  5096
+autolink_nodes 96 5096 satelite elaboration-additional  5097
+autolink_nodes 5084 5089 satelite elaboration-additional  5098
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081}
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081 5095}
+disconnect_node 5089 disconnect
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081 5095 5055}
+autolink_nodes 5063 5089 satelite elaboration-additional  5099
+create-a-node-here really 45.73 99 { \n\nAlthough the majority of junk bonds outstanding show no signs of default,}
+create-a-node-here really 45.121 100 { the market has downgraded many junk issues }
+create-a-node-here really 45.153 101 {as if they were in trouble,}
+create-a-node-here really 45.279 102 { says Stuart Reese, manager of Aetna Life & Casualty Insurance Co. 's $17 billion investment-grade public bond portfolio.}
+nextSentence really
+autolink_nodes 100 101 satelite manner  5100
+autolink_nodes 99 5100 nucleus concession  5101
+autolink_nodes 5101 102 satelite attribution  5102
+create-a-node-here really 45.298 103 { "But we think}
+create-a-node-here really 45.324 104 { the risks are there }
+create-a-node-here really 45.360 105 {for things getting a lot worse.}
+nextSentence really
+autolink_nodes 104 105 satelite-embedded elaboration-object-attribute-e  5103
+autolink_nodes 103 5103 nucleus attribution  5104
+autolink_nodes 5102 5104 satelite elaboration-additional  5105
+create-a-node-here really 46.41 106 {\nAnd the risks aren't appropriate for us,"}
+create-a-node-here really 46.55 107 { he says.}
+nextSentence really
+autolink_nodes 106 107 satelite attribution  5106
+create-a-node-here really 47.93 108 {\nThe big insurer, unlike Prudential, owns only about $150 million of publicly sold junk bonds.}
+nextSentence really
+autolink_nodes 5106 108 satelite explanation-argumentative  5107
+disconnect_node 5104 disconnect
+autolink_nodes 5104 5107 satelite elaboration-additional  5108
+autolink_nodes 5102 5108 satelite explanation-argumentative  5109
+autolink_nodes 5099 5109 satelite elaboration-additional  5110
+create-a-node-here really 49.37 109 { \n\nThe string of big junk bond defaults,}
+create-a-node-here really 49.108 110 { which have been a major cause of the market's problems this year,}
+create-a-node-here really 49.136 111 { probably will persist,}
+create-a-node-here really 49.160 112 { some analysts say.}
+nextSentence really
+autolink_nodes 109 110 satelite-embedded elaboration-object-attribute-e  5111
+autolink_nodes 111 5111 multinuclear Same-Unit  5112
+autolink_nodes 5112 112 satelite attribution  5113
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081 5095 5055 5109}
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081 5095 5055}
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081 5095 5055 5100}
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081 5095 5055}
+create-a-node-here really 49.217 113 { "If anything, we're going to see defaults increase }
+create-a-node-here really 49.260 114 {because credit ratings have declined,"}
+create-a-node-here really 49.379 115 { says Paul Asquith, associate professor at the Massachusetts Institute of Technology's Sloan School of Management.}
+nextSentence really
+autolink_nodes 113 114 satelite explanation-argumentative  5114
+autolink_nodes 5114 115 satelite attribution  5115
+create-a-node-here really 51.12 116 { \n\nMr. Asquith,}
+create-a-node-here really 51.81 117 { whose study on junk bond defaults caused a furor on Wall Street}
+create-a-node-here really 51.120 118 { when it was disclosed last April,}
+create-a-node-here really 51.130 119 { says}
+create-a-node-here really 51.221 120 { this year's junk bond defaults already show a high correlation with his own findings.}
+nextSentence really
+autolink_nodes 119 120 nucleus attribution  5116
+autolink_nodes 5113 5115 satelite elaboration-additional  5117
+#autolink_nodes 117 118 satelite circumstance  5118
+#UNDID
+autolink_nodes 117 118 satelite circumstance  5118
+autolink_nodes 116 5118 satelite-embedded elaboration-additional-e  5119
+autolink_nodes 5116 5119 multinuclear Same-Unit  5120
+create-a-node-here really 52.16 121 {\nHis study showed}
+create-a-node-here really 52.85 122 { that junk bonds over time had a cumulative default rate of 34%.}
+autolink_nodes 121 122 nucleus attribution  5121
+autolink_nodes 5120 5121 satelite elaboration-additional  5122
+create-a-node-here really 54.52 123 { \n\nOne indication of a growing number of junk defaults,}
+create-a-node-here really 54.75 124 { Mr. Asquith says,}
+create-a-node-here really 54.148 125 { is that about half of the $3 billion of corporate bonds outstanding}
+create-a-node-here really 54.213 126 { that have been lowered to a default rating by S&P this year}
+create-a-node-here really 54.233 127 { are junk bonds}
+create-a-node-here really 54.301 128 { sold during the market's big issue years of 1984 through 1986.}
+nextSentence really
+autolink_nodes 127 128 satelite-embedded elaboration-object-attribute-e  5123
+autolink_nodes 123 124 satelite-embedded attribution-e  5124
+autolink_nodes 125 5124 multinuclear Same-Unit  5125
+autolink_nodes 125 126 satelite-embedded elaboration-object-attribute-e  5126
+autolink_nodes 5125 5123 multinuclear Same-Unit below 5126
+create-a-node-here really 56.12 129 { \n\nThese bonds,}
+create-a-node-here really 56.37 130 { now rated single-D,}
+create-a-node-here really 56.100 131 { include junk offerings by AP Industries, Columbia Savings}
+create-a-node-here really 56.117 132 { (Colorado),}
+create-a-node-here really 56.304 133 { First Texas Savings Association, Gilbraltar Financial Corp., Integrated Resources Inc., Metropolitan Broadcasting Corp., Resorts International Inc., Southmark Corp. and Vyquest Inc.}
+autolink_nodes 131 132 satelite-embedded elaboration-additional-e  5127
+autolink_nodes 133 5127 multinuclear Same-Unit  5128
+autolink_nodes 129 130 satelite-embedded elaboration-additional-e  5129
+autolink_nodes 5128 5129 multinuclear Same-Unit below 5129
+autolink_nodes 5125 5128 satelite elaboration-additional  5130
+autolink_nodes 5121 5130 satelite elaboration-additional  5131
+create-a-node-here really 58.61 134 { \n\n"Obviously, we got a lot more smoke than fire from the people}
+create-a-node-here really 58.78 135 { who told us}
+create-a-node-here really 58.112 136 { the market wasn't so risky,"}
+create-a-node-here really 58.246 137 { says Bradford Cornell, professor of finance at University of California's Anderson Graduate School of Management in Los Angeles.}
+nextSentence really
+autolink_nodes 135 136 nucleus attribution  5132
+autolink_nodes 134 5132 satelite-embedded elaboration-object-attribute-e  5133
+autolink_nodes 5133 137 satelite attribution  5134
+create-a-node-here really 59.39 138 {\nMr. Cornell has just completed a study }
+create-a-node-here really 59.55 139 {that finds }
+create-a-node-here really 59.172 140 {that the risks and returns of junk bonds are less than on common stocks but more than on investment-grade bonds.}
+nextSentence really
+autolink_nodes 139 140 nucleus attribution  5135
+autolink_nodes 138 5135 satelite-embedded elaboration-object-attribute-e  5136
+autolink_nodes 5134 5136 satelite elaboration-additional  5137
+create-a-node-here really 60.17 141 {\nMr. Cornell says:}
+create-a-node-here really 60.53 142 { "The junk market is no bonanza}
+create-a-node-here really 60.77 143 { as Drexel claimed,}
+create-a-node-here really 60.112 144 { but it also isn't a disaster }
+create-a-node-here really 60.140 145 {as the doomsayers say."}
+nextSentence really
+autolink_nodes 144 145 satelite attribution  5138
+autolink_nodes 142 143 satelite attribution  5139
+autolink_nodes 5138 5139 multinuclear Contrast  5140
+autolink_nodes 141 5140 nucleus attribution  5141
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081 5095 5055 5136}
+autolink_nodes 5137 5141 satelite elaboration-additional  5142
+autolink_nodes 5115 5122 satelite elaboration-additional  5143
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081 5095 5055 5136 5131}
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081 5095 5055 5136 5131 5122}
+autolink_nodes 5143 5142 satelite antithesis  5144
+autolink_nodes 5110 5117 satelite elaboration-additional  5145
+autolink_nodes 5051 5145 satelite elaboration-additional  5146
+create-a-node-here really 62.35 146 { \n\nDespite the junk market's problems,}
+create-a-node-here really 62.102 147 { Drexel continues to enjoy a loyalty among junk bond investors}
+create-a-node-here really 62.150 148 { that its Wall Street rivals haven't found.}
+nextSentence really
+autolink_nodes 147 148 satelite-embedded elaboration-object-attribute-e  5147
+#autolink_nodes 5147 146 satelite antithesis  5148
+#UNDID
+autolink_nodes 5147 146 satelite concession  5148
+create-a-node-here really 63.171 149 {\nDuring the past three weeks, for example, Drexel has sold $1.3 billion of new junk bonds for Turner Broadcasting Co., Uniroyal Chemical, Continental Air and Duff & Phelps.}
+autolink_nodes 5148 149 satelite evidence  5149
+create-a-node-here really 65.89 150 { \n\nStill, the list of troubled Drexel bond offerings dwarfs that of any firm on Wall Street,}
+create-a-node-here really 65.128 151 { as does its successful offerings.}
+nextSentence really
+autolink_nodes 150 151 satelite comparison  5150
+create-a-node-here really 66.156 152 {\nTroubled Drexel-underwritten issues include Resorts International, Braniff, Integrated Resources, SCI TV, Gillette Holdings, Western Electric and Southmark.}
+nextSentence really
+autolink_nodes 5150 152 satelite elaboration-additional  5151
+autolink_nodes 5151 5149 satelite antithesis  5152
+create-a-node-here really 68.49 153 { \n\n"Quality junk bonds will continue to trade well,"}
+create-a-node-here really 68.127 154 { says Michael Holland, chairman of Salomon Brothers Asset Management Inc.}
+autolink_nodes 153 154 satelite attribution  5153
+create-a-node-here really 68.147 155 { "But the deals}
+create-a-node-here really 68.188 156 { that never should have been brought}
+create-a-node-here really 68.225 157 { have now become nuclear waste."}
+nextSentence really
+autolink_nodes 155 156 satelite-embedded elaboration-object-attribute-e  5154
+autolink_nodes 157 5154 multinuclear Same-Unit  5155
+autolink_nodes 5155 5153 satelite antithesis  5156
+autolink_nodes 5152 5156 satelite interpretation-s  5157
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081 5095 5055 5136 5131 5122 5050}
+collapsed_nodes {5017 5031 5039 5041 5018 5007 5066 5077 5074 5081 5095 5055 5136 5131 5122 5050 5145}
+autolink_nodes 5146 5157 satelite elaboration-additional  5158
+disconnect_node 5157 disconnect
+autolink_nodes 5146 5157 satelite elaboration-additional  5159
+collapsed_nodes {5017 5031 5039 5041 5018 5066 5077 5074 5081 5095 5055 5136 5131 5122 5050 5145}
+collapsed_nodes {5031 5039 5041 5066 5077 5074 5081 5095 5055 5136 5131 5122 5050 5145}
+collapsed_nodes {5066 5077 5074 5081 5095 5055 5136 5131 5122 5050 5145}
+collapsed_nodes {5066 5077 5074 5081 5095 5055 5136 5131 5122 5145}
+collapsed_nodes {}

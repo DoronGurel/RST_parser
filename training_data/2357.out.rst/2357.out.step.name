@@ -1,0 +1,83 @@
+nextSentence really
+create-a-node-here really 2.35 1 {\nA group of Arby's franchisees said }
+create-a-node-here really 2.65 2 {they formed an association }
+create-a-node-here really 2.148 3 {to oppose Miami Beach financier Victor Posner's control of the restaurant chain.}
+nextSentence really
+autolink_nodes 2 3 satelite purpose  5001
+autolink_nodes 1 5001 nucleus attribution  5002
+create-a-node-here really 4.94 4 { \n\nThe decision is the latest move in an escalating battle between the franchisees and Mr. Posner}
+create-a-node-here really 4.119 5 { that began in August.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 5002 5003 satelite elaboration-additional  5004
+create-a-node-here really 5.21 6 {\nAt the time, a group }
+create-a-node-here really 5.50 7 {called R.B. Partners Ltd.,}
+create-a-node-here really 5.104 8 { consisting of eight of Arby's largest franchisees,}
+create-a-node-here really 5.138 9 { offered more than $200 million}
+create-a-node-here really 5.161 10 { to buy Arby's Inc.,}
+create-a-node-here really 5.192 11 { which is part of DWG Corp.}
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 9 5005 satelite purpose  5006
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 5007 8 satelite-embedded elaboration-object-attribute-e  5008
+autolink_nodes 5008 5006 multinuclear Same-Unit  5009
+change_rel 7 elaboration-additional-e
+autolink_nodes 5003 5009 satelite elaboration-additional  5010
+create-a-node-here really 5.247 12 { DWG is a holding company controlled by Mr. Posner.}
+nextSentence really
+autolink_nodes 11 12 satelite elaboration-additional  5011
+create-a-node-here really 6.124 13 {\nOne week later, Leonard H. Roberts, president and chief executive officer of Arby's, was fired in a dispute with Mr. Posner.}
+nextSentence really
+autolink_nodes 5009 13 multinuclear Sequence above 5012
+create-a-node-here really 8.65 14 { \n\nFriday, 42 franchisees announced the formation of an association }
+create-a-node-here really 8.103 15 {-- called A.P. Association Inc. --}
+create-a-node-here really 8.157 16 { to "preserve the integrity of the Arby's system."}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-additional-e  5013
+autolink_nodes 5013 16 satelite purpose  5014
+create-a-node-here really 8.257 17 { The franchisees, owners or operators of 1,000 of the 1,900 franchised Arby's in the U.S., said:}
+create-a-node-here really 8.281 18 { "We have concluded }
+create-a-node-here really 8.365 19 {that continued control of Arby's by Victor Posner is totally unacceptable to us,}
+create-a-node-here really 8.450 20 { because it is extremely likely to cause irreparable damage to the Arby's system.}
+nextSentence really
+autolink_nodes 19 20 satelite reason  5015
+autolink_nodes 18 5015 nucleus attribution  5016
+autolink_nodes 17 5016 nucleus attribution  5017
+autolink_nodes 5014 5017 satelite elaboration-additional  5018
+create-a-node-here really 9.23 21 {\nWe support all efforts }
+create-a-node-here really 9.102 22 {to remove Victor Posner from control of Arby's Inc. and the Arby's system."}
+nextSentence really
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5019
+autolink_nodes 5017 5019 satelite elaboration-additional  5020
+collapsed_nodes {5010}
+autolink_nodes 5004 5018 satelite elaboration-additional  5021
+create-a-node-here really 11.14 23 { \n\nThe group said}
+#create-a-node-here really 11.87 24 { it would consider, among other things, withholding royalty payments }
+#create-a-node-here really 11.128 25 {and initiating a class-action lawsuit}
+#create-a-node-here really 11.177 26 { seeking court approval for the withholdings.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 11.124 24 { it would consider, among other things, withholding royalty payments and initiating a class-action lawsuit}
+create-a-node-here really 11.173 25 { seeking court approval for the withholdings.}
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 23 5022 nucleus attribution  5023
+autolink_nodes 5020 5023 satelite elaboration-additional  5024
+create-a-node-here really 13.69 26 { \n\nIn Florida, Renee Mottram, a senior vice president at DWG, responded:}
+create-a-node-here really 13.89 27 { "We don't think}
+create-a-node-here really 13.150 28 { any individual or group should disrupt a winning system }
+create-a-node-here really 13.253 29 {or illegally interfere with existing contractual relationships for their own self-serving motives."}
+nextSentence really
+autolink_nodes 28 29 multinuclear List  5025
+#autolink_nodes 27 5025 nucleus antithesis  5026
+#UNDID
+autolink_nodes 27 5025 nucleus attribution  5026
+autolink_nodes 26 5026 nucleus attribution  5027
+collapsed_nodes {5010 5018}
+autolink_nodes 5021 5027 satelite statement-response-s  5028
+collapsed_nodes {5018}
+collapsed_nodes {}
+disconnect_node 27 modify
+autolink_nodes 5025 27 satelite attribution-n below 5029

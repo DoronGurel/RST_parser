@@ -1,0 +1,171 @@
+nextSentence really
+create-a-node-here really 2.37 1 {\nThe dollar finished softer yesterday,}
+create-a-node-here really 2.98 2 { tilted lower by continued concern about the stock market.}
+nextSentence really
+autolink_nodes 1 2 satelite circumstance  5001
+create-a-node-here really 4.53 3 { \n\n"We're trading with a very wary eye on Wall Street," }
+autolink_nodes 5001 3 satelite explanation-argumentative  5002
+create-a-node-here really 4.144 4 {said Trevor Woodland, chief corporate trader at Harris Trust & Savings Bank in New York.}
+nextSentence really
+autolink_nodes 3 4 satelite attribution  5003
+create-a-node-here really 4.186 5 { "No one is willing to place a firm bet}
+#autolink_nodes 5003 5 multinuclear List  5004
+#UNDID
+autolink_nodes 5003 5 satelite elaboration-additional  5004
+create-a-node-here really 4.249 6 { that the stock market won't take another tumultuous ride." }
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 6.107 7 {\n\nNews of the major earthquake in California Tuesday triggered a round of dollar sales in early Asian trade, }
+autolink_nodes 5002 7 satelite elaboration-additional  5006
+create-a-node-here really 6.148 8 {but most foreign-exchange dealers said}
+autolink_nodes 7 8 multinuclear Contrast  5007
+create-a-node-here really 6.227 9 { they expect the impact of the quake on financial markets to be short-lived.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5008
+create-a-node-here really 8.83 10 { \n\nDespite the dollar's lackluster performance, some foreign-exchange traders maintain}
+autolink_nodes 5007 10 multinuclear List above 5009
+create-a-node-here really 8.135 11 { that the U.S. unit remains relatively well bid.}
+nextSentence really
+autolink_nodes 10 11 nucleus attribution  5010
+create-a-node-here really 10.34 12 { \n\nHarris Trust's Mr. Woodland noted }
+autolink_nodes 5010 12 satelite explanation-argumentative  5011
+create-a-node-here really 10.147 13 {that the unit continues to show resilience in the face of a barrage of "headline negatives" in recent weeks, }
+autolink_nodes 12 13 nucleus attribution  5012
+create-a-node-here really 10.353 14 {including rate increases in Europe and Japan, aggressive central bank intervention, a 190-point plunge in New York stock prices, an unexpectedly poor U.S. trade report and action by the Federal Reserve }
+autolink_nodes 13 14 satelite-embedded example-e below 5013
+create-a-node-here really 10.383 15 {to nudge U.S. rates lower.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5014
+create-a-node-here really 12.134 16 { \n\nWhile Mr. Woodland doesn't predict a significant climb for the U.S. unit in light of recent moves in interest rates around the world, }
+autolink_nodes 5012 16 satelite elaboration-additional  5015
+create-a-node-here really 12.147 17 {he noted }
+autolink_nodes 16 17 nucleus concession  5016
+create-a-node-here really 12.200 18 {that "its downside potential is surprisingly and }
+autolink_nodes 17 18 nucleus attribution  5017
+create-a-node-here really 12.226 19 {-- for dollar bulls --}
+autolink_nodes 18 19 satelite-embedded circumstance-e below 5018
+create-a-node-here really 12.254 20 { "impressively" limited.}
+nextSentence really
+autolink_nodes 5018 20 multinuclear Same-Unit  5019
+collapsed_nodes {5012}
+nextSentence really
+nextSentence really
+create-a-node-here really 14.165 21 { \n\nIn late New York trading yesterday, the dollar was quoted at 1.8485 marks, down from 1.8667 marks late Tuesday, and at 141.45 yen, down from 142.75 yen late Tuesday.}
+nextSentence really
+autolink_nodes 5009 21 multinuclear List below 5019
+create-a-node-here really 15.61 22 {\nSterling was quoted at $1.5920, up from $1.5753 late Tuesday.}
+nextSentence really
+#autolink_nodes 21 22 satelite elaboration-additional  5020
+#UNDID
+autolink_nodes 21 22 multinuclear List  5020
+nextSentence really
+create-a-node-here really 17.119 23 { \n\nIn Tokyo Thursday, the U.S. currency opened for trading at 140.97 yen, down from Wednesday's Tokyo close of 142.10 yen.}
+nextSentence really
+autolink_nodes 5020 23 multinuclear List below 5020
+collapsed_nodes {5012 5009}
+#create-a-node-here really 19.98 24 { \n\nSince Friday's dive in stock market prices, the Fed has injected reserves into the banking system }
+#autolink_nodes 5006 24 multinuclear Topic-Drift  5021
+#UNDID
+#UNDID
+create-a-node-here really 19.111 24 { \n\nSince Friday's dive in stock market prices, the Fed has injected reserves into the banking system in an effort }
+autolink_nodes 5006 24 multinuclear Topic-Drift  5021
+create-a-node-here really 19.135 25 {to calm the markets }
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5022
+create-a-node-here really 19.190 26 {and avert a repeat of 1987's stock market debacle. }
+autolink_nodes 25 26 nucleus means  5023
+create-a-node-here really 21.19 27 {\n\nSome analysts note }
+collapsed_nodes {5012 5009 5004}
+collapsed_nodes {5012 5009 5004 5006}
+autolink_nodes 5022 27 satelite elaboration-additional  5024
+create-a-node-here really 21.104 28 {that after last week's stock market tailspin and Tuesday's California earthquake,}
+autolink_nodes 27 28 nucleus attribution  5025
+create-a-node-here really 21.184 29 { it's hard to gauge where the central bank wants the key federal funds rate.}
+nextSentence really
+autolink_nodes 28 29 nucleus circumstance  5026
+create-a-node-here really 23.9 30 { \n\nThey say }
+autolink_nodes 5025 30 satelite explanation-argumentative  5027
+create-a-node-here really 23.34 31 {that the earthquake, }
+autolink_nodes 30 31 nucleus attribution  5028
+create-a-node-here really 23.96 32 {by preventing many banks from operating at full capacity, }
+create-a-node-here really 23.139 33 {has given the Fed an additional reason }
+autolink_nodes 32 33 nucleus means  5029
+autolink_nodes 31 5029 multinuclear Same-Unit  5030
+disconnect_node 32 disconnect
+autolink_nodes 33 32 satelite-embedded means-e  5031
+create-a-node-here really 23.177 34 {to keep liquidity at a high level.}
+nextSentence really
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e below 5032
+create-a-node-here really 24.147 35 {\nThe Fed did, in fact, execute $1.5 billion of liquidity-enhancing customer repurchase agreements, the third set of repurchase orders in three days.}
+nextSentence really
+#autolink_nodes 5028 35 satelite elaboration-additional  5033
+#UNDID
+autolink_nodes 5028 35 satelite elaboration-additional  5033
+create-a-node-here really 25.14 36 {\nAnalysts said }
+autolink_nodes 35 36 satelite elaboration-additional  5034
+create-a-node-here really 25.89 37 {the additional liquidity should tend to reduce the federal funds rate. }
+autolink_nodes 36 37 nucleus attribution  5035
+create-a-node-here really 27.21 38 {\n\nFor now, traders say }
+collapsed_nodes {5012 5009 5004 5006 5028}
+autolink_nodes 5027 38 multinuclear List  5036
+create-a-node-here really 27.114 39 {the foreign exchange market is scrutinizing both federal funds and events on Wall Street.}
+nextSentence really
+autolink_nodes 38 39 nucleus attribution  5037
+create-a-node-here really 28.10 40 {\nThey note }
+autolink_nodes 5037 40 satelite elaboration-additional  5038
+create-a-node-here really 28.109 41 {that the dollar remains extremely vulnerable to the slightest bad news from the stock exchange.}
+nextSentence really
+autolink_nodes 40 41 nucleus attribution  5039
+create-a-node-here really 30.111 42 { \n\nIndeed, the U.S. unit edged lower as the Dow Jones Industrial Average dropped about 13 points in early trading.}
+nextSentence really
+autolink_nodes 5039 42 satelite evidence  5040
+create-a-node-here really 31.71 43 {\nA slight recovery in the stock market gave currency traders confidence }
+autolink_nodes 42 43 satelite elaboration-additional  5041
+create-a-node-here really 31.101 44 {to push the dollar higher }
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5042
+create-a-node-here really 31.147 45 {before the unit dropped back by day's end.}
+nextSentence really
+#autolink_nodes 5042 45 nucleus circumstance  5043
+#UNDID
+autolink_nodes 5042 45 nucleus circumstance  5043
+collapsed_nodes {5012 5009 5004 5006 5028 5040}
+create-a-node-here really 33.19 46 { \n\nSome dealers noted }
+autolink_nodes 5036 46 multinuclear List below 5043
+create-a-node-here really 33.99 47 {that nervousness over the recent sharp dive in stock prices could intensify }
+autolink_nodes 46 47 nucleus attribution  5044
+create-a-node-here really 33.166 48 {following suggestions by Bank of Japan Governor Satoshi Sumita }
+#autolink_nodes 47 48 satelite circumstance below 5045
+#UNDID
+autolink_nodes 47 48 satelite circumstance below 5045
+create-a-node-here really 33.273 49 {that appeared to advise Japanese investors to be very careful in investing in U.S. leveraged buy-outs. }
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5046
+create-a-node-here really 35.16 50 {\n\nDealers suggest }
+autolink_nodes 5036 50 multinuclear List below 5046
+create-a-node-here really 35.63 51 {that the only positive news on the horizon }
+autolink_nodes 50 51 nucleus attribution  5047
+create-a-node-here really 35.123 52 {that could detract attention from equities transactions }
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e below 5048
+create-a-node-here really 35.167 53 {is September's U.S. consumer price data.}
+nextSentence really
+autolink_nodes 5048 53 multinuclear Same-Unit  5049
+create-a-node-here really 36.109 54 {\nThe figures, due for release Friday, are expected to show an uptick in inflation to 4.8% from 4.7% in August.}
+nextSentence really
+autolink_nodes 5047 54 satelite elaboration-additional  5050
+create-a-node-here really 38.47 55 { \n\nIf the figures show a hefty rise in inflation, }
+autolink_nodes 5050 55 satelite elaboration-additional  5051
+nextSentence really
+create-a-node-here really 38.98 56 {they could militate against easing by the Fed. }
+autolink_nodes 55 56 nucleus condition  5052
+collapsed_nodes {5012 5009 5004 5006 5028 5040 5051}
+collapsed_nodes {5012 5009 5004 5006 5028 5040 5051 5036}
+nextSentence really
+create-a-node-here really 40.116 57 {\n\nOn the Commodity Exchange in New York, gold for current delivery rose $1.30 to $368.70 an ounce in moderate trading.}
+nextSentence really
+autolink_nodes 5021 57 multinuclear Topic-Shift above 5053
+create-a-node-here really 41.42 58 {\nEstimated volume was three million ounces.}
+nextSentence really
+autolink_nodes 57 58 satelite elaboration-additional  5054
+nextSentence really
+create-a-node-here really 43.69 59 { \n\nIn early trading in Hong Kong Thursday, gold was at $368.15 an ounce.}
+nextSentence really
+autolink_nodes 5054 59 multinuclear Contrast  5055
+collapsed_nodes {5012 5009 5004 5006 5028 5040 5051 5036 5053}
+collapsed_nodes {}

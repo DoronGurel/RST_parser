@@ -1,0 +1,76 @@
+nextSentence really
+create-a-node-here really 2.29 1 {\nApogee Enterprises Inc. said }
+#create-a-node-here really 2.67 2 {profit for the third quarter ending}
+#UNDID
+create-a-node-here really 2.60 2 {profit for the third quarter}
+create-a-node-here really 2.78 3 { ending Dec. 2 }
+#create-a-node-here really 2.91 4 {will fall }
+#create-a-node-here really 2.125 5 {below the year-earlier results }
+#create-a-node-here really 2.175 6 {because of an after-tax charge of $1.9 million }
+#create-a-node-here really 2.199 7 {related to a project }
+#create-a-node-here really 2.237 8 {that was guaranteed by the company.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.122 4 {will fall below the year-earlier results }
+create-a-node-here really 2.172 5 {because of an after-tax charge of $1.9 million }
+create-a-node-here really 2.195 6 {related to a project}
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 2 3 satelite-embedded elaboration-additional-e below 5002
+autolink_nodes 5002 4 multinuclear Same-Unit  5003
+autolink_nodes 5003 5 satelite consequence-s below 5004
+#autolink_nodes 5 6 satelite elaboration-object-attribute  5005
+#UNDID
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 2.234 7 { that was guaranteed by the company.}
+nextSentence really
+create-a-node-here really 4.136 8 { \n\nA year ago, the Minneapolis glass products and aluminum window maker earned $4 million, or 30 cents a share, on revenue of $114 million.}
+nextSentence really
+create-a-node-here really 6.12 9 { \n\nApogee said }
+create-a-node-here really 6.63 10 {the charge stems from a building supply contract}
+create-a-node-here really 6.127 11 { in which the company guaranteed a contractor's performance.}
+nextSentence really
+create-a-node-here really 7.12 12 {\nApogee said }
+create-a-node-here really 7.56 13 {a subcontractor had severe cost overruns}
+create-a-node-here really 7.118 14 { and was unable to fulfill the contract terms on its own, }
+create-a-node-here really 7.169 15 {making it necessary for Apogee to advance cash }
+create-a-node-here really 7.209 16 {to ensure completion of the project.}
+nextSentence really
+create-a-node-here really 9.17 17 { \n\nThe company said }
+create-a-node-here really 9.61 18 {its core businesses have performed well }
+create-a-node-here really 9.142 19 {and it expects them to continue to do so in the remainder of the fiscal year.}
+nextSentence really
+autolink_nodes 6 7 satelite elaboration-object-attribute  5006
+autolink_nodes 5001 8 satelite background  5007
+autolink_nodes 9 10 nucleus attribution  5008
+autolink_nodes 10 11 satelite elaboration-additional below 5009
+autolink_nodes 12 13 nucleus attribution  5010
+autolink_nodes 13 14 multinuclear List  5011
+#autolink_nodes 5011 15 satelite result below 5012
+#autolink_nodes 15 16 satelite purpose  5013
+#UNDID
+#UNDID
+autolink_nodes 15 16 satelite purpose  5012
+#autolink_nodes 5011 5012 multinuclear List below 5012
+#UNDID
+autolink_nodes 5011 5012 multinuclear Problem-Solution above 5013
+autolink_nodes 17 18 nucleus attribution  5014
+autolink_nodes 18 19 multinuclear List  5015
+collapsed_nodes {5001}
+autolink_nodes 5007 5008 satelite elaboration-additional  5016
+autolink_nodes 5008 5010 satelite elaboration-additional  5017
+collapsed_nodes {5001 5017}
+autolink_nodes 5016 5014 satelite elaboration-additional  5018
+collapsed_nodes {}
+collapsed_nodes {5018}
+collapsed_nodes {}
+disconnect_node 3 disconnect
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5019
+disconnect_node 7 disconnect
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5020
+collapsed_nodes {5018}
+collapsed_nodes {}

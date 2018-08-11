@@ -1,0 +1,136 @@
+nextSentence really
+create-a-node-here really 2.93 1 {\nA series of explosions tore through the huge Phillips Petroleum Co. plastics plant near here,}
+create-a-node-here really 2.126 2 { injuring more than a hundred }
+autolink_nodes 1 2 satelite cause  5001
+create-a-node-here really 2.175 3 {and closing parts of the Houston Ship Channel.}
+nextSentence really
+autolink_nodes 2 3 multinuclear List  5002
+create-a-node-here really 4.43 4 { \n\nThere were no immediate reports of deaths, }
+autolink_nodes 5001 4 satelite summary-n  5003
+create-a-node-here really 4.65 5 {but officials said }
+autolink_nodes 4 5 nucleus concession  5004
+create-a-node-here really 4.126 6 {a number of workers were still unaccounted for last night.}
+nextSentence really
+autolink_nodes 5 6 nucleus attribution  5005
+nextSentence really
+create-a-node-here really 6.81 7 { \n\nThe Bartlesville, Okla., oil company late yesterday still hadn't said officially }
+autolink_nodes 5004 7 multinuclear List  5006
+create-a-node-here really 6.121 8 {what caused the explosions and fires,}
+autolink_nodes 7 8 nucleus attribution-n  5007
+create-a-node-here really 6.193 9 { which sent columns of heavy black smoke billowing high into the air.}
+nextSentence really
+autolink_nodes 8 9 satelite elaboration-additional below 5008
+create-a-node-here really 7.32 10 {\nOne local Phillips manager said }
+autolink_nodes 5007 10 satelite elaboration-additional  5009
+create-a-node-here really 7.79 11 {a seal blew in one of the plant's reactors.}
+nextSentence really
+autolink_nodes 10 11 nucleus attribution  5010
+create-a-node-here really 8.112 12 {\nGlenn Cox, Phillips' president and chief operating officer, and other Phillips officials flew from Bartlesville }
+autolink_nodes 5009 12 satelite elaboration-additional  5011
+create-a-node-here really 8.136 13 {to assess the damage}
+autolink_nodes 12 13 satelite purpose  5012
+create-a-node-here really 8.193 14 { and determine the cause of the afternoon explosions.}
+nextSentence really
+autolink_nodes 13 14 multinuclear List  5013
+nextSentence really
+nextSentence really
+create-a-node-here really 11.0 15 { \n\nIn composite trading on the New York Stock Exchange, Phillips Petroleum shares fell $1.125 to $23.125. \n}
+autolink_nodes 5006 15 satelite cause  5014
+create-a-node-here really 12.94 16 {\nThe plastics plant is located on an 800-acre tract in the heart of the petrochemical corridor }
+collapsed_nodes {5011}
+autolink_nodes 5014 16 satelite background  5015
+create-a-node-here really 12.137 17 {that reaches along the U.S. Gulf Coast.}
+nextSentence really
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5016
+disconnect_node 5002 disconnect
+autolink_nodes 1 5002 satelite-embedded cause-e below 5017
+create-a-node-here really 13.66 18 {\nThe U.S. Coast Guard closed six miles of the Houston Ship Channel,}
+autolink_nodes 5016 18 nucleus circumstance  5018
+create-a-node-here really 13.113 19 { where about 150 companies have operations,}
+autolink_nodes 18 19 satelite-embedded elaboration-additional-e below 5019
+create-a-node-here really 13.167 20 { because the thick, black smoke obscured the area.}
+nextSentence really
+autolink_nodes 5019 20 satelite reason below 5020
+create-a-node-here really 14.39 21 {\nThe Port of Houston closed its terminal}
+autolink_nodes 5020 21 satelite elaboration-additional below 5021
+create-a-node-here really 14.68 22 { for handling bulk cargo.}
+nextSentence really
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5022
+create-a-node-here really 16.64 23 { \n\nBroken water lines and gas leaks hindered firefighters' efforts,}
+autolink_nodes 5021 23 satelite elaboration-additional below 5023
+create-a-node-here really 16.108 24 { but by late yesterday authorities said }
+autolink_nodes 23 24 nucleus concession  5024
+create-a-node-here really 16.144 25 {they had the fire under control.}
+nextSentence really
+autolink_nodes 24 25 nucleus attribution  5025
+create-a-node-here really 17.28 26 {\nThe blasts blew out windows,}
+autolink_nodes 5023 26 satelite elaboration-additional below 5026
+create-a-node-here really 17.57 27 { spewed debris for miles }
+autolink_nodes 26 27 multinuclear List  5027
+create-a-node-here really 17.115 28 {and crumpled the ceiling in an area elementary school.}
+nextSentence really
+autolink_nodes 5027 28 multinuclear List below 5027
+create-a-node-here really 18.84 29 {\nThe initial fireball was caught by cameras in downtown Houston, about 10 miles away.}
+nextSentence really
+autolink_nodes 5027 29 satelite elaboration-additional  5028
+create-a-node-here really 20.40 30 { \n\nNearby Pasadena, Texas, police reported }
+autolink_nodes 5028 30 satelite elaboration-additional  5029
+create-a-node-here really 20.94 31 {that 104 people had been taken to area hospitals, }
+autolink_nodes 30 31 nucleus attribution  5030
+create-a-node-here really 20.116 32 {but a spokeswoman }
+autolink_nodes 5030 32 multinuclear Contrast  5031
+create-a-node-here really 20.146 33 {said that toll could rise.}
+nextSentence really
+autolink_nodes 32 33 nucleus attribution  5032
+create-a-node-here really 21.12 34 {\nThe injured,}
+autolink_nodes 5031 34 satelite elaboration-additional  5033
+create-a-node-here really 21.55 35 { including three in critical condition,}
+autolink_nodes 34 35 satelite-embedded example-e  5034
+create-a-node-here really 21.131 36 { were treated for burns, breathing problems and cuts from flying glass, }
+autolink_nodes 5034 36 multinuclear Same-Unit  5035
+create-a-node-here really 21.159 37 {hospital officials said.}
+nextSentence really
+autolink_nodes 5035 37 satelite attribution  5036
+create-a-node-here really 22.54 38 {\nThe plant employs between 800 and 900 on three shifts.}
+nextSentence really
+autolink_nodes 5033 38 satelite elaboration-additional  5037
+create-a-node-here really 23.11 39 {\nThe number }
+autolink_nodes 38 39 satelite elaboration-additional  5038
+create-a-node-here really 23.47 40 {working at the time of the blast}
+autolink_nodes 39 40 satelite-embedded elaboration-object-attribute-e  5039
+create-a-node-here really 23.65 41 { wasn't known.}
+nextSentence really
+autolink_nodes 5039 41 multinuclear Same-Unit  5040
+collapsed_nodes {5011 5036}
+collapsed_nodes {5011 5036 5038}
+collapsed_nodes {5011 5036 5038 5037}
+collapsed_nodes {5011 5036 5038 5037 5029}
+collapsed_nodes {5011 5036 5038 5037 5029 5022}
+collapsed_nodes {5011 5036 5038 5037 5029 5022 5026}
+collapsed_nodes {5011 5036 5038 5037 5029 5022 5026 5015}
+create-a-node-here really 25.81 42 { \n\nYesterday's explosions were the second round in two months at the plastics plant.}
+nextSentence really
+autolink_nodes 5003 42 satelite background  5041
+create-a-node-here really 26.51 43 {\nIn late August, four contract workers were injured }
+autolink_nodes 42 43 satelite elaboration-additional  5042
+create-a-node-here really 26.160 44 {and one Phillips employee died after an explosion at a fuel supply line near the facility's boiler house.}
+nextSentence really
+autolink_nodes 43 44 multinuclear List  5043
+create-a-node-here really 28.84 45 { \n\nThe Phillips facility manufactures polyethylene, polypropylene and K-resin, plastics}
+autolink_nodes 5042 45 satelite elaboration-additional  5044
+create-a-node-here really 28.127 46 { used in a wide array of applications, }
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5045
+create-a-node-here really 28.160 47 {including milk jugs and toys.}
+nextSentence really
+autolink_nodes 46 47 satelite-embedded example-e  5046
+create-a-node-here really 29.64 48 {\nPlastics are the cornerstone of Phillips' chemicals operations, }
+autolink_nodes 5045 48 satelite elaboration-additional  5047
+create-a-node-here really 29.133 49 {which is the biggest single contributor to the company's profits.}
+nextSentence really
+autolink_nodes 48 49 satelite-embedded elaboration-additional-e  5048
+collapsed_nodes {5011 5036 5038 5037 5029 5022 5026 5015 5041}
+collapsed_nodes {}
+collapsed_nodes {5041}
+collapsed_nodes {}
+disconnect_node 5002 disconnect
+autolink_nodes 1 5002 satelite cause  5049

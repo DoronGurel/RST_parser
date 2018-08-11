@@ -1,0 +1,236 @@
+nextSentence really
+create-a-node-here really 2.42 1 {\nGeneral Motors Corp., in a series of moves}
+create-a-node-here really 2.98 2 { that angered union officials in the U.S. and Canada,}
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.115 3 { has signaled }
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 2.200 4 {that as many as five North American assembly plants may not survive the mid-1990s }
+autolink_nodes 5002 4 nucleus attribution  5003
+create-a-node-here really 2.274 5 {as the corporation struggles to cut its excess vehicle-making capacity.}
+nextSentence really
+autolink_nodes 4 5 satelite circumstance below 5004
+create-a-node-here really 4.120 6 { \n\nIn announcements to workers late last week, GM effectively signed death notices for two full-sized van assembly plants, }
+autolink_nodes 5003 6 satelite elaboration-additional  5005
+create-a-node-here really 4.189 7 {and cast serious doubt on the futures of three U.S. car factories.}
+nextSentence really
+autolink_nodes 6 7 multinuclear List  5006
+collapsed_nodes {5003}
+create-a-node-here really 6.29 8 { \n\nGM is under intense pressure }
+autolink_nodes 5005 8 satelite circumstance  5007
+create-a-node-here really 6.51 9 {to close factories }
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5008
+create-a-node-here really 6.79 10 {that became unprofitable }
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5009
+create-a-node-here really 6.158 11 {as the giant auto maker's U.S. market share skidded during the past decade.}
+nextSentence really
+#autolink_nodes 10 11 nucleus cause  5010
+#UNDID
+autolink_nodes 10 11 satelite cause  5010
+change_rel 11 result
+create-a-node-here really 7.13 12 {\nThe company, }
+autolink_nodes 5008 12 satelite elaboration-additional  5011
+create-a-node-here really 7.83 13 {currently using about 80% of its North American vehicle capacity, }
+#create-a-node-here really 8.0 14 {has vowed it will run at 100% of capacity by 1992.\n}
+#autolink_nodes 13 14 nucleus circumstance  5012
+#autolink_nodes 12 5012 multinuclear Same-Unit  5013
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 7.97 14 {has vowed }
+autolink_nodes 13 14 nucleus circumstance  5012
+create-a-node-here really 8.0 15 {it will run at 100% of capacity by 1992.\n}
+autolink_nodes 12 5012 multinuclear Same-Unit  5013
+autolink_nodes 5013 15 nucleus attribution  5014
+create-a-node-here really 8.35 16 {Just a month ago, GM announced }
+autolink_nodes 5014 16 satelite background  5015
+create-a-node-here really 8.129 17 {it would make an aging assembly plant in Lakewood, Ga., the eighth U.S. assembly facility }
+autolink_nodes 16 17 nucleus attribution  5016
+create-a-node-here really 8.153 18 {to close since 1987.}
+nextSentence really
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e below 5017
+create-a-node-here really 10.72 19 { \n\nNow, GM appears to be stepping up the pace of its factory consolidation }
+autolink_nodes 5007 19 satelite elaboration-additional  5018
+create-a-node-here really 10.106 20 {to get in shape for the 1990s.}
+nextSentence really
+autolink_nodes 19 20 satelite purpose  5019
+create-a-node-here really 11.76 21 {\nOne reason is mounting competition from new Japanese car plants in the U.S. }
+autolink_nodes 5019 21 satelite reason  5020
+create-a-node-here really 11.154 22 {that are pouring out more than one million vehicles a year at costs lower }
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5021
+create-a-node-here really 11.176 23 {than GM can match.}
+nextSentence really
+autolink_nodes 22 23 satelite-embedded comparison-e  5022
+create-a-node-here really 12.66 24 {\nAnother is that United Auto Workers union officials have signaled }
+autolink_nodes 5021 24 multinuclear List  5023
+create-a-node-here really 12.147 25 {they want tighter no-layoff provisions in the new Big Three national contract}
+autolink_nodes 24 25 nucleus attribution  5024
+create-a-node-here really 12.186 26 { that will be negotiated next year.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e below 5025
+create-a-node-here really 13.40 27 {\nGM officials want to get their strategy }
+autolink_nodes 5020 27 satelite elaboration-additional  5026
+create-a-node-here really 13.82 28 {to reduce capacity and the work force }
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5027
+create-a-node-here really 13.95 29 {in place }
+autolink_nodes 5027 29 multinuclear Same-Unit  5028
+create-a-node-here really 13.124 30 {before those talks begin.}
+nextSentence really
+autolink_nodes 5028 30 nucleus circumstance  5029
+create-a-node-here really 15.62 31 { \n\nThe problem, however, is that GM's moves are coming at a time }
+collapsed_nodes {5003 5029}
+collapsed_nodes {5003 5029 5023}
+autolink_nodes 5026 31 satelite elaboration-additional  5030
+create-a-node-here really 15.116 32 {when UAW leaders are trying to silence dissidents }
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e  5031
+create-a-node-here really 15.130 33 {who charge}
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5032
+create-a-node-here really 15.186 34 { the union is too passive in the face of GM layoffs.}
+nextSentence really
+autolink_nodes 33 34 nucleus attribution  5033
+create-a-node-here really 16.60 35 {\nAgainst that backdrop, UAW Vice President Stephen P. Yokich,}
+autolink_nodes 5031 35 satelite elaboration-additional  5034
+create-a-node-here really 16.119 36 { who recently became head of the union's GM department,}
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5035
+create-a-node-here really 16.150 37 { issued a statement Friday }
+autolink_nodes 5035 37 multinuclear Same-Unit  5036
+create-a-node-here really 16.214 38 {blasting GM's "flagrant insensitivity" toward union members.}
+nextSentence really
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5037
+create-a-node-here really 17.26 39 {\nThe auto maker's decision }
+autolink_nodes 5036 39 satelite explanation-argumentative  5038
+create-a-node-here really 17.151 40 {to let word of the latest shutdowns and product reassignments trickle out in separate communiques to the affected plants }
+autolink_nodes 39 40 satelite-embedded elaboration-object-attribute-e  5039
+create-a-node-here really 17.207 41 {showed "disarray" and an "inability or unwillingness}
+autolink_nodes 5039 41 multinuclear Same-Unit  5040
+create-a-node-here really 17.248 42 { to provide consistent information," }
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5041
+create-a-node-here really 17.268 43 {Mr. Yokich said.}
+nextSentence really
+autolink_nodes 5040 43 satelite attribution  5042
+create-a-node-here really 19.65 44 { \n\nGM officials told workers late last week of the following moves: }
+autolink_nodes 5038 44 satelite elaboration-additional  5043
+collapsed_nodes {5003 5029 5023 5042}
+collapsed_nodes {5003 5029 5023 5042 5033}
+collapsed_nodes {5003 5029 5023 5042 5033 5036}
+collapsed_nodes {5003 5029 5023 5042 5033 5036 5020}
+create-a-node-here really 21.86 45 {\n\nProduction of full-sized vans will be consolidated into a single plant in Flint, Mich.}
+nextSentence really
+autolink_nodes 44 45 satelite elaboration-set-member  5044
+create-a-node-here really 22.22 46 {\nThat means two plants }
+autolink_nodes 45 46 satelite interpretation-s  5045
+create-a-node-here really 22.94 47 {-- one in Scarborough, Ontario, and the other in Lordstown, Ohio -- }
+autolink_nodes 46 47 satelite-embedded elaboration-general-specific-e  5046
+create-a-node-here really 22.147 48 {probably will be shut down after the end of 1991.}
+nextSentence really
+autolink_nodes 5046 48 multinuclear Same-Unit  5047
+create-a-node-here really 23.94 49 {\nThe shutdowns will idle about 3,000 Canadian assembly workers and about 2,500 workers in Ohio.}
+nextSentence really
+autolink_nodes 5047 49 satelite elaboration-additional  5048
+create-a-node-here really 24.93 50 {\nRobert White, Canadian Auto Workers union president, used the impending Scarborough shutdown }
+autolink_nodes 5048 50 satelite elaboration-additional  5049
+create-a-node-here really 24.195 51 {to criticize the U.S.-Canada free trade agreement and its champion, Prime Minister Brian Mulroney.}
+nextSentence really
+autolink_nodes 50 51 satelite purpose  5050
+create-a-node-here really 26.62 52 { \n\nBut Canadian auto workers may benefit from a separate GM move }
+autolink_nodes 5050 52 multinuclear List  5051
+create-a-node-here really 26.119 53 {that affects three U.S. car plants and one in Quebec.}
+nextSentence really
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5052
+nextSentence really
+nextSentence really
+create-a-node-here really 28.82 54 { \n\nWorkers at plants in Van Nuys, Calif., Oklahoma City and Pontiac, Mich., were told}
+autolink_nodes 5045 54 multinuclear List  5053
+create-a-node-here really 28.221 55 { their facilities are no longer being considered to build the next generation of the Pontiac Firebird and Chevrolet Camaro muscle cars.}
+nextSentence really
+autolink_nodes 54 55 nucleus attribution  5054
+create-a-node-here really 29.15 56 {\nGM is studying }
+autolink_nodes 5054 56 satelite elaboration-additional  5055
+create-a-node-here really 29.109 57 {whether it can build the new Camaro-Firebird profitably at a plant in St. Therese, Quebec,}
+autolink_nodes 56 57 nucleus attribution  5056
+create-a-node-here really 29.147 58 { company and union officials said.}
+nextSentence really
+autolink_nodes 5056 58 satelite attribution  5057
+create-a-node-here really 31.99 59 { \n\nThat announcement left union officials in Van Nuys and Oklahoma City uncertain about their futures.}
+nextSentence really
+autolink_nodes 5057 59 satelite elaboration-additional  5058
+create-a-node-here really 32.20 60 {\nThe Van Nuys plant, }
+autolink_nodes 59 60 satelite explanation-argumentative  5059
+create-a-node-here really 32.59 61 {which employs about 3,000 workers, }
+autolink_nodes 60 61 satelite-embedded elaboration-additional-e  5060
+create-a-node-here really 32.86 62 {doesn't have a product }
+autolink_nodes 5060 62 multinuclear Same-Unit  5061
+create-a-node-here really 32.110 63 {to build after 1993.}
+nextSentence really
+autolink_nodes 62 63 satelite-embedded elaboration-object-attribute-e  5062
+create-a-node-here really 33.42 64 {\nJerry Shrieves, UAW local president, said }
+autolink_nodes 5061 64 satelite elaboration-additional  5063
+create-a-node-here really 33.86 65 {the facility was asked to draw up plans }
+autolink_nodes 64 65 nucleus attribution  5064
+create-a-node-here really 33.129 66 {to continue working as a "flex plant," }
+autolink_nodes 65 66 satelite-embedded elaboration-object-attribute-e below 5065
+create-a-node-here really 33.203 67 {which could build several different types of products on short notice }
+autolink_nodes 66 67 satelite-embedded elaboration-additional-e  5066
+create-a-node-here really 33.225 68 {to satisfy demand.}
+nextSentence really
+autolink_nodes 67 68 satelite purpose  5067
+collapsed_nodes {5003 5029 5023 5042 5033 5036 5020 5064}
+collapsed_nodes {5003 5029 5023 5042 5033 5036 5020 5064 5061}
+collapsed_nodes {5003 5029 5023 5042 5033 5036 5020}
+collapsed_nodes {5003 5029 5023 5042 5033 5036 5020 5064}
+create-a-node-here really 35.27 69 { \n\nAt the Oklahoma City plant,}
+autolink_nodes 5063 69 multinuclear List  5068
+create-a-node-here really 35.66 70 { which employs about 6,000 workers }
+autolink_nodes 69 70 satelite-embedded elaboration-additional-e  5069
+create-a-node-here really 35.121 71 {building the eight-year-old A-body mid-sized cars, }
+autolink_nodes 70 71 satelite-embedded elaboration-object-attribute-e  5070
+create-a-node-here really 35.175 72 {Steve Featherston, UAW local vice president, said }
+autolink_nodes 5069 72 multinuclear Same-Unit  5071
+create-a-node-here really 35.208 73 {the plant has no new product }
+autolink_nodes 72 73 nucleus attribution  5072
+create-a-node-here really 35.222 74 {lined up, }
+autolink_nodes 73 74 satelite-embedded elaboration-object-attribute-e below 5073
+create-a-node-here really 35.249 75 {and "none of us knows" }
+autolink_nodes 5073 75 multinuclear List  5074
+create-a-node-here really 35.283 76 {when the A-body cars will die.}
+nextSentence really
+autolink_nodes 75 76 nucleus attribution-n  5075
+create-a-node-here really 36.8 77 {\nHe said }
+autolink_nodes 5072 77 satelite elaboration-additional  5076
+create-a-node-here really 36.24 78 {he believes }
+autolink_nodes 77 78 nucleus attribution  5077
+create-a-node-here really 36.41 79 {GM has plans }
+autolink_nodes 78 79 nucleus attribution  5078
+create-a-node-here really 36.93 80 {to keep building A-body cars into the mid-1990s.}
+nextSentence really
+autolink_nodes 79 80 satelite-embedded elaboration-object-attribute-e below 5079
+create-a-node-here really 38.77 81 { \n\nAt Pontiac, however, the Camaro-Firebird decision appears to erase UAW hopes }
+collapsed_nodes {5003 5029 5023 5042 5033 5036 5020 5064 5072}
+collapsed_nodes {5003 5029 5023 5042 5033 5036 5020 5064 5072 5068}
+collapsed_nodes {5003 5029 5023 5042 5033 5036 5020}
+autolink_nodes 5077 81 multinuclear Contrast  5080
+create-a-node-here really 38.131 82 {that GM would reopen the shuttered assembly plant }
+autolink_nodes 81 82 satelite-embedded elaboration-object-attribute-e  5081
+create-a-node-here really 38.202 83 {that last built the plastic-bodied, two-seater Pontiac Fiero model.}
+nextSentence really
+autolink_nodes 82 83 satelite-embedded elaboration-object-attribute-e  5082
+create-a-node-here really 40.76 84 { \n\nThe Fiero plant was viewed as a model of union-management cooperation at GM }
+autolink_nodes 5081 84 satelite elaboration-additional  5083
+create-a-node-here really 40.161 85 {before slow sales of the Fiero forced the company to close the factory last year.}
+nextSentence really
+autolink_nodes 84 85 multinuclear Sequence  5084
+create-a-node-here really 41.61 86 {\nUnion officials have taken a beating politically as a result.}
+nextSentence really
+autolink_nodes 5084 86 satelite cause  5085
+create-a-node-here really 42.102 87 {\nDissident UAW members have used the Fiero plant as a symbol of labor-management cooperation's failure.}
+nextSentence really
+autolink_nodes 5083 87 satelite elaboration-additional  5086
+collapsed_nodes {5003 5029 5023 5042 5033 5036 5020 5018}
+collapsed_nodes {}
+disconnect_node 13 disconnect
+autolink_nodes 14 13 satelite-embedded circumstance-e  5087
+disconnect_node 72 disconnect
+disconnect_node 5076 disconnect
+autolink_nodes 5069 72 multinuclear Same-Unit  5088
+autolink_nodes 5088 5076 nucleus attribution  5089
+collapsed_nodes {5018}
+collapsed_nodes {}

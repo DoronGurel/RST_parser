@@ -1,0 +1,30 @@
+nextSentence really
+create-a-node-here really 2.45 1 {\nLion Nathan Ltd. agreed to buy the franchise }
+create-a-node-here really 2.126 2 {to bottle, distribute and market Pepsi-Cola soft-drink products in Australia, }
+create-a-node-here really 2.146 3 {the company said.}
+nextSentence really
+create-a-node-here really 4.65 4 { \n\nThe New Zealand brewing and retail concern didn't disclose terms.}
+nextSentence really
+create-a-node-here really 6.34 5 { \n\nThe agreement is effective Jan. 1 }
+create-a-node-here really 6.113 6 {and is subject to approval from Australia's Foreign Investment Review Board.}
+nextSentence really
+create-a-node-here really 8.97 7 { \n\nCadbury Schweppes Australia Ltd. has held the Australian Pepsi franchise for the past four years.}
+nextSentence really
+create-a-node-here really 9.84 8 {\nLion Nathan and PepsiCola Australia, a unit of PepsiCo Inc. of the U.S., didn't say }
+create-a-node-here really 9.143 9 {why Cadbury Schweppes will no longer hold the franchise.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+autolink_nodes 5001 3 satelite attribution  5002
+autolink_nodes 5002 4 satelite elaboration-additional  5003
+autolink_nodes 5 6 multinuclear List  5004
+autolink_nodes 5003 5004 satelite elaboration-additional  5005
+autolink_nodes 8 9 nucleus attribution-n  5006
+autolink_nodes 5005 7 satelite consequence-s  5007
+collapsed_nodes {5003}
+autolink_nodes 5007 5006 satelite elaboration-additional  5008
+collapsed_nodes {}
+collapsed_nodes {5008}
+collapsed_nodes {}
+collapsed_nodes {}
+disconnect_node 7 disconnect
+autolink_nodes 5005 7 satelite background below 5009

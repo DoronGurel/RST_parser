@@ -1,0 +1,296 @@
+nextSentence really
+create-a-node-here really 2.124 1 {\nEarnings for most of the nation's major pharmaceutical makers are believed to have moved ahead briskly in the third quarter,}
+create-a-node-here really 2.206 2 { as companies with newer, big-selling prescription drugs fared especially well.}
+nextSentence really
+#autolink_nodes 1 2 satelite explanation-argumentative  5001
+#UNDID
+#autolink_nodes 1 2 satelite elaboration-set-member  5001
+#UNDID
+autolink_nodes 1 2 satelite elaboration-additional  5001
+create-a-node-here really 4.130 3 { \n\nFor the third consecutive quarter, however, most of the companies' revenues were battered by adverse foreign-currency translations}
+create-a-node-here really 4.174 4 { as a result of the strong dollar abroad.}
+#autolink_nodes 3 4 nucleus result  5002
+#UNDID
+autolink_nodes 3 4 satelite result  5002
+autolink_nodes 5001 5002 satelite antithesis  5003
+create-a-node-here really 6.13 5 { \n\nAnalysts said}
+create-a-node-here really 6.199 6 { that Merck & Co., Eli Lilly & Co., Warner-Lambert Co. and the Squibb Corp. unit of Bristol-Myers Squibb Co. all benefited from strong sales of relatively new, higher-priced medicines}
+create-a-node-here really 6.236 7 { that provide wide profit margins.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 5 5004 nucleus attribution  5005
+create-a-node-here really 7.102 8 {\nLess robust earnings at Pfizer Inc. and Upjohn Co. were attributed to those companies' older products,}
+create-a-node-here really 7.187 9 { many of which face stiffening competition from generic drugs and other medicines.}
+nextSentence really
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5003 5005 satelite example  5007
+autolink_nodes 5007 5006 satelite elaboration-additional  5008
+create-a-node-here really 9.59 10 { \n\nJoseph Riccardo, an analyst with Bear, Stearns & Co., said }
+create-a-node-here really 9.148 11 {that over the past few years most drug makers have shed their slow-growing businesses}
+create-a-node-here really 9.187 12 { and instituted other cost savings,}
+create-a-node-here really 9.261 13 { such as consolidating manufacturing plants and administrative staffs.}
+nextSentence really
+#autolink_nodes 12 13 satelite example  5009
+#UNDID
+autolink_nodes 12 13 satelite example  5009
+autolink_nodes 11 5009 multinuclear List  5010
+autolink_nodes 10 5010 nucleus attribution  5011
+create-a-node-here really 10.108 14 {\nAs a result, "major new products are having significant impact, even on a company with very large revenues,"}
+create-a-node-here really 10.131 15 { Mr. Riccardo said.}
+autolink_nodes 14 15 satelite attribution  5012
+autolink_nodes 5011 5012 satelite consequence-s  5013
+collapsed_nodes {5006}
+collapsed_nodes {5006 5005}
+autolink_nodes 5008 5013 satelite explanation-argumentative  5014
+collapsed_nodes {5005}
+collapsed_nodes {}
+disconnect_node 5006 disconnect
+autolink_nodes 5005 5006 satelite comparison  5015
+collapsed_nodes {5015}
+create-a-node-here really 12.13 16 { \n\nAnalysts said}
+create-a-node-here really 12.123 17 { profit for the dozen or so big drug makers, as a group, is estimated to have climbed between 11% and 14%.}
+nextSentence really
+autolink_nodes 16 17 nucleus attribution  5016
+create-a-node-here really 13.29 18 {\nWhile that's not spectacular,}
+create-a-node-here really 13.85 19 { Neil Sweig, an analyst with Prudential Bache, said }
+create-a-node-here really 13.140 20 {that the rate of growth will "look especially good }
+create-a-node-here really 13.174 21 {as compared to other companies}
+create-a-node-here really 13.210 22 { if the economy turns downward."}
+nextSentence really
+autolink_nodes 20 21 satelite comparison  5017
+autolink_nodes 5017 22 satelite condition  5018
+autolink_nodes 19 5018 nucleus attribution  5019
+autolink_nodes 5019 18 satelite antithesis  5020
+#autolink_nodes 5016 5020 nucleus interpretation-n  5021
+#UNDID
+autolink_nodes 5016 5020 satelite interpretation-s  5021
+create-a-node-here really 15.19 23 { \n\nMr. Sweig estimated}
+create-a-node-here really 15.78 24 { that Merck's profit for the quarter rose by about 22%,}
+create-a-node-here really 15.152 25 { propelled by sales of its line-up of fast-growing prescription drugs,}
+create-a-node-here really 15.306 26 { including its anti-cholesterol drug, Mevacor; a high blood pressure medicine, Vasotec; Primaxin, an antibiotic, and Pepcid, an anti-ulcer medication.}
+autolink_nodes 25 26 satelite-embedded elaboration-set-member-e  5022
+autolink_nodes 24 5022 satelite explanation-argumentative  5023
+autolink_nodes 23 5023 nucleus attribution  5024
+create-a-node-here really 16.15 27 {\nProfit climbed }
+create-a-node-here really 16.93 28 {even though Merck's sales were reduced by "one to three percentage points"}
+create-a-node-here really 16.131 29 { as a result of the strong dollar,}
+create-a-node-here really 16.151 30 { Mr. Sweig said.}
+nextSentence really
+autolink_nodes 27 28 satelite concession  5025
+autolink_nodes 5025 29 satelite result  5026
+autolink_nodes 5026 30 satelite attribution  5027
+#autolink_nodes 5024 5027 satelite explanation-argumentative  5028
+#UNDID
+autolink_nodes 5024 5027 satelite elaboration-additional  5028
+create-a-node-here really 17.79 31 {\nIn the third quarter of 1988, Merck earned $311.8 million, or 79 cents a share.}
+nextSentence really
+autolink_nodes 5028 31 satelite elaboration-additional  5029
+collapsed_nodes {}
+create-a-node-here really 19.39 32 { \n\nIn Rahway, N.J., a Merck spokesman said}
+create-a-node-here really 19.90 33 { the company doesn't make earnings projections.}
+nextSentence really
+autolink_nodes 32 33 nucleus attribution  5030
+collapsed_nodes {5027}
+autolink_nodes 5029 5030 satelite antithesis  5031
+create-a-node-here really 21.15 34 { \n\nMr. Sweig said }
+create-a-node-here really 21.32 35 {he estimated }
+create-a-node-here really 21.91 36 {that Lilly's earnings for the quarter jumped about 20%,}
+create-a-node-here really 21.165 37 { largely because of the performance of its new anti-depressant Prozac.}
+nextSentence really
+autolink_nodes 36 37 satelite result  5032
+autolink_nodes 35 5032 nucleus attribution  5033
+autolink_nodes 34 5033 nucleus attribution  5034
+create-a-node-here really 22.9 38 {\nThe drug,}
+create-a-node-here really 22.35 39 { introduced last year,}
+create-a-node-here really 22.102 40 { is expected to generate sales of about $300 million this year.}
+nextSentence really
+autolink_nodes 38 39 satelite-embedded elaboration-additional-e  5035
+autolink_nodes 40 5035 multinuclear Same-Unit  5036
+create-a-node-here really 22.151 41 { "It's turning out to be a real blockbuster,"}
+create-a-node-here really 22.171 42 { Mr. Sweig said.}
+nextSentence really
+autolink_nodes 41 42 satelite attribution  5037
+autolink_nodes 5034 5036 satelite elaboration-additional  5038
+autolink_nodes 5038 5037 satelite evaluation-s  5039
+nextSentence really
+create-a-node-here really 24.76 43 { \n\nIn last year's third quarter, Lilly earned $171.4 million, or $1.20 a share.}
+nextSentence really
+autolink_nodes 5039 43 satelite elaboration-additional  5040
+create-a-node-here really 25.40 44 {\nIn Indianapolis, Lilly declined comment.}
+nextSentence really
+#autolink_nodes 5040 44 satelite elaboration-additional  5041
+#UNDID
+autolink_nodes 5040 44 satelite antithesis  5041
+autolink_nodes 5031 5041 multinuclear List  5042
+collapsed_nodes {5027 5029}
+collapsed_nodes {5027 5029 5040}
+create-a-node-here really 27.21 45 { \n\nSeveral analysts said}
+create-a-node-here really 27.135 46 { they expected Warner-Lambert's profit also to increase by more than 20% from $87.7 million, or $1.25 a share,}
+create-a-node-here really 27.181 47 { it reported in the like period last year.}
+nextSentence really
+autolink_nodes 46 47 satelite-embedded elaboration-object-attribute-e  5043
+autolink_nodes 45 5043 nucleus attribution  5044
+create-a-node-here really 28.34 48 {\nThe company is praised by analysts}
+collapsed_nodes {5027 5029}
+create-a-node-here really 28.86 49 { for sharply lowering its costs in recent years }
+create-a-node-here really 28.146 50 {and shedding numerous companies with low profit margins.}
+autolink_nodes 49 50 multinuclear List  5045
+autolink_nodes 48 5045 satelite reason  5046
+autolink_nodes 5044 5046 satelite elaboration-additional  5047
+create-a-node-here really 29.29 51 {\nThe company's lean operation,}
+create-a-node-here really 29.48 52 { analysts said,}
+create-a-node-here really 29.113 53 { allowed sharp-rising sales from its cholesterol drug, Lopid,}
+create-a-node-here really 29.143 54 { to power earnings growth.}
+nextSentence really
+autolink_nodes 51 52 satelite-embedded attribution-e  5048
+autolink_nodes 53 54 satelite consequence-s  5049
+autolink_nodes 5048 5049 multinuclear Same-Unit  5050
+create-a-node-here really 30.90 55 {\nLopid sales are expected to be about $300 million this year, up from $190 million in 1988.}
+nextSentence really
+autolink_nodes 5050 55 satelite elaboration-additional  5051
+create-a-node-here really 31.57 56 {\nIn Morris Plains, N.J., a spokesman for the company said }
+create-a-node-here really 31.109 57 {the analysts' projections are "in the ballpark."}
+nextSentence really
+autolink_nodes 56 57 nucleus attribution  5052
+autolink_nodes 55 5052 satelite elaboration-additional  5053
+autolink_nodes 5046 5051 satelite elaboration-additional  5054
+collapsed_nodes {5027 5029 5040}
+autolink_nodes 5042 5047 multinuclear List below 5054
+collapsed_nodes {5027 5029 5040 5044}
+create-a-node-here really 33.16 58 { \n\nSquibb's profit,}
+create-a-node-here really 33.100 59 { estimated by analysts to be about 18% above the $123 million, or $1.25 a share,}
+create-a-node-here really 33.144 60 { it earned in the third quarter of 1988,}
+create-a-node-here really 33.210 61 { was the result of especially strong sales of its Capoten drug}
+create-a-node-here really 33.272 62 { for treating high blood pressure and other heart disease.}
+nextSentence really
+autolink_nodes 61 62 satelite-embedded elaboration-object-attribute-e  5055
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5056
+autolink_nodes 58 5056 satelite-embedded elaboration-additional-e  5057
+autolink_nodes 5055 5057 multinuclear Same-Unit  5058
+create-a-node-here really 34.76 63 {\nThe company was officially merged with Bristol-Myers Co. earlier this month.}
+nextSentence really
+autolink_nodes 5058 63 satelite elaboration-additional  5059
+create-a-node-here really 35.34 64 {\nBristol-Myers declined to comment.}
+nextSentence really
+autolink_nodes 5059 64 satelite elaboration-additional  5060
+autolink_nodes 5042 5060 multinuclear List below 5060
+collapsed_nodes {5027 5029 5040 5044 5059}
+create-a-node-here really 37.34 65 { \n\nMr. Riccardo of Bear Stearns said }
+create-a-node-here really 37.231 66 {that Schering-Plough Corp. 's expected profit rise of about 18% to 20%, and Bristol-Meyers's expected profit increase of about 13% are largely because "those companies are really managed well."}
+nextSentence really
+autolink_nodes 65 66 nucleus attribution  5061
+nextSentence really
+nextSentence really
+create-a-node-here really 37.293 67 { ScheringPlough earned $94.4 million, or 84 cents a share,}
+create-a-node-here really 37.396 68 { while Bristol-Myers earned $232.3 million, or 81 cents a share, in the like period a year earlier.}
+nextSentence really
+autolink_nodes 67 68 multinuclear Comparison  5062
+autolink_nodes 5061 5062 satelite elaboration-additional  5063
+autolink_nodes 5042 5063 multinuclear List below 5063
+collapsed_nodes {5027 5029 5040 5044 5059 5061}
+create-a-node-here really 39.55 69 { \n\nIn Madison, N.J., a spokesman for Schering-Plough said }
+create-a-node-here really 39.128 70 {the company has "no problems" with the average estimate by a analysts}
+create-a-node-here really 39.196 71 { that third-quarter earnings per share rose by about 19%, to $1.}
+collapsed_nodes {5027 5029 5040 5044 5059}
+autolink_nodes 70 71 satelite-embedded elaboration-object-attribute-e  5064
+autolink_nodes 69 5064 nucleus attribution  5065
+create-a-node-here really 40.80 72 {\nThe company expects to achieve the 20% increase in full-year earnings per share,}
+create-a-node-here really 40.115 73 { as it projected in the spring,}
+create-a-node-here really 40.139 74 { the spokesman said.}
+nextSentence really
+autolink_nodes 72 73 satelite comparison  5066
+autolink_nodes 5066 74 satelite attribution  5067
+autolink_nodes 5065 5067 satelite explanation-argumentative  5068
+autolink_nodes 5063 5068 satelite elaboration-additional  5069
+collapsed_nodes {5027 5029 5040 5044 5059 5063}
+create-a-node-here really 42.25 75 { \n\nMeanwhile, analysts said }
+create-a-node-here really 42.99 76 {Pfizer's recent string of lackluster quarterly performances continued,}
+create-a-node-here really 42.168 77 { as earnings in the quarter were expected to decline by about 5%.}
+nextSentence really
+autolink_nodes 76 77 satelite circumstance  5070
+autolink_nodes 75 5070 nucleus attribution  5071
+change_rel 77 evidence
+#create-a-node-here really 43.111 78 {\nSales of Pfizer's important drugs, Feldene for treating arthritis, and Procardia, a heart medicine, have shrunk}
+#create-a-node-here really 43.149 79 { because of increased competition.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 43.43 78 {\nSales of Pfizer's important drugs, Feldene }
+create-a-node-here really 43.70 79 {for treating arthritis,}
+create-a-node-here really 43.120 80 { and Procardia, a heart medicine, have shrunk }
+create-a-node-here really 43.157 81 {because of increased competition.}
+disconnect_node 77 modify
+autolink_nodes 76 77 satelite evidence below 5072
+#autolink_nodes 78 79 satelite-embedded elaboration-object-attribute-e  5073
+#UNDID
+autolink_nodes 78 79 satelite-embedded elaboration-additional-e  5073
+autolink_nodes 80 5073 multinuclear Same-Unit  5074
+autolink_nodes 5074 81 satelite explanation-argumentative  5075
+disconnect_node 77 modify
+autolink_nodes 76 77 satelite elaboration-additional below 5076
+autolink_nodes 5071 5075 satelite example  5077
+create-a-node-here really 43.207 82 { "The (strong) dollar hurt Pfizer a lot, too,"}
+create-a-node-here really 43.227 83 { Mr. Sweig said.}
+nextSentence really
+autolink_nodes 82 83 satelite attribution  5078
+nextSentence really
+autolink_nodes 5077 5078 satelite elaboration-additional  5079
+create-a-node-here really 44.79 84 {\nIn the third quarter last year, Pfizer earned $216.8 million, or $1.29 a share.}
+nextSentence really
+#create-a-node-here really 45.42 85 {\nIn New York, the company declined comment.}
+#nextSentence really
+#UNDID
+#UNDID
+autolink_nodes 5079 84 satelite elaboration-additional  5080
+create-a-node-here really 45.42 85 {\nIn New York, the company declined comment.}
+autolink_nodes 5080 85 satelite elaboration-additional  5081
+autolink_nodes 5042 5081 multinuclear List below 5081
+collapsed_nodes {5027 5029 5040 5044 5059 5063 5080}
+create-a-node-here really 47.13 86 { \n\nAnalysts said}
+create-a-node-here really 47.89 87 { they expected Upjohn's profit to be flat or rise by only about 2% to 4%}
+nextSentence really
+create-a-node-here really 47.146 88 { as compared with $89.6 million, or 49 cents a share,}
+create-a-node-here really 47.172 89 { it earned a year ago.}
+nextSentence really
+autolink_nodes 88 89 satelite-embedded elaboration-object-attribute-e  5082
+autolink_nodes 87 5082 satelite comparison  5083
+autolink_nodes 86 5083 nucleus attribution  5084
+create-a-node-here really 48.82 90 {\nUpjohn's biggest-selling drugs are Xanax, a tranquilizer, and Halcion, a sedative.}
+nextSentence really
+create-a-node-here really 50.52 91 { \n\nSales of both drugs have been hurt by new state laws}
+create-a-node-here really 50.121 92 { restricting the prescriptions of certain tranquilizing medicines}
+create-a-node-here really 50.185 93 { and adverse publicity about the excessive use of the drugs.}
+nextSentence really
+autolink_nodes 91 92 satelite-embedded elaboration-object-attribute-e  5085
+autolink_nodes 5085 93 multinuclear Same-Unit  5086
+autolink_nodes 90 5086 satelite elaboration-additional  5087
+autolink_nodes 5084 5087 satelite elaboration-additional  5088
+create-a-node-here really 51.63 94 {\nAlso, the company's hair-growing drug, Rogaine, is selling well}
+disconnect_node 5087 disconnect
+create-a-node-here really 51.106 95 { -- at about $125 million for the year,}
+create-a-node-here really 51.236 96 { but the company's profit from the drug has been reduced by Upjohn's expensive print and television campaigns for advertising,}
+create-a-node-here really 51.255 97 { analysts said.}
+nextSentence really
+autolink_nodes 94 95 satelite-embedded elaboration-additional-e  5089
+autolink_nodes 96 5089 satelite concession  5090
+autolink_nodes 5090 97 satelite attribution  5091
+autolink_nodes 5091 5087 multinuclear List  5092
+autolink_nodes 5084 5092 satelite explanation-argumentative  5093
+nextSentence really
+create-a-node-here really 52.45 98 {\nIn Kalamazoo, Mich., Upjohn declined comment.}
+nextSentence really
+collapsed_nodes {5027 5029 5040 5044 5059 5063 5080 5092}
+autolink_nodes 5093 98 satelite elaboration-additional  5094
+autolink_nodes 5042 5094 multinuclear List below 5094
+autolink_nodes 5021 5042 satelite elaboration-set-member  5095
+collapsed_nodes {5027 5029 5040 5044 5059 5063 5080 5092 5013}
+autolink_nodes 5014 5095 satelite elaboration-additional  5096
+collapsed_nodes {5027 5029 5040 5044 5059 5063 5080 5092}
+collapsed_nodes {5040 5044 5059 5063 5080 5092}
+collapsed_nodes {5044 5059 5063 5080 5092}
+collapsed_nodes {5059 5063 5080 5092}
+collapsed_nodes {5063 5080 5092}
+collapsed_nodes {5080 5092}
+collapsed_nodes {5092}
+collapsed_nodes {}

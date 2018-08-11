@@ -1,0 +1,125 @@
+nextSentence really
+create-a-node-here really 2.33 1 {\nTraditional Industries Inc. said }
+create-a-node-here really 2.91 2 {it expects to report a net loss for the fourth quarter }
+autolink_nodes 1 2 nucleus attribution-n  5001
+create-a-node-here really 2.113 3 {that ended June 30 }
+#autolink_nodes 2 3 satelite elaboration-object-attribute below 5002
+#create-a-node-here really 2.145 4 {and is seeking new financing.}
+#nextSentence really
+#autolink_nodes 2 4 multinuclear OTHER-multinuc  5003
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e below 5002
+create-a-node-here really 2.145 4 {and is seeking new financing.}
+nextSentence really
+autolink_nodes 5001 4 multinuclear Same-Unit  5003
+create-a-node-here really 4.54 5 { \n\nThe seller of photographic products and services said }
+create-a-node-here really 4.110 6 {it is considering a number of financing alternatives,}
+autolink_nodes 5 6 nucleus attribution-n  5004
+create-a-node-here really 4.162 7 { including seeking increases in its credit lines.}
+nextSentence really
+autolink_nodes 6 7 satelite elaboration-additional below 5005
+create-a-node-here really 6.56 8 { \n\nTraditional declined to estimate the amount of the loss }
+#create-a-node-here really 6.120 9 {and wouldn't say if it expects to show a profit for the year.}
+#nextSentence really
+#autolink_nodes 8 9 multinuclear Same-Unit  5006
+#autolink_nodes 5004 5006 multinuclear Same-Unit  5007
+#autolink_nodes 5003 5007 satelite elaboration-additional  5008
+#create-a-node-here really 7.12 10 {\nIn the year }
+#create-a-node-here really 7.37 11 {ended June 30, 1988, }
+#autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5009
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 6.76 9 {and wouldn't say }
+autolink_nodes 8 9 multinuclear Same-Unit  5006
+create-a-node-here really 7.0 10 {if it expects to show a profit for the year.\n}
+autolink_nodes 9 10 satelite attribution  5007
+autolink_nodes 5004 5006 multinuclear Same-Unit  5008
+autolink_nodes 5003 5008 satelite elaboration-additional  5009
+create-a-node-here really 7.16 11 {In the year }
+create-a-node-here really 7.41 12 {ended June 30, 1988, }
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5010
+create-a-node-here really 7.111 13 {Traditional reported net income of $4.9 million, or $1.21 a share.}
+nextSentence really
+autolink_nodes 5010 13 multinuclear Same-Unit  5011
+autolink_nodes 5008 5011 satelite elaboration-additional  5012
+create-a-node-here really 8.56 14 {\nThe company didn't break out its fourth-quarter results.}
+nextSentence really
+autolink_nodes 5011 14 satelite explanation-argumentative  5013
+#create-a-node-here really 9.91 15 {\nIn the latest nine months net income was $4.7 million, or $1.31 a share, on revenue of $44.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 9.101 15 {\nIn the latest nine months net income was $4.7 million, or $1.31 a share, on revenue of $44.3 million.}
+nextSentence really
+autolink_nodes 14 15 satelite elaboration-additional  5014
+create-a-node-here really 11.12 16 { \n\nSeparately, }
+create-a-node-here really 11.33 17 {the company said }
+autolink_nodes 16 17 satelite-embedded attribution-e  5015
+create-a-node-here really 11.155 18 {it would file a delayed fiscal-year report with the Securities and Exchange Commission "within approximately 45 days."}
+nextSentence really
+autolink_nodes 5015 18 multinuclear Same-Unit  5016
+create-a-node-here really 11.168 19 { It said }
+create-a-node-here really 11.209 20 {the delay resulted from difficulties }
+autolink_nodes 19 20 nucleus attribution-n  5017
+autolink_nodes 18 5017 satelite elaboration-additional  5018
+create-a-node-here really 11.291 21 {in resolving its accounting of a settlement with the Federal Trade Commission.}
+nextSentence really
+autolink_nodes 20 21 satelite elaboration-additional below 5019
+create-a-node-here really 12.19 22 {\nUnder an agreement }
+create-a-node-here really 12.56 23 {filed in federal court in August }
+#autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5020
+#UNDID
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5020
+create-a-node-here really 12.122 24 {to settle FTC objections to some Traditional sales practices, }
+autolink_nodes 5020 24 multinuclear Same-Unit  5021
+create-a-node-here really 12.143 25 {Traditional said }
+create-a-node-here really 12.188 26 {it would establish a $250,000 trust fund }
+#autolink_nodes 25 26 nucleus attribution-n  5022
+#UNDID
+autolink_nodes 25 26 nucleus attribution-n  5022
+create-a-node-here really 13.0 27 {to provide refunds to certain customers. \n}
+nextSentence really
+autolink_nodes 26 27 satelite purpose below 5023
+autolink_nodes 5021 5022 satelite elaboration-additional  5024
+autolink_nodes 21 5024 satelite elaboration-additional  5025
+autolink_nodes 14 5016 satelite explanation-argumentative below 5026
+collapsed_nodes {5009}
+nextSentence really
+nextSentence really
+collapsed_nodes {}
+disconnect_node 5016 disconnect
+autolink_nodes 15 5016 satelite comparison  5027
+change_rel 5016 elaboration-general-specific
+disconnect_node 25 modify
+autolink_nodes 26 25 satelite attribution above 5027
+disconnect_node 27 modify
+autolink_nodes 26 27 satelite purpose below 5028
+disconnect_node 19 modify
+autolink_nodes 20 19 satelite attribution above 5028
+disconnect_node 5025 modify
+autolink_nodes 20 5025 satelite elaboration-additional below 5029
+#disconnect_node 10 modify
+#UNDID
+#disconnect_node 10 modify
+#UNDID
+disconnect_node 10 modify
+autolink_nodes 9 10 nucleus attribution-n  5030
+disconnect_node 5030 modify
+autolink_nodes 8 5030 multinuclear List  5031
+disconnect_node 5 modify
+autolink_nodes 5005 5 satelite attribution  5032
+disconnect_node 1 modify
+autolink_nodes 5002 1 satelite attribution  5033
+disconnect_node 1 modify
+autolink_nodes 5003 1 satelite attribution above 5033
+disconnect_node 5012 modify
+autolink_nodes 5009 5012 satelite elaboration-additional  5034

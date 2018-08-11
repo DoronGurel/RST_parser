@@ -1,0 +1,90 @@
+nextSentence really
+create-a-node-here really 2.71 1 {\nJim Pattison Industries Ltd., one of a group of closely held companies }
+create-a-node-here really 2.111 2 {owned by entrepreneur James Pattison,}
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.120 3 { said }
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 2.207 4 {it "intends to seek control" of 30%-owned Innopac Inc., a Toronto packaging concern.}
+nextSentence really
+autolink_nodes 3 4 nucleus attribution  5003
+nextSentence really
+create-a-node-here really 4.169 5 { \n\nJim Pattison Industries, a holding company with annual sales of about C$1.9 billion, largely from car dealerships and grocery stores, didn't elaborate on the statement, }
+autolink_nodes 5002 5 satelite elaboration-additional  5004
+create-a-node-here really 4.220 6 {and a company official declined further comment.}
+nextSentence really
+autolink_nodes 5 6 multinuclear List  5005
+create-a-node-here really 6.17 7 { \n\nThe company said }
+autolink_nodes 5005 7 multinuclear List above 5006
+nextSentence really
+create-a-node-here really 6.109 8 {it currently holds about 4.2 million of Innopac's 13.8 million common shares outstanding,}
+autolink_nodes 7 8 nucleus attribution  5007
+nextSentence really
+create-a-node-here really 6.190 9 { which have an aggregate market value of about 137.8 million Canadian dollars }
+autolink_nodes 8 9 satelite-embedded elaboration-additional-e below 5008
+nextSentence really
+create-a-node-here really 6.212 10 {(US$117.3 million).}
+nextSentence really
+autolink_nodes 9 10 satelite restatement  5009
+nextSentence really
+create-a-node-here really 8.105 11 { \n\nSeparately, Innopac reported a fourth-quarter loss of about C$2.6 million, or 18 Canadian cents a share, }
+autolink_nodes 5006 11 multinuclear List below 5009
+create-a-node-here really 8.142 12 {reflecting inventory write-downs.}
+nextSentence really
+autolink_nodes 11 12 satelite interpretation-s  5010
+create-a-node-here really 9.41 13 {\nThe results made net income for the year }
+autolink_nodes 5010 13 satelite interpretation-s  5011
+create-a-node-here really 9.59 14 {ended Aug. 31 }
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5012
+nextSentence really
+nextSentence really
+create-a-node-here really 9.172 15 {C$2.7 million, or 20 Canadian cents a share, down from C$9.7 million, or 70 Canadian cents a share last year.}
+nextSentence really
+autolink_nodes 5012 15 multinuclear Same-Unit  5013
+nextSentence really
+create-a-node-here really 10.59 16 {\nRevenue was C$291.6 million, up from C$252 million in 1988.}
+nextSentence really
+autolink_nodes 5011 16 satelite elaboration-additional  5014
+create-a-node-here really 12.59 17 { \n\nMartin Fabi, Innopac's president and chief executive, said }
+collapsed_nodes {5014}
+collapsed_nodes {5014 5006}
+autolink_nodes 5004 17 satelite evaluation-s  5015
+create-a-node-here really 12.102 18 {Innopac viewed Mr. Pattison's decision }
+autolink_nodes 17 18 nucleus attribution  5016
+create-a-node-here really 12.121 19 {to seek control}
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e below 5017
+create-a-node-here really 12.152 20 { as a "very positive" move.}
+nextSentence really
+autolink_nodes 5017 20 multinuclear Same-Unit  5018
+create-a-node-here really 12.168 21 { "I'm happy }
+#autolink_nodes 5018 21 satelite elaboration-additional above 5018
+#UNDID
+autolink_nodes 5018 21 satelite elaboration-additional below 5019
+create-a-node-here really 12.217 22 {that he feels positively about our company," }
+autolink_nodes 21 22 nucleus attribution  5020
+create-a-node-here really 13.0 23 {he said.\n}
+autolink_nodes 5020 23 satelite attribution  5021
+create-a-node-here really 13.35 24 {Mr. Fabi wouldn't say directly }
+autolink_nodes 5016 24 satelite elaboration-additional  5022
+create-a-node-here really 13.122 25 {whether Mr. Pattison has disclosed potential terms for his planned bid for control.}
+nextSentence really
+#autolink_nodes 24 25 nucleus attribution  5023
+#UNDID
+autolink_nodes 24 25 nucleus attribution-n  5023
+create-a-node-here really 15.78 26 { \n\nAmong other things, Innopac is involved in recycling polystyrene foam products}
+collapsed_nodes {5014 5006 5016}
+autolink_nodes 5015 26 satelite elaboration-additional  5024
+create-a-node-here really 16.0 27 { that are often used by fast food chains, such as McDonald's Corp., for food packaging.\n}
+autolink_nodes 26 27 satelite-embedded elaboration-additional-e  5025
+create-a-node-here really 16.20 28 {A joint venture }
+autolink_nodes 5025 28 satelite elaboration-additional  5026
+create-a-node-here really 16.66 29 {involving units of Innopac and Mobil Corp.}
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5027
+create-a-node-here really 16.160 30 { earlier this year opened the first U.S. polystyrene recycling plant, in Leominster, Mass.}
+nextSentence really
+autolink_nodes 5027 30 multinuclear Same-Unit  5028
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {5024}
+collapsed_nodes {}
+disconnect_node 10 disconnect
+autolink_nodes 9 10 satelite-embedded restatement-e  5029

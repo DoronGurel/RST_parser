@@ -1,0 +1,7 @@
+( Root (span 1 3)
+  ( Nucleus (span 1 2) (rel2par span)
+    ( Satellite (leaf 1) (rel2par attribution) (text _!Appalachian Power Co., a subsidiary of American Electric Power Co., said_!) )
+    ( Nucleus (leaf 2) (rel2par span) (text _!it will redeem on Dec. 1 the entire $44.2 million of its 12 7/8% first mortgage bonds due 2013._!) )
+  )
+  ( Satellite (leaf 3) (rel2par elaboration-additional) (text _!The redemption price will be 109.66% of the principal amount of the bonds, plus accrued interest to the date of redemption._!) )
+)

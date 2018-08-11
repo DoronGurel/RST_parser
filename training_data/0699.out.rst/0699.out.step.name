@@ -1,0 +1,14 @@
+nextSentence really
+create-a-node-here really 2.95 1 {\nThe European Community's consumer price index rose a provisional 0.6% in September from August }
+create-a-node-here really 2.134 2 {and was up 5.3% from September 1988,}
+autolink_nodes 1 2 multinuclear Comparison  5001
+create-a-node-here really 2.189 3 { according to Eurostat, the EC's statistical agency.}
+nextSentence really
+autolink_nodes 5001 3 satelite attribution  5002
+create-a-node-here really 4.66 4 { \n\nThe month-to-month rise in the index was the largest since April, }
+create-a-node-here really 4.83 5 {Eurostat said.}
+nextSentence really
+autolink_nodes 4 5 satelite attribution  5003
+autolink_nodes 5002 5003 satelite elaboration-additional  5004
+disconnect_node 5003 modify
+autolink_nodes 5002 5003 multinuclear Evaluation  5005

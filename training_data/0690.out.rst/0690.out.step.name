@@ -1,0 +1,259 @@
+nextSentence really
+create-a-node-here really 2.24 1 {\nFederal drug regulators,}
+create-a-node-here really 2.58 2 { concerned over British reports}
+create-a-node-here really 2.86 3 { that diabetics have died}
+create-a-node-here really 2.140 4 { after shifting from animal to human-based insulin,}
+create-a-node-here really 2.148 5 { say }
+create-a-node-here really 2.180 6 {they are considering a study }
+create-a-node-here really 2.190 7 {to see }
+create-a-node-here really 2.230 8 {if similar deaths have occurred here.}
+nextSentence really
+autolink_nodes 7 8 nucleus attribution  5001
+#autolink_nodes 6 5001 satelite-embedded elaboration-object-attribute-e  5002
+#UNDID
+autolink_nodes 6 5001 satelite purpose  5002
+autolink_nodes 5 5002 nucleus attribution  5003
+autolink_nodes 3 4 satelite circumstance  5004
+autolink_nodes 2 5004 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 1 5005 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5003 5006 multinuclear Same-Unit  5007
+create-a-node-here really 4.114 9 { \n\nThe United Kingdom reports came from Dr. Patrick Toseland, head of clinical chemistry at Guy's Hospital in London.}
+create-a-node-here really 5.51 10 {\nIn a telephone interview Friday, Dr. Toseland said }
+create-a-node-here really 5.108 11 {the number of sudden, unexplained deaths of diabetics}
+create-a-node-here really 5.135 12 { he had seen this year }
+create-a-node-here really 5.146 13 {was 17 }
+create-a-node-here really 5.181 14 {compared with just two in 1985.}
+nextSentence really
+autolink_nodes 13 14 satelite comparison  5008
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 5008 5009 multinuclear Same-Unit  5010
+autolink_nodes 10 5010 nucleus attribution  5011
+create-a-node-here really 6.68 15 {\nAt least six of the deaths occurred among relatively young diabetics}
+create-a-node-here really 6.140 16 { who had switched from animal to human insulin within the past year,}
+create-a-node-here really 6.153 17 { he said.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 5012 17 satelite attribution  5013
+autolink_nodes 5011 5013 satelite elaboration-additional  5014
+autolink_nodes 5014 9 satelite background  5015
+collapsed_nodes {5003}
+autolink_nodes 5007 5015 satelite elaboration-additional  5016
+create-a-node-here really 8.119 18 { \n\nDr. Solomon Sobel, director of metabolism and endrocrine drug products for the U.S. Food and Drug Administration, said }
+create-a-node-here really 8.197 19 {FDA officials have discussed Dr. Toseland's findings "fairly intensively."}
+nextSentence really
+autolink_nodes 18 19 nucleus attribution  5017
+create-a-node-here really 8.300 20 { While there have been no reports of similar sudden unexplained deaths among diabetics in the U.S.,}
+create-a-node-here really 8.319 21 { Dr. Sobel said}
+create-a-node-here really 8.373 22 { the FDA plans to examine Dr. Toseland's evidence }
+create-a-node-here really 8.415 23 {and is considering its own study here.}
+nextSentence really
+autolink_nodes 22 23 multinuclear List  5018
+autolink_nodes 21 5018 nucleus attribution  5019
+#autolink_nodes 5019 20 satelite antithesis  5020
+#UNDID
+autolink_nodes 5019 20 satelite concession  5020
+create-a-node-here really 10.34 24 { \n\nDr. Toseland, a toxicologist, said}
+create-a-node-here really 10.105 25 { he was preparing an article for a British forensic medical journal}
+create-a-node-here really 10.133 26 { raising the possibility}
+create-a-node-here really 10.171 27 { that the deaths may have occurred}
+create-a-node-here really 10.226 28 { after human insulin blunted critical warning signs}
+create-a-node-here really 10.275 29 { indicating hypoglycemia, or low blood sugar,}
+create-a-node-here really 10.305 30 { which can kill diabetics.}
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5021
+autolink_nodes 28 5021 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 27 5022 satelite circumstance  5023
+autolink_nodes 26 5023 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 25 5024 satelite-embedded elaboration-object-attribute-e  5025
+autolink_nodes 24 5025 nucleus attribution  5026
+disconnect_node 5022 modify
+autolink_nodes 27 5022 satelite consequence-n  5027
+create-a-node-here really 12.77 31 { \n\nThe usual warning signs of hypoglycemia include sweating, anxiety and cramps.}
+nextSentence really
+create-a-node-here really 13.80 32 {\nWith proper warning, diabetics can easily raise their blood sugar to safe levels}
+create-a-node-here really 13.116 33 { by eating sugar or sugary food.}
+nextSentence really
+autolink_nodes 32 33 satelite means  5028
+autolink_nodes 5028 31 satelite means  5029
+create-a-node-here really 13.156 34 { "The anecdotal data certainly shows}
+create-a-node-here really 13.236 35 { that some of the people were not aware of the rapid onset of hypoglycemia,"}
+create-a-node-here really 13.259 36 { Dr. Toseland said.}
+nextSentence really
+autolink_nodes 34 35 nucleus attribution  5030
+autolink_nodes 5030 36 satelite attribution  5031
+autolink_nodes 5031 5029 satelite antithesis  5032
+collapsed_nodes {5003 5029}
+autolink_nodes 5026 5032 satelite elaboration-additional  5033
+autolink_nodes 5020 5033 satelite elaboration-additional  5034
+autolink_nodes 5017 5034 satelite elaboration-additional  5035
+collapsed_nodes {5003 5029 5015}
+autolink_nodes 5016 5035 satelite elaboration-additional  5036
+create-a-node-here really 15.111 37 { \n\nAt the U.S. National Institutes of Health, Dr. Robert E. Silverman, chief of the diabetes program branch, said }
+create-a-node-here really 15.208 38 {no evidence of unexpected deaths from hypoglycemia had shown up in a study of 1,500 diabetics}
+create-a-node-here really 15.259 39 { that has been under way at NIH for five years.}
+nextSentence really
+autolink_nodes 38 39 satelite-embedded elaboration-object-attribute-e  5037
+autolink_nodes 37 5037 nucleus attribution  5038
+create-a-node-here really 16.16 40 {\nHowever, he said}
+create-a-node-here really 16.30 41 { officials}
+#create-a-node-here really 16.97 42 { conducting the study hadn't been looking for signs of problems}
+#create-a-node-here really 16.138 43 { related to hypoglycemia unawareness.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 16.56 42 { conducting the study }
+create-a-node-here really 16.101 43 {hadn't been looking for signs of problems}
+create-a-node-here really 16.142 44 { related to hypoglycemia unawareness.}
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5040
+autolink_nodes 5039 5040 multinuclear Same-Unit  5041
+autolink_nodes 40 5041 nucleus attribution  5042
+autolink_nodes 5042 5038 satelite antithesis  5043
+create-a-node-here really 16.196 45 { "We are now monitoring for it much more closely,"}
+create-a-node-here really 16.209 46 { he said.}
+nextSentence really
+autolink_nodes 45 46 satelite attribution  5044
+autolink_nodes 5044 5043 satelite result  5045
+#create-a-node-here really 18.12 47 { \n\n"We do know }
+#UNDID
+#create-a-node-here really 18.12 47 { \n\n"We do know }
+#create-a-node-here really 18.56 48 {there are slight differences in the way }
+#create-a-node-here really 18.110 49 {human and animal insulins drive down blood sugar,"}
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 18.11 47 { \n\n"We do know}
+create-a-node-here really 18.55 48 { there are slight differences in the way}
+create-a-node-here really 18.110 49 { human and animal insulins drive down blood sugar,"}
+create-a-node-here really 18.130 50 { Dr. Sobel said.}
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5046
+autolink_nodes 47 5046 nucleus attribution  5047
+autolink_nodes 5047 50 satelite attribution  5048
+create-a-node-here really 19.60 51 {\nThe human-based drug starts the blood sugar dropping sooner }
+create-a-node-here really 19.90 52 {and drives it down faster,}
+create-a-node-here really 19.103 53 { he said.}
+nextSentence really
+autolink_nodes 51 52 multinuclear List  5049
+autolink_nodes 5049 53 satelite attribution  5050
+autolink_nodes 5048 5050 satelite elaboration-general-specific  5051
+create-a-node-here really 19.130 54 { "But we don't believe }
+create-a-node-here really 19.166 55 {there is enough of a difference }
+create-a-node-here really 19.200 56 {to be clinically significant,"}
+create-a-node-here really 19.220 57 { Dr. Sobel said.}
+nextSentence really
+autolink_nodes 56 55 satelite consequence-n  5052
+autolink_nodes 5052 54 satelite attribution-n  5053
+autolink_nodes 5053 57 satelite attribution  5054
+#autolink_nodes 5054 5051 satelite elaboration-additional  5055
+#UNDID
+#autolink_nodes 5054 5051 satelite evaluation-n  5055
+#UNDID
+autolink_nodes 5054 5051 satelite antithesis  5055
+collapsed_nodes {5003 5029 5015 5051}
+autolink_nodes 5045 5055 satelite elaboration-additional  5056
+collapsed_nodes {5003 5029 5015 5051 5038}
+collapsed_nodes {5003 5029 5015 5051 5038 5043}
+collapsed_nodes {5003 5029 5015 5051 5038 5043 5035}
+autolink_nodes 5036 5056 satelite elaboration-additional  5057
+create-a-node-here really 21.112 58 { \n\nReports of Dr. Toseland's findings in the British press have triggered widespread concern among diabetics there.}
+create-a-node-here really 22.78 59 {\nBoth the British Diabetic Association and the Committee on Safety in Medicines}
+create-a-node-here really 22.126 60 { -- Britain's equivalent of the U.S. FDA -- }
+create-a-node-here really 22.156 61 {recently issued statements}
+create-a-node-here really 22.205 62 { noting the lack of hard scientific evidence }
+create-a-node-here really 22.244 63 {to support Dr. Toseland's findings.}
+nextSentence really
+autolink_nodes 62 63 satelite-embedded elaboration-object-attribute-e  5058
+autolink_nodes 61 5058 satelite-embedded elaboration-object-attribute-e  5059
+autolink_nodes 59 60 satelite-embedded elaboration-additional-e  5060
+autolink_nodes 5059 5060 multinuclear Same-Unit  5061
+autolink_nodes 5061 58 satelite statement-response-n  5062
+create-a-node-here really 23.71 64 {\nOn Friday, the American Diabetes Association issued a similar statement}
+#create-a-node-here really 23.114 65 { urging the six million U.S. diabetics }
+#UNDID
+create-a-node-here really 23.153 65 { urging the six million U.S. diabetics not to overreact to the British report.}
+autolink_nodes 64 65 satelite-embedded elaboration-object-attribute-e  5063
+create-a-node-here really 25.69 66 { \n\n"A loss of the warning symptoms of hypoglycemia is a complex problem }
+create-a-node-here really 25.141 67 {that is very unlikely to be due simply to the type of insulin used,"}
+create-a-node-here really 25.176 68 { the American association said.}
+nextSentence really
+autolink_nodes 66 67 satelite-embedded elaboration-object-attribute-e  5064
+autolink_nodes 5064 68 satelite attribution  5065
+autolink_nodes 5063 5065 satelite elaboration-additional  5066
+autolink_nodes 5066 5062 multinuclear Comparison  5067
+collapsed_nodes {5003 5029 5015 5051 5038 5043 5035 5056}
+autolink_nodes 5057 5067 satelite elaboration-additional  5068
+create-a-node-here really 27.85 69 { \n\nThe FDA already requires drug manufacturers to include warnings with insulin products}
+create-a-node-here really 27.191 70 { that symptoms of hypoglycemia are less pronounced with human insulin than with animal-based products.}
+nextSentence really
+autolink_nodes 69 70 satelite-embedded elaboration-object-attribute-e  5069
+create-a-node-here really 29.115 71 { \n\nEli Lilly & Co., the Indianapolis-based drug manufacturer, dominates the U.S. human insulin market with its product}
+create-a-node-here really 29.137 72 { known as Humulin.}
+nextSentence really
+autolink_nodes 71 72 satelite-embedded elaboration-additional-e  5070
+create-a-node-here really 30.24 73 {\nLilly is building plants}
+#create-a-node-here really 30.88 74 { to make the insulin in Indianapolis and Fagershein, France.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 30.48 74 { to make the insulin}
+create-a-node-here really 30.92 75 { in Indianapolis and Fagershein, France.}
+autolink_nodes 73 74 satelite-embedded elaboration-object-attribute-e  5071
+autolink_nodes 75 5071 multinuclear Same-Unit  5072
+autolink_nodes 5070 5072 satelite elaboration-additional  5073
+#create-a-node-here really 31.84 76 {\nIn its latest annual report, Lilly said Humulin sales have shown "excellent growth."}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 31.40 76 {\nIn its latest annual report, Lilly said }
+create-a-node-here really 31.88 77 {Humulin sales have shown "excellent growth."}
+nextSentence really
+autolink_nodes 76 77 nucleus attribution  5074
+autolink_nodes 5073 5074 satelite elaboration-additional  5075
+create-a-node-here really 33.20 78 { \n\nLilly officials said}
+create-a-node-here really 33.94 79 { they had seen reports of hypoglycemic unawareness among some patients}
+create-a-node-here really 33.145 80 { making the shift from animal to human insulin,}
+create-a-node-here really 33.166 81 { but didn't know }
+create-a-node-here really 33.207 82 {if the problem had caused any deaths.}
+nextSentence really
+autolink_nodes 81 82 nucleus attribution  5076
+autolink_nodes 79 80 satelite-embedded elaboration-object-attribute-e  5077
+autolink_nodes 5076 5077 satelite circumstance  5078
+autolink_nodes 5078 78 satelite attribution  5079
+#create-a-node-here really 34.55 83 {\nDr. Leigh Thompson, a Lilly group vice president, said }
+#UNDID
+create-a-node-here really 34.54 83 {\nDr. Leigh Thompson, a Lilly group vice president, said}
+create-a-node-here really 34.218 84 { the company's clinical trials of both its animal and human-based insulins indicated no difference in the level of hypoglycemia between users of either product.}
+autolink_nodes 83 84 nucleus attribution  5080
+autolink_nodes 5079 5080 satelite elaboration-additional  5081
+autolink_nodes 5081 5075 satelite background  5082
+collapsed_nodes {5003 5029 5015 5051 5038 5043 5035 5056 5075}
+autolink_nodes 5082 5069 satelite concession  5083
+create-a-node-here really 36.17 85 { \n\nDr. Toseland said}
+create-a-node-here really 36.51 86 { most of the British diabetics}
+create-a-node-here really 36.65 87 { who died }
+create-a-node-here really 36.106 88 {had been taking a human-based insulin}
+create-a-node-here really 36.155 89 { made by Novo/Nordisk, a Danish manufacturer.}
+nextSentence really
+autolink_nodes 88 89 satelite-embedded elaboration-object-attribute-e  5084
+autolink_nodes 86 87 satelite-embedded elaboration-object-attribute-e  5085
+autolink_nodes 5084 5085 multinuclear Same-Unit  5086
+autolink_nodes 85 5086 nucleus attribution  5087
+create-a-node-here really 37.49 90 {\nNone of the diabetics were using Lilly's insulin.}
+nextSentence really
+autolink_nodes 5087 90 satelite elaboration-additional  5088
+autolink_nodes 5083 5088 satelite elaboration-additional  5089
+autolink_nodes 5068 5089 satelite elaboration-additional  5090
+collapsed_nodes {5029 5015 5051 5038 5043 5035 5056 5075}
+collapsed_nodes {5029 5051 5038 5043 5035 5056 5075}
+collapsed_nodes {5051 5038 5043 5056 5075}
+collapsed_nodes {5075}
+collapsed_nodes {}
+nextSentence really
+#disconnect_node 31 modify
+#autolink_nodes 32 31 satelite background below 5091
+#UNDID
+#UNDID
+disconnect_node 31 disconnect
+autolink_nodes 5028 31 satelite background  5091
+disconnect_node 58 disconnect
+autolink_nodes 5067 58 satelite statement-response-n  5092

@@ -1,0 +1,265 @@
+nextSentence really
+create-a-node-here really 2.56 1 {\nBritish Aerospace PLC and France's Thomson-CSF S.A. said}
+create-a-node-here really 2.89 2 { they are nearing an agreement}
+create-a-node-here really 2.133 3 { to merge their guided-missile divisions,}
+create-a-node-here really 2.205 4 { greatly expanding collaboration between the two defense contractors.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 4 satelite consequence-s  5002
+autolink_nodes 1 5002 nucleus attribution  5003
+nextSentence really
+nextSentence really
+create-a-node-here really 4.24 5 { \n\nThe 50-50 joint venture,}
+create-a-node-here really 4.61 6 { which may be dubbed Eurodynamics,}
+create-a-node-here really 4.123 7 { would have combined annual sales of at least #1.4 billion }
+create-a-node-here really 4.141 8 {($2.17 billion)}
+create-a-node-here really 4.199 9 { and would be among the world's largest missile makers.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded restatement-e  5004
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5005
+autolink_nodes 5005 5004 multinuclear Same-Unit  5006
+autolink_nodes 9 5006 multinuclear List  5007
+create-a-node-here really 5.73 10 {\nAfter two years of talks, plans for the venture are sufficiently advanced}
+create-a-node-here really 5.144 11 { for the companies to seek French and British government clearance.}
+nextSentence really
+autolink_nodes 10 11 nucleus enablement  5008
+create-a-node-here really 6.53 12 {\nThe companies hope for a final agreement by year-end.}
+nextSentence really
+autolink_nodes 5003 5007 satelite elaboration-additional  5009
+autolink_nodes 5008 12 satelite elaboration-additional  5010
+autolink_nodes 5009 5010 satelite elaboration-additional  5011
+collapsed_nodes {5010}
+collapsed_nodes {5010 5007}
+create-a-node-here really 8.80 13 { \n\nThe venture would strengthen the rapidly growing ties between the two companies,}
+create-a-node-here really 8.152 14 { and help make them a leading force in European defense contracting.}
+nextSentence really
+autolink_nodes 13 14 multinuclear List  5012
+create-a-node-here really 9.139 15 {\nIn recent months, a string of cross-border mergers and joint ventures have reshaped the once-balkanized world of European arms manufacture.}
+nextSentence really
+#autolink_nodes 5012 15 satelite circumstance  5013
+#UNDID
+create-a-node-here really 11.157 16 { \n\nAlready, British Aerospace and French government-controlled Thomson-CSF collaborate on a British missile contract and on an air-traffic control radar system.}
+create-a-node-here really 12.30 17 {\nJust last week they announced }
+create-a-node-here really 12.59 18 {they may make a joint bid}
+create-a-node-here really 12.142 19 { to buy Ferranti International Signal PLC, a smaller British defense contractor}
+create-a-node-here really 12.197 20 { rocked by alleged accounting fraud at a U.S. unit.}
+nextSentence really
+autolink_nodes 19 20 satelite-embedded elaboration-additional-e  5013
+autolink_nodes 18 5013 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 17 5014 nucleus attribution  5015
+autolink_nodes 16 5015 satelite elaboration-additional  5016
+autolink_nodes 5016 15 satelite circumstance  5017
+autolink_nodes 5012 5017 satelite elaboration-additional  5018
+create-a-node-here really 14.56 21 { \n\nThe sudden romance of British Aerospace and Thomson-CSF }
+create-a-node-here really 14.148 22 {-- traditionally bitter competitors for Middle East and Third World weapons contracts --}
+create-a-node-here really 14.214 23 { is stirring controversy in Western Europe's defense industry.}
+nextSentence really
+autolink_nodes 5011 5018 satelite elaboration-additional  5019
+autolink_nodes 21 22 satelite-embedded elaboration-additional-e  5020
+autolink_nodes 5020 23 multinuclear Same-Unit  5021
+collapsed_nodes {5010}
+collapsed_nodes {}
+collapsed_nodes {5007}
+collapsed_nodes {5007 5010}
+disconnect_node 5017 disconnect
+disconnect_node 15 disconnect
+autolink_nodes 15 5016 satelite elaboration-additional  5022
+disconnect_node 5015 disconnect
+#disconnect_node 16 disconnect
+#UNDID
+disconnect_node 16 disconnect
+autolink_nodes 5015 16 multinuclear List  5023
+autolink_nodes 15 5023 satelite elaboration-additional  5024
+collapsed_nodes {5007 5010 5012}
+autolink_nodes 5024 5021 satelite consequence-s  5025
+create-a-node-here really 15.99 24 {\nMost threatened by closer British Aerospace-Thomson ties would be their respective national rivals,}
+create-a-node-here really 15.174 25 { including Matra S.A. in France and Britain's General Electric Co. PLC.}
+autolink_nodes 24 25 satelite-embedded elaboration-set-member-e  5026
+nextSentence really
+create-a-node-here really 16.26 26 {\nBut neither Matra nor GEC }
+create-a-node-here really 16.91 27 {-- unrelated to Stamford, Conn.-based General Electric Co. --}
+create-a-node-here really 16.118 28 { are sitting quietly by}
+create-a-node-here really 16.156 29 { as their competitors join forces.}
+nextSentence really
+autolink_nodes 28 29 satelite circumstance  5027
+autolink_nodes 26 27 satelite-embedded elaboration-additional-e  5028
+autolink_nodes 5027 5028 multinuclear Same-Unit  5029
+autolink_nodes 5029 5026 satelite antithesis  5030
+#create-a-node-here really 18.19 30 { \n\nYesterday, a source}
+#create-a-node-here really 18.36 31 { close to GEC}
+#UNDID
+#UNDID
+create-a-node-here really 18.42 30 { \n\nYesterday, a source close to GEC confirmed}
+create-a-node-here really 18.125 31 { that his company may join the Ferranti fight, as part of a possible consortium}
+create-a-node-here really 18.187 32 { that would bid against British Aerospace and Thomson-CSF.}
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e  5031
+autolink_nodes 30 5031 nucleus attribution  5032
+autolink_nodes 5030 5032 satelite evidence  5033
+create-a-node-here really 19.9 33 {\nCompanies}
+create-a-node-here really 19.79 34 { with which GEC has had talks about a possible joint Ferranti bid }
+create-a-node-here really 19.185 35 {include Matra, Britain's Dowty Group PLC, West Germany's Daimler-Benz AG, and France's Dassault group.}
+nextSentence really
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5034
+autolink_nodes 35 5034 multinuclear Same-Unit  5035
+#autolink_nodes 5033 5035 satelite elaboration-additional  5036
+#UNDID
+autolink_nodes 5032 5035 satelite elaboration-additional  5036
+create-a-node-here really 21.19 36 { \n\nBut it may be weeks}
+create-a-node-here really 21.84 37 { before GEC and its potential partners decide whether to bid,}
+create-a-node-here really 21.110 38 { the source indicated.}
+#autolink_nodes 36 37 nucleus temporal-before  5037
+#UNDID
+autolink_nodes 36 37 nucleus temporal-after  5037
+autolink_nodes 5037 38 satelite attribution  5038
+create-a-node-here really 22.55 39 {\nGEC plans first to study Ferranti's financial accounts,}
+create-a-node-here really 22.66 40 { which }
+create-a-node-here really 22.93 41 {auditors recently said }
+create-a-node-here really 22.196 42 {included #215 million in fictitious contracts at a U.S. unit, International Signal & Control Group,}
+create-a-node-here really 22.238 43 { with which Ferranti merged last year.}
+nextSentence really
+autolink_nodes 42 43 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 40 41 satelite-embedded attribution-e  5040
+autolink_nodes 5039 5040 multinuclear Same-Unit  5041
+#autolink_nodes 39 5041 satelite-embedded elaboration-object-attribute-e  5042
+#UNDID
+autolink_nodes 39 5041 satelite-embedded elaboration-object-attribute-e  5042
+autolink_nodes 5038 5042 satelite reason  5043
+create-a-node-here really 23.67 44 {\nAlso, any GEC bid might be blocked by British antitrust regulators;}
+create-a-node-here really 23.151 45 { Ferranti is GEC's main competitor on several key defense-electronics contracts,}
+create-a-node-here really 23.280 46 { and its purchase by GEC may heighten British Defense Ministry worries about concentration in the country's defense industry.}
+autolink_nodes 45 46 nucleus circumstance  5044
+autolink_nodes 44 5044 satelite reason  5045
+#autolink_nodes 5043 5045 multinuclear List  5046
+#UNDID
+autolink_nodes 5043 5045 multinuclear List  5046
+collapsed_nodes {5007 5010 5012 5043}
+autolink_nodes 5036 5046 satelite antithesis  5047
+create-a-node-here really 24.71 47 {\nA consortium bid, however, would diminish GEC's direct role in Ferranti}
+create-a-node-here really 24.126 48 { and might consequently appease ministry officials.}
+nextSentence really
+disconnect_node 5046 disconnect
+autolink_nodes 47 48 satelite consequence-s  5048
+autolink_nodes 5045 5048 multinuclear Problem-Solution  5049
+collapsed_nodes {5007 5010 5012}
+disconnect_node 5049 disconnect
+autolink_nodes 5036 5043 satelite elaboration-additional  5050
+collapsed_nodes {5007 5010 5012 5043}
+autolink_nodes 5050 5049 satelite elaboration-additional  5051
+disconnect_node 5021 disconnect
+disconnect_node 5023 disconnect
+autolink_nodes 5023 5021 satelite consequence-s  5052
+#autolink_nodes 5023 15 satelite circumstance below 5053
+#UNDID
+collapsed_nodes {5007 5010 5043}
+autolink_nodes 5012 15 satelite circumstance  5053
+autolink_nodes 5053 5052 satelite elaboration-additional  5054
+collapsed_nodes {5007 5010 5043 5052}
+#autolink_nodes 5054 5033 satelite elaboration-additional  5055
+#UNDID
+autolink_nodes 5054 5033 satelite elaboration-additional  5055
+create-a-node-here really 26.102 49 { \n\nA British Aerospace spokeswoman appeared unperturbed by the prospect of a fight with GEC for Ferranti:}
+create-a-node-here really 26.145 50 { "Competition is the name of the game,"}
+create-a-node-here really 26.159 51 { she said.}
+autolink_nodes 50 51 satelite attribution  5056
+#autolink_nodes 49 5056 satelite evidence  5057
+#UNDID
+autolink_nodes 49 5056 satelite elaboration-additional  5057
+collapsed_nodes {5007 5010 5043 5052 5049}
+autolink_nodes 5051 5057 satelite elaboration-additional  5058
+create-a-node-here really 28.50 52 { \n\nAt least one potential GEC partner, Matra, insists}
+create-a-node-here really 28.87 53 { it isn't interested in Ferranti.}
+nextSentence really
+autolink_nodes 52 53 nucleus attribution  5059
+create-a-node-here really 28.134 54 { "We have nothing to say about this affair,}
+create-a-node-here really 28.165 55 { which doesn't concern us,"}
+create-a-node-here really 28.199 56 { a Matra official said Sunday.}
+nextSentence really
+autolink_nodes 54 55 satelite-embedded elaboration-object-attribute-e  5060
+autolink_nodes 5060 56 satelite attribution  5061
+autolink_nodes 5059 5061 satelite elaboration-additional  5062
+collapsed_nodes {5007 5010 5043 5052 5049 5058}
+collapsed_nodes {5007 5010 5052}
+collapsed_nodes {5007 5010 5052 5058}
+collapsed_nodes {5007 5010 5052}
+change_rel 5058 elaboration-additional
+collapsed_nodes {5007 5010 5052 5043}
+collapsed_nodes {5007 5010 5052 5043 5049}
+collapsed_nodes {5007 5010 5052 5043 5049 5057}
+autolink_nodes 5058 5062 satelite antithesis  5063
+change_rel 5063 elaboration-additional
+collapsed_nodes {5007 5052 5043 5049 5057}
+collapsed_nodes {5007 5052 5043 5049 5057 5010}
+disconnect_node 5063 disconnect
+autolink_nodes 5030 5063 satelite elaboration-additional  5064
+collapsed_nodes {5007 5052 5043 5049 5057 5010 5062}
+create-a-node-here really 30.20 57 { \n\nThe missile venture,}
+create-a-node-here really 30.64 58 { the British Aerospace spokeswoman said,}
+create-a-node-here really 30.138 59 { is a needed response to the "new environment" in defense contracting.}
+nextSentence really
+#autolink_nodes 57 58 multinuclear Same-Unit  5065
+#UNDID
+#autolink_nodes 57 58 satelite-embedded attribution-e  5065
+#UNDID
+autolink_nodes 57 58 satelite-embedded attribution-e  5065
+autolink_nodes 59 5065 multinuclear Same-Unit  5066
+create-a-node-here really 31.146 60 {\nFor both Thomson and British Aerospace, earnings in their home markets have come under pressure from increasingly tight-fisted defense ministries;}
+create-a-node-here really 31.274 61 { and Middle East sales, a traditional mainstay for both companies' exports, have been hurt by five years of weak oil prices.}
+autolink_nodes 60 61 multinuclear List  5067
+autolink_nodes 5066 5067 satelite elaboration-additional  5068
+create-a-node-here really 33.46 62 { \n\nThe venture's importance for Thomson is great.}
+nextSentence really
+create-a-node-here really 34.14 63 {\nThomson feels }
+create-a-node-here really 34.106 64 {the future of its defense business depends on building cooperation with other Europeans.}
+nextSentence really
+autolink_nodes 63 64 nucleus attribution  5069
+autolink_nodes 62 5069 satelite elaboration-additional  5070
+create-a-node-here really 35.47 65 {\nThe European defense industry is consolidating;}
+create-a-node-here really 35.151 66 { for instance, West Germany's Siemens AG recently joined GEC in a takeover of Britain's Plessey Co.,}
+nextSentence really
+nextSentence really
+create-a-node-here really 36.2 67 { and Daimler-Benz agreed to buy Messerschmitt-Boelkow Blohm G.m.b.\nH.}
+autolink_nodes 66 67 multinuclear List  5071
+autolink_nodes 65 5071 satelite example  5072
+create-a-node-here really 38.116 68 { \n\nIn missiles, Thomson is already overshadowed by British Aerospace and by its home rival, France's Aerospatiale S.A.;}
+create-a-node-here really 38.139 69 { to better compete,}
+create-a-node-here really 38.166 70 { Thomson officials say,}
+create-a-node-here really 38.195 71 { they need a partnership.}
+nextSentence really
+autolink_nodes 69 70 satelite attribution  5073
+autolink_nodes 5073 71 satelite enablement  5074
+#autolink_nodes 5074 68 satelite circumstance  5075
+#UNDID
+autolink_nodes 5072 68 satelite elaboration-additional  5075
+autolink_nodes 68 5074 nucleus circumstance  5076
+disconnect_node 5076 disconnect
+#autolink_nodes 5072 5076 satelite consequence-s  5077
+#UNDID
+autolink_nodes 5076 5072 satelite consequence-n  5077
+autolink_nodes 5070 5077 satelite elaboration-additional  5078
+create-a-node-here really 39.50 72 {\nTo justify 50-50 ownership of the planned venture,}
+create-a-node-here really 39.110 73 { Thomson would make a cash payment to British Aerospace.}
+autolink_nodes 72 73 nucleus purpose  5079
+collapsed_nodes {5007 5052 5043 5049 5057 5010 5062 5077}
+autolink_nodes 5078 5079 satelite elaboration-additional  5080
+create-a-node-here really 41.77 74 { \n\nAnnual revenue of British Aerospace's missile business is about #950 million,}
+create-a-node-here really 41.107 75 { a Thomson spokesman said.}
+nextSentence really
+autolink_nodes 74 75 satelite attribution  5081
+create-a-node-here really 42.108 76 {\nBritish Aerospace's chief missile products include its 17-year-old family of Rapier surface-to-air missiles.}
+nextSentence really
+autolink_nodes 5081 76 satelite elaboration-additional  5082
+create-a-node-here really 43.128 77 {\nThomson missile products, with about half British Aerospace's annual revenue, include the Crotale surface-to-air missile family.}
+nextSentence really
+collapsed_nodes {5007 5052 5043 5049 5057 5010 5062 5077 5055}
+autolink_nodes 5019 5068 satelite elaboration-additional  5083
+autolink_nodes 5068 5080 satelite elaboration-additional  5084
+disconnect_node 76 disconnect
+autolink_nodes 5079 5081 satelite elaboration-additional  5085
+autolink_nodes 76 77 multinuclear List  5086
+autolink_nodes 5083 5086 satelite elaboration-additional  5087
+collapsed_nodes {5052 5043 5049 5057 5010 5062 5077 5055}
+collapsed_nodes {5052 5043 5049 5057 5062 5077 5055}
+collapsed_nodes {5077}
+disconnect_node 5081 disconnect
+autolink_nodes 5083 5081 satelite elaboration-additional below 5088
+collapsed_nodes {}

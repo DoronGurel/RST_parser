@@ -1,0 +1,496 @@
+nextSentence really
+create-a-node-here really 2.38 1 {\nCrude oil futures prices fell further }
+create-a-node-here really 2.70 2 {as analysts and traders said }
+#autolink_nodes 1 2 satelite circumstance  5001
+#UNDID
+autolink_nodes 1 2 satelite circumstance  5001
+create-a-node-here really 2.174 3 {OPEC oil producers aren't putting the brakes on output ahead of the traditionally weak first quarter.}
+nextSentence really
+autolink_nodes 2 3 nucleus attribution  5002
+nextSentence really
+create-a-node-here really 4.152 4 { \n\nIn trading on the New York Mercantile Exchange, the U.S. benchmark West Texas Intermediate crude fell 39 cents a barrel to $19.76 for December delivery.}
+nextSentence really
+create-a-node-here really 5.40 5 {\nPetroleum products prices also declined.}
+nextSentence really
+autolink_nodes 4 5 multinuclear List  5003
+autolink_nodes 5001 5003 satelite example  5004
+create-a-node-here really 7.28 6 { \n\nAnalysts pointed to reports }
+nextSentence really
+create-a-node-here really 7.173 7 {that the Organization of Petroleum Exporting Countries is producing substantially more than its official limit of 20.5 million barrels a day, }
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 7.268 8 {with some accounts putting the 13-nation group's output as high as 23 million barrels a day.}
+nextSentence really
+autolink_nodes 7 8 satelite evaluation-s  5006
+create-a-node-here really 9.88 9 { \n\nThat level of production didn't take its toll on futures prices for the fourth quarter, }
+create-a-node-here really 9.127 10 {when demand is traditionally strong.}
+nextSentence really
+autolink_nodes 9 10 satelite temporal-same-time  5007
+autolink_nodes 5005 5007 satelite elaboration-additional  5008
+create-a-node-here really 10.4 11 {\nBut }
+create-a-node-here really 10.74 12 {because first-quarter demand is normally the weakest of the year, }
+create-a-node-here really 10.111 13 {several market participants say, }
+autolink_nodes 12 13 nucleus-embedded reason-e  5009
+autolink_nodes 11 5009 multinuclear Same-Unit  5010
+create-a-node-here really 10.152 14 {OPEC production will have to decline }
+autolink_nodes 13 14 nucleus attribution  5011
+create-a-node-here really 10.192 15 {to keep prices from eroding further.}
+nextSentence really
+autolink_nodes 14 15 satelite purpose below 5012
+autolink_nodes 5007 5010 satelite antithesis  5013
+autolink_nodes 5004 5008 satelite explanation-argumentative  5014
+create-a-node-here really 11.35 16 {\nThe group plans to meet in a month }
+create-a-node-here really 11.85 17 {to discuss production strategy for early 1990.}
+nextSentence really
+autolink_nodes 16 17 satelite purpose  5015
+autolink_nodes 5010 5015 satelite elaboration-additional  5016
+create-a-node-here really 13.34 18 { \n\nWith prices already headed lower, }
+create-a-node-here really 13.177 19 {news of a series of explosions at a major Phillips Petroleum Co. chemical facility on the Houston Ship Channel also was bearish for prices.}
+nextSentence really
+autolink_nodes 18 19 nucleus circumstance  5017
+create-a-node-here really 14.68 20 {\nEven though such facilities use a relatively small amount of crude, }
+create-a-node-here really 14.86 21 {analysts say, }
+create-a-node-here really 14.162 22 {now the facility won't need any, at a time of already high availability.}
+nextSentence really
+autolink_nodes 21 22 nucleus attribution  5018
+autolink_nodes 20 5018 nucleus antithesis  5019
+#autolink_nodes 5017 5019 satelite cause  5020
+#UNDID
+#autolink_nodes 5017 5019 nucleus result  5020
+#UNDID
+autolink_nodes 5017 5019 satelite consequence-s  5020
+create-a-node-here really 17.0 23 { \n\nThe Phillips plant makes polyethylene, polypropylene and other plastic products.\n}
+autolink_nodes 5020 23 satelite background  5021
+create-a-node-here really 17.28 24 {A company official said }
+create-a-node-here really 17.53 25 {the explosions began }
+create-a-node-here really 17.78 26 {when a seal blew out.}
+nextSentence really
+autolink_nodes 25 26 satelite circumstance  5022
+autolink_nodes 24 5022 nucleus attribution  5023
+disconnect_node 26 modify
+autolink_nodes 25 26 satelite result below 5024
+create-a-node-here really 18.32 27 {\nDozens of workers were injured, }
+create-a-node-here really 18.53 28 {authorities said.}
+nextSentence really
+autolink_nodes 27 28 satelite attribution  5025
+autolink_nodes 5023 5025 satelite consequence-s  5026
+create-a-node-here really 19.59 29 {\nThere was no immediate estimate of damage from the company.}
+nextSentence really
+autolink_nodes 5026 29 satelite evaluation-s  5027
+autolink_nodes 5021 5027 satelite elaboration-general-specific  5028
+create-a-node-here really 21.35 30 { \n\nSome petroleum futures traders say }
+create-a-node-here really 21.121 31 {technical considerations now will help to put downward pressure on futures prices.}
+nextSentence really
+autolink_nodes 30 31 nucleus attribution  5029
+autolink_nodes 5028 5029 satelite comment  5030
+create-a-node-here really 22.30 32 {\nFor instance, one trader said }
+create-a-node-here really 22.71 33 {that prices inevitably will go lower }
+create-a-node-here really 22.118 34 {now that they've fallen below $20 a barrel.}
+nextSentence really
+autolink_nodes 33 34 satelite circumstance  5031
+autolink_nodes 32 5031 nucleus attribution  5032
+autolink_nodes 5029 5032 satelite example  5033
+create-a-node-here really 22.159 35 { "Our technician is a little bearish }
+create-a-node-here really 22.194 36 {now that we've taken out $20," }
+#autolink_nodes 35 36 satelite circumstance  5034
+#autolink_nodes 35 36 satelite circumstance  5035
+#create-a-node-here really 22.206 37 {he said.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 35 36 satelite circumstance  5034
+create-a-node-here really 22.207 37 {he said. }
+autolink_nodes 5034 37 satelite attribution  5035
+autolink_nodes 5032 5035 satelite restatement  5036
+autolink_nodes 5014 5030 satelite elaboration-additional  5037
+create-a-node-here really 24.38 38 {\n\nIn other commodity markets yesterday: }
+autolink_nodes 38 38 schema Title  5037
+create-a-node-here really 26.8 39 {\n\nCOPPER: }
+autolink_nodes 39 39 schema SectionTitle  5037
+create-a-node-here really 26.24 40 {The selling }
+create-a-node-here really 26.51 41 {that started on Friday }
+autolink_nodes 40 41 satelite-embedded elaboration-object-attribute-e  5038
+create-a-node-here really 26.75 42 {continued yesterday.}
+nextSentence really
+autolink_nodes 5038 42 multinuclear Same-Unit  5039
+nextSentence really
+nextSentence really
+create-a-node-here really 28.0 43 {\nThe December contract fell 3.85 cents a pound to $1.1960.\n}
+create-a-node-here really 28.105 44 {London Metal Exchange warehouse stocks were down only 4,800 metric tons for the week to 84,500 tons; }
+create-a-node-here really 29.0 45 {expectations late last week were a drop of 10,000 to 15,000 tons.\n}
+autolink_nodes 44 45 satelite elaboration-additional  5040
+autolink_nodes 43 5040 multinuclear List  5041
+create-a-node-here really 29.65 46 {The New York market made its high for the day on the opening }
+create-a-node-here really 29.73 47 {and }
+create-a-node-here really 29.124 48 {when it dropped below the $1.23-a-pound level, }
+create-a-node-here really 29.146 49 {selling picked up }
+autolink_nodes 48 49 nucleus-embedded temporal-same-time-e  5042
+#autolink_nodes 47 5042 multinuclear List  5043
+#UNDID
+autolink_nodes 47 5042 multinuclear Same-Unit  5043
+autolink_nodes 46 5043 multinuclear List  5044
+#autolink_nodes 5041 5044 multinuclear List below 5044
+#UNDID
+autolink_nodes 5041 5044 multinuclear List below 5044
+create-a-node-here really 29.199 50 {as previous buyers bailed out of their positions }
+create-a-node-here really 29.232 51 {and aggressive short sellers }
+create-a-node-here really 29.272 52 {-- anticipating further declines -- }
+autolink_nodes 51 52 satelite-embedded elaboration-additional-e  5045
+create-a-node-here really 30.0 53 {moved in.\n}
+autolink_nodes 5045 53 multinuclear Same-Unit  5046
+autolink_nodes 50 5046 multinuclear Temporal-Same-Time  5047
+autolink_nodes 5043 5047 satelite circumstance  5048
+autolink_nodes 5039 5041 satelite evidence  5049
+create-a-node-here really 30.46 54 {Fund selling also picked up at that point.}
+nextSentence really
+#autolink_nodes 5049 54 satelite elaboration-additional  5050
+#UNDID
+autolink_nodes 5049 54 satelite elaboration-additional  5050
+create-a-node-here really 31.71 55 {\nAccording to Bernard Savaiko, senior commodity analyst at PaineWebber, }
+create-a-node-here really 31.113 56 {the only stability to the market came }
+create-a-node-here really 31.158 57 {when short sellers periodically moved in }
+create-a-node-here really 31.187 58 {to cover their positions }
+create-a-node-here really 32.0 59 {by buying contracts.\n}
+autolink_nodes 58 59 satelite means  5051
+autolink_nodes 57 5051 satelite purpose  5052
+autolink_nodes 56 5052 satelite circumstance  5053
+autolink_nodes 55 5053 nucleus attribution  5054
+create-a-node-here really 32.42 60 {This activity produced small rallies, }
+create-a-node-here really 32.88 61 {which in turn attracted new short selling.}
+nextSentence really
+autolink_nodes 60 61 satelite cause  5055
+autolink_nodes 5054 5055 satelite cause  5056
+autolink_nodes 5054 5055 satelite cause  5057
+autolink_nodes 5044 5056 satelite comment  5058
+disconnect_node 54 disconnect
+disconnect_node 5056 disconnect
+autolink_nodes 5044 54 satelite elaboration-additional  5059
+autolink_nodes 5059 5056 satelite comment  5060
+create-a-node-here really 33.18 62 {\nMr. Savaiko noted }
+create-a-node-here really 33.51 63 {that copper had a steep fall }
+create-a-node-here really 33.82 64 {in spite of a weak dollar, }
+create-a-node-here really 33.138 65 {which would normally support the U.S. copper market.}
+nextSentence really
+autolink_nodes 64 65 satelite-embedded elaboration-additional-e  5061
+autolink_nodes 63 5061 satelite concession  5062
+autolink_nodes 62 5062 nucleus attribution  5063
+create-a-node-here really 34.44 66 {\nSuch support usually comes from arbitragers }
+create-a-node-here really 34.79 67 {who use a strong British pound }
+create-a-node-here really 34.109 68 {to buy copper in New York.}
+nextSentence really
+autolink_nodes 67 68 satelite purpose  5064
+autolink_nodes 66 5064 satelite-embedded elaboration-object-attribute-e  5065
+autolink_nodes 5063 5065 satelite explanation-argumentative  5066
+autolink_nodes 5060 5066 satelite evaluation-s  5067
+create-a-node-here really 34.159 69 { "The sell-off would probably have been worse }
+create-a-node-here really 34.195 70 {if the dollar had been strong," }
+autolink_nodes 69 70 satelite condition  5068
+create-a-node-here really 34.207 71 {he said.}
+nextSentence really
+autolink_nodes 5068 71 satelite attribution  5069
+autolink_nodes 5066 5069 satelite comment  5070
+nextSentence really
+nextSentence really
+create-a-node-here really 36.0 72 {\nCopper has been stuck in a trading range of $1.19 to $1.34.\n}
+autolink_nodes 5067 72 satelite elaboration-additional  5071
+create-a-node-here really 36.25 73 {Mr. Savaiko believes }
+create-a-node-here really 36.34 74 {that }
+create-a-node-here really 36.85 75 {if copper falls below the bottom of this range }
+autolink_nodes 74 75 satelite-embedded condition-e  5072
+create-a-node-here really 36.145 76 {the next significant support level will be about $1.04. }
+autolink_nodes 5072 76 multinuclear Same-Unit  5073
+autolink_nodes 73 5073 nucleus attribution  5074
+autolink_nodes 72 5074 satelite evaluation-s  5075
+autolink_nodes 5049 5049 schema SectionText  5075
+autolink_nodes 39 5049 multinuclear TextualOrganization  5076
+create-a-node-here really 38.17 77 {\n\nPRECIOUS METALS: }
+autolink_nodes 77 77 schema SectionTitle  5076
+create-a-node-here really 38.87 78 {Platinum and palladium struggled to maintain their prices all day }
+create-a-node-here really 38.129 79 {despite news stories over the weekend }
+autolink_nodes 78 79 satelite concession  5077
+create-a-node-here really 38.169 80 {that recent cold fusion experiments,}
+create-a-node-here really 38.197 81 { which use both metals, }
+autolink_nodes 80 81 satelite-embedded elaboration-additional-e  5078
+create-a-node-here really 38.214 82 {showed signs }
+autolink_nodes 5078 82 multinuclear Same-Unit  5079
+create-a-node-here really 38.242 83 {of producing extra heat.}
+nextSentence really
+autolink_nodes 82 83 satelite-embedded elaboration-object-attribute-e  5080
+autolink_nodes 79 5079 satelite-embedded elaboration-object-attribute-e  5081
+nextSentence really
+create-a-node-here really 39.92 84 {\nJanuary platinum closed down $2.80 an ounce at $486.30, nearly $4 above its low for the day.}
+nextSentence really
+nextSentence really
+create-a-node-here really 40.53 85 {\nDecember palladium was off $1.55 an ounce at $137.20.}
+nextSentence really
+autolink_nodes 84 85 multinuclear List  5082
+create-a-node-here really 41.83 86 {\nPlatinum is believed to have good support around $480 and palladium at around $130.}
+nextSentence really
+autolink_nodes 5082 86 satelite evaluation-s  5083
+autolink_nodes 5077 5083 satelite evidence  5084
+create-a-node-here really 42.67 87 {\nSome traders were thought to be waiting for the auto sales report, }
+create-a-node-here really 42.100 88 {which will be released today.}
+nextSentence really
+autolink_nodes 87 88 satelite-embedded elaboration-additional-e  5085
+create-a-node-here really 43.65 89 {\nSuch sales are watched closely by platinum and palladium traders }
+create-a-node-here really 43.133 90 {because both metals are used in automobile catalytic converters.}
+nextSentence really
+#autolink_nodes 89 90 satelite explanation-argumentative  5086
+#UNDID
+autolink_nodes 89 90 satelite reason  5086
+autolink_nodes 5085 5086 satelite explanation-argumentative  5087
+autolink_nodes 5084 5087 satelite elaboration-additional  5088
+create-a-node-here really 44.22 91 {\nMr. Savaiko theorized }
+create-a-node-here really 44.90 92 {that the news on cold fusion didn't affect the market yesterday }
+create-a-node-here really 45.0 93 {because many traders have already been badly burnt by such stories.\n}
+autolink_nodes 92 93 satelite explanation-argumentative  5089
+autolink_nodes 91 5089 nucleus attribution  5090
+autolink_nodes 5088 5090 satelite interpretation-s  5091
+create-a-node-here really 45.12 94 {He said }
+create-a-node-here really 45.66 95 {the traders are demanding a higher level of proof }
+create-a-node-here really 45.107 96 {before they will buy palladium again.}
+nextSentence really
+#autolink_nodes 95 96 satelite temporal-before  5092
+#UNDID
+autolink_nodes 95 96 nucleus circumstance  5092
+autolink_nodes 94 5092 nucleus attribution  5093
+autolink_nodes 5090 5093 multinuclear List  5094
+create-a-node-here really 47.0 97 {\nAlso weighing on both metals' prices is the role of the chief supplier, the Soviet Union.\n}
+create-a-node-here really 47.26 98 {Many analysts believe }
+create-a-node-here really 47.77 99 {that the Soviets' thirst for dollars this year }
+create-a-node-here really 47.134 100 {to buy grain and other Western commodities and goods }
+autolink_nodes 99 100 satelite-embedded elaboration-object-attribute-e  5095
+create-a-node-here really 47.169 101 {will bring them to the market }
+autolink_nodes 5095 101 multinuclear Same-Unit  5096
+create-a-node-here really 47.206 102 {whenever prices rally very much.}
+nextSentence really
+#autolink_nodes 101 102 satelite contingency  5097
+#UNDID
+autolink_nodes 5096 102 satelite contingency  5097
+autolink_nodes 98 5097 nucleus attribution  5098
+autolink_nodes 97 5098 satelite explanation-argumentative  5099
+disconnect_node 5094 disconnect
+autolink_nodes 5094 5099 multinuclear List above 5100
+disconnect_node 5099 disconnect
+disconnect_node 5093 disconnect
+autolink_nodes 5088 5090 satelite interpretation-s  5101
+autolink_nodes 5090 5093 satelite elaboration-additional  5102
+autolink_nodes 5101 5099 satelite elaboration-additional  5103
+autolink_nodes 5103 5103 schema SectionText  5103
+autolink_nodes 77 5103 multinuclear TextualOrganization  5104
+autolink_nodes 5076 5104 multinuclear List above 5105
+create-a-node-here really 49.21 103 { \n\nGRAINS AND SOYBEANS: }
+autolink_nodes 103 103 schema SectionTitle  5105
+create-a-node-here really 49.46 104 {Prices closed mixed }
+#create-a-node-here really 49.118 105 {as contracts reacted to largely offsetting bullish and bearish news}
+#UNDID
+create-a-node-here really 50.0 105 {as contracts reacted to largely offsetting bullish and bearish news.\n}
+autolink_nodes 104 105 satelite circumstance  5106
+create-a-node-here really 50.110 106 {On the Chicago Board of Trade, soybeans for November delivery closed at $5.63 a bushel, down half a cent,}
+create-a-node-here really 50.200 107 { while the December wheat contract rose three-quarters of a cent to $4.0775 a bushel.}
+nextSentence really
+autolink_nodes 106 107 multinuclear Temporal-Same-Time  5107
+create-a-node-here really 51.97 108 {\nSupporting prices was the announcement late Friday of additional grain sales to the Soviet Union.}
+nextSentence really
+create-a-node-here really 52.162 109 {\nBut acting as a drag on prices was the improved harvest weather over the weekend and the prospect for continued fair weather this week over much of the Farm Belt.}
+nextSentence really
+autolink_nodes 108 109 multinuclear Contrast  5108
+autolink_nodes 5106 5107 satelite evidence  5109
+create-a-node-here really 53.62 110 {\nStrong farmer selling over the weekend also weighed on prices.}
+nextSentence really
+#autolink_nodes 5109 110 satelite elaboration-additional  5110
+#UNDID
+autolink_nodes 5108 110 satelite elaboration-additional  5110
+#autolink_nodes 5109 5110 satelite explanation-argumentative  5111
+#UNDID
+autolink_nodes 5109 5110 satelite elaboration-general-specific  5111
+#autolink_nodes 5111 5111 multinuclear Consequence  5112
+#UNDID
+autolink_nodes 5111 5111 schema SectionText  5111
+autolink_nodes 103 5111 multinuclear TextualOrganization  5112
+autolink_nodes 5105 5112 multinuclear List below 5112
+create-a-node-here really 55.7 111 { \n\nSUGAR: }
+#create-a-node-here really 56.31 112 {World prices tumbled, mostly from their own weight, according to analysts.\nThe March contract ended at 13.}
+#nextSentence really
+#UNDID
+#UNDID
+autolink_nodes 111 111 schema SectionTitle  5112
+create-a-node-here really 55.64 112 {World prices tumbled, mostly from their own weight, }
+create-a-node-here really 56.0 113 {according to analysts.\n}
+autolink_nodes 112 113 satelite attribution  5113
+nextSentence really
+create-a-node-here really 56.69 114 {The March contract ended at 13.79 cents a pound, down 0.37 cent.}
+nextSentence really
+autolink_nodes 5113 114 satelite elaboration-general-specific  5114
+create-a-node-here really 57.117 115 {\nFor the past week or so, traders have been expecting India to buy between 150,000 and 200,000 tons of refined sugar, }
+create-a-node-here really 57.184 116 {and there have been expectations of a major purchase by Japan.}
+nextSentence really
+autolink_nodes 115 116 multinuclear List  5115
+autolink_nodes 5114 5115 satelite explanation-argumentative  5116
+create-a-node-here really 58.20 117 {\nBut with no reports }
+create-a-node-here really 58.73 118 {of either country actually entering the market, }
+autolink_nodes 117 118 satelite-embedded elaboration-object-attribute-e  5117
+create-a-node-here really 58.93 119 {analysts said, }
+autolink_nodes 5117 119 satelite-embedded attribution-e  5118
+create-a-node-here really 58.131 120 {futures prices became vulnerable.}
+nextSentence really
+autolink_nodes 5118 120 multinuclear Same-Unit  5119
+autolink_nodes 5115 5119 multinuclear Contrast above 5120
+create-a-node-here really 59.36 121 {\nDeveloping countries such as India, }
+create-a-node-here really 59.61 122 {some analysts said, }
+autolink_nodes 121 122 satelite-embedded attribution-e  5121
+create-a-node-here really 59.95 123 {seem to have made it a point }
+autolink_nodes 5121 123 multinuclear Same-Unit  5122
+nextSentence really
+create-a-node-here really 59.113 124 {to stay away }
+autolink_nodes 123 124 satelite-embedded elaboration-object-attribute-e  5123
+create-a-node-here really 59.191 125 {whenever sugar reached the top of its trading range, around 14.75 cents, }
+autolink_nodes 124 125 satelite contingency  5124
+nextSentence really
+create-a-node-here really 59.273 126 {and wait for prices to return to the bottom of the range, around 13.50 cents.}
+nextSentence really
+autolink_nodes 5124 126 multinuclear List  5125
+create-a-node-here really 60.82 127 {\nBut Erik Dunlaevy, a sugar analyst with Balfour Maclaine International Ltd., said }
+create-a-node-here really 60.156 128 {the explanation for the latest drop in sugar prices is much simpler: }
+autolink_nodes 127 128 nucleus attribution  5126
+create-a-node-here really 60.174 129 {Speculators, }
+create-a-node-here really 60.188 130 {he said, }
+autolink_nodes 129 130 satelite-embedded attribution-e  5127
+create-a-node-here really 60.216 131 {"got too long too soon }
+autolink_nodes 5127 131 multinuclear Same-Unit  5128
+create-a-node-here really 60.276 132 {and ran into resistance around the old contract highs."}
+nextSentence really
+autolink_nodes 5128 132 multinuclear Consequence above 5129
+autolink_nodes 5126 5129 satelite elaboration-general-specific  5130
+autolink_nodes 5122 5130 multinuclear List above 5131
+create-a-node-here really 60.309 133 { A PaineWebber analyst said }
+create-a-node-here really 60.504 134 {that in light of a new estimate of a production increase of four million metric tons and only a modest increase in consumption, sugar isn't likely to rise above the top of its trading range }
+create-a-node-here really 60.561 135 {without a crop problem in a major producing country.}
+nextSentence really
+autolink_nodes 134 135 satelite concession  5132
+autolink_nodes 133 5132 satelite attribution  5133
+autolink_nodes 5131 5133 multinuclear List below 5133
+autolink_nodes 5116 5131 satelite interpretation-s  5134
+disconnect_node 5133 disconnect
+disconnect_node 5130 disconnect
+autolink_nodes 5130 5133 multinuclear List  5135
+collapsed_nodes {}
+#autolink_nodes 5122 5135 multinuclear Contrast above 5136
+#UNDID
+autolink_nodes 5122 5135 multinuclear Contrast above 5136
+autolink_nodes 5134 5134 schema SectionText  5136
+autolink_nodes 111 5134 multinuclear TextualOrganization  5137
+autolink_nodes 5105 5137 multinuclear List below 5137
+create-a-node-here really 62.7 136 { \n\nCOCOA: }
+autolink_nodes 136 136 schema SectionTitle  5137
+create-a-node-here really 63.0 137 {Futures rallied modestly.\n}
+create-a-node-here really 63.86 138 {The December contract rose $33 a metric ton to $1,027, near its high for the day.}
+nextSentence really
+autolink_nodes 137 138 satelite elaboration-general-specific  5138
+create-a-node-here really 64.61 139 {\nGill & Duffus Ltd., a British cocoa-trading house, estimated }
+create-a-node-here really 64.171 140 {that the 1989-90 world cocoa surplus would be 231,000 tons, down from 314,000 tons for the previous year.}
+nextSentence really
+autolink_nodes 139 140 nucleus attribution  5139
+disconnect_node 138 modify
+autolink_nodes 137 138 satelite evidence  5140
+create-a-node-here really 65.58 141 {\nMarket technicians were encouraged by the price patterns, }
+create-a-node-here really 65.109 142 {which in the past have preceded sharp rallies.}
+nextSentence really
+autolink_nodes 141 142 satelite-embedded elaboration-additional-e  5141
+autolink_nodes 5140 5139 satelite evaluation-s  5142
+autolink_nodes 5142 5141 satelite interpretation-s  5143
+#create-a-node-here really 66.73 143 {\nRecent prices for cocoa have been near levels last seen in the mid-1970s.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 66.46 143 {\nRecent prices for cocoa have been near levels }
+create-a-node-here really 67.0 144 {last seen in the mid-1970s.\n}
+autolink_nodes 143 144 satelite-embedded elaboration-object-attribute-e  5144
+#autolink_nodes 5141 5144 satelite explanation-argumentative  5145
+#UNDID
+autolink_nodes 5141 5144 satelite explanation-argumentative  5145
+create-a-node-here really 67.21 145 {At such prices, }
+create-a-node-here really 67.52 146 {according to Mr. Savaiko, }
+autolink_nodes 145 146 satelite-embedded attribution-e  5146
+create-a-node-here really 67.92 147 {bargain hunting and short-covering }
+autolink_nodes 5146 147 multinuclear Same-Unit  5147
+#create-a-node-here really 67.144 148 {-- buying back of contracts previously sold -- }
+#autolink_nodes 147 148 satelite-embedded definition-e  5148
+#create-a-node-here really 67.179 149 {by speculators isn't uncommon.}
+#nextSentence really
+#autolink_nodes 5147 149 multinuclear Same-Unit below 5148
+#create-a-node-here really 68.89 150 {\nBut Mr. Savaiko expects stepped-up producer selling at around the $1,040 to $1,050 level.}
+#nextSentence really
+#autolink_nodes 5147 150 multinuclear Contrast above 5149
+#disconnect_node 150 disconnect
+#autolink_nodes 5147 150 nucleus antithesis  5150
+#create-a-node-here really 69.14 151 {\nHe also noted }
+#create-a-node-here really 69.95 152 {that a strong sterling market yesterday might have helped cocoa in New York }
+#create-a-node-here really 69.151 153 {as arbitragers took advantage of the currency move.}
+#nextSentence really
+#autolink_nodes 152 153 satelite circumstance  5151
+#autolink_nodes 151 5151 nucleus attribution  5152
+#autolink_nodes 5150 5152 satelite elaboration-additional  5153
+#create-a-node-here really 70.62 154 {\nSandra Kaul, research analyst at Shearson Lehman Hutton, said }
+#create-a-node-here really 70.176 155 {the market pushed higher mainly in anticipation of a late harvest in the Ivory Coast, a major cocoa producer.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 67.125 148 {-- buying back of contracts }
+create-a-node-here really 67.149 149 {previously sold -- }
+autolink_nodes 148 149 satelite-embedded elaboration-object-attribute-e  5148
+autolink_nodes 147 5148 satelite-embedded definition-e  5149
+create-a-node-here really 67.184 150 {by speculators isn't uncommon.}
+nextSentence really
+autolink_nodes 5147 150 multinuclear Same-Unit below 5149
+create-a-node-here really 68.89 151 {\nBut Mr. Savaiko expects stepped-up producer selling at around the $1,040 to $1,050 level.}
+nextSentence really
+autolink_nodes 5147 151 nucleus antithesis  5150
+create-a-node-here really 69.14 152 {\nHe also noted }
+create-a-node-here really 69.95 153 {that a strong sterling market yesterday might have helped cocoa in New York }
+autolink_nodes 152 153 nucleus attribution  5151
+create-a-node-here really 69.151 154 {as arbitragers took advantage of the currency move.}
+nextSentence really
+autolink_nodes 153 154 satelite circumstance below 5152
+autolink_nodes 5150 5151 satelite elaboration-additional  5153
+create-a-node-here really 70.62 155 {\nSandra Kaul, research analyst at Shearson Lehman Hutton, said }
+create-a-node-here really 70.176 156 {the market pushed higher mainly in anticipation of a late harvest in the Ivory Coast, a major cocoa producer.}
+nextSentence really
+autolink_nodes 155 156 nucleus attribution  5154
+autolink_nodes 5153 5154 multinuclear List  5155
+#autolink_nodes 5143 5155 satelite interpretation-s  5156
+#UNDID
+disconnect_node 5154 disconnect
+autolink_nodes 5143 5153 satelite evaluation-s  5156
+disconnect_node 5151 disconnect
+autolink_nodes 5151 5154 multinuclear List  5157
+autolink_nodes 5156 5157 satelite interpretation-s  5158
+autolink_nodes 5158 5158 schema SectionText  5158
+autolink_nodes 136 5158 multinuclear TextualOrganization  5159
+collapsed_nodes {5105}
+#autolink_nodes 5105 5159 satelite-embedded temporal-after-e  5160
+#UNDID
+autolink_nodes 5105 5159 multinuclear List below 5159
+collapsed_nodes {}
+autolink_nodes 5105 5105 schema Text  5159
+autolink_nodes 38 5105 multinuclear TextualOrganization  5160
+autolink_nodes 5037 5160 multinuclear Topic-Shift  5161

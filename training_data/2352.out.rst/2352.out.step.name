@@ -1,0 +1,62 @@
+nextSentence really
+create-a-node-here really 2.111 1 {\nThe Second U.S. Circuit Court of Appeals opinion in the Arcadian Phosphate case did not repudiate the position }
+create-a-node-here really 2.159 2 {Pennzoil Co. took in its dispute with Texaco,}
+create-a-node-here really 2.240 3 { contrary to your Sept. 8 article "Court Backs Texaco's View in Pennzoil Case }
+create-a-node-here really 2.256 4 {-- Too Late."}
+nextSentence really
+create-a-node-here really 4.37 5 { \n\nThe fundamental rule of contract law }
+create-a-node-here really 4.61 6 {applied to both cases}
+create-a-node-here really 4.109 7 { was that courts will not enforce agreements }
+create-a-node-here really 4.160 8 {to which the parties did not intend to be bound.}
+nextSentence really
+create-a-node-here really 5.52 9 {\nIn the Pennzoil/Texaco litigation, the courts found }
+#create-a-node-here really 5.99 10 {Pennzoil and Getty Oil intended to be bound;}
+#UNDID
+create-a-node-here really 5.99 10 {Pennzoil and Getty Oil intended to be bound;}
+create-a-node-here really 5.126 11 { in Arcadian Phosphates}
+create-a-node-here really 5.142 12 { they found }
+create-a-node-here really 5.182 13 {there was no intention to be bound. }
+create-a-node-here really 7.51 14 {\n\nAdmittedly, the principle in the cases is the same.}
+nextSentence really
+create-a-node-here really 8.68 15 {\nBut the outcome of a legal dispute almost always turns on the facts.}
+nextSentence really
+create-a-node-here really 9.15 16 {\nAnd the facts, }
+create-a-node-here really 9.72 17 {as found by the various courts in these two lawsuits,}
+create-a-node-here really 9.92 18 { were different.}
+nextSentence really
+create-a-node-here really 11.27 19 { \n\nWhen you suggest otherwise,}
+create-a-node-here really 11.65 20 { you leave the realm of reporting }
+create-a-node-here really 11.104 21 {and enter the orbit of speculation.}
+nextSentence really
+create-a-node-here really 13.17 22 { \n\nCharles F. Vihon }
+create-a-node-here really 15.7 23 {\n\nBoston }
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 3 multinuclear Contrast  5002
+autolink_nodes 3 4 satelite elaboration-additional  5003
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5004
+autolink_nodes 5004 7 multinuclear Same-Unit  5005
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5002 5005 satelite explanation-argumentative  5007
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5008
+autolink_nodes 11 12 satelite-embedded attribution-e  5009
+autolink_nodes 5009 13 multinuclear Same-Unit  5010
+autolink_nodes 5008 5010 multinuclear Contrast  5011
+autolink_nodes 5005 5011 satelite elaboration-additional  5012
+#autolink_nodes 14 15 nucleus concession  5013
+#UNDID
+autolink_nodes 14 15 satelite concession  5013
+autolink_nodes 16 17 satelite-embedded attribution-e  5014
+autolink_nodes 5014 18 multinuclear Same-Unit  5015
+autolink_nodes 5012 5013 satelite elaboration-additional  5016
+autolink_nodes 5013 5015 satelite elaboration-additional  5017
+autolink_nodes 19 20 multinuclear Temporal-Same-Time  5018
+autolink_nodes 20 21 multinuclear List  5019
+autolink_nodes 22 23 multinuclear List  5020
+autolink_nodes 5017 5018 satelite comment  5021
+autolink_nodes 5007 5007 schema Text  5021
+autolink_nodes 5020 5020 schema Author  5021
+collapsed_nodes {5007}
+autolink_nodes 5007 5020 multinuclear TextualOrganization  5022
+collapsed_nodes {}
+collapsed_nodes {5007}
+collapsed_nodes {}

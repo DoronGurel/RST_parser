@@ -1,0 +1,61 @@
+nextSentence really
+create-a-node-here really 2.30 1 {\nNational Intergroup Inc. said }
+create-a-node-here really 2.79 2 {it expects to report a charge of $5.3 million }
+create-a-node-here really 2.144 3 {related to the sale of its aluminum unit's extrusion division }
+create-a-node-here really 2.169 4 {for the third quarter.}
+nextSentence really
+create-a-node-here really 4.17 5 { \n\nThe company said }
+create-a-node-here really 4.121 6 {it has agreed to sell the extrusion division for $15 million to R.D. Werner Co., a closely held firm }
+create-a-node-here really 4.148 7 {based in Greenville, Pa.}
+nextSentence really
+create-a-node-here really 6.113 8 { \n\nThe charge is offset by an after-tax gain of about $30 million in the quarter from the previously announced pact }
+create-a-node-here really 6.161 9 {to sell National Aluminum's rolling division.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+#autolink_nodes 2 3 satelite elaboration-object-attribute below 5002
+#UNDID
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e below 5002
+autolink_nodes 5002 4 multinuclear Same-Unit  5003
+autolink_nodes 5 6 nucleus attribution  5004
+autolink_nodes 6 7 satelite elaboration-object-attribute below 5005
+autolink_nodes 5001 5004 satelite elaboration-additional  5006
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5007
+create-a-node-here really 8.92 10 { \n\nNational Intergroup in the year-ago third quarter earned $22.5 million, or 97 cents a share,}
+create-a-node-here really 8.167 11 { including a gain of $18 million from the sale of a steel tube company.}
+nextSentence really
+nextSentence really
+create-a-node-here really 9.27 12 {\nRevenue was $778.6 million.}
+nextSentence really
+create-a-node-here really 11.22 13 { \n\nThe company also said }
+create-a-node-here really 11.62 14 {it continues to explore all options }
+nextSentence really
+create-a-node-here really 11.171 15 {concerning the possible sale of National Aluminum's 54.5% stake in an aluminum smelter in Hawesville, Ky.}
+nextSentence really
+autolink_nodes 10 11 satelite elaboration-additional  5008
+autolink_nodes 5007 5008 multinuclear List  5009
+autolink_nodes 5009 12 multinuclear List below 5009
+#autolink_nodes 13 14 nucleus attribution  5010
+#UNDID
+autolink_nodes 13 14 nucleus attribution  5010
+autolink_nodes 14 15 satelite elaboration-object-attribute below 5011
+create-a-node-here really 13.116 16 { \n\nThe sale of the extrusion division is subject to audit adjustments for working capital changes through the closing. }
+create-a-node-here really 15.119 17 {\n\nThe agreement also provides for potential payments of additional proceeds to National Aluminum over the next two years,}
+create-a-node-here really 15.165 18 { depending on the plant's shipping levels.}
+nextSentence really
+create-a-node-here really 17.113 19 { \n\nThe extrusion unit produces bare and painted custom extrusions for building products and construction industries.}
+nextSentence really
+create-a-node-here really 18.88 20 {\nIn fiscal 1989, it had sales of about $40 million and an operating loss of $1.5 million.}
+nextSentence really
+autolink_nodes 5004 5009 satelite elaboration-additional  5012
+autolink_nodes 5009 5010 satelite elaboration-additional  5013
+autolink_nodes 17 18 satelite condition  5014
+autolink_nodes 16 5014 multinuclear List  5015
+autolink_nodes 19 20 satelite elaboration-additional  5016
+autolink_nodes 5015 5016 satelite elaboration-additional  5017
+autolink_nodes 5010 5017 satelite elaboration-additional  5018
+collapsed_nodes {5006}
+collapsed_nodes {}
+disconnect_node 7 disconnect
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e below 5019
+disconnect_node 15 disconnect
+autolink_nodes 14 15 satelite elaboration-additional below 5020

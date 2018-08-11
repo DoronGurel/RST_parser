@@ -1,0 +1,101 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.108 1 {\nTexaco Inc. has purchased an oil-producing company in Texas for $476.5 million, its first major acquisition }
+create-a-node-here really 2.182 2 {since its legal brawl with Pennzoil Co. began more than four years ago.}
+nextSentence really
+create-a-node-here really 4.48 3 { \n\nThe White Plains, N.Y., oil company said Friday }
+nextSentence really
+create-a-node-here really 4.178 4 {that it had acquired Tana Production Corp., a subsidiary of TRT Energy Holdings Inc., for $95.1 million in cash, with the rest }
+create-a-node-here really 4.248 5 {to be paid in shares of a new, non-voting issue of preferred stock.}
+nextSentence really
+create-a-node-here really 6.5 6 { \n\nTana,}
+create-a-node-here really 6.73 7 { which holds properties in 17 oil and gas fields in south Texas, }
+create-a-node-here really 6.121 8 {will provide Texaco with mostly gas reserves.}
+nextSentence really
+#autolink_nodes 1 2 satelite temporal-after  5001
+#UNDID
+autolink_nodes 1 2 satelite circumstance  5001
+autolink_nodes 3 4 nucleus attribution  5002
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e below 5003
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 5004 8 multinuclear Same-Unit  5005
+autolink_nodes 5001 5002 satelite elaboration-additional  5006
+autolink_nodes 5002 5005 satelite elaboration-additional  5007
+create-a-node-here really 7.114 9 {\nThe fields contain recoverable reserves of 435 billion cubic feet of natural gas and four million barrels of oil. }
+create-a-node-here really 9.63 10 {\n\n"This acquisition is another indication of Texaco's commitment }
+create-a-node-here really 9.108 11 {to increase the company's reserve base," }
+create-a-node-here really 9.158 12 {said Chief Executive Officer James W. Kinnear.}
+nextSentence really
+create-a-node-here really 11.55 13 { \n\nTexaco has also been attempting to sell oil properties.}
+nextSentence really
+autolink_nodes 5005 9 satelite elaboration-additional  5008
+autolink_nodes 10 11 satelite-embedded elaboration-additional-e  5009
+autolink_nodes 5009 12 satelite attribution  5010
+collapsed_nodes {5007}
+autolink_nodes 5006 5010 satelite elaboration-additional  5011
+#autolink_nodes 5010 13 multinuclear List  5012
+#UNDID
+autolink_nodes 5010 13 multinuclear List  5012
+create-a-node-here really 13.0 14 {\nAt least two years ago, the company put 60 million barrels of oil reserves on the block.\n}
+#create-a-node-here really 13.47 15 {They were either too small or uneconomic to}
+#UNDID
+create-a-node-here really 13.45 15 {They were either too small or uneconomic }
+create-a-node-here really 13.61 16 {to maintain,}
+create-a-node-here really 13.83 17 { the company said.}
+nextSentence really
+create-a-node-here really 14.44 18 {\nNot all of those parcels have yet been sold.}
+nextSentence really
+create-a-node-here really 16.21 19 { \n\nTexaco acquired Tana }
+create-a-node-here really 16.57 20 {before it completed those sales }
+create-a-node-here really 16.126 21 {because Tana's properties are high quality and near other fields }
+create-a-node-here really 16.150 22 {Texaco already owns,}
+create-a-node-here really 16.182 23 { a company spokeswoman said.}
+nextSentence really
+create-a-node-here really 18.103 24 { \n\nTexaco, like many other oil companies, has been struggling to replace its falling oil and gas reserves.}
+nextSentence really
+autolink_nodes 14 15 satelite elaboration-additional  5013
+autolink_nodes 15 16 satelite-embedded elaboration-additional-e  5014
+autolink_nodes 5014 17 satelite attribution  5015
+autolink_nodes 5013 18 satelite elaboration-additional  5016
+autolink_nodes 19 20 satelite temporal-before  5017
+autolink_nodes 5017 21 satelite reason  5018
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5019
+autolink_nodes 5018 23 satelite attribution  5020
+autolink_nodes 5016 5020 satelite elaboration-additional  5021
+autolink_nodes 5012 5021 satelite elaboration-additional  5022
+create-a-node-here really 19.51 25 {\nTexaco's situation had become particularly complex }
+create-a-node-here really 19.189 26 {because much of its effort had for years been focused on its brawl with Pennzoil and then on New York investor Carl C. Icahn's attempt}
+create-a-node-here really 19.219 27 { to take over the company.}
+nextSentence really
+create-a-node-here really 21.25 28 { \n\nPennzoil had sued Texaco }
+create-a-node-here really 21.107 29 {for improperly interfering with its acquisition of a portion of Getty Oil Co. }
+create-a-node-here really 21.130 30 {Eventually, Texaco,}
+create-a-node-here really 21.199 31 { which was forced into bankruptcy proceedings by that litigation,}
+create-a-node-here really 21.259 32 { settled its fight with Pennzoil for $3 billion in 1986.}
+nextSentence really
+create-a-node-here really 22.10 33 {\nMr. Icahn,}
+create-a-node-here really 22.114 34 { who played a key role in the settlement and attempted subsequently to take control of the company, }
+create-a-node-here really 22.160 35 {sold his stake in Texaco just last summer.}
+nextSentence really
+create-a-node-here really 24.132 36 { \n\nCompletion of Texaco's acquisition of Tana is subject to government approval under the Hart-Scott-Rodino Antitrust Improvements Act.}
+nextSentence really
+autolink_nodes 25 26 satelite result  5023
+autolink_nodes 26 27 satelite purpose  5024
+autolink_nodes 24 5023 satelite explanation-argumentative  5025
+autolink_nodes 28 29 satelite purpose  5026
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5027
+autolink_nodes 5027 32 multinuclear Same-Unit  5028
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 5029 35 multinuclear Same-Unit  5030
+autolink_nodes 5026 5028 multinuclear List  5031
+autolink_nodes 5025 5031 multinuclear Sequence  5032
+collapsed_nodes {5007 5006}
+autolink_nodes 5011 5032 satelite circumstance  5033
+autolink_nodes 5032 5030 satelite elaboration-additional  5034
+collapsed_nodes {5007 5006 5011}
+autolink_nodes 5033 36 satelite elaboration-additional  5035
+collapsed_nodes {}
+collapsed_nodes {5035}
+collapsed_nodes {}
+disconnect_node 29 disconnect
+autolink_nodes 28 29 satelite reason  5036

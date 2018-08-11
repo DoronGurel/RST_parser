@@ -1,0 +1,64 @@
+nextSentence really
+create-a-node-here really 2.52 1 {\nA federal judge in Manhattan has entered a judgment }
+create-a-node-here really 2.130 2 {requiring a Chicago organized crime figure to pay the government $250,000, }
+#autolink_nodes 1 2 satelite elaboration-additional  5001
+#change_rel 2 elaboration-object-attribute
+#UNDID
+#UNDID
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.162 3 {representing alleged profits }
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 2.244 4 {he gained from his involvement with the International Brotherhood of Teamsters.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 4.44 5 { \n\nManhattan U.S. Attorney Otto Obermaier said }
+autolink_nodes 5001 5 satelite elaboration-additional  5004
+create-a-node-here really 4.74 6 {it was the first time ever }
+autolink_nodes 5 6 nucleus attribution  5005
+create-a-node-here really 4.158 7 {that the government had obtained any disgorgement from an organized crime figure }
+autolink_nodes 6 7 satelite elaboration-object-attribute below 5006
+create-a-node-here really 4.203 8 {indicted under the civil racketeering law.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5007
+create-a-node-here really 6.17 9 { \n\nJoseph Lombardo, }
+#create-a-node-here really 6.27 10 {who the}
+#UNDID
+create-a-node-here really 6.24 10 {who }
+create-a-node-here really 6.51 11 {the government alleged }
+create-a-node-here really 6.104 12 {was the "captain" of organized crime in Chicago, }
+create-a-node-here really 7.0 13 {was one of numerous defendants in the government's sweeping racketeering suit against the Teamsters.\n}
+autolink_nodes 10 11 satelite attribution  5008
+autolink_nodes 5008 12 multinuclear Same-Unit  5009
+#autolink_nodes 9 13 multinuclear Same-Unit  5010
+#UNDID
+autolink_nodes 9 5009 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 5010 13 multinuclear Same-Unit  5011
+collapsed_nodes {5005}
+autolink_nodes 5004 5011 satelite elaboration-additional  5012
+collapsed_nodes {}
+create-a-node-here really 7.17 14 {In the suit, }
+create-a-node-here really 7.41 15 {filed in June 1988, }
+create-a-node-here really 7.178 16 {the government accused the union's leadership of depriving its 1.6 million members of their rights through a pattern of racketeering.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 5013 16 multinuclear Same-Unit  5014
+autolink_nodes 5011 5014 satelite elaboration-additional  5015
+create-a-node-here really 8.43 17 {\nAmong other things, the government claimed }
+autolink_nodes 5014 17 satelite elaboration-additional  5016
+create-a-node-here really 8.127 18 {that organized crime figures had routinely handpicked the union's top officials.}
+nextSentence really
+create-a-node-here really 10.144 19 { \n\nU.S. District Judge David Edelstein also permanently enjoined Mr. Lombardo from any future dealings with the Teamsters or any other labor union.}
+nextSentence really
+autolink_nodes 17 18 nucleus attribution  5017
+autolink_nodes 5017 19 satelite elaboration-additional  5018
+create-a-node-here really 12.41 20 { \n\nMr. Lombardo, the last of the defendants }
+autolink_nodes 5018 20 satelite elaboration-additional  5019
+create-a-node-here really 12.65 21 {to settle the suit, }
+autolink_nodes 20 21 satelite purpose  5020
+create-a-node-here really 12.127 22 {agreed to pay the government the $250,000 within one week.}
+nextSentence really
+autolink_nodes 5020 22 multinuclear Same-Unit  5021
+collapsed_nodes {5012}
+nextSentence really
+nextSentence really
+collapsed_nodes {}

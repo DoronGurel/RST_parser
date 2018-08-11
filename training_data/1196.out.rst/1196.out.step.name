@@ -1,0 +1,61 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.76 1 {\nMercedes-Benz of North America Inc., Grosse Pointe Shores, Mich., estimated }
+create-a-node-here really 2.133 2 {it will sell about as many cars in 1990 as the 75,000 }
+create-a-node-here really 2.168 3 {it expects to deliver this year.}
+nextSentence really
+autolink_nodes 2 3 nucleus-embedded elaboration-object-attribute-e  5001
+autolink_nodes 1 5001 nucleus attribution  5002
+create-a-node-here really 4.24 4 { \n\nMercedes officials said }
+create-a-node-here really 4.60 5 {they expect flat sales next year }
+#create-a-node-here really 4.84 6 {even though they see }
+#create-a-node-here really 4.133 7 {the U.S. luxury-car market expanding slightly.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 4.130 6 {even though they see the U.S. luxury-car market expanding slightly.}
+autolink_nodes 4 5 nucleus attribution  5003
+#autolink_nodes 5003 6 satelite concession  5004
+#UNDID
+autolink_nodes 5003 6 satelite concession  5004
+create-a-node-here really 5.99 7 {\nErich Krampe, president of the U.S. sales arm of West German auto maker Daimler Benz AG, predicted }
+create-a-node-here really 5.171 8 {luxury-car sales will rise to 840,000 in 1990 from 830,000 this year }
+create-a-node-here really 5.218 9 {primarily because of the new Japanese makes.}
+nextSentence really
+autolink_nodes 8 9 satelite explanation-argumentative  5005
+autolink_nodes 7 5005 nucleus attribution  5006
+#autolink_nodes 6 5006 satelite explanation-argumentative  5007
+#UNDID
+autolink_nodes 6 5006 satelite elaboration-additional  5007
+nextSentence really
+create-a-node-here really 7.19 10 { \n\nMost of the growth,}
+create-a-node-here really 7.32 11 { he said,}
+create-a-node-here really 7.85 12 { will come in the $35,000-to-$50,000 price range,}
+create-a-node-here really 7.133 13 { where Mercedes has a 35% U.S. market share.}
+disconnect_node 5006 disconnect
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5008
+autolink_nodes 10 11 satelite-embedded attribution-e  5009
+autolink_nodes 5008 5009 multinuclear Same-Unit  5010
+autolink_nodes 5006 5010 satelite elaboration-additional  5011
+create-a-node-here really 8.34 14 {\nMercedes sold 82,348 cars in 1988.}
+autolink_nodes 13 14 satelite elaboration-additional  5012
+autolink_nodes 5002 5004 satelite elaboration-additional  5013
+create-a-node-here really 10.20 15 { \n\nMr. Krampe also said}
+create-a-node-here really 10.102 16 { that Mercedes plans to bring out new models every year through the mid-1990s }
+create-a-node-here really 10.191 17 {and it will shorten its product development cycle to eight years from 10 or 12 years }
+create-a-node-here really 10.336 18 {to compete more effectively with Toyota Motor Corp. 's Lexus, Nissan Motor Co. 's Infiniti and Honda Motor Co. 's Acura luxury-car divisions.}
+nextSentence really
+#autolink_nodes 17 18 satelite purpose  5014
+#UNDID
+#autolink_nodes 17 18 satelite enablement  5014
+#UNDID
+autolink_nodes 17 18 satelite purpose  5014
+autolink_nodes 16 5014 multinuclear List  5015
+autolink_nodes 15 5015 nucleus attribution  5016
+autolink_nodes 5013 5011 satelite elaboration-additional  5017
+collapsed_nodes {5011}
+autolink_nodes 5017 5016 satelite elaboration-additional  5018
+collapsed_nodes {}
+disconnect_node 2 disconnect
+autolink_nodes 3 2 nucleus-embedded elaboration-object-attribute-e  5019

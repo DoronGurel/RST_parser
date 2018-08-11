@@ -1,0 +1,181 @@
+nextSentence really
+create-a-node-here really 2.69 1 {\nIt's a California crime saga worthy of an Erle Stanley Gardner title:}
+create-a-node-here really 2.110 2 { The Case of the Purloined Palm Trees.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 4.44 3 { \n\nEdward Carlson awoke one morning last month }
+create-a-node-here really 4.84 4 {to find eight holes in his front yard}
+create-a-node-here really 4.121 5 { where his prized miniature palms,}
+create-a-node-here really 4.139 6 { called cycads,}
+create-a-node-here really 4.154 7 { once stood.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5002
+autolink_nodes 5002 7 multinuclear Same-Unit  5003
+autolink_nodes 4 5003 satelite-embedded elaboration-object-attribute-e  5004
+#autolink_nodes 3 5004 multinuclear List  5005
+#UNDID
+autolink_nodes 3 5004 nucleus temporal-after  5005
+#create-a-node-here really 5.50 8 {\nDays later, the thieves returned and dug out more,}
+#UNDID
+create-a-node-here really 5.32 8 {\nDays later, the thieves returned}
+create-a-node-here really 5.53 9 { and dug out more,}
+create-a-node-here really 5.91 10 { this time adding insult to injury.}
+autolink_nodes 8 9 multinuclear List  5006
+autolink_nodes 5006 10 satelite elaboration-additional  5007
+create-a-node-here really 5.115 11 { "The second time," }
+create-a-node-here really 5.127 12 {he says,}
+create-a-node-here really 5.155 13 { "they left the shovel."}
+nextSentence really
+autolink_nodes 11 12 satelite-embedded attribution-e  5008
+autolink_nodes 13 5008 multinuclear Same-Unit  5009
+autolink_nodes 5007 5009 satelite elaboration-additional  5010
+autolink_nodes 5010 5005 multinuclear Sequence  5011
+create-a-node-here really 7.89 14 { \n\nNo garden-variety crime, palm-tree rustling is sprouting up all over Southern California,}
+create-a-node-here really 7.123 15 { bringing big bucks to crooks }
+create-a-node-here really 7.149 16 {who know their botany.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5012
+#autolink_nodes 14 5012 satelite-embedded elaboration-object-attribute-e  5013
+#UNDID
+autolink_nodes 14 5012 satelite consequence-s  5013
+create-a-node-here really 8.7 17 {\nCycads,}
+create-a-node-here really 8.55 18 { the most popular of which is the Sago Palm,}
+create-a-node-here really 8.166 19 { are doll-sized versions of California's famous long-necked palms, with stubby trunks and fern-like fronds.}
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 19 5014 multinuclear Same-Unit  5015
+create-a-node-here really 9.35 20 {\nBecause the Sago is relatively rare}
+create-a-node-here really 9.81 21 { and grows only a couple of inches a year,}
+create-a-node-here really 9.116 22 { it's a pricey lawn decoration:}
+create-a-node-here really 9.164 23 { A two-foot tall Sago can retail for $1,000,}
+create-a-node-here really 9.212 24 { and taller ones often fetch $3,000 or more.}
+nextSentence really
+autolink_nodes 23 24 multinuclear List  5016
+autolink_nodes 20 21 multinuclear List  5017
+autolink_nodes 22 5017 satelite explanation-argumentative  5018
+autolink_nodes 5018 5016 satelite elaboration-general-specific  5019
+autolink_nodes 5015 5019 satelite elaboration-additional  5020
+autolink_nodes 5013 5020 satelite elaboration-additional  5021
+create-a-node-here really 11.34 25 { \n\n"Evidently, somebody has realized }
+#create-a-node-here really 11.54 26 {it's easy money }
+#create-a-node-here really 11.81 27 {to steal these things,"}
+#create-a-node-here really 11.129 28 { says Loran Whitelock, a research associate }
+#create-a-node-here really 11.202 29 {specializing in cycads at the Los Angeles State and County Arboretum.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 11.78 26 {it's easy money to steal these things," }
+create-a-node-here really 11.125 27 {says Loran Whitelock, a research associate }
+#create-a-node-here really 11.198 28 {specializing in cycads at the Los Angeles State and County Arboretum.}
+#UNDID
+create-a-node-here really 11.151 28 {specializing in cycads}
+create-a-node-here really 11.202 29 { at the Los Angeles State and County Arboretum.}
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 29 5022 multinuclear Same-Unit  5023
+autolink_nodes 25 26 nucleus attribution  5024
+autolink_nodes 5024 5023 satelite attribution  5025
+autolink_nodes 5021 5025 satelite elaboration-additional  5026
+autolink_nodes 5026 5011 satelite example  5027
+create-a-node-here really 12.103 30 {\nJust last week, would-be thieves damaged three Sagos at Mr. Whitelock's home in the Eagle Rock section }
+create-a-node-here really 12.152 31 {before something frightened them off, foiled.}
+nextSentence really
+autolink_nodes 30 31 satelite temporal-before  5028
+create-a-node-here really 12.208 32 { "It's hard to think someone is raping your garden,"}
+create-a-node-here really 12.221 33 { he says.}
+nextSentence really
+autolink_nodes 32 33 satelite attribution  5029
+autolink_nodes 5028 5029 satelite elaboration-additional  5030
+create-a-node-here really 14.14 34 { \n\nPolice suspect}
+create-a-node-here really 14.38 35 { that the criminals,}
+create-a-node-here really 14.86 36 { who dig up the plants in the dead of night,}
+create-a-node-here really 14.136 37 { are selling them to nurseries or landscapers.}
+nextSentence really
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5031
+autolink_nodes 37 5031 multinuclear Same-Unit  5032
+autolink_nodes 34 5032 nucleus attribution  5033
+autolink_nodes 5033 5030 satelite example  5034
+disconnect_node 5030 disconnect
+disconnect_node 5025 disconnect
+autolink_nodes 5019 5025 satelite elaboration-additional  5035
+autolink_nodes 5020 5030 satelite elaboration-additional  5036
+autolink_nodes 5027 5033 satelite elaboration-additional  5037
+disconnect_node 5011 disconnect
+autolink_nodes 5013 5011 satelite example below 5038
+create-a-node-here really 15.64 38 {\nThe Sago has become a popular accent in tony new housing tracts,}
+create-a-node-here really 15.140 39 { apparently giving the rustlers a ready market for their filched fronds.}
+nextSentence really
+autolink_nodes 38 39 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 5033 5039 satelite explanation-argumentative  5040
+create-a-node-here really 17.34 40 { \n\nThieves are going to find "anybody}
+create-a-node-here really 17.59 41 { who has enough bucks}
+create-a-node-here really 17.107 42 { to plant these things in their front yard,"}
+#create-a-node-here really 17.202 43 { says William Morrissey, an investigator with the police department in Garden Grove, Calif.}
+#nextSentence really
+#autolink_nodes 41 42 nucleus consequence-n  5041
+#UNDID
+#autolink_nodes 41 42 nucleus enablement  5041
+#autolink_nodes 40 5041 satelite-embedded elaboration-object-attribute-e  5042
+#autolink_nodes 5042 43 satelite attribution  5043
+#create-a-node-here really 17.276 44 {, where five such thefts have been reported in the past several weeks.}
+#autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5044
+#autolink_nodes 5040 5043 satelite elaboration-additional  5045
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 17.203 43 { says William Morrissey, an investigator with the police department in Garden Grove, Calif.,}
+create-a-node-here really 17.276 44 { where five such thefts have been reported in the past several weeks.}
+nextSentence really
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5041
+autolink_nodes 41 42 nucleus enablement  5042
+#autolink_nodes 41 40 nucleus-embedded elaboration-object-attribute-e  5043
+#UNDID
+autolink_nodes 40 5042 satelite-embedded elaboration-object-attribute-e  5043
+autolink_nodes 5043 5041 satelite attribution  5044
+autolink_nodes 5040 5044 satelite elaboration-additional  5045
+create-a-node-here really 18.52 45 {\nThe department is advising residents to plant Sagos,}
+create-a-node-here really 18.70 46 { if they must,}
+create-a-node-here really 18.92 47 { in the back yard }
+create-a-node-here really 18.150 48 {and telling nurseries to be on the lookout for anyone }
+create-a-node-here really 18.177 49 {trying to palm one off.}
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5046
+autolink_nodes 45 46 satelite-embedded comment-e  5047
+autolink_nodes 47 5047 multinuclear Same-Unit  5048
+autolink_nodes 5046 5048 multinuclear List  5049
+create-a-node-here really 20.26 50 { \n\nBut for those Californians}
+create-a-node-here really 20.64 51 { who want exotic gardens out front}
+create-a-node-here really 20.105 52 { where neighbors can appreciate them,}
+create-a-node-here really 20.149 53 { there's always Harold Smith's approach.}
+nextSentence really
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5050
+autolink_nodes 50 5050 satelite-embedded elaboration-object-attribute-e  5051
+autolink_nodes 53 5051 multinuclear Same-Unit  5052
+autolink_nodes 5052 5049 multinuclear Disjunction above 5053
+#autolink_nodes 5044 5053 multinuclear Problem-Solution  5054
+#UNDID
+collapsed_nodes {5044}
+autolink_nodes 5045 5053 multinuclear Problem-Solution  5054
+create-a-node-here really 21.60 54 {\nAfter three Sagos were stolen from his home in Garden Grove,}
+create-a-node-here really 21.103 55 { "I put a big iron stake in the ground }
+create-a-node-here really 21.153 56 {and tied the tree to the stake with a chain," }
+create-a-node-here really 21.173 57 {he says proudly.}
+#autolink_nodes 55 56 multinuclear List  5055
+#UNDID
+autolink_nodes 55 56 multinuclear Sequence  5055
+autolink_nodes 5055 54 satelite circumstance  5056
+autolink_nodes 5056 57 satelite attribution  5057
+create-a-node-here really 21.227 58 { "And you can't cut this chain with bolt cutters."}
+nextSentence really
+autolink_nodes 5057 58 satelite elaboration-additional  5058
+autolink_nodes 53 5058 satelite elaboration-additional  5059
+autolink_nodes 5037 5001 nucleus summary-n  5060
+collapsed_nodes {}
+change_rel 5030 example
+disconnect_node 33 disconnect
+autolink_nodes 32 33 satelite attribution  5061

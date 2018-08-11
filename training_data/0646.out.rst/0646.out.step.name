@@ -1,0 +1,21 @@
+nextSentence really
+create-a-node-here really 2.66 1 {\nMEDICINE SHOPPE INTERNATIONAL Inc. declared a 3-for-2 stock split,}
+create-a-node-here really 2.116 2 { and substantially boosted the dividend payout.}
+nextSentence really
+autolink_nodes 1 2 multinuclear List  5001
+create-a-node-here really 3.34 3 {\nThe franchiser of pharmacies said }
+create-a-node-here really 3.108 4 {the added shares will be distributed Dec. 4 to stock of record Nov. 13.}
+nextSentence really
+autolink_nodes 3 4 nucleus attribution  5002
+autolink_nodes 5001 5002 satelite elaboration-additional  5003
+create-a-node-here really 4.45 5 {\nThe company also changed its dividend policy,}
+create-a-node-here really 4.117 6 { under which holders had received an annual 10 cents-a-share payment,}
+create-a-node-here really 4.165 7 { by declaring a four-cents-a-share dividend, }
+create-a-node-here really 4.210 8 {to be paid quarterly on post-split shares.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5004
+#autolink_nodes 5 6 nucleus attribution  5005
+#UNDID
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 5005 5004 satelite means  5006
+autolink_nodes 5003 5006 satelite elaboration-additional  5007

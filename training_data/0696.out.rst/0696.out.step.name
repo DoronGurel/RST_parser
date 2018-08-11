@@ -1,0 +1,61 @@
+nextSentence really
+create-a-node-here really 2.10 1 {\nCompanies }
+create-a-node-here really 2.26 2 {listed below }
+create-a-node-here really 2.119 3 {reported quarterly profit substantially different from the average of analysts' estimates.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 3.54 4 {\nThe companies are followed by at least three analysts,}
+create-a-node-here really 3.122 5 { and had a minimum five-cent change in actual earnings per share.}
+nextSentence really
+#autolink_nodes 4 5 multinuclear List  5003
+#UNDID
+autolink_nodes 4 5 multinuclear List  5003
+autolink_nodes 5002 5003 satelite elaboration-additional  5004
+create-a-node-here really 4.28 6 {\nEstimated and actual results}
+create-a-node-here really 4.49 7 { involving losses }
+create-a-node-here really 4.65 8 {are omitted. }
+#autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5005
+#UNDID
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 5005 8 multinuclear Same-Unit  5006
+autolink_nodes 5004 5006 satelite elaboration-additional  5007
+create-a-node-here really 6.71 9 {\n\nThe percent difference compares actual profit with the 30-day estimate }
+create-a-node-here really 6.146 10 {where at least three analysts have issues forecasts in the past 30 days.}
+nextSentence really
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5008
+create-a-node-here really 7.63 11 {\nOtherwise, actual profit is compared with the 300-day estimate.}
+nextSentence really
+#autolink_nodes 5008 11 multinuclear Disjunction  5009
+#UNDID
+autolink_nodes 5008 11 multinuclear Disjunction  5009
+autolink_nodes 5007 5009 satelite elaboration-additional  5010
+#create-a-node-here really 9.33 12 { \n\nSource: Zacks Investment Research}
+#collapsed_nodes {5009}
+#change_constit 12 Attribution
+#change_constit 5010 Text
+#autolink_nodes 5010 12 multinuclear TextualOrganization  5011
+#UNDID
+#UNDID
+#UNDID
+#collapsed_nodes {}
+#UNDID
+create-a-node-here really 9.8 12 { \n\nSource: }
+create-a-node-here really 9.38 13 {Zacks Investment Research }
+autolink_nodes 12 13 satelite elaboration-general-specific  5011
+change_constit 5011 Attribution
+change_constit 5010 Text
+collapsed_nodes {5009}
+change_constit 5011 Attribution
+change_constit 5010 Text
+#autolink_nodes 5010 5011 multinuclear TextualOrganization  5012
+#collapsed_nodes {}
+#change_constit 11 
+#UNDID
+#UNDID
+change_constit 5011 Source
+change_constit 5010 Text
+autolink_nodes 5010 5011 multinuclear TextualOrganization  5012
+collapsed_nodes {}
+disconnect_node 11 modify
+autolink_nodes 5008 11 multinuclear Otherwise  5013

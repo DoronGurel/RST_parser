@@ -1,0 +1,150 @@
+nextSentence really
+create-a-node-here really 2.153 1 {\nDentsu Inc., the world's largest advertising agency on the strength of its dominance in the Japanese market, is setting its sights on overseas expansion.}
+nextSentence really
+create-a-node-here really 4.105 2 { \n\nLast year, Dentsu started HDM, a joint network with U.S. ad agency Young & Rubicam and Eurocom of France.}
+nextSentence really
+#create-a-node-here really 5.131 3 {\nA few months ago, Dentsu acquired 69% of Australian agency Fortune Communication Holdings Ltd. for 5.9 million Australian dollars (}
+#nextSentence really
+#create-a-node-here really 5.150 4 {US$4.6 million).}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 5.130 3 {\nA few months ago, Dentsu acquired 69% of Australian agency Fortune Communication Holdings Ltd. for 5.9 million Australian dollars }
+create-a-node-here really 5.150 4 {(US$4.6 million).}
+nextSentence really
+create-a-node-here really 6.30 5 {\nDentsu has U.S. subsidiaries, }
+create-a-node-here really 6.60 6 {but they keep low profiles.}
+nextSentence really
+autolink_nodes 2 3 multinuclear List  5001
+#autolink_nodes 3 4 satelite restatement  5002
+#UNDID
+autolink_nodes 3 4 satelite restatement  5002
+autolink_nodes 5 6 satelite elaboration-additional  5003
+#autolink_nodes 5001 5003 multinuclear List above 5004
+#UNDID
+autolink_nodes 5001 5003 multinuclear List below 5003
+autolink_nodes 1 5001 satelite example  5004
+create-a-node-here really 8.34 7 { \n\nNow, the giant marketing company, }
+create-a-node-here really 8.81 8 {which holds 25% of Japan's 4.4 trillion yen }
+create-a-node-here really 8.101 9 {($30.96 billion) }
+create-a-node-here really 8.126 10 {advertising industry, }
+create-a-node-here really 8.209 11 {is considering the acquisition of an advertising network in the U.S. or Europe.}
+nextSentence really
+create-a-node-here really 9.69 12 {\nWhat is driving Dentsu's international expansion largely is the need }
+create-a-node-here really 9.110 13 {to keep up with its Japanese clients }
+create-a-node-here really 9.150 14 {as they grow in the U.S. and Europe.}
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 9.187 15 { "If we don't do something . . . }
+create-a-node-here really 9.234 16 {we won't be able to catch up with demand," }
+create-a-node-here really 9.262 17 {says a Dentsu spokesman.}
+nextSentence really
+create-a-node-here really 9.287 18 { "Our president said }
+create-a-node-here really 9.327 19 {acquisition is an effective method."}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 8 9 satelite restatement  5006
+autolink_nodes 5006 10 multinuclear Same-Unit  5007
+autolink_nodes 5005 11 multinuclear Same-Unit  5008
+#autolink_nodes 5001 5008 multinuclear List below 5008
+#UNDID
+autolink_nodes 5001 5008 multinuclear Contrast above 5009
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 13 14 multinuclear Temporal-Same-Time  5011
+autolink_nodes 15 16 satelite condition  5012
+autolink_nodes 5012 17 satelite attribution  5013
+autolink_nodes 18 19 nucleus attribution  5014
+autolink_nodes 5009 5010 satelite elaboration-additional  5015
+autolink_nodes 5010 5013 satelite elaboration-additional  5016
+autolink_nodes 5013 5014 satelite evaluation-s  5017
+create-a-node-here really 11.83 20 { \n\nLast year, Dentsu's foreign business accounted for less than 10% of total billings,}
+create-a-node-here really 11.140 21 { but the company is aiming at 20% in the near future.}
+create-a-node-here really 12.54 22 {\nSo far, it appears cautious about taking the big step.}
+nextSentence really
+create-a-node-here really 13.32 23 {\nFor example, the spokesman says }
+create-a-node-here really 13.187 24 {Dentsu has been approached by banks and securities companies a number of times to invest in the troubled British marketing group Saatchi & Saatchi PLC.}
+nextSentence really
+create-a-node-here really 14.12 25 {\nBut he said }
+create-a-node-here really 14.58 26 {Dentsu hasn't looked seriously at Saatchi.}
+nextSentence really
+create-a-node-here really 16.19 27 { \n\nThough Dentsu says }
+create-a-node-here really 16.74 28 {it has no concrete acquisition plans or deadlines, }
+create-a-node-here really 16.131 29 {it is laying the groundwork for international growth.}
+nextSentence really
+create-a-node-here really 17.66 30 {\nIt is setting up a special team in charge of international markets}
+create-a-node-here really 17.114 31 { and training workers to do business abroad.}
+nextSentence really
+create-a-node-here really 19.13 32 { \n\nFor the year }
+create-a-node-here really 19.33 33 {ended March 31, }
+create-a-node-here really 19.93 34 {Dentsu sales rose 19% to $8.9 billion from $7.5 billion,}
+create-a-node-here really 19.157 35 { and net income jumped 59% to $102 million from $64 million.}
+nextSentence really
+create-a-node-here really 20.108 36 {\nDentsu's billings last year were larger than those of Young & Rubicam, the world's second-largest ad agency,}
+create-a-node-here really 20.170 37 { according to a survey by the publication Advertising Age.}
+nextSentence really
+create-a-node-here really 22.109 38 { \n\nBut success overseas in unfamiliar markets could be trickier than for other industries such as manufacturers.}
+nextSentence really
+create-a-node-here really 23.83 39 {\nOn its own, Dentsu's muscle in Japan may count for little in major foreign markets }
+create-a-node-here really 23.121 40 {when seeking non-Japanese clients.}
+nextSentence really
+create-a-node-here really 24.52 41 {\nThus, an acquisition may prove the necessary course.}
+nextSentence really
+nextSentence really
+create-a-node-here really 26.58 42 { \n\nBut Japanese agencies are cautious about expanding abroad }
+create-a-node-here really 26.105 43 {because client relationships are different.}
+create-a-node-here really 27.82 44 {\nJapanese agencies do business with rival clients in the same industry, a practice }
+create-a-node-here really 27.154 45 {"that would be unacceptable by traditional Western conflict rules," }
+create-a-node-here really 27.249 46 {says Roy Warman, the London chief executive of Saatchi & Saatchi's communications division.}
+nextSentence really
+create-a-node-here really 29.110 47 { \n\nAlthough acquiring a foreign company would expand Japanese advertising agencies' business to foreign clients, }
+create-a-node-here really 29.160 48 {many clients would also be Japanese companies }
+create-a-node-here really 29.183 49 {expanding overseas,}
+create-a-node-here really 29.214 50 { says the Dentsu spokesman.}
+nextSentence really
+create-a-node-here really 30.126 51 {\nBut the different business system would make it hard for Dentsu to provide these Japanese companies the same kind of services }
+create-a-node-here really 30.147 52 {they do in Japan.}
+nextSentence really
+autolink_nodes 20 21 multinuclear Contrast  5018
+autolink_nodes 5018 22 satelite elaboration-additional  5019
+autolink_nodes 23 24 nucleus attribution  5020
+autolink_nodes 25 26 nucleus attribution  5021
+autolink_nodes 5020 5021 multinuclear Contrast  5022
+#autolink_nodes 5020 5021 satelite Contrast  5023
+#UNDID
+autolink_nodes 5019 5022 satelite example  5023
+autolink_nodes 27 28 nucleus attribution  5024
+#autolink_nodes 28 29 multinuclear List  5025
+#UNDID
+autolink_nodes 28 29 nucleus concession  5025
+autolink_nodes 29 30 satelite elaboration-additional below 5026
+autolink_nodes 30 31 multinuclear List  5027
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5028
+autolink_nodes 5028 34 multinuclear Same-Unit  5029
+autolink_nodes 34 35 multinuclear List  5030
+autolink_nodes 36 37 satelite attribution  5031
+autolink_nodes 5031 38 satelite concession  5032
+autolink_nodes 39 40 satelite condition  5033
+autolink_nodes 5029 5032 satelite elaboration-additional  5034
+autolink_nodes 38 5033 satelite elaboration-additional  5035
+autolink_nodes 5035 41 satelite manner  5036
+autolink_nodes 42 43 satelite consequence-n  5037
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5038
+autolink_nodes 5038 46 satelite attribution  5039
+autolink_nodes 5037 5039 satelite explanation-argumentative  5040
+autolink_nodes 47 48 multinuclear Contrast  5041
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5042
+autolink_nodes 5041 50 satelite attribution  5043
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5044
+autolink_nodes 5017 5023 satelite elaboration-additional  5045
+autolink_nodes 5022 5024 satelite elaboration-additional  5046
+autolink_nodes 5024 5034 satelite elaboration-additional  5047
+autolink_nodes 5032 5040 satelite elaboration-additional  5048
+collapsed_nodes {5029}
+autolink_nodes 5034 5043 satelite elaboration-additional  5049
+autolink_nodes 5043 5044 satelite elaboration-additional  5050
+collapsed_nodes {5029 5004}
+collapsed_nodes {}

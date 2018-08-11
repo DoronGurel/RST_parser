@@ -1,0 +1,145 @@
+nextSentence really
+create-a-node-here really 2.51 1 {\nExxon Corp. filed suit against the state of Alaska,}
+create-a-node-here really 2.64 2 { charging }
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+create-a-node-here really 2.133 3 {state officials interfered with the oil company's initial efforts }
+autolink_nodes 2 3 nucleus attribution  5002
+create-a-node-here really 2.175 4 {to treat last spring's giant oil spill.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e below 5003
+create-a-node-here really 4.39 5 { \n\nThe action is a counterclaim to a suit }
+create-a-node-here really 4.110 6 {filed by Alaska in August against Exxon and six other oil companies.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 5001 5004 multinuclear Consequence  5005
+create-a-node-here really 5.25 7 {\nThe state's suit alleges }
+create-a-node-here really 5.156 8 {that Exxon's response to the spill failed to prevent contamination of hundreds of miles of shoreline along Prince William Sound.}
+nextSentence really
+autolink_nodes 7 8 nucleus attribution  5006
+autolink_nodes 5004 5006 satelite elaboration-general-specific  5007
+create-a-node-here really 6.75 9 {\nThat suit and Exxon's countersuit were filed in a state court in Anchorage.}
+nextSentence really
+autolink_nodes 5005 9 satelite elaboration-additional  5008
+create-a-node-here really 8.43 10 { \n\nNeither suit lists specific dollar claims, }
+create-a-node-here really 8.107 11 {largely because damage assessment hasn't yet been completed.}
+nextSentence really
+autolink_nodes 10 11 satelite circumstance  5009
+create-a-node-here really 9.22 12 {\nLegal strategists say }
+create-a-node-here really 9.107 13 {that damage claims against the oil giant and others could well exceed $1 billion.}
+nextSentence really
+autolink_nodes 12 13 nucleus attribution  5010
+autolink_nodes 5009 5010 satelite evaluation-s  5011
+create-a-node-here really 10.12 14 {\nLitigation, }
+create-a-node-here really 10.45 15 {if not settled out of court, }
+create-a-node-here really 10.73 16 {could drag on for years.}
+nextSentence really
+autolink_nodes 15 16 nucleus-embedded condition-e  5012
+autolink_nodes 14 5012 multinuclear Same-Unit  5013
+autolink_nodes 5008 5011 satelite elaboration-additional  5014
+autolink_nodes 5014 5013 satelite hypothetical  5015
+create-a-node-here really 12.23 17 { \n\nExxon said in its suit }
+create-a-node-here really 12.127 18 {that it will seek reimbursement from the state for that part of the cleanup costs and damage claims }
+autolink_nodes 17 18 nucleus attribution  5016
+create-a-node-here really 12.139 19 {it says }
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e below 5017
+create-a-node-here really 12.177 20 {resulted from the state's conduct.}
+nextSentence really
+autolink_nodes 19 20 nucleus attribution  5018
+create-a-node-here really 13.23 21 {\nThe oil company claims }
+create-a-node-here really 13.133 22 {that Alaskan officials prevented Exxon from spraying dispersant onto the almost 11 million gallons of oil }
+autolink_nodes 21 22 nucleus attribution  5019
+create-a-node-here really 13.144 23 {dumped }
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e below 5020
+create-a-node-here really 13.200 24 {when one of its tankers ran into an underwater reef.}
+nextSentence really
+autolink_nodes 23 24 satelite circumstance  5021
+autolink_nodes 5016 5019 satelite elaboration-general-specific  5022
+create-a-node-here really 15.85 25 { \n\nCraig Tillery, an Alaska assistant attorney general, said in an interview last night }
+create-a-node-here really 15.127 26 {that Exxon's accusations "are not new.}
+nextSentence really
+autolink_nodes 25 26 nucleus attribution  5023
+autolink_nodes 5022 5023 multinuclear Statement-Response  5024
+create-a-node-here really 16.28 27 {\nExxon has made them before, }
+create-a-node-here really 16.70 28 {at which point the state demonstrated }
+autolink_nodes 27 28 multinuclear Temporal-Same-Time  5025
+create-a-node-here really 16.91 29 {they were untrue.}
+nextSentence really
+autolink_nodes 28 29 nucleus attribution  5026
+create-a-node-here really 17.59 30 {\nThe state will vigorously defend against any counterclaim."}
+nextSentence really
+autolink_nodes 5023 5025 satelite elaboration-additional  5027
+disconnect_node 5019 modify
+autolink_nodes 5016 5019 satelite explanation-argumentative  5028
+disconnect_node 5025 modify
+autolink_nodes 5023 5025 satelite elaboration-additional  5029
+autolink_nodes 5029 30 satelite elaboration-additional  5030
+autolink_nodes 5015 5024 satelite summary-n  5031
+create-a-node-here really 19.147 31 { \n\nSince the spill last March, Exxon and the state have been wrangling over whether spraying dispersant on the oil in the first hours after the spill,}
+create-a-node-here really 19.189 32 { when the weather was clear and calm, }
+autolink_nodes 31 32 satelite-embedded temporal-same-time-e  5032
+create-a-node-here really 19.242 33 {would have helped limit the environmental damage.}
+nextSentence really
+autolink_nodes 5032 33 multinuclear Same-Unit  5033
+create-a-node-here really 21.13 34 { \n\nExxon claims }
+create-a-node-here really 21.42 35 {that use of dispersants, }
+autolink_nodes 34 35 nucleus attribution  5034
+create-a-node-here really 21.97 36 {which break an oil slick into microscopic droplets,}
+autolink_nodes 35 36 satelite-embedded definition-e below 5035
+create-a-node-here really 21.152 37 { was a crucial part of its immediate-response plan }
+autolink_nodes 5035 37 multinuclear Same-Unit  5036
+create-a-node-here really 21.234 38 {and that state officials banned their use during the two days of fair weather }
+autolink_nodes 5036 38 multinuclear List above 5037
+create-a-node-here really 21.258 39 {following the spill.}
+nextSentence really
+autolink_nodes 38 39 satelite temporal-after  5038
+create-a-node-here really 23.23 40 { \n\nThe oil company claims }
+create-a-node-here really 23.115 41 {that it had permission from the U.S. Environmental Protection Agency prior to the spill }
+create-a-node-here really 23.203 42 {to use dispersant during such an incident at the discretion of the U.S. Coast Guard.}
+nextSentence really
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 40 5039 nucleus attribution  5040
+create-a-node-here really 24.50 43 {\nThe state's opposition to the use of dispersants, }
+create-a-node-here really 24.66 44 {Exxon says, }
+autolink_nodes 43 44 satelite-embedded attribution-e  5041
+create-a-node-here really 24.124 45 {caused the Coast Guard "to delay granting permission."}
+nextSentence really
+autolink_nodes 5041 45 multinuclear Same-Unit  5042
+autolink_nodes 5040 5042 multinuclear Contrast  5043
+#autolink_nodes 5034 5043 multinuclear Consequence  5044
+#UNDID
+autolink_nodes 5034 5043 multinuclear Consequence  5044
+create-a-node-here really 26.38 46 { \n\nAlaskan and Coast Guard officials say }
+create-a-node-here really 26.74 47 {Exxon's charges aren't relevant }
+autolink_nodes 46 47 nucleus attribution  5045
+create-a-node-here really 26.92 48 {because tests }
+autolink_nodes 5045 48 satelite explanation-argumentative  5046
+create-a-node-here really 26.132 49 {conducted during the first two days }
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5047
+create-a-node-here really 26.156 50 {following the spill }
+autolink_nodes 49 50 satelite-embedded temporal-after-e  5048
+create-a-node-here really 26.167 51 {showed }
+autolink_nodes 5047 51 multinuclear Same-Unit  5049
+disconnect_node 50 modify
+autolink_nodes 49 50 satelite temporal-after  5050
+create-a-node-here really 27.0 52 {that the dispersant wasn't working anyway.\n}
+autolink_nodes 51 52 nucleus attribution  5051
+create-a-node-here really 27.36 53 {Use of dispersants was approved }
+create-a-node-here really 27.99 54 {when a test on the third day showed some positive results, }
+autolink_nodes 53 54 satelite contingency  5052
+create-a-node-here really 27.118 55 {officials said.}
+nextSentence really
+autolink_nodes 5052 55 satelite attribution  5053
+disconnect_node 54 modify
+autolink_nodes 53 54 satelite consequence-n below 5054
+autolink_nodes 5046 5053 satelite elaboration-additional  5055
+autolink_nodes 5044 5055 multinuclear Statement-Response above 5056
+#autolink_nodes 5033 5056 satelite summary-n  5057
+#autolink_nodes 5024 5057 multinuclear Topic-Drift above 5058
+#UNDID
+#UNDID
+autolink_nodes 5033 5056 satelite summary-n  5057
+autolink_nodes 5024 5057 satelite elaboration-additional  5058
+disconnect_node 5002 disconnect
+autolink_nodes 1 5002 satelite manner  5059
+disconnect_node 5013 modify
+autolink_nodes 5014 5013 satelite interpretation-s below 5060

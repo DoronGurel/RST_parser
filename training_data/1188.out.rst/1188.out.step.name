@@ -1,0 +1,58 @@
+nextSentence really
+create-a-node-here really 2.93 1 {\nDirectors of Bergen Bank and Den Norske Creditbank, two of Norway's leading banks, announced }
+create-a-node-here really 2.146 2 {they had agreed to the formal merger of the banks.}
+nextSentence really
+create-a-node-here really 4.113 3 { \n\nThe merger would create Scandinavia's seventh largest bank, with combined assets of 210 billion Norwegian kroner }
+nextSentence really
+create-a-node-here really 4.132 4 {($30.3 billion).}
+nextSentence really
+create-a-node-here really 6.15 5 { \n\nThe banks said }
+#create-a-node-here really 6.52 6 {an application for a concession to}
+#UNDID
+create-a-node-here really 6.50 6 {an application for a concession }
+create-a-node-here really 6.78 7 {to merge into one entity }
+create-a-node-here really 6.113 8 {to be called Den Norske Bank AS }
+create-a-node-here really 6.157 9 {was sent Monday to the Finance Ministry. }
+autolink_nodes 1 2 nucleus attribution  5001
+#autolink_nodes 5001 3 satelite result  5002
+#UNDID
+autolink_nodes 5001 3 satelite consequence-s  5002
+autolink_nodes 3 4 satelite restatement  5003
+autolink_nodes 5 6 nucleus attribution  5004
+#autolink_nodes 6 7 satelite-embedded purpose-e below 5005
+#autolink_nodes 7 8 satelite elaboration-object-attribute  5006
+#autolink_nodes 6 9 multinuclear Same-Unit  5007
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 6 7 satelite-embedded purpose-e below 5005
+#autolink_nodes 6 9 multinuclear Same-Unit  5006
+#UNDID
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5002 5004 satelite elaboration-additional  5007
+autolink_nodes 5005 9 multinuclear Same-Unit  5008
+create-a-node-here really 8.41 10 {\n\nThe two boards said in a joint statement }
+create-a-node-here really 8.137 11 {that the proposed merger agreement was considered in separate board meetings in Oslo Monday.}
+nextSentence really
+create-a-node-here really 10.10 12 { \n\nThey said }
+create-a-node-here really 10.100 13 {the agreement will be submitted to their respective supervisory boards next Wednesday.}
+nextSentence really
+create-a-node-here really 11.31 14 {\nExtraordinary general meetings,}
+create-a-node-here really 11.55 15 { to be held Nov. 28,}
+create-a-node-here really 11.97 16 { will decide the share exchange ratio.}
+nextSentence really
+create-a-node-here really 13.58 17 { \n\nThe merger requires the approval of Norwegian authorities.}
+nextSentence really
+autolink_nodes 10 11 nucleus attribution  5009
+autolink_nodes 12 13 nucleus attribution  5010
+autolink_nodes 5009 5010 satelite elaboration-additional  5011
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 5012 16 multinuclear Same-Unit  5013
+collapsed_nodes {5002}
+autolink_nodes 5007 5011 satelite elaboration-additional  5014
+autolink_nodes 5014 5013 satelite elaboration-additional  5015
+autolink_nodes 5015 17 satelite elaboration-additional  5016
+collapsed_nodes {5002 5016}
+collapsed_nodes {}
+collapsed_nodes {5016}
+collapsed_nodes {}

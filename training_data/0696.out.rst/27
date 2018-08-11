@@ -1,0 +1,130 @@
+1
+ Companies 
+5001
+span
+
+2
+listed below 
+1
+elaboration-object-attribute-e
+
+3
+reported quarterly profit substantially different from the average of analysts' estimates.
+5002
+Same-Unit
+
+4
+ The companies are followed by at least three analysts,
+5003
+List
+
+5
+ and had a minimum five-cent change in actual earnings per share.
+5003
+List
+
+6
+ Estimated and actual results
+5005
+span
+
+7
+ involving losses 
+6
+elaboration-object-attribute-e
+
+8
+are omitted. 
+5006
+Same-Unit
+
+9
+ The percent difference compares actual profit with the 30-day estimate 
+5008
+span
+
+10
+where at least three analysts have issues forecasts in the past 30 days.
+9
+elaboration-object-attribute-e
+
+11
+ Otherwise, actual profit is compared with the 300-day estimate.
+5013
+Otherwise
+
+12
+ Source: 
+5011
+span
+
+13
+Zacks Investment Research 
+12
+elaboration-general-specific
+
+5001
+span
+5002
+Same-Unit
+
+5002
+multinuc
+5004
+span
+
+5003
+multinuc
+5002
+elaboration-additional
+
+5004
+span
+5007
+span
+
+5005
+span
+5006
+Same-Unit
+
+5006
+multinuc
+5004
+elaboration-additional
+
+5007
+span
+5010
+span
+
+5008
+span
+5013
+Otherwise
+
+5009
+span
+
+
+
+5010
+span
+5012
+TextualOrganization
+Text
+5011
+span
+5012
+TextualOrganization
+Source
+5012
+multinuc
+
+
+
+5013
+multinuc
+5007
+elaboration-additional
+

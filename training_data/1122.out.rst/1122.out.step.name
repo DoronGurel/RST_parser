@@ -1,0 +1,429 @@
+nextSentence really
+create-a-node-here really 2.70 1 {\nDISASTER STATES aren't jumping to raise taxes for relief and recovery.}
+nextSentence really
+create-a-node-here really 4.16 2 { \n\nNot yet, anyway.}
+nextSentence really
+autolink_nodes 1 2 satelite elaboration-additional  5001
+create-a-node-here really 5.50 3 {\nJust after Hurricane Hugo battered South Carolina,}
+create-a-node-here really 5.154 4 { some officials talked of perhaps adding a penny to the state gasoline tax or raising property taxes.}
+nextSentence really
+autolink_nodes 3 4 nucleus consequence-n  5002
+create-a-node-here really 6.24 5 {\nGov. Campbell responded,}
+create-a-node-here really 6.52 6 { "They're mentioning rope}
+create-a-node-here really 6.99 7 { when there's been a hanging in the family."}
+nextSentence really
+autolink_nodes 6 7 satelite circumstance  5003
+autolink_nodes 5003 5 satelite attribution  5004
+autolink_nodes 5004 5002 multinuclear Statement-Response  5005
+create-a-node-here really 6.119 8 { A spokesman says}
+create-a-node-here really 6.144 9 { the governor believes}
+create-a-node-here really 6.170 10 { he can avoid increases}
+create-a-node-here really 6.200 11 { by relying on federal aid}
+create-a-node-here really 6.242 12 { and shifting funds in state programs.}
+nextSentence really
+autolink_nodes 11 12 multinuclear List  5006
+autolink_nodes 10 5006 satelite means  5007
+autolink_nodes 5007 9 satelite attribution  5008
+autolink_nodes 5008 8 satelite attribution  5009
+autolink_nodes 5004 5009 satelite elaboration-additional  5010
+create-a-node-here really 7.54 13 {\nStill, Hugo's impact may revive unsuccessful proposals}
+create-a-node-here really 7.95 14 { to give local governments authority }
+create-a-node-here really 7.119 15 {to levy sales taxes.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 13 5011 satelite-embedded elaboration-object-attribute-e  5012
+create-a-node-here really 9.47 16 { \n\nA spokesman for North Carolina Gov. Martin says}
+create-a-node-here really 9.112 17 { Hugo hasn't prompted proposals for state or local increases.}
+nextSentence really
+autolink_nodes 16 17 nucleus attribution  5013
+autolink_nodes 5013 5012 multinuclear Contrast  5014
+autolink_nodes 5005 5014 satelite elaboration-additional  5015
+create-a-node-here really 10.11 18 {\nCalifornia,}
+create-a-node-here really 10.59 19 { where earthquake damage may top $5 billion,}
+create-a-node-here really 10.100 20 { plans a special legislative session.}
+nextSentence really
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 20 5016 multinuclear Same-Unit  5017
+create-a-node-here really 11.30 21 {\nProperty-tax relief is likely.}
+nextSentence really
+autolink_nodes 5017 21 nucleus consequence-n  5018
+create-a-node-here really 12.73 22 {\nLegislators are talking about temporary rises in sales or gasoline taxes,}
+create-a-node-here really 12.108 23 { although Gov. Deukmejian says }
+create-a-node-here really 12.141 24 {they should be a last resort.}
+nextSentence really
+autolink_nodes 23 24 nucleus attribution  5019
+autolink_nodes 22 5019 satelite antithesis  5020
+autolink_nodes 5018 5020 satelite elaboration-additional  5021
+create-a-node-here really 13.19 25 {\nNeeds aren't clear,}
+create-a-node-here really 13.102 26 { and the state constitution makes increasing taxes and spending very difficult.}
+nextSentence really
+autolink_nodes 25 26 multinuclear List  5022
+autolink_nodes 5021 5022 satelite circumstance  5023
+create-a-node-here really 15.27 27 { \n\nBut some legislators think }
+create-a-node-here really 15.52 28 {the time may be ripe }
+create-a-node-here really 15.83 29 {to revise the constitution.}
+nextSentence really
+autolink_nodes 28 29 satelite purpose  5024
+autolink_nodes 5024 27 satelite attribution  5025
+autolink_nodes 5022 5025 satelite consequence-s  5026
+#autolink_nodes 5023 5015 multinuclear Statement-Response  5027
+#UNDID
+autolink_nodes 5015 5023 multinuclear Comparison  5027
+collapsed_nodes {5027}
+create-a-node-here really 17.16 30 { \n\nTHE IRS WILL PAY}
+create-a-node-here really 17.64 31 { if its error burdens you with bank charges.}
+autolink_nodes 30 31 satelite condition  5028
+create-a-node-here really 19.39 32 { \n\nPolicy statement P-5-39 sets out terms.}
+nextSentence really
+create-a-node-here really 20.55 33 {\nAs a result of an erroneous IRS levy on a bank account,}
+create-a-node-here really 20.118 34 { a taxpayer may incur administrative and overdraft charges.}
+nextSentence really
+autolink_nodes 33 34 nucleus result  5029
+create-a-node-here really 21.28 35 {\nIf the IRS admits its error }
+create-a-node-here really 21.63 36 {and the charges have been paid,}
+create-a-node-here really 21.97 37 { it will reimburse a taxpayer }
+create-a-node-here really 21.160 38 {who hasn't refused to give timely answers to IRS inquiries }
+create-a-node-here really 21.225 39 {or hasn't contributed to continuing or compounding the error.}
+nextSentence really
+autolink_nodes 38 39 multinuclear List  5030
+autolink_nodes 37 5030 satelite-embedded elaboration-object-attribute-e  5031
+autolink_nodes 36 35 multinuclear List  5032
+autolink_nodes 5031 5032 satelite condition  5033
+autolink_nodes 5033 5029 satelite circumstance  5034
+autolink_nodes 32 5034 satelite elaboration-general-specific  5035
+collapsed_nodes {5027 5034}
+collapsed_nodes {5027}
+create-a-node-here really 22.36 40 {\nThe IRS recently amended the policy }
+create-a-node-here really 22.80 41 {to cover stop-payment charges for checks}
+create-a-node-here really 22.101 42 { lost by the IRS.}
+nextSentence really
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5036
+autolink_nodes 40 5036 satelite-embedded elaboration-object-attribute-e  5037
+create-a-node-here really 24.54 43 { \n\nIf the IRS asks for and gets a replacement for a check}
+create-a-node-here really 24.76 44 { that it concedes }
+create-a-node-here really 24.102 45 {it lost in processing,}
+create-a-node-here really 24.182 46 { it will reimburse the taxpayer for the stop-payment charge on the original.}
+nextSentence really
+autolink_nodes 44 45 nucleus attribution  5038
+autolink_nodes 43 5038 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 46 5039 satelite condition  5040
+create-a-node-here really 25.83 47 {\nReimbursement claims must be filed with the IRS district or service-center director}
+create-a-node-here really 25.128 48 { within a year after the expense accrues.}
+nextSentence really
+autolink_nodes 47 48 satelite temporal-after  5041
+autolink_nodes 5040 5041 satelite elaboration-additional  5042
+autolink_nodes 5037 5042 satelite elaboration-general-specific  5043
+create-a-node-here really 26.39 49 {\nIf the IRS seeks late-payment interest }
+create-a-node-here really 26.69 50 {because of the lost check,}
+create-a-node-here really 26.112 51 { you should request interest abatement,}
+create-a-node-here really 26.147 52 { publisher Prentice Hall notes.}
+nextSentence really
+autolink_nodes 49 50 satelite reason  5044
+autolink_nodes 51 5044 satelite condition  5045
+autolink_nodes 5045 52 satelite attribution  5046
+autolink_nodes 5043 5046 satelite elaboration-additional  5047
+autolink_nodes 5035 5047 satelite elaboration-additional  5048
+collapsed_nodes {5027 5047}
+collapsed_nodes {5027 5047 5034}
+#create-a-node-here really 28.36 53 { \n\nJUST FIVE ACRES MORE are all we need}
+#create-a-node-here really 28.64 54 { to feel really at home,}
+#create-a-node-here really 28.78 55 { they say.}
+#nextSentence really
+#autolink_nodes 54 55 satelite purpose  5049
+#UNDID
+#autolink_nodes 53 54 satelite purpose  5049
+#autolink_nodes 5049 55 satelite attribution  5050
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 28.28 53 { \n\nJUST FIVE ACRES MORE are all}
+create-a-node-here really 28.41 54 { we need }
+create-a-node-here really 28.68 55 {to feel really at home,}
+create-a-node-here really 28.82 56 { they say.}
+autolink_nodes 54 55 satelite purpose  5049
+autolink_nodes 53 5049 satelite-embedded elaboration-object-attribute-e  5050
+autolink_nodes 56 5050 nucleus attribution  5051
+create-a-node-here really 30.9 57 { \n\nA couple }
+create-a-node-here really 30.38 58 {we'll call the Blandings }
+create-a-node-here really 30.96 59 {spent nearly $800,000 on a 15-acre plot and main home }
+create-a-node-here really 30.192 60 {and have an old $175,000 mortgage exempt from the new limit on mortgage-interest deductions.}
+nextSentence really
+autolink_nodes 57 58 satelite-embedded elaboration-object-attribute-e  5052
+autolink_nodes 59 5052 multinuclear Same-Unit  5053
+autolink_nodes 60 5053 multinuclear List  5054
+change_rel 58 elaboration-additional-e
+create-a-node-here really 31.34 61 {\nThey plan to expand the home site }
+create-a-node-here really 31.82 62 {by buying five adjoining acres for $200,000,}
+create-a-node-here really 31.138 63 { borrowed against a first mortgage on the five acres}
+create-a-node-here really 31.183 64 { and also collateralized by the 15 acres.}
+nextSentence really
+autolink_nodes 63 64 multinuclear List  5055
+autolink_nodes 62 5055 satelite-embedded elaboration-object-attribute-e  5056
+autolink_nodes 61 5056 satelite means  5057
+autolink_nodes 5054 5057 satelite elaboration-additional  5058
+create-a-node-here really 32.50 65 {\nTheir debt will be well under the $1 million limit}
+create-a-node-here really 32.71 66 { -- on borrowing }
+create-a-node-here really 32.114 67 {to acquire, build, or improve a home --}
+create-a-node-here really 32.167 68 { that qualifies for mortgage-interest deductions.}
+nextSentence really
+autolink_nodes 66 67 satelite purpose  5059
+autolink_nodes 65 5059 satelite-embedded elaboration-object-attribute-e  5060
+autolink_nodes 5060 68 satelite-embedded elaboration-object-attribute-e  5061
+autolink_nodes 5058 5061 satelite elaboration-additional  5062
+create-a-node-here really 34.17 69 { \n\nAs you can guess,}
+create-a-node-here really 34.95 70 { the Blandings want to deduct home-mortgage interest on the $200,000 loan.}
+nextSentence really
+autolink_nodes 69 70 nucleus comment  5063
+create-a-node-here really 35.4 71 {\nBut,}
+create-a-node-here really 35.42 72 { IRS private ruling 8940061 notes,}
+create-a-node-here really 35.97 73 { no rule or court case bears directly on the issue }
+create-a-node-here really 35.141 74 {of adding land to a principal residence.}
+nextSentence really
+autolink_nodes 73 74 satelite-embedded elaboration-object-attribute-e  5064
+autolink_nodes 71 72 satelite-embedded attribution-e  5065
+autolink_nodes 5064 5065 multinuclear Same-Unit  5066
+create-a-node-here really 36.62 75 {\nSo the IRS has drawn a rationale from the sale of a home site }
+create-a-node-here really 36.79 76 {split in two }
+create-a-node-here really 36.129 77 {and sold in different years to the same buyer;}
+autolink_nodes 76 77 multinuclear Sequence  5067
+autolink_nodes 75 5067 satelite-embedded elaboration-object-attribute-e  5068
+create-a-node-here really 36.214 78 { a court let the seller in that old case treat this as the sale of one residence.}
+nextSentence really
+autolink_nodes 5068 78 nucleus consequence-n  5069
+autolink_nodes 5066 5069 satelite elaboration-additional  5070
+create-a-node-here really 38.5 79 { \n\nThus,}
+create-a-node-here really 38.23 80 { the IRS says,}
+create-a-node-here really 38.82 81 { the Blandings' $200,000 loan is home-acquisition debt,}
+create-a-node-here really 38.126 82 { and interest on it is fully deductible.}
+nextSentence really
+autolink_nodes 79 80 satelite-embedded attribution-e  5071
+autolink_nodes 81 5071 multinuclear Same-Unit  5072
+autolink_nodes 5072 82 satelite consequence-s  5073
+autolink_nodes 5073 5070 satelite background  5074
+autolink_nodes 5074 5063 satelite circumstance  5075
+autolink_nodes 5062 5075 satelite elaboration-additional  5076
+collapsed_nodes {5027 5047 5034 5057}
+collapsed_nodes {5027 5047 5034 5057 5061}
+collapsed_nodes {5027 5047 5034 5057 5061 5075}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049}
+create-a-node-here really 40.18 83 { \n\nEARTHQUAKE VICTIMS}
+create-a-node-here really 40.67 84 { facing imminent filing and payment deadlines}
+create-a-node-here really 40.123 85 { will get extensions and penalty waivers like those }
+create-a-node-here really 40.155 86 {provided for Hugo's victims;}
+create-a-node-here really 40.189 87 { IRS Notice 89108 has details.}
+nextSentence really
+autolink_nodes 83 84 satelite-embedded elaboration-object-attribute-e  5077
+autolink_nodes 85 86 satelite-embedded elaboration-object-attribute-e  5078
+autolink_nodes 5078 5077 multinuclear Same-Unit  5079
+autolink_nodes 5079 87 satelite elaboration-additional  5080
+create-a-node-here really 41.60 88 {\nNotice 89-107 offers added relief for hurricane-hit concerns}
+create-a-node-here really 41.113 89 { that must file pension and benefit-plan returns.}
+nextSentence really
+autolink_nodes 88 89 satelite-embedded elaboration-object-attribute-e  5081
+autolink_nodes 5080 5081 satelite elaboration-additional  5082
+create-a-node-here really 43.88 90 { \n\nREPORTS OF PAYMENTS to independent contractors for services must be filed by businesses,}
+create-a-node-here really 43.169 91 { but don't bet that contractors' unreported income will be detected that way.}
+nextSentence really
+autolink_nodes 90 91 nucleus concession  5083
+create-a-node-here really 44.39 92 {\nThe General Accounting Office estimates}
+create-a-node-here really 44.87 93 { that 50% of IRS audits don't spot companies}
+create-a-node-here really 44.122 94 { that fail to file the reports.}
+nextSentence really
+autolink_nodes 93 94 satelite-embedded elaboration-object-attribute-e  5084
+autolink_nodes 5084 92 satelite attribution  5085
+autolink_nodes 5083 5085 satelite explanation-argumentative  5086
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078}
+create-a-node-here really 46.7 95 { \n\nUH HUH:}
+create-a-node-here really 46.46 96 { A claim by Peter Testa of New York}
+create-a-node-here really 46.80 97 { that a stranger paid him $500}
+create-a-node-here really 46.102 98 { to go into a bank}
+create-a-node-here really 46.158 99 { and change $44,400 in small bills into large bills }
+create-a-node-here really 46.180 100 {"is unconvincing,"}
+create-a-node-here really 46.206 101 { the Tax Court found.}
+nextSentence really
+autolink_nodes 98 99 multinuclear List  5087
+autolink_nodes 97 5087 satelite purpose  5088
+autolink_nodes 96 5088 satelite-embedded elaboration-object-attribute-e  5089
+autolink_nodes 5089 100 multinuclear Same-Unit  5090
+autolink_nodes 5090 101 satelite attribution  5091
+create-a-node-here really 47.7 102 {\nIt held}
+create-a-node-here really 47.67 103 { that Testa is taxable on $44,400 of unreported income.}
+nextSentence really
+autolink_nodes 102 103 nucleus attribution  5092
+autolink_nodes 5091 5092 satelite elaboration-additional  5093
+autolink_nodes 5093 95 satelite comment  5094
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088}
+create-a-node-here really 49.40 104 { \n\nWHY BE A MIDDLEMAN for charitable gifts?}
+nextSentence really
+create-a-node-here really 49.61 105 { a retiree asks.}
+nextSentence really
+autolink_nodes 104 105 satelite attribution  5095
+create-a-node-here really 51.29 106 { \n\nA retired electrical engineer}
+create-a-node-here really 51.49 107 { we'll call Ben}
+create-a-node-here really 51.87 108 { works part-time as a consultant,}
+create-a-node-here really 51.128 109 { but he doesn't want to earn so much}
+create-a-node-here really 51.176 110 { that Social Security reduces his benefits.}
+nextSentence really
+autolink_nodes 109 110 nucleus consequence-n  5096
+autolink_nodes 106 107 satelite-embedded elaboration-additional-e  5097
+autolink_nodes 108 5097 multinuclear Same-Unit  5098
+autolink_nodes 5096 5098 satelite circumstance  5099
+#create-a-node-here really 52.46 111 {\nSo he has arranged for a university foundation}
+#create-a-node-here really 52.120 112 { to set up a scholarship fund for undergraduate engineering students.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 52.115 111 {\nSo he has arranged for a university foundation to set up a scholarship fund for undergraduate engineering students.}
+create-a-node-here really 53.90 112 {\nHe plans to tell clients to pay certain fees directly to the foundation instead of to him;}
+create-a-node-here really 53.133 113 { he would omit those fees from income }
+create-a-node-here really 53.161 114 {reported on his return.}
+nextSentence really
+autolink_nodes 113 114 satelite-embedded elaboration-object-attribute-e  5100
+autolink_nodes 5100 112 satelite consequence-n  5101
+autolink_nodes 5101 111 satelite circumstance  5102
+autolink_nodes 5102 5099 multinuclear Problem-Solution  5103
+create-a-node-here really 54.19 115 {\nSo he asked the IRS}
+create-a-node-here really 54.48 116 { if the plan would work.}
+nextSentence really
+autolink_nodes 115 116 nucleus attribution  5104
+create-a-node-here really 56.5 117 { \n\nWell,}
+create-a-node-here really 56.44 118 { notes IRS private ruling 8934014,}
+#create-a-node-here really 56.115 119 { "a fundamental principle" is that income must be taxed to whoever}
+#UNDID
+create-a-node-here really 56.125 119 { "a fundamental principle" is that income must be taxed to whoever earns it.}
+autolink_nodes 117 118 satelite-embedded attribution-e  5105
+autolink_nodes 119 5105 multinuclear Same-Unit  5106
+create-a-node-here really 57.68 120 {\nThe rule goes back at least as far as a 1930 Supreme Court decision,}
+create-a-node-here really 57.120 121 { Robert Willens of Shearson Lehman Hutton says.}
+nextSentence really
+autolink_nodes 120 121 satelite attribution  5107
+autolink_nodes 5106 5107 satelite elaboration-additional  5108
+create-a-node-here really 58.37 122 {\nIf you assign your income to another,}
+create-a-node-here really 58.84 123 { you still have controlled its disposition}
+create-a-node-here really 58.147 124 { and enjoyed the fruits of your labor, even if indirectly.}
+nextSentence really
+autolink_nodes 123 124 multinuclear List  5109
+autolink_nodes 5109 122 satelite condition  5110
+autolink_nodes 5108 5110 satelite restatement  5111
+create-a-node-here really 60.18 125 { \n\nBen earns any fees}
+create-a-node-here really 60.49 126 { sent directly to charity }
+create-a-node-here really 60.77 127 {and is taxable on them,}
+create-a-node-here really 60.97 128 { the IRS says; }
+create-a-node-here really 60.162 129 {of course, he also may take a charitable deduction for them.}
+nextSentence really
+autolink_nodes 125 126 satelite-embedded elaboration-object-attribute-e  5112
+autolink_nodes 127 5112 satelite consequence-n  5113
+autolink_nodes 5113 128 satelite attribution  5114
+autolink_nodes 5114 129 satelite hypothetical  5115
+autolink_nodes 5115 5111 satelite background  5116
+autolink_nodes 5116 5104 satelite question-answer-n  5117
+autolink_nodes 5117 5103 satelite circumstance  5118
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088 5103}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088 5103 5111}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088 5103 5111 5104}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088 5103 5111 5104 5112}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 62.7 130 { \n\nBRIEFS:}
+create-a-node-here really 62.44 131 { Ways and Means veteran Gephardt}
+create-a-node-here really 62.59 132 { (D., Mo.)}
+create-a-node-here really 62.101 133 { moves to the House Budget Committee;}
+create-a-node-here really 62.119 134 { Rep. Cardin }
+create-a-node-here really 62.133 135 {(D., Md.)}
+#create-a-node-here really 62.152 136 { replaces him.}
+#nextSentence really
+#autolink_nodes 131 132 satelite-embedded elaboration-additional-e  5119
+#autolink_nodes 133 5119 multinuclear Same-Unit  5120
+#autolink_nodes 134 135 satelite-embedded elaboration-additional-e  5121
+#autolink_nodes 136 5121 multinuclear Same-Unit  5122
+#autolink_nodes 5120 5122 satelite elaboration-additional  5123
+#collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088 5103 5111 5104 5112 5122}
+#nextSentence really
+#nextSentence really
+#nextSentence really
+#nextSentence really
+#nextSentence really
+#collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088 5103 5111 5104 5112}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088 5103 5111 5104 5112}
+#UNDID
+#UNDID
+#nextSentence really
+#nextSentence really
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 62.158 136 { replaces him. . . .}
+autolink_nodes 131 132 satelite-embedded elaboration-additional-e  5119
+autolink_nodes 133 5119 multinuclear Same-Unit  5120
+autolink_nodes 134 135 satelite-embedded elaboration-additional-e  5121
+autolink_nodes 5121 136 multinuclear Same-Unit  5122
+autolink_nodes 5120 5122 satelite elaboration-additional  5123
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088 5103 5111 5104 5112 5122}
+nextSentence really
+create-a-node-here really 62.258 137 { Seattle's license fees for adult peep shows vary from those for other coin-operated amusements}
+create-a-node-here really 62.313 138 { without serving a substantial government interest}
+create-a-node-here really 62.344 139 { and are unconstitutional,}
+create-a-node-here really 62.414 140 { the ninth-circuit appeals court holds for Acorn Investments Inc.}
+autolink_nodes 137 138 satelite circumstance  5124
+autolink_nodes 5124 139 satelite elaboration-additional  5125
+autolink_nodes 5125 140 satelite attribution  5126
+autolink_nodes 5126 5123 multinuclear List  5127
+autolink_nodes 130 5127 satelite elaboration-set-member  5128
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088 5103 5111 5104 5112 5122 5127}
+change_constit 5027 SectionText
+change_constit 5001 SectionTitle
+#autolink_nodes 5027 5001 multinuclear TextualOrganization above 5129
+#UNDID
+change_constit 5027 SectionText
+change_constit 5001 SectionTitle
+autolink_nodes 5001 5027 multinuclear TextualOrganization  5129
+change_constit 5048 SectionText
+change_constit 5028 SectionTitle
+autolink_nodes 5028 5048 multinuclear TextualOrganization  5130
+change_constit 5076 SectionText
+change_constit 5051 SectionTitle
+autolink_nodes 5051 5076 multinuclear TextualOrganization  5131
+change_constit 5118 SectionText
+change_constit 5095 SectionTitle
+autolink_nodes 5118 5095 multinuclear TextualOrganization  5132
+autolink_nodes 5132 5128 multinuclear Topic-Shift above 5133
+autolink_nodes 5133 5094 multinuclear Topic-Shift below 5133
+autolink_nodes 5133 5086 multinuclear Topic-Shift below 5133
+autolink_nodes 5133 5082 multinuclear Topic-Shift below 5133
+autolink_nodes 5133 5131 multinuclear Topic-Shift below 5133
+autolink_nodes 5133 5130 multinuclear Topic-Shift below 5133
+autolink_nodes 5133 5129 multinuclear Topic-Shift below 5133
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088 5122 5127}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078 5092 5088}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5085 5081 5078}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049 5081 5078}
+collapsed_nodes {5027 5047 5034 5057 5061 5075 5049}
+collapsed_nodes {5027 5047 5034 5049}
+collapsed_nodes {5027 5047 5034}
+collapsed_nodes {5027}
+collapsed_nodes {5027}
+collapsed_nodes {}

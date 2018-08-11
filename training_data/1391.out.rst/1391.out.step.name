@@ -1,0 +1,276 @@
+nextSentence really
+create-a-node-here really 2.73 1 {\nChina could exhaust its foreign-exchange reserves as early as next year, }
+create-a-node-here really 2.110 2 {a Western government report says, }
+autolink_nodes 1 2 satelite attribution  5001
+create-a-node-here really 2.148 3 {unless imports are cut drastically }
+autolink_nodes 5001 3 satelite contingency  5002
+create-a-node-here really 2.198 4 {to help narrow the balance-of-payments deficit.}
+nextSentence really
+autolink_nodes 3 4 satelite purpose  5003
+create-a-node-here really 4.25 5 { \n\nAccording to the report, }
+autolink_nodes 5002 5 satelite elaboration-additional  5004
+create-a-node-here really 4.50 6 {completed last month, }
+autolink_nodes 5 6 satelite elaboration-object-attribute  5005
+create-a-node-here really 4.105 7 {if China's trade gap continues to widen at the pace }
+change_rel 5003 condition
+create-a-node-here really 4.153 8 {seen in the first seven months of this year, }
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 4.211 9 {the reserves would be wiped out either in 1990 or 1991.}
+nextSentence really
+autolink_nodes 9 5006 satelite condition  5007
+autolink_nodes 5005 5007 nucleus attribution  5008
+create-a-node-here really 5.44 10 {\nA country is considered financially healthy }
+autolink_nodes 9 10 satelite explanation-argumentative below 5009
+create-a-node-here really 5.98 11 {if its reserves cover three months of its imports.}
+nextSentence really
+autolink_nodes 10 11 satelite condition  5010
+create-a-node-here really 6.28 12 {\nThe $14 billion of reserves }
+autolink_nodes 5010 12 satelite interpretation-s  5011
+create-a-node-here really 6.50 13 {China had in June }
+autolink_nodes 12 13 satelite elaboration-object-attribute  5012
+create-a-node-here really 6.81 14 {would cover just that much.}
+nextSentence really
+autolink_nodes 5012 14 multinuclear Same-Unit  5013
+create-a-node-here really 8.38 15 { \n\nThe report by the Western government, }
+#create-a-node-here really 8.75 16 {which declines to be identified, }
+#autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5014
+#create-a-node-here really 8.89 17 {concludes }
+#autolink_nodes 15 17 multinuclear Same-Unit  5015
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5013 15 satelite conclusion  5014
+create-a-node-here really 8.75 16 {which declines to be identified, }
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5015
+create-a-node-here really 8.93 17 {concludes that}
+autolink_nodes 5015 17 multinuclear Same-Unit  5016
+create-a-node-here really 8.159 18 { "a near-term foreign-exchange payment problem can be avoided }
+autolink_nodes 5016 18 nucleus attribution  5017
+create-a-node-here really 9.0 19 {only if import growth drops to below 5% per annum." \n}
+autolink_nodes 18 19 satelite condition below 5018
+create-a-node-here really 10.38 20 {\nAccording to Chinese customs figures, }
+autolink_nodes 5004 20 satelite elaboration-additional  5019
+create-a-node-here really 10.85 21 {import growth has slowed in recent months, }
+autolink_nodes 20 21 nucleus attribution  5020
+create-a-node-here really 10.163 22 {dropping to 16% in July and 7.1% in August from the year-earlier periods, }
+autolink_nodes 21 22 satelite evidence below 5021
+create-a-node-here really 10.229 23 {compared with an average growth rate of 26% in the first half.}
+nextSentence really
+autolink_nodes 5021 23 satelite comparison below 5022
+create-a-node-here really 12.4 24 { \n\nBut }
+autolink_nodes 5022 24 satelite antithesis below 5023
+create-a-node-here really 12.37 25 {before import growth slowed, }
+#autolink_nodes 24 25 satelite temporal-before  5024
+#create-a-node-here really 12.136 26 {China's buying spree in the first half already had taken its toll on foreign-exchange reserves.}
+#nextSentence really
+#autolink_nodes 24 26 multinuclear Same-Unit  5025
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 13.0 26 {China's buying spree in the first half already had taken its toll on foreign-exchange reserves.\n}
+autolink_nodes 24 26 multinuclear Same-Unit  5024
+#autolink_nodes 5024 25 satelite temporal-before  5025
+#UNDID
+autolink_nodes 26 25 satelite temporal-before  5025
+create-a-node-here really 13.85 27 {The $14 billion level in June marked a drop from $19 billion at the end of April.}
+nextSentence really
+#autolink_nodes 26 27 satelite evaluation-s below 5026
+#nextSentence really
+#nextSentence really
+#create-a-node-here really 14.125 28 {\nChina's last big import binge sent reserves tumbling to $10.6 billion in June 1985 from $16.6 billion the previous September.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5024 27 satelite evaluation-s  5026
+nextSentence really
+create-a-node-here really 14.125 28 {\nChina's last big import binge sent reserves tumbling to $10.6 billion in June 1985 from $16.6 billion the previous September.}
+nextSentence really
+autolink_nodes 5026 28 satelite evidence  5027
+change_rel 27 comment
+change_rel 27 background
+create-a-node-here really 16.31 29 { \n\nChina might stave off a crisis }
+autolink_nodes 5023 29 satelite contingency below 5028
+create-a-node-here really 16.60 30 {if it acts as forcefully }
+autolink_nodes 29 30 satelite condition  5029
+create-a-node-here really 16.74 31 {as it did }
+autolink_nodes 30 31 satelite comparison  5030
+create-a-node-here really 16.106 32 {to arrest the 1985 decline, }
+autolink_nodes 31 32 satelite purpose  5031
+create-a-node-here really 16.171 33 {when Beijing slammed the brakes on foreign-exchange spending }
+autolink_nodes 32 33 satelite temporal-same-time  5032
+create-a-node-here really 16.201 34 {and devalued the currency.}
+nextSentence really
+autolink_nodes 33 34 multinuclear List  5033
+#create-a-node-here really 17.15 35 {\nBut this time, }
+#autolink_nodes 5032 35 satelite antithesis  5034
+#UNDID
+#UNDID
+#create-a-node-here really 17.51 35 {\nBut this time, China faces a more difficult battle }
+#autolink_nodes 5032 35 satelite antithesis  5034
+#create-a-node-here really 17.82 36 {because of economic forces }
+#autolink_nodes 35 36 satelite reason  5035
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 17.78 35 {\nBut this time, China faces a more difficult battle because of economic forces }
+autolink_nodes 5032 35 satelite antithesis  5034
+create-a-node-here really 18.0 36 {that have come into play since the Tiananmen Square killings June 4. \n}
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5035
+create-a-node-here really 20.0 37 {\nFor example, China's hard-currency income is expected to suffer from the big drop in tourist arrivals since June 4.\n}
+autolink_nodes 5019 37 satelite example  5036
+create-a-node-here really 21.0 38 {Revenue from tourism this year is projected to total $1.3 billion, down from $2.2 billion last year.\n}
+autolink_nodes 37 38 satelite restatement  5037
+#create-a-node-here really 21.44 39 {Because of this and the huge trade gap, }
+#create-a-node-here really 21.87 40 {the deficit in China's current account,}
+#create-a-node-here really 21.179 41 { which measures trade in goods and services plus certain unilateral transfers of funds, }
+#create-a-node-here really 21.252 42 {is expected to widen sharply from the $3.8 billion deficit last year.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 21.84 39 {Because of this and the huge trade gap, the deficit in China's current account, }
+create-a-node-here really 21.175 40 {which measures trade in goods and services plus certain unilateral transfers of funds, }
+autolink_nodes 39 40 satelite-embedded elaboration-object-attribute-e  5038
+create-a-node-here really 21.248 41 {is expected to widen sharply from the $3.8 billion deficit last year.}
+nextSentence really
+autolink_nodes 5038 41 multinuclear Same-Unit  5039
+autolink_nodes 5037 5039 satelite reason  5040
+create-a-node-here really 23.138 42 { \n\nThe Western government report suggests a number of scenarios for China's current-account balance, two of which are considered most likely.}
+nextSentence really
+autolink_nodes 5036 42 satelite hypothetical  5041
+#create-a-node-here really 25.131 43 { \n\nIn one, imports and exports continue to grow at the respective average rates of 25% and 5% recorded during the first seven months, }
+#create-a-node-here really 25.181 44 {and the current-account deficit widens to $13.}
+#nextSentence really
+#autolink_nodes 43 44 multinuclear List  5042
+#autolink_nodes 42 5042 satelite elaboration-additional  5043
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 25.91 43 { \n\nIn one, imports and exports continue to grow at the respective average rates of 25% and 5% }
+create-a-node-here really 25.135 44 {recorded during the first seven months, }
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5042
+create-a-node-here really 25.195 45 {and the current-account deficit widens to $13.1 billion.}
+nextSentence really
+autolink_nodes 5042 45 multinuclear List  5043
+autolink_nodes 42 5043 satelite elaboration-additional  5044
+nextSentence really
+create-a-node-here really 26.53 46 {\nIn 1985, China had a record deficit of $11.4 billion.}
+nextSentence really
+autolink_nodes 45 46 satelite elaboration-additional  5045
+change_rel 46 comparison
+create-a-node-here really 28.27 47 { \n\nThe other scenario assumes }
+change_rel 5043 elaboration-additional
+change_rel 5042 Same-Unit
+autolink_nodes 5043 47 multinuclear List above 5046
+create-a-node-here really 28.68 48 {that Beijing takes effective actions }
+autolink_nodes 47 48 satelite elaboration-additional  5047
+create-a-node-here really 28.109 49 {to curb imports in the coming months.}
+nextSentence really
+autolink_nodes 48 49 satelite purpose  5048
+create-a-node-here really 29.96 50 {\nIn this case, China would still finish the year with a current-account deficit of $8.7 billion, }
+autolink_nodes 5048 50 satelite result  5049
+create-a-node-here really 29.121 51 {based on projections }
+autolink_nodes 50 51 satelite attribution  5050
+create-a-node-here really 29.184 52 {that imports for all of this year grow 20% and exports 10%.}
+nextSentence really
+autolink_nodes 51 52 satelite elaboration-object-attribute  5051
+create-a-node-here really 31.56 53 { \n\nIf China were still on good terms with foreign lenders, }
+create-a-node-here really 31.128 54 {it might be able to stem the drain on its foreign-exchange reserves }
+autolink_nodes 53 54 nucleus condition  5052
+autolink_nodes 5049 5052 satelite elaboration-additional  5053
+create-a-node-here really 31.157 55 {by using some loan funds }
+autolink_nodes 54 55 satelite means below 5054
+create-a-node-here really 31.199 56 {to offset the current-account deficit.}
+nextSentence really
+autolink_nodes 55 56 satelite purpose  5055
+create-a-node-here really 32.32 57 {\nBut since June, foreign bankers }
+autolink_nodes 5052 57 satelite antithesis  5056
+create-a-node-here really 32.80 58 {led by international financial institutions }
+autolink_nodes 57 58 satelite elaboration-object-attribute  5057
+create-a-node-here really 32.134 59 {have virtually suspended their new loans to China.}
+nextSentence really
+autolink_nodes 5057 59 multinuclear Same-Unit  5058
+create-a-node-here really 33.27 60 {\nEven if borrowing resumes, }
+create-a-node-here really 33.92 61 {commercial bankers aren't expected to lend as much as before.}
+nextSentence really
+#autolink_nodes 60 61 satelite condition  5059
+#UNDID
+autolink_nodes 60 61 nucleus condition  5059
+autolink_nodes 5058 5059 satelite elaboration-additional  5060
+create-a-node-here really 35.81 62 { \n\nIn addition, economists are forecasting a slowdown in foreign direct investments }
+autolink_nodes 5056 62 multinuclear List  5061
+create-a-node-here really 36.0 63 {as businessmen become increasingly wary of China's deteriorating political and economic environment.\n}
+autolink_nodes 62 63 satelite temporal-same-time  5062
+create-a-node-here really 36.85 64 {On top of all this, foreign-debt repayments are expected to peak in 1991 to 1992.}
+nextSentence really
+autolink_nodes 5062 64 multinuclear List  5063
+create-a-node-here really 38.29 65 { \n\nWith less capital coming in, }
+autolink_nodes 5044 65 satelite circumstance  5064
+create-a-node-here really 38.74 66 {China's balance of payments would suffer.}
+nextSentence really
+autolink_nodes 65 66 satelite result  5065
+create-a-node-here really 39.142 67 {\nThe Western government report's first scenario assumes a 30% reduction in foreign borrowing and a 5% contraction in foreign direct investment.}
+nextSentence really
+autolink_nodes 66 67 satelite evaluation-s  5066
+create-a-node-here really 40.85 68 {\nIn the second, foreign borrowing is projected to grow 10% and investment to drop 10%.}
+nextSentence really
+autolink_nodes 67 68 multinuclear List  5067
+create-a-node-here really 42.20 69 { \n\nBut in either case, }
+#autolink_nodes 5065 69 satelite antithesis  5068
+#UNDID
+autolink_nodes 5067 69 satelite antithesis  5068
+create-a-node-here really 42.41 70 {the report says, }
+autolink_nodes 69 70 satelite attribution  5069
+create-a-node-here really 42.112 71 {China's balance of payments would rapidly dry up foreign reserves, }
+#autolink_nodes 69 71 satelite result below 5070
+#create-a-node-here really 42.131 72 {which are used }
+#autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e  5071
+#create-a-node-here really 43.0 73 {to finance the imbalance.\n}
+#autolink_nodes 72 73 satelite purpose  5072
+#create-a-node-here really 43.69 74 {In the first scenario, the reserves would be exhausted next year,}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 69 71 multinuclear Same-Unit  5070
+#create-a-node-here really 43.0 72 {which are used to finance the imbalance.\n}
+#UNDID
+create-a-node-here really 42.131 72 {which are used }
+#autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e  5071
+#UNDID
+#create-a-node-here really 43.0 73 {to finance the imbalance.\n}
+#UNDID
+autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e  5071
+create-a-node-here really 43.0 73 {to finance the imbalance.\n}
+autolink_nodes 72 73 satelite purpose  5072
+create-a-node-here really 43.70 74 {In the first scenario, the reserves would be exhausted next year, }
+autolink_nodes 5071 74 satelite result  5073
+create-a-node-here really 43.124 75 {and in the second they would be wiped out in 1991.}
+nextSentence really
+autolink_nodes 74 75 multinuclear List  5074
+#disconnect_node 5069 disconnect
+#UNDID
+disconnect_node 70 disconnect
+#autolink_nodes 5070 70 satelite attribution  5075
+#UNDID
+autolink_nodes 69 70 satelite attribution  5075
+collapsed_nodes {5003}
+disconnect_node 5017 disconnect
+autolink_nodes 5011 5017 satelite conclusion  5076
+collapsed_nodes {5003 5041}
+nextSentence really
+nextSentence really
+nextSentence really
+collapsed_nodes {}

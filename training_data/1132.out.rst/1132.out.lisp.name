@@ -1,0 +1,4 @@
+( Root (span 1 2) (prom 1)
+   ( Nucleus (leaf 1) (rel2par span) (prom 1) (text  Malcolm S. Todt was named vice president and senior officer in charge of equipment leasing to municipalities, a new effort of this bond insurer.) )
+   ( Satellite (leaf 2) (rel2par elaboration-additional) (prom 2) (text  Mr. Todt had been vice president and treasurer of Insilco Corp. ) )
+)

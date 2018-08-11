@@ -1,0 +1,221 @@
+nextSentence really
+create-a-node-here really 2.24 1 {\nFriday, October 13, 1989}
+change_constit 1 
+create-a-node-here really 4.82 2 { \n\nThe key U.S. and foreign annual interest rates below are a guide to general levels}
+create-a-node-here really 4.133 3 { but don't always represent actual transactions.}
+nextSentence really
+#autolink_nodes 2 3 satelite antithesis  5001
+#UNDID
+autolink_nodes 2 3 satelite antithesis  5001
+create-a-node-here really 6.11 4 { \n\nPRIME RATE:}
+create-a-node-here really 6.23 5 { 10 1/2%.}
+autolink_nodes 4 5 satelite elaboration-general-specific  5002
+create-a-node-here really 7.77 6 {\nThe base rate on corporate loans at large U.S. money center commercial banks.}
+nextSentence really
+autolink_nodes 5002 6 satelite definition  5003
+create-a-node-here really 9.14 7 { \n\nFEDERAL FUNDS:}
+create-a-node-here really 9.85 8 { 8 13/16% high, 8 1/2% low, 8 5/8% near closing bid, 8 3/4% offered.}
+nextSentence really
+autolink_nodes 7 8 satelite elaboration-general-specific  5004
+create-a-node-here really 10.8 9 {\nReserves}
+create-a-node-here really 10.93 10 { traded among commercial banks for overnight use in amounts of $1 million or more.}
+nextSentence really
+nextSentence really
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 5004 5005 satelite definition  5006
+create-a-node-here really 11.7 11 {\nSource:}
+create-a-node-here really 11.26 12 { Fulton Prebon }
+create-a-node-here really 11.38 13 {(U.S.A.)}
+create-a-node-here really 11.47 14 { Inc.}
+autolink_nodes 12 13 satelite-embedded elaboration-additional-e  5007
+autolink_nodes 14 5007 multinuclear Same-Unit  5008
+#autolink_nodes 11 5008 satelite elaboration-general-specific  5009
+#UNDID
+autolink_nodes 11 5008 satelite elaboration-general-specific  5009
+autolink_nodes 5006 5009 satelite attribution  5010
+create-a-node-here really 13.14 15 { \n\nDISCOUNT RATE:}
+create-a-node-here really 13.22 16 { 7%.}
+collapsed_nodes {5009}
+collapsed_nodes {5009 5005}
+autolink_nodes 15 16 satelite elaboration-general-specific  5011
+create-a-node-here really 14.84 17 {\nThe charge on loans to depository institutions by the New York Federal Reserve Bank.}
+nextSentence really
+autolink_nodes 5011 17 satelite definition  5012
+create-a-node-here really 16.11 18 { \n\nCALL MONEY:}
+create-a-node-here really 16.30 19 { 9 3/4% to 10%.}
+nextSentence really
+autolink_nodes 18 19 satelite elaboration-general-specific  5013
+create-a-node-here really 17.60 20 {\nThe charge on loans to brokers on stock exchange collateral.}
+nextSentence really
+autolink_nodes 5013 20 satelite definition  5014
+create-a-node-here really 19.16 21 { \n\nCOMMERCIAL PAPER}
+create-a-node-here really 19.72 22 { placed directly by General Motors Acceptance Corp.:}
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5015
+create-a-node-here really 19.251 23 { 8.60% 30 to 44 days; 8.55% 45 to 59 days; 8.375% 60 to 79 days; 8.50% 80 to 89 days; 8.25% 90 to 119 days; 8.125% 120 to 149 days; 8% 150 to 179 days; 7.625% 180 to 270 days.}
+nextSentence really
+autolink_nodes 5015 23 satelite elaboration-general-specific  5016
+create-a-node-here really 21.17 24 { \n\nCOMMERCIAL PAPER:}
+create-a-node-here really 21.48 25 { High-grade unsecured notes}
+create-a-node-here really 21.119 26 { sold through dealers by major corporations in multiples of $1,000:}
+create-a-node-here really 21.168 27 { 8.65% 30 days; 8.55% 60 days; 8.55% 90 days.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5017
+autolink_nodes 24 5017 satelite definition  5018
+autolink_nodes 5018 27 satelite elaboration-general-specific  5019
+create-a-node-here really 23.24 28 { \n\nCERTIFICATES OF DEPOSIT:}
+create-a-node-here really 23.117 29 { 8.15% one month; 8.15% two months; 8.13% three months; 8.11% six months; 8.08% one year.}
+nextSentence really
+autolink_nodes 28 29 satelite elaboration-general-specific  5020
+create-a-node-here really 24.20 30 {\nAverage of top rates}
+create-a-node-here really 24.139 31 { paid by major New York banks on primary new issues of negotiable C.D.s, usually on amounts of $1 million and more.}
+nextSentence really
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5021
+create-a-node-here really 25.29 32 {\nThe minimum unit is $100,000.}
+nextSentence really
+autolink_nodes 5020 5021 satelite definition  5022
+autolink_nodes 5022 32 satelite elaboration-additional  5023
+create-a-node-here really 26.38 33 {\nTypical rates in the secondary market:}
+create-a-node-here really 26.97 34 { 8.65% one month; 8.65% three months; 8.55% six months.}
+nextSentence really
+autolink_nodes 33 34 satelite elaboration-general-specific  5024
+autolink_nodes 5023 5024 satelite comparison  5025
+collapsed_nodes {5009 5005 5024}
+collapsed_nodes {5009 5005 5024 5021}
+create-a-node-here really 28.20 35 { \n\nBANKERS ACCEPTANCES:}
+create-a-node-here really 28.117 36 { 8.52% 30 days; 8.37% 60 days; 8.15% 90 days; 7.98% 120 days; 7.92% 150 days; 7.80% 180 days.}
+nextSentence really
+autolink_nodes 35 36 satelite elaboration-general-specific  5026
+create-a-node-here really 29.51 37 {\nNegotiable, bank-backed business credit instruments}
+create-a-node-here really 29.92 38 { typically financing an import order.}
+nextSentence really
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5027
+autolink_nodes 5026 5027 satelite definition  5028
+collapsed_nodes {5009 5005 5024 5021 5027}
+create-a-node-here really 31.24 39 { \n\nLONDON LATE EURODOLLARS:}
+create-a-node-here really 31.220 40 { 8 13/16% to 8 11/16% one month; 8 13/16% to 8 11/16% two months; 8 13/16% to 8 11/16% three months; 8 3/4% to 8 5/8% four months; 8 11/16% to 8 9/16% five months; 8 5/8% to 8 1/2% six months.}
+nextSentence really
+autolink_nodes 39 40 satelite elaboration-general-specific  5029
+create-a-node-here really 33.30 41 { \n\nLONDON INTERBANK OFFERED RATES}
+create-a-node-here really 33.43 42 { (LIBOR):}
+#autolink_nodes 41 42 satelite-embedded restatement-e  5030
+#UNDID
+autolink_nodes 41 42 satelite restatement  5030
+create-a-node-here really 33.124 43 { 8 3/4% one month; 8 3/4% three months; 8 9/16% six months; 8 9/16% one year.}
+autolink_nodes 5030 43 satelite elaboration-general-specific  5031
+create-a-node-here really 34.79 44 {\nThe average of interbank offered rates for dollar deposits in the London market}
+create-a-node-here really 34.124 45 { based on quotations at five major banks.}
+nextSentence really
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5032
+autolink_nodes 5031 5032 satelite definition  5033
+nextSentence really
+create-a-node-here really 36.20 46 { \n\nFOREIGN PRIME RATES:}
+create-a-node-here really 36.100 47 { Canada 13.50%; Germany 8.50%; Japan 4.875%; Switzerland 8.50%; Britain 15%.}
+nextSentence really
+collapsed_nodes {5009 5005 5024 5021 5027 5032}
+autolink_nodes 46 47 satelite elaboration-general-specific  5034
+create-a-node-here really 37.50 48 {\nThese rate indications aren't directly comparable;}
+create-a-node-here really 37.97 49 { lending practices vary widely by location.}
+nextSentence really
+autolink_nodes 48 49 satelite explanation-argumentative  5035
+autolink_nodes 5034 5035 satelite elaboration-additional  5036
+collapsed_nodes {5009 5005 5024 5021 5027 5032 5035}
+create-a-node-here really 39.15 50 { \n\nTREASURY BILLS:}
+create-a-node-here really 39.106 51 { Results of the Tuesday, October 10, 1989, auction of short-term U.S. government bills,}
+create-a-node-here really 39.180 52 { sold at a discount from face value in units of $10,000 to $1 million:}
+create-a-node-here really 39.216 53 { 7.63% 13 weeks; 7.60% 26 weeks.}
+nextSentence really
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5037
+autolink_nodes 50 5037 satelite definition  5038
+autolink_nodes 5038 53 satelite elaboration-general-specific  5039
+collapsed_nodes {5009 5005 5024 5021 5027 5032 5035 5037}
+nextSentence really
+create-a-node-here really 41.32 54 { \n\nFEDERAL HOME LOAN MORTGAGE CORP.}
+create-a-node-here really 41.51 55 { (Freddie Mac):}
+autolink_nodes 54 55 satelite restatement  5040
+create-a-node-here really 41.130 56 { Posted yields on 30-year mortgage commitments for delivery within 30 days.}
+nextSentence really
+autolink_nodes 5040 56 satelite definition  5041
+create-a-node-here really 41.243 57 { 9.91%, standard conventional fixedrate mortgages; 7.875%, 2% rate capped one-year adjustable rate mortgages.}
+nextSentence really
+autolink_nodes 5041 57 satelite elaboration-general-specific  5042
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037}
+create-a-node-here really 42.7 58 {\nSource:}
+create-a-node-here really 42.33 59 { Telerate Systems Inc.}
+autolink_nodes 58 59 satelite elaboration-general-specific  5043
+autolink_nodes 5042 5043 satelite attribution  5044
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043}
+create-a-node-here really 44.38 60 { \n\nFEDERAL NATIONAL MORTGAGE ASSOCIATION }
+create-a-node-here really 44.55 61 {(Fannie Mae):}
+autolink_nodes 60 61 satelite restatement  5045
+create-a-node-here really 44.134 62 { Posted yields on 30 year mortgage commitments for delivery within 30 days }
+create-a-node-here really 44.153 63 {(priced at par)}
+create-a-node-here really 44.267 64 { 9.86%, standard conventional fixed-rate mortgages; 8.85%, 6/2 rate capped one-year adjustable rate mortgages.}
+nextSentence really
+autolink_nodes 62 63 satelite-embedded elaboration-additional-e  5046
+#autolink_nodes 64 5046 multinuclear Same-Unit  5047
+#autolink_nodes 5045 5047 satelite elaboration-general-specific  5048
+#UNDID
+#UNDID
+autolink_nodes 5045 5046 satelite definition  5047
+autolink_nodes 5047 64 satelite elaboration-general-specific  5048
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046}
+create-a-node-here really 45.7 65 {\nSource:}
+create-a-node-here really 45.33 66 { Telerate Systems Inc.}
+autolink_nodes 65 66 satelite elaboration-general-specific  5049
+autolink_nodes 5048 5049 satelite attribution  5050
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049}
+create-a-node-here really 47.33 67 { \n\nMERRILL LYNCH READY ASSETS TRUST:}
+create-a-node-here really 47.44 68 { 8.33%.}
+autolink_nodes 67 68 satelite elaboration-general-specific  5051
+create-a-node-here really 48.104 69 {\nAnnualized average rate of return after expenses for the past 30 days; not a forecast of future returns.}
+nextSentence really
+autolink_nodes 5051 69 satelite definition  5052
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018 39}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018 39 5015}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018 5015}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018 5015 5013}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018 5015 5013 5011}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018 5015 5013 5011 5006}
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018 5015 5013 5011 5006 5002}
+autolink_nodes 5010 5003 multinuclear List  5053
+autolink_nodes 5053 5012 multinuclear List below 5053
+autolink_nodes 5053 5014 multinuclear List below 5053
+autolink_nodes 5053 5016 multinuclear List below 5053
+autolink_nodes 5053 5019 multinuclear List below 5053
+autolink_nodes 5053 5025 multinuclear List below 5053
+autolink_nodes 5053 5028 multinuclear List below 5053
+autolink_nodes 5053 5029 multinuclear List below 5053
+autolink_nodes 5053 5033 multinuclear List below 5053
+autolink_nodes 5053 5036 multinuclear List below 5053
+autolink_nodes 5053 5039 multinuclear List below 5053
+autolink_nodes 5053 5044 multinuclear List below 5053
+autolink_nodes 5053 5050 multinuclear List below 5053
+autolink_nodes 5053 5052 multinuclear List below 5053
+autolink_nodes 5001 5053 satelite elaboration-set-member  5054
+change_constit 5054 Text
+change_constit 1 Date
+autolink_nodes 5054 1 multinuclear TextualOrganization  5055
+collapsed_nodes {5005 5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018 5015 5013 5011 5006}
+collapsed_nodes {5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018 5015 5013 5011}
+collapsed_nodes {5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018 5015 5013}
+collapsed_nodes {5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018 5015}
+collapsed_nodes {5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023 5018}
+collapsed_nodes {5024 5021 5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026 5023}
+collapsed_nodes {5027 5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031 5026}
+collapsed_nodes {5032 5035 5037 5043 5046 5049 5051 5048 5042 5038 5034 5031}
+collapsed_nodes {5035 5037 5043 5046 5049 5051 5048 5042 5038 5034}
+collapsed_nodes {5037 5043 5046 5049 5051 5048 5042 5038}
+collapsed_nodes {5043 5046 5049 5051 5048 5042}
+collapsed_nodes {5046 5049 5051 5048}
+collapsed_nodes {5051}
+collapsed_nodes {}

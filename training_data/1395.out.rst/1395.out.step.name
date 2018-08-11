@@ -1,0 +1,30 @@
+nextSentence really
+create-a-node-here really 2.18 1 {\nHarsco Corp. said }
+nextSentence really
+create-a-node-here really 2.122 2 {it obtained a $33.1 million export order for armored recovery vehicles and related support equipment.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 3.23 3 {\nHarsco declined to say }
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+create-a-node-here really 3.56 4 {what country placed the order.}
+nextSentence really
+autolink_nodes 3 4 nucleus attribution-n  5003
+create-a-node-here really 5.17 5 { \n\nThe company said }
+autolink_nodes 5002 5 satelite elaboration-additional  5004
+create-a-node-here really 5.65 6 {it received an order for 23 of the vehicles, }
+autolink_nodes 5 6 nucleus attribution  5005
+create-a-node-here really 5.121 7 {which retrieve tanks and other heavy-tracked vehicles}
+autolink_nodes 6 7 satelite-embedded elaboration-additional-e below 5006
+create-a-node-here really 5.162 8 { when they break down or are damaged, }
+autolink_nodes 7 8 satelite circumstance  5007
+create-a-node-here really 5.191 9 {and an option for 16 more.}
+nextSentence really
+autolink_nodes 5006 9 multinuclear Same-Unit  5008
+create-a-node-here really 7.35 10 { \n\nDelivery is to begin in early 1991.}
+nextSentence really
+autolink_nodes 5005 10 satelite elaboration-additional  5009
+create-a-node-here really 9.86 11 { \n\nHarsco produces products for defense, industrial, commercial and construction markets.}
+nextSentence really
+autolink_nodes 5004 11 satelite circumstance  5010
+collapsed_nodes {5010}
+collapsed_nodes {}

@@ -1,0 +1,256 @@
+nextSentence really
+create-a-node-here really 2.99 1 {\nUNITED AIR'S PARENT quashed any prospects for an immediate revival of the labor-management buy-out,}
+create-a-node-here really 2.110 2 { saying }
+create-a-node-here really 2.151 3 {UAL should remain independent for now.}
+nextSentence really
+autolink_nodes 2 3 nucleus attribution  5001
+autolink_nodes 1 5001 satelite reason  5002
+create-a-node-here really 3.64 4 {\nAlso, UAL Chairman Stephen Wolf pulled out of the buy-out effort}
+create-a-node-here really 3.100 5 { to focus on running the company.}
+nextSentence really
+autolink_nodes 4 5 satelite purpose  5003
+autolink_nodes 5003 5002 multinuclear List  5004
+create-a-node-here really 4.61 6 {\nThe two developments leave the airline with several problems,}
+create-a-node-here really 4.104 7 { including an unsettled labor situation.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-set-member-e  5005
+autolink_nodes 5004 5005 satelite elaboration-additional  5006
+create-a-node-here really 6.17 8 { \n\nStock prices fell}
+create-a-node-here really 6.36 9 { and bonds rose }
+create-a-node-here really 6.101 10 {as worries mounted about the economy and the junk bond market.}
+nextSentence really
+autolink_nodes 8 9 multinuclear List  5007
+autolink_nodes 5007 10 satelite explanation-argumentative  5008
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 7.56 11 {\nThe Dow Jones industrials sank 26.23 points, to 2662.91.}
+#create-a-node-here really 8.25 12 {\nThe dollar also declined.}
+#nextSentence really
+#UNDID
+#UNDID
+autolink_nodes 5008 11 satelite consequence-s  5009
+create-a-node-here really 8.25 12 {\nThe dollar also declined.}
+autolink_nodes 5009 12 satelite consequence-s  5010
+create-a-node-here really 10.45 13 { \n\nThe turmoil in junk bonds may last for years,}
+create-a-node-here really 10.76 14 { investors and traders say.}
+nextSentence really
+autolink_nodes 13 14 satelite attribution  5011
+autolink_nodes 5010 5011 satelite hypothetical  5012
+create-a-node-here really 11.28 15 {\nEven Drexel is pulling back.}
+nextSentence really
+autolink_nodes 5012 15 satelite elaboration-additional  5013
+create-a-node-here really 13.110 16 { \n\nSanta Fe Pacific plans to sell 20% of its large real estate unit to a California pension fund for $400 million}
+create-a-node-here really 13.153 17 { and spin the rest off to shareholders.}
+nextSentence really
+autolink_nodes 16 17 multinuclear List  5014
+create-a-node-here really 14.70 18 {\nThe proposal values the company's real estate operation at $2 billion.}
+nextSentence really
+autolink_nodes 5014 18 satelite elaboration-additional  5015
+create-a-node-here really 16.63 19 { \n\nTime Warner reported a $176 million loss for the third quarter,}
+create-a-node-here really 16.149 20 { reflecting the cost of the recent merger and a method of accounting for the deal.}
+nextSentence really
+#autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5016
+#UNDID
+autolink_nodes 19 20 satelite-embedded elaboration-additional-e  5016
+create-a-node-here really 18.43 21 { \n\nThrifts continued to shed assets in August,}
+create-a-node-here really 18.118 22 { mainly to comply with stiffer capital rules under the S&L bailout law.}
+autolink_nodes 21 22 satelite explanation-argumentative  5017
+create-a-node-here really 19.65 23 {\nAlso, withdrawals exceeded deposits by $5.1 billion in the month.}
+nextSentence really
+autolink_nodes 5017 23 satelite elaboration-additional  5018
+create-a-node-here really 21.44 24 { \n\nExxon's profit fell 9% in the third quarter,}
+create-a-node-here really 21.109 25 { hurt by sagging results at two of its three main businesses.}
+nextSentence really
+#autolink_nodes 24 25 satelite-embedded elaboration-additional-e  5019
+#UNDID
+autolink_nodes 24 25 satelite elaboration-additional  5019
+create-a-node-here really 22.34 26 {\nPhillips and Arco posted declines.}
+create-a-node-here really 23.19 27 {\nAshland had a loss.}
+nextSentence really
+create-a-node-here really 24.48 28 {\nAmerada Hess and Occidental Petroleum had gains.}
+nextSentence really
+autolink_nodes 27 28 multinuclear List  5020
+autolink_nodes 5020 26 multinuclear List below 5020
+autolink_nodes 5020 5019 multinuclear List below 5020
+create-a-node-here really 26.44 29 { \n\nOgilvy's chairman, Kenneth Roman, is leaving}
+create-a-node-here really 26.88 30 { to take a top post at American Express.}
+nextSentence really
+autolink_nodes 29 30 satelite purpose  5021
+create-a-node-here really 27.85 31 {\nHis resignation follows a hostile takeover of the ad agency in May by WPP of Britain.}
+nextSentence really
+autolink_nodes 5021 31 satelite circumstance  5022
+create-a-node-here really 29.33 32 { \n\nThe Justice Department took steps}
+create-a-node-here really 29.146 33 { that could restrict the use by prosecutors of criminal racketeering charges against white-collar defendants.}
+nextSentence really
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5023
+create-a-node-here really 31.48 34 { \n\nShearson was sued by money manager George Soros,}
+create-a-node-here really 31.64 35 { who claimed}
+create-a-node-here really 31.180 36 { one of his funds was defrauded out of $60 million during stock-index futures trading just after the 1987 crash.}
+nextSentence really
+autolink_nodes 35 36 nucleus attribution  5024
+autolink_nodes 34 5024 satelite-embedded elaboration-object-attribute-e  5025
+create-a-node-here really 33.17 37 { \n\nDrexel's efforts }
+create-a-node-here really 33.49 38 {to settle its legal troubles}
+create-a-node-here really 33.95 39 { are being resisted by at least 10 states.}
+nextSentence really
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 39 5026 multinuclear Same-Unit  5027
+create-a-node-here really 34.42 40 {\nSome may try to revoke the firm's license }
+create-a-node-here really 34.65 41 {to sell securities.}
+nextSentence really
+autolink_nodes 40 41 satelite-embedded elaboration-object-attribute-e  5028
+autolink_nodes 39 5028 satelite-embedded elaboration-additional-e  5029
+create-a-node-here really 36.53 42 { \n\nPrime Computer plans to dismiss 20% of its work force}
+create-a-node-here really 36.70 43 { to cut costs}
+create-a-node-here really 36.114 44 { following its recent leveraged buy-out.}
+nextSentence really
+autolink_nodes 42 43 satelite purpose  5030
+autolink_nodes 5030 44 satelite circumstance  5031
+create-a-node-here really 37.64 45 {\nThe action renews concern about buyouts in high-tech industries.}
+nextSentence really
+autolink_nodes 5031 45 satelite elaboration-additional  5032
+create-a-node-here really 39.98 46 { \n\nParibas plans a bid for another big French financial and industrial firm, Navigation Mixte, a sign}
+create-a-node-here really 39.141 47 { Europe's takeover fever hasn't cooled.}
+nextSentence really
+autolink_nodes 46 47 satelite-embedded elaboration-object-attribute-e  5033
+create-a-node-here really 41.31 48 { \n\nQintex Australia unveiled plans}
+create-a-node-here really 41.51 49 { to restructure }
+create-a-node-here really 41.70 50 {and sell assets}
+create-a-node-here really 41.113 51 { to try to ease its financial problems.}
+nextSentence really
+autolink_nodes 49 50 multinuclear List  5034
+autolink_nodes 48 5034 satelite-embedded elaboration-object-attribute-e  5035
+autolink_nodes 5035 51 satelite purpose  5036
+create-a-node-here really 43.58 52 { \n\nUnion Carbide's earnings plunged 35% in the third quarter,}
+create-a-node-here really 43.139 53 { reflecting weakness in the company's core chemicals and plastics businesses.}
+nextSentence really
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5037
+create-a-node-here really 45.56 54 { \n\nJapan's Daiwa Securities named Masahiro Dozen president.}
+nextSentence really
+create-a-node-here really 46.77 55 {\nThe rapid advance of the 52-year-old executive surprised many at the company.}
+nextSentence really
+autolink_nodes 54 55 satelite elaboration-additional  5038
+create-a-node-here really 48.11 56 { \n\nMarkets -- }
+create-a-node-here really 50.7 57 {\n\nStocks:}
+create-a-node-here really 50.38 58 { Volume 135,860,000 shares.}
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 51.102 59 {\nDow Jones industrials 2662.91, off 26.23; transportation 1236.66, up 5.86; utilities 215.35, off 0.13.}
+autolink_nodes 58 59 multinuclear List  5039
+change_constit 5039 
+#autolink_nodes 57 5039 satelite elaboration-additional  5040
+#UNDID
+autolink_nodes 57 5039 satelite elaboration-additional  5040
+create-a-node-here really 53.6 60 { \n\nBonds:}
+create-a-node-here really 53.61 61 { Shearson Lehman Hutton Treasury index 3411.08, up }
+autolink_nodes 60 61 satelite elaboration-additional  5041
+create-a-node-here really 55.12 62 {\n\nCommodities:}
+nextSentence really
+nextSentence really
+create-a-node-here really 55.86 63 { Dow Jones futures index 129.49, off 0.13; spot index 131.64, up 0.30.}
+nextSentence really
+autolink_nodes 62 63 satelite elaboration-additional  5042
+nextSentence really
+#create-a-node-here really 57.55 64 { \n\nDollar: 141.90 yen, off 0.53; 1.8470 marks, off 0.0108.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 57.7 64 { \n\nDollar:}
+create-a-node-here really 57.59 65 { 141.90 yen, off 0.53; 1.8470 marks, off 0.0108.}
+autolink_nodes 64 65 satelite elaboration-additional  5043
+autolink_nodes 5042 5043 multinuclear List  5044
+autolink_nodes 5044 5041 multinuclear List below 5044
+autolink_nodes 5044 5040 multinuclear List below 5044
+change_constit 5044 SectionText
+change_constit 56 SectionTitle
+autolink_nodes 5044 56 multinuclear TextualOrganization above 5045
+autolink_nodes 5038 5045 multinuclear Topic-Shift  5046
+autolink_nodes 5046 5037 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037}
+autolink_nodes 5046 5036 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036}
+autolink_nodes 5046 5033 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033}
+autolink_nodes 5046 5032 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033 5032}
+autolink_nodes 5046 5027 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033 5032 5027}
+autolink_nodes 5046 5025 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033 5032 5027 5025}
+autolink_nodes 5046 5023 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023}
+autolink_nodes 5046 5022 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023 5022}
+autolink_nodes 5046 5020 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023 5022 5020}
+autolink_nodes 5046 5018 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023 5022 5020 5018}
+autolink_nodes 5046 5016 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023 5022 5020 5018 5016}
+autolink_nodes 5046 5015 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023 5022 5020 5018 5016 5015}
+autolink_nodes 5046 5013 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023 5022 5020 5018 5016 5015 5013}
+autolink_nodes 5046 5006 multinuclear Topic-Shift below 5046
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023 5022 5020 5018 5016 5015}
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023 5022 5020 5018 5016}
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023 5022 5020 5018}
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023 5022 5020}
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023 5022}
+collapsed_nodes {5037 5036 5033 5032 5027 5025 5023}
+collapsed_nodes {5037 5036 5033 5032 5027 5025}
+collapsed_nodes {5037 5036 5033 5032 5027}
+collapsed_nodes {5037 5036 5033 5032}
+collapsed_nodes {5037 5036 5033}
+collapsed_nodes {5037 5036}
+collapsed_nodes {5037}
+collapsed_nodes {}
+disconnect_node 5001 modify
+autolink_nodes 1 5001 satelite elaboration-additional  5047
+collapsed_nodes {5006}
+collapsed_nodes {5006 5013}
+collapsed_nodes {5006}
+collapsed_nodes {5006 5013}
+collapsed_nodes {5006 5013 5015}
+collapsed_nodes {5006 5013 5015 5016}
+disconnect_node 22 modify
+autolink_nodes 21 22 satelite purpose below 5048
+collapsed_nodes {5006 5013 5015 5016 5018}
+collapsed_nodes {5006 5013 5015 5016 5018 5020}
+collapsed_nodes {5006 5013 5015 5016 5018 5020 5022}
+collapsed_nodes {5006 5013 5015 5016 5018 5020 5022 5023}
+collapsed_nodes {5006 5013 5015 5016 5018 5020 5022 5023 5025}
+collapsed_nodes {5006 5013 5015 5016 5018 5020 5022 5023 5025 5027}
+collapsed_nodes {5006 5013 5015 5016 5018 5020 5022 5023 5025 5027 5032}
+collapsed_nodes {5013 5015 5016 5018 5020 5022 5023 5025 5027 5032}
+collapsed_nodes {5015 5016 5018 5020 5022 5023 5025 5027 5032}
+collapsed_nodes {5016 5018 5020 5022 5023 5025 5027 5032}
+collapsed_nodes {5018 5020 5022 5023 5025 5027 5032}
+collapsed_nodes {5020 5022 5023 5025 5027 5032}
+collapsed_nodes {5022 5023 5025 5027 5032}
+collapsed_nodes {5023 5025 5027 5032}
+collapsed_nodes {5025 5027 5032}
+collapsed_nodes {5027 5032}
+collapsed_nodes {5032}
+collapsed_nodes {}
+collapsed_nodes {5033}
+collapsed_nodes {5033 5036}
+collapsed_nodes {5033 5036 5037}
+collapsed_nodes {5033 5036 5037 5038}
+disconnect_node 5039 modify
+autolink_nodes 57 5039 satelite elaboration-general-specific  5049
+disconnect_node 61 modify
+autolink_nodes 60 61 satelite elaboration-general-specific  5050
+disconnect_node 63 modify
+autolink_nodes 62 63 satelite elaboration-general-specific  5051
+disconnect_node 65 modify
+autolink_nodes 64 65 satelite elaboration-general-specific  5052
+collapsed_nodes {5036 5037 5038}
+collapsed_nodes {5037 5038}
+collapsed_nodes {5038}
+collapsed_nodes {}

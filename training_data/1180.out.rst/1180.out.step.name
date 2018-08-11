@@ -1,0 +1,25 @@
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 2.133 1 {\nOPPENHEIMER CAPITAL LIMITED PARTNERSHIP increased the quarterly distribution to 40 cents a limited partnership unit from 36.25 cents.}
+nextSentence really
+create-a-node-here really 3.96 2 {\nThe distribution represents available cash flow from the partnership between Aug. 1 and Oct. 31.}
+autolink_nodes 1 2 satelite elaboration-additional  5001
+nextSentence really
+create-a-node-here really 4.49 3 {\nIt is payable Nov. 30 to units of record Oct. 31.}
+nextSentence really
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+create-a-node-here really 5.115 4 {\nThe money manager is controlled 67.7% by its top officers and top officers of Oppenheimer & Co., a securities firm.}
+nextSentence really
+autolink_nodes 5002 4 satelite elaboration-additional  5003
+nextSentence really
+create-a-node-here really 6.27 5 {\nBoth firms are in New York.}
+autolink_nodes 4 5 satelite elaboration-additional  5004
+nextSentence really
+create-a-node-here really 7.80 6 {\nOppenheimer Capital has about 7.9 million limited partnership units outstanding.}
+autolink_nodes 5003 6 satelite elaboration-additional  5005
+nextSentence really
+nextSentence really
+create-a-node-here really 8.99 7 {\nIn New York Stock Exchange composite trading yesterday, the units closed at $15.125, up 12.5 cents.}
+nextSentence really
+autolink_nodes 5005 7 satelite elaboration-additional  5006

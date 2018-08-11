@@ -1,0 +1,504 @@
+nextSentence really
+create-a-node-here really 2.89 1 {\nSoichiro Honda's picture now hangs with Henry Ford's in the U.S. Automotive Hall of Fame,}
+create-a-node-here really 2.147 2 { and the game-show "Jeopardy" is soon to be Sony-owned.}
+nextSentence really
+autolink_nodes 1 2 multinuclear List  5001
+create-a-node-here really 3.49 3 {\nBut no matter how much Japan gets under our skin,}
+create-a-node-here really 3.88 4 { we'll still have mom and apple pie.}
+nextSentence really
+autolink_nodes 3 4 nucleus antithesis  5002
+autolink_nodes 5002 5001 satelite circumstance  5003
+create-a-node-here really 5.38 5 { \n\nOn second thought, make that just mom.}
+nextSentence really
+#autolink_nodes 5003 5 satelite antithesis  5004
+#UNDID
+autolink_nodes 5003 5 satelite antithesis  5004
+create-a-node-here really 7.16 6 { \n\nA Japanese apple}
+create-a-node-here really 7.35 7 { called the Fuji}
+create-a-node-here really 7.73 8 { is cropping up in orchards the way}
+create-a-node-here really 7.102 9 { Hondas did on U.S. roads.}
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5005 5006 multinuclear Same-Unit  5007
+create-a-node-here really 8.64 10 {\nBy 1995 it will be planted more often than any other apple tree,}
+create-a-node-here really 8.186 11 { according to a recent survey of six apple-industry sages by Washington State University horticulturist Robert Norton.}
+nextSentence really
+autolink_nodes 10 11 satelite attribution  5008
+create-a-node-here really 9.27 12 {\nSome fruit visionaries say }
+create-a-node-here really 9.116 13 {the Fuji could someday tumble the Red Delicious from the top of America's apple heap.}
+nextSentence really
+autolink_nodes 12 13 nucleus attribution  5009
+autolink_nodes 5008 5009 satelite elaboration-additional  5010
+autolink_nodes 5007 5010 satelite elaboration-additional  5011
+create-a-node-here really 11.38 14 { \n\nIt certainly won't get there on looks.}
+nextSentence really
+create-a-node-here really 12.65 15 {\nCompared to the Red Delicious, the exemplar of apple pulchritude,}
+create-a-node-here really 12.103 16 { the Fuji is decidedly more dowdy }
+create-a-node-here really 12.181 17 {-- generally smaller, less-perfectly shaped, greenish, with tinges of red.}
+nextSentence really
+autolink_nodes 16 15 satelite comparison  5012
+#autolink_nodes 5012 17 satelite elaboration-additional  5013
+#UNDID
+autolink_nodes 5012 17 satelite elaboration-additional  5013
+autolink_nodes 14 5013 satelite explanation-argumentative  5014
+create-a-node-here really 13.34 18 {\nTo hear most U.S. growers tell it,}
+create-a-node-here really 13.64 19 { we'd still be in Paradise}
+create-a-node-here really 13.109 20 { if the serpent had proffered one to Eve.}
+autolink_nodes 19 20 satelite condition  5015
+autolink_nodes 18 5015 nucleus attribution  5016
+autolink_nodes 5014 5016 satelite elaboration-additional  5017
+create-a-node-here really 15.20 21 { \n\nBut how sweet it is.}
+nextSentence really
+create-a-node-here really 16.34 22 {\nIt has more sugar "than any apple }
+create-a-node-here really 16.57 23 {we've ever tested,"}
+create-a-node-here really 16.140 24 { says Duane Greene, a University of Massachusetts pomologist, or apple scholar.}
+nextSentence really
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5018
+autolink_nodes 5018 24 satelite attribution  5019
+autolink_nodes 21 5019 satelite evidence  5020
+autolink_nodes 5020 5017 satelite antithesis  5021
+collapsed_nodes {5017}
+collapsed_nodes {5017 5010}
+autolink_nodes 5011 5021 satelite elaboration-additional  5022
+create-a-node-here really 17.25 25 {\nIt has a long shelf life }
+create-a-node-here really 17.60 26 {and "doesn't fool the public," }
+nextSentence really
+create-a-node-here really 17.106 27 {says Grady Auvil, an Orondo, Wash., grower}
+create-a-node-here really 17.132 28 { who is planting Fujis}
+create-a-node-here really 17.176 29 { and spreading the good word about them.}
+nextSentence really
+autolink_nodes 28 29 multinuclear List  5023
+autolink_nodes 27 5023 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 25 26 multinuclear List  5025
+autolink_nodes 5025 5024 satelite attribution  5026
+create-a-node-here really 17.218 30 { "It doesn't look nice on the outside }
+create-a-node-here really 17.250 31 {while getting mealy inside."}
+nextSentence really
+autolink_nodes 30 31 multinuclear Temporal-Same-Time  5027
+autolink_nodes 5026 5027 satelite elaboration-additional  5028
+collapsed_nodes {5017 5010 5021}
+autolink_nodes 5022 5028 satelite elaboration-additional  5029
+collapsed_nodes {5017 5010 5021 5028}
+create-a-node-here really 19.101 32 { \n\nMr. Auvil, razor sharp at 83, has picked and packed a zillion pecks of apples over the past 65 years.}
+nextSentence really
+create-a-node-here really 20.86 33 {\nHe is known as the father of the U.S.-grown Granny Smith, a radically different apple }
+create-a-node-here really 20.94 34 {that}
+create-a-node-here really 20.133 35 { the conventional wisdom once said }
+create-a-node-here really 20.158 36 {would never catch on.}
+nextSentence really
+autolink_nodes 34 35 satelite-embedded attribution-e  5030
+autolink_nodes 36 5030 multinuclear Same-Unit  5031
+autolink_nodes 33 5031 satelite-embedded elaboration-object-attribute-e  5032
+create-a-node-here really 21.7 37 {\nIt did,}
+create-a-node-here really 21.57 38 { shaking the apple establishment to its roots.}
+nextSentence really
+autolink_nodes 37 38 satelite elaboration-additional  5033
+autolink_nodes 5032 5033 satelite elaboration-additional  5034
+autolink_nodes 32 5034 satelite elaboration-additional  5035
+create-a-node-here really 22.41 39 {\nNow, even more radical changes seem afoot}
+create-a-node-here really 22.127 40 { as the grand old maverick of American apples plays the role of Hiroshi Appleseed.}
+nextSentence really
+autolink_nodes 39 40 satelite circumstance  5036
+create-a-node-here really 22.162 41 { "The Fuji is going to be No. 1}
+create-a-node-here really 22.197 42 { to replace the Red Delicious,"}
+create-a-node-here really 22.210 43 { he says.}
+nextSentence really
+autolink_nodes 41 42 satelite consequence-s  5037
+autolink_nodes 5037 43 satelite attribution  5038
+autolink_nodes 5036 5038 satelite elaboration-additional  5039
+autolink_nodes 5039 5035 satelite background  5040
+collapsed_nodes {5017 5010 5021 5028 5035}
+autolink_nodes 5029 5040 satelite elaboration-additional  5041
+collapsed_nodes {5017 5010 5021 5028 5035 5040}
+autolink_nodes 5041 5004 satelite comment  5042
+create-a-node-here really 24.46 44 { \n\nThe Delicious hegemony won't end anytime soon.}
+nextSentence really
+create-a-node-here really 25.28 45 {\nNew apple trees grow slowly,}
+create-a-node-here really 25.86 46 { and the Red Delicious is almost as entrenched as mom.}
+nextSentence really
+autolink_nodes 45 46 multinuclear List  5043
+create-a-node-here really 26.24 47 {\nIts roots are patriotic }
+create-a-node-here really 26.100 48 {-- with the first trees appearing in 1872 in an orchard near Peru, Iowa,}
+create-a-node-here really 26.117 49 { to be exact.}
+nextSentence really
+#autolink_nodes 47 48 satelite elaboration-additional  5044
+#UNDID
+autolink_nodes 47 48 satelite explanation-argumentative  5044
+autolink_nodes 5044 49 satelite comment  5045
+autolink_nodes 5043 5045 satelite elaboration-additional  5046
+create-a-node-here really 27.57 50 {\nFor more than 50 years, it has been the apple of our eye.}
+create-a-node-here really 28.41 51 {\nA good Delicious can indeed be delicious.}
+nextSentence really
+autolink_nodes 50 51 satelite interpretation-s  5047
+autolink_nodes 5046 5047 satelite elaboration-additional  5048
+autolink_nodes 44 5048 satelite background  5049
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048}
+create-a-node-here really 29.100 52 {\nMore than twice as many Red Delicious apples are grown as the Golden variety, America's No. 2 apple.}
+nextSentence really
+autolink_nodes 5049 52 satelite elaboration-additional  5050
+create-a-node-here really 31.42 53 { \n\nBut the apple industry is ripe for change.}
+nextSentence really
+create-a-node-here really 31.83 54 { "Red Delicious has been overplanted,}
+create-a-node-here really 31.147 55 { and its prices have dropped below the cost of production," }
+create-a-node-here really 31.186 56 {says Washington State's Mr. Norton.}
+nextSentence really
+autolink_nodes 55 54 satelite consequence-n  5051
+autolink_nodes 5051 56 satelite attribution  5052
+create-a-node-here really 32.39 57 {\nThe scare over Alar, a growth regulator}
+create-a-node-here really 32.82 58 { that makes apples redder and crunchier}
+create-a-node-here really 32.111 59 { but may be carcinogenic,}
+create-a-node-here really 32.159 60 { made consumers shy away from the Delicious,}
+create-a-node-here really 32.213 61 { though they were less affected than the McIntosh.}
+nextSentence really
+autolink_nodes 60 61 satelite antithesis  5053
+autolink_nodes 59 58 satelite concession  5054
+autolink_nodes 57 5054 satelite-embedded elaboration-object-attribute-e  5055
+autolink_nodes 5053 5055 multinuclear Same-Unit  5056
+create-a-node-here really 33.37 62 {\nThe glut and consequent lower prices,}
+create-a-node-here really 33.69 63 { combined with cancer fears,}
+create-a-node-here really 33.109 64 { was a very serious blow to growers.}
+nextSentence really
+autolink_nodes 62 63 satelite-embedded elaboration-object-attribute-e  5057
+autolink_nodes 64 5057 multinuclear Same-Unit  5058
+autolink_nodes 5056 5058 satelite elaboration-additional  5059
+autolink_nodes 5052 5059 satelite elaboration-additional  5060
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059}
+create-a-node-here really 33.164 65 { "A lot of growers won't be around in a few years,"}
+create-a-node-here really 33.185 66 { says Mr. Norton,}
+create-a-node-here really 33.228 67 { although they have stopped using Alar.}
+nextSentence really
+autolink_nodes 53 5060 satelite explanation-argumentative  5061
+autolink_nodes 65 66 satelite attribution  5062
+autolink_nodes 5062 67 satelite concession  5063
+nextSentence really
+nextSentence really
+create-a-node-here really 35.56 68 { \n\nOne may be William Broderick, a Sterling, Mass., grower.}
+create-a-node-here really 35.87 69 { "This is beautiful stuff,"}
+create-a-node-here really 35.100 70 { he says,}
+create-a-node-here really 35.181 71 { looking ruefully at big boxes of just-picked Red Delicious next to his barn.}
+nextSentence really
+autolink_nodes 70 71 satelite elaboration-additional  5064
+autolink_nodes 69 5064 satelite attribution  5065
+create-a-node-here really 35.234 72 { "But I'm going to lose $50,000 to $60,000 on it.}
+#nextSentence really
+#autolink_nodes 5065 72 satelite antithesis  5066
+#UNDID
+#UNDID
+autolink_nodes 72 5065 satelite antithesis  5066
+create-a-node-here really 36.46 73 {\nI'm going to have to get another job this year}
+create-a-node-here really 36.64 74 { just to eat."}
+nextSentence really
+autolink_nodes 73 74 satelite purpose  5067
+autolink_nodes 5066 5067 satelite consequence-s  5068
+disconnect_node 5065 modify
+#autolink_nodes 5068 5065 satelite antithesis  5069
+#UNDID
+autolink_nodes 5068 5065 satelite antithesis  5069
+autolink_nodes 68 5069 satelite elaboration-additional  5070
+create-a-node-here really 38.103 75 { \n\nBesides rotten prices, he has been hit recently by hail, a bark-nibbling horde of mice, fungi and bugs.}
+create-a-node-here really 39.84 76 {\nSome 500 insects and 150 diseases wiggle, chew and romp through growers' nightmares,}
+create-a-node-here really 39.167 77 { including maggots, mites, mildew, thrips, black rot and the flat-headed borer.}
+nextSentence really
+autolink_nodes 76 77 satelite-embedded elaboration-set-member-e  5071
+autolink_nodes 75 5071 satelite elaboration-additional  5072
+create-a-node-here really 40.33 78 {\nEven if a grower beats them back,}
+create-a-node-here really 40.103 79 { his $2,000 rented bees might buzz off to the neighbors' orchards }
+create-a-node-here really 40.134 80 {instead of pollinating his,}
+create-a-node-here really 40.158 81 { Mr. Broderick says.}
+nextSentence really
+autolink_nodes 78 79 nucleus concession  5073
+autolink_nodes 5073 80 satelite antithesis  5074
+autolink_nodes 5074 81 satelite attribution  5075
+autolink_nodes 5072 5075 satelite elaboration-additional  5076
+autolink_nodes 5070 5076 satelite elaboration-additional  5077
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076}
+autolink_nodes 5063 5077 satelite example  5078
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077}
+autolink_nodes 5061 5078 satelite elaboration-additional  5079
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078}
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060}
+create-a-node-here really 42.57 82 { \n\nThough growers can't always keep the worm from the apple,}
+create-a-node-here really 42.136 83 { they can protect themselves against the price vagaries of any one variety }
+create-a-node-here really 42.156 84 {by diversifying }
+create-a-node-here really 42.335 85 {-- into the recently imported Gala, a sweet New Zealand native; the Esopus Spitzenburg, reportedly Thomas Jefferson's favorite apple; disease-resistant kinds like the Liberty.}
+nextSentence really
+autolink_nodes 84 85 satelite-embedded elaboration-object-attribute-e  5080
+autolink_nodes 83 5080 satelite means  5081
+autolink_nodes 5081 82 satelite antithesis  5082
+create-a-node-here really 42.376 86 { "I've ripped out a lot of Delicious"}
+create-a-node-here really 42.430 87 { and grafted the trees with many different shoots,}
+create-a-node-here really 42.481 88 { says Steve Wood, a West Lebanon, N.H., grower,}
+create-a-node-here really 42.568 89 { tramping through his 100-acre Poverty Lane Orchard on a crisp autumn day recently.}
+nextSentence really
+autolink_nodes 88 89 satelite elaboration-additional  5083
+autolink_nodes 86 87 multinuclear List  5084
+autolink_nodes 5084 5083 satelite attribution  5085
+create-a-node-here really 42.602 90 { "I've got 70 kinds of apples.}
+nextSentence really
+create-a-node-here really 43.18 91 {\nHere's a Waltana,"}
+create-a-node-here really 43.35 92 { he exclaims,}
+create-a-node-here really 43.63 93 { picking one off a tree.}
+nextSentence really
+autolink_nodes 92 93 satelite elaboration-additional  5086
+autolink_nodes 91 5086 satelite attribution  5087
+create-a-node-here really 44.12 94 {\nHe bites it,}
+create-a-node-here really 44.24 95 { scowls }
+create-a-node-here really 44.47 96 {and throws it down.}
+nextSentence really
+autolink_nodes 95 96 multinuclear Sequence  5088
+autolink_nodes 5088 94 multinuclear Sequence below 5088
+create-a-node-here really 44.70 97 { "It's a real dog."}
+nextSentence really
+autolink_nodes 5088 97 nucleus evaluation-n  5089
+autolink_nodes 5087 5089 satelite elaboration-additional  5090
+autolink_nodes 90 5090 satelite example  5091
+autolink_nodes 5085 5091 satelite elaboration-additional  5092
+autolink_nodes 5082 5092 satelite elaboration-additional  5093
+disconnect_node 5092 modify
+autolink_nodes 5082 5092 satelite example  5094
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092}
+autolink_nodes 5079 5094 satelite elaboration-additional  5095
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094}
+create-a-node-here really 46.51 98 { \n\nSupermarkets are getting into the variety act, too.}
+nextSentence really
+create-a-node-here really 47.52 99 {\nThey still buy apples mainly for big, red good looks}
+create-a-node-here really 47.116 100 { -- that's why so many taste like woodchucks' punching bags.}
+nextSentence really
+autolink_nodes 99 100 satelite consequence-s  5096
+create-a-node-here really 48.20 101 {\nBut freshness counts}
+create-a-node-here really 48.48 102 { more than it once did,}
+create-a-node-here really 48.150 103 { and stores are expanding shelf space for unconventional, but tastier, and often pricier, apples.}
+nextSentence really
+autolink_nodes 101 102 satelite comparison  5097
+autolink_nodes 5097 103 multinuclear List  5098
+create-a-node-here really 48.201 104 { "Rather than sell 39-cents-a-pound Delicious,}
+create-a-node-here really 48.249 105 { maybe we can sell 79-cents-a-pound Fujis,"}
+create-a-node-here really 48.368 106 { says Chuck Tryon, perishables director for Super Valu Inc., a Minneapolis supermarket chain and food distributor.}
+nextSentence really
+autolink_nodes 105 104 satelite preference  5099
+autolink_nodes 5099 106 satelite attribution  5100
+autolink_nodes 5098 5100 satelite elaboration-additional  5101
+disconnect_node 5100 modify
+autolink_nodes 5098 5100 satelite example  5102
+autolink_nodes 5102 5096 satelite antithesis  5103
+autolink_nodes 98 5103 satelite elaboration-additional  5104
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103}
+autolink_nodes 5095 5104 satelite elaboration-additional  5105
+autolink_nodes 5105 5050 satelite antithesis  5106
+disconnect_node 5050 disconnect
+create-a-node-here really 50.69 107 { \n\nThe Fuji is a product of meticulous Japanese pomological engineering,}
+create-a-node-here really 50.139 108 { which fostered it 50 years ago at a government research orchard.}
+nextSentence really
+#autolink_nodes 107 108 satelite-embedded elaboration-object-attribute-e  5107
+#UNDID
+autolink_nodes 107 108 satelite-embedded elaboration-additional-e  5107
+create-a-node-here really 51.57 109 {\nJapanese researchers have bred dozens of strains of Fujis}
+create-a-node-here really 51.103 110 { to hone its color, taste and shelf life.}
+autolink_nodes 109 110 satelite purpose  5108
+create-a-node-here really 52.97 111 {\nNow the best of them age as gracefully as Grannies, the industry's gold standard for storability.}
+nextSentence really
+autolink_nodes 5108 111 nucleus result  5109
+autolink_nodes 5107 5109 satelite elaboration-additional  5110
+create-a-node-here really 53.70 112 {\nIn the cornucopia of go-go apples, the Fuji's track record stands out:}
+create-a-node-here really 53.162 113 { During the past 15 years, it has gone from almost zilch to some 50% of Japan's market.}
+nextSentence really
+autolink_nodes 112 113 satelite evidence  5111
+autolink_nodes 5111 5110 satelite background  5112
+create-a-node-here really 55.58 114 { \n\n"The Japanese apple market is very keyed to high quality,"}
+create-a-node-here really 55.168 115 { says David Lane, a scientist at a Canadian horticulture research center in Summerland, British Columbia,}
+create-a-node-here really 55.243 116 { and so apples are more of a delicacy there than a big food commodity.}
+nextSentence really
+autolink_nodes 114 115 satelite attribution  5113
+autolink_nodes 116 5113 satelite result  5114
+autolink_nodes 5112 5114 satelite elaboration-additional  5115
+create-a-node-here really 56.44 117 {\nThe U.S. Department of Agriculture estimates}
+create-a-node-here really 56.141 118 { that this year Americans will eat about 40% more fresh apples per capita than the Japanese.}
+nextSentence really
+autolink_nodes 117 118 nucleus attribution  5116
+autolink_nodes 5114 5116 satelite comparison  5117
+create-a-node-here really 58.45 119 { \n\nThe Fuji is still small potatoes in the U.S.,}
+create-a-node-here really 58.82 120 { sold mainly in fruit boutiques.}
+nextSentence really
+#autolink_nodes 119 120 satelite-embedded elaboration-additional-e  5118
+#UNDID
+autolink_nodes 119 120 satelite-embedded elaboration-additional-e  5118
+create-a-node-here really 59.18 121 {\nBut in California,}
+create-a-node-here really 59.60 122 { says Craig Ito, a Fuji-apple grower,}
+create-a-node-here really 59.93 123 { "There's a Fuji apple cult.}
+autolink_nodes 121 122 satelite-embedded attribution-e  5119
+autolink_nodes 123 5119 multinuclear Same-Unit  5120
+create-a-node-here really 60.23 124 {\nOnce somebody eats one,}
+create-a-node-here really 60.46 125 { they get hooked."}
+nextSentence really
+autolink_nodes 124 125 nucleus circumstance  5121
+autolink_nodes 123 5121 satelite elaboration-additional  5122
+create-a-node-here really 62.39 126 { \n\nMr. Auvil, the Washington grower, says }
+create-a-node-here really 62.98 127 {that he could sell Fujis to Taiwan buyers at $40 a box}
+create-a-node-here really 62.119 128 { if he had them.}
+nextSentence really
+autolink_nodes 127 128 satelite condition  5123
+autolink_nodes 126 5123 nucleus attribution  5124
+create-a-node-here really 62.186 129 { (Taiwan already is a big importer of Fujis from other places,}
+#create-a-node-here really 62.200 130 { he adds.}
+#nextSentence really
+#autolink_nodes 129 130 satelite attribution  5125
+#UNDID
+#UNDID
+#UNDID
+nextSentence really
+create-a-node-here really 62.201 130 { he adds.)}
+autolink_nodes 129 130 satelite attribution  5125
+autolink_nodes 5124 5125 satelite elaboration-additional  5126
+create-a-node-here really 62.257 131 { But his first crop won't be picked till next year.}
+create-a-node-here really 62.344 132 { "I expect to see the demand exceed supply for Fujis for the next 10 to 15 years,"}
+create-a-node-here really 62.358 133 { he adds.}
+nextSentence really
+autolink_nodes 132 133 satelite attribution  5127
+autolink_nodes 131 5127 satelite explanation-argumentative  5128
+autolink_nodes 5126 5128 satelite elaboration-additional  5129
+create-a-node-here really 63.89 134 {\nWashington Red Delicious, by the way, are wholesaling for less than $10 a box these days.}
+nextSentence really
+autolink_nodes 5129 134 satelite comparison  5130
+create-a-node-here really 65.30 135 { \n\nMr. Auvil sees Fujis, in part,}
+create-a-node-here really 65.109 136 { as striking a blow against the perversion of U.S. apples by supermarkets.}
+nextSentence really
+autolink_nodes 135 136 satelite manner  5131
+create-a-node-here really 65.148 137 { "When the chain stores took over,}
+create-a-node-here really 65.215 138 { there was no longer a connection between grower and consumer.}
+nextSentence really
+autolink_nodes 137 138 nucleus circumstance  5132
+create-a-node-here really 66.33 139 {\nA guy is sitting up in an office }
+#create-a-node-here really 66.73 140 {deciding what you're going to eat."}
+#nextSentence really
+#autolink_nodes 139 140 satelite-embedded elaboration-object-attribute-e  5133
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 66.46 140 {deciding}
+create-a-node-here really 66.79 141 { what you're going to eat." }
+autolink_nodes 140 141 nucleus attribution  5133
+autolink_nodes 139 5133 satelite-embedded elaboration-object-attribute-e  5134
+autolink_nodes 5132 5134 satelite elaboration-additional  5135
+autolink_nodes 5131 5135 satelite elaboration-additional  5136
+create-a-node-here really 68.80 142 {\n\nAfter all, until the 1950s even the Red Delicious was a firm, delectable morsel.}
+nextSentence really
+create-a-node-here really 69.5 143 {\nThen,}
+create-a-node-here really 69.47 144 { as growers bred them more for looks,}
+create-a-node-here really 69.117 145 { and to satisfy supermarket chains' demands of long-term storage,}
+create-a-node-here really 69.149 146 { the Red went into decline.}
+nextSentence really
+autolink_nodes 144 145 multinuclear List  5137
+autolink_nodes 146 5137 satelite-embedded consequence-n-e  5138
+autolink_nodes 143 5138 multinuclear Same-Unit  5139
+autolink_nodes 142 5139 multinuclear Sequence  5140
+#create-a-node-here really 70.25 147 {\nNow, those red applelike }
+#UNDID
+create-a-node-here really 70.32 147 {\nNow, those red applelike things }
+create-a-node-here really 70.58 148 {stores sell in summer}
+#create-a-node-here really 70.114 149 { are fruitbowl lovely, but usually not good eating.}
+#UNDID
+create-a-node-here really 70.85 149 { are fruitbowl lovely,}
+create-a-node-here really 70.119 150 { but usually not good eating.}
+autolink_nodes 147 148 satelite-embedded elaboration-object-attribute-e  5141
+autolink_nodes 149 5141 multinuclear Same-Unit  5142
+#autolink_nodes 5142 150 satelite antithesis  5143
+#UNDID
+autolink_nodes 150 5142 multinuclear List  5143
+autolink_nodes 5143 5140 satelite background  5144
+create-a-node-here really 71.32 151 {\nThey do deserve respect, however}
+create-a-node-here really 71.112 152 { -- they are almost a year old, probably equal to about 106 in human years.}
+nextSentence really
+#autolink_nodes 151 152 satelite-embedded explanation-argumentative-e  5145
+#UNDID
+autolink_nodes 151 152 satelite explanation-argumentative  5145
+autolink_nodes 5144 5145 satelite evaluation-s  5146
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140}
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135}
+autolink_nodes 5136 5146 satelite elaboration-additional  5147
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146}
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128}
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125}
+autolink_nodes 5130 5147 satelite elaboration-additional  5148
+create-a-node-here really 73.9 153 { \n\nThe Fuji,}
+create-a-node-here really 73.26 154 { to be sure,}
+create-a-node-here really 73.50 155 { has blemishes too.}
+autolink_nodes 153 154 satelite-embedded comment-e  5149
+autolink_nodes 155 5149 multinuclear Same-Unit  5150
+create-a-node-here really 74.33 156 {\nIt ripens later than most apples,}
+create-a-node-here really 74.102 157 { and growing it in U.S. areas with chilly autumns may be tricky.}
+nextSentence really
+autolink_nodes 156 157 multinuclear List  5151
+create-a-node-here really 75.79 158 {\nMoreover, the frumpy Fuji must compete with an increasingly dolledup Delicious.}
+nextSentence really
+autolink_nodes 5151 158 multinuclear List below 5151
+create-a-node-here really 76.46 159 {\nMr. Broderick, the Massachusetts grower, says }
+create-a-node-here really 76.130 160 {the "big boss" at a supermarket chain even rejected his Red Delicious recently }
+create-a-node-here really 76.190 161 {because they weren't waxed and brushed for extra shine.}
+nextSentence really
+autolink_nodes 160 161 satelite reason  5152
+autolink_nodes 159 5152 nucleus attribution  5153
+create-a-node-here really 77.28 162 {\nAnd he hadn't used hormones,}
+create-a-node-here really 77.60 163 { which many growers employ }
+create-a-node-here really 77.123 164 {to elongate their Delicious apples for greater eye appeal.}
+nextSentence really
+autolink_nodes 163 164 satelite purpose  5154
+autolink_nodes 162 5154 satelite-embedded elaboration-object-attribute-e  5155
+autolink_nodes 5153 5155 satelite elaboration-additional  5156
+autolink_nodes 158 5156 satelite elaboration-additional  5157
+autolink_nodes 5150 5151 satelite explanation-argumentative  5158
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151}
+create-a-node-here really 78.6 165 {\nStill,}
+create-a-node-here really 78.33 166 { Mr. Auvil points out,}
+create-a-node-here really 78.63 167 { Grannies became popular }
+create-a-node-here really 78.91 168 {without big, red looks,}
+create-a-node-here really 78.114 169 { so why not Fujis?}
+nextSentence really
+autolink_nodes 167 168 satelite-embedded circumstance-e  5159
+autolink_nodes 165 166 satelite-embedded attribution-e  5160
+autolink_nodes 5159 5160 multinuclear Same-Unit  5161
+autolink_nodes 169 5161 satelite evaluation-n  5162
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161}
+create-a-node-here really 79.34 170 {\nHe sees a shift in American values}
+create-a-node-here really 79.71 171 { -- at least regarding apples --}
+create-a-node-here really 79.129 172 { toward more emphasis on substance and less on glitz.}
+nextSentence really
+autolink_nodes 170 171 satelite-embedded elaboration-object-attribute-e  5163
+autolink_nodes 172 5163 multinuclear Same-Unit  5164
+create-a-node-here really 79.173 173 { "Taste has finally come to the fore," }
+create-a-node-here really 79.186 174 {he says.}
+nextSentence really
+autolink_nodes 173 174 satelite attribution  5165
+create-a-node-here really 80.30 175 {\nOr, for that matter, the core.}
+nextSentence really
+autolink_nodes 5165 175 satelite elaboration-additional  5166
+autolink_nodes 5164 5166 satelite elaboration-additional  5167
+#autolink_nodes 5162 5167 satelite question-answer-s  5168
+#UNDID
+autolink_nodes 5167 5162 multinuclear Question-Answer  5168
+autolink_nodes 5162 5158 satelite antithesis  5169
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147}
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158}
+autolink_nodes 5148 5168 satelite elaboration-additional  5170
+autolink_nodes 5170 5120 multinuclear List  5171
+autolink_nodes 5171 5118 satelite antithesis  5172
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158 5118}
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158 5118 5117}
+autolink_nodes 5172 5115 satelite comparison  5173
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158 5118 5117 5115}
+autolink_nodes 5105 5173 satelite elaboration-additional  5174
+autolink_nodes 5174 5050 satelite antithesis  5175
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158 5118 5117 5115 5050}
+autolink_nodes 5175 5042 multinuclear Topic-Drift  5176
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158 5118 5117 5115 5050 5168}
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158 5118 5117 5115 5050 5168 5170}
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158 5118 5117 5115 5050 5168 5170 5173}
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158 5118 5117 5115 5050 5168 5170 5173 5004}
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158 5118 5117 5115 5050 5168 5170 5173 5004 5175}
+collapsed_nodes {5017 5010 5021 5028 5035 5040 5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158 5118 5117 5115 5050 5168 5170 5173 5004 5175 5042}
+collapsed_nodes {5048 5059 5076 5077 5078 5060 5092 5094 5103 5140 5135 5146 5128 5125 5151 5161 5147 5158 5118 5117 5115 5050 5168 5170 5173 5175}
+collapsed_nodes {}
+disconnect_node 5009 disconnect
+autolink_nodes 5011 5009 nucleus circumstance  5177
+change_rel 5021 explanation-argumentative
+disconnect_node 5028 disconnect
+autolink_nodes 5021 5028 multinuclear List  5178

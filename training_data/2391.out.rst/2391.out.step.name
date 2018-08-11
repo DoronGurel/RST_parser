@@ -1,0 +1,75 @@
+nextSentence really
+create-a-node-here really 2.7 1 {\nPlunge?}
+nextSentence really
+create-a-node-here really 3.12 2 {\nWhat plunge?}
+nextSentence really
+autolink_nodes 1 2 satelite question-answer-s  5001
+autolink_nodes 1 2 satelite question-answer-s  5002
+create-a-node-here really 5.86 3 { \n\nTwenty-four New York Stock Exchange issues hit 52-week highs during Friday's trading, }
+autolink_nodes 5002 3 satelite elaboration-additional  5003
+nextSentence really
+create-a-node-here really 5.152 4 {despite the Dow Jones Industrial Average's 190.58-point plunge.}
+nextSentence really
+autolink_nodes 3 4 satelite concession  5004
+create-a-node-here really 7.92 5 { \n\nStocks of utilities held up relatively better than other market sectors during the sell-off.}
+nextSentence really
+autolink_nodes 5004 5 multinuclear List  5005
+create-a-node-here really 8.21 6 {\nAnd among the issues }
+autolink_nodes 5005 6 multinuclear List below 5005
+create-a-node-here really 8.42 7 {hitting new highs }
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 8.100 8 {were Detroit Edison Co. and Niagara Mohawk Power Corp. }
+autolink_nodes 5006 8 multinuclear Same-Unit  5007
+#create-a-node-here really 8.122 9 {Other major issues }
+#UNDID
+disconnect_node 5007 disconnect
+autolink_nodes 5004 5007 satelite elaboration-additional  5008
+disconnect_node 5 disconnect
+disconnect_node 5007 disconnect
+#autolink_nodes 5004 5007 satelite evaluation-s  5009
+#UNDID
+autolink_nodes 5004 5 satelite evaluation-s  5009
+autolink_nodes 5009 5007 satelite example  5010
+create-a-node-here really 8.122 9 {Other major issues }
+autolink_nodes 5007 9 multinuclear List above 5011
+create-a-node-here really 8.139 10 {hitting highs }
+autolink_nodes 9 10 satelite elaboration-object-attribute  5012
+create-a-node-here really 9.0 11 {included American Telephone & Telegraph Co., Westinghouse Electric Corp., Exxon Corp. and Cigna Corp., the big insurer. \n}
+autolink_nodes 5012 11 multinuclear Same-Unit  5013
+create-a-node-here really 10.28 12 {\nOf course, many more issues }
+autolink_nodes 5010 12 satelite comparison  5014
+create-a-node-here really 10.41 13 {-- 93 -- }
+autolink_nodes 12 13 satelite elaboration-additional  5015
+create-a-node-here really 10.58 14 {hit new lows.}
+nextSentence really
+autolink_nodes 5015 14 multinuclear Same-Unit  5016
+create-a-node-here really 11.54 15 {\nThese included International Business Machines Corp., }
+autolink_nodes 5016 15 satelite elaboration-set-member  5017
+create-a-node-here really 11.149 16 {which during Friday's session traded below $100 a share for the first time since June 1984.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-additional-e  5018
+create-a-node-here really 12.32 17 {\nIBM closed at $102, down $5.625.}
+nextSentence really
+autolink_nodes 16 17 satelite evidence  5019
+create-a-node-here really 13.101 18 {\nOther new lows included Navistar International Corp., Union Carbide Corp. and Bethlehem Steel Corp., }
+autolink_nodes 5018 18 multinuclear List  5020
+create-a-node-here really 13.157 19 {all of which are included in the industrial average.}
+nextSentence really
+autolink_nodes 18 19 satelite elaboration-additional  5021
+create-a-node-here really 15.132 20 { \n\nMeanwhile, two initial public offerings braved the cascading market in their maiden day of national over-the-counter trading Friday.}
+nextSentence really
+autolink_nodes 5003 20 satelite elaboration-additional  5022
+create-a-node-here really 16.113 21 {\nShares of Rally's Inc., an operator of fast-food restaurants, closed at $17 each, up from its $15 offering price }
+autolink_nodes 20 21 satelite example  5023
+nextSentence really
+create-a-node-here really 16.236 22 {and shares of Employee Benefit Plans Inc., a health-care consultant, closed at $14.125, up from its $12 offering price.}
+nextSentence really
+autolink_nodes 21 22 multinuclear List  5024
+collapsed_nodes {5001}
+nextSentence really
+nextSentence really
+collapsed_nodes {}
+disconnect_node 10 modify
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5025
+disconnect_node 13 modify
+autolink_nodes 12 13 satelite-embedded elaboration-additional-e  5026

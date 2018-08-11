@@ -1,0 +1,303 @@
+nextSentence really
+create-a-node-here really 2.128 1 {\nDennis Farney's Oct. 13 page-one article "River of Despair," about the poverty along the Mississippi, fanned childhood memories }
+create-a-node-here really 2.227 2 {of when my parents were sharecroppers in southeastern Arkansas, only a few miles from the river.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 3.23 3 {\nAlthough we were white,}
+create-a-node-here really 3.64 4 { the same economic factors affected us}
+create-a-node-here really 3.96 5 { as affects the black people }
+create-a-node-here really 3.123 6 {Mr. Farney writes about.}
+nextSentence really
+autolink_nodes 4 3 satelite concession  5002
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 5002 5003 satelite comparison  5004
+create-a-node-here really 4.63 7 {\nFortunately, an aunt with a college degree bought a small farm }
+create-a-node-here really 4.128 8 {and moved us 50 miles north to good schools and an environment}
+create-a-node-here really 4.197 9 { that opened the world of opportunity for me as an eight-year-old.}
+nextSentence really
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 5005 7 multinuclear Sequence  5006
+autolink_nodes 5006 5004 satelite circumstance  5007
+showText really
+create-a-node-here really 6.91 10 { \n\nThough I've been blessed with academic degrees and some success in the materialistic world,}
+create-a-node-here really 6.167 11 { I've never forgotten or lost contact with those memories of the 1930s. }
+create-a-node-here really 9.0 12 {\n\nMost of the land in that and other parts of the Delta are now owned by second, third or fourth generations of the same families.\n}
+autolink_nodes 11 10 satelite concession  5008
+autolink_nodes 5006 5008 multinuclear Sequence below 5008
+autolink_nodes 5008 12 multinuclear Temporal-Same-Time  5009
+create-a-node-here really 9.27 13 {These are the families }
+create-a-node-here really 9.40 14 {who used }
+create-a-node-here really 9.67 15 {-- and sometime abused }
+create-a-node-here really 9.101 16 {-- their sharecroppers, people}
+create-a-node-here really 9.195 17 { who had no encouragement and little access to an education or training for a better life.}
+autolink_nodes 15 14 multinuclear List  5010
+autolink_nodes 13 5010 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 5010 16 multinuclear Same-Unit above 5012
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 12 5011 satelite elaboration-additional  5014
+create-a-node-here really 10.23 18 {\nFollowing World War II,}
+create-a-node-here really 10.87 19 { when one family with mechanized equipment could farm crops }
+create-a-node-here really 10.122 20 {formerly requiring 20 families,}
+create-a-node-here really 10.282 21 { the surplus people were dumped into the mainstream of society with no Social Security, no skills in the workplace, no hope for their future except welfare.}
+autolink_nodes 19 18 satelite circumstance  5015
+autolink_nodes 19 20 satelite comparison below 5016
+autolink_nodes 21 5015 satelite circumstance  5017
+create-a-node-here really 11.92 22 {\nAnd today, many of their children, grandchildren and great-grandchildren remain on welfare. }
+autolink_nodes 22 5017 multinuclear Cause-Result  5018
+create-a-node-here really 13.70 23 {\n\nIn the meantime, the landowners continue receiving generous subsidies }
+create-a-node-here really 13.106 24 {that began during New Deal days.}
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5019
+create-a-node-here really 14.9 25 {\nOr those }
+create-a-node-here really 14.36 26 {who choose not to farm }
+create-a-node-here really 14.101 27 {can lease their lands and crop allotments for handsome sums. }
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 27 5020 multinuclear Same-Unit  5021
+autolink_nodes 5021 5019 multinuclear Disjunction above 5022
+autolink_nodes 5022 5018 multinuclear Contrast above 5023
+collapsed_nodes {5011}
+collapsed_nodes {5011 5017}
+autolink_nodes 5014 5023 satelite elaboration-additional  5024
+create-a-node-here really 16.53 28 {\n\nFarmers in the Midwest and other areas have suffered,}
+create-a-node-here really 16.123 29 { but those along the Mississippi continue to prosper with holdings}
+create-a-node-here really 16.175 30 { that were built with the sweat of men and women}
+create-a-node-here really 17.0 31 { living in economic slavery.\n}
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5025
+autolink_nodes 29 5025 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 5026 28 multinuclear Contrast  5027
+create-a-node-here really 17.40 32 {And when they were no longer needed,}
+create-a-node-here really 17.68 33 { they were turned loose }
+create-a-node-here really 17.112 34 {unprepared to build lives of their own. }
+autolink_nodes 33 32 satelite circumstance  5028
+autolink_nodes 34 5028 multinuclear List  5029
+disconnect_node 32 disconnect
+autolink_nodes 5029 32 satelite circumstance  5030
+autolink_nodes 5026 5030 satelite elaboration-additional  5031
+autolink_nodes 5001 5007 satelite elaboration-additional  5032
+collapsed_nodes {5011 5017 5007}
+autolink_nodes 5027 5032 satelite explanation-argumentative  5033
+create-a-node-here really 19.14 35 {\n\nDenton Harris }
+create-a-node-here really 21.9 36 {\n\nChairman }
+create-a-node-here really 23.11 37 {\n\nMetro Bank }
+create-a-node-here really 25.8 38 {\n\nAtlanta }
+autolink_nodes 36 35 multinuclear List  5034
+autolink_nodes 5034 37 multinuclear List below 5034
+autolink_nodes 5034 38 multinuclear List below 5034
+create-a-node-here really 27.88 39 {\n\nBecause the cycle of poverty along the lower Mississippi goes back so many generations, }
+create-a-node-here really 27.139 40 {breaking this cycle will be next to impossible.}
+create-a-node-here really 28.63 41 {\nSadly, the cycle appears not as waves but as a downward spiral.}
+#autolink_nodes 40 39 satelite explanation-argumentative  5035
+#UNDID
+autolink_nodes 40 39 satelite result  5035
+autolink_nodes 5035 41 satelite elaboration-additional  5036
+create-a-node-here really 29.17 42 {\nYet the evidence }
+#create-a-node-here really 29.69 43 {that we have not hit bottom is found in the fact}
+#UNDID
+create-a-node-here really 29.49 43 {that we have not hit bottom }
+create-a-node-here really 29.74 44 {is found in the fact }
+create-a-node-here really 30.0 45 {that we are not yet helping ourselves.\n}
+autolink_nodes 42 43 satelite-embedded elaboration-object-attribute-e  5037
+autolink_nodes 44 5037 multinuclear Same-Unit  5038
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 5038 5036 satelite evaluation-s  5040
+create-a-node-here really 30.196 46 {The people of the Delta are waiting for that big factory to open, river traffic to increase, government spending to fund job-training programs or public schools to educate apathetic students. }
+create-a-node-here really 32.45 47 {\n\nBecause we refuse to face the tough answers, }
+create-a-node-here really 32.148 48 {the questions continue as fodder for the commissions and committees, for the media and politicians.}
+create-a-node-here really 33.131 49 {\nCoffee-shop chatter does not lend itself to solving the problems of racism, teen pregnancy or lack of parental support or guidance.}
+autolink_nodes 48 47 satelite reason  5041
+autolink_nodes 5041 46 multinuclear List  5042
+autolink_nodes 5042 49 multinuclear List below 5042
+autolink_nodes 5040 5042 satelite evidence  5043
+create-a-node-here really 35.39 50 { \n\nDoes the Delta deserve government help }
+create-a-node-here really 35.66 51 {in attracting industry }
+create-a-node-here really 35.134 52 {when the majority of residents, black and white, do not realize }
+create-a-node-here really 36.0 53 {racism alienates potential employers?\n}
+autolink_nodes 50 51 satelite-embedded elaboration-object-attribute-e  5044
+autolink_nodes 53 52 satelite attribution  5045
+autolink_nodes 5044 5045 satelite circumstance  5046
+create-a-node-here really 36.58 54 {Should we focus on the region's infant-mortality rate }
+#create-a-node-here really 36.137 55 {when the vocal right-wingers and the school boards, mayors and legislators }
+#UNDID
+create-a-node-here really 36.181 55 {when the vocal right-wingers and the school boards, mayors and legislators prohibit schools from teaching the two ways }
+create-a-node-here really 36.215 56 {(abstinence or contraceptives)}
+create-a-node-here really 37.0 57 { of decreasing teen pregnancy?\n}
+autolink_nodes 55 56 satelite-embedded elaboration-set-member-e  5047
+autolink_nodes 57 5047 multinuclear Same-Unit  5048
+autolink_nodes 54 5048 satelite circumstance  5049
+autolink_nodes 5049 5046 multinuclear List  5050
+collapsed_nodes {5011 5017 5007 5042}
+autolink_nodes 5043 5050 satelite rhetorical-question  5051
+create-a-node-here really 37.59 58 {Delta problems are difficult, not impossible, to solve }
+create-a-node-here really 37.90 59 {-- I am just not convinced }
+create-a-node-here really 37.130 60 {that we are ready to solve them yet.}
+#autolink_nodes 60 59 satelite attribution  5052
+#UNDID
+autolink_nodes 60 59 satelite attribution  5052
+autolink_nodes 5052 58 satelite concession  5053
+collapsed_nodes {5011 5017 5007 5042 5050}
+#autolink_nodes 5051 5053 satelite conclusion  5054
+#UNDID
+autolink_nodes 5051 5053 satelite conclusion  5054
+create-a-node-here really 39.23 61 { \n\nLeslie Falls Humphries }
+create-a-node-here really 41.18 62 {\n\nLittle Rock, Ark. }
+autolink_nodes 62 61 multinuclear List  5055
+create-a-node-here really 44.0 63 {\n\nI would like to issue a challenge to corporate America.\n}
+create-a-node-here really 44.67 64 {The next time expansion plans are mentioned at the old company }
+create-a-node-here really 44.90 65 {and somebody says, }
+create-a-node-here really 44.155 66 {"Aw heck, guys, nobody can do it like Japan or South Korea," }
+create-a-node-here really 44.170 67 {I wish you }
+create-a-node-here really 44.188 68 {would butt in }
+create-a-node-here really 44.200 69 {and say,}
+create-a-node-here really 44.222 70 { "Hold it, fellas,}
+create-a-node-here really 44.255 71 { why don't we compare prices }
+create-a-node-here really 44.302 72 {and use our own little Third World country.}
+create-a-node-here really 45.32 73 {\nWe would even save on freight." }
+create-a-node-here really 47.20 74 {\n\nThere is no mystery }
+create-a-node-here really 47.70 75 {why the Delta originated "Singin' the Blues." }
+create-a-node-here really 49.20 76 {\n\nEugene S. Clarke IV }
+create-a-node-here really 51.18 77 {\n\nHollandale, Miss. }
+autolink_nodes 66 65 satelite attribution  5056
+autolink_nodes 68 67 satelite attribution  5057
+autolink_nodes 70 69 satelite attribution  5058
+autolink_nodes 5058 5057 multinuclear Sequence  5059
+autolink_nodes 5058 71 multinuclear Sequence  5060
+autolink_nodes 5060 72 multinuclear Sequence below 5060
+autolink_nodes 72 73 satelite consequence-s  5061
+autolink_nodes 5056 64 multinuclear Sequence  5062
+#autolink_nodes 5059 5062 multinuclear Topic-Comment above 5063
+#UNDID
+autolink_nodes 5059 5062 multinuclear Question-Answer above 5063
+autolink_nodes 63 5063 satelite elaboration-general-specific  5064
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e  5065
+collapsed_nodes {5011 5017 5007 5042 5050 5063}
+autolink_nodes 5064 5065 satelite interpretation-s  5066
+autolink_nodes 77 76 multinuclear List  5067
+create-a-node-here really 53.65 78 {\n\nYour story is an insult to the citizens of the Mississippi Delta.}
+#create-a-node-here really 54.35 79 {\nMany of the problems you presented }
+#UNDID
+create-a-node-here really 54.21 79 {\nMany of the problems }
+create-a-node-here really 54.39 80 {you presented }
+create-a-node-here really 55.0 81 {exist in every part of this country.\n}
+create-a-node-here really 56.0 82 {Poverty is only two blocks from President Bush's residence.\n}
+create-a-node-here really 56.57 83 {For years, we tried to ignore the problem of poverty,}
+create-a-node-here really 56.66 84 { and }
+create-a-node-here really 56.105 85 {now that it has gotten out of hand }
+create-a-node-here really 56.171 86 {it's a new crusade for the media and our Democratic Congress. }
+create-a-node-here really 58.72 87 {\n\nNobody should have to live in such poor conditions as in "Sugar Ditch," }
+#create-a-node-here really 58.140 88 {but when you travel to Washington, Boston, Chicago or New York, }
+#create-a-node-here really 58.168 89 {the same problems exist.}
+#autolink_nodes 79 80 satelite-embedded elaboration-object-attribute-e  5068
+#autolink_nodes 81 5068 multinuclear Same-Unit  5069
+#autolink_nodes 5069 82 satelite example  5070
+#autolink_nodes 86 85 satelite cause  5071
+#UNDID
+#autolink_nodes 86 85 satelite result  5071
+#autolink_nodes 5071 84 multinuclear Same-Unit  5072
+#autolink_nodes 5072 83 satelite consequence-s  5073
+#autolink_nodes 5070 5073 satelite elaboration-additional  5074
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 79 80 satelite-embedded elaboration-object-attribute-e  5068
+autolink_nodes 81 5068 multinuclear Same-Unit  5069
+autolink_nodes 5069 82 satelite evidence  5070
+autolink_nodes 86 85 satelite result  5071
+autolink_nodes 5071 84 multinuclear Same-Unit  5072
+autolink_nodes 5072 83 multinuclear List above 5073
+create-a-node-here really 58.80 88 {but }
+create-a-node-here really 58.143 89 {when you travel to Washington, Boston, Chicago or New York,}
+create-a-node-here really 58.172 90 { the same problems exist.}
+autolink_nodes 90 89 satelite circumstance  5074
+autolink_nodes 5074 88 multinuclear Same-Unit  5075
+#autolink_nodes 5075 87 satelite concession  5076
+#UNDID
+autolink_nodes 5075 87 multinuclear List above 5076
+create-a-node-here really 59.92 91 {\nThe only difference is, in those cities the poor are housed in high-rise-project apartments }
+create-a-node-here really 59.141 92 {each consisting of one room, with rusty pipes}
+create-a-node-here really 59.163 93 { called plumbing, }
+create-a-node-here really 59.227 94 {rodents and cockroaches everywhere and nonworking elevators }
+create-a-node-here really 59.292 95 {-- and with the building patrolled by gangs and drug dealers.}
+create-a-node-here really 62.0 96 { \n\nMany middle-class people would love free food, Medicaid insurance, utilities and rent.\n}
+create-a-node-here really 62.33 97 {Then maybe I could stay home }
+create-a-node-here really 62.61 98 {and have seven children }
+create-a-node-here really 62.117 99 {and watch Oprah Winfrey, like Beulah in the article,}
+create-a-node-here really 62.150 100 { instead of having one child }
+create-a-node-here really 62.178 101 {and working constantly }
+create-a-node-here really 62.248 102 {just to stay above water, like so many families in this country. }
+create-a-node-here really 64.15 103 {\n\nDee Ann Wilson }
+create-a-node-here really 66.18 104 {\n\nGreenville, Miss. }
+#autolink_nodes 92 93 satelite definition  5077
+#UNDID
+autolink_nodes 92 93 satelite definition  5077
+autolink_nodes 94 5077 multinuclear List  5078
+autolink_nodes 5078 95 multinuclear List below 5078
+autolink_nodes 91 5078 satelite-embedded elaboration-additional-e  5079
+autolink_nodes 98 97 multinuclear List  5080
+autolink_nodes 5080 99 multinuclear List below 5080
+autolink_nodes 5080 96 satelite circumstance  5081
+autolink_nodes 101 102 satelite purpose  5082
+autolink_nodes 5082 100 multinuclear List  5083
+autolink_nodes 5081 5083 multinuclear Contrast  5084
+autolink_nodes 104 103 multinuclear List  5085
+autolink_nodes 5070 5073 satelite elaboration-additional  5086
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5073}
+autolink_nodes 5075 5079 satelite evidence  5087
+collapsed_nodes {5011 5017 5007 5042 5050 5063}
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5073}
+collapsed_nodes {5011 5017 5007 5042 5050 5063}
+autolink_nodes 5086 5076 satelite elaboration-additional  5088
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076}
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076 5073}
+#autolink_nodes 78 5088 satelite example  5089
+#UNDID
+autolink_nodes 78 5088 satelite explanation-argumentative  5089
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076 5073 5081}
+autolink_nodes 5089 5084 satelite evaluation-s  5090
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076 5073 5081 5084}
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076 5073 5081 5084 5088}
+change_constit 5090 Text
+change_constit 5090 
+change_constit 5085 Signature-Block
+#autolink_nodes 5085 5090 multinuclear TextualOrganization above 5091
+#UNDID
+change_constit 5090 Text
+change_constit 5085 Signature-Block
+autolink_nodes 5085 5090 multinuclear TextualOrganization above 5091
+change_constit 5066 Text
+change_constit 5067 Signature-Block
+autolink_nodes 5067 5066 multinuclear TextualOrganization above 5092
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076 5073 5081 5084 5088 5053}
+change_constit 5054 Text
+#change_constit 5055 Text
+#UNDID
+change_constit 5054 Text
+change_constit 5055 Signature-Block
+autolink_nodes 5055 5054 multinuclear TextualOrganization above 5093
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076 5073 5081 5084 5088 5053 5031}
+change_constit 5033 Text
+change_constit 5034 Signature-Block
+autolink_nodes 5034 5033 multinuclear TextualOrganization above 5094
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076 5073 5081 5084 5088 5053 5031 5051}
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076 5073 5081 5084 5088 5053 5031 5051 5091}
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076 5073 5081 5084 5088 5053 5031 5051 5091 5092}
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076 5073 5081 5084 5088 5053 5031 5051 5091 5092 5093}
+collapsed_nodes {5011 5017 5007 5042 5050 5063 5076 5073 5081 5084 5088 5053 5031 5051 5091 5092 5093 5094}
+collapsed_nodes {5011 5017 5007 5063 5076 5073 5081 5084 5088 5031 5091 5092 5094 5054 5055 5093}
+#autolink_nodes 5093 5094 multinuclear TextualOrganization above 5095
+#autolink_nodes 5093 5092 multinuclear TextualOrganization below 5095
+#UNDID
+#autolink_nodes 5093 5092 multinuclear TextualOrganization above 5096
+#UNDID
+#autolink_nodes 5093 5092 multinuclear TextualOrganization below 5095
+#UNDID
+#UNDID
+autolink_nodes 5092 5091 multinuclear TextualOrganization above 5095
+autolink_nodes 5095 5093 multinuclear TextualOrganization below 5095
+autolink_nodes 5095 5094 multinuclear TextualOrganization below 5095
+collapsed_nodes {5011 5017 5007 5076 5073 5081 5084 5088 5031 5091 5094 5054 5055 5093 5066 5067 5095}
+collapsed_nodes {}

@@ -1,0 +1,813 @@
+nextSentence really
+#create-a-node-here really 2.66 1 {\nThese are the last words Abbie Hoffman ever uttered, more or less,}
+#create-a-node-here really 2.95 2 { before he killed himself.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.24 1 {\nThese are the last words}
+create-a-node-here really 2.69 2 { Abbie Hoffman ever uttered, more or less,}
+create-a-node-here really 2.98 3 { before he killed himself.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 3 satelite temporal-before  5002
+create-a-node-here really 3.27 4 {\nAnd You Are There, sort of:}
+autolink_nodes 5002 4 satelite elaboration-additional  5003
+create-a-node-here really 5.6 5 { \n\nABBIE:}
+create-a-node-here really 5.24 6 { "I'm OK, Jack.}
+nextSentence really
+create-a-node-here really 6.8 7 {\nI'm OK."}
+nextSentence really
+autolink_nodes 6 7 satelite restatement  5004
+autolink_nodes 5 5004 nucleus attribution  5005
+create-a-node-here really 6.23 8 { (listening)}
+create-a-node-here really 6.33 9 { "Yeah.}
+nextSentence really
+autolink_nodes 8 9 nucleus circumstance  5006
+autolink_nodes 5005 5006 satelite elaboration-additional  5007
+create-a-node-here really 7.15 10 {\nI'm out of bed.}
+nextSentence really
+create-a-node-here really 8.27 11 {\nI got my feet on the floor.}
+nextSentence really
+create-a-node-here really 9.5 12 {\nYeah.}
+nextSentence really
+create-a-node-here really 10.9 13 {\nTwo feet.}
+nextSentence really
+create-a-node-here really 11.23 14 {\nI'll see you Wednesday?}
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 11.44 15 { . . . Thursday."}
+nextSentence really
+autolink_nodes 10 11 satelite evidence  5008
+autolink_nodes 5008 12 satelite restatement  5009
+autolink_nodes 5009 13 satelite elaboration-additional  5010
+autolink_nodes 5007 5010 satelite elaboration-additional  5011
+autolink_nodes 14 15 multinuclear Question-Answer  5012
+collapsed_nodes {5010}
+autolink_nodes 5011 5012 satelite elaboration-additional  5013
+create-a-node-here really 13.23 16 { \n\nHe listens impassively.}
+nextSentence really
+create-a-node-here really 15.6 17 { \n\nABBIE }
+nextSentence really
+create-a-node-here really 15.20 18 {(cont'd.):}
+create-a-node-here really 15.56 19 { "I'll always be with you, Jack.}
+nextSentence really
+create-a-node-here really 16.13 20 {\nDon't worry."}
+nextSentence really
+autolink_nodes 17 18 satelite elaboration-additional  5014
+#autolink_nodes 19 20 satelite consequence-s  5015
+#UNDID
+autolink_nodes 19 20 satelite elaboration-additional  5015
+autolink_nodes 5014 5015 nucleus attribution  5016
+create-a-node-here really 18.16 21 { \n\nAbbie lies back }
+create-a-node-here really 18.47 22 {and leaves the frame empty.}
+autolink_nodes 21 22 multinuclear List  5017
+autolink_nodes 5016 5017 multinuclear Sequence  5018
+autolink_nodes 5018 16 multinuclear Sequence below 5018
+autolink_nodes 5018 5013 multinuclear Sequence below 5018
+collapsed_nodes {5010 5013}
+autolink_nodes 5003 5018 satelite elaboration-general-specific  5019
+create-a-node-here really 20.46 23 { \n\nOf course that wasn't the actual conversation }
+create-a-node-here really 20.146 24 {the late anti-war activist, protest leader and founder of the Yippies ever had with his brother.}
+#nextSentence really
+#UNDID
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5020
+create-a-node-here really 21.13 25 {\nIt's a script}
+create-a-node-here really 21.181 26 { pieced together from interviews by CBS News for a re-enactment, a dramatic rendering by an actor of Mr. Hoffman's ultimately unsuccessful struggle with depression.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5021
+autolink_nodes 5020 5021 satelite elaboration-additional  5022
+create-a-node-here really 23.95 27 { \n\nThe segment is soon to be broadcast on the CBS News series "Saturday Night With Connie Chung," }
+create-a-node-here really 23.176 28 {thus further blurring the distinction between fiction and reality in TV news.}
+nextSentence really
+autolink_nodes 27 28 nucleus consequence-n  5023
+create-a-node-here really 24.44 29 {\nIt is the New Journalism come to television.}
+nextSentence really
+autolink_nodes 5023 29 satelite restatement  5024
+collapsed_nodes {5010 5013 5018}
+autolink_nodes 5020 5019 satelite antithesis below 5025
+autolink_nodes 27 5022 satelite background  5026
+create-a-node-here really 26.57 30 { \n\nMs. Chung's program is just one of several network shows }
+create-a-node-here really 26.91 31 {(and many more in syndication)}
+create-a-node-here really 26.137 32 { that rely on the controversial technique }
+create-a-node-here really 26.166 33 {of reconstructing events,}
+create-a-node-here really 26.184 34 { using actors }
+create-a-node-here really 26.246 35 {who are supposed to resemble real people, living and dead.}
+nextSentence really
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5027
+autolink_nodes 30 31 satelite-embedded elaboration-additional-e  5028
+autolink_nodes 5028 32 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5030
+#autolink_nodes 5030 5027 satelite-embedded elaboration-object-attribute-e  5031
+#UNDID
+autolink_nodes 33 5027 satelite means  5031
+create-a-node-here really 27.77 36 {\nMs. Chung's, however, is said to be the only network news program in history }
+create-a-node-here really 27.109 37 {to employ casting directors.}
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5032
+autolink_nodes 5029 5032 satelite elaboration-additional  5033
+create-a-node-here really 29.74 38 { \n\nAbbie Hoffman in this case is to be played by Hollywood actor Paul Lieber,}
+create-a-node-here really 29.110 39 { who isn't new to the character.}
+nextSentence really
+autolink_nodes 38 39 satelite-embedded elaboration-additional-e  5034
+create-a-node-here really 30.62 40 {\nHe was Mr. Hoffman in a 1979 Los Angeles production of a play }
+create-a-node-here really 30.104 41 {called "The Chicago Conspiracy Trial."}
+nextSentence really
+autolink_nodes 40 41 satelite-embedded elaboration-object-attribute-e  5035
+#autolink_nodes 5034 5035 satelite explanation-argumentative  5036
+#UNDID
+autolink_nodes 5034 5035 satelite elaboration-additional  5036
+collapsed_nodes {5010 5013 5018 5032}
+autolink_nodes 5033 5036 satelite elaboration-additional  5037
+autolink_nodes 5024 5037 satelite elaboration-additional  5038
+create-a-node-here really 32.58 42 { \n\nTelevision news, of course, has always been part show-biz.}
+create-a-node-here really 33.53 43 {\nBroadcasters have a healthy appreciation of the role }
+create-a-node-here really 33.110 44 {entertainment values play in captivating an audience.}
+nextSentence really
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 42 5039 satelite explanation-argumentative  5040
+create-a-node-here really 34.4 45 {\nBut,}
+create-a-node-here really 34.66 46 { as CBS Broadcast Group president Howard Stringer puts it,}
+create-a-node-here really 34.143 47 { the network now needs to "broaden the horizons of nonfiction television,}
+create-a-node-here really 34.188 48 { and that includes some experimentation."}
+nextSentence really
+autolink_nodes 45 46 satelite-embedded attribution-e  5041
+autolink_nodes 5041 47 multinuclear Same-Unit  5042
+autolink_nodes 47 48 satelite interpretation-s  5043
+autolink_nodes 5042 5040 satelite background  5044
+create-a-node-here really 36.38 49 { \n\nSince its premiere Sept. 16, the show }
+create-a-node-here really 36.68 50 {on which Ms. Chung appears}
+create-a-node-here really 36.186 51 { has used an actor to portray the Rev. Vernon Johns, a civil-rights leader, and one to play a teenage drug dealer.}
+nextSentence really
+autolink_nodes 49 50 satelite-embedded elaboration-object-attribute-e  5045
+autolink_nodes 5045 51 multinuclear Same-Unit  5046
+create-a-node-here really 37.85 52 {\nIt has depicted the bombing of Pan Am flight 103 over the Scottish town of Lockerbie.}
+nextSentence really
+create-a-node-here really 38.115 53 {\nOn Oct. 21, it did a rendition of the kidnapping and imprisonment of Associated Press correspondent Terry Anderson,}
+create-a-node-here really 38.150 54 { who was abducted in March 1985}
+create-a-node-here really 38.193 55 { and is believed to be held in Lebanon.}
+nextSentence really
+autolink_nodes 54 55 multinuclear List  5047
+autolink_nodes 53 5047 satelite-embedded elaboration-object-attribute-e  5048
+#create-a-node-here really 39.25 56 {\nThe production had actors}
+#create-a-node-here really 39.136 57 { playing Mr. Anderson and former hostages David Jacobsen, the Rev. Benjamin Weir and Father Lawrence Jenco.}
+#nextSentence really
+#autolink_nodes 56 57 satelite-embedded elaboration-object-attribute-e  5049
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 39.132 56 {\nThe production had actors playing Mr. Anderson and former hostages David Jacobsen, the Rev. Benjamin Weir and Father Lawrence Jenco.}
+#UNDID
+create-a-node-here really 39.25 56 {\nThe production had actors}
+create-a-node-here really 39.136 57 { playing Mr. Anderson and former hostages David Jacobsen, the Rev. Benjamin Weir and Father Lawrence Jenco.}
+autolink_nodes 56 57 satelite-embedded elaboration-object-attribute-e  5049
+autolink_nodes 5048 5049 satelite elaboration-additional  5050
+autolink_nodes 52 5050 multinuclear List  5051
+autolink_nodes 5051 5046 multinuclear List below 5051
+autolink_nodes 5044 5051 satelite example  5052
+create-a-node-here really 41.65 58 { \n\nABC News has similarly branched out into entertainment gimmickry.}
+nextSentence really
+create-a-node-here really 41.112 59 { "Prime Time Live," a new show this season }
+create-a-node-here really 41.157 60 {featuring Sam Donaldson and Diane Sawyer,}
+create-a-node-here really 41.184 61 { has a studio audience }
+create-a-node-here really 41.202 62 {that applauds }
+create-a-node-here really 41.224 63 {and that one night}
+create-a-node-here really 41.266 64 { (to the embarrassment of the network)}
+create-a-node-here really 41.329 65 { waved at the camera like the crowd on "Let's Make a Deal."}
+nextSentence really
+#autolink_nodes 63 64 satelite-embedded elaboration-additional-e  5053
+#autolink_nodes 65 5053 multinuclear Same-Unit  5054
+#UNDID
+#UNDID
+autolink_nodes 64 65 nucleus-embedded consequence-s-e  5053
+autolink_nodes 63 5053 multinuclear Same-Unit  5054
+autolink_nodes 61 62 satelite-embedded elaboration-object-attribute-e  5055
+autolink_nodes 5055 5054 multinuclear List  5056
+#autolink_nodes 59 60 satelite-embedded elaboration-additional-e  5057
+#autolink_nodes 5057 5056 multinuclear Same-Unit  5058
+#UNDID
+#UNDID
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5057
+#autolink_nodes 5057 5056 multinuclear Same-Unit  5058
+#UNDID
+disconnect_node 5055 disconnect
+autolink_nodes 62 5054 multinuclear List  5058
+autolink_nodes 5057 5055 multinuclear Same-Unit  5059
+#autolink_nodes 58 5059 satelite elaboration-additional  5060
+#UNDID
+autolink_nodes 58 5059 satelite example  5060
+create-a-node-here really 41.391 66 { (ABC stops short of using an "applause" sign and a comic }
+create-a-node-here really 41.419 67 {to warm up the audience.}
+#autolink_nodes 66 67 satelite-embedded elaboration-object-attribute-e  5061
+#create-a-node-here really 42.29 68 {\nThe stars do that themselves.}
+#nextSentence really
+#UNDID
+#UNDID
+#nextSentence really
+#create-a-node-here really 42.30 68 {\nThe stars do that themselves.)}
+#autolink_nodes 5061 68 satelite elaboration-additional  5062
+#disconnect_node 67 modify
+#autolink_nodes 5060 67 satelite elaboration-additional  5063
+#create-a-node-here really 42.96 69 { NBC News has produced three episodes of an occasional series }
+#create-a-node-here really 42.123 70 {produced by Sid Feders }
+#create-a-node-here really 42.166 71 {called "Yesterday, Today and Tomorrow,"}
+#create-a-node-here really 42.237 72 { starring Maria Shriver, Chuck Scarborough and Mary Alice Williams,}
+#create-a-node-here really 42.273 73 { that also gives work to actors.}
+#nextSentence really
+#autolink_nodes 69 70 satelite-embedded elaboration-object-attribute-e  5064
+#autolink_nodes 5064 71 satelite-embedded elaboration-object-attribute-e  5065
+#autolink_nodes 5065 72 satelite-embedded elaboration-object-attribute-e  5066
+#autolink_nodes 5066 73 satelite-embedded elaboration-object-attribute-e  5067
+#disconnect_node 72 modify
+#autolink_nodes 5065 72 satelite-embedded elaboration-additional-e  5068
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 5065 72 satelite-embedded elaboration-additional-e  5066
+#autolink_nodes 5066 73 satelite-embedded elaboration-object-attribute-e  5067
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 66 67 satelite-embedded purpose-e  5061
+#create-a-node-here really 42.29 68 {\nThe stars do that themselves.}
+#nextSentence really
+#autolink_nodes 5061 68 satelite elaboration-additional  5062
+#autolink_nodes 5060 5062 satelite elaboration-additional  5063
+#create-a-node-here really 42.95 69 {) NBC News has produced three episodes of an occasional series}
+#create-a-node-here really 42.122 70 { produced by Sid Feders}
+#create-a-node-here really 42.167 71 { called "Yesterday, Today and Tomorrow," }
+#create-a-node-here really 42.237 72 {starring Maria Shriver, Chuck Scarborough and Mary Alice Williams,}
+#create-a-node-here really 42.273 73 { that also gives work to actors.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+nextSentence really
+create-a-node-here really 42.30 68 {\nThe stars do that themselves.)}
+autolink_nodes 5061 68 satelite elaboration-additional  5062
+autolink_nodes 5060 5062 satelite elaboration-additional  5063
+create-a-node-here really 42.95 69 { NBC News has produced three episodes of an occasional series}
+create-a-node-here really 42.122 70 { produced by Sid Feders}
+create-a-node-here really 42.166 71 { called "Yesterday, Today and Tomorrow,"}
+create-a-node-here really 42.237 72 { starring Maria Shriver, Chuck Scarborough and Mary Alice Williams,}
+create-a-node-here really 42.273 73 { that also gives work to actors.}
+nextSentence really
+#autolink_nodes 72 73 satelite-embedded elaboration-object-attribute-e  5064
+#UNDID
+#autolink_nodes 69 70 satelite-embedded elaboration-object-attribute-e  5064
+#UNDID
+autolink_nodes 69 70 satelite-embedded elaboration-object-attribute-e  5064
+autolink_nodes 5064 71 satelite-embedded elaboration-object-attribute-e  5065
+autolink_nodes 5065 72 satelite-embedded elaboration-additional-e  5066
+autolink_nodes 5066 73 satelite-embedded elaboration-object-attribute-e  5067
+collapsed_nodes {5010 5013 5018 5032 5059}
+autolink_nodes 5063 5067 multinuclear Comparison  5068
+collapsed_nodes {5010 5013 5018 5032 5059 5051}
+#autolink_nodes 5052 5068 satelite elaboration-additional  5069
+#UNDID
+autolink_nodes 5052 5068 satelite comparison  5069
+create-a-node-here really 44.14 74 { \n\nCall it a fad.}
+create-a-node-here really 45.34 75 {\nOr call it the wave of the future.}
+nextSentence really
+autolink_nodes 74 75 multinuclear Contrast  5070
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068}
+autolink_nodes 5069 5070 satelite interpretation-s  5071
+create-a-node-here really 47.63 76 { \n\nNBC's re-creations are produced by Cosgrove-Meurer Productions,}
+create-a-node-here really 47.157 77 { which also makes the successful prime-time NBC Entertainment series "Unsolved Mysteries."}
+nextSentence really
+autolink_nodes 76 77 satelite-embedded elaboration-object-attribute-e  5072
+create-a-node-here really 49.94 78 { \n\nThe marriage of news and theater, if not exactly inevitable, has been consummated nonetheless.}
+nextSentence really
+autolink_nodes 5072 78 nucleus example  5073
+create-a-node-here really 50.14 79 {\nNews programs,}
+create-a-node-here really 50.66 80 { particularly if they score well in the ratings,}
+create-a-node-here really 50.127 81 { appeal to the networks' cost-conscious corporate parents}
+create-a-node-here really 50.183 82 { because they are so much less expensive to produce }
+create-a-node-here really 50.216 83 {than an entertainment show is}
+create-a-node-here really 50.287 84 { -- somewhere between $400,000 and $500,000 for a one-hour program.}
+nextSentence really
+autolink_nodes 82 83 satelite comparison  5074
+#autolink_nodes 5074 84 satelite-embedded elaboration-object-attribute-e  5075
+#autolink_nodes 81 80 satelite-embedded condition-e  5076
+#autolink_nodes 5076 79 multinuclear Same-Unit  5077
+#autolink_nodes 5077 5075 satelite explanation-argumentative  5078
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 5074 84 satelite-embedded elaboration-additional-e  5075
+#autolink_nodes 81 80 satelite-embedded condition-e  5076
+#autolink_nodes 5076 79 multinuclear Same-Unit  5077
+#autolink_nodes 5077 5075 satelite explanation-argumentative  5078
+#disconnect_node 84 modify
+#autolink_nodes 5074 84 satelite elaboration-additional  5079
+#UNDID
+#autolink_nodes 5074 84 satelite elaboration-additional  5079
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5074 84 satelite elaboration-additional  5075
+autolink_nodes 81 80 satelite-embedded condition-e  5076
+autolink_nodes 5076 79 multinuclear Same-Unit  5077
+autolink_nodes 5077 5075 satelite explanation-argumentative  5078
+create-a-node-here really 51.44 85 {\nEntertainment shows tend to cost twice that.}
+autolink_nodes 5078 85 multinuclear Comparison  5079
+autolink_nodes 5073 5079 satelite circumstance  5080
+create-a-node-here really 52.122 86 {\nRe-enactments have been used successfully for several seasons on such syndicated "tabloid TV" shows as "A Current Affair,"}
+create-a-node-here really 52.208 87 { which is produced by the Fox Broadcasting Co. unit of Rupert Murdoch's News Corp.}
+autolink_nodes 86 87 satelite-embedded elaboration-additional-e  5081
+create-a-node-here really 53.10 88 {\nThat show,}
+create-a-node-here really 53.63 89 { whose host is Ms. Chung's husband, Maury Povich,}
+create-a-node-here really 53.124 90 { has a particular penchant for grisly murders and stories}
+create-a-node-here really 53.151 91 { having to do with sex }
+create-a-node-here really 53.210 92 {-- the Robert Chambers murder case, the Rob Lowe tapes,}
+create-a-node-here really 53.229 93 { what have you.}
+nextSentence really
+autolink_nodes 92 93 satelite comment  5082
+autolink_nodes 88 89 satelite-embedded elaboration-additional-e  5083
+autolink_nodes 90 5083 multinuclear Same-Unit  5084
+autolink_nodes 90 91 satelite-embedded elaboration-object-attribute-e  5085
+#autolink_nodes 5084 5082 satelite-embedded elaboration-additional-e  5086
+#UNDID
+#autolink_nodes 5084 5082 satelite elaboration-additional  5086
+#UNDID
+autolink_nodes 5085 5082 satelite-embedded elaboration-additional-e  5086
+autolink_nodes 5081 5084 satelite elaboration-additional  5087
+create-a-node-here really 55.65 94 { \n\nGerald Stone, the executive producer of "A Current Affair," says,}
+create-a-node-here really 55.176 95 { "We have opened eyes to being a little less conservative and more imaginative in how to present the news."}
+autolink_nodes 94 95 nucleus attribution  5088
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084}
+autolink_nodes 5087 5088 nucleus evaluation-n  5089
+create-a-node-here really 57.53 96 { \n\nNowhere have eyes been opened wider than at CBS News.}
+nextSentence really
+create-a-node-here really 58.162 97 {\nAt 555 W. 57th St. in Manhattan, one floor below the offices of "60 Minutes," the most successful prime-time news program ever, actors wait in the reception area }
+create-a-node-here really 58.217 98 {to audition for "Saturday Night With Connie Chung."}
+nextSentence really
+autolink_nodes 97 98 satelite purpose  5090
+create-a-node-here really 60.33 99 { \n\nCBS News sends scripts to agents,}
+create-a-node-here really 60.69 100 { who pass them along to clients.}
+nextSentence really
+autolink_nodes 99 100 satelite-embedded elaboration-object-attribute-e  5091
+create-a-node-here really 61.38 101 {\nThe network deals a lot with unknowns,}
+create-a-node-here really 61.70 102 { including Scott Wentworth,}
+#create-a-node-here really 61.135 103 { who portrayed Mr. Anderson, and Bill Alton as Father Jenco,}
+#create-a-node-here really 61.197 104 { but the network has some big names to contend with, too.}
+#nextSentence really
+#autolink_nodes 102 103 satelite-embedded elaboration-object-attribute-e  5092
+#autolink_nodes 101 5092 satelite-embedded example-e  5093
+#UNDID
+#autolink_nodes 101 5092 satelite example  5093
+#autolink_nodes 104 5093 multinuclear Contrast  5094
+#autolink_nodes 5091 5094 multinuclear List  5095
+#autolink_nodes 5095 5090 multinuclear List below 5095
+#autolink_nodes 96 5095 satelite evidence  5096
+#disconnect_node 5092 modify
+#autolink_nodes 101 5092 satelite-embedded example-e  5097
+#create-a-node-here really 62.52 105 {\nJames Earl Jones is cast to play the Rev. Mr. Johns.}
+#create-a-node-here really 63.113 106 {\nNed Beatty may portray former California Gov. Pat Brown in a forthcoming epsiode on Caryl Chessman, the last man }
+#create-a-node-here really 63.156 107 {to be executed in California, in 1960.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 61.103 103 { who portrayed Mr. Anderson,}
+create-a-node-here really 61.140 104 { and Bill Alton as Father Jenco,}
+create-a-node-here really 61.202 105 { but the network has some big names to contend with, too.}
+autolink_nodes 102 103 satelite-embedded elaboration-object-attribute-e  5092
+autolink_nodes 104 5092 multinuclear Same-Unit  5093
+autolink_nodes 101 5093 satelite-embedded example-e  5094
+autolink_nodes 5094 105 multinuclear Contrast  5095
+create-a-node-here really 62.52 106 {\nJames Earl Jones is cast to play the Rev. Mr. Johns.}
+nextSentence really
+autolink_nodes 105 106 satelite example  5096
+create-a-node-here really 63.112 107 {\nNed Beatty may portray former California Gov. Pat Brown in a forthcoming epsiode on Caryl Chessman, the last man}
+create-a-node-here really 63.156 108 { to be executed in California, in 1960.}
+nextSentence really
+autolink_nodes 107 108 satelite-embedded elaboration-object-attribute-e  5097
+autolink_nodes 106 5097 multinuclear List  5098
+autolink_nodes 5091 5095 multinuclear List  5099
+autolink_nodes 5099 5090 multinuclear List below 5099
+autolink_nodes 96 5099 satelite example  5100
+disconnect_node 5099 modify
+autolink_nodes 96 5099 satelite evidence  5101
+create-a-node-here really 65.60 109 { \n\n"Saturday Night" has cast actors to appear in future stories}
+create-a-node-here really 65.141 110 { ranging from the abortion rights of teen-agers to a Nov. 4 segment on a man}
+create-a-node-here really 65.167 111 { named Willie Bosket,}
+create-a-node-here really 65.203 112 { who calls himself a "monster" }
+create-a-node-here really 65.263 113 {and is reputed to be the toughest prisoner in New York.}
+nextSentence really
+autolink_nodes 112 113 multinuclear List  5102
+autolink_nodes 111 5102 satelite-embedded elaboration-object-attribute-e  5103
+autolink_nodes 110 5103 satelite-embedded elaboration-object-attribute-e  5104
+autolink_nodes 109 5104 satelite-embedded elaboration-general-specific-e  5105
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099}
+autolink_nodes 5101 5105 satelite evidence  5106
+disconnect_node 5105 modify
+autolink_nodes 5101 5105 satelite example  5107
+create-a-node-here really 67.9 114 { \n\nCBS News,}
+create-a-node-here really 67.101 115 { which as recently as two years ago fired hundreds of its employees in budget cutbacks,}
+create-a-node-here really 67.133 116 { now hires featured actors }
+create-a-node-here really 67.165 117 {beginning at $2,700 a week.}
+nextSentence really
+#autolink_nodes 116 117 satelite elaboration-additional  5108
+#UNDID
+#autolink_nodes 116 117 satelite elaboration-additional  5108
+#autolink_nodes 114 115 satelite-embedded elaboration-object-attribute-e  5109
+#autolink_nodes 5109 5108 multinuclear Same-Unit  5110
+#disconnect_node 117 modify
+#autolink_nodes 116 117 satelite-embedded elaboration-additional-e  5111
+#create-a-node-here really 68.16 118 {\nThat isn't much }
+#create-a-node-here really 68.57 119 {compared with what Bill Cosby makes,}
+#create-a-node-here really 68.100 120 { or even Connie Chung for that matter }
+#create-a-node-here really 68.138 121 {(who is paid $1.6 million a year }
+#create-a-node-here really 68.218 122 {and who recently did a guest shot of her own on the sitcom "Murphy Brown").}
+#autolink_nodes 121 122 multinuclear List  5112
+#autolink_nodes 120 5112 satelite-embedded elaboration-object-attribute-e  5113
+#autolink_nodes 119 5113 multinuclear List  5114
+#autolink_nodes 118 5114 satelite comparison  5115
+#create-a-node-here really 69.68 123 {\nBut the money isn't peanuts either, particularly for a news program.}
+#nextSentence really
+#autolink_nodes 5115 123 multinuclear Contrast  5116
+#disconnect_node 117 modify
+#UNDID
+#autolink_nodes 117 5116 satelite evaluation-s  5117
+#UNDID
+#disconnect_node 117 modify
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 116 117 satelite-embedded elaboration-object-attribute-e  5108
+#autolink_nodes 114 115 satelite-embedded elaboration-object-attribute-e  5109
+#autolink_nodes 5108 5109 multinuclear Same-Unit  5110
+#UNDID
+#UNDID
+autolink_nodes 114 115 satelite-embedded elaboration-additional-e  5109
+autolink_nodes 5108 5109 multinuclear Same-Unit  5110
+create-a-node-here really 68.16 118 {\nThat isn't much }
+create-a-node-here really 68.57 119 {compared with what Bill Cosby makes,}
+create-a-node-here really 68.100 120 { or even Connie Chung for that matter }
+create-a-node-here really 68.137 121 {(who is paid $1.6 million a year}
+create-a-node-here really 68.218 122 { and who recently did a guest shot of her own on the sitcom "Murphy Brown").}
+autolink_nodes 121 122 multinuclear List  5111
+autolink_nodes 120 5111 satelite-embedded elaboration-additional-e  5112
+autolink_nodes 119 5112 multinuclear List  5113
+autolink_nodes 118 5113 satelite comparison  5114
+create-a-node-here really 69.68 123 {\nBut the money isn't peanuts either, particularly for a news program.}
+nextSentence really
+autolink_nodes 123 5114 multinuclear Contrast  5115
+autolink_nodes 5110 5115 satelite evaluation-s  5116
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099 5105}
+autolink_nodes 5107 5116 satelite elaboration-additional  5117
+nextSentence really
+create-a-node-here really 71.138 124 { \n\nCBS News is also re-enacting the 1979 Three Mile Island nuclear accident in Middletown, Pa., with something less than a cast of thousands.}
+nextSentence really
+create-a-node-here really 72.54 125 {\nIt is combing the town of 10,000 for about 200 extras.}
+nextSentence really
+create-a-node-here really 73.142 126 {\nOn Oct. 20, the town's mayor, Robert Reid, made an announcement on behalf of CBS during half-time at the Middletown High School football game }
+create-a-node-here really 73.169 127 {asking for volunteers.}
+nextSentence really
+autolink_nodes 126 127 satelite-embedded elaboration-object-attribute-e  5118
+autolink_nodes 125 5118 satelite elaboration-additional  5119
+create-a-node-here really 75.50 128 { \n\n"There was a roll of laughter through the stands,"}
+create-a-node-here really 75.129 129 { says Joe Sukle, the editor of the weekly Press and Journal in Middletown.}
+nextSentence really
+autolink_nodes 128 129 satelite attribution  5120
+autolink_nodes 5118 5120 multinuclear Statement-Response  5121
+autolink_nodes 124 5119 satelite elaboration-additional  5122
+create-a-node-here really 75.190 130 { "They're filming right now at the bank down the street,}
+create-a-node-here really 75.226 131 { and they want shots of people }
+create-a-node-here really 75.251 132 {getting out of cars }
+create-a-node-here really 75.280 133 {and kids on skateboards.}
+nextSentence really
+autolink_nodes 131 132 satelite-embedded elaboration-object-attribute-e  5123
+autolink_nodes 133 5123 multinuclear Same-Unit  5124
+autolink_nodes 130 5124 multinuclear List  5125
+create-a-node-here really 76.43 134 {\nThey are approaching everyone on the street}
+create-a-node-here really 76.60 135 { and asking }
+create-a-node-here really 76.100 136 {if they want to be in a docudrama."}
+nextSentence really
+autolink_nodes 135 136 nucleus attribution  5126
+autolink_nodes 134 5126 multinuclear List  5127
+create-a-node-here really 78.14 137 { \n\nMr. Sukle says}
+create-a-node-here really 78.63 138 { he wouldn't dream of participating himself:}
+create-a-node-here really 78.77 139 { "No way.}
+nextSentence really
+create-a-node-here really 79.7 140 {\nI think}
+create-a-node-here really 79.34 141 { re-enactments stink."}
+nextSentence really
+autolink_nodes 140 141 nucleus attribution  5128
+autolink_nodes 138 139 satelite restatement  5129
+#autolink_nodes 5129 5128 satelite evaluation-s  5130
+#UNDID
+autolink_nodes 5129 5128 satelite reason  5130
+autolink_nodes 137 5130 nucleus attribution  5131
+autolink_nodes 5131 5127 multinuclear Question-Answer  5132
+autolink_nodes 5125 5132 satelite elaboration-additional  5133
+autolink_nodes 5122 5133 satelite elaboration-additional  5134
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099 5105 5116}
+autolink_nodes 5117 5134 satelite elaboration-additional  5135
+autolink_nodes 5089 5135 satelite elaboration-additional  5136
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099 5105 5116 5079}
+autolink_nodes 5080 5136 satelite elaboration-additional  5137
+autolink_nodes 5071 5137 satelite elaboration-additional  5138
+create-a-node-here really 81.42 142 { \n\nThough a re-enactment may have the flavor,}
+create-a-node-here really 81.81 143 { Hollywood on the Hudson it isn't.}
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099 5105 5116 5079 5137}
+autolink_nodes 142 143 nucleus evaluation-n  5139
+create-a-node-here really 82.66 144 {\nSome producers seem tentative about the technique, squeamish even.}
+nextSentence really
+autolink_nodes 5139 144 satelite elaboration-additional  5140
+create-a-node-here really 83.89 145 {\nSo the results, while not news, aren't exactly theater either, at least not good theater.}
+nextSentence really
+autolink_nodes 5140 145 satelite consequence-s  5141
+create-a-node-here really 84.24 146 {\nAnd some people do think}
+create-a-node-here really 84.79 147 { that acting out scripts isn't worthy of CBS News,}
+create-a-node-here really 84.124 148 { which once lent prestige to the network}
+create-a-node-here really 84.165 149 { and set standards for the industry.}
+nextSentence really
+autolink_nodes 148 149 multinuclear List  5142
+autolink_nodes 147 5142 satelite-embedded elaboration-object-attribute-e  5143
+autolink_nodes 146 5143 nucleus attribution  5144
+autolink_nodes 5141 5144 satelite evaluation-s  5145
+create-a-node-here really 86.141 150 { \n\nIn his review of "Saturday Night With Connie Chung," Tom Shales, the TV critic of the Washington Post and generally an admirer of CBS, wrote }
+nextSentence really
+nextSentence really
+nextSentence really
+#create-a-node-here really 86.188 151 {that while the show is "impressive, . . . }
+#create-a-node-here really 86.211 152 {one has to wonder }
+#create-a-node-here really 86.248 153 {if this is the proper direction }
+#create-a-node-here really 86.290 154 {for a network news division to take."}
+#nextSentence really
+#autolink_nodes 153 154 satelite-embedded elaboration-object-attribute-e  5146
+#autolink_nodes 152 5146 nucleus attribution  5147
+#autolink_nodes 151 5147 nucleus antithesis  5148
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 86.151 151 {that }
+create-a-node-here really 86.193 152 {while the show is "impressive, . . . }
+create-a-node-here really 86.216 153 {one has to wonder }
+#create-a-node-here really 86.253 154 {if this is the proper direction }
+#create-a-node-here really 86.296 155 {for a network news division to take." }
+#UNDID
+#UNDID
+create-a-node-here really 86.280 154 {if this is the proper direction for a network news division}
+create-a-node-here really 86.296 155 { to take." }
+autolink_nodes 154 155 satelite-embedded elaboration-object-attribute-e  5146
+autolink_nodes 153 5146 nucleus attribution  5147
+autolink_nodes 5147 152 satelite-embedded antithesis-e  5148
+autolink_nodes 151 5148 multinuclear Same-Unit  5149
+autolink_nodes 150 5149 nucleus attribution  5150
+autolink_nodes 5144 5150 satelite example  5151
+create-a-node-here really 88.63 156 {\n\nRe-creating events has, in general, upset news traditionalists,}
+create-a-node-here really 88.296 157 { including former CBS News President Richard S. Salant and former NBC News President Reuven Frank, former CBS News anchorman Walter Cronkite and the new dean of the Columbia University Graduate School of Journalism, Joan Konner.}
+nextSentence really
+#autolink_nodes 156 157 satelite example  5152
+#UNDID
+autolink_nodes 156 157 satelite-embedded example-e  5152
+create-a-node-here really 89.9 158 {\nSays she:}
+create-a-node-here really 89.44 159 { "Once you add dramatizations,}
+#create-a-node-here really 89.82 160 { it's no longer news, it's drama,}
+#nextSentence really
+#nextSentence really
+#nextSentence really
+#create-a-node-here really 89.144 161 { and that has no place on a network news broadcast. . . .}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 89.70 160 { it's no longer news,}
+create-a-node-here really 89.87 161 { it's drama,}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 89.149 162 { and that has no place on a network news broadcast. . . .}
+autolink_nodes 160 159 satelite condition  5153
+autolink_nodes 5153 161 satelite interpretation-s  5154
+autolink_nodes 5154 162 nucleus evaluation-n  5155
+create-a-node-here really 89.179 163 { They should never be on.}
+nextSentence really
+create-a-node-here really 90.7 164 {\nNever."}
+nextSentence really
+autolink_nodes 5155 163 satelite elaboration-additional  5156
+autolink_nodes 163 164 satelite restatement  5157
+autolink_nodes 5156 158 satelite attribution  5158
+autolink_nodes 5152 5158 satelite example  5159
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099 5105 5116 5079 5137 5151}
+autolink_nodes 5145 5159 satelite elaboration-additional  5160
+create-a-node-here really 92.77 165 { \n\nCriticism of the Abbie Hoffman segment is particularly scathing among people }
+create-a-node-here really 92.109 166 {who knew and loved the man.}
+nextSentence really
+autolink_nodes 165 166 satelite-embedded elaboration-object-attribute-e  5161
+create-a-node-here really 93.94 167 {\nThat includes his companion of 15 years, Johanna Lawrenson, as well as his former wife, Anita.}
+nextSentence really
+create-a-node-here really 94.14 168 {\nBoth women say}
+create-a-node-here really 94.49 169 { they also find it distasteful}
+create-a-node-here really 94.145 170 { that CBS News is apparently concentrating on Mr. Hoffman's problems as a manic-depressive.}
+nextSentence really
+autolink_nodes 169 170 nucleus attribution  5162
+autolink_nodes 168 5162 nucleus attribution  5163
+autolink_nodes 167 5163 satelite elaboration-additional  5164
+create-a-node-here really 96.18 171 { \n\n"This is dangerous}
+create-a-node-here really 96.57 172 { and misrepresents Abbie's life," }
+create-a-node-here really 96.81 173 {says Ms. Lawrenson,}
+create-a-node-here really 96.137 174 { who has had an advance look at the 36-page script.}
+nextSentence really
+autolink_nodes 173 174 satelite-embedded elaboration-object-attribute-e  5165
+autolink_nodes 171 172 multinuclear List  5166
+autolink_nodes 5166 5165 satelite attribution  5167
+create-a-node-here really 96.183 175 { "It's a sensational piece about someone }
+create-a-node-here really 96.204 176 {who is not here }
+create-a-node-here really 96.228 177 {to defend himself."}
+nextSentence really
+autolink_nodes 176 177 satelite purpose  5168
+autolink_nodes 175 5168 satelite-embedded elaboration-object-attribute-e  5169
+autolink_nodes 5167 5169 satelite elaboration-additional  5170
+autolink_nodes 5164 5170 satelite elaboration-additional  5171
+create-a-node-here really 98.17 178 { \n\nMrs. Hoffman says}
+create-a-node-here really 98.68 179 { that dramatization "makes the truth flexible.}
+nextSentence really
+autolink_nodes 178 179 nucleus attribution  5172
+create-a-node-here really 99.29 180 {\nIt takes one person's account}
+create-a-node-here really 99.62 181 { and gives it authenticity."}
+nextSentence really
+autolink_nodes 180 181 multinuclear List  5173
+autolink_nodes 5172 5173 satelite elaboration-additional  5174
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099 5105 5116 5079 5137 5151 5170}
+autolink_nodes 5171 5174 multinuclear List  5175
+autolink_nodes 5161 5175 satelite elaboration-general-specific  5176
+nextSentence really
+create-a-node-here really 101.118 182 { \n\nCBS News interviewed Jack Hoffman and his sister, Phyllis, as well as Mr. Hoffman's landlord in Solebury Township, Pa.}
+create-a-node-here really 102.22 183 {\nAlso Jonathan Silvers,}
+create-a-node-here really 102.75 184 { who collaborated with Mr. Hoffman on two books.}
+nextSentence really
+autolink_nodes 183 184 satelite-embedded elaboration-object-attribute-e  5177
+create-a-node-here really 104.17 185 { \n\nMr. Silvers says,}
+create-a-node-here really 104.51 186 { "I wanted to be interviewed }
+create-a-node-here really 104.81 187 {to get Abbie's story out,}
+create-a-node-here really 104.142 188 { and maybe talking about the illness will do some good."}
+nextSentence really
+disconnect_node 5175 disconnect
+disconnect_node 5174 modify
+autolink_nodes 5171 5174 satelite elaboration-additional  5178
+autolink_nodes 5161 5178 satelite example  5179
+autolink_nodes 186 187 satelite purpose  5180
+autolink_nodes 5180 188 satelite elaboration-additional  5181
+autolink_nodes 185 5181 nucleus attribution  5182
+autolink_nodes 5177 5182 satelite elaboration-additional  5183
+autolink_nodes 182 5183 satelite elaboration-additional  5184
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099 5105 5116 5079 5137 5151 5170 5178}
+autolink_nodes 5179 5184 satelite elaboration-additional  5185
+create-a-node-here really 106.150 189 { \n\nThe executive producer of "Saturday Night With Connie Chung," Andrew Lack, declines to discuss re-creactions as a practice or his show, in particular.}
+nextSentence really
+create-a-node-here really 106.186 190 { "I don't talk about my work," }
+create-a-node-here really 106.199 191 {he says.}
+nextSentence really
+autolink_nodes 190 191 satelite attribution  5186
+autolink_nodes 189 5186 satelite elaboration-additional  5187
+create-a-node-here really 107.82 192 {\nThe president of CBS News, David W. Burke, didn't return numerous telephone calls.}
+nextSentence really
+create-a-node-here really 109.37 193 { \n\nOne person close to the process says }
+create-a-node-here really 109.159 194 {it would not be in the best interest of CBS News to comment on a "work in progress," such as the Hoffman re-creation,}
+create-a-node-here really 109.174 195 { but says }
+create-a-node-here really 109.262 196 {CBS News is "aware" of the concerns of Ms. Lawrenson and Mr. Hoffman's former wife.}
+nextSentence really
+autolink_nodes 195 196 nucleus attribution  5188
+autolink_nodes 193 194 nucleus attribution  5189
+autolink_nodes 5189 5188 satelite elaboration-additional  5190
+create-a-node-here really 110.99 197 {\nNeither woman was invited by CBS News to participate in a round-table discussion about Mr. Hoffman }
+create-a-node-here really 110.139 198 {that is to follow the re-enactment.}
+nextSentence really
+#autolink_nodes 197 198 satelite-embedded elaboration-object-attribute-e  5191
+#UNDID
+#autolink_nodes 197 198 satelite-embedded elaboration-object-attribute-e  5191
+#UNDID
+autolink_nodes 197 198 satelite-embedded elaboration-object-attribute-e  5191
+#autolink_nodes 5188 5191 satelite elaboration-additional  5192
+#UNDID
+autolink_nodes 5188 5191 satelite antithesis  5192
+create-a-node-here really 112.21 199 { \n\nMr. Lieber, the actor}
+create-a-node-here really 112.49 200 { who plays Mr. Hoffman,}
+create-a-node-here really 112.60 201 { says }
+create-a-node-here really 112.91 202 {he was concerned at first }
+create-a-node-here really 112.162 203 {that the script would "misrepresent an astute political mind, one }
+create-a-node-here really 112.184 204 {that I admired," }
+create-a-node-here really 112.224 205 {but that his concerns were allayed.}
+autolink_nodes 203 204 satelite-embedded elaboration-object-attribute-e  5193
+#autolink_nodes 5193 205 nucleus antithesis  5194
+#UNDID
+autolink_nodes 202 5193 nucleus attribution  5194
+autolink_nodes 5194 205 nucleus antithesis  5195
+autolink_nodes 199 200 satelite-embedded elaboration-object-attribute-e  5196
+autolink_nodes 5196 201 satelite attribution  5197
+autolink_nodes 5195 5197 satelite attribution  5198
+create-a-node-here really 113.14 206 {\nThe producers,}
+create-a-node-here really 113.28 207 { he says,}
+create-a-node-here really 113.48 208 { did a good job}
+create-a-node-here really 113.75 209 { of depicting someone }
+create-a-node-here really 113.102 210 {"who had done so much,}
+create-a-node-here really 113.145 211 { but who was also a manic-depressive."}
+nextSentence really
+autolink_nodes 209 210 satelite-embedded elaboration-object-attribute-e  5199
+autolink_nodes 210 211 multinuclear Contrast  5200
+autolink_nodes 208 5199 satelite-embedded elaboration-object-attribute-e  5201
+autolink_nodes 206 207 satelite-embedded attribution-e  5202
+autolink_nodes 5201 5202 multinuclear Same-Unit  5203
+autolink_nodes 5198 5203 satelite explanation-argumentative  5204
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099 5105 5116 5079 5137 5151 5170 5178 5197}
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099 5105 5116 5079 5137 5151 5170 5178 5197 5192}
+autolink_nodes 5190 5204 multinuclear List  5205
+autolink_nodes 5205 192 multinuclear List below 5205
+autolink_nodes 5205 5187 multinuclear List below 5205
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099 5105 5116 5079 5137 5151 5170 5178 5197 5192 5184}
+autolink_nodes 5185 5205 multinuclear Contrast  5206
+collapsed_nodes {5010 5013 5018 5032 5059 5051 5068 5084 5099 5105 5116 5079 5137 5151 5170 5178 5197 5192 5184 5159}
+autolink_nodes 5160 5206 satelite elaboration-additional  5207
+autolink_nodes 5138 5207 multinuclear Contrast  5208
+#autolink_nodes 5038 5208 satelite topic-drift  5209
+#UNDID
+autolink_nodes 5038 5208 multinuclear Topic-Drift  5209
+collapsed_nodes {5032 5059 5051 5068 5084 5099 5105 5116 5079 5137 5151 5170 5178 5197 5192 5184 5159}
+collapsed_nodes {5059 5051 5068 5084 5099 5105 5116 5079 5137 5151 5170 5178 5197 5192 5184 5159}
+collapsed_nodes {5059 5068 5084 5099 5105 5116 5079 5137 5151 5170 5178 5197 5192 5184 5159}
+collapsed_nodes {5084 5099 5105 5116 5079 5137 5151 5170 5178 5197 5192 5184 5159}
+#disconnect_node 5037 disconnect
+#disconnect_node 5026 disconnect
+#autolink_nodes 5024 5026 nucleus consequence-s  5210
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 5038 disconnect
+disconnect_node 5037 disconnect
+disconnect_node 5026 disconnect
+autolink_nodes 28 5026 nucleus consequence-s  5210
+autolink_nodes 5024 5037 satelite elaboration-additional  5211
+autolink_nodes 5208 5211 multinuclear Topic-Drift above 5212
+collapsed_nodes {5151 5170 5178 5197 5192 5184 5159}
+collapsed_nodes {5170 5178 5197 5192 5184 5159}
+collapsed_nodes {5170 5178 5197 5192 5184}
+collapsed_nodes {5197 5192 5184}
+collapsed_nodes {5197 5192}
+collapsed_nodes {5197}
+collapsed_nodes {}
+disconnect_node 48 modify
+autolink_nodes 47 48 satelite elaboration-additional  5213

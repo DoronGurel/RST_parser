@@ -1,0 +1,224 @@
+nextSentence really
+create-a-node-here really 2.71 1 {\nMeasuring cups may soon be replaced by tablespoons in the laundry room.}
+nextSentence really
+create-a-node-here really 4.84 2 { \n\nProcter & Gamble Co. plans to begin testing next month a superconcentrated detergent}
+autolink_nodes 1 2 satelite elaboration-additional  5001
+create-a-node-here really 4.140 3 { that will require only a few spoonfuls per washload.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 6.27 4 { \n\nThe move stems from lessons}
+autolink_nodes 5002 4 satelite circumstance  5003
+create-a-node-here really 6.47 5 { learned in Japan}
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5004
+create-a-node-here really 6.130 6 { where local competitors have had phenomenal success with concentrated soapsuds.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 7.36 7 {\nIt also marks P&G's growing concern }
+autolink_nodes 5004 7 multinuclear List  5006
+create-a-node-here really 7.130 8 {that its Japanese rivals, such as Kao Corp., may bring their superconcentrates to the U.S. }
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5007
+create-a-node-here really 9.76 9 {\n\nThe Cincinnati consumer-products giant got clobbered two years ago in Japan }
+autolink_nodes 5006 9 satelite background  5008
+create-a-node-here really 9.120 10 {when Kao introduced a powerful detergent,}
+autolink_nodes 9 10 satelite circumstance  5009
+create-a-node-here really 9.140 11 { called Attack, }
+#autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5010
+#UNDID
+autolink_nodes 10 11 satelite-embedded elaboration-additional-e  5010
+create-a-node-here really 9.199 12 {which quickly won a 30% stake in the Japanese markets. }
+autolink_nodes 5010 12 multinuclear Same-Unit  5011
+create-a-node-here really 9.242 13 {"They don't want to get caught again," }
+autolink_nodes 5009 13 satelite explanation-argumentative  5012
+create-a-node-here really 9.272 14 {says one industry watcher.}
+nextSentence really
+autolink_nodes 13 14 satelite attribution  5013
+nextSentence really
+create-a-node-here really 11.33 15 { \n\nRetailers in Phoenix, Ariz., say }
+collapsed_nodes {5012}
+collapsed_nodes {5012 5008}
+autolink_nodes 5003 15 satelite elaboration-additional  5014
+create-a-node-here really 11.66 16 {P&G's new powdered detergent }
+autolink_nodes 15 16 nucleus attribution  5015
+create-a-node-here really 11.112 17 {-- to be called Cheer with Color Guard -- }
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e below 5016
+create-a-node-here really 11.168 18 {will be on shelves in that market by early November.}
+nextSentence really
+autolink_nodes 5016 18 multinuclear Same-Unit  5017
+create-a-node-here really 12.28 19 {\nA P&G spokeswoman confirmed }
+autolink_nodes 5015 19 satelite elaboration-additional  5018
+create-a-node-here really 12.82 20 {that shipments to Phoenix started late last month.}
+nextSentence really
+autolink_nodes 19 20 nucleus attribution  5019
+create-a-node-here really 13.9 21 {\nShe said }
+autolink_nodes 5019 21 satelite elaboration-additional  5020
+create-a-node-here really 13.60 22 {the company will study results from this market}
+autolink_nodes 21 22 nucleus attribution  5021
+create-a-node-here really 13.92 23 { before expanding to others.}
+nextSentence really
+autolink_nodes 22 23 nucleus circumstance  5022
+collapsed_nodes {5012 5008 5018}
+collapsed_nodes {5012 5008 5018 5003}
+create-a-node-here really 15.46 24 { \n\nSuperconcentrates aren't entirely new for P&G.}
+nextSentence really
+autolink_nodes 5014 24 satelite background  5023
+create-a-node-here really 16.63 25 {\nThe company introduced a superconcentrated Lemon Cheer in Japan}
+autolink_nodes 24 25 satelite explanation-argumentative  5024
+create-a-node-here really 16.105 26 { after watching the success of Attack.}
+nextSentence really
+autolink_nodes 25 26 satelite circumstance  5025
+change_rel 26 reason
+create-a-node-here really 17.37 27 {\nWhen Attack hit the shelves in 1987, }
+autolink_nodes 5024 27 satelite elaboration-additional  5026
+create-a-node-here really 17.112 28 {P&G's share of the Japanese market fell to about 8% from more than 20%.}
+nextSentence really
+autolink_nodes 27 28 nucleus result  5027
+create-a-node-here really 18.69 29 {\nWith the help of Lemon Cheer, P&G's share is now estimated to be 12%.}
+nextSentence really
+autolink_nodes 5027 29 satelite elaboration-additional  5028
+#create-a-node-here really 20.183 30 { \n\nWhile the Japanese have embraced the compact packaging and convenience of concentrated products, the true test for P&G will be in the $4 billion U.S. detergent market, where growth is}
+#autolink_nodes 5026 30 satelite elaboration-additional  5029
+#collapsed_nodes {5012 5008 5018 5003 5024}
+#UNDID
+#UNDID
+collapsed_nodes {5012 5008 5018 5003 25}
+create-a-node-here really 20.96 30 { \n\nWhile the Japanese have embraced the compact packaging and convenience of concentrated products,}
+autolink_nodes 5026 30 satelite elaboration-additional  5029
+collapsed_nodes {5012 5008 5018 5003 25 5024}
+create-a-node-here really 20.171 31 { the true test for P&G will be in the $4 billion U.S. detergent market,}
+autolink_nodes 30 31 nucleus antithesis  5030
+create-a-node-here really 20.197 32 { where growth is slow }
+autolink_nodes 31 32 satelite circumstance below 5031
+create-a-node-here really 21.0 33 {and liquids have gained prominence over powders.\n}
+autolink_nodes 32 33 multinuclear List  5032
+create-a-node-here really 21.75 34 {The company may have chosen to market the product under the Cheer name }
+autolink_nodes 5030 34 satelite elaboration-additional  5033
+create-a-node-here really 21.157 35 {since it's already expanded its best-selling Tide into 16 different varieties,}
+autolink_nodes 34 35 satelite reason  5034
+create-a-node-here really 21.210 36 { including this year's big hit, Tide with Bleach.}
+nextSentence really
+autolink_nodes 35 36 satelite example  5035
+create-a-node-here really 22.94 37 {\nWith superconcentrates, however, it isn't always easy to persuade consumers that less is more;}
+autolink_nodes 5034 37 nucleus concession  5036
+create-a-node-here really 22.169 38 { many people tend to dump too much detergent into the washing machine, }
+autolink_nodes 37 38 satelite explanation-argumentative below 5037
+create-a-node-here really 22.183 39 {believing }
+autolink_nodes 38 39 satelite reason  5038
+create-a-node-here really 22.245 40 {that it takes a cup of powder to really clean the laundry.}
+nextSentence really
+autolink_nodes 39 40 nucleus attribution  5039
+create-a-node-here really 24.97 41 { \n\nIn the early 1980s, P&G tried to launch here a concentrated detergent under the Ariel brand name }
+collapsed_nodes {5012 5008 5018 5003 25 5024 5037}
+autolink_nodes 5033 41 satelite elaboration-additional  5040
+create-a-node-here really 24.127 42 {that it markets in Europe.}
+nextSentence really
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5041
+create-a-node-here really 25.17 43 {\nBut the product, }
+autolink_nodes 5041 43 nucleus concession  5042
+create-a-node-here really 25.67 44 {which wasn't as concentrated as the new Cheer,}
+autolink_nodes 43 44 satelite-embedded elaboration-additional-e below 5043
+create-a-node-here really 25.106 45 { bombed in a market test in Denver }
+autolink_nodes 5043 45 multinuclear Same-Unit  5044
+create-a-node-here really 25.126 46 {and was dropped.}
+nextSentence really
+autolink_nodes 5044 46 multinuclear List above 5045
+create-a-node-here really 27.118 47 { \n\nP&G and others also have tried repeatedly to hook consumers on detergent and fabric softener combinations in pouches, }
+autolink_nodes 5042 47 satelite elaboration-additional  5046
+create-a-node-here really 27.150 48 {but they haven't sold well, }
+autolink_nodes 47 48 nucleus concession  5047
+create-a-node-here really 27.178 49 {despite the convenience.}
+nextSentence really
+autolink_nodes 48 49 satelite concession below 5048
+create-a-node-here really 29.17 50 { \n\nBut P&G contends }
+autolink_nodes 5047 50 satelite explanation-argumentative  5049
+create-a-node-here really 29.55 51 {the new Cheer is a unique formula }
+autolink_nodes 50 51 nucleus attribution  5050
+create-a-node-here really 29.90 52 {that also offers an ingredient }
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e below 5051
+create-a-node-here really 29.127 53 {that prevents colors from fading.}
+nextSentence really
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5052
+create-a-node-here really 30.51 54 {\nAnd retailers are expected to embrace the product, }
+autolink_nodes 5050 54 multinuclear List  5053
+create-a-node-here really 30.104 55 {in part because it will take up less shelf space.}
+nextSentence really
+autolink_nodes 54 55 satelite reason  5054
+create-a-node-here really 30.137 56 { "When shelf space was cheap,}
+autolink_nodes 5054 56 satelite explanation-argumentative  5055
+create-a-node-here really 30.162 57 { bigger was better," }
+autolink_nodes 56 57 nucleus circumstance  5056
+create-a-node-here really 30.214 58 {says Hugh Zurkuhlen, an analyst at Salomon Bros.}
+nextSentence really
+autolink_nodes 5056 58 satelite attribution  5057
+create-a-node-here really 31.24 59 {\nBut with so many brands }
+autolink_nodes 5057 59 nucleus concession  5058
+create-a-node-here really 31.45 60 {vying for space, }
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e below 5059
+create-a-node-here really 31.75 61 {that's no longer the case.}
+nextSentence really
+autolink_nodes 5059 61 multinuclear Same-Unit  5060
+create-a-node-here really 32.28 62 {\nIf the new Cheer sells well,}
+autolink_nodes 5058 62 satelite elaboration-additional  5061
+create-a-node-here really 32.91 63 { the trend toward smaller packaging is likely to accelerate}
+autolink_nodes 62 63 nucleus condition  5062
+create-a-node-here really 32.151 64 { as competitors follow with their own superconcentrates.}
+nextSentence really
+autolink_nodes 63 64 satelite circumstance below 5063
+create-a-node-here really 33.81 65 {\nThen retailers "will probably push the {less-established} brands out altogether,"}
+autolink_nodes 5062 65 nucleus circumstance  5064
+create-a-node-here really 33.95 66 { he says. }
+autolink_nodes 5064 66 satelite attribution  5065
+collapsed_nodes {5012 5008 5018 5003 25 5024 5037 5061}
+collapsed_nodes {5012 5008 5018 5003 25 5024 5037 5061 5053}
+collapsed_nodes {5012 5008 5018 5003 25 5024 5037 5061 5053 5046}
+collapsed_nodes {5012 5008 5018 5003 25 5024 5037 5061 5053 5046 5040}
+collapsed_nodes {5012 5008 5018 5003 25 5024 5037 5061 5053 5046 5040 5023}
+create-a-node-here really 35.35 67 {\n\nCompetition is bound to get tougher}
+autolink_nodes 5023 67 satelite elaboration-additional  5066
+create-a-node-here really 35.91 68 { if Kao introduces a product like Attack in the U.S.}
+autolink_nodes 67 68 satelite condition  5067
+create-a-node-here really 36.11 69 {\nTo be sure,}
+autolink_nodes 5067 69 satelite elaboration-additional  5068
+create-a-node-here really 36.47 70 { Kao wouldn't have an easy time }
+autolink_nodes 69 70 nucleus comment  5069
+create-a-node-here really 36.102 71 {taking U.S. market share away from the mighty P&G, }
+#autolink_nodes 70 71 satelite circumstance below 5070
+#UNDID
+collapsed_nodes {}
+autolink_nodes 70 71 satelite circumstance below 5070
+create-a-node-here really 36.140 72 {which has about 23% of the market.}
+nextSentence really
+autolink_nodes 71 72 satelite-embedded elaboration-additional-e  5071
+create-a-node-here really 38.35 73 { \n\nKao officials previously have said }
+autolink_nodes 5068 73 satelite explanation-argumentative  5072
+create-a-node-here really 38.94 74 {they are interested in selling detergents in the U.S., }
+autolink_nodes 73 74 nucleus attribution  5073
+create-a-node-here really 38.233 75 {but so far the company has focused on acquisitions, such as last year's purchase of Andrew Jergens Co., a Cincinnati hand-lotion maker.}
+nextSentence really
+autolink_nodes 74 75 nucleus antithesis  5074
+create-a-node-here really 39.53 76 {\nIt also has a product-testing facility in California.}
+nextSentence really
+autolink_nodes 5074 76 satelite elaboration-additional above 5074
+collapsed_nodes {5073}
+collapsed_nodes {5073 5072}
+collapsed_nodes {5073 5072 5008}
+collapsed_nodes {5073 5072 5008 5020}
+collapsed_nodes {5073 5072 5008 5020}
+collapsed_nodes {5008 5020}
+create-a-node-here really 41.13 77 { \n\nSome believe }
+autolink_nodes 5072 77 satelite explanation-argumentative  5075
+create-a-node-here really 41.106 78 {P&G's interest in a superconcentrated detergent goes beyond the concern for the Japanese.}
+nextSentence really
+autolink_nodes 77 78 nucleus attribution  5076
+create-a-node-here really 41.130 79 { "This is something }
+autolink_nodes 5076 79 satelite example  5077
+create-a-node-here really 41.169 80 {P&G would do with or without Kao," }
+autolink_nodes 79 80 satelite-embedded elaboration-object-attribute-e  5078
+create-a-node-here really 41.192 81 {says Mr. Zurkuhlen.}
+nextSentence really
+autolink_nodes 5078 81 satelite attribution  5079
+collapsed_nodes {5008 5020 5001}
+collapsed_nodes {}
+collapsed_nodes {5001}
+collapsed_nodes {}
+disconnect_node 76 disconnect
+autolink_nodes 5074 76 satelite elaboration-additional below 5080

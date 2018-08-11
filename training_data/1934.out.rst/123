@@ -1,0 +1,610 @@
+1
+ A new drug
+5001
+span
+
+2
+ to prevent the rejection of transplanted organs
+1
+elaboration-object-attribute-e
+
+3
+ has been successfully used on more than 100 patients at the University of Pittsburgh,
+5002
+Same-Unit
+
+4
+ according to researchers.
+5002
+attribution
+
+5
+ The drug,
+5004
+span
+
+6
+ which is still in the experimental phase,
+5
+elaboration-additional-e
+
+7
+ hasn't been approved yet by the Food and Drug Admistration,
+5005
+Same-Unit
+
+8
+ and its long-term effects are unknown.
+5006
+List
+
+9
+ But researchers say 
+5010
+attribution
+
+10
+the drug,
+5009
+span
+
+11
+ called FK-506,
+10
+elaboration-additional-e
+
+12
+ could revolutionize the transplantation field
+5008
+span
+
+13
+ by reducing harmful side effects
+5007
+List
+
+14
+ and by lowering rejection rates.
+5014
+span
+
+15
+ Rejection has been the major obstacle in the approximately 30,000 organ transplants
+5013
+span
+
+16
+ performed world-wide each year.
+15
+elaboration-object-attribute-e
+
+17
+ Researchers began using the drug in February on patients 
+5015
+span
+
+18
+who had received kidney, liver, heart and pancreas transplants.
+17
+elaboration-object-attribute-e
+
+19
+ Only two of 111 transplants have been rejected.
+5015
+consequence-s
+
+20
+ The drug,
+5019
+span
+
+21
+ discovered in 1984,
+20
+elaboration-additional-e
+
+22
+ is metabolized from soil fungus
+5018
+span
+
+23
+ found in Japan.
+22
+elaboration-object-attribute-e
+
+24
+ The Pittsburgh patients are the first humans
+5023
+span
+
+25
+ to be given the drug,
+5022
+span
+
+26
+ which is made by Fujisawa Pharmaceutical Co.
+25
+elaboration-additional-e
+
+27
+ We're shocked by it,
+5026
+span
+
+28
+ because it's worked so fast, 
+27
+reason
+
+29
+said Dr. Thomas E. Starzl, director of the University of Pittsburgh Transplantation Program, at a news conference here yesterday.
+5026
+attribution
+
+30
+ We consider it a life-saving drug, like one for AIDS,
+5028
+span
+
+31
+ said Dr. John Fung, an immunologist at the University of Pittsburgh.
+30
+attribution
+
+32
+ Researchers say 
+5031
+attribution
+
+33
+they believe 
+5030
+attribution
+
+34
+FK-506 is 100 times more effective than the traditional anti-rejection drug, cyclosporine,
+5030
+span
+
+35
+ made by Swiss pharmaceutical giant Sandoz Ltd.
+34
+elaboration-additional-e
+
+36
+ They are also encouraged by the relatively mild side effects of FK-506,
+5035
+span
+
+37
+ compared with cyclosporine,
+5034
+span
+
+38
+ which can cause renal failure, morbidity, nausea and other problems.
+37
+elaboration-object-attribute-e
+
+39
+ The side effects {of cyclosporine} have made the penalty for its success rather high,
+5036
+span
+
+40
+ Dr. Starzl said.
+39
+attribution
+
+41
+ Dr. Fung said
+5040
+attribution
+
+42
+ that FK-506 would not be available in the market for at least a year,
+5040
+List
+
+43
+ and that the FDA approval process usually takes three years to five years.
+5040
+List
+
+44
+ There are no firm plans
+5043
+span
+
+45
+ to expand the experimental program beyond the University of Pittsburgh,
+5042
+span
+
+46
+ whose hospital performs the most transplants in the world.
+45
+elaboration-additional-e
+
+47
+ Researchers couldn't estimate the cost of the drug
+5049
+span
+
+48
+ when it reaches the market,
+47
+circumstance
+
+49
+ but they said
+5047
+attribution
+
+50
+ FK-506 will enable patients to cut hospital stays by 50% and reduce the number of blood tests 
+5047
+span
+
+51
+used to monitor the dosage of cyclosporine and other drugs among transplant recipients.
+50
+elaboration-object-attribute-e
+
+52
+ Dr. Starzl said
+5051
+attribution
+
+53
+ the research has been largely financed by the National Institute of Health and by university funds,
+5051
+List
+
+54
+ and that Fujisawa didn't give the hospital any grants.
+5051
+List
+
+55
+ He said 
+56
+attribution
+
+56
+that the research team had no financial stake in the drug.
+5054
+span
+
+57
+ We've known for six months the effect of this drug,
+58
+circumstance
+
+58
+ and our advice to our people has been not to buy the company's stock,
+5057
+span
+
+59
+ Dr. Starzl said,
+5059
+span
+
+60
+ adding
+61
+attribution
+
+61
+ that profiting from FK-506 wouldn't be ethical.
+5056
+span
+
+5001
+span
+5002
+Same-Unit
+
+5002
+multinuc
+5003
+span
+
+5003
+span
+5021
+span
+
+5004
+span
+5005
+Same-Unit
+
+5005
+multinuc
+5006
+List
+
+5006
+multinuc
+5011
+antithesis
+
+5007
+multinuc
+12
+means
+
+5008
+span
+5010
+Same-Unit
+
+5009
+span
+5010
+Same-Unit
+
+5010
+multinuc
+5011
+span
+
+5011
+span
+5012
+span
+
+5012
+span
+5017
+span
+
+5013
+span
+14
+elaboration-additional
+
+5014
+span
+5007
+List
+
+5015
+span
+5016
+span
+
+5016
+span
+5012
+elaboration-additional
+
+5017
+span
+5003
+elaboration-additional
+
+5018
+span
+5020
+Same-Unit
+
+5019
+span
+5020
+Same-Unit
+
+5020
+multinuc
+5023
+background
+
+5021
+span
+5025
+span
+
+5022
+span
+24
+elaboration-object-attribute-e
+
+5023
+span
+5024
+span
+
+5024
+span
+5021
+elaboration-additional
+
+5025
+span
+5045
+span
+
+5026
+span
+5027
+span
+
+5027
+span
+5029
+span
+
+5028
+span
+5027
+elaboration-additional
+
+5029
+span
+5033
+span
+
+5030
+span
+5031
+span
+
+5031
+span
+5032
+span
+
+5032
+span
+5039
+span
+
+5033
+span
+5025
+elaboration-additional
+
+5034
+span
+36
+comparison
+
+5035
+span
+5038
+span
+
+5036
+span
+5035
+elaboration-additional
+
+5037
+span
+
+
+
+5038
+span
+5032
+elaboration-additional
+
+5039
+span
+5029
+elaboration-additional
+
+5040
+multinuc
+5041
+span
+
+5041
+span
+5044
+span
+
+5042
+span
+44
+elaboration-object-attribute-e
+
+5043
+span
+5041
+elaboration-additional
+
+5044
+span
+5045
+elaboration-additional
+
+5045
+span
+5046
+span
+
+5046
+span
+5061
+span
+
+5047
+span
+5048
+span
+
+5048
+span
+5050
+span
+
+5049
+span
+5048
+antithesis
+
+5050
+span
+5053
+span
+
+5051
+multinuc
+5052
+span
+
+5052
+span
+5055
+span
+
+5053
+span
+5046
+elaboration-additional
+
+5054
+span
+5060
+span
+
+5055
+span
+5050
+elaboration-additional
+
+5056
+span
+59
+elaboration-additional
+
+5057
+span
+5058
+span
+
+5058
+span
+5054
+explanation-argumentative
+
+5059
+span
+5057
+attribution
+
+5060
+span
+5052
+elaboration-additional
+
+5061
+span
+
+
+

@@ -1,0 +1,283 @@
+nextSentence really
+create-a-node-here really 2.43 1 {\nSanta Fe Pacific Corp. is preparing a plan }
+create-a-node-here really 2.159 2 {to sell a 20% stake in its large real estate unit to a California public employee pension fund for $400 million, }
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.229 3 {after which it would spin off the realty operation to shareholders.}
+nextSentence really
+autolink_nodes 5001 3 satelite temporal-after  5002
+create-a-node-here really 4.110 4 { \n\nThe plan places an indicated value on the real estate operation, Santa Fe Pacific Realty Corp., of $2 billion.}
+nextSentence really
+autolink_nodes 5002 4 satelite elaboration-additional  5003
+create-a-node-here really 5.79 5 {\nSanta Fe Pacific directors are expected to review the plan at a meeting today, }
+autolink_nodes 4 5 satelite elaboration-additional  5004
+create-a-node-here really 5.132 6 {according to people familiar with the transaction.}
+nextSentence really
+autolink_nodes 5 6 satelite attribution  5005
+create-a-node-here really 7.13 7 { \n\nIf approved, }
+create-a-node-here really 7.61 8 {the sale is expected to close by year's end, }
+autolink_nodes 7 8 nucleus condition  5006
+create-a-node-here really 7.110 9 {with the spinoff occurring by the end of 1992.}
+nextSentence really
+autolink_nodes 8 9 satelite elaboration-part-whole below 5007
+#autolink_nodes 5004 5006 satelite elaboration-additional  5008
+#UNDID
+autolink_nodes 5004 5006 multinuclear List  5008
+create-a-node-here really 8.113 10 {\nIn composite trading on the New York Stock Exchange yesterday, Santa Fe Pacific closed at $20.625, down 25 cents.}
+nextSentence really
+autolink_nodes 5008 10 multinuclear List below 5008
+create-a-node-here really 10.70 11 { \n\nSanta Fe Pacific Realty is a major California land and building owner }
+autolink_nodes 5003 11 satelite background  5009
+create-a-node-here really 10.185 12 {whose prime properties include 1,850 undeveloped acres in the San Francisco Bay area, and several office sites.}
+nextSentence really
+autolink_nodes 11 12 satelite elaboration-object-attribute  5010
+create-a-node-here really 11.17 13 {\nA spokesman said }
+autolink_nodes 12 13 satelite elaboration-part-whole  5011
+create-a-node-here really 11.45 14 {the properties survived }
+autolink_nodes 13 14 nucleus attribution  5012
+create-a-node-here really 11.76 15 {without significant damage }
+#autolink_nodes 14 15 satelite comment below 5013
+#create-a-node-here really 11.126 16 {in last week's Northern California earthquake.}
+#nextSentence really
+#autolink_nodes 14 16 multinuclear Same-Unit  5014
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 14 15 satelite elaboration-object-attribute below 5013
+create-a-node-here really 12.0 16 {in last week's Northern California earthquake. \n}
+autolink_nodes 5013 16 multinuclear Same-Unit  5014
+create-a-node-here really 13.45 17 {\nAs a result of the partial sale and spinoff, }
+autolink_nodes 5010 17 satelite result  5015
+create-a-node-here really 13.177 18 {the $56 billion California Public Employees Retirement System would obtain two seats on the board of the real estate operation, }
+autolink_nodes 17 18 nucleus cause  5016
+create-a-node-here really 13.217 19 {according to officials of the fund, }
+#autolink_nodes 18 19 satelite attribution above 5016
+#UNDID
+autolink_nodes 5016 19 satelite attribution  5017
+create-a-node-here really 13.244 20 {who described the plan.}
+nextSentence really
+autolink_nodes 19 20 satelite elaboration-object-attribute  5018
+create-a-node-here really 15.57 21 { \n\nA spokesman for Chicago-based Santa Fe Pacific confirmed }
+autolink_nodes 5015 21 satelite elaboration-additional  5019
+create-a-node-here really 15.109 22 {that negotiations were being held with the fund.}
+nextSentence really
+autolink_nodes 21 22 nucleus attribution  5020
+create-a-node-here really 17.42 23 { \n\nAlso holding two seats each on the board, }
+autolink_nodes 5020 23 multinuclear List  5021
+create-a-node-here really 17.57 24 {they said, }
+autolink_nodes 23 24 satelite attribution  5022
+create-a-node-here really 17.104 25 {would be Olympia & York Developments Ltd., }
+#autolink_nodes 23 25 multinuclear Same-Unit  5023
+#UNDID
+autolink_nodes 5022 25 multinuclear Same-Unit  5023
+create-a-node-here really 17.154 26 {controlled by the Reichmann family of Canada, }
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5024
+create-a-node-here really 17.174 27 {and Itel Corp., }
+autolink_nodes 5023 27 multinuclear Same-Unit below 5024
+create-a-node-here really 18.0 28 {controlled by Chicago businessman Sam Zell.\n}
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5025
+create-a-node-here really 18.107 29 {The Reichmanns and Mr. Zell, the largest holders of Santa Fe Pacific stock, have been looking for ways }
+autolink_nodes 5023 29 satelite reason  5026
+create-a-node-here really 18.152 30 {to raise the value of their investments, }
+autolink_nodes 29 30 satelite purpose  5027
+create-a-node-here really 18.184 31 {including possible spinoffs.}
+nextSentence really
+autolink_nodes 5027 31 satelite elaboration-part-whole  5028
+create-a-node-here really 20.54 32 { \n\nItel bought a 17% stake in Sante Fe Pacific last year }
+autolink_nodes 5028 32 satelite example  5029
+create-a-node-here really 20.112 33 {and Olympia & York later purchased about a 20% stake; }
+autolink_nodes 32 33 multinuclear List  5030
+create-a-node-here really 20.216 34 {they would have interests in the new realty company in line with their holdings in Sante Fe Pacific.}
+nextSentence really
+autolink_nodes 5030 34 nucleus reason  5031
+disconnect_node 5031 disconnect
+collapsed_nodes {5023}
+autolink_nodes 5026 5031 satelite cause  5032
+collapsed_nodes {}
+create-a-node-here really 22.64 35 { \n\nThe sale and spinoff of the real estate unit is the first phase }
+autolink_nodes 5009 35 satelite elaboration-additional  5033
+create-a-node-here really 22.214 36 {of what could lead to the breakup of Santa Fe Pacific into free-standing companies for its railroad and energy operations, as well as real estate.}
+nextSentence really
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5034
+create-a-node-here really 23.70 37 {\nThe debt-laden parent has been under pressure from large shareholders }
+autolink_nodes 5034 37 satelite explanation-argumentative  5035
+create-a-node-here really 23.109 38 {to boost the company's share price.}
+nextSentence really
+autolink_nodes 37 38 satelite purpose  5036
+create-a-node-here really 24.59 39 {\nAt the same time it has been caught in an earnings squeeze.}
+nextSentence really
+autolink_nodes 5036 39 satelite temporal-same-time  5037
+create-a-node-here really 26.84 40 { \n\nThe California pension fund's planned investment in the real estate unit is unusual.}
+nextSentence really
+autolink_nodes 5035 40 satelite background  5038
+create-a-node-here really 27.48 41 {\nPension funds rarely own as much as a 20% stake }
+autolink_nodes 40 41 satelite elaboration-additional  5039
+create-a-node-here really 27.104 42 {in what is expected to be a publicly traded company.}
+nextSentence really
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5040
+create-a-node-here really 28.68 43 {\nIn addition, pension funds are rarely given seats on company boards }
+autolink_nodes 5040 43 multinuclear List  5041
+create-a-node-here really 28.105 44 {and most often try to avoid them }
+autolink_nodes 43 44 multinuclear List  5042
+create-a-node-here really 28.135 45 {because of legal concerns.}
+nextSentence really
+autolink_nodes 5042 45 satelite reason  5043
+create-a-node-here really 30.24 46 { \n\nBut fund officials said }
+autolink_nodes 5039 46 satelite antithesis  5044
+create-a-node-here really 30.91 47 {the Santa Fe Pacific Realty investment provides an opportunity }
+autolink_nodes 46 47 nucleus attribution  5045
+create-a-node-here really 30.143 48 {to buy a stake in a large real estate portfolio }
+autolink_nodes 47 48 satelite-embedded elaboration-object-attribute-e below 5046
+create-a-node-here really 30.191 49 {heavily weighted with California properties.}
+nextSentence really
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5047
+create-a-node-here really 31.64 50 {\nIt also marks a "major commitment to {real estate} development, }
+autolink_nodes 5045 50 multinuclear List  5048
+create-a-node-here really 31.113 51 {which we haven't been involved with before," }
+autolink_nodes 50 51 satelite-embedded elaboration-object-attribute-e  5049
+create-a-node-here really 31.165 52 {said Dale Hanson, the fund's executive director.}
+nextSentence really
+autolink_nodes 5049 52 satelite attribution  5050
+create-a-node-here really 33.108 53 { \n\nUnder the proposed plan, the fund would also lend Santa Fe Pacific Realty $75 million in the form of a note }
+autolink_nodes 5038 53 satelite elaboration-additional  5051
+create-a-node-here really 33.241 54 {that would be convertible into additional shares of the realty company after the second year at the then-prevailing market price.}
+nextSentence really
+autolink_nodes 53 54 satelite-embedded elaboration-object-attribute-e  5052
+nextSentence really
+create-a-node-here really 34.60 55 {\nThe note would accrue interest at the rate of 13.5% a year, }
+autolink_nodes 5052 55 satelite elaboration-additional  5053
+#create-a-node-here really 34.174 56 {which would be payable to the fund after five years, according to Stephen E. Roulac, a real estate consultant }
+#autolink_nodes 55 56 satelite attribution  5054
+#create-a-node-here really 34.199 57 {working for the fund.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 34.117 56 {which would be payable to the fund after five years, }
+autolink_nodes 55 56 satelite-embedded elaboration-object-attribute-e  5054
+create-a-node-here really 34.178 57 {according to Stephen E. Roulac, a real estate consultant }
+autolink_nodes 5054 57 satelite attribution  5055
+create-a-node-here really 35.0 58 {working for the fund. \n}
+autolink_nodes 57 58 satelite elaboration-object-attribute  5056
+create-a-node-here really 36.87 59 {\nThe purpose of the note is to provide added capital for the spun-off company in a form }
+autolink_nodes 5055 59 satelite purpose  5057
+create-a-node-here really 36.155 60 {that will save it spending cash on immediate interest payments, }
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5058
+create-a-node-here really 36.175 61 {Mr. Roulac said.}
+nextSentence really
+autolink_nodes 5058 61 satelite attribution  5059
+create-a-node-here really 37.117 62 {\nThe spun-off concern "clearly will be one of the dominant real estate development companies with a prime portfolio," }
+autolink_nodes 5057 62 satelite evaluation-s  5060
+create-a-node-here really 37.129 63 {he said.}
+nextSentence really
+autolink_nodes 62 63 satelite attribution  5061
+create-a-node-here really 39.127 64 { \n\nFor the last year, Santa Fe Pacific has redirected its real estate operations toward longer-term development of its properties,}
+autolink_nodes 5033 64 satelite elaboration-additional  5062
+create-a-node-here really 39.148 65 { hurting profits }
+autolink_nodes 64 65 multinuclear List  5063
+create-a-node-here really 39.233 66 {that the parent had generated in the past from periodic sales from its portfolio.}
+nextSentence really
+autolink_nodes 65 66 satelite elaboration-object-attribute  5064
+nextSentence really
+create-a-node-here really 40.111 67 {\nReal estate operating income for the first nine months fell to $71.9 million from $143 million a year earlier, }
+autolink_nodes 5064 67 satelite evidence  5065
+create-a-node-here really 40.132 68 {the company said.}
+nextSentence really
+autolink_nodes 67 68 satelite attribution  5066
+create-a-node-here really 42.82 69 { \n\nIn a statement late yesterday, Santa Fe Pacific's chairman, Robert D. Krebs, said }
+autolink_nodes 5063 69 satelite explanation-argumentative  5067
+create-a-node-here really 42.158 70 {that Santa Fe Pacific Realty would repay more than $500 million in debt }
+autolink_nodes 69 70 nucleus attribution  5068
+create-a-node-here really 42.181 71 {owed to the parent }
+autolink_nodes 70 71 satelite-embedded elaboration-object-attribute-e below 5069
+create-a-node-here really 42.212 72 {before the planned spinoff.}
+nextSentence really
+autolink_nodes 5069 72 multinuclear Same-Unit  5070
+create-a-node-here really 43.121 73 {\nThat would help reduce Santa Fe Pacific's remaining debt to about $600 million from a high of $3.7 billion in early 1988.}
+nextSentence really
+autolink_nodes 5068 73 satelite result  5071
+create-a-node-here really 45.97 74 { \n\nIt wasn't clear where Santa Fe Pacific expected to obtain the payment of more than $500 million, }
+autolink_nodes 5071 74 satelite comment  5072
+create-a-node-here really 45.144 75 {which would be well above the $400 million }
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e  5073
+create-a-node-here really 45.153 76 {that }
+autolink_nodes 75 76 satelite elaboration-object-attribute  5074
+create-a-node-here really 45.195 77 {California pension fund officials say }
+autolink_nodes 76 77 satelite attribution  5075
+create-a-node-here really 45.220 78 {they plan to provide.}
+nextSentence really
+autolink_nodes 5075 78 multinuclear Same-Unit  5076
+#create-a-node-here really 46.22 79 {\nThe realty unit might }
+#autolink_nodes 5073 79 multinuclear List  5077
+#UNDID
+#UNDID
+create-a-node-here really 47.0 79 {\nThe realty unit might take on new debt or obtain additional investors, among other possibilities.\n}
+autolink_nodes 5073 79 multinuclear List  5077
+create-a-node-here really 47.71 80 {The Santa Fe Pacific spokesman declined to comment on that aspect, }
+autolink_nodes 5077 80 multinuclear Contrast above 5078
+create-a-node-here really 47.82 81 {saying }
+disconnect_node 80 disconnect
+autolink_nodes 5077 80 satelite attribution-n  5079
+autolink_nodes 5079 81 multinuclear Contrast  5080
+create-a-node-here really 47.123 82 {the deal was still under negotiation.}
+nextSentence really
+autolink_nodes 81 82 nucleus attribution  5081
+create-a-node-here really 49.60 83 { \n\nSanta Fe Pacific Realty owns 2.8 million acres of property, }
+autolink_nodes 5072 83 satelite elaboration-part-whole  5082
+create-a-node-here really 49.135 84 {including 219 buildings with more than 11 million square feet of space.}
+nextSentence really
+autolink_nodes 83 84 satelite elaboration-part-whole  5083
+create-a-node-here really 50.74 85 {\nIt also holds nearly 40,000 acres of raw land with development potential, }
+autolink_nodes 5083 85 multinuclear List  5084
+create-a-node-here really 50.214 86 {but under a previously announced strategy, the company has targeted building on 5,400 acres in California, Arizona and the Chicago area.}
+nextSentence really
+autolink_nodes 85 86 satelite antithesis  5085
+create-a-node-here really 51.62 87 {\nAmong those are the 1,850 acres in the San Francisco Bay area,}
+autolink_nodes 86 87 satelite elaboration-additional  5086
+change_rel 87 elaboration-part-whole
+create-a-node-here really 51.111 88 { including 208 acres in the Mission Bay area.}
+nextSentence really
+autolink_nodes 87 88 satelite elaboration-part-whole  5087
+create-a-node-here really 53.29 89 { \n\nThe California pension fund, }
+autolink_nodes 5067 89 multinuclear List  5088
+create-a-node-here really 53.55 90 {which has $16 billion }
+autolink_nodes 89 90 satelite-embedded elaboration-object-attribute-e  5089
+create-a-node-here really 53.106 91 {already invested in real estate and mortgages, }
+#autolink_nodes 89 91 multinuclear Same-Unit  5090
+#UNDID
+#autolink_nodes 5089 91 multinuclear Same-Unit  5090
+#UNDID
+autolink_nodes 90 91 satelite-embedded elaboration-object-attribute-e  5090
+create-a-node-here really 53.167 92 {could be a valuable funding source for that development, }
+autolink_nodes 5089 92 multinuclear Same-Unit  5091
+create-a-node-here really 54.0 93 {although it isn't obliged to make further investments.\n}
+autolink_nodes 5091 93 satelite antithesis  5092
+create-a-node-here really 54.58 94 {The fund is the nation's largest public employee fund,}
+autolink_nodes 5092 94 satelite elaboration-additional  5093
+create-a-node-here really 54.94 95 { and it has a growing cash flow }
+autolink_nodes 94 95 multinuclear List  5094
+create-a-node-here really 54.128 96 {now topping $3 billion a year.}
+nextSentence really
+autolink_nodes 95 96 satelite-embedded elaboration-object-attribute-e  5095
+create-a-node-here really 56.90 97 { \n\nFund officials negotiated the final structure of the proposed deal with Santa Fe Pacific, }
+autolink_nodes 5088 97 multinuclear List below 5095
+create-a-node-here really 56.184 98 {but they were approached with the idea by real estate brokers JMB Realty Corp. of Chicago.}
+nextSentence really
+autolink_nodes 97 98 satelite antithesis  5096
+create-a-node-here really 57.39 99 {\nJMB officials are expected to be hired }
+autolink_nodes 5096 99 satelite elaboration-additional  5097
+create-a-node-here really 57.111 100 {to represent the pension fund on the Santa Fe Pacific Realty board, }
+autolink_nodes 99 100 satelite purpose  5098
+create-a-node-here really 57.133 101 {Mr. Roulac said, }
+autolink_nodes 5098 101 satelite attribution  5099
+create-a-node-here really 57.193 102 {to insulate the fund from potential liability problems.}
+nextSentence really
+autolink_nodes 5098 102 satelite reason below 5100
+nextSentence really
+nextSentence really
+nextSentence really
+collapsed_nodes {5062}
+collapsed_nodes {}
+disconnect_node 101 modify
+autolink_nodes 5098 101 satelite attribution below 5101

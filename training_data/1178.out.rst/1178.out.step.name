@@ -1,0 +1,119 @@
+nextSentence really
+create-a-node-here really 2.142 1 {\nClaude Bebear, chairman and chief executive officer, of Axa-Midi Assurances, pledged to retain employees and management of Farmers Group Inc.,}
+create-a-node-here really 2.212 2 { including Leo E. Denlea Jr., chairman and chief executive officer,}
+create-a-node-here really 2.253 3 { if Axa succeeds in acquiring Farmers.}
+nextSentence really
+autolink_nodes 1 2 satelite elaboration-set-member  5001
+autolink_nodes 5001 3 satelite condition  5002
+create-a-node-here really 4.17 4 { \n\nMr. Bebear added }
+create-a-node-here really 4.91 5 {that the French insurer would keep Farmers' headquarters in Los Angeles}
+create-a-node-here really 4.127 6 { and "will not send French people}
+create-a-node-here really 4.151 7 { to run the company."}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 5 5003 multinuclear List  5004
+autolink_nodes 4 5004 nucleus attribution  5005
+#autolink_nodes 5002 5005 multinuclear List  5006
+#UNDID
+#autolink_nodes 5002 5005 satelite elaboration-additional  5006
+#UNDID
+autolink_nodes 5002 5005 satelite evidence  5006
+create-a-node-here really 4.230 8 { Axa would also maintain Farmers' relationships with the insurance exchanges}
+create-a-node-here really 4.250 9 { that it manages.}
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 5005 5007 satelite elaboration-additional  5008
+create-a-node-here really 6.98 10 { \n\nMr. Bebear made his remarks at a breakfast meeting with reporters here yesterday as part of a tour}
+create-a-node-here really 6.183 11 { in which he is trying to rally support in the U.S. for the proposed acquisition.}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5009
+create-a-node-here really 7.161 12 {\nThe bid is part of Sir James Goldsmith's unfriendly takeover attempt for B.A.T Industries PLC, the British tobacco, retailing, paper and financial-services giant}
+create-a-node-here really 7.215 13 { that acquired Farmers last year for $5.2 billion.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 5009 5010 satelite elaboration-additional  5011
+create-a-node-here really 8.154 14 {\nAxa has agreed to acquire Farmers from Sir James's investment vehicle, Hoylake Investments Ltd., for $4.5 billion plus a $1 billion investment in Hoylake.}
+nextSentence really
+autolink_nodes 5010 14 satelite elaboration-additional  5012
+create-a-node-here really 10.91 15 { \n\nAny acquisition of Farmers needs the approval of insurance commissioners in the nine states}
+create-a-node-here really 10.119 16 { where Farmers operates,}
+create-a-node-here really 10.211 17 { and Mr. Bebear's trip will take him to Idaho, Arizona and New York after his stay here;}
+create-a-node-here really 10.302 18 { he will meet with insurance regulators, legislators, industry excutives and the press.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 5013 17 multinuclear List  5014
+autolink_nodes 5014 18 satelite elaboration-additional  5015
+autolink_nodes 5011 5015 satelite elaboration-additional  5016
+create-a-node-here really 12.180 19 { \n\nHearings on Axa's acquisition application have been set for Nov. 13 in Idaho; Nov. 20 in Illinois; Nov. 24 and Dec. 4 in Arizona; Dec. 11 in Washington state; and Jan. 8 in Oregon.}
+nextSentence really
+create-a-node-here really 13.56 20 {\nHearings haven't yet been set in Texas, Ohio and Kansas.}
+nextSentence really
+create-a-node-here really 14.86 21 {\nCalifornia's insurance commissioner doesn't hold hearings on acquisition applications.}
+nextSentence really
+autolink_nodes 20 21 multinuclear Comparison  5017
+autolink_nodes 5017 19 multinuclear Comparison below 5017
+autolink_nodes 5015 5017 satelite elaboration-additional  5018
+create-a-node-here really 16.42 22 { \n\nAlthough Axa has been rebuffed by Farmers }
+create-a-node-here really 16.90 23 {and hasn't had any meetings with management,}
+create-a-node-here really 16.231 24 { Mr. Bebear nonetheless appears to be trying to woo the company's executives with promises of autonomy and new-found authority under Axa.}
+nextSentence really
+autolink_nodes 22 23 multinuclear List  5019
+autolink_nodes 5019 24 nucleus antithesis  5020
+create-a-node-here really 17.8 25 {\nHe said }
+create-a-node-here really 17.103 26 {Mr. Denlea would be a member of the top management team of the Axa-Midi group of companies,}
+create-a-node-here really 17.169 27 { and would "help define policies and strategies of the group."}
+nextSentence really
+autolink_nodes 26 27 multinuclear List  5021
+autolink_nodes 25 5021 nucleus attribution  5022
+autolink_nodes 5020 5022 satelite example  5023
+collapsed_nodes {5018}
+autolink_nodes 5016 5023 satelite elaboration-additional  5024
+create-a-node-here really 19.67 28 { \n\nFarmers was quick yesterday to point out the many negative aspects }
+#create-a-node-here really 19.107 29 {it sees in having Axa as its parent.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 19.79 29 {it sees }
+create-a-node-here really 19.111 30 {in having Axa as its parent.}
+#autolink_nodes 28 29 satelite-embedded attribution-e  5025
+#autolink_nodes 5025 30 satelite-embedded elaboration-object-attribute-e  5026
+#UNDID
+#UNDID
+autolink_nodes 28 29 satelite attribution  5025
+autolink_nodes 5025 30 satelite-embedded elaboration-object-attribute-e  5026
+create-a-node-here really 20.55 31 {\nFor one, Axa plans to do away with certain tax credits }
+create-a-node-here really 20.104 32 {that have resulted in more than $600 million }
+create-a-node-here really 20.164 33 {paid to the Farmers exchanges during the past few years }
+create-a-node-here really 20.198 34 {to offset underwriting losses.}
+nextSentence really
+autolink_nodes 33 34 satelite purpose  5027
+autolink_nodes 32 5027 satelite-embedded elaboration-object-attribute-e  5028
+autolink_nodes 31 5028 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 5026 5029 satelite example  5030
+create-a-node-here really 22.20 35 { \n\nThose credits result}
+create-a-node-here really 22.41 36 { because of taxes}
+create-a-node-here really 22.96 37 { that Farmers, as the management company, has paid,}
+create-a-node-here really 22.158 38 { and have "proved to be very important for the exchanges,"}
+create-a-node-here really 22.188 39 { a Farmers spokesman said.}
+nextSentence really
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5031
+#autolink_nodes 35 5031 satelite explanation-argumentative  5032
+#UNDID
+autolink_nodes 5031 35 nucleus result  5032
+autolink_nodes 5032 38 multinuclear List  5033
+autolink_nodes 5033 39 satelite attribution  5034
+autolink_nodes 5029 5034 satelite elaboration-additional  5035
+create-a-node-here really 23.21 40 {\nMr. Bebear contended }
+create-a-node-here really 23.121 41 {that the tax cost to the exchanges under the revised structure would be about $8 million a year,}
+create-a-node-here really 23.159 42 { which he described as "peanuts." }
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5036
+autolink_nodes 40 5036 nucleus attribution  5037
+#autolink_nodes 5034 5037 satelite elaboration-additional  5038
+#UNDID
+autolink_nodes 5034 5037 satelite elaboration-additional  5038
+collapsed_nodes {5018 5008}
+autolink_nodes 5006 5024 satelite elaboration-additional  5039
+collapsed_nodes {5018 5008 5023}
+collapsed_nodes {5018 5008 5023 5024}
+autolink_nodes 5030 5039 multinuclear Contrast  5040
+collapsed_nodes {5018 5023 5024}
+collapsed_nodes {}

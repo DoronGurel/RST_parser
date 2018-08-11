@@ -1,0 +1,100 @@
+nextSentence really
+create-a-node-here really 2.59 1 {\nAjinomoto Co., a Tokyo-based food-processing concern, said }
+nextSentence really
+create-a-node-here really 2.120 2 {net income in its first half rose 8.9% to 8.2 billion yen }
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.138 3 {($57.7 million)}
+autolink_nodes 2 3 satelite-embedded restatement-e below 5002
+create-a-node-here really 2.179 4 { from 7.54 billion yen a year earlier.}
+nextSentence really
+autolink_nodes 5002 4 multinuclear Same-Unit  5003
+create-a-node-here really 4.24 5 { \n\nSales in the six months }
+create-a-node-here really 4.42 6 {ended Sept. 30 }
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+nextSentence really
+nextSentence really
+create-a-node-here really 4.104 7 {were up 4.5% to 229.03 billion yen from 219.27 billion yen.}
+nextSentence really
+autolink_nodes 5004 7 multinuclear Same-Unit  5005
+autolink_nodes 5001 5005 multinuclear Comparison  5006
+#create-a-node-here really 5.63 8 {\nSales were higher in all of the company's business categories, }
+#create-a-node-here really 5.90 9 {with the biggest growth }
+#create-a-node-here really 5.166 10 {coming in sales of foodstuffs such as margarine, coffee and frozen food, }
+#nextSentence really
+#create-a-node-here really 5.187 11 {which rose 6.3%. }
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 5.163 9 {with the biggest growth coming in sales of foodstuffs such as margarine, coffee and frozen food, }
+#create-a-node-here really 5.183 10 {which rose 6.3%. }
+#autolink_nodes 9 10 satelite-embedded elaboration-additional-e  5007
+#autolink_nodes 8 5007 satelite manner  5008
+#autolink_nodes 5006 5008 satelite elaboration-additional  5009
+#create-a-node-here really 7.29 11 {\n\nOils and fats also did well, }
+#create-a-node-here really 7.63 12 {posting a 5.3% sales increase.}
+#nextSentence really
+#autolink_nodes 11 12 satelite-embedded elaboration-additional-e  5010
+#UNDID
+#autolink_nodes 11 12 satelite-embedded elaboration-additional-e  5010
+#autolink_nodes 5008 5010 multinuclear List  5011
+#create-a-node-here really 8.22 13 {\nSales in the category }
+#create-a-node-here really 8.83 14 {that includes pharmaceuticals, amino acids and chemicals }
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 5.63 8 {\nSales were higher in all of the company's business categories, }
+create-a-node-here really 5.163 9 {with the biggest growth coming in sales of foodstuffs such as margarine, coffee and frozen food, }
+autolink_nodes 8 9 satelite elaboration-set-member  5007
+create-a-node-here really 5.183 10 {which rose 6.3%. }
+autolink_nodes 9 10 satelite-embedded evidence-e  5008
+#create-a-node-here really 7.29 11 {\n\nOils and fats also did well, }
+#create-a-node-here really 7.63 12 {posting a 5.3% sales increase.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 10 disconnect
+autolink_nodes 9 10 satelite-embedded elaboration-additional-e  5009
+create-a-node-here really 7.29 11 {\n\nOils and fats also did well, }
+create-a-node-here really 7.63 12 {posting a 5.3% sales increase.}
+nextSentence really
+autolink_nodes 11 12 satelite-embedded elaboration-additional-e  5010
+autolink_nodes 5008 5010 multinuclear List  5011
+create-a-node-here really 8.22 13 {\nSales in the category }
+create-a-node-here really 8.83 14 {that includes pharmaceuticals, amino acids and chemicals }
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5012
+create-a-node-here really 8.97 15 {rose 4.7%.}
+nextSentence really
+autolink_nodes 5012 15 multinuclear Same-Unit  5013
+autolink_nodes 5011 5013 multinuclear List below 5013
+create-a-node-here really 10.53 16 { \n\nAjinomoto predicted sales in the current fiscal year }
+create-a-node-here really 10.78 17 {ending next March 31 }
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5014
+nextSentence really
+create-a-node-here really 10.102 18 {of 480 billion yen, }
+autolink_nodes 5014 18 multinuclear Same-Unit  5015
+create-a-node-here really 10.154 19 {compared with 460.05 billion yen in fiscal 1989.}
+nextSentence really
+autolink_nodes 18 19 satelite-embedded comparison-e  5016
+autolink_nodes 5006 5007 satelite elaboration-additional  5017
+autolink_nodes 5017 5015 satelite evaluation-s  5018
+create-a-node-here really 11.8 20 {\nIt said }
+create-a-node-here really 11.56 21 {it expects full-year net of 16 billion yen, }
+autolink_nodes 20 21 nucleus attribution  5019
+create-a-node-here really 11.108 22 {compared with 15 billion yen in the latest year.}
+nextSentence really
+autolink_nodes 21 22 satelite-embedded comparison-e below 5020
+autolink_nodes 5015 5019 satelite elaboration-additional  5021
+disconnect_node 5007 modify
+autolink_nodes 5006 5007 satelite evaluation-s below 5022

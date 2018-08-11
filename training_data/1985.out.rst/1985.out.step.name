@@ -1,0 +1,88 @@
+nextSentence really
+create-a-node-here really 2.87 1 {\nThe Federal National Mortgage Association set up a three-member office of the chairman }
+create-a-node-here really 2.155 2 {and elected James A. Johnson as vice chairman, effective Jan. 1. }
+create-a-node-here really 4.78 3 {\n\nMr. Johnson has been a managing director at Shearson Lehman Hutton since 1985,}
+create-a-node-here really 4.163 4 { and before that was president of Public Strategies, a Washington consulting firm.}
+nextSentence really
+create-a-node-here really 5.39 5 {\nHe is well-known in Democratic circles,}
+create-a-node-here really 5.165 6 { having been executive assistant to Vice President Walter Mondale and chairman of Mr. Mondale's 1984 presidential campaign.}
+nextSentence really
+create-a-node-here really 7.91 7 { \n\nAt Fannie Mae, he will take responsibility for the corporation's financial and legal areas }
+create-a-node-here really 7.243 8 {and will work with David Maxwell, chairman and chief executive officer, and Roger Birk, president and chief operating officer, on strategic planning.}
+nextSentence really
+create-a-node-here really 9.100 9 { \n\nMr. Johnson, 45 years old, has been a consultant on strategy to Fannie Mae for the past 3 1/2 years.}
+nextSentence really
+autolink_nodes 2 1 multinuclear Sequence  5001
+autolink_nodes 3 4 satelite temporal-before  5002
+autolink_nodes 5 6 satelite reason  5003
+autolink_nodes 8 7 multinuclear List  5004
+create-a-node-here really 10.25 10 {\nIn an interview, he said }
+create-a-node-here really 10.128 11 {Fannie Mae faces a number of challenges with the restructuring of the thrift industry and the push }
+create-a-node-here really 10.167 12 {to broaden its activities overseas.}
+nextSentence really
+create-a-node-here really 10.217 13 { "There's no shortage of major things to do," }
+create-a-node-here really 10.229 14 {he said.}
+nextSentence really
+create-a-node-here really 12.21 15 { \n\nFannie Mae also said }
+create-a-node-here really 12.158 16 {James A. Aliber, chairman of First Federal of Michigan and a director since 1985, moved up the date of his retirement from the board }
+create-a-node-here really 12.214 17 {to accommodate Mr. Johnson's election as a director.}
+nextSentence really
+create-a-node-here really 13.25 18 {\nThe board has 13 members }
+create-a-node-here really 13.48 19 {elected by holders }
+create-a-node-here really 13.85 20 {and five presidential appointees.}
+nextSentence really
+create-a-node-here really 15.113 21 { \n\nFannie Mae, a federally chartered, shareholder-owned corporation, operates a secondary market for mortgage loans,}
+create-a-node-here really 15.145 22 { buying loans from lenders, }
+create-a-node-here really 15.202 23 {packaging some into securities for sale to investors }
+create-a-node-here really 15.244 24 {and keeping the rest in its portfolio.}
+nextSentence really
+autolink_nodes 5003 5002 multinuclear List  5005
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 13 14 satelite attribution  5007
+autolink_nodes 16 15 satelite attribution  5008
+autolink_nodes 5008 17 satelite-embedded purpose-e  5009
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 20 5010 multinuclear Same-Unit  5011
+autolink_nodes 23 22 multinuclear List  5012
+autolink_nodes 5012 24 multinuclear List below 5012
+#autolink_nodes 21 5012 satelite manner  5013
+#UNDID
+autolink_nodes 21 5012 satelite manner  5013
+autolink_nodes 5006 10 satelite attribution  5014
+autolink_nodes 5014 5007 satelite conclusion  5015
+autolink_nodes 5009 5011 satelite background  5016
+#autolink_nodes 5015 9 satelite circumstance  5017
+#UNDID
+autolink_nodes 5015 9 satelite background  5017
+autolink_nodes 5004 5017 satelite elaboration-set-member  5018
+collapsed_nodes {5017}
+autolink_nodes 5018 5005 satelite background  5019
+collapsed_nodes {5017 5005}
+autolink_nodes 5016 5019 multinuclear List  5020
+collapsed_nodes {5017 5005 5016}
+autolink_nodes 5020 5013 satelite background  5021
+autolink_nodes 5021 5001 nucleus summary-n  5022
+collapsed_nodes {5017 5016}
+disconnect_node 5003 disconnect
+autolink_nodes 5002 5003 satelite elaboration-additional  5023
+collapsed_nodes {5017 5016 5023}
+collapsed_nodes {5016 5023}
+disconnect_node 5007 disconnect
+autolink_nodes 5014 5007 satelite restatement below 5024
+disconnect_node 5017 disconnect
+autolink_nodes 5004 5017 satelite elaboration-additional below 5025
+collapsed_nodes {5016}
+collapsed_nodes {5016 5017}
+collapsed_nodes {5017}
+disconnect_node 17 disconnect
+autolink_nodes 16 17 satelite purpose below 5026
+collapsed_nodes {5017 5023}
+disconnect_node 5011 disconnect
+disconnect_node 5013 disconnect
+autolink_nodes 5013 5011 multinuclear List  5027
+disconnect_node 5011 disconnect
+autolink_nodes 5020 5011 satelite elaboration-additional  5028
+autolink_nodes 5028 5013 satelite elaboration-additional  5029
+collapsed_nodes {5017 5023 5013}
+collapsed_nodes {5017 5023 5013 5011}
+collapsed_nodes {}

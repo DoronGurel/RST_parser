@@ -1,0 +1,282 @@
+nextSentence really
+create-a-node-here really 2.60 1 {\nWith economic tension between the U.S. and Japan worsening, }
+create-a-node-here really 2.149 2 {many Japanese had feared last week's visit from U.S. Trade Representative Carla Hills.}
+nextSentence really
+create-a-node-here really 3.39 3 {\nThey expected a new barrage of demands }
+create-a-node-here really 3.74 4 {that Japan do something quickly }
+create-a-node-here really 3.119 5 {to reduce its trade surplus with the U.S. }
+create-a-node-here really 5.43 6 {\n\nInstead, they got a discussion of the need }
+create-a-node-here really 5.130 7 {for the U.S. and Japan to work together and of the importance of the long-term view.}
+nextSentence really
+create-a-node-here really 6.166 8 {\nMrs. Hills' first trip to Japan as America's chief trade negotiator had a completely different tone from last month's visit by Commerce Secretary Robert A. Mosbacher.}
+nextSentence really
+create-a-node-here really 8.118 9 { \n\nMr. Mosbacher called for concrete results by next spring in negotiations over fundamental Japanese business practices }
+create-a-node-here really 8.156 10 {that supposedly inhibit free trade.}
+nextSentence really
+create-a-node-here really 9.8 11 {\nHe said }
+create-a-node-here really 9.69 12 {such results should be "measurable in dollars and cents" }
+create-a-node-here really 9.119 13 {in reducing the U.S. trade deficit with Japan.}
+nextSentence really
+create-a-node-here really 11.16 14 { \n\nBut Mrs. Hills, }
+create-a-node-here really 11.110 15 {speaking at a breakfast meeting of the American Chamber of Commerce in Japan on Saturday, }
+create-a-node-here really 11.123 16 {stressed }
+create-a-node-here really 11.200 17 {that the objective "is not to get definitive action by spring or summer, }
+create-a-node-here really 11.249 18 {it is rather to have a blueprint for action."}
+nextSentence really
+create-a-node-here really 11.264 19 { She added }
+showText really
+create-a-node-here really 11.340 20 {that she expected "perhaps to have a down payment . . . some small step }
+create-a-node-here really 11.400 21 {to convince the American people and the Japanese people }
+create-a-node-here really 11.435 22 {that we're moving in earnest." }
+create-a-node-here really 14.0 23 {\n\nHow such remarks translate into policy won't become clear for months.\n}
+create-a-node-here really 15.0 24 {American and Japanese officials offered several theories for the difference in approach betwen Mr. Mosbacher and Mrs. Hills.\n}
+create-a-node-here really 16.0 25 {Many called it simply a contrast in styles.\n}
+create-a-node-here really 17.0 26 {But some saw it as a classic negotiating tactic.\n}
+create-a-node-here really 17.16 27 {Others said }
+create-a-node-here really 17.53 28 {the Bush administration may feel }
+create-a-node-here really 18.0 29 {the rhetoric on both sides is getting out of hand.\n}
+create-a-node-here really 18.18 30 {And some said }
+create-a-node-here really 18.68 31 {it reflected the growing debate in Washington }
+create-a-node-here really 18.143 32 {over pursuing free trade with Japan versus some kind of managed trade. }
+create-a-node-here really 20.47 33 {\n\nAsked to compare her visit to Mr. Mosbacher's, }
+create-a-node-here really 20.71 34 {Mrs. Hills replied: }
+create-a-node-here really 20.101 35 {"I didn't hear every word }
+create-a-node-here really 20.114 36 {he spoke,}
+create-a-node-here really 20.149 37 { but as a general proposition, }
+create-a-node-here really 20.161 38 {I think }
+create-a-node-here really 20.235 39 {we have a very consistent trade strategy in the Bush administration." }
+create-a-node-here really 20.275 40 {Yet more than one American official }
+create-a-node-here really 20.350 41 {who sat in with her during three days of talks with Japanese officials }
+create-a-node-here really 20.359 42 {said }
+create-a-node-here really 20.411 43 {her tone often was surprisingly "conciliatory." }
+autolink_nodes 2 1 satelite circumstance  5001
+#autolink_nodes 4 5 satelite purpose  5002
+#UNDID
+#autolink_nodes 4 43 satelite-embedded purpose-e  5002
+#UNDID
+autolink_nodes 4 5 satelite-embedded purpose-e  5002
+autolink_nodes 3 5002 satelite-embedded elaboration-object-attribute-e  5003
+#autolink_nodes 5001 5003 satelite reason  5004
+#UNDID
+autolink_nodes 5001 5003 satelite reason  5004
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 5005 5004 multinuclear Contrast  5006
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 12 11 satelite attribution  5008
+autolink_nodes 5008 13 satelite circumstance  5009
+autolink_nodes 5007 5009 satelite elaboration-general-specific  5010
+autolink_nodes 8 5010 satelite evidence  5011
+collapsed_nodes {5010}
+autolink_nodes 14 15 satelite-embedded elaboration-additional-e  5012
+autolink_nodes 16 5012 multinuclear Same-Unit  5013
+autolink_nodes 17 18 nucleus preference  5014
+autolink_nodes 16 5014 nucleus attribution  5015
+autolink_nodes 22 21 satelite attribution  5016
+autolink_nodes 20 5016 satelite purpose  5017
+autolink_nodes 5017 19 satelite attribution  5018
+autolink_nodes 5013 5018 satelite elaboration-additional  5019
+collapsed_nodes {5010 5018}
+autolink_nodes 5019 5011 multinuclear Contrast  5020
+collapsed_nodes {5010 5018 5019}
+collapsed_nodes {5010}
+autolink_nodes 5019 23 satelite comment  5021
+collapsed_nodes {5010}
+autolink_nodes 28 27 satelite attribution  5022
+autolink_nodes 28 29 nucleus attribution  5023
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 5024 30 satelite attribution  5025
+autolink_nodes 26 25 multinuclear List  5026
+autolink_nodes 5026 5022 multinuclear List below 5026
+autolink_nodes 5026 5025 multinuclear List below 5026
+collapsed_nodes {5010 5025}
+collapsed_nodes {5010 5025}
+autolink_nodes 5026 24 nucleus elaboration-general-specific  5027
+collapsed_nodes {5010 5025 5026}
+autolink_nodes 34 33 satelite circumstance  5028
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 39 38 satelite attribution  5030
+autolink_nodes 5030 37 satelite circumstance  5031
+autolink_nodes 5029 5031 nucleus concession  5032
+collapsed_nodes {5010 5025 5026 5029}
+autolink_nodes 5032 5028 satelite attribution  5033
+autolink_nodes 40 41 satelite-embedded elaboration-additional-e  5034
+autolink_nodes 42 5034 multinuclear Same-Unit  5035
+autolink_nodes 43 5035 satelite attribution  5036
+create-a-node-here really 22.9 44 {\n\n"I think }
+create-a-node-here really 22.48 45 {my line has been very consistent," }
+create-a-node-here really 22.109 46 {Mrs. Hills said at a news conference Saturday afternoon. }
+create-a-node-here really 22.150 47 {"I am painted sometimes as ferocious,}
+create-a-node-here really 22.207 48 { perhaps because I have a ferocious list of statutes }
+create-a-node-here really 23.0 49 {to implement.\n}
+create-a-node-here really 24.0 50 {I don't feel very ferocious.\n}
+create-a-node-here really 25.0 51 {I don't feel either hard or soft.\n}
+create-a-node-here really 25.36 52 {I feel committed to the program }
+create-a-node-here really 25.81 53 {of opening markets and expanding trade." }
+create-a-node-here really 27.59 54 {\n\nWhen she met the local press for the first time on Friday, }
+create-a-node-here really 27.114 55 {Mrs. Hills firmly reiterated the need for progress }
+create-a-node-here really 27.211 56 {in removing barriers to trade in forest products, satellites and supercomputers, three areas }
+create-a-node-here really 28.0 57 {targeted under the Super 301 provision of the 1988 trade bill.\n}
+create-a-node-here really 28.52 58 {She highlighted exclusionary business practices }
+create-a-node-here really 29.0 59 {that the U.S. government has identified.\n}
+create-a-node-here really 30.0 60 {But her main thrust was to promote the importance of world-wide free trade and open competition.\n}
+create-a-node-here really 30.13 61 {She said }
+create-a-node-here really 30.77 62 {the trade imbalance was mainly due to macroeconomic factors }
+create-a-node-here really 30.106 63 {and shouldn't be tackled }
+create-a-node-here really 30.143 64 {by setting quantitative targets. }
+create-a-node-here really 32.112 65 {\n\nAt her news conference for Japanese reporters, one economics journalist summed up the Japanese sense of relief. }
+create-a-node-here really 32.172 66 {"My impression was that you would be a scary old lady," }
+create-a-node-here really 32.185 67 {he said, }
+create-a-node-here really 32.241 68 {drawing a few nervous chuckles from his colleagues. }
+create-a-node-here really 32.271 69 {"But I am relieved to see }
+create-a-node-here really 33.0 70 {that you are beautiful and gentle and intelligent and a person of integrity." \n}
+create-a-node-here really 34.77 71 {\nMrs. Hills' remarks did raise questions, at least among some U.S. officials, }
+create-a-node-here really 35.0 72 {about what exactly her stance is on U.S. access to the Japanese semiconductor market.\n}
+create-a-node-here really 36.0 73 {The U.S. share of the Japanese market has been stuck around 10% for years.\n}
+create-a-node-here really 36.53 74 {Many Americans have interpreted a 1986 agreement }
+create-a-node-here really 36.105 75 {as assuring U.S. companies a 20% share by 1991, }
+create-a-node-here really 36.163 76 {but the Japanese have denied making any such promise. }
+create-a-node-here really 38.48 77 {\n\nAt one of her news conferences, Mrs. Hills said,}
+create-a-node-here really 38.64 78 { "I believe }
+create-a-node-here really 38.101 79 {we can do much better than 20%." }
+create-a-node-here really 38.123 80 {But she stressed, }
+create-a-node-here really 39.0 81 {"I am against managed trade.\n}
+create-a-node-here really 39.39 82 {I will not enter into an agreement }
+create-a-node-here really 39.91 83 {that stipulates to a percentage of the market." }
+autolink_nodes 45 44 satelite attribution  5037
+autolink_nodes 5037 46 satelite attribution  5038
+autolink_nodes 47 48 satelite reason  5039
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5040
+autolink_nodes 50 51 satelite restatement  5041
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5042
+autolink_nodes 5011 5006 satelite circumstance  5043
+collapsed_nodes {5010 5025 5026 5029 5006}
+autolink_nodes 5042 5041 satelite antithesis  5044
+disconnect_node 5041 disconnect
+#autolink_nodes 5039 5041 satelite attribution  5045
+#UNDID
+#autolink_nodes 5038 5039 satelite antithesis  5045
+#UNDID
+#autolink_nodes 5039 5041 satelite antithesis  5045
+#collapsed_nodes {5010 5025 5026 5029 5006 5041}
+#UNDID
+autolink_nodes 5041 5042 nucleus antithesis  5045
+#autolink_nodes 5041 5039 nucleus antithesis  5046
+#collapsed_nodes {5010 5025 5026 5029 5006}
+#collapsed_nodes {5010 5025 5026 5029 5006}
+#UNDID
+disconnect_node 5041 disconnect
+autolink_nodes 5039 5041 satelite antithesis  5046
+#autolink_nodes 5041 5042 nucleus preference  5047
+#UNDID
+disconnect_node 5041 disconnect
+autolink_nodes 5041 5042 nucleus preference  5047
+autolink_nodes 5039 5047 satelite antithesis  5048
+autolink_nodes 5038 5048 satelite explanation-argumentative  5049
+collapsed_nodes {5010 5025 5026 5029 5006 5048}
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018}
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015}
+#autolink_nodes 5033 5036 multinuclear Contrast  5050
+#UNDID
+autolink_nodes 5033 5036 multinuclear Contrast  5050
+disconnect_node 5036 disconnect
+autolink_nodes 5033 5036 satelite antithesis  5051
+autolink_nodes 5051 5049 satelite explanation-argumentative  5052
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036}
+#autolink_nodes 55 54 satelite circumstance  5053
+#UNDID
+autolink_nodes 55 54 satelite circumstance  5053
+autolink_nodes 56 57 satelite-embedded elaboration-object-attribute-e  5054
+autolink_nodes 55 5054 satelite-embedded elaboration-object-attribute-e below 5055
+autolink_nodes 58 59 satelite-embedded elaboration-object-attribute-e  5056
+autolink_nodes 63 62 multinuclear Consequence  5057
+autolink_nodes 5057 61 satelite attribution  5058
+autolink_nodes 63 64 satelite means  5059
+autolink_nodes 60 5058 satelite elaboration-general-specific  5060
+autolink_nodes 5056 5053 multinuclear List  5061
+autolink_nodes 5061 5060 multinuclear Contrast above 5062
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049}
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5060}
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5060 5056}
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056}
+autolink_nodes 66 67 satelite-embedded attribution-e  5063
+autolink_nodes 5063 68 satelite consequence-s  5064
+autolink_nodes 70 69 satelite attribution  5065
+autolink_nodes 5064 5065 satelite concession  5066
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056 5065}
+#autolink_nodes 65 5066 satelite elaboration-general-specific  5067
+#UNDID
+autolink_nodes 65 5066 satelite example  5067
+autolink_nodes 5062 5067 satelite result  5068
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056 5065 5067}
+autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e  5069
+autolink_nodes 79 78 satelite attribution  5070
+autolink_nodes 5070 77 satelite attribution  5071
+autolink_nodes 81 80 satelite attribution  5072
+autolink_nodes 82 83 satelite-embedded elaboration-object-attribute-e  5073
+disconnect_node 5067 disconnect
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e  5074
+autolink_nodes 5074 73 multinuclear Comparison  5075
+#autolink_nodes 5074 76 satelite antithesis  5076
+#UNDID
+autolink_nodes 5074 76 satelite concession  5076
+autolink_nodes 5072 5071 satelite concession  5077
+autolink_nodes 5073 5077 satelite reason  5078
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056 5065 5067 5077}
+autolink_nodes 5078 5075 satelite circumstance  5079
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056 5065 5067 5077 5075}
+disconnect_node 5075 disconnect
+autolink_nodes 5069 5075 satelite circumstance  5080
+#autolink_nodes 5080 5078 satelite evidence  5081
+#UNDID
+autolink_nodes 5080 5078 satelite evidence  5081
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056 5077 5075}
+autolink_nodes 5020 5027 satelite interpretation-s  5082
+#autolink_nodes 5062 5067 satelite consequence-s  5083
+#UNDID
+autolink_nodes 5062 5067 satelite consequence-s  5083
+autolink_nodes 5067 5081 multinuclear List  5084
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056 5077 5075 5084}
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056 5077 5075 5084 5027}
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056 5077 5075 5084 5027 5021}
+autolink_nodes 5082 5052 satelite elaboration-additional  5085
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056 5077 5075 5084 5027 5021 5052}
+autolink_nodes 5085 5083 satelite elaboration-additional  5086
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056 5077 5075 5084 5027 5021 5052 5083}
+collapsed_nodes {5010 5025 5026 5029 5006 5048 5018 5015 5036 5049 5056 5077 5075 5084 5027 5021 5052 5083 5086}
+collapsed_nodes {}
+disconnect_node 5006 disconnect
+disconnect_node 5015 disconnect
+disconnect_node 16 disconnect
+autolink_nodes 5012 16 multinuclear Same-Unit  5087
+autolink_nodes 16 5014 nucleus attribution  5088
+collapsed_nodes {5027}
+disconnect_node 5029 disconnect
+#disconnect_node 37 disconnect
+#autolink_nodes 5030 37 multinuclear Same-Unit  5089
+#UNDID
+#UNDID
+disconnect_node 37 disconnect
+disconnect_node 38 disconnect
+autolink_nodes 37 38 satelite-embedded attribution-e  5089
+autolink_nodes 39 5089 multinuclear Same-Unit  5090
+autolink_nodes 5090 5029 satelite antithesis below 5091
+disconnect_node 51 disconnect
+autolink_nodes 50 51 satelite antithesis  5092
+disconnect_node 51 disconnect
+autolink_nodes 50 51 satelite elaboration-additional  5093
+disconnect_node 5093 disconnect
+#disconnect_node 5042 disconnect
+#UNDID
+disconnect_node 5042 disconnect
+autolink_nodes 5039 5093 satelite antithesis  5094
+autolink_nodes 5094 5042 satelite elaboration-additional  5095
+collapsed_nodes {5027 5049}
+collapsed_nodes {5027 5049 5052}
+disconnect_node 75 disconnect
+autolink_nodes 74 75 satelite manner  5096
+disconnect_node 5071 disconnect
+autolink_nodes 5072 5071 satelite antithesis  5097
+disconnect_node 5081 disconnect
+autolink_nodes 5067 5081 multinuclear Comparison  5098
+autolink_nodes 5086 5006 nucleus summary-n  5099
+collapsed_nodes {}

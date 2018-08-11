@@ -1,0 +1,30 @@
+nextSentence really
+create-a-node-here really 2.37 1 {\nThis maker of electronic devices said}
+create-a-node-here really 2.103 2 { it replaced all five incumbent directors at a special meeting }
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.137 3 {called by Milton B. Hollander, }
+autolink_nodes 2 3 satelite elaboration-additional below 5002
+nextSentence really
+nextSentence really
+create-a-node-here really 2.247 4 {whose High Technology Holding Co. of Stamford, Conn. acquired most of its 49.4% stake in Newport in August.}
+nextSentence really
+autolink_nodes 3 4 satelite elaboration-additional  5003
+create-a-node-here really 3.111 5 {\nElected as directors were Mr. Hollander, Frederick Ezekiel, Frederick Ross, Arthur B. Crozier and Rose Pothier.}
+nextSentence really
+autolink_nodes 5001 5 satelite elaboration-general-specific  5004
+create-a-node-here really 4.174 6 {\nRemoved from office were George Pratt, Robert E. Davis, Norman Gray, John Virtue, corporate secretary, and Barrett B. Weekes, chairman, president and chief executive officer.}
+nextSentence really
+autolink_nodes 5004 6 satelite elaboration-additional  5005
+create-a-node-here really 5.51 7 {\nNewport officials didn't respond Friday to requests}
+autolink_nodes 5005 7 satelite elaboration-additional  5006
+create-a-node-here really 5.92 8 { to discuss the changes at the company}
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5007
+create-a-node-here really 5.129 9 { but earlier, Mr. Weekes had said }
+autolink_nodes 5007 9 nucleus antithesis  5008
+create-a-node-here really 5.188 10 {Mr. Hollander wanted to have his own team on the board. }
+autolink_nodes 9 10 nucleus attribution  5009
+collapsed_nodes {5006}
+collapsed_nodes {}
+disconnect_node 5003 disconnect
+autolink_nodes 2 5003 satelite-embedded elaboration-additional-e below 5010
+collapsed_nodes {}

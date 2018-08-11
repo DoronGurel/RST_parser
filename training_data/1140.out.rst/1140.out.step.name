@@ -1,0 +1,237 @@
+nextSentence really
+create-a-node-here really 2.115 1 {\nShort interest in Nasdaq over-the-counter stocks rose 6% as of mid-October, its biggest jump since 6.3% last April.}
+nextSentence really
+create-a-node-here really 4.77 2 { \n\nThe most recent OTC short interest statistics were compiled Oct. 13, the day }
+create-a-node-here really 4.115 3 {the Nasdaq composite index slid 3% }
+create-a-node-here really 4.161 4 {and the New York Stock Exchange tumbled 7%.}
+nextSentence really
+autolink_nodes 3 4 multinuclear List  5001
+autolink_nodes 2 5001 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 5.44 5 {\nThe coincidence might lead to the conclusion}
+create-a-node-here really 5.91 6 { that short-sellers bet heavily on that day }
+create-a-node-here really 5.132 7 {that OTC stocks would decline further.}
+nextSentence really
+autolink_nodes 6 7 satelite attribution  5003
+autolink_nodes 5 5003 satelite-embedded elaboration-object-attribute-e  5004
+create-a-node-here really 7.14 8 { \n\nAs it happens,}
+create-a-node-here really 7.98 9 { the Nasdaq composite did continue to fall for two days after the initial plunge.}
+nextSentence really
+autolink_nodes 8 9 nucleus circumstance  5005
+create-a-node-here really 8.36 10 {\nHowever, the short interest figures }
+create-a-node-here really 8.141 11 {reported by brokerage and securities clearing firms to the National Association of Securities Dealers}
+create-a-node-here really 8.172 12 { include only those trades }
+create-a-node-here really 8.230 13 {completed, or settled, by Oct. 13, rather than trades }
+create-a-node-here really 8.260 14 {that occurred on that day,}
+create-a-node-here really 8.318 15 { according to Gene Finn, chief economist for the NASD.}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 12 5007 satelite-embedded elaboration-object-attribute-e  5008
+autolink_nodes 5006 5008 multinuclear Same-Unit  5009
+autolink_nodes 5009 15 satelite attribution  5010
+autolink_nodes 5004 5005 satelite comment  5011
+create-a-node-here really 8.407 16 { Generally, it takes five business days to transfer stock and to take the other steps}
+create-a-node-here really 8.440 17 { necessary to settle a trade.}
+nextSentence really
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 5010 5012 satelite elaboration-additional  5013
+autolink_nodes 5013 5011 satelite antithesis  5014
+collapsed_nodes {5011}
+autolink_nodes 5002 5014 satelite elaboration-additional  5015
+nextSentence really
+nextSentence really
+create-a-node-here really 10.175 18 { \n\nThe total short interest in Nasdaq stocks as of mid-October was 237.1 million shares, up from 223.7 million in September but well below the record level of 279 million shares }
+create-a-node-here really 10.204 19 {established in July 1987.}
+nextSentence really
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5016
+create-a-node-here really 11.200 20 {\nThe sharp rise in OTC short interest compares with the 4.2% decline in short interest on the New York Stock Exchange and the 3% rise on the American Stock Exchange during the September-October period.}
+nextSentence really
+autolink_nodes 5016 20 satelite elaboration-additional  5017
+collapsed_nodes {5011 5014}
+autolink_nodes 5015 5017 satelite elaboration-additional  5018
+create-a-node-here really 13.60 21 { \n\nGenerally, a short seller expects a fall in a stock's price }
+create-a-node-here really 13.82 22 {and aims to profit}
+create-a-node-here really 13.113 23 { by selling borrowed shares}
+create-a-node-here really 13.148 24 { that are to be replaced later;}
+create-a-node-here really 13.176 25 { the short seller hopes }
+create-a-node-here really 13.202 26 {the replacement shares}
+create-a-node-here really 13.219 27 { bought later}
+create-a-node-here really 13.249 28 { will cost less than those}
+create-a-node-here really 13.269 29 { that were sold.}
+nextSentence really
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5019
+autolink_nodes 22 5019 satelite means  5020
+autolink_nodes 21 5020 multinuclear List  5021
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5023
+autolink_nodes 5022 5023 multinuclear List  5024
+autolink_nodes 25 5024 nucleus attribution  5025
+disconnect_node 5023 modify
+autolink_nodes 5022 5023 multinuclear Same-Unit  5026
+autolink_nodes 5021 5025 multinuclear List above 5027
+create-a-node-here really 14.15 30 {\nShort interest,}
+create-a-node-here really 14.57 31 { which represents the number of shares}
+create-a-node-here really 14.80 32 { borrowed and sold,}
+create-a-node-here really 14.106 33 { but not yet replaced,}
+create-a-node-here really 14.163 34 { can be a bad-expectations barometer for many stocks.}
+nextSentence really
+autolink_nodes 32 33 multinuclear List  5028
+autolink_nodes 31 5028 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 30 5029 satelite-embedded elaboration-object-attribute-e  5030
+autolink_nodes 5030 34 multinuclear Same-Unit  5031
+autolink_nodes 5027 5031 satelite background  5032
+nextSentence really
+nextSentence really
+create-a-node-here really 16.132 35 { \n\nAmong 2,412 of the largest OTC issues, short interest rose to 196.8 million shares, from 185.7 million in 2,379 stocks in September.}
+nextSentence really
+create-a-node-here really 17.119 36 {\nBig stocks with large short interest gains as of Oct. 13 included First Executive, Intel, Campeau and LIN Broadcasting.}
+nextSentence really
+autolink_nodes 35 36 satelite elaboration-additional  5033
+create-a-node-here really 19.79 37 { \n\nShort interest in First Executive, an insurance issue, rose 55% to 3.8 million.}
+nextSentence really
+create-a-node-here really 20.34 38 {\nIntel's short interest jumped 42%,}
+create-a-node-here really 20.69 39 { while Campeau's increased 62%.}
+nextSentence really
+create-a-node-here really 21.26 40 {\nIntel makes semiconductors}
+create-a-node-here really 21.76 41 { and Campeau operates department-store chains }
+create-a-node-here really 21.105 42 {and is strained for cash.}
+nextSentence really
+autolink_nodes 38 39 multinuclear Comparison  5034
+autolink_nodes 41 42 multinuclear List  5035
+autolink_nodes 40 5035 multinuclear List  5036
+autolink_nodes 5034 5036 satelite elaboration-additional  5037
+autolink_nodes 37 5037 multinuclear Comparison  5038
+#autolink_nodes 5033 5038 satelite elaboration-set-member  5039
+#UNDID
+autolink_nodes 36 5038 satelite elaboration-additional  5039
+create-a-node-here really 23.44 43 { \n\nMeritor Savings again had the dubious honor }
+create-a-node-here really 23.122 44 {of being the OTC stock with the biggest short interest position on Nasdaq.}
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5040
+create-a-node-here really 24.38 45 {\nMeritor has headed the list since May.}
+nextSentence really
+autolink_nodes 5040 45 satelite elaboration-additional  5041
+create-a-node-here really 25.80 46 {\nFirst Executive and troubled Valley National Corp. of Arizona were next in line.}
+nextSentence really
+autolink_nodes 5041 46 satelite comparison  5042
+autolink_nodes 5039 5042 satelite elaboration-additional  5043
+#disconnect_node 5031 modify
+#UNDID
+disconnect_node 5031 disconnect
+autolink_nodes 5031 5027 satelite background  5044
+autolink_nodes 5044 5033 satelite elaboration-additional  5045
+create-a-node-here really 27.59 47 { \n\nShort selling isn't necessarily bad for the overall market.}
+create-a-node-here really 28.43 48 {\nShorted shares must eventually be replaced }
+create-a-node-here really 28.62 49 {through buying.}
+nextSentence really
+autolink_nodes 48 49 satelite means  5046
+create-a-node-here really 29.81 50 {\nIn addition, changes in short interest in some stocks may be caused by arbitrage.}
+nextSentence really
+autolink_nodes 5046 50 multinuclear List  5047
+create-a-node-here really 30.76 51 {\nFor example, an investor may seek to profit during some takeover situations }
+create-a-node-here really 30.120 52 {by buying stock in one company involved }
+create-a-node-here really 30.160 53 {and shorting the stock of the other.}
+nextSentence really
+autolink_nodes 52 53 multinuclear List  5048
+autolink_nodes 51 5048 satelite means  5049
+create-a-node-here really 32.15 54 { \n\nTwo big stocks }
+create-a-node-here really 32.49 55 {involved in takeover activity }
+create-a-node-here really 32.84 56 {saw their short interest surge.}
+nextSentence really
+autolink_nodes 54 55 satelite-embedded elaboration-object-attribute-e  5050
+autolink_nodes 5050 56 multinuclear Same-Unit  5051
+create-a-node-here really 33.130 57 {\nShort interest in the American depositary receipts of Jaguar, the target of both Ford Motor and General Motors, more than doubled.}
+nextSentence really
+autolink_nodes 5051 57 satelite elaboration-general-specific  5052
+create-a-node-here really 35.13 58 { \n\nNasdaq stocks}
+create-a-node-here really 35.54 59 { that showed a drop in short interest}
+create-a-node-here really 35.163 60 { included Adobe Systems, Class A shares of Tele-Communications and takeover targets Lyphomed and Jerrico.}
+nextSentence really
+autolink_nodes 58 59 satelite-embedded elaboration-object-attribute-e  5053
+autolink_nodes 5053 60 multinuclear Same-Unit  5054
+autolink_nodes 5052 5054 satelite antithesis  5055
+autolink_nodes 5049 5055 satelite example  5056
+autolink_nodes 5047 5056 satelite example  5057
+autolink_nodes 47 5057 satelite explanation-argumentative  5058
+collapsed_nodes {5011 5014 5033}
+autolink_nodes 5045 5058 satelite antithesis  5059
+collapsed_nodes {5011 5014 5033 5027}
+collapsed_nodes {5011 5014 5033 5027 5017}
+autolink_nodes 5018 5059 satelite elaboration-additional  5060
+create-a-node-here really 37.9 61 { \n\nThe NASD,}
+create-a-node-here really 37.56 62 { which operates the Nasdaq computer system }
+create-a-node-here really 37.92 63 {on which 5,200 OTC issues trade,}
+create-a-node-here really 37.144 64 { compiles short interest data in two categories:}
+create-a-node-here really 37.215 65 { the approximately two-thirds, and generally biggest, Nasdaq stocks}
+create-a-node-here really 37.261 66 { that trade on the National Market System;}
+create-a-node-here really 37.321 67 { and the one-third, and generally smaller, Nasdaq stocks}
+create-a-node-here really 37.359 68 { that aren't a part of the system.}
+nextSentence really
+autolink_nodes 67 68 satelite-embedded elaboration-object-attribute-e  5061
+autolink_nodes 65 66 satelite-embedded elaboration-object-attribute-e  5062
+autolink_nodes 5062 5061 multinuclear List  5063
+autolink_nodes 62 63 satelite-embedded elaboration-object-attribute-e  5064
+autolink_nodes 61 5064 satelite-embedded elaboration-object-attribute-e  5065
+#autolink_nodes 64 5065 multinuclear Same-Unit  5066
+#autolink_nodes 5066 5063 satelite-embedded elaboration-set-member-e  5067
+#UNDID
+#UNDID
+autolink_nodes 5065 64 multinuclear Same-Unit  5066
+autolink_nodes 5066 5063 satelite elaboration-set-member  5067
+create-a-node-here really 39.71 69 { \n\nShort interest in 1,327 non-NMS securities totaled 40.3 million shares,}
+create-a-node-here really 39.144 70 { compared with almost 38 million shares in 1,310 issues in September.}
+nextSentence really
+autolink_nodes 69 70 satelite comparison  5068
+create-a-node-here really 41.141 71 { \n\nThe October short interest represents 1.04 days of average daily trading volume in the smaller stocks in the system for the reporting period,}
+create-a-node-here really 41.181 72 { compared with 0.94 day a month ago.}
+nextSentence really
+autolink_nodes 71 72 satelite comparison  5069
+create-a-node-here really 43.81 73 { \n\nAmong bigger OTC stocks, the figures represent 2.05 days of average daily volume,}
+create-a-node-here really 43.123 74 { compared with 2.14 days in September.}
+nextSentence really
+autolink_nodes 73 74 satelite comparison  5070
+autolink_nodes 5069 5070 multinuclear List  5071
+autolink_nodes 5071 5068 multinuclear List below 5071
+autolink_nodes 5071 5067 satelite background  5072
+collapsed_nodes {5011 5014 5033 5027 5017 5067}
+collapsed_nodes {5011 5014 5033 5027 5017 5067 5057}
+collapsed_nodes {5011 5014 5033 5027 5017 5067 5057 5059}
+autolink_nodes 5060 5072 satelite elaboration-additional  5073
+autolink_nodes 5073 1 satelite summary-s  5074
+create-a-node-here really 45.35 75 { \n\nThe adjacent tables show the issues}
+create-a-node-here really 45.122 76 { in which a short interest position of at least 50,000 shares existed as of Oct. 13}
+create-a-node-here really 45.214 77 { or in which there was a short position change of at least 25,000 shares since Sept. 15 }
+create-a-node-here really 45.243 78 {(see accompanying tables }
+create-a-node-here really 45.269 79 {-- WSJ Oct. 25, 1989).}
+nextSentence really
+autolink_nodes 78 79 satelite attribution  5075
+autolink_nodes 76 77 multinuclear Disjunction  5076
+autolink_nodes 75 5076 satelite-embedded elaboration-object-attribute-e  5077
+autolink_nodes 5077 5075 satelite elaboration-additional  5078
+change_constit 5078 Footnote
+#change_constit 5074 Text
+#autolink_nodes 5078 5074 multinuclear TextualOrganization  5079
+#collapsed_nodes {5033 5027 5017 5067 5057 5059}
+#collapsed_nodes {5033 5027 5067 5057 5059}
+#collapsed_nodes {5067}
+#collapsed_nodes {}
+#disconnect_node 7 disconnect
+#autolink_nodes 6 7 nucleus attribution  5080
+#disconnect_node 1 disconnect
+#UNDID
+#disconnect_node 5078 disconnect
+#disconnect_node 1 disconnect
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 1 disconnect
+autolink_nodes 5073 1 nucleus summary-n  5079
+collapsed_nodes {5033 5027 5017 5067 5057 5059}
+collapsed_nodes {5033 5027 5067 5057 5059}
+collapsed_nodes {5067}
+collapsed_nodes {}
+change_constit 5078 Footnote
+change_constit 5079 Text
+autolink_nodes 5078 5079 multinuclear TextualOrganization  5080

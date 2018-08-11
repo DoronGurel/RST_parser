@@ -1,0 +1,540 @@
+nextSentence really
+create-a-node-here really 2.55 1 {\nIn Bombay stock market circles, the buzzword is "mega."}
+nextSentence really
+create-a-node-here really 2.113 2 { At least 40 companies are coming to the capital market}
+#create-a-node-here really 2.137 3 { to raise $6 billion,}
+#create-a-node-here really 2.183 4 { an amount never thought possible in India.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.147 3 { to raise $6 billion, an amount}
+create-a-node-here really 2.183 4 { never thought possible in India.}
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 2 5001 satelite purpose  5002
+autolink_nodes 1 5002 satelite elaboration-additional  5003
+create-a-node-here really 4.28 5 { \n\n"When they talk mega-issues,}
+create-a-node-here really 4.60 6 { they're truly talking mega,"}
+create-a-node-here really 4.135 7 { says S.A. Dave, chairman of the Securities and Exchange Board of India.}
+nextSentence really
+autolink_nodes 6 5 multinuclear Topic-Comment  5004
+autolink_nodes 5004 7 satelite attribution  5005
+create-a-node-here really 4.171 8 { "The capital market is booming."}
+nextSentence really
+autolink_nodes 5005 8 satelite elaboration-additional  5006
+autolink_nodes 5003 5006 satelite elaboration-additional  5007
+create-a-node-here really 6.95 9 { \n\nBut the mega-issues are raising megaquestions about the rapidly evolving Indian capital market.}
+nextSentence really
+create-a-node-here really 7.37 10 {\nOne is whether there is enough money }
+create-a-node-here really 7.63 11 {to fund the new issues}
+create-a-node-here really 7.101 12 { without depressing stock trading.}
+nextSentence really
+autolink_nodes 11 12 satelite manner  5008
+#autolink_nodes 10 5008 satelite-embedded elaboration-object-attribute-e  5009
+#UNDID
+autolink_nodes 10 5008 satelite purpose  5009
+create-a-node-here really 9.94 13 { \n\nMoreover, in the relatively unregulated Indian stock markets, investors frequently don't know }
+create-a-node-here really 9.119 14 {what they are getting}
+create-a-node-here really 9.156 15 { when they subscribe to an issue.}
+autolink_nodes 14 15 satelite circumstance  5010
+autolink_nodes 13 5010 nucleus attribution-n  5011
+autolink_nodes 5011 5009 multinuclear List  5012
+autolink_nodes 9 5012 satelite elaboration-general-specific  5013
+create-a-node-here really 10.68 16 {\nA prospectus in India doesn't always tell a potential investor much.}
+nextSentence really
+create-a-node-here really 11.58 17 {\nSome of the large amounts are being raised by small firms.}
+nextSentence really
+create-a-node-here really 12.12 18 {\nIn addition,}
+create-a-node-here really 12.38 19 { once money is raised,}
+#create-a-node-here really 12.83 20 { investors usually have no way of knowing}
+#create-a-node-here really 12.104 21 { how it is spent.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 12.73 20 { investors usually have no way }
+create-a-node-here really 12.87 21 {of knowing}
+create-a-node-here really 12.108 22 { how it is spent.}
+autolink_nodes 21 22 nucleus attribution  5014
+autolink_nodes 20 5014 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 5015 19 satelite-embedded circumstance-e  5016
+autolink_nodes 5016 18 multinuclear Same-Unit  5017
+#autolink_nodes 17 5017 multinuclear List  5018
+#UNDID
+autolink_nodes 17 5017 multinuclear List  5018
+#autolink_nodes 16 5018 satelite example  5019
+#UNDID
+autolink_nodes 16 5018 satelite example  5019
+autolink_nodes 5011 5019 satelite explanation-argumentative  5020
+autolink_nodes 9 5007 satelite circumstance below 5021
+create-a-node-here really 14.28 23 { \n\nSome analysts are concerned }
+create-a-node-here really 14.117 24 {that the mega-issues, in such an unregulated environment, could lead to a mega-crash.}
+nextSentence really
+autolink_nodes 23 24 nucleus attribution  5022
+create-a-node-here really 14.211 25 { "The rate of failures will be much more than the rate of successes in the mega-projects,"}
+create-a-node-here really 14.317 26 { says G.S. Patel, a former chairman of the giant, government-run mutual fund, the Unit Trust of India.}
+nextSentence really
+autolink_nodes 25 26 satelite attribution  5023
+create-a-node-here really 14.360 27 { "They're going to have mega-problems."}
+nextSentence really
+autolink_nodes 5023 27 satelite explanation-argumentative  5024
+autolink_nodes 5022 5024 satelite explanation-argumentative  5025
+autolink_nodes 5013 5025 satelite elaboration-additional  5026
+collapsed_nodes {5012}
+collapsed_nodes {5012 5025}
+create-a-node-here really 16.82 28 { \n\nThe Indian stock markets have been on a five-year high, with dips and corrections,}
+create-a-node-here really 16.151 29 { since Prime Minister Rajiv Gandhi started liberalizing industry.}
+nextSentence really
+#autolink_nodes 28 29 satelite circumstance  5027
+#UNDID
+autolink_nodes 28 29 satelite consequence-n  5027
+#create-a-node-here really 17.94 30 {\nBut the last stock market boom, in 1986, seems small compared with the current rush to market.}
+#UNDID
+create-a-node-here really 17.52 30 {\nBut the last stock market boom, in 1986, seems small}
+create-a-node-here really 17.98 31 { compared with the current rush to market.}
+autolink_nodes 30 31 satelite comparison  5028
+autolink_nodes 5027 5028 satelite elaboration-additional  5029
+create-a-node-here really 19.14 32 { \n\nThe $6 billion}
+nextSentence really
+#create-a-node-here really 19.90 33 { that some 40 companies are looking to raise in the year ending March 31}
+#create-a-node-here really 19.127 34 { compares with only $2.7 billion }
+#create-a-node-here really 19.188 35 {raised on the capital market in the previous fiscal year.}
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 19.74 33 { that some 40 companies are looking to raise in the year}
+create-a-node-here really 19.95 34 { ending March 31 }
+create-a-node-here really 19.130 35 {compares with only $2.7 billion}
+create-a-node-here really 19.192 36 { raised on the capital market in the previous fiscal year.}
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5030
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5031
+autolink_nodes 32 5031 satelite-embedded elaboration-object-attribute-e  5032
+autolink_nodes 5030 5032 multinuclear Same-Unit  5033
+create-a-node-here really 20.15 37 {\nIn fiscal 1984,}
+create-a-node-here really 20.52 38 { before Mr. Gandhi came to power,}
+create-a-node-here really 20.86 39 { only $810 million was raised.}
+autolink_nodes 37 38 satelite-embedded circumstance-e  5034
+#autolink_nodes 39 5034 multinuclear Same-Unit  5035
+#UNDID
+autolink_nodes 39 5034 multinuclear Same-Unit  5035
+autolink_nodes 5033 5035 satelite comparison  5036
+autolink_nodes 5036 5029 satelite background  5037
+create-a-node-here really 22.144 40 { \n\nThis year's biggest issue, $570 million of convertible debentures by engineering company Larsen & Toubro Ltd., is the largest in Indian history.}
+nextSentence really
+create-a-node-here really 23.34 41 {\nAnd it isn't the only giant issue:}
+create-a-node-here really 23.93 42 { together, the top four issues will raise $1.3 billion.}
+nextSentence really
+autolink_nodes 41 42 satelite example  5038
+autolink_nodes 40 5038 satelite elaboration-additional  5039
+create-a-node-here really 24.23 43 {\nConvertible debentures }
+create-a-node-here really 24.35 44 {-- bonds}
+create-a-node-here really 24.89 45 { that can later be converted into equity shares --}
+create-a-node-here really 24.136 46 { are the most popular instrument this year,}
+create-a-node-here really 24.218 47 { though many companies are also selling nonconvertible bonds or equity shares.}
+nextSentence really
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5040
+autolink_nodes 43 5040 satelite-embedded definition-e  5041
+autolink_nodes 46 5041 multinuclear Same-Unit  5042
+autolink_nodes 5042 47 satelite antithesis  5043
+autolink_nodes 5039 5043 satelite elaboration-additional  5044
+autolink_nodes 5037 5044 satelite elaboration-additional  5045
+create-a-node-here really 26.77 48 { \n\nThese mega-issues are being propelled by two factors, economic and political.}
+nextSentence really
+collapsed_nodes {5012 5025 5044}
+collapsed_nodes {5012 5025 5044 5035}
+collapsed_nodes {5012 5025 5044 5035 5029}
+create-a-node-here really 28.165 49 { \n\nIn the past, the socialist policies of the government strictly limited the size of new steel mills, petrochemical plants, car factories and other industrial concerns}
+create-a-node-here really 28.192 50 { to conserve resources }
+create-a-node-here really 28.221 51 {and restrict the profits }
+create-a-node-here really 28.248 52 {businessmen could make.}
+nextSentence really
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5046
+autolink_nodes 50 5046 multinuclear List  5047
+autolink_nodes 49 5047 satelite purpose  5048
+create-a-node-here really 29.92 53 {\nAs a result, industry operated out of small, expensive, highly inefficient industrial units.}
+nextSentence really
+autolink_nodes 5048 53 nucleus result  5049
+create-a-node-here really 31.30 54 { \n\nWhen Mr. Gandhi came to power,}
+create-a-node-here really 31.72 55 { he ushered in new rules for business.}
+nextSentence really
+autolink_nodes 54 55 nucleus circumstance  5050
+create-a-node-here really 32.7 56 {\nHe said}
+create-a-node-here really 32.82 57 { industry should build plants on the same scale as those outside India }
+create-a-node-here really 32.122 58 {and benefit from economies of scale.}
+nextSentence really
+autolink_nodes 57 58 multinuclear List  5051
+autolink_nodes 5051 56 satelite attribution  5052
+create-a-node-here really 33.52 59 {\nIf the output was too great for the domestic market,}
+create-a-node-here really 33.65 60 { he said,}
+create-a-node-here really 33.94 61 { companies should export.}
+nextSentence really
+autolink_nodes 59 60 satelite attribution  5053
+autolink_nodes 61 5053 satelite circumstance  5054
+autolink_nodes 5052 5054 satelite elaboration-additional  5055
+autolink_nodes 5050 5055 satelite elaboration-additional  5056
+autolink_nodes 5056 5049 satelite concession  5057
+create-a-node-here really 35.54 62 { \n\nIndia's overregulated businessmen had to be persuaded,}
+create-a-node-here really 35.94 63 { but they have started to think big.}
+nextSentence really
+autolink_nodes 62 63 nucleus consequence-n  5058
+create-a-node-here really 36.20 64 {\nSome of the projects}
+create-a-node-here really 36.55 65 { being funded by the new issues}
+create-a-node-here really 36.104 66 { are the first fruits of Mr. Gandhi's policy,}
+create-a-node-here really 36.172 67 { and they require more capital than the smaller industrial units}
+create-a-node-here really 36.195 68 { built in the past.}
+nextSentence really
+autolink_nodes 67 68 satelite-embedded elaboration-object-attribute-e  5059
+autolink_nodes 64 65 satelite-embedded elaboration-object-attribute-e  5060
+autolink_nodes 66 5060 multinuclear Same-Unit  5061
+autolink_nodes 5061 5059 satelite elaboration-additional  5062
+autolink_nodes 5062 5058 satelite consequence-n  5063
+autolink_nodes 5057 5063 satelite elaboration-additional  5064
+create-a-node-here really 37.74 69 {\nThe industrial revolution has produced an explosion in the capital market,}
+create-a-node-here really 37.151 70 { which is a far cheaper source of funds than government-controlled banks,}
+create-a-node-here really 37.212 71 { where interest rates for prime borrowers are around 16%.}
+nextSentence really
+#autolink_nodes 70 71 satelite-embedded elaboration-additional-e  5065
+#UNDID
+autolink_nodes 70 71 satelite-embedded elaboration-additional-e  5065
+autolink_nodes 69 5065 satelite-embedded elaboration-additional-e  5066
+collapsed_nodes {5012 5025 5044 5035 5029 5063}
+autolink_nodes 5066 5064 nucleus consequence-s  5067
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066}
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055}
+#create-a-node-here really 39.52 72 { \n\nThe second factor spurring mega-issues is political.}
+#create-a-node-here really 40.53 73 {\nMr. Gandhi has called general elections for November,}
+#create-a-node-here really 40.83 74 { and many businessmen fear}
+#create-a-node-here really 40.133 75 { that he and his Congress (I) Party will lose.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 39.18 72 { \n\nThe second factor }
+create-a-node-here really 39.42 73 {spurring mega-issues}
+create-a-node-here really 39.60 74 { is political.}
+autolink_nodes 72 73 satelite-embedded elaboration-object-attribute-e  5068
+autolink_nodes 74 5068 multinuclear Same-Unit  5069
+create-a-node-here really 40.53 75 {\nMr. Gandhi has called general elections for November,}
+create-a-node-here really 40.84 76 { and many businessmen fear }
+create-a-node-here really 40.133 77 {that he and his Congress (I) Party will lose.}
+nextSentence really
+autolink_nodes 76 77 nucleus attribution  5070
+autolink_nodes 5070 75 satelite consequence-n  5071
+create-a-node-here really 41.131 78 {\nSome companies are raising money in anticipation of a government less predictable than Mr. Gandhi's, and possibly more restrictive.}
+nextSentence really
+autolink_nodes 5071 78 satelite evidence  5072
+autolink_nodes 5069 5072 satelite elaboration-additional  5073
+create-a-node-here really 43.39 79 { \n\nThe buoyant Bombay rumor mill also says}
+create-a-node-here really 43.67 80 { that some of the money }
+create-a-node-here really 43.108 81 {raised in the current spate of issues}
+create-a-node-here really 43.169 82 { will be used as campaign donations before the elections.}
+nextSentence really
+autolink_nodes 80 81 satelite-embedded elaboration-object-attribute-e  5074
+autolink_nodes 82 5074 multinuclear Same-Unit  5075
+autolink_nodes 79 5075 nucleus attribution  5076
+create-a-node-here really 44.26 83 {\nNo one admits to anything,}
+create-a-node-here really 44.72 84 { but India's industrialists have a history}
+create-a-node-here really 44.122 85 { of making under-the-table campaign donations.}
+nextSentence really
+autolink_nodes 84 85 satelite-embedded elaboration-object-attribute-e  5077
+autolink_nodes 5077 83 satelite comment  5078
+autolink_nodes 5076 5078 satelite background  5079
+autolink_nodes 5073 5079 satelite elaboration-additional  5080
+autolink_nodes 5067 5080 multinuclear List  5081
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072}
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079}
+autolink_nodes 48 5081 satelite elaboration-set-member  5082
+autolink_nodes 5045 5082 satelite elaboration-additional  5083
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082}
+autolink_nodes 5026 5083 satelite elaboration-additional  5084
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083}
+create-a-node-here really 46.49 86 { \n\nSo far, the mega-issues are a hit with investors.}
+nextSentence really
+create-a-node-here really 47.111 87 {\nEarlier this year, Tata Iron & Steel Co. 's offer of $355 million of convertible debentures was oversubscribed.}
+nextSentence really
+create-a-node-here really 48.101 88 {\nEssar Gujarat Ltd., a marine construction company, had similar success with a slightly smaller issue.}
+nextSentence really
+create-a-node-here really 49.86 89 {\nLarsen & Toubro started accepting applications for its giant issue earlier this month;}
+create-a-node-here really 49.143 90 { bankers and analysts expect it to be oversubscribed.}
+nextSentence really
+autolink_nodes 89 90 satelite elaboration-additional  5085
+autolink_nodes 88 5085 multinuclear List  5086
+autolink_nodes 5086 87 multinuclear List below 5086
+#autolink_nodes 5086 86 multinuclear List below 5086
+#UNDID
+create-a-node-here really 51.121 91 { \n\nStill to come are big issues by Bindal Agro Chem Ltd., a petrochemical and agrochemical company, and Usha Rectifier Corp.}
+create-a-node-here really 51.134 92 { (India),}
+create-a-node-here really 51.161 93 { a semiconductor maker.}
+autolink_nodes 91 92 satelite-embedded elaboration-additional-e  5087
+autolink_nodes 93 5087 multinuclear Same-Unit  5088
+autolink_nodes 5088 5086 multinuclear List above 5089
+autolink_nodes 86 5089 satelite evidence  5090
+create-a-node-here really 52.58 94 {\nWhile many investors are selling parts of their portfolios}
+create-a-node-here really 52.85 95 { to buy the new issues,}
+create-a-node-here really 52.149 96 { prices on India's 16 stock exchanges are holding up so far.}
+nextSentence really
+autolink_nodes 94 95 satelite purpose  5091
+autolink_nodes 96 5091 satelite concession  5092
+create-a-node-here really 54.14 97 { \n\n"I don't think}
+create-a-node-here really 54.70 98 { it will lead to any chaos in the secondary market,"}
+create-a-node-here really 54.90 99 { says Mr. Patel,}
+create-a-node-here really 54.121 100 { "only a sagging tendency."}
+nextSentence really
+#autolink_nodes 97 98 nucleus attribution  5093
+#UNDID
+autolink_nodes 97 98 nucleus attribution-n  5093
+#autolink_nodes 5093 99 satelite attribution  5094
+#UNDID
+autolink_nodes 5093 99 satelite-embedded attribution-e  5094
+autolink_nodes 100 5094 multinuclear Same-Unit  5095
+create-a-node-here really 54.183 101 { Says M.J. Pherwani, chairman of the Unit Trust of India:}
+#create-a-node-here really 54.223 102 { The "markets are headed for growth}
+#create-a-node-here really 54.260 103 { unheard of and unseen before." }
+#UNDID
+#UNDID
+create-a-node-here really 54.254 102 { The "markets are headed for growth unheard of and unseen before."}
+autolink_nodes 101 102 nucleus attribution  5096
+autolink_nodes 5096 5095 multinuclear List  5097
+autolink_nodes 5092 5097 satelite elaboration-additional  5098
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089}
+autolink_nodes 5090 5098 satelite elaboration-additional  5099
+create-a-node-here really 56.35 103 { \n\nBut with growth come growing pains,}
+create-a-node-here really 56.111 104 { and never has this been clearer on the Indian capital market than now.}
+nextSentence really
+autolink_nodes 103 104 satelite elaboration-additional  5100
+#create-a-node-here really 58.62 105 { \n\nIn the past, the government controlled the markets indirectly,}
+#UNDID
+create-a-node-here really 58.105 105 { \n\nIn the past, the government controlled the markets indirectly, through its tight grip on industry itself.}
+create-a-node-here really 59.39 106 {\nVarious ministries decided the products}
+create-a-node-here really 59.70 107 { businessmen could produce}
+create-a-node-here really 59.89 108 { and how much;}
+create-a-node-here really 59.158 109 { and government-owned banks controlled the financing of projects}
+create-a-node-here really 59.178 110 { and monitored }
+create-a-node-here really 59.232 111 {whether companies came through on promised plans.}
+nextSentence really
+autolink_nodes 110 111 nucleus attribution  5101
+autolink_nodes 5101 109 multinuclear List  5102
+autolink_nodes 106 107 satelite-embedded elaboration-object-attribute-e  5103
+autolink_nodes 108 5103 multinuclear Same-Unit  5104
+autolink_nodes 5102 5104 multinuclear List above 5105
+autolink_nodes 105 5105 satelite evidence  5106
+create-a-node-here really 61.79 112 { \n\nThe government has been content with this far-reaching, subtle form of control,}
+create-a-node-here really 61.153 113 { exercised on a case-by-case basis with no clear rules or guidelines.}
+nextSentence really
+autolink_nodes 112 113 satelite-embedded elaboration-object-attribute-e  5107
+autolink_nodes 5106 5107 satelite elaboration-additional  5108
+#create-a-node-here really 62.8 114 {\nBut now,}
+#UNDID
+#create-a-node-here really 62.27 114 {\nBut now, with large amounts}
+#create-a-node-here really 62.61 115 { being raised from investors,}
+#create-a-node-here really 62.163 116 { the government's dawdling on regulation and disclosure requirements has a more dangerous aspect.}
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 62.8 114 {\nBut now,}
+create-a-node-here really 62.61 115 { with large amounts being raised from investors,}
+create-a-node-here really 62.163 116 { the government's dawdling on regulation and disclosure requirements has a more dangerous aspect.}
+autolink_nodes 114 115 satelite-embedded circumstance-e  5109
+autolink_nodes 116 5109 multinuclear Same-Unit  5110
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105}
+autolink_nodes 5110 5108 satelite antithesis  5111
+create-a-node-here really 63.136 117 {\nThe Securities and Exchange Board of India was set up earlier this year, along the lines of the U.S. Securities and Exchange Commission,}
+create-a-node-here really 63.185 118 { but New Delhi hasn't pushed the legislation}
+create-a-node-here really 63.214 119 { to make it operational.}
+nextSentence really
+autolink_nodes 118 119 satelite-embedded elaboration-object-attribute-e  5112
+autolink_nodes 5112 117 satelite concession  5113
+autolink_nodes 5111 5113 satelite evidence  5114
+create-a-node-here really 64.44 120 {\nMr. Dave, its head, acts cheery and patient,}
+create-a-node-here really 64.87 121 { but he makes no bones about the need }
+create-a-node-here really 64.107 122 {to get to work.}
+nextSentence really
+autolink_nodes 121 122 satelite-embedded elaboration-object-attribute-e  5115
+autolink_nodes 5115 120 satelite antithesis  5116
+autolink_nodes 5113 5116 satelite elaboration-additional  5117
+create-a-node-here really 66.18 123 { \n\n"Mega or non-mega,}
+create-a-node-here really 66.31 124 { we feel}
+create-a-node-here really 66.96 125 { the prospectus standards need to be considerably improved,"}
+create-a-node-here really 66.110 126 { he says.}
+nextSentence really
+autolink_nodes 123 124 satelite-embedded attribution-e  5118
+autolink_nodes 125 5118 multinuclear Same-Unit  5119
+autolink_nodes 5119 126 satelite attribution  5120
+create-a-node-here really 66.153 127 { "Disclosures are very poor in India."}
+nextSentence really
+#create-a-node-here really 66.184 128 { He says the big questions}
+#create-a-node-here really 66.229 129 { -- "Do you really need this much money }
+#create-a-node-here really 66.262 130 {to put up these investments?}
+#nextSentence really
+#autolink_nodes 129 130 satelite purpose  5121
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 66.166 128 { He says}
+create-a-node-here really 66.189 129 { the big questions}
+create-a-node-here really 66.233 130 { -- "Do you really need this much money}
+create-a-node-here really 67.0 131 { to put up these investments?\n}
+autolink_nodes 130 131 satelite purpose  5121
+create-a-node-here really 67.28 132 {Have you told investors}
+create-a-node-here really 67.67 133 { what is happening in your sector?}
+nextSentence really
+autolink_nodes 132 133 nucleus attribution  5122
+nextSentence really
+create-a-node-here really 68.34 134 {\nWhat about your track record? -- "}
+autolink_nodes 5122 134 multinuclear List  5123
+autolink_nodes 5123 5121 multinuclear List below 5123
+#autolink_nodes 129 5123 satelite-embedded elaboration-set-member-e  5124
+#UNDID
+autolink_nodes 129 5123 satelite-embedded elaboration-object-attribute-e  5124
+create-a-node-here really 68.64 135 {aren't asked of companies}
+create-a-node-here really 68.87 136 { coming to market.}
+change_rel 5123 elaboration-general-specific-e
+autolink_nodes 135 136 satelite-embedded elaboration-object-attribute-e  5125
+autolink_nodes 5125 5124 multinuclear Same-Unit  5126
+autolink_nodes 128 5126 nucleus attribution  5127
+create-a-node-here really 69.8 137 {\nInstead,}
+create-a-node-here really 69.22 138 { he says,}
+create-a-node-here really 69.88 139 { most investors have to rely on the rumor-happy Indian press.}
+nextSentence really
+autolink_nodes 137 138 satelite-embedded attribution-e  5128
+autolink_nodes 5128 139 multinuclear Same-Unit  5129
+autolink_nodes 5127 5129 satelite antithesis  5130
+autolink_nodes 127 5130 satelite explanation-argumentative  5131
+create-a-node-here really 71.90 140 { \n\nAn example is the biggest offering of them all, Larsen & Toubro's $570 million bond issue.}
+nextSentence really
+create-a-node-here really 72.105 141 {\nThe engineering company was acquired in a takeover earlier this year by the giant Reliance textile group.}
+nextSentence really
+create-a-node-here really 73.73 142 {\nAlthough Larsen & Toubro hadn't raised money from the public in 38 years,}
+create-a-node-here really 73.137 143 { its new owners frequently raise funds on the local market.}
+nextSentence really
+autolink_nodes 142 143 nucleus antithesis  5132
+autolink_nodes 5132 141 satelite background  5133
+create-a-node-here really 73.206 144 { (Reliance floated a $357 million petrochemical company in 1988 }
+nextSentence really
+create-a-node-here really 73.278 145 {that was, at the time, the largest public issue in Indian history.)}
+autolink_nodes 144 145 satelite-embedded elaboration-object-attribute-e  5134
+change_rel 145 elaboration-additional-e
+autolink_nodes 5133 5134 satelite example  5135
+change_rel 5134 evidence
+autolink_nodes 140 5135 satelite elaboration-additional  5136
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135}
+create-a-node-here really 73.345 146 { The media has raised questions about Larsen & Toubro's issue,}
+create-a-node-here really 73.364 147 { pointing out }
+create-a-node-here really 73.442 148 {that it exceeds the company's annual sales and its market capitalization.}
+nextSentence really
+autolink_nodes 147 148 nucleus attribution  5137
+autolink_nodes 146 5137 satelite elaboration-additional  5138
+autolink_nodes 5136 5138 satelite elaboration-additional  5139
+create-a-node-here really 75.99 149 { \n\nEven stranger is the case of Usha Rectifier, a semiconductor company with 1988 sales of $28 million}
+create-a-node-here really 75.132 150 { that's raising $270 million}
+create-a-node-here really 75.161 151 { to build an iron plant.}
+nextSentence really
+autolink_nodes 150 151 satelite purpose  5140
+autolink_nodes 149 5140 satelite-embedded elaboration-object-attribute-e  5141
+autolink_nodes 5139 5141 multinuclear List  5142
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135 5130}
+autolink_nodes 5131 5142 satelite example  5143
+autolink_nodes 5120 5143 satelite explanation-argumentative  5144
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135 5130 5143}
+create-a-node-here really 77.25 152 { \n\nOnce the money is raised,}
+create-a-node-here really 77.70 153 { it isn't always certain how it is used.}
+nextSentence really
+autolink_nodes 152 153 nucleus circumstance  5145
+create-a-node-here really 78.34 154 {\nLarsen & Toubro, for example, says}
+create-a-node-here really 78.65 155 { it's raising $570 million}
+create-a-node-here really 78.123 156 { to use as supplier credit on large engineering jobs.}
+nextSentence really
+#autolink_nodes 155 156 satelite question-answer-s  5146
+#UNDID
+autolink_nodes 155 156 satelite purpose  5146
+autolink_nodes 154 5146 nucleus attribution  5147
+create-a-node-here really 79.78 157 {\nUnlike other companies, it hasn't pin-pointed specific projects for the funds.}
+autolink_nodes 5147 157 nucleus circumstance  5148
+autolink_nodes 5145 5148 satelite example  5149
+create-a-node-here really 80.62 158 {\nAnd even when specific projects are described in prospectuses,}
+create-a-node-here really 80.102 159 { the money often is used elsewhere,}
+create-a-node-here really 80.130 160 { according to analysts.}
+nextSentence really
+autolink_nodes 159 158 satelite antithesis  5150
+autolink_nodes 5150 160 satelite attribution  5151
+autolink_nodes 5148 5151 satelite elaboration-additional  5152
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135 5130 5143 5152}
+create-a-node-here really 82.21 161 { \n\n"Someone must monitor}
+create-a-node-here really 82.58 162 { where the funds are deployed," }
+create-a-node-here really 82.77 163 {says Mr. Dave.}
+nextSentence really
+autolink_nodes 161 162 nucleus attribution  5153
+autolink_nodes 5153 163 satelite attribution  5154
+create-a-node-here really 83.17 164 {\nMr. Patel agrees:}
+create-a-node-here really 83.94 165 { "There is no proper monitoring and screening of the use of these funds.}
+nextSentence really
+autolink_nodes 164 165 nucleus attribution  5155
+create-a-node-here really 84.45 166 {\nThey're trying to plug the various loopholes,}
+create-a-node-here really 84.92 167 { but they're totally unprepared for this."}
+nextSentence really
+autolink_nodes 166 167 nucleus antithesis  5156
+#autolink_nodes 5155 5156 satelite elaboration-additional  5157
+#autolink_nodes 5154 5157 multinuclear List  5158
+#autolink_nodes 5149 5158 multinuclear Problem-Solution  5159
+#UNDID
+#UNDID
+#autolink_nodes 5154 5157 multinuclear Problem-Solution  5158
+#UNDID
+#UNDID
+autolink_nodes 5155 5156 satelite elaboration-additional  5157
+autolink_nodes 5154 5157 multinuclear List  5158
+autolink_nodes 5149 5158 multinuclear Problem-Solution  5159
+autolink_nodes 5144 5159 satelite elaboration-additional  5160
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135 5130 5143 5152 5159}
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135 5130 5143 5152 5159 5117}
+autolink_nodes 5114 5160 satelite elaboration-additional  5161
+create-a-node-here really 86.38 168 { \n\nBecause of the large amounts of money }
+create-a-node-here really 86.56 169 {being raised,}
+create-a-node-here really 86.122 170 { the loose disclosure requirements and the casual monitoring }
+create-a-node-here really 86.152 171 {of how the money is used,}
+create-a-node-here really 86.177 172 { some analysts fear }
+create-a-node-here really 86.221 173 {that there could be a few mega-crashes,}
+create-a-node-here really 86.298 174 { which could hurt market confidence far more than the small bankruptcies}
+create-a-node-here really 86.335 175 { that followed the boom of 1986.}
+autolink_nodes 174 175 satelite-embedded elaboration-object-attribute-e  5162
+autolink_nodes 173 5162 satelite-embedded elaboration-object-attribute-e  5163
+autolink_nodes 172 5163 nucleus attribution  5164
+autolink_nodes 170 171 satelite-embedded elaboration-object-attribute-e  5165
+autolink_nodes 168 169 satelite-embedded elaboration-object-attribute-e  5166
+autolink_nodes 5165 5166 multinuclear Same-Unit  5167
+autolink_nodes 5164 5167 satelite reason  5168
+create-a-node-here really 87.22 176 {\nThe government insists}
+create-a-node-here really 87.59 177 { that such a possibility is low.}
+nextSentence really
+autolink_nodes 176 177 nucleus antithesis  5169
+create-a-node-here really 88.7 178 {\nIt says}
+create-a-node-here really 88.17 179 { that}
+create-a-node-here really 88.69 180 { despite loose regulation of the market itself,}
+create-a-node-here really 88.141 181 { its longstanding regulation of industry will prevent such crashes.}
+nextSentence really
+autolink_nodes 180 181 nucleus-embedded antithesis-e  5170
+autolink_nodes 5170 179 multinuclear Same-Unit  5171
+autolink_nodes 178 5171 nucleus attribution  5172
+autolink_nodes 5169 5172 satelite explanation-argumentative  5173
+autolink_nodes 5168 5173 satelite antithesis  5174
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135 5130 5143 5152 5159 5117 5160}
+autolink_nodes 5161 5174 satelite elaboration-additional  5175
+autolink_nodes 5100 5175 satelite elaboration-additional  5176
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135 5130 5143 5152 5159 5117 5160 5098}
+autolink_nodes 5176 5099 satelite antithesis  5177
+autolink_nodes 5084 5177 satelite elaboration-additional  5178
+create-a-node-here really 90.43 182 { \n\nT.T. Ram Mohan contributed to this article.}
+nextSentence really
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135 5130 5143 5152 5159 5117 5160 5098 5175}
+collapsed_nodes {5012 5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135 5130 5143 5152 5159 5117 5160 5098 5175 5177}
+change_constit 182 Author
+change_constit 5178 Text
+autolink_nodes 182 5178 multinuclear TextualOrganization  5179
+collapsed_nodes {5025 5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135 5130 5143 5152 5159 5117 5160 5098 5175 5177}
+collapsed_nodes {5044 5035 5029 5063 5066 5055 5072 5079 5082 5083 5089 5105 5135 5130 5143 5152 5159 5117 5160 5098 5175 5177}
+collapsed_nodes {5089 5105 5135 5130 5143 5152 5159 5117 5160 5098 5175 5177}
+collapsed_nodes {}

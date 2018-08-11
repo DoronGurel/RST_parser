@@ -1,0 +1,41 @@
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 3.92 1 {\nMontedison S.p.\nA. definitively agreed to buy all of the publicly held shares of Erbamont N.V. for $37 each.}
+nextSentence really
+create-a-node-here really 5.63 2 { \n\nMontedison now owns about 72% of Erbamont's shares outstanding.}
+nextSentence really
+autolink_nodes 1 2 satelite elaboration-additional  5001
+create-a-node-here really 7.19 3 { \n\nThe companies said }
+create-a-node-here really 7.132 4 {the accord was unanimously approved by a special committee of Erbamont directors unaffiliated with Montedison.}
+nextSentence really
+autolink_nodes 3 4 nucleus attribution  5002
+create-a-node-here really 9.96 5 { \n\nUnder the pact, Montedision will make a $37-a-share tender offer for Erbamont stock outstanding.}
+nextSentence really
+create-a-node-here really 10.124 6 {\nThe tender offer will be followed by the sale of all of Erbamont's assets, subject to all of its liabilities, to Montedison.}
+nextSentence really
+create-a-node-here really 11.34 7 {\nErbamont will then be liquidated, }
+create-a-node-here really 11.113 8 {with any remaining Erbamont holders receiving a distribution of $37 a share.}
+nextSentence really
+autolink_nodes 7 8 satelite elaboration-additional  5003
+create-a-node-here really 13.19 9 { \n\nThe companies said }
+create-a-node-here really 13.67 10 {the transaction is being structured this way }
+autolink_nodes 9 10 nucleus attribution  5004
+create-a-node-here really 13.117 11 {because the laws of the Netherlands Antilles, }
+create-a-node-here really 13.156 12 {under which Erbamont is organized, }
+autolink_nodes 11 12 satelite-embedded elaboration-additional-e  5005
+create-a-node-here really 13.198 13 {don't provide for merger transactions.}
+nextSentence really
+autolink_nodes 5005 13 multinuclear Same-Unit  5006
+autolink_nodes 10 5006 satelite circumstance below 5007
+autolink_nodes 5001 5002 satelite circumstance  5008
+autolink_nodes 5 6 multinuclear Sequence  5009
+autolink_nodes 5009 5003 multinuclear Sequence below 5009
+autolink_nodes 5008 5009 satelite elaboration-process-step  5010
+autolink_nodes 5010 5004 satelite explanation-argumentative  5011
+#disconnect_node 5004 disconnect
+#UNDID
+disconnect_node 5006 modify
+autolink_nodes 10 5006 satelite consequence-s below 5012
+disconnect_node 5006 modify
+autolink_nodes 10 5006 satelite consequence-n below 5013

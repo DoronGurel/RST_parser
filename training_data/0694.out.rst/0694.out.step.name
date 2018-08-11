@@ -1,0 +1,122 @@
+nextSentence really
+create-a-node-here really 2.24 1 {\nWe are deeply disturbed }
+create-a-node-here really 2.58 2 {that a recent editorial stated }
+create-a-node-here really 2.193 3 {that the "Americans With Disabilities Act of 1989" was "crafted primarily by Democratic Senators Kennedy and Harkin" with a premise }
+create-a-node-here really 2.222 4 {"based on the presumption }
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 2.280 5 {that most Americans are hostile to the disabled. . . ."}
+nextSentence really
+create-a-node-here really 2.330 6 { Perhaps even more offensive is the statement, }
+create-a-node-here really 2.452 7 {"It is surprising that George Bush and the White House inner circle would ally themselves with this crabby philosophy."}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 2 3 nucleus attribution-n  5002
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e below 5003
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 4.73 8 { \n\nThis legislation was not drafted by a handful of Democratic "do-gooders."}
+nextSentence really
+create-a-node-here really 4.96 9 { Quite the contrary }
+create-a-node-here really 4.190 10 {-- it results from years of work by members of the National Council on the Handicapped, all}
+create-a-node-here really 4.225 11 { appointed by President Reagan.}
+nextSentence really
+autolink_nodes 5001 5005 satelite elaboration-additional  5006
+#autolink_nodes 9 10 nucleus explanation-argumentative  5007
+#UNDID
+autolink_nodes 9 10 nucleus explanation-argumentative  5007
+autolink_nodes 8 5007 multinuclear Contrast  5008
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e below 5009
+create-a-node-here really 5.33 12 {\nYou depict the bill as something }
+create-a-node-here really 5.103 13 {Democratic leaders "hoodwinked" the administration into endorsing.}
+create-a-node-here really 6.22 14 {\nThe opposite is true: }
+create-a-node-here really 6.161 15 {It's the product of many meetings with administration officials, Senate staffers, advocates, and business and transportation officials.}
+nextSentence really
+create-a-node-here really 7.132 16 {\nMany congressmen are citing the compromise on the "Americans With Disabilities Act of 1989" as a model for bipartisan deliberations.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 14 15 nucleus explanation-argumentative  5011
+autolink_nodes 5010 5011 multinuclear Contrast  5012
+autolink_nodes 5012 16 satelite elaboration-additional  5013
+autolink_nodes 5008 5013 satelite comment  5014
+autolink_nodes 5006 5014 satelite elaboration-additional  5015
+create-a-node-here really 9.54 17 { \n\nMost National Council members are themselves disabled }
+create-a-node-here really 9.103 18 {or are parents of children with disabilities.}
+nextSentence really
+create-a-node-here really 10.37 19 {\nWe know firsthand the discrimination }
+create-a-node-here really 10.63 20 {addressed by the act: }
+create-a-node-here really 10.121 21 {to be told there's no place for your child in school; }
+create-a-node-here really 10.155 22 {to spend lonely hours at home }
+create-a-node-here really 10.222 23 {because there is no transportation for someone in a wheelchair;}
+create-a-node-here really 10.251 24 { to be denied employment }
+create-a-node-here really 10.280 25 {because you are disabled.}
+nextSentence really
+autolink_nodes 17 18 multinuclear List  5016
+autolink_nodes 5013 5016 satelite elaboration-additional  5017
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5018
+autolink_nodes 21 22 multinuclear List  5019
+autolink_nodes 5018 5019 satelite example  5020
+autolink_nodes 22 23 satelite consequence-n  5021
+autolink_nodes 24 25 satelite consequence-n  5022
+autolink_nodes 5019 5022 multinuclear List below 5022
+create-a-node-here really 12.81 26 { \n\nYour editorial mockingly entitles this legislation the "Lawyers' Employment Act."}
+nextSentence really
+create-a-node-here really 12.202 27 { For the 43 million people with disabilities and their families, this legislation is the "Emancipation Proclamation."}
+nextSentence really
+#create-a-node-here really 21.0 28 { \n\nSandra Swift Parrino \n\nChairperson \n\nNational Council on the Handicapped \n\nWashington \n}
+#nextSentence really
+#autolink_nodes 5016 5020 satelite elaboration-additional  5023
+#autolink_nodes 26 27 multinuclear Contrast  5024
+#collapsed_nodes {5013}
+#autolink_nodes 5017 5024 satelite comment  5025
+#autolink_nodes 28 28 schema Signature-Block  5025
+#UNDID
+#autolink_nodes 28 28 schema Signature-Block  5025
+#autolink_nodes 5015 5015 schema Text  5025
+#collapsed_nodes {5013 5015}
+#autolink_nodes 5015 28 multinuclear TextualOrganization  5026
+#UNDID
+#autolink_nodes 5015 28 multinuclear TextualOrganization  5026
+#collapsed_nodes {}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 14.21 28 { \n\nSandra Swift Parrino }
+#UNDID
+create-a-node-here really 14.21 28 { \n\nSandra Swift Parrino }
+create-a-node-here really 16.11 29 {\n\nChairperson}
+create-a-node-here really 18.36 30 { \n\nNational Council on the Handicapped }
+create-a-node-here really 20.11 31 {\n\nWashington }
+change_rel 18 Disjunction
+autolink_nodes 5016 5020 satelite elaboration-additional  5023
+autolink_nodes 26 27 multinuclear Contrast  5024
+collapsed_nodes {5014}
+autolink_nodes 5006 5024 satelite comment below 5025
+autolink_nodes 28 29 multinuclear List  5026
+autolink_nodes 5026 30 multinuclear List below 5026
+autolink_nodes 5026 31 multinuclear List below 5026
+collapsed_nodes {5014 5025}
+#autolink_nodes 5015 5026 multinuclear TextualOrganization  5027
+#UNDID
+autolink_nodes 5015 5015 schema Text  5026
+autolink_nodes 5026 5026 schema Signature-Block  5026
+autolink_nodes 5015 5026 multinuclear TextualOrganization  5027
+collapsed_nodes {5014 5025 5027}
+collapsed_nodes {}
+#disconnect_node 5024 disconnect
+#UNDID
+collapsed_nodes {5014}
+disconnect_node 5024 disconnect
+autolink_nodes 5015 5024 satelite comment  5028
+collapsed_nodes {5014}
+collapsed_nodes {5014}
+collapsed_nodes {}
+collapsed_nodes {5028}
+collapsed_nodes {5028 5027}
+collapsed_nodes {}

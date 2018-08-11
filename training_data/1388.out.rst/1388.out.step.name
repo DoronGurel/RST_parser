@@ -1,0 +1,465 @@
+nextSentence really
+create-a-node-here really 2.28 1 {\nWhen Robert McDuffie was 14,}
+create-a-node-here really 2.48 2 { he got a chance }
+create-a-node-here really 2.131 3 {to play in the starting lineup for his high school basketball team in Macon, Ga.}
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 1 5001 nucleus circumstance  5002
+create-a-node-here really 3.85 4 {\nUnfortunately, his mother had tickets for a recital by Itzhak Perlman the same night,}
+create-a-node-here really 3.129 5 { and she was adamant about his attending.}
+nextSentence really
+autolink_nodes 4 5 satelite elaboration-additional  5003
+autolink_nodes 5002 5003 multinuclear Contrast  5004
+create-a-node-here really 3.154 6 { "I threw such a fit,"}
+create-a-node-here really 3.176 7 { says Mr. McDuffie,}
+create-a-node-here really 3.227 8 { who had begun violin studies at the age of six.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 6 5005 nucleus attribution  5006
+autolink_nodes 5004 5006 satelite consequence-s  5007
+create-a-node-here really 3.235 9 { "But}
+create-a-node-here really 3.268 10 { once Perlman started playing,}
+#create-a-node-here really 3.311 11 { I didn't give a damn about basketball.}
+#nextSentence really
+#UNDID
+#UNDID
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 3.317 11 { I didn't give a damn about basketball. . . .}
+autolink_nodes 11 10 satelite-embedded circumstance-e  5008
+autolink_nodes 9 5008 multinuclear Same-Unit  5009
+create-a-node-here really 3.346 12 { Afterwards, I went home }
+create-a-node-here really 3.381 13 {and practiced for three hours."}
+nextSentence really
+#autolink_nodes 12 13 nucleus topic-shift  5010
+#UNDID
+autolink_nodes 12 13 multinuclear List  5010
+autolink_nodes 5009 5010 satelite elaboration-additional  5011
+autolink_nodes 5011 5007 satelite circumstance  5012
+create-a-node-here really 5.87 14 { \n\nToday, it's obvious that the brawny, six-foot, one-inch musician made the right choice.}
+create-a-node-here really 6.116 15 {\nAt 31, Mr. McDuffie has a rich, full-bodied tone, an admirable rhythmic precision and an increasingly busy schedule.}
+nextSentence really
+create-a-node-here really 7.107 16 {\nHe's currently in the midst of a 17-city U.S. tour with Yehudi Menuhin and the Warsaw Sinfonia, with stops }
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+#create-a-node-here really 7.139 17 {including Charleston, S.C. (}
+#create-a-node-here really 7.152 18 {Oct. 25),}
+#create-a-node-here really 7.173 19 { Sarasota, Fla. (}
+#UNDID
+#create-a-node-here really 7.171 19 { Sarasota, Fla.}
+#create-a-node-here really 7.186 20 { (Oct. 28),}
+#create-a-node-here really 7.202 21 { Tampa, Fla.}
+#create-a-node-here really 7.216 22 { (Oct. 29)}
+#create-a-node-here really 7.230 23 { and Miami}
+#create-a-node-here really 7.245 24 { (Oct. 31).}
+#autolink_nodes 23 24 satelite-embedded elaboration-additional-e  5013
+#autolink_nodes 21 22 satelite-embedded elaboration-additional-e  5014
+#autolink_nodes 19 20 satelite-embedded elaboration-additional-e  5015
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 7.137 17 {including Charleston, S.C.}
+create-a-node-here really 7.152 18 { (Oct. 25),}
+create-a-node-here really 7.171 19 { Sarasota, Fla.}
+create-a-node-here really 7.186 20 { (Oct. 28),}
+create-a-node-here really 7.202 21 { Tampa, Fla.}
+create-a-node-here really 7.216 22 { (Oct. 29)}
+create-a-node-here really 7.230 23 { and Miami}
+create-a-node-here really 7.245 24 { (Oct. 31).}
+autolink_nodes 23 24 satelite-embedded elaboration-additional-e  5013
+autolink_nodes 21 22 satelite-embedded elaboration-additional-e  5014
+#autolink_nodes 19 20 satelite-embedded elaboration-additional-e  5015
+#UNDID
+autolink_nodes 19 20 satelite-embedded elaboration-additional-e  5015
+autolink_nodes 17 18 satelite-embedded elaboration-additional-e  5016
+autolink_nodes 5014 5013 multinuclear List  5017
+autolink_nodes 5017 5015 multinuclear List below 5017
+autolink_nodes 5017 5016 multinuclear List below 5017
+#autolink_nodes 16 5017 satelite-embedded elaboration-set-member-e  5018
+#UNDID
+autolink_nodes 16 5017 satelite-embedded elaboration-set-member-e  5018
+#autolink_nodes 15 5018 satelite evidence  5019
+#collapsed_nodes {5017}
+#UNDID
+#autolink_nodes 15 5018 satelite evidence  5019
+#collapsed_nodes {5017}
+#UNDID
+#autolink_nodes 15 5018 satelite example  5019
+#UNDID
+autolink_nodes 15 5018 satelite-embedded example-e  5019
+autolink_nodes 14 5019 satelite evidence  5020
+collapsed_nodes {5019}
+autolink_nodes 5020 5012 satelite background  5021
+#create-a-node-here really 8.67 25 {\nLater this season he gives a recital at Washington's Kennedy Center}
+#create-a-node-here really 8.126 26 {, and appears as soloist with several major orchestras.}
+#UNDID
+#UNDID
+create-a-node-here really 8.68 25 {\nLater this season he gives a recital at Washington's Kennedy Center,}
+create-a-node-here really 8.126 26 { and appears as soloist with several major orchestras.}
+autolink_nodes 25 26 multinuclear List  5022
+collapsed_nodes {}
+autolink_nodes 5018 5022 multinuclear List  5023
+collapsed_nodes {5017}
+create-a-node-here really 10.111 27 { \n\nYet Mr. McDuffie's career has developed at a slower pace than those of some of his better known contemporaries.}
+nextSentence really
+create-a-node-here really 11.60 28 {\nDuring the late 1970s, he was part of a musical "brat pack" }
+create-a-node-here really 11.96 29 {-- a group of budding virtuosos }
+create-a-node-here really 11.175 30 {who studied at the Juilliard School with the noted pedagogue Dorothy DeLay.}
+nextSentence really
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 28 5024 satelite-embedded elaboration-object-attribute-e  5025
+collapsed_nodes {}
+autolink_nodes 27 5025 satelite elaboration-additional  5026
+create-a-node-here really 12.69 31 {\nHis violin classmates included Shlomo Mintz, a protege of Isaac Stern}
+create-a-node-here really 12.132 32 { who performed with major orchestras while still a student;}
+create-a-node-here really 12.151 33 { Cho-Liang Lin,}
+create-a-node-here really 12.215 34 { who joined the roster of ICM Artists Inc. at the age of 18;}
+create-a-node-here really 12.249 35 { and Nadja Salerno-Sonnenberg,}
+create-a-node-here really 12.277 36 { who launched her career}
+create-a-node-here really 12.323 37 { by winning the 1981 Naumberg Competition.}
+nextSentence really
+autolink_nodes 36 37 satelite means  5027
+autolink_nodes 35 5027 satelite-embedded elaboration-additional-e  5028
+autolink_nodes 33 34 satelite-embedded elaboration-additional-e  5029
+autolink_nodes 31 32 satelite-embedded elaboration-additional-e  5030
+autolink_nodes 5029 5028 multinuclear List  5031
+autolink_nodes 5031 5030 multinuclear List below 5031
+autolink_nodes 5024 5031 satelite-embedded elaboration-set-member-e  5032
+create-a-node-here really 14.10 38 { \n\n"I thought}
+create-a-node-here really 14.42 39 { I was over the hill at 22,"}
+create-a-node-here really 14.132 40 { recalls Mr. McDuffie, an outgoing man with pale blue eyes and a light Southern drawl.}
+nextSentence really
+collapsed_nodes {5032}
+autolink_nodes 38 39 nucleus attribution  5033
+autolink_nodes 5033 40 satelite attribution  5034
+create-a-node-here really 14.184 41 { "But I wasn't ready for a career at that time."}
+nextSentence really
+autolink_nodes 5034 41 multinuclear Contrast  5035
+autolink_nodes 5026 5035 satelite elaboration-additional  5036
+create-a-node-here really 16.86 42 { \n\nYoung McDuffie's first violin teacher was Henrik Schwarzenberger, a Hungarian refugee }
+create-a-node-here really 16.135 43 {who taught in the Macon public school system.}
+nextSentence really
+autolink_nodes 42 43 satelite-embedded elaboration-additional-e  5037
+create-a-node-here really 16.180 44 { "He taught me how to play like a gypsy,"}
+create-a-node-here really 16.204 45 { jokes the musician.}
+nextSentence really
+autolink_nodes 44 45 satelite attribution  5038
+create-a-node-here really 16.233 46 { "I didn't learn to count}
+create-a-node-here really 16.264 47 { until I got to Juilliard."}
+nextSentence really
+autolink_nodes 46 47 satelite circumstance  5039
+autolink_nodes 5038 5039 satelite consequence-s  5040
+autolink_nodes 5037 5040 satelite elaboration-additional  5041
+create-a-node-here really 16.497 48 { After studies at that conservatory's Pre-College Division with an assistant to the legendary instructor Ivan Galamian, he switched at the college level to Miss DeLay, Mr. Galamian's longtime assistant and, ultimately, his rival.}
+nextSentence really
+autolink_nodes 5041 48 nucleus temporal-after  5042
+create-a-node-here really 16.510 49 { "I think}
+create-a-node-here really 16.545 50 { I had to prove myself to her,"}
+create-a-node-here really 16.568 51 { says Mr. McDuffie.}
+nextSentence really
+autolink_nodes 49 50 nucleus attribution  5043
+autolink_nodes 5043 51 satelite attribution  5044
+create-a-node-here really 16.605 52 { "But she was always encouraging.}
+nextSentence really
+create-a-node-here really 17.35 53 {\nShe only put her foot down twice," }
+create-a-node-here really 17.52 54 {he continues.}
+nextSentence really
+autolink_nodes 53 54 satelite attribution  5045
+autolink_nodes 52 5045 satelite antithesis  5046
+autolink_nodes 5044 5046 satelite elaboration-additional  5047
+create-a-node-here really 17.119 55 { "In my freshman year, my roommate was known as a party animal.}
+nextSentence really
+create-a-node-here really 18.11 56 {\nShe thought}
+create-a-node-here really 18.53 57 { I wasn't getting my practicing done."}
+nextSentence really
+#autolink_nodes 56 57 nucleus antithesis  5048
+#UNDID
+autolink_nodes 56 57 nucleus attribution  5048
+autolink_nodes 5048 55 satelite circumstance  5049
+create-a-node-here really 18.84 58 { As the violinist tells it,}
+create-a-node-here really 18.150 59 { his grandmotherly looking teacher "put her hands on her hips,}
+create-a-node-here really 18.171 60 { stomped her foot}
+create-a-node-here really 18.185 61 { and said,}
+create-a-node-here really 18.255 62 { `You've just got to get the {expletive deleted} out of there. '" }
+autolink_nodes 61 62 nucleus attribution  5050
+autolink_nodes 60 5050 multinuclear Sequence  5051
+autolink_nodes 5051 59 multinuclear Sequence below 5051
+autolink_nodes 58 5051 nucleus attribution  5052
+autolink_nodes 5049 5052 satelite elaboration-additional  5053
+create-a-node-here really 20.31 63 {\n\nThe second incident took place }
+create-a-node-here really 20.87 64 {after Mr. McDuffie gave an ambitious student recital}
+create-a-node-here really 20.136 65 { and was feeling rather pleased with himself.}
+nextSentence really
+autolink_nodes 64 65 satelite consequence-s  5054
+autolink_nodes 63 5054 satelite circumstance  5055
+create-a-node-here really 21.20 66 {\nMiss DeLay requested}
+create-a-node-here really 21.79 67 { that he come to her studio with a tape of the recital.}
+nextSentence really
+autolink_nodes 66 67 nucleus attribution  5056
+#create-a-node-here really 21.120 68 { "We listened to the Chausson `Poeme,}
+#UNDID
+create-a-node-here really 21.123 68 { "We listened to the Chausson `Poeme, '"}
+create-a-node-here really 21.139 69 { he recalls,}
+create-a-node-here really 21.158 70 { "and she said,}
+create-a-node-here really 21.201 71 { `You hear the first note, that B-flat?}
+autolink_nodes 70 71 nucleus attribution  5057
+autolink_nodes 68 69 satelite attribution  5058
+#autolink_nodes 5057 5058 multinuclear List  5059
+#UNDID
+autolink_nodes 5057 5058 multinuclear Sequence  5059
+create-a-node-here really 22.21 72 {\nThat's the only note }
+#create-a-node-here really 22.47 73 {that's truly in tune .}
+#nextSentence really
+#UNDID
+#UNDID
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 22.54 73 {that's truly in tune . . .'."}
+autolink_nodes 72 73 satelite-embedded elaboration-object-attribute-e  5060
+autolink_nodes 5057 5060 satelite elaboration-additional  5061
+autolink_nodes 5056 5059 satelite elaboration-additional  5062
+autolink_nodes 5055 5062 satelite elaboration-additional  5063
+create-a-node-here really 24.38 74 { \n\n"That's the most important experience }
+create-a-node-here really 24.70 75 {I've had with any teacher," }
+create-a-node-here really 24.82 76 {he says,}
+create-a-node-here really 24.124 77 { "because she taught me how to listen.}
+nextSentence really
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e  5064
+autolink_nodes 5064 76 satelite attribution  5065
+autolink_nodes 5065 77 satelite reason  5066
+create-a-node-here really 25.4 78 {\nNow,}
+create-a-node-here really 25.37 79 { when I play with orchestras,}
+create-a-node-here really 25.94 80 { the musicians often compliment me on my intonation."}
+nextSentence really
+autolink_nodes 80 79 satelite-embedded circumstance-e  5067
+autolink_nodes 5067 78 multinuclear Same-Unit  5068
+autolink_nodes 77 5068 satelite evidence  5069
+collapsed_nodes {5032 5062}
+autolink_nodes 5063 5066 satelite elaboration-additional  5070
+autolink_nodes 5053 5070 multinuclear List  5071
+autolink_nodes 5045 5071 satelite elaboration-set-member  5072
+#autolink_nodes 5042 5047 satelite elaboration-additional  5073
+#UNDID
+autolink_nodes 48 5047 satelite elaboration-additional below 5073
+autolink_nodes 5036 5042 satelite elaboration-additional  5074
+create-a-node-here really 27.161 81 { \n\nIt was also at Juilliard that Mr. McDuffie discovered his predilection for conservative, 20th-century American composers such as David Diamond and Samuel Barber.}
+create-a-node-here really 28.88 82 {\nAfter winning a school competition with a performance of the latter's "Violin Concerto,"}
+create-a-node-here really 28.152 83 { Mr. McDuffie was invited to play the work for the composer,}
+create-a-node-here really 28.181 84 { who was dying of cancer.}
+nextSentence really
+#autolink_nodes 83 84 satelite-embedded elaboration-additional-e  5075
+#UNDID
+autolink_nodes 83 84 satelite-embedded elaboration-object-attribute-e  5075
+autolink_nodes 82 5075 nucleus circumstance  5076
+create-a-node-here really 30.35 85 { \n\n"Barber was seated by the fireplace}
+create-a-node-here really 30.59 86 { looking very pale,"}
+create-a-node-here really 30.86 87 { recalls the violinist,}
+create-a-node-here really 30.167 88 { who performed the work with a piano accompanist at the composer's apartment.}
+autolink_nodes 87 88 satelite-embedded elaboration-object-attribute-e  5077
+#autolink_nodes 85 86 satelite-embedded elaboration-additional-e  5078
+#UNDID
+autolink_nodes 85 86 satelite-embedded elaboration-object-attribute-e  5078
+autolink_nodes 5078 5077 satelite attribution  5079
+create-a-node-here really 30.192 89 { "He didn't say much,}
+create-a-node-here really 30.227 90 { but what he said was important}
+create-a-node-here really 30.262 91 { because it's not in the score.}
+nextSentence really
+#autolink_nodes 89 90 nucleus antithesis  5080
+#autolink_nodes 90 91 satelite reason below 5081
+#UNDID
+#UNDID
+autolink_nodes 90 91 satelite explanation-argumentative  5080
+autolink_nodes 89 5080 nucleus antithesis  5081
+create-a-node-here really 31.39 92 {\nThere's a beautiful, Coplandesque motif}
+create-a-node-here really 31.60 93 { -- he'd kill me }
+create-a-node-here really 31.91 94 {if he heard me say that -- }
+nextSentence really
+nextSentence really
+create-a-node-here really 31.130 95 {throughout the first movement . . .}
+autolink_nodes 93 94 satelite circumstance  5082
+#autolink_nodes 92 5082 satelite-embedded elaboration-additional-e  5083
+#UNDID
+autolink_nodes 92 5082 satelite-embedded comment-e  5083
+autolink_nodes 95 5083 multinuclear Same-Unit  5084
+autolink_nodes 5081 5084 satelite elaboration-additional  5085
+create-a-node-here really 31.149 96 { The only time }
+create-a-node-here really 31.170 97 {the violin has it}
+create-a-node-here really 31.195 98 { is right at the end.}
+nextSentence really
+autolink_nodes 96 97 satelite-embedded elaboration-object-attribute-e  5086
+autolink_nodes 98 5086 multinuclear Same-Unit  5087
+autolink_nodes 5084 5087 satelite elaboration-additional  5088
+create-a-node-here really 32.36 99 {\nIt's written `marcato' in the score,}
+create-a-node-here really 32.86 100 { and I played it that way, kind of gigue-like.}
+nextSentence really
+autolink_nodes 99 100 multinuclear List  5089
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 33.17 101 {\nAnd he yelled out}
+create-a-node-here really 33.59 102 { `dolce! dolce!' {`sweet! sweet!'}." }
+autolink_nodes 101 102 nucleus attribution  5090
+autolink_nodes 5090 5089 multinuclear Consequence  5091
+create-a-node-here really 35.21 103 {\n\n"So we did it over," }
+create-a-node-here really 35.34 104 {he adds.}
+nextSentence really
+disconnect_node 5090 modify
+#autolink_nodes 5090 5090 multinuclear Cause-Result  5092
+#UNDID
+#autolink_nodes 5090 5090 multinuclear Cause-Result  5092
+#UNDID
+autolink_nodes 5089 5090 multinuclear Cause-Result above 5092
+autolink_nodes 103 104 satelite attribution  5093
+autolink_nodes 5087 5092 satelite elaboration-additional  5094
+create-a-node-here really 35.94 105 { "I played very transparently, with the tip of the bow.}
+#autolink_nodes 5093 105 satelite manner  5095
+#UNDID
+autolink_nodes 5093 105 satelite elaboration-additional  5095
+create-a-node-here really 36.34 106 {\nIf a conductor is sensitive enough}
+create-a-node-here really 36.91 107 { to bring down the orchestra {volume} at that point,}
+create-a-node-here really 36.124 108 { it makes the piece magical.}
+nextSentence really
+#autolink_nodes 106 107 satelite comparison  5096
+#UNDID
+autolink_nodes 106 107 satelite consequence-s  5096
+#autolink_nodes 5096 108 nucleus condition  5097
+#UNDID
+autolink_nodes 5096 108 nucleus condition  5097
+autolink_nodes 5095 5097 satelite elaboration-additional  5098
+autolink_nodes 5092 5098 satelite consequence-s  5099
+create-a-node-here really 37.13 109 {\nI don't know }
+create-a-node-here really 37.53 110 {why Barber never told anybody else.}
+autolink_nodes 109 110 nucleus attribution-n  5100
+create-a-node-here really 38.45 111 {\nOn Isaac Stern's recording it's very biting."}
+nextSentence really
+autolink_nodes 5100 111 satelite evidence  5101
+collapsed_nodes {5032 5062 5098}
+collapsed_nodes {5032 5062 5098 5088}
+autolink_nodes 5085 5101 satelite elaboration-additional  5102
+autolink_nodes 5079 5102 satelite elaboration-additional  5103
+autolink_nodes 5076 5103 satelite elaboration-additional  5104
+autolink_nodes 81 5104 satelite elaboration-additional  5105
+collapsed_nodes {5032 5062 5098 5088 5047}
+autolink_nodes 5042 5105 satelite elaboration-additional  5106
+autolink_nodes 5021 5074 satelite elaboration-additional  5107
+create-a-node-here really 40.24 112 { \n\nSince leaving Juilliard,}
+create-a-node-here really 40.97 113 { Mr. McDuffie has made some smart moves and some controversial ones.}
+nextSentence really
+autolink_nodes 112 113 nucleus temporal-after  5108
+create-a-node-here really 41.89 114 {\nHis guest appearance on the NBC soap opera "Another World," scandalized musical elitists.}
+nextSentence really
+create-a-node-here really 42.84 115 {\nBy contrast, he's won kudos for his espousal of William Schuman's "Violin Concerto,"}
+create-a-node-here really 42.222 116 { which he recently recorded for Angel/EMI along with Leonard Bernstein's engaging "Serenade for Violin Solo, Strings and Percussion."}
+nextSentence really
+autolink_nodes 115 116 satelite-embedded elaboration-object-attribute-e  5109
+create-a-node-here really 44.109 117 { \n\nMr. McDuffie's sweet tone, heartfelt lyricism and rhythmic punch make him an ideal interpreter of both works.}
+nextSentence really
+autolink_nodes 5109 117 satelite elaboration-additional  5110
+create-a-node-here really 45.87 118 {\nAided by the fluid playing of the St. Louis Symphony under Leonard Slatkin's direction,}
+create-a-node-here really 45.123 119 { this "Serenade" really swings.}
+nextSentence really
+autolink_nodes 118 119 nucleus circumstance  5111
+create-a-node-here really 46.32 120 {\nMr. Schuman's "Violin Concerto,"}
+create-a-node-here really 46.132 121 { which sounds more like a mildly atonal rhapsody for solo violin with orchestral accompaniment,}
+create-a-node-here really 46.188 122 { meanders until the propulsive "Agitato, fervente."}
+nextSentence really
+autolink_nodes 120 121 satelite-embedded elaboration-additional-e  5112
+autolink_nodes 122 5112 multinuclear Same-Unit  5113
+create-a-node-here really 46.307 123 { But there are ample rewards in its plaintive slow sections and virtuoso fireworks for soloist, brass and timpani.}
+nextSentence really
+autolink_nodes 5113 123 satelite antithesis  5114
+autolink_nodes 5111 5114 multinuclear List  5115
+autolink_nodes 5110 5115 satelite elaboration-additional  5116
+create-a-node-here really 47.126 124 {\nAt Avery Fisher Hall here, Mr. McDuffie was heard recently with Mr. Menuhin and the Warsaw Sinfonia in more conventional fare }
+create-a-node-here really 47.183 125 {-- Bruch's overwrought "Violin Concerto in G Minor."}
+nextSentence really
+autolink_nodes 124 125 satelite-embedded elaboration-object-attribute-e  5117
+create-a-node-here really 47.231 126 { His performance was so effusive and driven}
+create-a-node-here really 47.270 127 { that the phrases rarely breathed.}
+nextSentence really
+autolink_nodes 126 127 nucleus circumstance  5118
+autolink_nodes 5117 5118 satelite elaboration-additional  5119
+create-a-node-here really 48.62 128 {\nThe 35-member Sinfonia played adroitly with a big, lush sound }
+create-a-node-here really 48.88 129 {that belied its size.}
+nextSentence really
+autolink_nodes 128 129 satelite-embedded elaboration-object-attribute-e  5120
+autolink_nodes 5119 5120 satelite elaboration-additional  5121
+collapsed_nodes {5032 5062 5098 5088 5047 5115}
+autolink_nodes 5116 5121 multinuclear List  5122
+autolink_nodes 114 5122 multinuclear Contrast  5123
+autolink_nodes 5108 5123 satelite example  5124
+collapsed_nodes {5032 5062 5098 5088 5047 5115 5106}
+autolink_nodes 5074 5124 multinuclear Sequence  5125
+create-a-node-here really 50.18 130 { \n\nWhatever he plays,}
+nextSentence really
+create-a-node-here really 50.75 131 { Mr. McDuffie finds satisfaction in the music itself}
+create-a-node-here really 50.122 132 { -- "something greater out there than me,"}
+create-a-node-here really 50.188 133 { as he puts it during an interview at the Manhattan apartment}
+create-a-node-here really 50.245 134 { he shares with wife, Camille, a literary publicist.}
+autolink_nodes 133 134 satelite-embedded elaboration-object-attribute-e  5126
+autolink_nodes 132 5126 satelite attribution  5127
+autolink_nodes 131 5127 satelite-embedded elaboration-object-attribute-e  5128
+autolink_nodes 5128 130 satelite circumstance  5129
+disconnect_node 130 modify
+autolink_nodes 5128 130 satelite contingency  5130
+create-a-node-here really 50.316 135 { "A normal person did not write the Beethoven `Violin Concerto, '"}
+create-a-node-here really 50.334 136 { he declares.}
+nextSentence really
+autolink_nodes 135 136 satelite attribution  5131
+create-a-node-here really 50.374 137 { "Even when I hear it played badly,}
+create-a-node-here really 50.411 138 { I'm still humbled by the piece.}
+nextSentence really
+autolink_nodes 137 138 nucleus concession  5132
+autolink_nodes 5131 5132 satelite elaboration-additional  5133
+create-a-node-here really 51.20 139 {\nIf I could ever feel}
+create-a-node-here really 51.61 140 { I've contributed to it in some way,}
+create-a-node-here really 51.109 141 { then all the hard work has been worth it."}
+nextSentence really
+autolink_nodes 139 140 nucleus attribution  5134
+autolink_nodes 5134 141 nucleus condition  5135
+autolink_nodes 5133 5135 satelite elaboration-additional  5136
+autolink_nodes 5130 5136 satelite elaboration-additional  5137
+collapsed_nodes {5032 5062 5098 5088 5047 5115 5106 5124}
+collapsed_nodes {5032 5062 5098 5088 5047 5115 5106 5124 5125}
+autolink_nodes 5107 5137 satelite elaboration-additional  5138
+collapsed_nodes {}
+collapsed_nodes {5107}
+create-a-node-here really 53.52 142 { \n\nMs. Jepson is a free-lance music writer in New York.}
+nextSentence really
+change_constit 142 Author
+change_constit 5138 Text
+autolink_nodes 142 5138 multinuclear TextualOrganization  5139
+collapsed_nodes {}
+#change_rel 5018 Same-Unit
+#UNDID
+change_rel 5016 Same-Unit
+#disconnect_node 5019 disconnect
+#UNDID
+change_rel 5016 Same-Unit
+#disconnect_node 5019 modify
+#autolink_nodes 14 5019 satelite evidence below 5140
+#UNDID
+#UNDID
+change_rel 5016 Same-Unit
+change_rel 5015 Same-Unit
+change_rel 5014 Same-Unit
+change_rel 5013 Same-Unit
+disconnect_node 5019 modify
+autolink_nodes 14 5019 satelite evidence below 5140

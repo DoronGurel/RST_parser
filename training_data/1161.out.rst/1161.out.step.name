@@ -1,0 +1,616 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.135 1 {\nThe following were among yesterday's offerings and pricings in the U.S. and non-U.S. capital markets, with terms and syndicate manager,}
+create-a-node-here really 2.187 2 { as compiled by Dow Jones Capital Markets Report:}
+autolink_nodes 1 2 satelite elaboration-additional  5001
+create-a-node-here really 4.22 3 { \n\nExxon Capital Corp. --}
+nextSentence really
+nextSentence really
+create-a-node-here really 4.72 4 { $200 million of 8 1/4% notes due Nov. 1, 1999,}
+create-a-node-here really 4.92 5 { priced at 99.60 }
+create-a-node-here really 4.110 6 {to yield 8.31%.}
+autolink_nodes 5 6 satelite purpose  5002
+autolink_nodes 4 5002 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 5.10 7 {\nThe notes,}
+create-a-node-here really 5.36 8 { which are noncallable,}
+create-a-node-here really 5.117 9 { were priced at a spread of 45 basis points above the Treasury's 10-year note.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-additional-e  5004
+autolink_nodes 5004 9 multinuclear Same-Unit  5005
+autolink_nodes 5003 5005 satelite elaboration-additional  5006
+autolink_nodes 3 5006 satelite elaboration-general-specific  5007
+create-a-node-here really 6.82 10 {\nRated triple-A by both Moody's Investors Service Inc. and Standard & Poor's Corp.,}
+create-a-node-here really 6.139 11 { the issue will be sold through Salomon Brothers Inc.}
+autolink_nodes 10 11 nucleus circumstance  5008
+autolink_nodes 5006 5008 satelite elaboration-additional  5009
+collapsed_nodes {5009}
+create-a-node-here really 8.11 12 { \n\nCiticorp --}
+create-a-node-here really 8.62 13 { $200 million of 8 3/4% notes due Nov. 1, 1996,}
+nextSentence really
+create-a-node-here really 8.82 14 { priced at 99.64}
+create-a-node-here really 8.102 15 { to yield 8.82%.}
+nextSentence really
+autolink_nodes 14 15 satelite purpose  5010
+autolink_nodes 13 5010 satelite-embedded elaboration-object-attribute-e  5011
+create-a-node-here really 9.101 16 {\nThe noncallable issue was priced at a spread of 98 basis points above the Treasury's seven-year note.}
+nextSentence really
+autolink_nodes 5011 16 satelite elaboration-additional  5012
+create-a-node-here really 10.48 17 {\nRated single-A-1 by Moody's and double-A by S&P,}
+create-a-node-here really 10.101 18 { the issue will be sold through Salomon Brothers.}
+nextSentence really
+autolink_nodes 17 18 nucleus circumstance  5013
+autolink_nodes 5012 5013 satelite elaboration-additional  5014
+autolink_nodes 12 5014 satelite elaboration-general-specific  5015
+collapsed_nodes {5009 5014}
+create-a-node-here really 12.28 19 { \n\nBoatmen's Bancshares Inc. --}
+nextSentence really
+create-a-node-here really 12.92 20 { $150 million of 9 1/4% subordinated notes due Nov. 1, 2001,}
+create-a-node-here really 12.113 21 { priced at 99.821}
+create-a-node-here really 12.134 22 { to yield 9.275%.}
+nextSentence really
+autolink_nodes 21 22 satelite purpose  5016
+autolink_nodes 20 5016 satelite-embedded elaboration-object-attribute-e  5017
+create-a-node-here really 13.99 23 {\nThe noncallable issue was priced at a spread of 140 basis points above the Treasury's 10-year note.}
+nextSentence really
+autolink_nodes 5017 23 satelite elaboration-additional  5018
+create-a-node-here really 14.54 24 {\nRated single-A-3 by Moody's and single-A-minus by S&P,}
+create-a-node-here really 14.102 25 { the issue will be sold through underwriters}
+create-a-node-here really 14.134 26 { led by Morgan Stanley & Co.}
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5019
+autolink_nodes 5019 24 satelite circumstance  5020
+autolink_nodes 5018 5020 satelite elaboration-additional  5021
+autolink_nodes 19 5021 satelite elaboration-general-specific  5022
+collapsed_nodes {5009 5014 5021}
+create-a-node-here really 16.14 27 { \n\nXerox Corp. --}
+nextSentence really
+create-a-node-here really 16.65 28 { $150 million of 8 3/4% notes due Nov. 1, 1995,}
+create-a-node-here really 16.86 29 { priced at 99.555}
+create-a-node-here really 16.106 30 { to yield 8.85%.}
+nextSentence really
+autolink_nodes 29 30 satelite purpose  5023
+autolink_nodes 28 5023 satelite-embedded elaboration-object-attribute-e  5024
+#create-a-node-here really 17.94 31 {\nThe noncallable issue was priced to yield 105 basis points above the Treasury's fiveyear note.}
+#nextSentence really
+#autolink_nodes 5024 31 satelite elaboration-additional  5025
+#create-a-node-here really 18.53 32 {\nRated single-A-2 by Moody's and single-A-plus by S&P,}
+#create-a-node-here really 18.101 33 { the issue will be sold through underwriters}
+#create-a-node-here really 18.130 34 { led by Salomon Brothers.}
+#nextSentence really
+#autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5026
+#autolink_nodes 5026 32 satelite circumstance  5027
+#autolink_nodes 5025 5027 satelite elaboration-additional  5028
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 17.33 31 {\nThe noncallable issue was priced }
+create-a-node-here really 17.98 32 {to yield 105 basis points above the Treasury's fiveyear note.}
+autolink_nodes 31 32 satelite purpose  5025
+autolink_nodes 5024 5025 satelite elaboration-additional  5026
+create-a-node-here really 18.53 33 {\nRated single-A-2 by Moody's and single-A-plus by S&P,}
+create-a-node-here really 18.101 34 { the issue will be sold through underwriters}
+create-a-node-here really 18.130 35 { led by Salomon Brothers.}
+nextSentence really
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5027
+autolink_nodes 33 5027 nucleus circumstance  5028
+autolink_nodes 5026 5028 satelite elaboration-additional  5029
+autolink_nodes 27 5029 satelite elaboration-general-specific  5030
+collapsed_nodes {5009 5014 5021 5029}
+create-a-node-here really 20.33 36 { \n\nAmerican General Finance Corp. --}
+create-a-node-here really 20.113 37 { $150 million of 8.45% notes due Oct. 15, 2009, through Bear, Stearns & Co.,}
+nextSentence really
+create-a-node-here really 20.152 38 { being offered at a price of 99.661}
+create-a-node-here really 20.172 39 { to yield 8.50%.}
+nextSentence really
+autolink_nodes 38 39 satelite purpose  5031
+autolink_nodes 37 5031 satelite-embedded elaboration-object-attribute-e  5032
+create-a-node-here really 21.22 40 {\nThe noncallable issue,}
+create-a-node-here really 21.66 41 { which has a one-time put Oct. 15, 1999,}
+create-a-node-here really 21.147 42 { was priced at a spread of 66 basis points above the Treasury's 10-year note.}
+nextSentence really
+autolink_nodes 40 41 satelite-embedded elaboration-additional-e  5033
+autolink_nodes 42 5033 multinuclear Same-Unit  5034
+autolink_nodes 5032 5034 satelite elaboration-additional  5035
+create-a-node-here really 22.66 43 {\nThe issue is rated single-A-1 by Moody's and single-A-plus by S&P.}
+nextSentence really
+autolink_nodes 5035 43 satelite elaboration-additional  5036
+autolink_nodes 36 5036 satelite elaboration-general-specific  5037
+collapsed_nodes {5009 5014 5021 5029 5036}
+create-a-node-here really 24.31 44 { \n\nBaltimore Gas & Electric Co. --}
+create-a-node-here really 24.143 45 { $100 million of first and refunding mortgage bonds, due Oct. 15, 1999, through Shearson Lehman Hutton Inc.,}
+create-a-node-here really 24.162 46 { offered at par}
+create-a-node-here really 24.182 47 { to yield 8.40%.}
+nextSentence really
+autolink_nodes 46 47 satelite purpose  5038
+autolink_nodes 45 5038 satelite-embedded elaboration-object-attribute-e  5039
+create-a-node-here really 25.79 48 {\nThe noncallable issue is rated double-A-3 by Moody's and double-A-minus by S&P.}
+nextSentence really
+autolink_nodes 5039 48 satelite elaboration-additional  5040
+create-a-node-here really 26.79 49 {\nIt was priced at a spread of 55 basis points above the Treasury's 10-year note.}
+nextSentence really
+autolink_nodes 5040 49 satelite elaboration-additional  5041
+autolink_nodes 44 5041 satelite elaboration-general-specific  5042
+collapsed_nodes {5009 5014 5021 5029 5036 5041}
+create-a-node-here really 28.16 50 { \n\nMassachusetts --}
+create-a-node-here really 28.152 51 { $230 million of general obligation bonds, consolidated loan of 1989, Series D, due 1990-2009, through a Goldman, Sachs & Co. group.}
+nextSentence really
+create-a-node-here really 29.18 52 {\nThe insured bonds,}
+create-a-node-here really 29.57 53 { rated triple-A by Moody's and S&P,}
+create-a-node-here really 29.74 54 { were priced }
+create-a-node-here really 29.123 55 {to yield from 6.00% in 1990 to 7.20% in 2009.}
+nextSentence really
+#autolink_nodes 54 55 satelite purpose  5043
+#UNDID
+autolink_nodes 52 53 satelite-embedded elaboration-additional-e  5043
+autolink_nodes 54 5043 multinuclear Same-Unit  5044
+autolink_nodes 5044 55 satelite purpose  5045
+autolink_nodes 51 5045 satelite elaboration-additional  5046
+autolink_nodes 50 5046 satelite elaboration-general-specific  5047
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046}
+create-a-node-here really 31.39 56 { \n\nBroward County School District, Fla. --}
+create-a-node-here really 31.138 57 { $185 million of school district general obligation bonds, Series 1989, due 1991-1999 and 2008,}
+create-a-node-here really 31.192 58 { tentatively priced by a First Boston Corp. group }
+create-a-node-here really 31.241 59 {to yield from 6.20% in 1991 to 7.30% in 2008.}
+nextSentence really
+autolink_nodes 58 59 satelite purpose  5048
+autolink_nodes 57 5048 satelite-embedded elaboration-object-attribute-e  5049
+nextSentence really
+create-a-node-here really 32.55 60 {\nThere are $120.7 million of 7 1/8% term bonds due 2008,}
+create-a-node-here really 32.66 61 { priced}
+create-a-node-here really 32.86 62 { to yield 7.30%.}
+nextSentence really
+autolink_nodes 61 62 satelite purpose  5050
+#autolink_nodes 60 5050 satelite-embedded elaboration-object-attribute-e  5051
+#UNDID
+autolink_nodes 60 5050 satelite-embedded elaboration-object-attribute-e  5051
+create-a-node-here really 33.23 63 {\nSerial bonds are priced}
+create-a-node-here really 33.51 64 { to yield to 7% in 1999.}
+autolink_nodes 63 64 satelite purpose  5052
+autolink_nodes 5052 5051 multinuclear Comparison  5053
+autolink_nodes 5049 5053 satelite elaboration-additional  5054
+create-a-node-here really 34.68 65 {\nThe bonds are rated single-A-1 by Moody's and double-A-minus by S&P.}
+nextSentence really
+autolink_nodes 5054 65 satelite elaboration-additional  5055
+autolink_nodes 56 5055 satelite elaboration-general-specific  5056
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055}
+nextSentence really
+create-a-node-here really 36.56 66 { \n\nCulver City Redevelopment Financing Authority, Calif. --}
+create-a-node-here really 36.104 67 { $145 million of revenue bonds, Series 1989,}
+create-a-node-here really 36.157 68 { tentatively priced by a Stone & Youngberg group.}
+nextSentence really
+autolink_nodes 67 68 satelite-embedded elaboration-object-attribute-e  5057
+create-a-node-here really 37.61 69 {\nThe issue includes $100 million of insured senior lien bonds.}
+nextSentence really
+create-a-node-here really 38.119 70 {\nThese consist of current interest bonds due 1990-2002, 2010 and 2015, and capital appreciation bonds due 2003 and 2004,}
+create-a-node-here really 38.143 71 { tentatively priced }
+create-a-node-here really 38.192 72 {to yield from 5.75% in 1990 to 7.14% in 2010.}
+nextSentence really
+autolink_nodes 71 72 satelite purpose  5058
+autolink_nodes 70 5058 satelite-embedded elaboration-object-attribute-e  5059
+create-a-node-here really 39.62 73 {\nBonds due 2003, 2004 and 2015 aren't being formally reoffered.}
+nextSentence really
+autolink_nodes 5059 73 satelite elaboration-additional  5060
+autolink_nodes 69 5060 satelite elaboration-general-specific  5061
+create-a-node-here really 40.99 74 {\nThere are also $40 million of uninsured subordinate lien bonds, due Dec. 1, 2008, and Dec. 1, 2015.}
+nextSentence really
+create-a-node-here really 41.37 75 {\nThere are $15,015,000 of 7 1/2% bonds}
+#create-a-node-here really 41.56 76 { priced at par }
+#create-a-node-here really 41.103 77 {and due 2008 and $24,985,000 of 7.6% bonds }
+#create-a-node-here really 41.120 78 {priced at par}
+#create-a-node-here really 41.138 79 { and due 2015.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 41.68 76 { priced at par and due 2008}
+create-a-node-here really 41.103 77 { and $24,985,000 of 7.6% bonds }
+create-a-node-here really 41.134 78 {priced at par and due 2015.}
+autolink_nodes 77 78 satelite-embedded elaboration-object-attribute-e  5062
+autolink_nodes 75 76 satelite-embedded elaboration-object-attribute-e  5063
+autolink_nodes 5062 5063 multinuclear Same-Unit  5064
+autolink_nodes 74 5064 satelite elaboration-general-specific  5065
+autolink_nodes 5065 5061 multinuclear List  5066
+create-a-node-here really 42.56 79 {\nThe insured bonds are rated triple-A by Moody's and S&P.}
+nextSentence really
+create-a-node-here really 43.50 80 {\nThe uninsured subordinate lien bonds aren't rated,}
+create-a-node-here really 43.89 81 { according to the lead underwriter.}
+nextSentence really
+autolink_nodes 80 81 satelite attribution  5067
+autolink_nodes 79 5067 multinuclear Comparison  5068
+autolink_nodes 5066 5068 satelite elaboration-additional  5069
+autolink_nodes 5057 5069 satelite elaboration-additional  5070
+autolink_nodes 66 5070 satelite elaboration-general-specific  5071
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070}
+create-a-node-here really 45.70 82 { \n\nWest Virginia Parkways, Economic Development and <Tourism Authority --}
+create-a-node-here really 45.223 83 { $143 million of parkway revenue bonds, Series 1989, with current interest bonds due 1990-2002 and 2019 and capital appreciation bonds due 2003-2008,}
+create-a-node-here really 45.274 84 { tentatively priced by a PaineWebber Inc. group}
+create-a-node-here really 45.321 85 { to yield from 6% in 1990 to 7.31% in 2019.}
+nextSentence really
+autolink_nodes 84 85 satelite purpose  5072
+autolink_nodes 83 5072 satelite-embedded elaboration-object-attribute-e  5073
+create-a-node-here really 46.37 86 {\nThere are $86,525,000 of 7 1/8% bonds}
+create-a-node-here really 46.58 87 { priced at 97 3/4}
+create-a-node-here really 46.86 88 { to yield 7.31% in 2019.}
+nextSentence really
+autolink_nodes 87 88 satelite purpose  5074
+autolink_nodes 86 5074 satelite-embedded elaboration-object-attribute-e  5075
+create-a-node-here really 47.53 89 {\nCurrent interest serial bonds are tentatively priced }
+create-a-node-here really 47.83 90 {to yield to 7.05% in 2002.}
+nextSentence really
+autolink_nodes 89 90 satelite purpose  5076
+create-a-node-here really 48.37 91 {\nCapital appreciation bonds are priced}
+create-a-node-here really 48.108 92 { to yield to maturity from 7.10% in 2003 to 7.25% in 2007 and 2008.}
+nextSentence really
+autolink_nodes 91 92 satelite purpose  5077
+autolink_nodes 5077 5076 multinuclear List  5078
+autolink_nodes 5075 5078 satelite elaboration-additional  5079
+autolink_nodes 5073 5079 satelite elaboration-additional  5080
+#create-a-node-here really 49.60 93 {\nThe bonds are insured and rated triple-A by Moody's and S&P.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 49.22 93 {\nThe bonds are insured }
+create-a-node-here really 49.64 94 {and rated triple-A by Moody's and S&P.}
+autolink_nodes 93 94 multinuclear List  5081
+autolink_nodes 5080 5081 satelite elaboration-additional  5082
+autolink_nodes 82 5082 satelite elaboration-general-specific  5083
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082}
+nextSentence really
+create-a-node-here really 51.40 95 { \n\nConnecticut Housing Finance Authority --}
+create-a-node-here really 51.94 96 { $132.8 million of housing mortgage revenue bonds }
+create-a-node-here really 51.133 97 {priced by a PaineWebber Inc. group.}
+nextSentence really
+autolink_nodes 96 97 satelite-embedded elaboration-object-attribute-e  5084
+nextSentence really
+create-a-node-here really 52.36 98 {\nThe $82.8 million of Series B bonds,}
+create-a-node-here really 52.93 99 { which aren't subject to the alternative minimum tax,}
+create-a-node-here really 52.117 100 { were priced at par }
+#create-a-node-here really 52.167 101 {to yield from 6.85% in 2000 to 7.20% in 2009.}
+#nextSentence really
+#autolink_nodes 100 101 satelite purpose  5085
+#autolink_nodes 98 99 satelite-embedded elaboration-additional-e  5086
+#autolink_nodes 5085 5086 multinuclear Same-Unit  5087
+#create-a-node-here really 53.45 102 {\nMeanwhile, the $50 million of Series C bonds,}
+#create-a-node-here really 53.99 103 { which are suject to the alternative minimum tax,}
+#create-a-node-here really 53.123 104 { were priced at par}
+#create-a-node-here really 53.174 105 { to yield from 6.25% in 1990 to 7.10% to 2000.}
+#nextSentence really
+#autolink_nodes 104 105 satelite purpose  5088
+#autolink_nodes 102 103 satelite-embedded elaboration-additional-e  5089
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 52.167 101 {to yield from 6.85% in 2000 to 7.20% in 2009.}
+autolink_nodes 98 99 satelite-embedded elaboration-object-attribute-e  5085
+autolink_nodes 100 101 satelite purpose  5086
+autolink_nodes 5085 5086 multinuclear Same-Unit  5087
+create-a-node-here really 53.45 102 {\nMeanwhile, the $50 million of Series C bonds,}
+create-a-node-here really 53.99 103 { which are suject to the alternative minimum tax,}
+create-a-node-here really 53.123 104 { were priced at par}
+create-a-node-here really 53.174 105 { to yield from 6.25% in 1990 to 7.10% to 2000.}
+nextSentence really
+autolink_nodes 104 105 satelite purpose  5088
+autolink_nodes 102 103 satelite-embedded elaboration-object-attribute-e  5089
+autolink_nodes 5088 5089 multinuclear Same-Unit  5090
+autolink_nodes 5090 5087 multinuclear List above 5091
+autolink_nodes 5084 5091 satelite elaboration-set-member  5092
+create-a-node-here really 54.64 106 {\nThe issue is expected to receive a double-A rating from Moody's,}
+create-a-node-here really 54.91 107 { the underwriter said.}
+nextSentence really
+autolink_nodes 106 107 satelite attribution  5093
+create-a-node-here really 55.58 108 {\nAn S&P rating of double-A-plus has already been confirmed.}
+nextSentence really
+autolink_nodes 5093 108 multinuclear List  5094
+autolink_nodes 5092 5094 satelite elaboration-additional  5095
+autolink_nodes 95 5095 satelite elaboration-general-specific  5096
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095}
+create-a-node-here really 57.25 109 { \n\nMontgomery County, Md. --}
+create-a-node-here really 57.171 110 { $75 million of general obligation, Series B, consolidated public improvement bonds of 1989, through a Manufacturers Hanover Trust Co. group.}
+nextSentence really
+create-a-node-here really 58.10 111 {\nThe bonds,}
+create-a-node-here really 58.50 112 { rated triple-A by Moody's and S&P,}
+create-a-node-here really 58.68 113 { were priced }
+create-a-node-here really 58.126 114 {to yield from 5.75% in 1990 to 6.90% in 2006 to 2009.}
+nextSentence really
+autolink_nodes 113 114 satelite purpose  5097
+#autolink_nodes 111 112 satelite-embedded elaboration-additional-e  5098
+#UNDID
+autolink_nodes 111 112 satelite-embedded elaboration-object-attribute-e  5098
+autolink_nodes 5097 5098 multinuclear Same-Unit  5099
+autolink_nodes 110 5099 satelite elaboration-additional  5100
+autolink_nodes 109 5100 satelite elaboration-general-specific  5101
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100}
+create-a-node-here really 60.35 115 { \n\nFederal Home Loan Mortgage Corp. --}
+create-a-node-here really 60.82 116 { $500 million of Remic mortgage securities}
+create-a-node-here really 60.142 117 { being offered by Prudential-Bache Capital Funding Inc.}
+autolink_nodes 116 117 satelite-embedded elaboration-object-attribute-e  5102
+create-a-node-here really 61.86 118 {\nThere were no details available on the pricing of the issue, Freddie Mac's Series 108.}
+autolink_nodes 5102 118 satelite elaboration-additional  5103
+create-a-node-here really 62.53 119 {\nThe issue is backed by Freddie Mac 8 1/2% securities.}
+nextSentence really
+autolink_nodes 5103 119 satelite elaboration-additional  5104
+autolink_nodes 115 5104 satelite elaboration-general-specific  5105
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104}
+create-a-node-here really 64.9 120 { \n\nHanwa Co.}
+create-a-node-here really 64.25 121 { (Japan) --}
+autolink_nodes 120 121 satelite elaboration-additional  5106
+create-a-node-here really 64.117 122 { Two-part, $800 million issue of bonds due Nov. 9, 1994, with equity-purchase warrants,}
+create-a-node-here really 64.157 123 { indicating a 4 3/8% coupon at par.}
+nextSentence really
+autolink_nodes 122 123 satelite-embedded elaboration-object-attribute-e  5107
+#create-a-node-here really 65.137 124 {\nEuropean portion of $700 million via Yamaichi International Europe Ltd. Asian portion of $100 million via Yamatane Securities Europe Ltd.}
+#UNDID
+create-a-node-here really 65.71 124 {\nEuropean portion of $700 million via Yamaichi International Europe Ltd.}
+create-a-node-here really 65.142 125 { Asian portion of $100 million via Yamatane Securities Europe Ltd.}
+autolink_nodes 124 125 multinuclear List  5108
+autolink_nodes 5107 5108 satelite elaboration-additional  5109
+create-a-node-here really 66.92 126 {\nEach $5,000 bond carries one warrant, exercisable from Nov. 28, 1989, through Oct. 26, 1994,}
+create-a-node-here really 66.172 127 { to buy shares at an expected premium of 2 1/2% to the closing share price }
+create-a-node-here really 66.206 128 {when terms are fixed Oct. 26.}
+autolink_nodes 127 128 satelite circumstance  5110
+autolink_nodes 126 5110 satelite-embedded elaboration-object-attribute-e  5111
+autolink_nodes 5109 5111 satelite elaboration-additional  5112
+autolink_nodes 5106 5112 satelite elaboration-general-specific  5113
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112}
+create-a-node-here really 68.28 129 { \n\nJapan Storage Battery Co. --}
+create-a-node-here really 68.104 130 { $100 million of bonds due Nov. 9, 1993, with equity-purchase warrants,}
+create-a-node-here really 68.168 131 { indicating a 3 7/8% coupon at par via Nikko Securities Co.}
+create-a-node-here really 68.182 132 { (Europe)}
+create-a-node-here really 68.192 133 { Ltd.}
+autolink_nodes 131 132 satelite-embedded elaboration-additional-e  5114
+autolink_nodes 133 5114 multinuclear Same-Unit  5115
+autolink_nodes 130 5115 satelite-embedded elaboration-object-attribute-e  5116
+create-a-node-here really 68.232 134 { Guaranteed by Mitsubishi Bank Ltd.}
+autolink_nodes 5116 134 satelite elaboration-additional  5117
+create-a-node-here really 69.92 135 {\nEach $5,000 bond carries one warrant, exercisable from Nov. 27, 1989, through Oct. 26, 1993,}
+create-a-node-here really 69.171 136 { to buy shares at an expected premium of 2 1/2% to the closing share price}
+create-a-node-here really 69.205 137 { when terms are fixed Nov. 1.}
+autolink_nodes 136 137 satelite circumstance  5118
+autolink_nodes 135 5118 satelite-embedded elaboration-object-attribute-e  5119
+autolink_nodes 5117 5119 satelite elaboration-additional  5120
+autolink_nodes 129 5120 satelite elaboration-general-specific  5121
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120}
+create-a-node-here really 71.12 138 { \n\nSanraku Inc.}
+create-a-node-here really 71.28 139 { (Japan) --}
+#autolink_nodes 138 139 satelite elaboration-additional  5122
+#UNDID
+#autolink_nodes 138 139 satelite elaboration-additional  5122
+#UNDID
+autolink_nodes 138 139 satelite elaboration-additional  5122
+create-a-node-here really 71.104 140 { $100 million of bonds due Nov. 9, 1993, with equity-purchase warrants,}
+create-a-node-here really 71.144 141 { indicating a 3 7/8% coupon at par,}
+create-a-node-here really 71.175 142 { via Nomura International.}
+nextSentence really
+autolink_nodes 140 141 satelite-embedded elaboration-object-attribute-e  5123
+autolink_nodes 142 5123 multinuclear Same-Unit  5124
+create-a-node-here really 72.39 143 {\nGuaranteed by Dai-Ichi Kangyo Bank Ltd.}
+autolink_nodes 5124 143 satelite elaboration-additional  5125
+create-a-node-here really 73.92 144 {\nEach $5,000 bond carries one warrant, exercisable from Nov. 21, 1989, through Oct. 19, 1993,}
+create-a-node-here really 73.172 145 { to buy shares at an expected premium of 2 1/2% to the closing share price }
+create-a-node-here really 73.206 146 {when terms are fixed Oct. 31.}
+nextSentence really
+autolink_nodes 145 146 satelite circumstance  5126
+autolink_nodes 144 5126 satelite-embedded elaboration-object-attribute-e  5127
+autolink_nodes 5125 5127 satelite elaboration-additional  5128
+autolink_nodes 5122 5128 satelite elaboration-additional  5129
+disconnect_node 5128 modify
+autolink_nodes 5122 5128 satelite elaboration-general-specific  5130
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128}
+create-a-node-here really 75.17 147 { \n\nNippon Signal Co.}
+create-a-node-here really 75.33 148 { (Japan) --}
+autolink_nodes 147 148 satelite elaboration-additional  5131
+create-a-node-here really 75.95 149 { 80 million marks of bonds with equity-purchase warrants,}
+#create-a-node-here really 75.128 150 { indicating a 1 1/2% coupon,}
+#create-a-node-here really 75.187 151 { due Nov. 9, 1994, and priced at par, via Commerzbank.}
+#nextSentence really
+#UNDID
+#autolink_nodes 149 150 satelite-embedded elaboration-object-attribute-e  5132
+#autolink_nodes 151 5132 multinuclear Same-Unit  5133
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 75.151 151 { due Nov. 9, 1994,}
+#create-a-node-here really 76.24 152 { and priced at par, via Commerzbank.\nGuaranteed by Fuji Bank.}
+#nextSentence really
+#autolink_nodes 149 150 satelite-embedded elaboration-object-attribute-e  5132
+#autolink_nodes 151 5132 multinuclear Same-Unit  5133
+#disconnect_node 151 disconnect
+#disconnect_node 150 disconnect
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 75.146 150 { indicating a 1 1/2% coupon, due Nov. 9, 1994,}
+create-a-node-here really 75.187 151 { and priced at par, via Commerzbank.}
+autolink_nodes 150 151 multinuclear List  5132
+autolink_nodes 149 5132 satelite-embedded elaboration-object-attribute-e  5133
+create-a-node-here really 76.24 152 {\nGuaranteed by Fuji Bank.}
+nextSentence really
+autolink_nodes 5133 152 satelite elaboration-additional  5134
+create-a-node-here really 77.129 153 {\nEach 5,000 mark bond carries one warrant and one certificate for four warrants, exercisable from Dec. 18, 1989, to Oct. 26, 1994,}
+create-a-node-here really 77.212 154 { to buy shares at an expected premium of 2 1/2% above the closing share price }
+create-a-node-here really 77.247 155 {when prices are fixed Oct. 30.}
+nextSentence really
+autolink_nodes 154 155 satelite circumstance  5135
+autolink_nodes 153 5135 satelite-embedded elaboration-object-attribute-e  5136
+autolink_nodes 5134 5136 satelite elaboration-additional  5137
+autolink_nodes 5131 5137 satelite elaboration-general-specific  5138
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137}
+create-a-node-here really 79.21 156 { \n\nMiyoshi Oil & Fat Co.}
+create-a-node-here really 79.37 157 { (Japan) --}
+autolink_nodes 156 157 satelite elaboration-additional  5139
+create-a-node-here really 79.189 158 { 120 million Swiss francs of privately placed convertible notes due Dec. 31, 1993, with a fixed 0.25% coupon at par, via Union Bank of Switzerland.}
+nextSentence really
+create-a-node-here really 80.43 159 {\nPut option on Dec. 31, 1991, at a fixed 107}
+create-a-node-here really 80.64 160 { to yield 3.43%.}
+nextSentence really
+autolink_nodes 159 160 satelite purpose  5140
+autolink_nodes 158 5140 satelite elaboration-additional  5141
+create-a-node-here really 81.128 161 {\nEach 50,000 Swiss franc bond convertible from Nov. 28, 1989, to Dec. 20, 1993, at a 5% premium over closing share price Oct. 30,}
+create-a-node-here really 81.171 162 { when terms are scheduled to be fixed.}
+nextSentence really
+autolink_nodes 161 162 satelite circumstance  5142
+autolink_nodes 5141 5142 satelite elaboration-additional  5143
+autolink_nodes 5139 5143 satelite elaboration-general-specific  5144
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143}
+nextSentence really
+create-a-node-here really 83.11 163 { \n\nFokker N.V.}
+create-a-node-here really 83.33 164 { (Netherlands) --}
+autolink_nodes 163 164 satelite elaboration-additional  5145
+create-a-node-here really 83.164 165 { 150 million Swiss francs of convertible bonds due Nov. 15, 1997, with a fixed 4% coupon at par via Union Bank of Switzerland.}
+nextSentence really
+create-a-node-here really 84.76 166 {\nEach 5,000 Swiss franc bond convertible from Jan. 3, 1989, to Oct. 31, 1997.}
+nextSentence really
+autolink_nodes 165 166 satelite elaboration-additional  5146
+create-a-node-here really 85.11 167 {\nFees 2 1/8.}
+nextSentence really
+autolink_nodes 5146 167 satelite elaboration-additional  5147
+autolink_nodes 5145 5147 satelite elaboration-general-specific  5148
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147}
+create-a-node-here really 87.17 168 { \n\nSapporo Lion Ltd.}
+create-a-node-here really 87.33 169 { (Japan) --}
+autolink_nodes 168 169 satelite elaboration-additional  5149
+create-a-node-here really 87.166 170 { 50 million Swiss francs of privately placed convertible notes due Dec. 31, 1994, with a 0.25% coupon at par, via Yamaichi Bank }
+create-a-node-here really 87.185 171 {(Switzerland).}
+nextSentence really
+autolink_nodes 170 171 satelite-embedded elaboration-additional-e  5150
+create-a-node-here really 88.52 172 {\nPut option on Dec. 31, 1991, at an indicated 107 7/8}
+create-a-node-here really 88.73 173 { to yield 3.84%.}
+nextSentence really
+autolink_nodes 172 173 satelite purpose  5151
+autolink_nodes 5150 5151 satelite elaboration-additional  5152
+create-a-node-here really 89.129 174 {\nEach 50,000 Swiss franc note convertible from Dec. 1, 1989, to Dec. 16, 1994, at 5% premium over the closing share price Oct. 26,}
+create-a-node-here really 89.172 175 { when terms are scheduled to be fixed.}
+nextSentence really
+autolink_nodes 174 175 satelite circumstance  5153
+autolink_nodes 5152 5153 satelite elaboration-additional  5154
+autolink_nodes 5149 5154 satelite elaboration-general-specific  5155
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154}
+create-a-node-here really 91.25 176 { \n\nCredit Local de France --}
+create-a-node-here really 91.103 177 { 100 million Swiss francs of 6%, privately placed notes due Dec. 1, 1996,}
+create-a-node-here really 91.127 178 { priced at 100 1/2 }
+create-a-node-here really 91.147 179 {to yield 5.91%,}
+create-a-node-here really 91.173 180 { via Swiss Bank Corp.}
+autolink_nodes 178 179 satelite purpose  5156
+autolink_nodes 177 5156 satelite-embedded elaboration-object-attribute-e  5157
+autolink_nodes 180 5157 multinuclear Same-Unit  5158
+autolink_nodes 176 5158 satelite elaboration-general-specific  5159
+#disconnect_node 169 modify
+#autolink_nodes 168 169 nucleus-embedded elaboration-additional-e  5160
+#disconnect_node 164 modify
+#autolink_nodes 163 164 satelite-embedded elaboration-additional-e below 5161
+#UNDID
+#UNDID
+#disconnect_node 168 modify
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5155 5159 multinuclear List  5160
+autolink_nodes 5160 5148 multinuclear List below 5160
+autolink_nodes 5160 5144 multinuclear List below 5160
+autolink_nodes 5160 5138 multinuclear List below 5160
+autolink_nodes 5160 5130 multinuclear List below 5160
+autolink_nodes 5160 5121 multinuclear List below 5160
+autolink_nodes 5160 5113 multinuclear List below 5160
+autolink_nodes 5160 5105 multinuclear List below 5160
+autolink_nodes 5160 5101 multinuclear List below 5160
+autolink_nodes 5160 5096 multinuclear List below 5160
+autolink_nodes 5160 5083 multinuclear List below 5160
+autolink_nodes 5160 5071 multinuclear List below 5160
+autolink_nodes 5160 5056 multinuclear List below 5160
+autolink_nodes 5160 5047 multinuclear List below 5160
+autolink_nodes 5160 5042 multinuclear List below 5160
+autolink_nodes 5160 5037 multinuclear List below 5160
+autolink_nodes 5160 5030 multinuclear List below 5160
+autolink_nodes 5160 5022 multinuclear List below 5160
+autolink_nodes 5160 5015 multinuclear List below 5160
+autolink_nodes 5160 5007 multinuclear List below 5160
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159}
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155}
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148}
+collapsed_nodes {5009 5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+autolink_nodes 5001 5160 satelite elaboration-set-member  5161
+collapsed_nodes {5014 5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5021 5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5029 5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5036 5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5041 5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5046 5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5055 5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5070 5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5082 5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5095 5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5100 5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5104 5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5112 5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5120 5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5128 5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5137 5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5143 5147 5154 5159 5155 5148 5144}
+collapsed_nodes {5147 5154 5159 5155 5148}
+collapsed_nodes {5154 5159 5155}
+collapsed_nodes {5159}
+collapsed_nodes {}
+collapsed_nodes {5007}
+collapsed_nodes {5007 5015}
+collapsed_nodes {5007 5015 5022}
+collapsed_nodes {5007 5015 5022 5030}
+collapsed_nodes {5007 5015 5022 5030 5037}
+collapsed_nodes {5007 5015 5022 5030 5037 5042}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083 5096}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083 5096 5101}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083 5096 5101 5105}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083 5096 5101 5105 5113}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083 5096 5101 5105 5113 5121}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083 5096 5101 5105 5113 5121 5130}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083 5096 5101 5105 5113 5121 5130 5138}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083 5096 5101 5105 5113 5121 5130 5138 5144}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083 5096 5101 5105 5113 5121 5130 5138 5144 5148}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083 5096 5101 5105 5113 5121 5130 5138 5144 5148 5155}
+collapsed_nodes {5007 5015 5022 5030 5037 5042 5047 5056 5071 5083 5096 5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5015 5022 5030 5037 5042 5047 5056 5071 5083 5096 5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5022 5030 5037 5042 5047 5056 5071 5083 5096 5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5030 5037 5042 5047 5056 5071 5083 5096 5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5037 5042 5047 5056 5071 5083 5096 5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5042 5047 5056 5071 5083 5096 5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5047 5056 5071 5083 5096 5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5056 5071 5083 5096 5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5071 5083 5096 5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5083 5096 5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5096 5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5101 5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5105 5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5113 5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5121 5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5130 5138 5144 5148 5155 5159}
+collapsed_nodes {5138 5144 5148 5155 5159}
+collapsed_nodes {5144 5148 5155 5159}
+collapsed_nodes {5148 5155 5159}
+collapsed_nodes {5155 5159}
+collapsed_nodes {5159}
+collapsed_nodes {}

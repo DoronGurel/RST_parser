@@ -1,0 +1,154 @@
+nextSentence really
+create-a-node-here really 2.125 1 {\nDPC Acquisition Partners, a hostile suitor for Dataproducts Corp., filed a petition in federal district court in Los Angeles }
+create-a-node-here really 2.216 2 {seeking to have its standstill agreement with the computer printer maker declared void, }
+autolink_nodes 1 2 satelite purpose  5001
+create-a-node-here really 2.284 3 {and it proceeded with a $10-a-share tender offer for the company.}
+nextSentence really
+autolink_nodes 5001 3 multinuclear Sequence  5002
+nextSentence really
+create-a-node-here really 4.73 4 { \n\nThe offer would give the transaction an indicated value of $189 million, }
+create-a-node-here really 4.109 5 {based on the 18.9 million shares }
+create-a-node-here really 4.142 6 {the group doesn't already own.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 4 5003 satelite circumstance  5004
+autolink_nodes 5002 5004 satelite hypothetical  5005
+create-a-node-here really 5.45 7 {\nDPC holds about 7.8% of Dataproducts' shares.}
+nextSentence really
+autolink_nodes 5005 7 satelite elaboration-additional  5006
+create-a-node-here really 7.8 8 { \n\nLawyers }
+create-a-node-here really 7.28 9 {representing DPC }
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5007
+#create-a-node-here really 7.40 10 {declined }
+#autolink_nodes 5007 10 multinuclear Same-Unit  5008
+#create-a-node-here really 7.58 11 {to elaborate, }
+#autolink_nodes 5008 11 nucleus attribution-n  5009
+#UNDID
+#autolink_nodes 5008 11 nucleus attribution-n  5009
+#create-a-node-here really 7.69 12 {saying }
+#autolink_nodes 5009 12 satelite elaboration-additional  5010
+#create-a-node-here really 8.0 13 {they didn't have a final copy of the filing.\n}
+#autolink_nodes 12 13 nucleus attribution  5011
+#disconnect_node 5011 disconnect
+#autolink_nodes 5009 5011 satelite reason  5012
+#create-a-node-here really 8.45 14 {Jack Davis, Dataproducts' chairman, said }
+#create-a-node-here really 8.79 15 {he hadn't yet seen the filing }
+#autolink_nodes 14 15 nucleus attribution  5013
+#create-a-node-here really 8.104 16 {and couldn't comment.}
+#nextSentence really
+#autolink_nodes 15 16 multinuclear List  5014
+#UNDID
+#autolink_nodes 15 16 multinuclear Cause-Result  5014
+#UNDID
+#autolink_nodes 15 16 multinuclear List  5014
+#UNDID
+#autolink_nodes 15 16 multinuclear List  5014
+#create-a-node-here really 10.51 17 { \n\nDPC made a $15-a-share bid for the company in May, }
+#create-a-node-here really 10.135 18 {but Dataproducts management considered the $283.7 million proposal unacceptable.}
+#nextSentence really
+#autolink_nodes 17 18 multinuclear Contrast  5015
+#create-a-node-here really 11.52 19 {\nDataproducts had sought a buyer for several months, }
+#create-a-node-here really 11.107 20 {but it is now in the midst of a restructuring plan }
+#autolink_nodes 19 20 nucleus concession  5016
+#create-a-node-here really 11.131 21 {and management says }
+#autolink_nodes 5016 21 nucleus circumstance  5017
+#create-a-node-here really 11.169 22 {the company is no longer for sale.}
+#nextSentence really
+#autolink_nodes 21 22 nucleus attribution  5018
+#disconnect_node 7 disconnect
+#autolink_nodes 5004 5017 satelite elaboration-additional  5019
+#UNDID
+#autolink_nodes 5004 7 satelite elaboration-additional  5019
+#autolink_nodes 5012 5013 multinuclear List  5020
+#autolink_nodes 5005 5020 multinuclear Statement-Response  5021
+#autolink_nodes 5021 5015 multinuclear Inverted-Sequence above 5022
+#change_rel 5015 Comparison
+#disconnect_node 19 modify
+#UNDID
+#disconnect_node 19 modify
+#autolink_nodes 20 19 nucleus temporal-after  5023
+#UNDID
+#autolink_nodes 20 19 nucleus temporal-after  5023
+#UNDID
+#autolink_nodes 20 19 satelite temporal-after  5023
+#disconnect_node 5015 disconnect
+#autolink_nodes 5021 5015 multinuclear Statement-Response above 5024
+#UNDID
+#autolink_nodes 5021 5015 multinuclear Comparison above 5024
+#autolink_nodes 5024 5017 multinuclear Sequence above 5025
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 2 modify
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5008
+create-a-node-here really 7.53 10 {declined to elaborate,}
+create-a-node-here really 7.65 11 { saying }
+autolink_nodes 5007 10 multinuclear Same-Unit  5009
+autolink_nodes 5009 11 satelite-embedded elaboration-additional-e  5010
+create-a-node-here really 8.0 12 {they didn't have a final copy of the filing.\n}
+autolink_nodes 11 12 nucleus attribution  5011
+create-a-node-here really 8.45 13 {Jack Davis, Dataproducts' chairman, said }
+create-a-node-here really 8.79 14 {he hadn't yet seen the filing }
+create-a-node-here really 8.104 15 {and couldn't comment.}
+nextSentence really
+autolink_nodes 14 15 multinuclear List  5012
+autolink_nodes 13 5012 nucleus attribution  5013
+autolink_nodes 5010 5013 multinuclear List  5014
+autolink_nodes 5006 5014 multinuclear Statement-Response  5015
+create-a-node-here really 10.51 16 { \n\nDPC made a $15-a-share bid for the company in May, }
+nextSentence really
+create-a-node-here really 10.135 17 {but Dataproducts management considered the $283.7 million proposal unacceptable.}
+nextSentence really
+autolink_nodes 16 17 multinuclear Contrast  5016
+autolink_nodes 5015 5016 multinuclear Inverted-Sequence above 5017
+create-a-node-here really 11.52 18 {\nDataproducts had sought a buyer for several months, }
+create-a-node-here really 11.107 19 {but it is now in the midst of a restructuring plan }
+create-a-node-here really 11.131 20 {and management says }
+create-a-node-here really 11.169 21 {the company is no longer for sale.}
+nextSentence really
+autolink_nodes 20 21 nucleus attribution  5018
+autolink_nodes 19 5018 nucleus circumstance  5019
+autolink_nodes 18 5019 multinuclear Contrast  5020
+autolink_nodes 5017 5020 multinuclear Sequence above 5021
+disconnect_node 2 modify
+autolink_nodes 1 2 satelite purpose  5022
+disconnect_node 5011 modify
+autolink_nodes 5009 5011 satelite manner  5023
+disconnect_node 15 modify
+autolink_nodes 14 15 multinuclear Consequence  5024

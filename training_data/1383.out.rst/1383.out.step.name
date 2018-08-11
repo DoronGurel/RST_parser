@@ -1,0 +1,19 @@
+nextSentence really
+create-a-node-here really 2.32 1 {\nRhone-Poulenc S.A., Paris, said }
+create-a-node-here really 2.150 2 {it completed the purchase of the specialty chemicals operation of RTZ Corp., a British mining and industrial group.}
+#nextSentence really
+#UNDID
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.59 3 { \n\nRhone-Poulenc, a chemical and pharmaceutical company, said }
+create-a-node-here really 4.115 4 {RTZ Chemicals has annual sales of about $900 million.}
+nextSentence really
+autolink_nodes 3 4 nucleus attribution  5002
+autolink_nodes 5001 5002 satelite elaboration-additional  5003
+create-a-node-here really 5.43 5 {\nIt didn't release terms of the transaction.}
+nextSentence really
+autolink_nodes 5003 5 satelite elaboration-additional  5004
+change_rel 5 manner
+collapsed_nodes {5004}
+nextSentence really
+nextSentence really
+collapsed_nodes {}

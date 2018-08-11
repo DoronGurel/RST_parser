@@ -1,0 +1,160 @@
+nextSentence really
+create-a-node-here really 2.21 1 {\nProcter & Gamble Co.,}
+create-a-node-here really 2.99 2 { helped by a gain from a lawsuit settlement and continued growth overseas, }
+create-a-node-here really 2.155 3 {posted a 38% rise in fiscal first-quarter net income.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 4.20 4 { \n\nNet for the quarter }
+create-a-node-here really 4.38 5 {ended Sept. 30 }
+create-a-node-here really 4.136 6 {climbed to $551 million, or $1.66 a share, from $400 million, or $1.18 a share, a year earlier.}
+nextSentence really
+create-a-node-here really 5.81 7 {\nPer-share figures have been adjusted for a 2-for-1 stock split effective Oct. 20.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 5003 6 multinuclear Same-Unit  5004
+#autolink_nodes 5002 5004 satelite comparison  5005
+#UNDID
+autolink_nodes 5002 5004 satelite elaboration-additional  5005
+create-a-node-here really 6.56 8 {\nSales increased 6% to $5.58 billion from $5.27 billion. }
+create-a-node-here really 8.106 9 {\n\nEarnings at the consumer-products giant were boosted by a gain of $125 million, or about 25 cents a share,}
+create-a-node-here really 8.237 10 { stemming from last month's settlement of litigation with three of P&G's competitors over patents on P&G's Duncan Hines cookies.}
+nextSentence really
+create-a-node-here really 10.19 11 { \n\nExcluding the gain,}
+create-a-node-here really 10.114 12 { P&G's earnings were close to analysts' predictions of about $1.40 a share for the quarter.}
+nextSentence really
+autolink_nodes 6 7 satelite elaboration-additional  5006
+#autolink_nodes 5004 8 multinuclear Same-Unit below 5006
+#UNDID
+#autolink_nodes 5004 8 multinuclear Same-Unit below 5006
+#UNDID
+autolink_nodes 5004 8 multinuclear List above 5007
+autolink_nodes 9 10 satelite elaboration-object-attribute  5008
+#autolink_nodes 5007 5008 multinuclear List above 5009
+#UNDID
+autolink_nodes 5007 5008 multinuclear List below 5008
+autolink_nodes 11 12 nucleus elaboration-part-whole  5009
+create-a-node-here really 12.0 13 {\nWall Street had expected a modest rise in the company's domestic sales and earnings, and more substantial increases in overseas results.\n}
+create-a-node-here really 12.15 14 {One factor }
+create-a-node-here really 12.46 15 {helping sales and earnings }
+create-a-node-here really 12.107 16 {was a 3% price rise for most P&G products, except coffee,}
+create-a-node-here really 12.126 17 { analysts said.}
+nextSentence really
+autolink_nodes 5008 5009 satelite elaboration-additional  5010
+autolink_nodes 5009 13 satelite explanation-argumentative  5011
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 5012 16 multinuclear Same-Unit  5013
+autolink_nodes 5013 17 satelite attribution  5014
+collapsed_nodes {5010}
+autolink_nodes 5010 5014 satelite explanation-argumentative  5015
+create-a-node-here really 14.89 18 { \n\nUnit volume, or amount of products shipped, rose about 11% in the international segment, }
+create-a-node-here really 14.173 19 {with P&G continuing to win market share in Japan's diaper and detergent markets.}
+nextSentence really
+create-a-node-here really 15.55 20 {\nJay Freedman, analyst with Kidder, Peabody & Co., said }
+create-a-node-here really 15.88 21 {P&G's Always sanitary napkin,}
+create-a-node-here really 15.130 22 { sold under the Whisper name in Japan,}
+create-a-node-here really 15.184 23 { has firmly established itself as a leading brand.}
+nextSentence really
+create-a-node-here really 16.11 24 {\nHe figures }
+create-a-node-here really 16.71 25 {P&G will expand its personal-care product line in Japan }
+create-a-node-here really 16.103 26 {to "continue that momentum."}
+#nextSentence really
+#UNDID
+autolink_nodes 18 19 satelite explanation-argumentative  5016
+autolink_nodes 20 21 nucleus attribution  5017
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e below 5018
+autolink_nodes 5018 23 multinuclear Same-Unit  5019
+autolink_nodes 24 25 nucleus attribution  5020
+autolink_nodes 25 26 satelite purpose below 5021
+autolink_nodes 5017 5020 satelite elaboration-additional  5022
+#autolink_nodes 5016 5022 satelite evidence  5023
+#UNDID
+autolink_nodes 5016 5022 satelite example  5023
+create-a-node-here really 18.37 27 { \n\nP&G's U.S. shipments were up just 1%,}
+create-a-node-here really 18.172 28 { partly because the company decided to shift more promotions and sales for health and beauty products to the fiscal second quarter.}
+nextSentence really
+nextSentence really
+create-a-node-here really 19.53 29 {\nHugh Zurkuhlen, analyst with Salomon Bros., predicts }
+create-a-node-here really 19.149 30 {the shift will mean P&G's sales growth in the second quarter will be "in the double digits."}
+nextSentence really
+create-a-node-here really 21.79 31 { \n\nAlso slowing growth in the U.S. were lackluster results for P&G's cooking oils,}
+create-a-node-here really 21.130 32 { which had a strong year-earlier first quarter.}
+nextSentence really
+create-a-node-here really 22.111 33 {\nLast year's drought in the Midwest prompted retailers to stock up on oils ahead of anticipated price increases,}
+create-a-node-here really 22.159 34 { boosting sales for Crisco and Puritan oils,}
+create-a-node-here really 22.178 35 { analysts said.}
+#nextSentence really
+#UNDID
+autolink_nodes 27 28 satelite reason  5024
+autolink_nodes 29 30 nucleus attribution  5025
+autolink_nodes 5024 5025 satelite consequence-s  5026
+collapsed_nodes {5010 5019}
+collapsed_nodes {5010 5019 5016}
+autolink_nodes 5023 5026 multinuclear Contrast  5027
+collapsed_nodes {5010 5019 5016 5007}
+autolink_nodes 5005 5027 satelite elaboration-additional  5028
+autolink_nodes 31 32 satelite elaboration-object-attribute  5029
+autolink_nodes 33 34 satelite consequence-s  5030
+autolink_nodes 5030 35 satelite attribution  5031
+autolink_nodes 5029 5031 satelite explanation-argumentative  5032
+autolink_nodes 5026 5032 satelite elaboration-additional  5033
+create-a-node-here really 24.65 36 { \n\nFor fiscal 1990, analysts expect P&G's sales to continue to grow,}
+create-a-node-here really 24.113 37 { with earnings climbing between 15% and 20%.}
+nextSentence really
+create-a-node-here really 25.141 38 {\nLynne Hyman, vice president of equity research for First Boston Corp., expects P&G to post net of about $4.20 a share, on a post-split basis.}
+nextSentence really
+create-a-node-here really 25.167 39 { "But I'm recognizing }
+create-a-node-here really 25.193 40 {there's a good chance }
+create-a-node-here really 25.233 41 {they'll do a bit better than that," }
+create-a-node-here really 25.246 42 {she says.}
+nextSentence really
+create-a-node-here really 26.41 43 {\nIn fiscal 1989, P&G earned $3.56 a share,}
+create-a-node-here really 26.75 44 { adjusted for the stock split.}
+nextSentence really
+autolink_nodes 36 37 satelite explanation-argumentative  5034
+autolink_nodes 5034 38 satelite elaboration-additional  5035
+autolink_nodes 39 40 nucleus attribution  5036
+autolink_nodes 40 41 satelite-embedded elaboration-object-attribute-e below 5037
+autolink_nodes 5036 42 satelite attribution  5038
+autolink_nodes 43 44 satelite elaboration-object-attribute  5039
+autolink_nodes 5038 5039 satelite background  5040
+autolink_nodes 5035 5040 satelite elaboration-additional  5041
+collapsed_nodes {5010 5019 5016 5007 5032}
+collapsed_nodes {5010 5019 5016 5007 5032 5041}
+collapsed_nodes {5010 5019 5016 5007 5032 5041 5027}
+autolink_nodes 5028 5041 satelite elaboration-additional  5042
+create-a-node-here really 28.15 45 { \n\nOne big factor }
+create-a-node-here really 28.52 46 {affecting the fiscal second half }
+create-a-node-here really 28.103 47 {will be the new stewardship of Edwin L. Artzt, }
+create-a-node-here really 28.167 48 {who becomes chairman and chief executive officer in January.}
+nextSentence really
+create-a-node-here really 29.34 49 {\nBecause of his remarkable success }
+create-a-node-here really 29.85 50 {turning around P&G's international operations, }
+create-a-node-here really 29.129 51 {analysts have high hopes for his tenure.}
+nextSentence really
+create-a-node-here really 29.203 52 { "If he does to the domestic operations what he did internationally," }
+create-a-node-here really 29.227 53 {says Mr. Zurkuhlen, }
+create-a-node-here really 29.288 54 {"this company will earn $6 or $7 a share in a few years."}
+nextSentence really
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5043
+autolink_nodes 5043 47 multinuclear Same-Unit  5044
+autolink_nodes 47 48 satelite elaboration-additional  5045
+autolink_nodes 49 50 satelite elaboration-object-attribute  5046
+autolink_nodes 5046 51 multinuclear Cause-Result  5047
+autolink_nodes 52 53 satelite attribution  5048
+#autolink_nodes 5047 5048 satelite condition  5049
+#UNDID
+autolink_nodes 5048 54 nucleus condition  5049
+autolink_nodes 5047 5049 satelite explanation-argumentative  5050
+autolink_nodes 5044 5050 satelite elaboration-additional  5051
+autolink_nodes 5042 5051 satelite elaboration-additional  5052
+collapsed_nodes {5010 5019 5016 5007 5032 5041 5027 5052}
+collapsed_nodes {}
+disconnect_node 32 disconnect
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e below 5053
+disconnect_node 44 disconnect
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5054
+disconnect_node 50 disconnect
+autolink_nodes 49 50 satelite-embedded elaboration-object-attribute-e  5055
+collapsed_nodes {5052}
+collapsed_nodes {}

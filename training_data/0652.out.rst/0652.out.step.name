@@ -1,0 +1,77 @@
+nextSentence really
+create-a-node-here really 2.40 1 {\nWilfred American Educational Corp. said }
+create-a-node-here really 2.147 2 {a federal grand jury in Boston indicted the operator of cosmetology and business schools for mail fraud.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.39 3 { \n\nThe charges in the 12-count indictment,}
+create-a-node-here really 4.66 4 { which stem from events }
+autolink_nodes 3 4 satelite-embedded elaboration-additional-e  5002
+create-a-node-here really 4.121 5 {that allegedly occurred in late 1984 and early 1985,}
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 4.211 6 { involve enrollment procedures of six students and the preparation of certain reports, }
+autolink_nodes 5002 6 multinuclear Same-Unit  5004
+create-a-node-here really 4.227 7 {Wilfred said.}
+nextSentence really
+autolink_nodes 5004 7 satelite attribution  5005
+autolink_nodes 5001 5005 satelite elaboration-additional  5006
+create-a-node-here really 5.46 8 {\nNo individuals were charged in the indictment.}
+nextSentence really
+autolink_nodes 5005 8 satelite elaboration-additional  5007
+create-a-node-here really 7.22 9 { \n\nWilfred American said }
+create-a-node-here really 7.80 10 {it will "vigorously defend" itself against the charges }
+autolink_nodes 9 10 nucleus attribution  5008
+create-a-node-here really 7.94 11 {and added }
+create-a-node-here really 7.136 12 {that the charges relate to procedures }
+autolink_nodes 11 12 nucleus attribution  5009
+create-a-node-here really 7.166 13 {that it has since changed.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e below 5010
+autolink_nodes 5008 5009 multinuclear List  5011
+autolink_nodes 5006 5011 satelite comment  5012
+#create-a-node-here really 9.163 14 { \n\nEight admissions representatives at two of Wilfred's former Massachusetts schools previously pleaded guilty to charges of aiding, abetting and counseling students }
+#create-a-node-here really 9.210 15 {to submit false financial-aid applications.}
+#nextSentence really
+#autolink_nodes 14 15 satelite purpose  5013
+#create-a-node-here really 10.59 16 {\nWilfred closed its Massachusetts schools earlier this year.}
+#nextSentence really
+#autolink_nodes 5013 16 satelite elaboration-additional  5014
+#autolink_nodes 5012 5014 multinuclear Inverted-Sequence  5015
+#nextSentence really
+#nextSentence really
+#create-a-node-here really 12.101 17 { \n\nIn New York Stock Exchange composite trading Friday, Wilfred fell 6.25 cents to 93.75 cents a share. }
+#autolink_nodes 5015 17 nucleus consequence-n  5016
+#disconnect_node 5011 disconnect
+#autolink_nodes 5006 5011 satelite elaboration-additional  5017
+#disconnect_node 5015 disconnect
+#autolink_nodes 5015 17 satelite consequence-s  5018
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 8 disconnect
+autolink_nodes 5006 8 satelite elaboration-additional below 5013
+create-a-node-here really 9.119 14 { \n\nEight admissions representatives at two of Wilfred's former Massachusetts schools previously pleaded guilty to charges }
+create-a-node-here really 9.167 15 {of aiding, abetting and counseling students }
+create-a-node-here really 10.0 16 {to submit false financial-aid applications.\n}
+autolink_nodes 15 16 satelite purpose  5014
+autolink_nodes 14 5014 satelite-embedded elaboration-object-attribute-e  5015
+create-a-node-here really 10.63 17 {Wilfred closed its Massachusetts schools earlier this year.}
+nextSentence really
+nextSentence really
+create-a-node-here really 12.100 18 { \n\nIn New York Stock Exchange composite trading Friday, Wilfred fell 6.25 cents to 93.75 cents a share.}
+nextSentence really
+autolink_nodes 5015 17 satelite consequence-s  5016
+autolink_nodes 5012 5016 multinuclear Inverted-Sequence  5017
+autolink_nodes 5017 18 satelite consequence-s  5018

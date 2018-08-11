@@ -1,0 +1,149 @@
+nextSentence really
+create-a-node-here really 2.74 1 {\nSouthern Co. 's Gulf Power Co. unit may plead guilty this week to charges }
+create-a-node-here really 2.157 2 {that it illegally steered company money to politicians through outside vendors, }
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.242 3 {according to individuals close to an investigation of the utility holding company.}
+nextSentence really
+autolink_nodes 5001 3 satelite attribution  5002
+nextSentence really
+create-a-node-here really 4.196 4 { \n\nThe tentative settlement between Gulf Power, a Pensacola, Fla., electric company, and federal prosecutors would mark the end of one part of a wide-ranging inquiry of Southern Co. in the past year.}
+nextSentence really
+create-a-node-here really 5.36 5 {\nA grand jury has been investigating }
+create-a-node-here really 5.128 6 {whether officials at Southern Co. conspired to cover up their accounting for spare parts }
+create-a-node-here really 5.161 7 {to evade federal income taxes.}
+nextSentence really
+autolink_nodes 6 7 satelite purpose  5003
+autolink_nodes 5002 4 satelite interpretation-s  5004
+autolink_nodes 5 5003 nucleus attribution  5005
+create-a-node-here really 7.43 8 { \n\nThe grand jury has also been investigating }
+create-a-node-here really 7.126 9 {whether Gulf Power executives violated the federal Utility Holding Company Act, }
+create-a-node-here really 7.199 10 {which prohibits certain utilities from making political contributions.}
+nextSentence really
+autolink_nodes 9 10 satelite-embedded definition-e  5006
+autolink_nodes 8 5006 nucleus attribution  5007
+autolink_nodes 5005 5007 multinuclear List  5008
+autolink_nodes 5004 5008 satelite circumstance  5009
+create-a-node-here really 9.21 11 { \n\nThe individuals said }
+create-a-node-here really 9.89 12 {Gulf Power and federal prosecutors are considering a settlement }
+autolink_nodes 11 12 nucleus attribution  5010
+create-a-node-here really 9.158 13 {under which the company would plead guilty to two felony charges }
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e below 5011
+create-a-node-here really 9.176 14 {and pay fines }
+create-a-node-here really 9.223 15 {totaling between $500,000 and $1.5 million.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 13 5012 multinuclear Sequence  5013
+create-a-node-here really 10.104 16 {\nUnder one count, Gulf Power would plead guilty to conspiring to violate the Utility Holding Company Act.}
+nextSentence really
+create-a-node-here really 11.84 17 {\nUnder the second count, the company would plead guilty to conspiring to evade taxes.}
+nextSentence really
+autolink_nodes 16 17 multinuclear List  5014
+autolink_nodes 5013 5014 satelite elaboration-set-member  5015
+create-a-node-here really 13.53 18 { \n\nThe guilty pleas would be made solely by Gulf Power, }
+create-a-node-here really 13.78 19 {the individuals said.}
+nextSentence really
+autolink_nodes 18 19 satelite attribution  5016
+create-a-node-here really 14.40 20 {\nNo employee or vendor would be involved.}
+nextSentence really
+autolink_nodes 5016 20 satelite elaboration-additional  5017
+disconnect_node 20 modify
+autolink_nodes 5016 20 satelite restatement  5018
+autolink_nodes 5010 5018 satelite elaboration-additional  5019
+create-a-node-here really 16.39 21 { \n\nA spokesman for Southern Co. would say }
+create-a-node-here really 16.123 22 {only that discussions are continuing between Gulf Power and federal prosecutors.}
+nextSentence really
+autolink_nodes 21 22 nucleus attribution  5020
+#create-a-node-here really 16.163 23 { "We have no further developments to}
+#UNDID
+create-a-node-here really 16.161 23 { "We have no further developments }
+create-a-node-here really 16.177 24 {to report," }
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5021
+create-a-node-here really 17.0 25 {he said.\n}
+autolink_nodes 5021 25 satelite attribution  5022
+create-a-node-here really 17.60 26 {Officials at Gulf Power couldn't be reached for comment.}
+nextSentence really
+create-a-node-here really 18.36 27 {\nAnd prosecutors declined to comment.}
+nextSentence really
+autolink_nodes 26 27 multinuclear List  5023
+autolink_nodes 5020 5022 satelite elaboration-additional  5024
+autolink_nodes 5024 5023 multinuclear List  5025
+disconnect_node 5023 disconnect
+disconnect_node 27 disconnect
+autolink_nodes 5024 26 multinuclear List  5026
+autolink_nodes 5026 27 multinuclear List below 5026
+autolink_nodes 5019 5026 multinuclear Statement-Response  5027
+autolink_nodes 5009 5027 satelite elaboration-additional  5028
+create-a-node-here really 20.80 28 { \n\nWhile Southern Co. has been reluctant to discuss the grand jury investigations, }
+create-a-node-here really 20.137 29 {Edward L. Addison, chief executive officer, has said }
+autolink_nodes 28 29 nucleus concession  5029
+create-a-node-here really 20.209 30 {the company is prepared to defend its tax and acccounting practices }
+autolink_nodes 29 30 nucleus attribution  5030
+create-a-node-here really 20.251 31 {if any charges are brought against it.}
+nextSentence really
+autolink_nodes 30 31 satelite condition below 5031
+create-a-node-here really 21.30 32 {\nMorever, Mr. Addison has said }
+create-a-node-here really 21.107 33 {Southern Co. and its units don't condone illegal political contributions.}
+nextSentence really
+autolink_nodes 32 33 nucleus attribution  5032
+autolink_nodes 5030 5032 satelite elaboration-additional below 5033
+disconnect_node 5032 modify
+autolink_nodes 5030 5032 multinuclear List  5034
+create-a-node-here really 22.134 34 {\nNeither Mr. Addison nor any other Southern Co. official has been charged with any wrongdoing in connection with the current inquiries.}
+nextSentence really
+autolink_nodes 5029 34 satelite elaboration-additional  5035
+disconnect_node 34 disconnect
+autolink_nodes 5034 34 satelite elaboration-additional below 5036
+autolink_nodes 5028 5029 satelite elaboration-additional  5037
+create-a-node-here really 24.73 35 { \n\nThe probe of Southern Co. has attracted considerable attention this year }
+create-a-node-here really 24.103 36 {because of several events }
+autolink_nodes 35 36 satelite consequence-n  5038
+create-a-node-here really 24.139 37 {that have befallen the company, }
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5039
+create-a-node-here really 24.248 38 {including the death of a Gulf Power executive in a plane crash and the disappearance of a company vendor }
+create-a-node-here really 24.291 39 {who was to be a key grand jury witness.}
+nextSentence really
+disconnect_node 5039 modify
+autolink_nodes 35 5039 satelite explanation-argumentative  5040
+autolink_nodes 38 39 satelite-embedded elaboration-object-attribute-e  5041
+autolink_nodes 5039 5041 satelite-embedded example-e  5042
+create-a-node-here really 26.20 40 { \n\nWitnesses have said }
+create-a-node-here really 26.138 41 {the grand jury has asked numerous questions about Jacob F. "Jake" Horton, the senior vice president of Gulf Power }
+create-a-node-here really 26.179 42 {who died in the plane crash in April.}
+nextSentence really
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5043
+autolink_nodes 40 5043 nucleus attribution  5044
+create-a-node-here really 27.61 43 {\nMr. Horton oversaw Gulf Power's governmental-affairs efforts.}
+nextSentence really
+autolink_nodes 5044 43 satelite elaboration-additional  5045
+create-a-node-here really 28.55 44 {\nOn the morning of the crash, he had been put on notice }
+create-a-node-here really 28.114 45 {that an audit committee was recommending his dismissal }
+create-a-node-here really 28.173 46 {because of invoicing irregularities in a company audit.}
+nextSentence really
+autolink_nodes 45 46 satelite consequence-n  5046
+autolink_nodes 44 5046 satelite-embedded elaboration-object-attribute-e  5047
+create-a-node-here really 29.44 47 {\nInvestigators have been trying to determine }
+create-a-node-here really 29.103 48 {whether the crash was an accident, sabotage or suicide.}
+nextSentence really
+autolink_nodes 47 48 nucleus attribution  5048
+autolink_nodes 5047 5048 nucleus circumstance  5049
+autolink_nodes 5045 5049 satelite elaboration-additional  5050
+create-a-node-here really 31.23 49 { \n\nGulf Power said in May }
+create-a-node-here really 31.64 50 {that an internal audit had disclosed }
+autolink_nodes 49 50 nucleus attribution  5051
+create-a-node-here really 31.117 51 {that at least one vendor had used false invoices }
+autolink_nodes 50 51 nucleus attribution  5052
+create-a-node-here really 31.146 52 {to fund political causes.}
+nextSentence really
+autolink_nodes 51 52 satelite purpose below 5053
+create-a-node-here really 32.21 53 {\nBut the company said }
+create-a-node-here really 32.92 54 {the political contributions had been made more than five years ago.}
+nextSentence really
+autolink_nodes 53 54 nucleus attribution  5054
+autolink_nodes 5051 5054 multinuclear Contrast  5055
+autolink_nodes 5050 5055 multinuclear List  5056
+autolink_nodes 5041 5056 satelite elaboration-general-specific  5057
+autolink_nodes 5037 5040 multinuclear Topic-Drift  5058
+disconnect_node 5057 modify
+autolink_nodes 5039 5057 satelite-embedded elaboration-general-specific-e  5059
+disconnect_node 5057 modify
+autolink_nodes 5039 5057 satelite-embedded example-e  5060

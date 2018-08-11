@@ -1,0 +1,6 @@
+( Root (span 1 4) (prom 1 2 3 4)
+   ( Nucleus (leaf 1) (rel2par List) (prom 1) (text  General Electric Co. was given an $89.6 million Navy contract for nuclear propulsion parts.) )
+   ( Nucleus (leaf 2) (rel2par List) (prom 2) (text  Westinghouse Electric Corp. also won a $75.5 million Navy contract for nuclear propulsion parts.) )
+   ( Nucleus (leaf 3) (rel2par List) (prom 3) (text  Federal Data Corp. was issued a $14.5 million Navy contract for computer systems.) )
+   ( Nucleus (leaf 4) (rel2par List) (prom 4) (text  American Telephone & Telegraph Co. was awarded an $11.5 million Navy contract for oceanographic services.) )
+)

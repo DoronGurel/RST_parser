@@ -1,0 +1,74 @@
+nextSentence really
+create-a-node-here really 2.35 1 {\nWeatherford International Inc. said}
+create-a-node-here really 2.84 2 { it canceled plans for a preferred-stock swap }
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.136 3 {but may resume payment of dividends on the stock,}
+autolink_nodes 2 3 multinuclear Contrast  5002
+create-a-node-here really 2.150 4 { and added }
+autolink_nodes 5001 4 satelite elaboration-additional  5003
+create-a-node-here really 2.218 5 {that it expects to publicly offer about 10 million common shares.}
+nextSentence really
+autolink_nodes 4 5 nucleus attribution  5004
+create-a-node-here really 4.16 6 { \n\nThe company said}
+autolink_nodes 5003 6 satelite elaboration-additional  5005
+create-a-node-here really 4.150 7 { it planned to offer an undetermined number of common shares in exchange for the 585,000 shares of its preferred stock outstanding.}
+nextSentence really
+autolink_nodes 6 7 nucleus attribution  5006
+create-a-node-here really 5.41 8 {\nThe exchange ratio was never established.}
+nextSentence really
+autolink_nodes 5006 8 satelite elaboration-additional  5007
+create-a-node-here really 6.17 9 {\nWeatherford said }
+#autolink_nodes 5005 9 satelite elaboration-additional  5008
+#UNDID
+autolink_nodes 5005 9 satelite circumstance  5008
+create-a-node-here really 6.86 10 {market conditions led to the cancellation of the planned exchange.}
+autolink_nodes 9 10 nucleus attribution  5009
+create-a-node-here really 8.43 11 { \n\nThe energy-services concern said, however, }
+autolink_nodes 5009 11 nucleus concession  5010
+create-a-node-here really 8.128 12 {that in January 1990, it may resume payments of dividends on the preferred stock.}
+nextSentence really
+autolink_nodes 11 12 nucleus attribution  5011
+create-a-node-here really 9.69 13 {\nWeatherford suspended its preferred-dividend payment in October 1985 }
+autolink_nodes 5010 13 satelite background  5012
+create-a-node-here really 9.82 14 {and said }
+autolink_nodes 13 14 multinuclear List  5013
+create-a-node-here really 9.105 15 {it hasn't any plans}
+autolink_nodes 14 15 nucleus attribution  5014
+create-a-node-here really 9.164 16 { to catch up on dividends in arrears about $6 million, }
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e below 5015
+create-a-node-here really 9.207 17 {but will do so some time in the future.}
+nextSentence really
+autolink_nodes 5015 17 multinuclear Contrast  5016
+create-a-node-here really 11.31 18 { \n\nAdditionally, the company said }
+collapsed_nodes {5012}
+collapsed_nodes {5012 5007}
+collapsed_nodes {5012 5007 5005}
+autolink_nodes 5008 18 satelite elaboration-additional  5017
+create-a-node-here really 11.151 19 {it filed with the Securities and Exchange Commission for the proposed offering of 10 million shares of common stock,}
+autolink_nodes 18 19 nucleus attribution  5018
+create-a-node-here really 11.191 20 { expected to be offered in November.}
+nextSentence really
+autolink_nodes 19 20 satelite-embedded elaboration-additional-e below 5019
+create-a-node-here really 13.17 21 { \n\nThe company said }
+autolink_nodes 5017 21 satelite elaboration-additional  5020
+create-a-node-here really 13.143 22 {Salomon Brothers Inc. and Howard, Weil, Labouisse, Friedrichs Inc., underwriters for the offering, were granted an option }
+autolink_nodes 21 22 nucleus attribution  5021
+create-a-node-here really 13.197 23 {to buy as much as an additional 1.5 million shares}
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e below 5022
+create-a-node-here really 13.227 24 { to cover over-allotments.}
+nextSentence really
+autolink_nodes 23 24 satelite purpose  5023
+create-a-node-here really 14.22 25 {\nProceeds will be used }
+autolink_nodes 5021 25 satelite elaboration-additional  5024
+create-a-node-here really 14.65 26 {to eliminate and restructure bank debt.}
+nextSentence really
+autolink_nodes 25 26 satelite purpose  5025
+nextSentence really
+create-a-node-here really 15.79 27 {\nWeatherford currently has approximately 11.1 million common shares outstanding.}
+nextSentence really
+autolink_nodes 5024 27 satelite elaboration-additional  5026
+collapsed_nodes {5012 5007 5005 5026}
+collapsed_nodes {5012 5007 5005 5026 5020}
+collapsed_nodes {}
+collapsed_nodes {5020}
+collapsed_nodes {}

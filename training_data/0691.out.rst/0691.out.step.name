@@ -1,0 +1,18 @@
+nextSentence really
+create-a-node-here really 2.22 1 {\nSharesBase Corp. said }
+create-a-node-here really 2.113 2 {it will reduce its 221-person work force by about 25%, effective tomorrow, in an effort }
+create-a-node-here really 2.142 3 {to stem continuing losses.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 1 5001 nucleus attribution  5002
+create-a-node-here really 4.13 4 { \n\nThe company, }
+create-a-node-here really 4.60 5 {which makes data base systems and software, }
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5003
+create-a-node-here really 4.68 6 {said }
+autolink_nodes 5003 6 multinuclear Same-Unit  5004
+create-a-node-here really 4.121 7 {it expects to report a loss for the third quarter }
+create-a-node-here really 4.139 8 {ended Sept. 30.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 5004 5005 nucleus attribution  5006
+autolink_nodes 5002 5006 satelite elaboration-additional  5007

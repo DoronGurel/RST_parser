@@ -1,0 +1,45 @@
+nextSentence really
+create-a-node-here really 2.114 1 {\nBlinder International Enterprises Inc., the parent of beleaguered penny-stockbroker Blinder, Robinson & Co., said }
+#create-a-node-here really 2.215 2 {its shareholders approved a previously announced name change to Intercontinental Enterprises Inc. }
+#UNDID
+create-a-node-here really 2.214 2 {its shareholders approved a previously announced name change to Intercontinental Enterprises Inc.}
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.76 3 { \n\n"The parent company is diversifying into other industries around the world,"}
+create-a-node-here really 4.109 4 { said president Meyer Blinder }
+create-a-node-here really 4.142 5 {in explaining the name change.}
+nextSentence really
+create-a-node-here really 4.195 6 { "Everytime we talked about Blinder International,}
+create-a-node-here really 4.216 7 { {people} thought }
+create-a-node-here really 4.247 8 {it was the brokerage house."}
+nextSentence really
+autolink_nodes 3 4 satelite attribution  5002
+autolink_nodes 5002 5 satelite attribution  5003
+create-a-node-here really 4.268 9 { Mr. Blinder said }
+create-a-node-here really 4.332 10 {the change wasn't related to the brokerage's recent troubles,}
+create-a-node-here really 4.457 11 { which have included sharp declines in earnings, run-ins with the securities regulators and lawsuits by former customers.}
+nextSentence really
+create-a-node-here really 6.17 12 { \n\nThe company said }
+create-a-node-here really 6.77 13 {it expects the name change to take effect within a week.}
+nextSentence really
+autolink_nodes 5001 5003 satelite explanation-argumentative  5004
+autolink_nodes 6 7 satelite temporal-same-time  5005
+autolink_nodes 7 8 nucleus attribution  5006
+#autolink_nodes 5005 9 satelite attribution  5007
+#autolink_nodes 5004 5007 satelite elaboration-additional  5008
+#autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5009
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 9 10 nucleus attribution  5007
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e below 5008
+autolink_nodes 12 13 nucleus attribution  5009
+autolink_nodes 5004 5005 satelite elaboration-additional  5010
+autolink_nodes 5010 5007 satelite elaboration-additional  5011
+collapsed_nodes {5010}
+autolink_nodes 5011 5009 satelite elaboration-additional  5012
+collapsed_nodes {5010}
+collapsed_nodes {}
+disconnect_node 5 disconnect
+autolink_nodes 5002 5 nucleus reason  5013
+collapsed_nodes {5012}
+collapsed_nodes {}

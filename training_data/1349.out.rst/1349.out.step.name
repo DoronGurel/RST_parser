@@ -1,0 +1,230 @@
+nextSentence really
+create-a-node-here really 2.91 1 {\nThe House Appropriations Committee approved an estimated $2.85 billion in emergency funding}
+create-a-node-here really 2.155 2 { to assist California's recovery from last week's earthquake }
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.224 3 {and to extend further aid to East Coast victims of Hurricane Hugo.}
+nextSentence really
+autolink_nodes 2 3 multinuclear List  5002
+create-a-node-here really 4.60 4 { \n\nThe package was termed excessive by the Bush administration,}
+autolink_nodes 5001 4 satelite evaluation-s  5003
+create-a-node-here really 4.134 5 { but it also provoked a struggle with influential California lawmakers }
+autolink_nodes 5003 5 satelite elaboration-additional  5004
+create-a-node-here really 4.223 6 {who sought unsuccessfully to add nearly $1 billion more and waive current restrictions}
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5005
+create-a-node-here really 4.265 7 { to expedite the distribution of funds.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 6.72 8 { \n\nBy a 26-7 margin, the committee scuttled the more expensive alternative,}
+autolink_nodes 5004 8 satelite elaboration-additional  5007
+create-a-node-here really 6.179 9 { and the debate forced a strained confrontation between Appropriations Committee Chairman Jamie Whitten }
+autolink_nodes 8 9 multinuclear List  5008
+nextSentence really
+nextSentence really
+create-a-node-here really 6.193 10 {(D., Miss.)}
+autolink_nodes 9 10 satelite-embedded elaboration-additional-e  5009
+create-a-node-here really 6.252 11 { and his party's largest state delegation in the House.}
+nextSentence really
+autolink_nodes 5009 11 multinuclear Same-Unit  5010
+create-a-node-here really 8.41 12 { \n\n"I have no regrets about going forward," }
+autolink_nodes 5008 12 satelite explanation-argumentative  5011
+nextSentence really
+create-a-node-here really 8.65 13 {said Rep. Vic Fazio }
+autolink_nodes 12 13 satelite attribution  5012
+nextSentence really
+nextSentence really
+create-a-node-here really 8.81 14 {(D.,Calif.),}
+autolink_nodes 13 14 satelite-embedded elaboration-additional-e  5013
+create-a-node-here really 8.171 15 { who sought later to play down the sometimes hostile tone of the long evening meeting.}
+nextSentence really
+autolink_nodes 5013 15 satelite-embedded elaboration-additional-e  5014
+create-a-node-here really 8.203 16 { "We are the Golden State," }
+autolink_nodes 5012 16 satelite elaboration-additional  5015
+create-a-node-here really 8.222 17 {Mr. Fazio said,}
+autolink_nodes 16 17 satelite attribution  5016
+create-a-node-here really 8.271 18 { "and there is a certain amount of jealousy."}
+nextSentence really
+autolink_nodes 5016 18 multinuclear List  5017
+create-a-node-here really 10.138 19 { \n\nThe $2.85 billion package incorporates $500 million for small-business loans, $1 billion in highway construction funds, and $1.35 billion }
+collapsed_nodes {5015}
+collapsed_nodes {5015 5011}
+collapsed_nodes {5015 5011 5005}
+collapsed_nodes {5015 5011 5005 5004}
+autolink_nodes 5007 19 satelite elaboration-additional  5018
+create-a-node-here really 10.201 20 {divided between general emergency assistance and a reserve }
+autolink_nodes 19 20 satelite-embedded elaboration-additional-e  5019
+create-a-node-here really 10.239 21 {to be available to President Bush }
+autolink_nodes 20 21 satelite-embedded elaboration-additional-e  5020
+create-a-node-here really 10.294 22 {to meet unanticipated costs from the two disasters.}
+nextSentence really
+autolink_nodes 21 22 satelite purpose  5021
+collapsed_nodes {5015 5011 5005 5004 5020}
+create-a-node-here really 12.41 23 { \n\nThe funding is attached to a stopgap bill}
+autolink_nodes 5019 23 satelite elaboration-additional  5022
+create-a-node-here really 12.103 24 { to keep most of the government operating through Nov. 15.}
+nextSentence really
+autolink_nodes 23 24 satelite purpose  5023
+create-a-node-here really 13.56 25 {\nThe measure is expected to come before the House today, }
+autolink_nodes 5023 25 satelite elaboration-additional  5024
+collapsed_nodes {5015 5011 5005 5004 5020 5019}
+collapsed_nodes {5015 5011 5005 5004}
+collapsed_nodes {5015 5011 5005 5004 19}
+collapsed_nodes {5015 5011 5005 5004 19 23}
+create-a-node-here really 13.91 26 {and Congress is under pressure }
+autolink_nodes 25 26 multinuclear List  5025
+create-a-node-here really 13.143 27 {to complete action before midnight EDT tomorrow,}
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5026
+create-a-node-here really 13.195 28 { when the current continuing resolution expires.}
+nextSentence really
+autolink_nodes 27 28 satelite-embedded circumstance-e  5027
+collapsed_nodes {5015 5011 5005 5004 19 23 5019}
+create-a-node-here really 15.49 29 { \n\nGiven California's size and political importance,}
+autolink_nodes 5018 29 satelite elaboration-additional  5028
+create-a-node-here really 15.98 30 { the White House is eager to appear generous.}
+nextSentence really
+autolink_nodes 29 30 nucleus circumstance  5029
+create-a-node-here really 16.72 31 {\nBut in private meetings yesterday, Budget Director Richard Darman argued}
+autolink_nodes 5029 31 nucleus antithesis  5030
+create-a-node-here really 16.140 32 { that only $1.5 billion in new federal appropriations are needed}
+autolink_nodes 31 32 nucleus attribution  5031
+create-a-node-here really 16.178 33 { to supplement existing resources.}
+nextSentence really
+autolink_nodes 32 33 satelite purpose below 5032
+create-a-node-here really 17.47 34 {\nA White House budget office analysis estimates }
+autolink_nodes 5031 34 satelite explanation-argumentative below 5033
+create-a-node-here really 17.69 35 {that $500 million }
+autolink_nodes 34 35 nucleus attribution  5034
+create-a-node-here really 17.119 36 {-- or half the level in the committee bill -- }
+autolink_nodes 35 36 satelite-embedded interpretation-s-e below 5035
+create-a-node-here really 17.156 37 {is needed for highway assistance }
+autolink_nodes 5035 37 multinuclear Same-Unit  5036
+create-a-node-here really 17.188 38 {to meet California's needs, }
+autolink_nodes 5036 38 satelite purpose below 5037
+create-a-node-here really 17.234 39 {and the administration rejects the notion }
+autolink_nodes 5034 39 multinuclear List  5038
+create-a-node-here really 17.273 40 {that new appropriations are needed }
+autolink_nodes 39 40 satelite-embedded elaboration-object-attribute-e  5039
+create-a-node-here really 17.340 41 {to finance disaster loans by the Small Business Administration.}
+nextSentence really
+autolink_nodes 40 41 satelite purpose  5040
+collapsed_nodes {5015 5011 5005 5004 19 23 5019 5038}
+create-a-node-here really 19.22 42 { \n\n"Everybody appreciates}
+autolink_nodes 5038 42 multinuclear List below 5040
+create-a-node-here really 19.58 43 { that it is a national disaster }
+autolink_nodes 42 43 nucleus attribution  5041
+create-a-node-here really 19.97 44 {and that we've got to address it," }
+autolink_nodes 43 44 multinuclear List  5042
+create-a-node-here really 19.117 45 {said Mr. Darman,}
+autolink_nodes 5041 45 satelite attribution  5043
+create-a-node-here really 19.145 46 { who came to the Capitol}
+autolink_nodes 45 46 satelite-embedded elaboration-additional-e  5044
+create-a-node-here really 19.229 47 { to meet with Mr. Whitten and California lawmakers before the committee session.}
+nextSentence really
+autolink_nodes 46 47 satelite purpose  5045
+create-a-node-here really 19.258 48 { "I would hope very much }
+autolink_nodes 5043 48 multinuclear List  5046
+create-a-node-here really 19.309 49 {that we wouldn't end up in a kind of situation }
+autolink_nodes 48 49 nucleus attribution  5047
+create-a-node-here really 19.366 50 {where you have a bidding war and then a veto threat."}
+nextSentence really
+autolink_nodes 49 50 satelite-embedded elaboration-object-attribute-e below 5048
+collapsed_nodes {5015 5011 5005 5004 19 23 5019 5034 5039 5046}
+collapsed_nodes {5015 5011 5005 5004 19 23 5019}
+collapsed_nodes {5015 5011 5005 5004 19 23 5019 5046}
+create-a-node-here really 21.85 51 { \n\nAlthough this White House pressure was clearly a factor among committee Republicans, }
+autolink_nodes 5038 51 satelite elaboration-additional  5049
+create-a-node-here really 21.138 52 {no single influence was greater than Mr. Whitten.}
+nextSentence really
+#autolink_nodes 51 52 nucleus attribution  5050
+#UNDID
+autolink_nodes 51 52 nucleus antithesis  5050
+create-a-node-here really 22.92 53 {\nA master of pork-barrel politics, he had crafted the $2.85 billion package in vintage style }
+#autolink_nodes 52 53 satelite elaboration-additional below 5051
+#UNDID
+autolink_nodes 5050 53 satelite elaboration-additional  5051
+create-a-node-here really 22.140 54 {and used the full force of his chairmanship }
+autolink_nodes 53 54 multinuclear List  5052
+create-a-node-here really 22.172 55 {to keep the proposal intact }
+autolink_nodes 54 55 satelite purpose  5053
+create-a-node-here really 22.204 56 {and dismiss any alternative.}
+autolink_nodes 55 56 multinuclear List  5054
+create-a-node-here really 24.65 57 { \n\nWhen Mr. Fazio offered the California-backed $3.84 billion plan, }
+autolink_nodes 5051 57 satelite elaboration-additional  5055
+create-a-node-here really 24.90 58 {Mr. Whitten insisted }
+autolink_nodes 57 58 nucleus circumstance  5056
+create-a-node-here really 24.152 59 {that the full 14 pages be read aloud by the panel's clerk }
+autolink_nodes 58 59 nucleus attribution  5057
+create-a-node-here really 24.203 60 {to underscore the range of legislative changes }
+autolink_nodes 59 60 satelite purpose below 5058
+create-a-node-here really 24.237 61 {also sought by the delegation.}
+nextSentence really
+autolink_nodes 60 61 satelite-embedded elaboration-object-attribute-e  5059
+create-a-node-here really 25.107 62 {\nOn the chairman's motion, the California package was subsequently reduced to less-binding report language, }
+autolink_nodes 5056 62 satelite elaboration-additional  5060
+create-a-node-here really 25.115 63 {and }
+autolink_nodes 62 63 multinuclear List  5061
+create-a-node-here really 25.171 64 {even when this was accepted as such on a voice vote,}
+create-a-node-here really 25.209 65 { Mr. Whitten pointedly opposed it.}
+nextSentence really
+autolink_nodes 64 65 nucleus circumstance  5062
+#autolink_nodes 63 5062 multinuclear Same-Unit  5063
+#UNDID
+autolink_nodes 63 5062 multinuclear Same-Unit  5063
+collapsed_nodes {5015 5011 5005 5004 19 23 5019 5046 5060}
+collapsed_nodes {5015 5011 5005 5004 19 23 5019 5046 5060 5055}
+collapsed_nodes {5015 5011 5005 5004 19 23 5019 5046 5060 5055 5038}
+collapsed_nodes {5015 5011 5005 5004 19 23 5019 5046 5060 5055 5038 5028}
+create-a-node-here really 27.52 66 { \n\nMore important than money in many cases are waivers }
+autolink_nodes 5028 66 nucleus circumstance  5064
+create-a-node-here really 27.102 67 {California is seeking on current restrictions }
+autolink_nodes 66 67 satelite-embedded elaboration-object-attribute-e below 5065
+create-a-node-here really 27.165 68 {covering federal highway funds, such as a $100 million cap }
+autolink_nodes 67 68 satelite-embedded elaboration-object-attribute-e  5066
+create-a-node-here really 28.0 69 {on how much any single state can receive in emergency funds in a year.\n}
+#autolink_nodes 68 69 satelite circumstance  5067
+#UNDID
+autolink_nodes 68 69 satelite-embedded circumstance-e  5067
+change_rel 69 elaboration-object-attribute-e
+create-a-node-here really 28.61 70 {Mr. Whitten's package appears to accomplish this purpose,}
+autolink_nodes 5065 70 satelite elaboration-additional below 5068
+create-a-node-here really 28.136 71 { but the state faces more resistance in its bid for an extended waiver }
+autolink_nodes 70 71 multinuclear Contrast  5069
+create-a-node-here really 28.190 72 {on having to put up any matching funds on repairs }
+autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e  5070
+create-a-node-here really 28.227 73 {completed in the next six months.}
+nextSentence really
+autolink_nodes 72 73 satelite-embedded elaboration-object-attribute-e  5071
+disconnect_node 5028 disconnect
+collapsed_nodes {}
+collapsed_nodes {5038}
+autolink_nodes 5030 5068 satelite circumstance  5072
+create-a-node-here really 30.165 74 { \n\nA member in the House leadership and skilled legislator, Mr. Fazio nonetheless found himself burdened not only by California's needs but by Hurricane Hugo amendments}
+autolink_nodes 5069 74 satelite elaboration-additional  5073
+create-a-node-here really 30.199 75 { he accepted in a vain effort }
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e  5074
+create-a-node-here really 30.233 76 {to build support in the panel.}
+nextSentence really
+#autolink_nodes 75 76 satelite question-answer-s  5075
+#UNDID
+autolink_nodes 75 76 satelite purpose  5075
+create-a-node-here really 31.59 77 {\nThe California Democrat appeared embarrassed by provisions }
+autolink_nodes 5074 77 satelite elaboration-additional  5076
+create-a-node-here really 31.133 78 {inserted on behalf of owners of private beaches in the Virgin Islands,}
+autolink_nodes 77 78 satelite-embedded elaboration-object-attribute-e  5077
+create-a-node-here really 31.209 79 { and lumber interests sought to add another $100 million in federal aid }
+autolink_nodes 5077 79 multinuclear List  5078
+create-a-node-here really 31.273 80 {to plant timber on private land in North and South Carolina.}
+autolink_nodes 79 80 satelite-embedded elaboration-object-attribute-e  5079
+create-a-node-here really 33.73 81 { \n\nCalifornia's high-priced real estate puts it in an awkward position, too.}
+nextSentence really
+autolink_nodes 5078 81 satelite elaboration-additional  5080
+create-a-node-here really 34.109 82 {\nOne provision last night would have raised the cap on disaster loans to $500,000 from $100,000 per household }
+autolink_nodes 81 82 satelite elaboration-additional  5081
+create-a-node-here really 34.149 83 {to accommodate San Francisco losses.}
+nextSentence really
+autolink_nodes 82 83 satelite purpose  5082
+collapsed_nodes {5038 5028}
+collapsed_nodes {}
+disconnect_node 64 disconnect
+autolink_nodes 65 64 satelite-embedded circumstance-e  5083
+collapsed_nodes {5028}
+collapsed_nodes {}

@@ -1,0 +1,26 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.117 1 {\nThe Treasury plans to raise $1.8 billion in new cash with the sale Monday of about $15.6 billion in short-term bills }
+nextSentence really
+create-a-node-here really 2.163 2 {to redeem $13.81 billion in maturing bills.}
+nextSentence really
+autolink_nodes 1 2 satelite purpose  5001
+create-a-node-here really 4.70 3 { \n\nThe offering will be divided evenly between 13-week and 26-week bills }
+create-a-node-here really 4.126 4 {maturing Feb. 1, 1990, and May 3, 1990, respectively.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5002
+nextSentence really
+nextSentence really
+create-a-node-here really 6.161 5 { \n\nTenders for the bills, available in minimum $10,000 denominations, must be received by 1 p.m. EST Monday at the Treasury or at Federal Reserve banks or branches.}
+nextSentence really
+autolink_nodes 5002 5 satelite condition  5003
+create-a-node-here really 8.18 6 { \n\nThe Treasury said }
+create-a-node-here really 8.48 7 {it will alter the auctions }
+autolink_nodes 6 7 nucleus attribution  5004
+create-a-node-here really 8.103 8 {unless it has assurance of enactment of legislation }
+create-a-node-here really 8.177 9 {to raise the statutory debt limit before the scheduled auctions Monday.}
+nextSentence really
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 7 5005 satelite condition below 5006
+autolink_nodes 5001 5003 satelite manner  5007
+autolink_nodes 5007 5004 satelite elaboration-additional  5008

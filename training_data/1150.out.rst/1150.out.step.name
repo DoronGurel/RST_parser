@@ -1,0 +1,214 @@
+nextSentence really
+create-a-node-here really 2.22 1 {\n"The Famous Teddy Z," }
+create-a-node-here really 2.142 2 {which CBS Inc. had hoped would emerge as one of the few bright spots in its otherwise lackluster prime-time schedule,}
+create-a-node-here really 2.178 3 { isn't turning out to be the hit }
+create-a-node-here really 2.203 4 {the network envisaged.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 5002 5001 multinuclear Same-Unit  5003
+nextSentence really
+nextSentence really
+create-a-node-here really 4.39 5 { \n\nAlthough the half-hour situation comedy}
+create-a-node-here really 4.94 6 { seen Mondays at 9:30 p.m. Eastern and Pacific time }
+create-a-node-here really 4.132 7 {isn't a candidate for cancellation,}
+create-a-node-here really 4.165 8 { it is slated for fine-tuning }
+create-a-node-here really 4.210 9 {and by next week the network may announce }
+nextSentence really
+nextSentence really
+create-a-node-here really 4.270 10 {"Teddy Z" is moving to 8:30 p.m. from its 9:30 time slot,}
+create-a-node-here really 4.308 11 { replacing "The People Next Door,"}
+create-a-node-here really 4.349 12 { which became the first network show }
+create-a-node-here really 4.380 13 {to be canceled this season.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 11 5004 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5006
+autolink_nodes 5006 7 multinuclear Same-Unit  5007
+autolink_nodes 9 10 nucleus attribution  5008
+autolink_nodes 10 5005 satelite elaboration-additional below 5009
+autolink_nodes 9 8 multinuclear List  5010
+disconnect_node 5010 disconnect
+autolink_nodes 9 5009 nucleus attribution  5011
+autolink_nodes 5007 5010 nucleus antithesis  5012
+disconnect_node 5007 disconnect
+disconnect_node 8 disconnect
+autolink_nodes 5007 8 nucleus antithesis  5013
+autolink_nodes 9 5013 multinuclear List  5014
+disconnect_node 5014 disconnect
+autolink_nodes 9 5009 nucleus attribution  5015
+autolink_nodes 5003 5014 satelite elaboration-additional  5016
+create-a-node-here really 6.10 14 { \n\n"Teddy Z,"}
+create-a-node-here really 6.91 15 { which centers on a mailroom clerk-turned agent at a Hollywood talent agency,}
+nextSentence really
+nextSentence really
+create-a-node-here really 6.139 16 { was scheduled in the coveted 9:30 p.m. slot}
+create-a-node-here really 6.222 17 { to follow "Murphy Brown," a situation comedy about a television news magazine,}
+create-a-node-here really 6.251 18 { starring Candice Bergen.}
+nextSentence really
+#autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5017
+#UNDID
+autolink_nodes 14 15 satelite-embedded elaboration-additional-e  5017
+autolink_nodes 5017 16 multinuclear Same-Unit  5018
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5019
+autolink_nodes 17 18 satelite-embedded elaboration-additional-e  5020
+collapsed_nodes {5014}
+autolink_nodes 5016 5018 satelite elaboration-additional  5021
+create-a-node-here really 6.362 19 { "Teddy Z" was boosted by favorable reviews and a network-wide promotional tie-in contest with K mart Corp.}
+create-a-node-here really 7.34 20 {\nIt was promoted on cable services,}
+create-a-node-here really 7.77 21 { including MTV, Nick at Night and VH-1,}
+create-a-node-here really 7.134 22 { and premiered as the No. 22-rated show for the week.}
+autolink_nodes 20 21 satelite-embedded elaboration-set-member-e  5022
+autolink_nodes 5022 22 multinuclear List  5023
+autolink_nodes 19 5023 multinuclear List  5024
+create-a-node-here really 9.61 23 { \n\nBut five weeks after the premiere, the series has floundered.}
+nextSentence really
+autolink_nodes 23 5024 satelite background  5025
+create-a-node-here really 10.11 24 {\nIn figures }
+create-a-node-here really 10.53 25 {released yesterday by A.C. Nielsen Co.}
+create-a-node-here really 10.69 26 { "Teddy Z," }
+create-a-node-here really 10.145 27 {produced by the television unit of Columbia Pictures Entertainment Inc.,}
+create-a-node-here really 10.168 28 { was in 37th place.}
+nextSentence really
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5027
+autolink_nodes 5027 28 multinuclear Same-Unit  5028
+autolink_nodes 5026 5028 nucleus attribution  5029
+autolink_nodes 5025 5029 satelite evidence  5030
+create-a-node-here really 11.66 29 {\nWorse, every week it suffers audience drop-off from "Murphy Brown"}
+create-a-node-here really 11.108 30 { and viewership on CBS picks up again }
+create-a-node-here really 11.135 31 {once "Teddy Z" is over }
+create-a-node-here really 11.176 32 {and is followed by "Designing Women."}
+nextSentence really
+autolink_nodes 30 31 satelite temporal-after  5031
+disconnect_node 31 disconnect
+autolink_nodes 31 32 multinuclear List  5032
+autolink_nodes 30 5032 satelite circumstance  5033
+autolink_nodes 29 5033 multinuclear List  5034
+autolink_nodes 5029 5034 satelite elaboration-additional  5035
+collapsed_nodes {5014 5024}
+collapsed_nodes {5014 5024 5018}
+autolink_nodes 5021 5030 satelite elaboration-additional  5036
+create-a-node-here really 13.28 33 { \n\n"There is strong indication }
+create-a-node-here really 13.80 34 {that `Teddy Z' is not compatible with the shows }
+create-a-node-here really 13.103 35 {it is surrounding,"}
+create-a-node-here really 13.197 36 { said John Sisk, senior vice president at J. Walter Thompson Co., a unit of WPP Group PLC.}
+nextSentence really
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5037
+autolink_nodes 33 5037 satelite-embedded elaboration-object-attribute-e  5038
+autolink_nodes 5038 36 satelite attribution  5039
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 15.85 37 { \n\nLast week, "Murphy Brown" was viewed by 14.1% of the available television households,}
+create-a-node-here really 15.137 38 { while the number dropped to 12.6% for "Teddy Z"}
+create-a-node-here really 15.183 39 { and rose to 14.2% for "Designing Women." }
+#autolink_nodes 37 38 nucleus comparison  5040
+#UNDID
+#autolink_nodes 37 38 nucleus comparison  5040
+#autolink_nodes 5040 39 satelite comparison  5041
+#UNDID
+#UNDID
+autolink_nodes 37 38 nucleus antithesis  5040
+autolink_nodes 5040 39 satelite antithesis  5041
+autolink_nodes 5039 5041 satelite evidence  5042
+autolink_nodes 5034 5042 satelite elaboration-additional  5043
+collapsed_nodes {5014 5024 5018 5035}
+create-a-node-here really 17.20 40 {\n\nCBS executives said }
+create-a-node-here really 18.0 41 {the program is also slated to undergo some plot changes.\n}
+create-a-node-here really 18.93 42 {Creator Hugh Wilson, for example, included the lead character's Greek family in the cast,}
+create-a-node-here really 18.140 43 { "but that is not the right focus anymore,"}
+create-a-node-here really 18.168 44 { said one CBS executive.}
+nextSentence really
+autolink_nodes 40 41 nucleus attribution  5044
+autolink_nodes 42 43 nucleus antithesis  5045
+autolink_nodes 5045 44 satelite attribution  5046
+create-a-node-here really 19.18 45 {\nInstead, CBS hopes}
+#create-a-node-here really 19.113 46 { the show will increasingly highlight the talent agency and the business of being an agent.}
+#nextSentence really
+#autolink_nodes 45 46 nucleus attribution  5047
+#autolink_nodes 5046 5047 nucleus preference  5048
+#autolink_nodes 5044 5048 satelite elaboration-additional  5049
+#create-a-node-here really 21.65 47 { \n\n"We're making adjustments on the show, yes, but nothing radical,"}
+#create-a-node-here really 21.124 48 { said Craig Nelson, the story consultant on "Teddy Z." }
+#create-a-node-here really 21.194 49 {"But we hope to keep a balance between the office and the family."}
+#nextSentence really
+#autolink_nodes 47 48 satelite attribution  5050
+#autolink_nodes 5050 49 satelite elaboration-additional  5051
+#autolink_nodes 5049 5051 satelite elaboration-additional  5052
+#UNDID
+#autolink_nodes 5048 5051 satelite elaboration-additional  5052
+#UNDID
+#create-a-node-here really 21.236 50 { The opening credits are being redone,}
+#create-a-node-here really 21.257 51 { Mr. Nelson said,}
+#create-a-node-here really 21.305 52 { "to make Teddy's situation clear to viewers}
+#create-a-node-here really 21.356 53 { who have not been with us since the beginning.}
+#autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5052
+#autolink_nodes 50 51 satelite-embedded attribution-e  5053
+#autolink_nodes 5053 5052 satelite purpose  5054
+#create-a-node-here really 22.39 54 {\nThose viewers find the show confusing."}
+#nextSentence really
+#autolink_nodes 5054 54 satelite comment  5055
+#autolink_nodes 5051 5055 satelite elaboration-additional  5056
+#autolink_nodes 5049 5056 satelite elaboration-additional  5057
+#collapsed_nodes {5014 5024 5018 5035 5030}
+#autolink_nodes 5036 5057 satelite elaboration-additional  5058
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 19.95 46 { the show will increasingly highlight the talent agency and the business }
+create-a-node-here really 19.117 47 {of being an agent.}
+autolink_nodes 46 47 satelite-embedded elaboration-object-attribute-e  5047
+autolink_nodes 45 5047 nucleus attribution  5048
+autolink_nodes 5048 5046 satelite preference  5049
+autolink_nodes 5044 5049 satelite elaboration-additional  5050
+create-a-node-here really 21.66 48 { \n\n"We're making adjustments on the show, yes, but nothing radical," }
+create-a-node-here really 21.124 49 {said Craig Nelson, the story consultant on "Teddy Z." }
+autolink_nodes 48 49 satelite attribution  5051
+create-a-node-here really 21.194 50 {"But we hope to keep a balance between the office and the family."}
+nextSentence really
+autolink_nodes 5051 50 satelite elaboration-additional  5052
+create-a-node-here really 21.236 51 { The opening credits are being redone,}
+create-a-node-here really 21.257 52 { Mr. Nelson said,}
+create-a-node-here really 21.305 53 { "to make Teddy's situation clear to viewers}
+create-a-node-here really 21.356 54 { who have not been with us since the beginning.}
+nextSentence really
+create-a-node-here really 22.39 55 {\nThose viewers find the show confusing."}
+nextSentence really
+autolink_nodes 51 52 satelite-embedded attribution-e  5053
+autolink_nodes 53 54 satelite-embedded elaboration-object-attribute-e  5054
+autolink_nodes 5053 5054 satelite purpose  5055
+autolink_nodes 5055 55 satelite comment  5056
+autolink_nodes 5052 5056 satelite elaboration-additional  5057
+autolink_nodes 5050 5057 satelite elaboration-additional  5058
+collapsed_nodes {5014 5024 5018 5035 5030}
+autolink_nodes 5036 5058 satelite elaboration-additional  5059
+collapsed_nodes {5024 5018 5035 5030}
+collapsed_nodes {5024 5035 5030}
+collapsed_nodes {}
+disconnect_node 52 modify
+autolink_nodes 51 52 satelite attribution  5060
+disconnect_node 5026 disconnect
+autolink_nodes 5028 5026 multinuclear Same-Unit below 5060

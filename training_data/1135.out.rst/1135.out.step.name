@@ -1,0 +1,211 @@
+nextSentence really
+create-a-node-here really 2.29 1 {\nThe Bush administration said }
+create-a-node-here really 2.76 2 {it is submitting a "comprehensive" proposal }
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.113 3 {for overhauling agricultural trade}
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e below 5002
+create-a-node-here really 2.206 4 { that could help break an impasse in the current round of multilateral trade negotiations.}
+nextSentence really
+autolink_nodes 5002 4 satelite-embedded elaboration-additional-e below 5003
+create-a-node-here really 4.40 5 { \n\nThe proposal reiterates the U.S. desire }
+autolink_nodes 5003 5 satelite elaboration-additional below 5004
+create-a-node-here really 4.116 6 {to scrap or reduce a host of trade-distorting subsidies on farm products.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 5.43 7 {\nBut it would allow considerable flexibility}
+autolink_nodes 5005 7 multinuclear Contrast  5006
+create-a-node-here really 5.105 8 { in determining how and when these goals would be achieved.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5007
+create-a-node-here really 6.72 9 {\nThe U.S. plan also would ease the transition to freer agriculture trade }
+autolink_nodes 5006 9 multinuclear List above 5008
+create-a-node-here really 6.145 10 {by allowing some countries to convert non-tariff barriers into tariffs}
+autolink_nodes 9 10 satelite means  5009
+create-a-node-here really 6.227 11 { that, together with existing tariffs, then would be phased out over 10 years.}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded elaboration-additional-e  5010
+create-a-node-here really 8.33 12 { \n\nTrade Representative Carla Hills,}
+autolink_nodes 5008 12 multinuclear List below 5010
+create-a-node-here really 8.113 13 { who along with Agriculture Secretary Clayton Yeutter unveiled the proposal,}
+autolink_nodes 12 13 satelite-embedded elaboration-additional-e  5011
+create-a-node-here really 8.123 14 { said }
+autolink_nodes 5011 14 multinuclear Same-Unit  5012
+create-a-node-here really 8.143 15 {she is confident}
+autolink_nodes 14 15 nucleus attribution  5013
+create-a-node-here really 8.215 16 { it will gain considerable support from the U.S.'s trading partners.}
+nextSentence really
+autolink_nodes 15 16 nucleus attribution  5014
+#create-a-node-here really 9.13 17 {\nMr. Yeutter, }
+#autolink_nodes 5012 17 multinuclear Same-Unit below 5014
+#UNDID
+#UNDID
+create-a-node-here really 9.12 17 {\nMr. Yeutter,}
+#autolink_nodes 5012 17 multinuclear Same-Unit below 5014
+#change_rel 5012 List
+#change_rel 17 List
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5012 17 multinuclear List above 5015
+#create-a-node-here really 9.78 18 { seeking to allay European objections to an earlier U.S. plan }
+#create-a-node-here really 9.152 19 {that called for eliminating all farm-trade barriers by the year 2000, }
+#autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5016
+#create-a-node-here really 9.161 20 {said }
+#autolink_nodes 5016 20 satelite attribution  5017
+#autolink_nodes 17 5017 multinuclear Same-Unit  5018
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 9.78 18 { seeking to allay European objections to an earlier U.S. plan }
+create-a-node-here really 9.151 19 {that called for eliminating all farm-trade barriers by the year 2000,}
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5016
+create-a-node-here really 9.161 20 { said }
+autolink_nodes 5016 20 nucleus purpose  5017
+autolink_nodes 17 5017 multinuclear Same-Unit  5018
+create-a-node-here really 9.225 21 {the new U.S. proposal wouldn't "put farmers out of business"}
+autolink_nodes 5017 21 nucleus attribution  5019
+#create-a-node-here really 10.0 22 { but would only encourage them to "grow what the markets desire instead of what the government wants." \n}
+#UNDID
+#create-a-node-here really 9.293 22 { but would only encourage them to "grow what the markets desire }
+#autolink_nodes 21 22 multinuclear Contrast  5020
+#create-a-node-here really 9.335 23 {instead of what the government wants."}
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 9.332 22 { but would only encourage them to "grow what the markets desire instead of what the government wants." }
+autolink_nodes 21 22 multinuclear Contrast  5020
+collapsed_nodes {5012}
+collapsed_nodes {5012 5018}
+collapsed_nodes {5012 5018 5008}
+create-a-node-here really 11.52 23 {\n\nThe U.S. is submitting the proposal today in Geneva,}
+autolink_nodes 5001 23 satelite elaboration-additional  5021
+create-a-node-here really 11.64 24 { hoping }
+#autolink_nodes 23 24 satelite-embedded elaboration-additional-e  5022
+#UNDID
+#autolink_nodes 23 24 satelite-embedded elaboration-additional-e  5022
+#UNDID
+autolink_nodes 23 24 satelite reason  5022
+create-a-node-here really 11.189 25 {that the initiative will spur members of the General Agreement on Tariffs and Trade to reach agreement on new trade rules}
+autolink_nodes 24 25 nucleus attribution  5023
+create-a-node-here really 11.260 26 { before their current negotiating round concludes in December 1990.}
+nextSentence really
+autolink_nodes 25 26 satelite temporal-before below 5024
+create-a-node-here really 12.22 27 {\nAnother U.S. proposal }
+autolink_nodes 5021 27 satelite elaboration-additional  5025
+create-a-node-here really 12.39 28 {filed Monday }
+autolink_nodes 27 28 satelite-embedded elaboration-additional-e  5026
+create-a-node-here really 12.84 29 {urges more "fair play" in services trade,}
+autolink_nodes 5026 29 multinuclear Same-Unit  5027
+create-a-node-here really 12.199 30 { including predictable and clear rules and equality in the treatment of foreign and domestic service companies.}
+nextSentence really
+autolink_nodes 29 30 satelite example  5028
+create-a-node-here really 14.43 31 { \n\nUnlike the earlier U.S. farm-trade proposal}
+collapsed_nodes {5012 5018 5008 5027}
+collapsed_nodes {5012 5018 5008 5027 5022}
+autolink_nodes 5025 31 satelite elaboration-additional  5029
+create-a-node-here really 14.95 32 { which struck European countries as too extreme,}
+autolink_nodes 31 32 satelite-embedded elaboration-additional-e  5030
+create-a-node-here really 14.153 33 { the latest plan would provide some room for maneuver.}
+nextSentence really
+#autolink_nodes 5030 33 nucleus background  5031
+#UNDID
+#autolink_nodes 5030 33 multinuclear Comparison  5031
+#UNDID
+autolink_nodes 5030 33 nucleus comparison  5031
+create-a-node-here really 15.47 34 {\nFor instance, the new U.S. package makes clear }
+autolink_nodes 33 34 satelite explanation-argumentative below 5032
+create-a-node-here really 15.86 35 {there would be a transition period }
+autolink_nodes 34 35 nucleus attribution  5033
+create-a-node-here really 15.161 36 {during which GATT members could use a combination of tariffs and quotas}
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e below 5034
+create-a-node-here really 16.0 37 { to cushion their farmers from foreign competition.\n}
+#autolink_nodes 36 37 satelite purpose  5035
+#UNDID
+#autolink_nodes 36 37 nucleus means  5035
+#UNDID
+autolink_nodes 36 37 satelite purpose  5035
+create-a-node-here really 16.16 38 {It also says}
+autolink_nodes 5033 38 multinuclear List  5036
+create-a-node-here really 16.83 39 { countries could temporarily raise tariffs on certain products }
+autolink_nodes 38 39 nucleus attribution  5037
+create-a-node-here really 16.143 40 {if they experience an unusually heavy volume of imports.}
+nextSentence really
+autolink_nodes 39 40 satelite condition below 5038
+create-a-node-here really 18.63 41 { \n\nInstead of proposing a complete elimination of farm subsidies, }
+autolink_nodes 5029 41 satelite elaboration-additional  5039
+create-a-node-here really 18.101 42 {as the earlier U.S. proposal did, }
+#autolink_nodes 41 42 satelite comparison  5040
+#UNDID
+autolink_nodes 41 42 satelite comparison  5040
+create-a-node-here really 19.0 43 {the new package calls for the elimination of only the most tradedistorting ones.\n}
+autolink_nodes 5040 43 nucleus antithesis  5041
+create-a-node-here really 19.69 44 {Less objectionable ones would be subject only to some restraints,}
+autolink_nodes 5041 44 satelite elaboration-set-member  5042
+create-a-node-here really 19.178 45 { and others with a "relatively minor trade impact" would be allowed to continue under certain conditions.}
+nextSentence really
+autolink_nodes 44 45 multinuclear List  5043
+create-a-node-here really 21.49 46 { \n\nThe new U.S. plan also would establish procedures}
+autolink_nodes 5042 46 multinuclear List  5044
+create-a-node-here really 21.114 47 { to prevent countries from using health and sanitation rules }
+autolink_nodes 46 47 satelite-embedded elaboration-object-attribute-e  5045
+create-a-node-here really 21.146 48 {to impede trade arbitrarily.}
+nextSentence really
+autolink_nodes 47 48 satelite purpose  5046
+create-a-node-here really 22.49 49 {\nThe goal would be to resolve disputes such as one}
+autolink_nodes 5045 49 satelite interpretation-s  5047
+create-a-node-here really 22.106 50 { prompted by the European Community's current attempt}
+autolink_nodes 49 50 satelite-embedded elaboration-object-attribute-e  5048
+create-a-node-here really 22.167 51 { to bar imports of beef from hormone-treated U.S. cattle.}
+nextSentence really
+autolink_nodes 50 51 satelite-embedded elaboration-object-attribute-e  5049
+create-a-node-here really 23.17 52 {\nThe U.S. contends}
+autolink_nodes 5048 52 satelite evaluation-s  5050
+create-a-node-here really 23.72 53 { that the rules aren't justified on health grounds.}
+nextSentence really
+autolink_nodes 52 53 nucleus attribution  5051
+create-a-node-here really 25.56 54 { \n\nTo encourage more competition among exporting countries,}
+collapsed_nodes {5012 5018 5008 5027 5022 5044}
+collapsed_nodes {5012 5018 5008 5027 5022 5044 5036}
+collapsed_nodes {5012 5018 5008 5027 5022 5044 5036 5031}
+collapsed_nodes {5012 5018 5008 5027 5022 5044 5036 5031}
+autolink_nodes 5039 54 satelite elaboration-additional  5052
+create-a-node-here really 25.82 55 { the U.S. is proposing}
+autolink_nodes 54 55 satelite purpose  5053
+create-a-node-here really 25.110 56 { that export subsidies, }
+autolink_nodes 55 56 satelite attribution  5054
+create-a-node-here really 25.153 57 {including tax incentives for exporters,}
+autolink_nodes 56 57 satelite-embedded example-e  5055
+create-a-node-here really 25.186 58 { be phased out in five years.}
+nextSentence really
+autolink_nodes 5055 58 multinuclear Same-Unit  5056
+collapsed_nodes {5012 5018 5008 5027 5022 5044 5036 5031 5052}
+collapsed_nodes {}
+change_rel 30 
+#disconnect_node 5028 disconnect
+#autolink_nodes 5026 5028 multinuclear Same-Unit  5058
+#UNDID
+#UNDID
+#disconnect_node 30 disconnect
+#autolink_nodes 29 30 satelite-embedded example-e  5057
+#UNDID
+#UNDID
+#change_rel 30 
+#UNDID
+disconnect_node 30 disconnect
+#autolink_nodes 29 30 satelite-embedded example-e  5057
+#UNDID
+autolink_nodes 29 30 satelite-embedded example-e  5057
+#create-a-node-here really 25.191 59 { }
+#UNDID
+collapsed_nodes {5052}
+collapsed_nodes {}
+disconnect_node 5017 disconnect
+disconnect_node 5020 disconnect
+autolink_nodes 17 5017 multinuclear Same-Unit  5058
+autolink_nodes 5058 5020 nucleus attribution  5059
+change_rel 28 elaboration-object-attribute-e
+collapsed_nodes {5052}
+collapsed_nodes {}

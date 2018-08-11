@@ -1,0 +1,182 @@
+nextSentence really
+create-a-node-here really 2.54 1 {\n"Hacksaw" and "Bonecrusher" are the sort of nicknames }
+create-a-node-here really 2.121 2 {normally associated with linebackers and heavyweight contenders.}
+nextSentence really
+create-a-node-here really 3.18 3 {\nWho'd have thought}
+create-a-node-here really 3.56 4 { that the next group of tough guys }
+create-a-node-here really 3.96 5 {carrying around reputations like that}
+create-a-node-here really 3.132 6 { would be school superintendents?}
+nextSentence really
+create-a-node-here really 5.59 7 { \n\nChicago's new school chief is the hard-nosed Ted Kimbrough.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 3 4 nucleus attribution  5002
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e below 5003
+autolink_nodes 5003 6 multinuclear Same-Unit  5004
+autolink_nodes 5002 7 multinuclear Question-Answer  5005
+nextSentence really
+create-a-node-here really 6.69 8 {\nAt his old job in Compton, Calif., he took a bitter teachers' strike }
+create-a-node-here really 6.124 9 {and nearly came to blows with a school-board member.}
+nextSentence really
+create-a-node-here really 7.64 10 {\nAt his first Chicago press conference, he berated the reporters.}
+nextSentence really
+#autolink_nodes 8 9 multinuclear List  5006
+#UNDID
+autolink_nodes 8 9 multinuclear Cause-Result  5006
+autolink_nodes 5006 10 multinuclear List above 5007
+autolink_nodes 7 5007 satelite example  5008
+create-a-node-here really 8.114 11 {\nIn New York City, the new Chancellor, Joseph Fernandez, has landed like a 16-inch shell in the middle of a system }
+create-a-node-here really 8.162 12 {that has been impervious to serious reform. }
+create-a-node-here really 10.35 13 {\n\nBoth men fit the mood of the times }
+create-a-node-here really 10.73 14 {-- the mood being one of a public }
+create-a-node-here really 10.117 15 {fed up with officials' rationalizations }
+create-a-node-here really 10.154 16 {for why their schools don't work.}
+nextSentence really
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 5008 5009 satelite example  5010
+autolink_nodes 5010 13 satelite elaboration-additional  5011
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5014
+create-a-node-here really 12.144 17 { \n\nFormer Patterson, N.J., principal Joe Clark was no doubt the general public's first experience with this new breed of no-nonsense administrator.}
+nextSentence really
+create-a-node-here really 13.106 18 {\nThe subject of the movie "Lean on Me," Mr. Clark controlled his school with a bullhorn and a baseball bat.}
+nextSentence really
+create-a-node-here really 14.62 19 {\nHe may have gone overboard in his pursuit of good discipline, }
+create-a-node-here really 14.216 20 {but isn't it interesting that some of the country's biggest, most troubled school districts are choosing new chiefs from the same gravel-chewing mold?}
+nextSentence really
+create-a-node-here really 15.25 21 {\nElena Scambio, the woman }
+create-a-node-here really 15.75 22 {assigned to run the Jersey City school system }
+create-a-node-here really 15.113 23 {that was taken over by the state, }
+create-a-node-here really 15.122 24 {says }
+create-a-node-here really 15.197 25 {her top priority will be to "cut through the dead hand of bureaucracy."}
+nextSentence really
+autolink_nodes 5012 17 satelite example  5015
+autolink_nodes 17 18 satelite elaboration-additional  5016
+autolink_nodes 18 19 satelite elaboration-additional  5017
+autolink_nodes 19 20 satelite rhetorical-question  5018
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5019
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 5019 24 multinuclear Same-Unit  5021
+autolink_nodes 5021 25 nucleus attribution  5022
+collapsed_nodes {5021}
+collapsed_nodes {5021 5012}
+autolink_nodes 5015 5022 satelite example  5023
+collapsed_nodes {5021}
+collapsed_nodes {}
+create-a-node-here really 17.62 26 { \n\nMr. Fernandez doesn't take control in New York until January, }
+create-a-node-here really 17.102 27 {but already he's roiling the waters.}
+nextSentence really
+create-a-node-here really 18.116 28 {\nHe's attacked the concept of "building tenure," one of the most disgraceful institutions in American public schools.}
+nextSentence really
+create-a-node-here really 19.84 29 {\nIt means it is virtually impossible to fire or even transfer incompetent principals.}
+nextSentence really
+create-a-node-here really 20.31 30 {\nOnce they are in the building, }
+create-a-node-here really 20.45 31 {they stay.}
+nextSentence really
+create-a-node-here really 21.53 32 {\nOne South Bronx principal kept his job for 16 years, }
+create-a-node-here really 21.123 33 {despite a serious drinking problem and rarely showing up for work.}
+nextSentence really
+create-a-node-here really 22.27 34 {\nHe was finally given leave }
+create-a-node-here really 22.79 35 {when he was arrested for allegedly buying crack.}
+nextSentence really
+autolink_nodes 26 27 satelite antithesis  5024
+autolink_nodes 5024 28 satelite example  5025
+autolink_nodes 28 29 satelite explanation-argumentative  5026
+autolink_nodes 30 31 nucleus condition  5027
+autolink_nodes 29 5027 satelite elaboration-additional  5028
+autolink_nodes 32 33 satelite antithesis  5029
+autolink_nodes 34 35 satelite consequence-n  5030
+autolink_nodes 5029 5030 satelite elaboration-additional  5031
+autolink_nodes 5026 5031 satelite example  5032
+create-a-node-here really 24.56 36 { \n\nNaturally, the principals' union loves building tenure, }
+create-a-node-here really 24.104 37 {and tenure has withstood previous challenge.}
+nextSentence really
+create-a-node-here really 25.11 38 {\nWe suggest }
+create-a-node-here really 25.65 39 {that Mr. Fernandez find an incompetent principal, }
+create-a-node-here really 25.98 40 {toss him out of the building }
+create-a-node-here really 25.162 41 {and let the forces of the status quo explain to the parents }
+create-a-node-here really 25.181 42 {whatever it is }
+create-a-node-here really 25.203 43 {they're defending.}
+nextSentence really
+create-a-node-here really 26.104 44 {\nIn his old job, as Dade County chief, Mr. Fernandez forced out 92 teachers and reshuffled 48 principals.}
+nextSentence really
+create-a-node-here really 27.32 45 {\nHe cut the dropout rate by 5.5%.}
+nextSentence really
+create-a-node-here really 28.84 46 {\nBut the no-more-nonsense superintendents are going to have to be judicious as well; }
+create-a-node-here really 28.140 47 {incompetent principals and administrators should go,}
+create-a-node-here really 28.186 48 { but the good ones ought to be left alone.}
+nextSentence really
+autolink_nodes 36 37 multinuclear List  5033
+collapsed_nodes {5031}
+autolink_nodes 5032 5033 multinuclear Contrast  5034
+autolink_nodes 38 39 nucleus attribution  5035
+#autolink_nodes 39 40 multinuclear List  5036
+#UNDID
+autolink_nodes 39 40 multinuclear Sequence  5036
+autolink_nodes 5036 41 multinuclear Sequence below 5036
+#autolink_nodes 41 42 satelite-embedded elaboration-additional-e  5037
+#UNDID
+autolink_nodes 41 42 satelite-embedded elaboration-additional-e  5037
+autolink_nodes 42 43 satelite elaboration-additional  5038
+autolink_nodes 44 45 multinuclear List  5039
+autolink_nodes 5035 5039 satelite background  5040
+autolink_nodes 5034 5040 satelite elaboration-additional  5041
+autolink_nodes 47 48 multinuclear Contrast  5042
+autolink_nodes 46 5042 satelite explanation-argumentative  5043
+collapsed_nodes {5031 5034}
+autolink_nodes 5025 5043 satelite elaboration-additional  5044
+create-a-node-here really 31.0 49 { \n\nThe situation will be especially delicate for Mr. Kimbrough.\n}
+create-a-node-here really 31.65 50 {He takes over a school system in the midst of radical reform.}
+nextSentence really
+create-a-node-here really 32.77 51 {\nChicagoans have just elected 540 neophyte school boards, one for each school.}
+nextSentence really
+create-a-node-here really 33.48 52 {\nThis of course led to disaster in New York City.}
+nextSentence really
+create-a-node-here really 34.77 53 {\nGetting a community of parents to care again about its schools is essential, }
+create-a-node-here really 34.130 54 {but in Chicago the new boards will make mistakes }
+create-a-node-here really 34.179 55 {and Mr. Kimbrough will have to identify them.}
+nextSentence really
+create-a-node-here really 36.141 56 { \n\nThe rise of superintendents such as Joseph Fernandez and Ted Kimbrough suggests plainly the process of disintegration in many school systems.}
+nextSentence really
+create-a-node-here really 37.132 57 {\nThe schools' central mission, educating children, became subsumed by the competing interests of bureaucrats, politicians and unions.}
+nextSentence really
+create-a-node-here really 38.69 58 {\nThe classroom itself operated on the periphery of this awful system, }
+create-a-node-here really 38.95 59 {discipline collapsed, }
+create-a-node-here really 38.125 60 {and kids stopped learning.}
+nextSentence really
+create-a-node-here really 40.29 61 { \n\nMr. Chips was a nice fellow, }
+create-a-node-here really 40.65 62 {and maybe some day he'll return.}
+nextSentence really
+create-a-node-here really 41.47 63 {\nUntil then, it's clear that some of the people }
+create-a-node-here really 41.93 64 {who've been keeping big-city schools down }
+create-a-node-here really 41.141 65 {are going to be dealing with the Terminator.}
+nextSentence really
+change_rel 5043 comment
+autolink_nodes 49 50 satelite explanation-argumentative  5045
+autolink_nodes 50 51 satelite elaboration-additional  5046
+autolink_nodes 5046 52 multinuclear Comparison  5047
+autolink_nodes 5047 53 satelite elaboration-additional  5048
+autolink_nodes 53 54 satelite elaboration-additional  5049
+autolink_nodes 54 55 multinuclear List  5050
+autolink_nodes 5043 5045 satelite elaboration-additional  5051
+autolink_nodes 56 57 satelite elaboration-additional  5052
+autolink_nodes 58 59 multinuclear List  5053
+autolink_nodes 5053 60 multinuclear List below 5053
+autolink_nodes 5052 5053 satelite explanation-argumentative  5054
+collapsed_nodes {5031 5034 5015}
+autolink_nodes 5011 5044 satelite elaboration-additional  5055
+collapsed_nodes {5031 5034 5015 5051}
+autolink_nodes 5044 5054 satelite elaboration-additional  5056
+collapsed_nodes {5031 5034 5015 5051 5005}
+autolink_nodes 61 62 multinuclear List  5057
+autolink_nodes 5057 63 satelite hypothetical  5058
+autolink_nodes 63 64 satelite-embedded elaboration-object-attribute-e  5059
+autolink_nodes 5059 65 multinuclear Same-Unit  5060
+autolink_nodes 5001 5005 satelite elaboration-additional  5061
+autolink_nodes 5061 5058 satelite comment  5062
+collapsed_nodes {}
+collapsed_nodes {5062}
+collapsed_nodes {}
+collapsed_nodes {5062}
+collapsed_nodes {}

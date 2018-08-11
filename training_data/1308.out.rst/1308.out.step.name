@@ -1,0 +1,41 @@
+nextSentence really
+create-a-node-here really 2.94 1 {\nWe've heard California's property-tax-cutting Proposition 13 blamed for a lot over the years, }
+create-a-node-here really 2.182 2 {but ABC's Ted Koppel came up with a new wrinkle in his earthquake coverage last week }
+create-a-node-here really 2.235 3 {when he asked Democratic Assemblyman Richard Katz }
+nextSentence really
+create-a-node-here really 2.269 4 {if Prop. 13 had withheld money }
+create-a-node-here really 2.300 5 {needed for road maintenance.}
+nextSentence really
+create-a-node-here really 3.24 6 {\nMr. Katz happily agreed,}
+create-a-node-here really 3.50 7 { sliding over the fact }
+create-a-node-here really 3.161 8 {that California's roads and bridges aren't funded by property taxes but by state and federal gasoline taxes.}
+nextSentence really
+create-a-node-here really 4.51 9 {\nBoth have been raised at least 30% in recent years,}
+create-a-node-here really 4.99 10 { even while the price of gasoline has fallen.}
+nextSentence really
+nextSentence really
+create-a-node-here really 5.59 11 {\nDragging Prop. 13 into this story is a pretty long stretch.}
+nextSentence really
+#autolink_nodes 1 2 satelite concession  5001
+#UNDID
+autolink_nodes 1 2 satelite concession  5001
+autolink_nodes 2 3 satelite temporal-same-time  5002
+autolink_nodes 3 4 nucleus attribution  5003
+autolink_nodes 4 5 satelite hypothetical below 5004
+autolink_nodes 6 7 nucleus attribution  5005
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e below 5006
+autolink_nodes 8 9 satelite elaboration-additional  5007
+autolink_nodes 9 10 satelite concession  5008
+autolink_nodes 5 5005 satelite elaboration-additional  5009
+autolink_nodes 5001 11 satelite comment  5010
+collapsed_nodes {5010}
+collapsed_nodes {}
+change_rel 5002 antithesis
+disconnect_node 5009 disconnect
+autolink_nodes 4 5009 satelite-embedded elaboration-object-attribute-e below 5011
+#disconnect_node 5007 disconnect
+#autolink_nodes 7 5007 satelite-embedded elaboration-additional-e  5012
+#UNDID
+#UNDID
+collapsed_nodes {5010}
+collapsed_nodes {}

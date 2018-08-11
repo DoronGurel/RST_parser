@@ -1,0 +1,52 @@
+nextSentence really
+create-a-node-here really 2.35 1 {\nFirst Tennessee National Corp. said}
+create-a-node-here really 2.95 2 { it would take a $4 million charge in the fourth quarter,}
+create-a-node-here really 2.119 3 { as a result of plans}
+create-a-node-here really 2.155 4 { to expand its systems operation.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 2 5001 satelite result  5002
+autolink_nodes 5002 1 satelite attribution  5003
+create-a-node-here really 4.24 5 { \n\nThe banking company said}
+create-a-node-here really 4.140 6 { it reached an agreement in principle with International Business Machines Corp. on a systems operations contract}
+create-a-node-here really 4.231 7 { calling for IBM to operate First Tennessee's computer and telecommunications functions.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 5 5004 nucleus attribution  5005
+create-a-node-here really 6.84 8 { \n\nFurther, under the agreement, First Tennesse would continue to develop the software }
+create-a-node-here really 6.130 9 {that creates customer products and sevices.}
+nextSentence really
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5005 5006 satelite elaboration-additional  5007
+#create-a-node-here really 8.76 10 { \n\n"Because personal computers will soon be on the desks of all of our tellers,}
+#UNDID
+create-a-node-here really 8.123 10 { \n\n"Because personal computers will soon be on the desks of all of our tellers, and customer service and loan representatives,}
+create-a-node-here really 8.266 11 { information will be instantly available to help customers with product decisions and provide them with information about their accounts," }
+create-a-node-here really 8.377 12 {according to John Kelley, executive vice president and corporate services group manager at First Tennessee.}
+autolink_nodes 10 11 nucleus consequence-n  5008
+autolink_nodes 5008 12 satelite attribution  5009
+create-a-node-here really 10.63 13 { \n\nHowever, about 120 employees will be affected by the agreement.}
+nextSentence really
+create-a-node-here really 11.16 14 {\nFirst Tennessee,}
+create-a-node-here really 11.37 15 { assisted by IBM,}
+create-a-node-here really 11.47 16 { said }
+create-a-node-here really 11.144 17 {it will attempt to place the employees within the company, IBM or other companies in Memphis.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 5010 16 multinuclear Same-Unit  5011
+autolink_nodes 5011 17 nucleus attribution  5012
+create-a-node-here really 12.56 18 {\nThe process will take as many as six months to complete,}
+create-a-node-here really 12.78 19 { the company said.}
+nextSentence really
+autolink_nodes 18 19 satelite attribution  5013
+autolink_nodes 5012 5013 satelite elaboration-additional  5014
+autolink_nodes 5014 13 multinuclear Problem-Solution  5015
+#autolink_nodes 5009 5015 satelite consequence-s  5016
+#UNDID
+autolink_nodes 5009 5015 satelite consequence-s  5016
+autolink_nodes 5007 5016 satelite consequence-s  5017
+autolink_nodes 5003 5017 satelite summary-n  5018
+create-a-node-here really 14.65 20 { \n\nThe agreement is subject to the banking company's board approval,}
+create-a-node-here really 14.99 21 { which is expected next month.}
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5019
+autolink_nodes 5017 5019 satelite elaboration-additional  5020

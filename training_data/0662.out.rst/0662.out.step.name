@@ -1,0 +1,49 @@
+nextSentence really
+create-a-node-here really 2.119 1 {\nJayark Corp. agreed to pay $4 million in cash, $2 million of 12% convertible debentures, and 1.6 million common shares }
+create-a-node-here really 2.166 2 {to acquire closely held Kofcoh Imports Inc. }
+autolink_nodes 1 2 satelite purpose  5001
+nextSentence really
+nextSentence really
+create-a-node-here really 4.91 3 {\n\nIn over-the-counter trading Friday, Jayark was quoted at 87.5 cents bid, down 15.625 cents.}
+nextSentence really
+create-a-node-here really 5.81 4 {\nAt the market price, the transaction has a total indicated value of $7.4 million.}
+nextSentence really
+autolink_nodes 5001 3 satelite consequence-s  5002
+autolink_nodes 5002 4 satelite evaluation-s  5003
+create-a-node-here really 7.55 5 { \n\nKofcoh is a New York holding company for Rosalco Inc., }
+create-a-node-here really 7.98 6 {which imports furniture and other items.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5004
+create-a-node-here really 8.94 7 {\nDavid L. Koffman, president and chief executive officer of Jayark, holds about 40% of Kofcoh, }
+create-a-node-here really 8.109 8 {Jayark said.}
+nextSentence really
+autolink_nodes 7 8 satelite attribution  5005
+autolink_nodes 5004 5005 satelite elaboration-set-member  5006
+disconnect_node 5005 modify
+autolink_nodes 5004 5005 satelite elaboration-additional  5007
+create-a-node-here really 10.62 9 { \n\nJayark, New York, distributes and rents audio-visual equipment}
+create-a-node-here really 10.107 10 { and prints promotional ads for retailers.}
+nextSentence really
+autolink_nodes 9 10 multinuclear List  5008
+autolink_nodes 5003 5007 satelite elaboration-additional  5009
+create-a-node-here really 11.15 11 {\nIn the quarter }
+create-a-node-here really 11.34 12 {ended July 31, }
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5010
+create-a-node-here really 11.94 13 {Jayark had an average of 5.6 million shares outstanding.}
+nextSentence really
+autolink_nodes 5010 13 multinuclear Same-Unit  5011
+autolink_nodes 5008 5011 satelite elaboration-additional  5012
+autolink_nodes 5009 5012 satelite elaboration-additional  5013
+create-a-node-here really 13.78 14 { \n\nThe transaction is subject to approval by a panel of disinterested directors, }
+create-a-node-here really 13.100 15 {the company said, }
+autolink_nodes 14 15 satelite attribution  5014
+create-a-node-here really 13.111 16 {adding }
+autolink_nodes 15 16 satelite-embedded elaboration-additional-e  5015
+create-a-node-here really 13.154 17 {that shareholder approval isn't needed.}
+nextSentence really
+autolink_nodes 16 17 nucleus attribution  5016
+autolink_nodes 5013 5014 satelite comment  5017
+disconnect_node 5005 modify
+autolink_nodes 5004 5005 satelite elaboration-set-member  5018
+disconnect_node 5016 disconnect
+autolink_nodes 5014 5016 multinuclear Contrast  5019

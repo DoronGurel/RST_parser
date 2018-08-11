@@ -1,0 +1,253 @@
+nextSentence really
+create-a-node-here really 2.51 1 {\nQintex Australia Ltd., a media and resorts concern }
+create-a-node-here really 2.111 2 {controlled by Australian entrepreneur Christopher Skase, }
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+#create-a-node-here really 2.161 3 {announced a plan to restructure and sell assets}
+#UNDID
+create-a-node-here really 2.130 3 {announced a plan}
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 2.165 4 { to restructure and sell assets }
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 2.206 5 {to try to ease its financial problems.}
+nextSentence really
+autolink_nodes 4 5 satelite purpose  5004
+create-a-node-here really 4.51 6 { \n\nMr. Skase, a 41-year-old former newspaper reporter }
+autolink_nodes 5002 6 satelite explanation-argumentative  5005
+create-a-node-here really 4.77 7 {who chairs the company,}
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 4.101 8 { said in a statement }
+#create-a-node-here really 4.242 9 {that Qintex will sell its 51% stake in its upscale Mirage resorts in Australia and Hawaii as well as three Australian television stations.}
+#nextSentence really
+#UNDID
+#UNDID
+autolink_nodes 5006 8 multinuclear Same-Unit  5007
+create-a-node-here really 4.243 9 {that Qintex will sell its 51% stake in its upscale Mirage resorts in Australia and Hawaii as well as three Australian television stations. }
+autolink_nodes 5007 9 nucleus attribution  5008
+create-a-node-here really 6.73 10 {\n\nThe sales are expected to raise more than 600 million Australian dollars }
+autolink_nodes 5008 10 satelite elaboration-additional  5009
+nextSentence really
+create-a-node-here really 6.96 11 {(US$462.2 million),}
+autolink_nodes 10 11 satelite-embedded result-e  5010
+change_rel 11 restatement-e
+create-a-node-here really 6.116 12 { Mr. Skase said.}
+nextSentence really
+autolink_nodes 5010 12 satelite attribution  5011
+create-a-node-here really 7.50 13 {\nQintex Australia hasn't disclosed its borrowings, }
+autolink_nodes 5009 13 satelite elaboration-additional  5012
+nextSentence really
+create-a-node-here really 7.112 14 {but analysts estimate the company's debt at A$1.2 billion.}
+nextSentence really
+autolink_nodes 13 14 multinuclear Contrast  5013
+create-a-node-here really 9.20 15 { \n\nMr. Skase also said }
+#autolink_nodes 5012 15 satelite elaboration-additional  5014
+#UNDID
+autolink_nodes 5012 15 satelite elaboration-additional  5014
+create-a-node-here really 9.106 16 {the restructuring plan calls for the merger of Qintex Australia with Qintex Ltd., }
+autolink_nodes 15 16 nucleus attribution  5015
+create-a-node-here really 9.145 17 {which owns 55% of Qintex Australia.}
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e below 5016
+create-a-node-here really 10.8 18 {\nHe said }
+autolink_nodes 5015 18 multinuclear List  5017
+create-a-node-here really 10.85 19 {the move will "significantly reduce administrative and operating costs," }
+autolink_nodes 18 19 nucleus attribution  5018
+create-a-node-here really 10.133 20 {but he didn't provide details of the merger.}
+nextSentence really
+autolink_nodes 5018 20 multinuclear Contrast  5019
+create-a-node-here really 12.40 21 { \n\nCompany officials said over the weekend }
+autolink_nodes 5017 21 satelite explanation-argumentative  5020
+create-a-node-here really 12.148 22 {that Qintex Australia's bank creditors have become concerned about a barrage of bad news at the company,}
+autolink_nodes 21 22 nucleus attribution  5021
+nextSentence really
+create-a-node-here really 12.192 23 { including a failed US$1.5 billion plan }
+autolink_nodes 22 23 satelite example below 5022
+nextSentence really
+create-a-node-here really 12.295 24 {to buy MGM/UA Communications Co., a Beverly Hills, Calif., movie and television production concern.}
+nextSentence really
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5023
+create-a-node-here really 14.152 25 { \n\nFriday, Qintex Entertainment Inc., a 43%-owned U.S. affiliate, filed for protection from creditor lawsuits under Chapter 11 of the U.S. Bankruptcy Code.}
+nextSentence really
+autolink_nodes 5021 25 satelite circumstance  5024
+create-a-node-here really 15.19 26 {\nAnalysts predicted }
+autolink_nodes 25 26 satelite elaboration-additional  5025
+create-a-node-here really 15.97 27 {that the move would further shake creditor confidence in Qintex Australia }
+autolink_nodes 26 27 nucleus attribution  5026
+create-a-node-here really 15.129 28 {and force it to sell assets.}
+nextSentence really
+autolink_nodes 27 28 multinuclear List  5027
+create-a-node-here really 17.42 29 { \n\nThe company's latest moves were disclosed }
+#autolink_nodes 5025 29 satelite elaboration-additional  5028
+#UNDID
+create-a-node-here really 17.146 30 {after the Australian Stock Exchange suspended trading in shares of Qintex Australia and Qintex Ltd. }
+autolink_nodes 5025 29 satelite elaboration-additional  5028
+autolink_nodes 29 30 satelite circumstance  5029
+create-a-node-here really 17.290 31 {because the companies hadn't answered an exchange inquiry about the extent of their loans, investments and deposits at Qintex Entertainment.}
+autolink_nodes 30 31 satelite reason  5030
+create-a-node-here really 19.58 32 { \n\nMr. Skase's statement was addressed to the stock exchange }
+autolink_nodes 5029 32 satelite elaboration-additional  5031
+create-a-node-here really 19.107 33 {and appeared to be a response to the inquiry.}
+nextSentence really
+autolink_nodes 32 33 multinuclear List  5032
+create-a-node-here really 20.8 34 {\nIt said }
+autolink_nodes 5032 34 satelite elaboration-general-specific  5033
+nextSentence really
+create-a-node-here really 20.80 35 {Qintex Entertainment owes Qintex Australia US$38.1 million in loans }
+autolink_nodes 34 35 nucleus attribution  5034
+create-a-node-here really 20.115 36 {not secured by specific assets.}
+nextSentence really
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e below 5035
+create-a-node-here really 21.26 37 {\nQintex Australia also said}
+autolink_nodes 5033 37 satelite elaboration-additional  5036
+nextSentence really
+create-a-node-here really 21.101 38 { it has an investment of A$83.3 million in Qintex Entertainment shares.}
+nextSentence really
+autolink_nodes 37 38 nucleus attribution  5037
+create-a-node-here really 23.33 39 { \n\nIn the statement, Mr. Skase said }
+autolink_nodes 5037 39 satelite elaboration-additional  5038
+#create-a-node-here really 23.180 40 {that on the basis of current interest rates in Australia, the company's asset sales would reduce interest expense by about A$120 million a year}
+#autolink_nodes 39 40 nucleus attribution  5039
+#UNDID
+#UNDID
+create-a-node-here really 23.229 40 {that on the basis of current interest rates in Australia, the company's asset sales would reduce interest expense by about A$120 million a year in addition to eliminating certain liabilities. }
+autolink_nodes 39 40 nucleus attribution  5039
+create-a-node-here really 25.119 41 {\n\nIn March, Qintex sold 49% of the three Mirage resorts to Japan's Nippon Shinpan Co. and Mitsui & Co. for A$433 million.}
+nextSentence really
+autolink_nodes 5028 41 satelite background  5040
+create-a-node-here really 26.33 42 {\nYesterday's statement didn't say }
+autolink_nodes 41 42 nucleus circumstance  5041
+create-a-node-here really 26.121 43 {whether the Japanese companies will acquire Qintex's remaining stake in the resorts.}
+nextSentence really
+autolink_nodes 42 43 nucleus attribution-n  5042
+change_rel 5041 elaboration-additional
+create-a-node-here really 28.47 44 { \n\nBefore its shares were suspended from trading, }
+autolink_nodes 5041 44 multinuclear List  5043
+create-a-node-here really 28.99 45 {Qintex Australia plunged to 16 Australian cents }
+autolink_nodes 44 45 satelite circumstance  5044
+create-a-node-here really 28.118 46 {(12 U.S. cents)}
+autolink_nodes 45 46 satelite-embedded restatement-e  5045
+create-a-node-here really 28.173 47 { a share yesterday from 33 Australian cents Friday.}
+nextSentence really
+autolink_nodes 5045 47 multinuclear List  5046
+nextSentence really
+create-a-node-here really 29.44 48 {\nThe shares traded at about A$1.50 in March, }
+autolink_nodes 5044 48 satelite elaboration-additional  5047
+create-a-node-here really 29.62 49 {when the plan }
+autolink_nodes 48 49 nucleus circumstance  5048
+create-a-node-here really 29.83 50 {to acquire MGM/UA}
+autolink_nodes 49 50 satelite-embedded elaboration-object-attribute-e below 5049
+create-a-node-here really 29.102 51 { was announced.}
+nextSentence really
+autolink_nodes 5049 51 multinuclear List  5050
+nextSentence really
+nextSentence really
+create-a-node-here really 30.63 52 {\nQintex Ltd. shares sank to A$1.50 yesterday from A$3.05 Friday.}
+nextSentence really
+autolink_nodes 5048 52 satelite elaboration-additional  5051
+create-a-node-here really 32.48 53 { \n\nMr. Skase's statement cited four recent problems}
+autolink_nodes 5051 53 satelite explanation-argumentative  5052
+create-a-node-here really 32.58 54 { that }
+autolink_nodes 53 54 satelite-embedded elaboration-object-attribute-e  5053
+create-a-node-here really 32.70 55 {he said }
+#create-a-node-here really 32.125 56 {had cut group cash flow by more than A$200 million.}
+#nextSentence really
+#UNDID
+#UNDID
+autolink_nodes 54 55 satelite attribution  5054
+create-a-node-here really 33.0 56 {had cut group cash flow by more than A$200 million. \n}
+autolink_nodes 5054 56 multinuclear Same-Unit  5055
+create-a-node-here really 34.184 57 {\nThey were what he called an "unlawful termination" by MGM/UA of the acquisition agreement with Qintex, high Australian interest rates, a pilots' strike at Australian domestic airlines }
+#autolink_nodes 5053 57 satelite elaboration-general-specific  5056
+#create-a-node-here really 34.240 58 {that cut revenue at the company's Australian resorts}
+#autolink_nodes 57 58 satelite-embedded elaboration-object-attribute-e  5057
+#create-a-node-here really 34.255 59 { and delays}
+#autolink_nodes 5057 59 multinuclear Same-Unit  5058
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5053 57 satelite elaboration-general-specific  5056
+create-a-node-here really 34.241 58 {that cut revenue at the company's Australian resorts }
+autolink_nodes 57 58 satelite-embedded elaboration-object-attribute-e  5057
+create-a-node-here really 34.255 59 {and delays}
+autolink_nodes 5057 59 multinuclear Same-Unit  5058
+create-a-node-here really 34.329 60 { in completing a sale of two regional TV stations in Queensland state.}
+nextSentence really
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5059
+create-a-node-here really 35.108 61 {\nMGM/UA has sued Qintex Australia for breach of contract and fraud over the collapsed acquisition agreement, }
+autolink_nodes 5058 61 satelite elaboration-additional  5060
+create-a-node-here really 35.162 62 {and Qintex Australia has threatened a countersuit.}
+nextSentence really
+autolink_nodes 61 62 multinuclear Cause-Result  5061
+create-a-node-here really 37.64 63 { \n\nQintex Australia hasn't yet reported results for the fiscal year}
+autolink_nodes 5043 63 multinuclear List below 5061
+create-a-node-here really 37.83 64 { ended July 31.}
+nextSentence really
+autolink_nodes 63 64 satelite-embedded elaboration-object-attribute-e  5062
+create-a-node-here really 38.32 65 {\nIn his statement, Mr. Skase said}
+autolink_nodes 5062 65 satelite explanation-argumentative  5063
+create-a-node-here really 38.65 66 { preliminary accounts showed }
+autolink_nodes 65 66 nucleus attribution  5064
+create-a-node-here really 38.153 67 {that group profit before interest, tax and depreciation "will exceed A$170 million."}
+nextSentence really
+autolink_nodes 66 67 nucleus attribution  5065
+create-a-node-here really 38.185 68 { He gave no further details.}
+nextSentence really
+autolink_nodes 5063 68 satelite elaboration-additional  5066
+create-a-node-here really 40.74 69 { \n\nShareholders' funds as of July 31 were estimated at more than A$1 billion,}
+autolink_nodes 5066 69 satelite elaboration-additional  5067
+create-a-node-here really 40.95 70 { Mr. Skase said, }
+autolink_nodes 69 70 satelite attribution  5068
+create-a-node-here really 40.142 71 {compared with A$725 million a year earlier.}
+nextSentence really
+autolink_nodes 5068 71 multinuclear Comparison  5069
+create-a-node-here really 42.43 72 { \n\nThe company will make "adequate provisions"}
+autolink_nodes 5069 72 satelite elaboration-additional  5070
+create-a-node-here really 42.147 73 { to cover costs of the dispute with MGM/UA and any loss from the investment in Qintex Entertainment,}
+autolink_nodes 72 73 satelite purpose  5071
+create-a-node-here really 42.160 74 { he said.}
+nextSentence really
+autolink_nodes 5071 74 satelite attribution  5072
+create-a-node-here really 44.94 75 { \n\nMr. Skase also disclosed a disagreement among directors of Qintex Australia over certain fees }
+autolink_nodes 5070 75 satelite elaboration-additional  5073
+nextSentence really
+create-a-node-here really 44.178 76 {claimed by Qintex Group Management Services Pty., a management-services concern }
+autolink_nodes 75 76 satelite-embedded elaboration-object-attribute-e  5074
+create-a-node-here really 44.236 77 {in which Qintex Australia executives have an interest.}
+nextSentence really
+autolink_nodes 76 77 satelite-embedded elaboration-additional-e  5075
+nextSentence really
+create-a-node-here really 46.86 78 { \n\nQintex Australia paid the management company A$32.6 million in the latest fiscal year.}
+nextSentence really
+collapsed_nodes {5072}
+collapsed_nodes {5072 5070}
+collapsed_nodes {5072 5070 5066}
+autolink_nodes 5043 78 multinuclear List below 5075
+create-a-node-here really 47.14 79 {\nMr. Skase said}
+autolink_nodes 78 79 satelite explanation-argumentative  5076
+create-a-node-here really 47.97 80 { most of the money went to other parties for expenses such as rent and travel, }
+autolink_nodes 79 80 nucleus attribution  5077
+create-a-node-here really 47.187 81 {but a smaller portion is owed to senior executives and others for management services.}
+nextSentence really
+autolink_nodes 80 81 multinuclear Contrast  5078
+create-a-node-here really 49.44 82 { \n\nNon-executive directors of Qintex Australia,}
+change_constit 5077 
+#autolink_nodes 5077 82 satelite elaboration-additional  5079
+#UNDID
+autolink_nodes 5077 82 satelite elaboration-additional  5079
+create-a-node-here really 49.100 83 { who must approve payments to the senior executives,}
+autolink_nodes 82 83 satelite-embedded elaboration-additional-e  5080
+create-a-node-here really 50.0 84 { balked at the amount.\n}
+autolink_nodes 5080 84 multinuclear Same-Unit  5081
+create-a-node-here really 50.35 85 {Two of the directors resigned, }
+autolink_nodes 5081 85 satelite elaboration-additional  5082
+create-a-node-here really 50.55 86 {Mr. Skase said, }
+autolink_nodes 85 86 satelite attribution  5083
+create-a-node-here really 50.101 87 {so the payments haven't yet been approved.}
+nextSentence really
+autolink_nodes 5083 87 nucleus result  5084
+collapsed_nodes {5072 5070 5066 5005}
+collapsed_nodes {}
+disconnect_node 55 disconnect
+autolink_nodes 54 55 satelite-embedded attribution-e  5085
+collapsed_nodes {5005}
+collapsed_nodes {}

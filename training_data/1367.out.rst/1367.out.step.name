@@ -1,0 +1,699 @@
+nextSentence really
+create-a-node-here really 2.68 1 {\nWhen Anne Volokh and her family immigrated to the U.S. 14 years ago,}
+nextSentence really
+create-a-node-here really 2.120 2 { they started life in Los Angeles with only $400.}
+autolink_nodes 1 2 nucleus circumstance  5001
+create-a-node-here really 3.48 3 {\nThey'd actually left the Soviet Union with $480,}
+create-a-node-here really 3.125 4 { but during a stop in Italy Ms. Volokh dropped $80 on a black velvet suit.}
+nextSentence really
+autolink_nodes 3 4 multinuclear List  5002
+autolink_nodes 5001 5002 satelite elaboration-additional  5003
+create-a-node-here really 4.58 5 {\nNot surprisingly, she quickly adapted to the American way.}
+nextSentence really
+autolink_nodes 5003 5 nucleus background  5004
+create-a-node-here really 5.38 6 {\nThree months after she arrived in L.A.}
+create-a-node-here really 5.57 7 { she spent $120 }
+#create-a-node-here really 5.86 8 {she didn't have for a hat.}
+#nextSentence really
+#autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5005
+#autolink_nodes 6 5005 nucleus temporal-after  5006
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 5.76 8 {she didn't have }
+create-a-node-here really 5.89 9 {for a hat.}
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 9 5005 multinuclear Same-Unit  5006
+autolink_nodes 6 5006 nucleus temporal-after  5007
+create-a-node-here really 5.105 10 { ("A turban,"}
+create-a-node-here really 5.124 11 { she specifies,}
+nextSentence really
+create-a-node-here really 5.178 12 { "though it wasn't the time for that 14 years ago.}
+autolink_nodes 10 11 satelite-embedded attribution-e  5008
+autolink_nodes 12 5008 multinuclear Same-Unit  5009
+nextSentence really
+nextSentence really
+create-a-node-here really 6.22 13 {\nBut I loved turbans.")}
+#autolink_nodes 5009 13 satelite elaboration-additional  5010
+#UNDID
+autolink_nodes 5009 13 satelite elaboration-additional  5010
+autolink_nodes 9 5010 satelite-embedded elaboration-object-attribute-e  5011
+create-a-node-here really 8.34 14 { \n\nSince then she has become wealthy.}
+create-a-node-here really 9.26 15 {\nHer husband and older son }
+create-a-node-here really 9.52 16 {-- a computer prodigy }
+create-a-node-here really 9.100 17 {profiled in The Wall Street Journal in 1981,}
+create-a-node-here really 9.122 18 { when he was 13 --}
+create-a-node-here really 9.195 19 { run a software company with expected sales this year of $10 million.}
+nextSentence really
+autolink_nodes 17 18 satelite-embedded elaboration-additional-e  5012
+autolink_nodes 16 5012 satelite-embedded elaboration-additional-e  5013
+autolink_nodes 15 5013 satelite-embedded elaboration-additional-e  5014
+autolink_nodes 19 5014 multinuclear Same-Unit  5015
+autolink_nodes 14 5015 satelite elaboration-additional  5016
+create-a-node-here really 10.94 20 {\nMost recently, she has become the publisher of Movieline, a four-year-old Los Angeles magazine}
+create-a-node-here really 10.188 21 { that began national distribution last month, with an initial press run of 100,000 copies.}
+nextSentence really
+autolink_nodes 20 21 satelite-embedded elaboration-additional-e  5017
+create-a-node-here really 11.48 22 {\nDistributed by the Hearst Corp. 's Eastern News,}
+create-a-node-here really 11.238 23 { the glossy publication melds Vanity Fair's gossipy archness and Premiere's earnest delving into behind-the-scenes minutiae, with a special emphasis on Tinseltown as fashion trendsetter.}
+nextSentence really
+autolink_nodes 22 23 nucleus circumstance  5018
+autolink_nodes 5017 5018 satelite elaboration-additional  5019
+create-a-node-here really 12.69 24 {\nIt's being sold through bookstores, newsstands and some video stores.}
+nextSentence really
+autolink_nodes 5019 24 satelite elaboration-additional  5020
+autolink_nodes 5016 5020 satelite elaboration-additional  5021
+collapsed_nodes {5020}
+collapsed_nodes {5020 5015}
+create-a-node-here really 14.35 25 { \n\nThough Ms. Volokh is a small woman,}
+create-a-node-here really 14.90 26 { she has an outsized personality and dramatic flair}
+create-a-node-here really 14.135 27 { that seem perfectly suited to capitalism}
+create-a-node-here really 14.172 28 { as it is practiced in Hollywood.}
+nextSentence really
+autolink_nodes 5021 5007 satelite background  5022
+disconnect_node 5007 modify
+autolink_nodes 14 5007 satelite antithesis below 5023
+collapsed_nodes {5020 5015 5007}
+autolink_nodes 5004 5021 satelite elaboration-additional  5024
+autolink_nodes 27 28 satelite comparison  5025
+autolink_nodes 26 5025 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 5026 25 satelite antithesis  5027
+create-a-node-here really 15.71 29 {\nCertainly life for her has changed considerably since the days in Kiev,}
+#create-a-node-here really 15.212 30 { when she lived with her parents, her husband and her two sons in a 2 1/2-room apartment in what she calls "silent internal immigration,"}
+#create-a-node-here really 15.236 31 { dreaming of escape.}
+#nextSentence really
+#autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5028
+#autolink_nodes 29 5028 satelite-embedded elaboration-object-attribute-e  5029
+#autolink_nodes 5027 5029 satelite comparison  5030
+#create-a-node-here really 17.35 32 { \n\nNow, for example, she owns 48 hats.}
+#nextSentence really
+#autolink_nodes 5029 32 satelite evidence  5031
+#disconnect_node 5031 modify
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 5027 5029 satelite elaboration-additional  5030
+#create-a-node-here really 17.35 32 { \n\nNow, for example, she owns 48 hats.}
+#autolink_nodes 5029 32 satelite evidence  5031
+#create-a-node-here really 18.37 33 {\nHowever, she remembers the lean years}
+#create-a-node-here really 18.108 34 { and recalls with relish wearing her first major American purchase }
+#create-a-node-here really 18.140 35 {-- that turban10 years later}
+#nextSentence really
+#create-a-node-here really 18.212 36 { and having a Los Angeles boutique owner ask her if it was a Chanel.}
+#UNDID
+#create-a-node-here really 18.189 36 { and having a Los Angeles boutique owner ask }
+#UNDID
+#UNDID
+#collapsed_nodes {5020 5015}
+#collapsed_nodes {5020}
+#collapsed_nodes {}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 15.163 30 { when she lived with her parents, her husband and her two sons in a 2 1/2-room apartment}
+create-a-node-here really 15.216 31 { in what she calls "silent internal immigration,"}
+create-a-node-here really 15.240 32 { dreaming of escape.}
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5028
+autolink_nodes 5028 32 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 29 5029 satelite-embedded elaboration-object-attribute-e  5030
+create-a-node-here really 17.35 33 { \n\nNow, for example, she owns 48 hats.}
+nextSentence really
+autolink_nodes 5030 33 satelite evidence  5031
+autolink_nodes 5027 5031 satelite elaboration-additional  5032
+collapsed_nodes {5015 5007}
+collapsed_nodes {5007}
+collapsed_nodes {}
+create-a-node-here really 18.37 34 {\nHowever, she remembers the lean years}
+create-a-node-here really 19.30 35 { and recalls with relish wearing her\nfirst major American purchase }
+create-a-node-here really 19.51 36 {-- that turban --}
+create-a-node-here really 20.31 37 { 10 years later and having a Los\nAngeles boutique owner ask her }
+create-a-node-here really 20.54 38 {if it was a Chanel.}
+autolink_nodes 37 38 nucleus attribution  5033
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5034
+#autolink_nodes 5034 5033 multinuclear Same-Unit  5035
+#UNDID
+autolink_nodes 37 5034 multinuclear Same-Unit  5035
+disconnect_node 5035 disconnect
+#autolink_nodes 37 38 nucleus attribution  5036
+#UNDID
+#autolink_nodes 37 38 nucleus-embedded attribution-e  5036
+#UNDID
+autolink_nodes 5035 34 satelite circumstance  5036
+#autolink_nodes 5035 38 nucleus attribution  5037
+#UNDID
+autolink_nodes 37 38 nucleus attribution  5037
+create-a-node-here really 21.8 39 { With obvious satisfaction,\nshe says}
+create-a-node-here really 21.26 40 { she told him:}
+create-a-node-here really 21.74 41 { "No darling, I just give it a Chanel look."}
+nextSentence really
+#disconnect_node 13 modify
+#UNDID
+change_rel 13 antithesis
+autolink_nodes 40 41 nucleus attribution  5038
+autolink_nodes 39 5038 nucleus attribution  5039
+autolink_nodes 5036 5039 satelite elaboration-additional  5040
+create-a-node-here really 22.29 42 { She keeps\ntrack of the rest of her hats}
+create-a-node-here really 23.12 43 { by stapling Polaroid snapshots to the outside of\neach hatbox.}
+autolink_nodes 42 43 satelite means  5041
+autolink_nodes 33 5040 satelite antithesis  5042
+autolink_nodes 5042 5041 satelite elaboration-additional  5043
+collapsed_nodes {5041}
+collapsed_nodes {5041 5040}
+create-a-node-here really 25.98 44 { \n\nAre the hats merely part of her new L.A. persona, along with the many ultra-thin Capri cigarettes }
+create-a-node-here really 25.113 45 {she smokes,}
+create-a-node-here really 25.129 46 { the parties}
+create-a-node-here really 25.160 47 { she throws for 500 people,}
+create-a-node-here really 25.186 48 { the Chekovian feasts }
+create-a-node-here really 25.246 49 {she offers guests at her weekend place in Santa Barbara?}
+nextSentence really
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5044
+autolink_nodes 46 47 satelite-embedded elaboration-object-attribute-e  5045
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5046
+autolink_nodes 5045 5046 multinuclear Same-Unit  5047
+autolink_nodes 5047 5044 multinuclear Same-Unit below 5047
+create-a-node-here really 27.14 50 { \n\n"No, darling,"}
+create-a-node-here really 27.97 51 { she said recently in her fluent, slightly affected English, during a trip East}
+create-a-node-here really 27.144 52 { to promote Movieline's national expansion.}
+nextSentence really
+autolink_nodes 51 52 satelite purpose  5048
+autolink_nodes 50 5048 satelite attribution  5049
+autolink_nodes 5049 5047 multinuclear Question-Answer  5050
+create-a-node-here really 27.178 53 { "You have to be born with it.}
+nextSentence really
+autolink_nodes 5049 53 satelite elaboration-additional  5051
+create-a-node-here really 28.30 54 {\nI used to wear hats in Russia,}
+create-a-node-here really 28.73 55 { but I had to make them and my dresses.}
+nextSentence really
+autolink_nodes 54 55 multinuclear List  5052
+create-a-node-here really 29.48 56 {\nOn the hat side I wasn't getting what I wanted."}
+nextSentence really
+#autolink_nodes 5052 56 satelite elaboration-additional  5053
+#UNDID
+disconnect_node 54 disconnect
+autolink_nodes 54 55 nucleus circumstance  5053
+autolink_nodes 5053 56 satelite reason  5054
+#autolink_nodes 53 5054 satelite explanation-argumentative  5055
+#UNDID
+autolink_nodes 53 5054 satelite elaboration-additional  5055
+autolink_nodes 5032 5050 satelite elaboration-additional  5056
+autolink_nodes 5024 5056 satelite elaboration-additional  5057
+collapsed_nodes {5041 5040 5031}
+create-a-node-here really 31.47 57 { \n\nNow 48 years old, Ms. Volokh has definite ideas}
+create-a-node-here really 31.73 58 { about what she wants.}
+autolink_nodes 57 58 satelite-embedded elaboration-object-attribute-e  5058
+#create-a-node-here really 32.123 59 {\nAt Movieline, she wants "specific paragraphing, specific tone, a specific attitude -- bright and bold and tongue-in-cheek."}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 32.83 59 {\nAt Movieline, she wants "specific paragraphing, specific tone, a specific attitude }
+create-a-node-here really 32.127 60 {-- bright and bold and tongue-in-cheek."}
+nextSentence really
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5059
+create-a-node-here really 32.146 61 { In restaurants}
+create-a-node-here really 32.208 62 { (in this case, the Russian Samovar, a New York restaurant}
+create-a-node-here really 32.249 63 { operated by and for Soviet emigres),}
+create-a-node-here really 32.322 64 { she didn't want the chirpy, folkish music bouncing through the room.}
+nextSentence really
+autolink_nodes 62 63 satelite-embedded elaboration-object-attribute-e  5060
+autolink_nodes 61 5060 satelite-embedded elaboration-object-attribute-e  5061
+autolink_nodes 64 5061 multinuclear Same-Unit  5062
+create-a-node-here really 32.349 65 { "You people here think}
+create-a-node-here really 32.377 66 { this is Russian music,"}
+create-a-node-here really 32.404 67 { she said with disdain,}
+create-a-node-here really 32.441 68 { and called over to the waitress:}
+create-a-node-here really 32.470 69 { "Could you turn it off?"}
+nextSentence really
+autolink_nodes 68 69 nucleus attribution  5063
+autolink_nodes 65 66 nucleus attribution  5064
+autolink_nodes 5064 67 satelite attribution  5065
+autolink_nodes 5063 5065 multinuclear Sequence  5066
+autolink_nodes 64 5066 satelite evidence  5067
+autolink_nodes 5059 5062 multinuclear List  5068
+autolink_nodes 5058 5068 satelite example  5069
+collapsed_nodes {5041 5040 5031 5068}
+create-a-node-here really 34.10 70 { \n\nThat done,}
+create-a-node-here really 34.80 71 { Ms. Volokh spoke with rampant eloquence about the many attributes}
+create-a-node-here really 34.95 72 { she feels }
+create-a-node-here really 34.117 73 {she was born with:}
+create-a-node-here really 34.201 74 { an understanding of food, business, Russian culture, human nature, and parties.}
+nextSentence really
+autolink_nodes 73 74 satelite-embedded elaboration-set-member-e  5070
+autolink_nodes 72 5070 nucleus attribution  5071
+autolink_nodes 71 5071 satelite-embedded elaboration-object-attribute-e  5072
+autolink_nodes 70 5072 nucleus temporal-after  5073
+create-a-node-here really 34.243 75 { "Parties are rather a state of mind,"}
+create-a-node-here really 34.257 76 { she said,}
+create-a-node-here really 34.269 77 { pausing}
+create-a-node-here really 34.330 78 { only to taste and pass judgment on the Georgian shashlik}
+create-a-node-here really 34.373 79 { ("a little well done, but very good").}
+nextSentence really
+#autolink_nodes 78 79 satelite-embedded evaluation-s-e  5074
+#UNDID
+autolink_nodes 78 79 satelite-embedded elaboration-general-specific-e  5074
+autolink_nodes 77 5074 satelite purpose  5075
+autolink_nodes 75 76 satelite attribution  5076
+#autolink_nodes 76 5075 satelite-embedded elaboration-additional-e  5077
+#UNDID
+autolink_nodes 5076 5075 satelite elaboration-additional  5077
+create-a-node-here really 34.394 80 { "If you are born}
+create-a-node-here really 34.415 81 { to give parties,}
+create-a-node-here really 34.437 82 { you give parties.}
+#create-a-node-here really 35.0 83 {\n}
+#autolink_nodes 80 81 satelite purpose  5078
+#UNDID
+#UNDID
+autolink_nodes 80 81 satelite purpose  5078
+autolink_nodes 5078 82 nucleus condition  5079
+create-a-node-here really 35.42 83 {\nEven in Russia we managed to give parties.}
+nextSentence really
+autolink_nodes 5079 83 satelite evidence  5080
+create-a-node-here really 36.52 84 {\nIn Los Angeles, in our lean years, we gave parties."}
+nextSentence really
+autolink_nodes 83 84 multinuclear List  5081
+autolink_nodes 5077 5080 satelite elaboration-additional  5082
+create-a-node-here really 38.27 85 { \n\nAs publisher of a magazine }
+create-a-node-here really 38.95 86 {devoted to movies as guideposts for fashion and other fantasies,}
+create-a-node-here really 38.166 87 { Ms. Volokh sees her party-giving as an important part of business.}
+nextSentence really
+autolink_nodes 85 86 satelite-embedded elaboration-object-attribute-e  5083
+autolink_nodes 5083 87 multinuclear Same-Unit  5084
+create-a-node-here really 39.56 88 {\nShe has thrown extravagant soirees for crowds of people,}
+create-a-node-here really 39.98 89 { but prefers more intimate gatherings.}
+nextSentence really
+collapsed_nodes {5041 5040 5031 5068 5080}
+autolink_nodes 5082 5084 satelite elaboration-additional  5085
+#autolink_nodes 88 89 nucleus antithesis  5086
+#UNDID
+autolink_nodes 88 89 nucleus preference  5086
+create-a-node-here really 39.177 90 { "At American cocktail parties everyone's always looking over your shoulder}
+create-a-node-here really 39.189 91 { to see }
+create-a-node-here really 39.219 92 {who they can talk to next.}
+autolink_nodes 91 92 nucleus attribution  5087
+autolink_nodes 90 5087 satelite purpose  5088
+autolink_nodes 5086 5088 satelite explanation-argumentative  5089
+create-a-node-here really 40.18 93 {\nI like rather tea,}
+create-a-node-here really 40.60 94 { because it is at the end of the day."}
+nextSentence really
+autolink_nodes 93 94 satelite reason  5090
+nextSentence really
+nextSentence really
+create-a-node-here really 40.103 95 { She serves high Russian tea, at 5 p.m.}
+create-a-node-here really 40.135 96 { "It's supposed to be later }
+create-a-node-here really 40.159 97 {but I just moved it.}
+nextSentence really
+autolink_nodes 96 97 nucleus antithesis  5091
+autolink_nodes 95 5091 satelite elaboration-additional  5092
+create-a-node-here really 41.64 98 {\nIn Los Angeles, it's important to catch people just after work."}
+nextSentence really
+#autolink_nodes 5092 98 satelite explanation-argumentative  5093
+#UNDID
+autolink_nodes 5092 98 satelite reason  5093
+autolink_nodes 5090 5093 satelite elaboration-additional  5094
+autolink_nodes 5089 5094 satelite example  5095
+collapsed_nodes {5041 5040 5031 5068 5080 5084}
+autolink_nodes 5085 5095 satelite elaboration-additional  5096
+create-a-node-here really 43.141 99 { \n\nShe also frequently invites directors, producers, actors, writers and other show business people for "coffee and clips in the pleasure dome."}
+create-a-node-here really 43.174 100 { Guests bring movies on tape,}
+create-a-node-here really 43.247 101 { and show their favorite three-to-five minute segments on the screen}
+create-a-node-here really 43.319 102 { that unrolls from the ceiling of the Volokhs' art-nouveau library }
+create-a-node-here really 43.346 103 {("the pleasure dome").}
+nextSentence really
+autolink_nodes 102 103 satelite-embedded restatement-e  5097
+autolink_nodes 101 5097 satelite-embedded elaboration-object-attribute-e  5098
+autolink_nodes 100 5098 multinuclear List  5099
+autolink_nodes 99 5099 satelite elaboration-additional  5100
+create-a-node-here really 44.36 104 {\nThey eat "sinful and sensual things"}
+create-a-node-here really 44.69 105 { -- and explain their clips.}
+nextSentence really
+autolink_nodes 104 105 multinuclear List  5101
+create-a-node-here really 44.113 106 { "It's very revealing and soul baring,"}
+create-a-node-here really 44.135 107 { said Ms. Volokh.}
+nextSentence really
+autolink_nodes 106 107 satelite attribution  5102
+autolink_nodes 5101 5102 satelite interpretation-s  5103
+autolink_nodes 5100 5103 satelite elaboration-additional  5104
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094}
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095}
+autolink_nodes 5096 5104 satelite elaboration-additional  5105
+autolink_nodes 5073 5105 satelite elaboration-additional  5106
+autolink_nodes 5069 5106 satelite elaboration-additional  5107
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056}
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021}
+autolink_nodes 5057 5107 satelite elaboration-additional  5108
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056}
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021}
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104}
+create-a-node-here really 46.98 108 { \n\nThe idea for Movieline actually was dreamed up by an old friend of the Volokhs, Boris Krutchensky }
+create-a-node-here really 46.139 109 {(who has the title of co-publisher),}
+create-a-node-here really 46.200 110 { and Laurie Halpern Smith, now the magazine's co-editor.}
+nextSentence really
+autolink_nodes 108 109 satelite-embedded elaboration-additional-e  5109
+autolink_nodes 110 5109 multinuclear Same-Unit  5110
+create-a-node-here really 47.83 111 {\nMr. Krutchensky approached Ms. Volokh five years ago about backing the publication,}
+create-a-node-here really 47.126 112 { which started out as a listing guide.}
+nextSentence really
+autolink_nodes 111 112 satelite-embedded elaboration-additional-e  5111
+autolink_nodes 5110 5111 satelite elaboration-additional  5112
+create-a-node-here really 48.18 113 {\nShe was interested}
+create-a-node-here really 48.71 114 { only if she could guide it editorially as well.}
+nextSentence really
+autolink_nodes 113 114 satelite condition  5113
+create-a-node-here really 48.113 115 { "Anne doesn't believe in blandness,"}
+create-a-node-here really 48.134 116 { said Ms. Smith.}
+nextSentence really
+autolink_nodes 115 116 satelite attribution  5114
+create-a-node-here really 48.173 117 { "She wants things to be exciting.}
+nextSentence really
+autolink_nodes 5114 117 satelite elaboration-additional  5115
+create-a-node-here really 49.38 118 {\nAnd she has this inexhaustible energy.}
+nextSentence really
+autolink_nodes 5115 118 satelite elaboration-additional  5116
+create-a-node-here really 50.23 119 {\nShe'll think of an idea}
+create-a-node-here really 50.70 120 { the editorial people think is impossible,}
+create-a-node-here really 50.110 121 { then she'll have us make it work."}
+nextSentence really
+autolink_nodes 119 120 satelite-embedded elaboration-object-attribute-e  5117
+autolink_nodes 121 5117 multinuclear Sequence  5118
+change_rel 117 restatement
+autolink_nodes 5116 5118 satelite elaboration-additional  5119
+autolink_nodes 5113 5119 satelite elaboration-additional  5120
+autolink_nodes 5111 5120 satelite consequence-s  5121
+disconnect_node 5121 disconnect
+create-a-node-here really 52.43 122 { \n\nIn fact, Ms. Volokh wasn't just a rich lady}
+create-a-node-here really 52.68 123 { who needed a hobby.}
+nextSentence really
+autolink_nodes 5121 5110 satelite background  5122
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119}
+autolink_nodes 122 123 satelite-embedded elaboration-object-attribute-e  5123
+create-a-node-here really 53.56 124 {\nBack in the Soviet Union she was a respected journalist,}
+create-a-node-here really 53.133 125 { writing a weekly column about the national cuisine for Sunday Izvestia.}
+nextSentence really
+autolink_nodes 124 125 satelite-embedded elaboration-object-attribute-e  5124
+autolink_nodes 5123 5124 satelite explanation-argumentative  5125
+create-a-node-here really 54.13 126 {\nThose columns}
+create-a-node-here really 54.120 127 { -- vivid discussions of the cultural and literary reverberations of food as well as practical advice }
+create-a-node-here really 54.171 128 {on how to glamorize dreary Sovietized meals --}
+create-a-node-here really 54.266 129 { became the basis for her erudite and entertaining cookbook, "The Art of Russian Cuisine,"}
+create-a-node-here really 54.319 130 { brought out in 1983 by Macmillan Publishing Co.}
+autolink_nodes 129 130 satelite-embedded elaboration-additional-e  5126
+autolink_nodes 127 128 satelite-embedded elaboration-object-attribute-e  5127
+autolink_nodes 126 5127 satelite-embedded elaboration-additional-e  5128
+autolink_nodes 5126 5128 multinuclear Same-Unit  5129
+autolink_nodes 125 5129 satelite elaboration-additional  5130
+create-a-node-here really 56.22 131 { \n\n"I don't trust people }
+create-a-node-here really 56.43 132 {who don't eat," }
+create-a-node-here really 56.64 133 {said Ms. Volokh,}
+create-a-node-here really 56.126 134 { though she herself stopped eating lunch a few years ago }
+create-a-node-here really 56.149 135 {to drop 25 pounds.}
+nextSentence really
+#autolink_nodes 134 135 satelite result  5131
+#UNDID
+autolink_nodes 134 135 satelite purpose  5131
+autolink_nodes 131 132 satelite-embedded elaboration-object-attribute-e  5132
+autolink_nodes 5132 133 satelite attribution  5133
+autolink_nodes 5133 5131 satelite concession  5134
+create-a-node-here really 56.185 136 { "Look at Dostoevski and Kafka.}
+autolink_nodes 5134 136 satelite example  5135
+create-a-node-here really 57.31 137 {\nNo one ever eats in their books}
+#create-a-node-here really 57.54 138 { and look at them.}
+#nextSentence really
+#autolink_nodes 137 138 nucleus circumstance  5136
+#UNDID
+#UNDID
+#UNDID
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 57.60 138 { and look at them. . . .}
+#autolink_nodes 137 138 satelite evaluation-s  5136
+#UNDID
+autolink_nodes 137 138 satelite consequence-s  5136
+autolink_nodes 136 5136 satelite elaboration-additional  5137
+change_rel 138 comment
+#create-a-node-here really 57.91 139 { Tolstoy's characters eat,}
+#UNDID
+create-a-node-here really 57.112 139 { Tolstoy's characters eat, Pushkin's, Gogol's."}
+nextSentence really
+#autolink_nodes 5137 139 satelite antithesis  5138
+#UNDID
+autolink_nodes 5137 139 satelite antithesis  5138
+autolink_nodes 5129 5135 satelite elaboration-additional  5139
+create-a-node-here really 57.134 140 { In her cookbook,}
+create-a-node-here really 57.197 141 { which Macmillan is bringing out in soft cover this month }
+#create-a-node-here really 57.224 142 {(with the blini recipe}
+#UNDID
+create-a-node-here really 57.233 142 {(with the blini recipe revised }
+create-a-node-here really 57.251 143 {so it works),}
+create-a-node-here really 57.337 144 { she introduces each chapter with appropriate quotations from Russian literature:}
+create-a-node-here really 57.382 145 { Pushkin on blini, Goncharov on piroghi.}
+#autolink_nodes 144 145 satelite-embedded example-e  5140
+#UNDID
+#autolink_nodes 144 145 satelite-embedded example-e  5140
+#UNDID
+autolink_nodes 144 145 satelite-embedded example-e  5140
+autolink_nodes 142 143 satelite enablement  5141
+#autolink_nodes 141 5141 satelite-embedded elaboration-additional-e  5142
+#UNDID
+autolink_nodes 140 141 satelite-embedded elaboration-additional-e  5142
+autolink_nodes 141 5141 satelite elaboration-additional  5143
+autolink_nodes 5140 5142 multinuclear Same-Unit  5144
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119 5135}
+autolink_nodes 5139 5144 satelite elaboration-additional  5145
+create-a-node-here really 58.45 146 {\nIn life, she offers practical dieting advice:}
+create-a-node-here really 58.101 147 { "Divide your meals into important and unimportant.}
+nextSentence really
+autolink_nodes 146 147 satelite-embedded elaboration-object-attribute-e  5146
+create-a-node-here really 59.46 148 {\nIn a great restaurant, don't deprive yourself.}
+nextSentence really
+#autolink_nodes 5146 148 multinuclear Contrast  5147
+#UNDID
+create-a-node-here really 60.30 149 {\nThe other meals don't matter."}
+autolink_nodes 148 149 multinuclear Contrast  5147
+autolink_nodes 5146 5147 satelite elaboration-additional  5148
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119}
+disconnect_node 5144 disconnect
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119 5138}
+autolink_nodes 5135 5144 satelite elaboration-additional  5149
+autolink_nodes 5149 5148 satelite elaboration-additional  5150
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119 5138 5148}
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119 5138}
+disconnect_node 5148 disconnect
+disconnect_node 5144 disconnect
+autolink_nodes 5135 5144 satelite elaboration-additional  5151
+disconnect_node 5144 disconnect
+autolink_nodes 5139 5144 satelite elaboration-additional  5152
+autolink_nodes 5152 5148 satelite elaboration-additional  5153
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119 5138 5144}
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119 5138 5144 5148}
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119 5138 5144 5148 5153}
+create-a-node-here really 62.18 150 { \n\nAmusing as she is,}
+create-a-node-here really 62.54 151 { and frivolous as she can seem,}
+create-a-node-here really 62.114 152 { this is a serious person with some difficult memories.}
+nextSentence really
+autolink_nodes 150 151 multinuclear List  5154
+autolink_nodes 5154 152 nucleus concession  5155
+create-a-node-here really 63.40 153 {\nShe was the child of relative privilege.}
+nextSentence really
+create-a-node-here really 64.28 154 {\nHer mother was a translator;}
+create-a-node-here really 64.77 155 { her father was "the eternal vice director."}
+nextSentence really
+autolink_nodes 5108 5122 satelite elaboration-additional  5156
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119 5138 5144 5148 5153 5122}
+disconnect_node 5122 disconnect
+autolink_nodes 5107 5122 satelite elaboration-additional  5157
+autolink_nodes 154 155 multinuclear List  5158
+autolink_nodes 153 5158 satelite elaboration-additional  5159
+autolink_nodes 5155 5159 satelite background  5160
+create-a-node-here really 66.12 156 { \n\n"I emigrated}
+create-a-node-here really 66.38 157 { to wear better hats,}
+create-a-node-here really 66.63 158 { do better parties,"}
+create-a-node-here really 66.92 159 { she said with a giggle.}
+nextSentence really
+autolink_nodes 157 158 multinuclear List  5161
+autolink_nodes 156 5161 satelite purpose  5162
+autolink_nodes 5162 159 satelite attribution  5163
+create-a-node-here really 66.156 160 { "But we shouldn't leave out political reasons, number one.}
+nextSentence really
+autolink_nodes 5163 160 nucleus antithesis  5164
+create-a-node-here really 67.63 161 {\nYou try to maintain your dignity under difficult circumstances.}
+nextSentence really
+#create-a-node-here really 68.19 162 {\nOne cannot imagine }
+#create-a-node-here really 68.37 163 {how you live }
+#create-a-node-here really 68.87 164 {when you live those double and triple lives."}
+#nextSentence really
+#autolink_nodes 163 164 satelite circumstance  5165
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 68.32 162 {\nOne cannot imagine how you live }
+create-a-node-here really 68.82 163 {when you live those double and triple lives."}
+autolink_nodes 162 163 satelite circumstance  5165
+autolink_nodes 161 5165 satelite elaboration-additional  5166
+autolink_nodes 5164 5166 satelite elaboration-additional  5167
+autolink_nodes 5160 5167 satelite elaboration-additional  5168
+#create-a-node-here really 70.43 164 { \n\nBy 1973, after their second child was born,}
+#create-a-node-here really 70.130 165 { it had become clear to Ms. Volokh and her husband Vladimir, a computer scientist,}
+#create-a-node-here really 70.174 166 { that they wanted to leave the U.S.S.R.}
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 70.8 164 { \n\nBy 1973,}
+create-a-node-here really 70.48 165 { after their second child was born,}
+create-a-node-here really 70.174 166 { it had become clear to Ms. Volokh and her husband Vladimir, a computer scientist, that they wanted to leave the U.S.S.R.}
+autolink_nodes 165 166 nucleus-embedded temporal-after-e  5169
+autolink_nodes 5169 164 multinuclear Same-Unit  5170
+create-a-node-here really 70.204 167 { Ms. Volokh quit her job,}
+create-a-node-here really 70.248 168 { to remove herself from the public eye.}
+nextSentence really
+autolink_nodes 167 168 satelite purpose  5171
+autolink_nodes 5170 5171 satelite consequence-s  5172
+create-a-node-here really 71.23 169 {\nThe wait was miserable.}
+nextSentence really
+autolink_nodes 5172 169 satelite elaboration-additional  5173
+create-a-node-here really 72.44 170 {\nBefore granting Ms. Volokh's parents a visa,}
+create-a-node-here really 72.129 171 { the government required her mother to obtain permission from her first husband,}
+create-a-node-here really 72.174 172 { whom she had divorced 38 years earlier.}
+nextSentence really
+autolink_nodes 171 172 satelite-embedded elaboration-object-attribute-e  5174
+autolink_nodes 170 5174 nucleus temporal-before  5175
+autolink_nodes 169 5175 satelite elaboration-additional  5176
+create-a-node-here really 74.34 173 { \n\nMr. Volokh was fired from his job,}
+create-a-node-here really 74.171 174 { and had to endure hours of organized verbal abuse from his co-workers, accusations of sabotage and counterrevolutionary activities.}
+nextSentence really
+autolink_nodes 173 174 multinuclear List  5177
+autolink_nodes 5175 5177 multinuclear List  5178
+create-a-node-here really 75.23 175 {\nThe Volokhs were afraid}
+create-a-node-here really 75.71 176 { that they'd end up like a friend of theirs}
+create-a-node-here really 75.101 177 { who'd applied for a visa}
+create-a-node-here really 75.131 178 { and waited for 10 years,}
+create-a-node-here really 75.224 179 { having been demoted from his profession of theoretical mathematician to shipping clerk.}
+nextSentence really
+autolink_nodes 177 178 multinuclear Sequence  5179
+autolink_nodes 176 5179 satelite-embedded elaboration-object-attribute-e  5180
+autolink_nodes 5180 179 satelite-embedded elaboration-object-attribute-e  5181
+autolink_nodes 175 5181 nucleus attribution  5182
+disconnect_node 179 disconnect
+autolink_nodes 5179 179 satelite temporal-after  5183
+create-a-node-here really 77.12 180 { \n\nThey didn't.}
+nextSentence really
+create-a-node-here really 78.42 181 {\nTheir visa came in relatively short order,}
+create-a-node-here really 78.78 182 { and they moved to Los Angeles.}
+nextSentence really
+autolink_nodes 181 182 multinuclear Sequence  5184
+autolink_nodes 180 5184 satelite elaboration-additional  5185
+autolink_nodes 5185 5182 satelite antithesis  5186
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119 5138 5144 5148 5153 5122 5176}
+autolink_nodes 5173 5186 satelite elaboration-additional  5187
+create-a-node-here really 79.40 183 {\nMr. Volokh soon found work in his field,}
+#create-a-node-here really 79.133 184 { but Ms. Volokh refused the obvious and available occupation-as translatorfor a Russian }
+#create-a-node-here really 79.163 185 {who spoke fluent English.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 79.106 184 { but Ms. Volokh refused the obvious and available occupation-}
+#create-a-node-here really 79.137 185 {as translatorfor a Russian}
+#create-a-node-here really 79.168 186 { who spoke fluent English.}
+#autolink_nodes 185 186 satelite-embedded elaboration-object-attribute-e  5188
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 79.105 184 { but Ms. Volokh refused the obvious and available occupation}
+create-a-node-here really 79.138 185 {-as translatorfor a Russian }
+create-a-node-here really 79.168 186 {who spoke fluent English.}
+autolink_nodes 185 186 satelite-embedded elaboration-object-attribute-e  5188
+autolink_nodes 184 5188 satelite-embedded elaboration-object-attribute-e  5189
+autolink_nodes 183 5189 nucleus antithesis  5190
+create-a-node-here really 79.203 187 { "That's always looking back,"}
+create-a-node-here really 79.218 188 { she said.}
+nextSentence really
+autolink_nodes 187 188 satelite attribution  5191
+autolink_nodes 5190 5191 satelite reason  5192
+create-a-node-here really 79.253 189 { "I wanted to be in business."}
+nextSentence really
+#autolink_nodes 5191 189 nucleus preference  5193
+#UNDID
+autolink_nodes 5191 189 nucleus preference  5193
+#create-a-node-here really 79.362 190 { On the way to that goal, she received her first U.S. paycheck for proofreading a book of Polish poetry,}
+#create-a-node-here really 79.396 191 { attended secretarial school,}
+#create-a-node-here really 79.452 192 { then went to work for a fund-raising organization.}
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 79.320 190 { On the way to that goal, she received her first U.S. paycheck}
+create-a-node-here really 79.367 191 { for proofreading a book of Polish poetry,}
+create-a-node-here really 79.401 192 { attended secretarial school,}
+create-a-node-here really 79.457 193 { then went to work for a fund-raising organization.}
+autolink_nodes 192 193 multinuclear Sequence  5194
+autolink_nodes 190 191 satelite-embedded elaboration-object-attribute-e  5195
+autolink_nodes 5194 5195 multinuclear Sequence below 5195
+create-a-node-here really 80.32 194 {\nSoon she was running the office.}
+nextSentence really
+autolink_nodes 193 194 satelite consequence-s  5196
+autolink_nodes 5193 5194 satelite elaboration-additional  5197
+disconnect_node 5194 disconnect
+autolink_nodes 5192 5194 satelite elaboration-additional  5198
+disconnect_node 5194 disconnect
+disconnect_node 5193 disconnect
+disconnect_node 5191 disconnect
+autolink_nodes 5190 5191 satelite reason  5199
+autolink_nodes 5199 189 nucleus preference  5200
+autolink_nodes 5200 5194 satelite elaboration-additional  5201
+autolink_nodes 5168 5187 satelite elaboration-additional  5202
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119 5138 5144 5148 5153 5122 5176 5167}
+autolink_nodes 5201 5202 satelite background  5203
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5021 5104 5119 5138 5144 5148 5153 5122 5176 5167 5202}
+create-a-node-here really 82.64 195 { \n\nWhen her husband and son founded their computer company, Vesoft,}
+create-a-node-here really 82.127 196 { she worked as business manager, bookkeeper and publicist.}
+nextSentence really
+autolink_nodes 195 196 nucleus circumstance  5204
+create-a-node-here really 83.56 197 {\nNow Movieline is located in the same building as Vesoft.}
+nextSentence really
+disconnect_node 5194 disconnect
+autolink_nodes 5194 5204 multinuclear Sequence below 5204
+autolink_nodes 5200 5194 satelite evidence below 5205
+disconnect_node 5194 disconnect
+autolink_nodes 5203 5194 satelite evidence  5206
+create-a-node-here really 83.101 198 { "Things work out unexpectedly in life,"}
+create-a-node-here really 83.123 199 { said Ms. Volokh.}
+nextSentence really
+autolink_nodes 198 199 satelite attribution  5207
+create-a-node-here really 83.145 200 { "You never know }
+create-a-node-here really 83.207 201 {if you'll be chosen to be the scapegoat or the lucky one.}
+nextSentence really
+autolink_nodes 200 201 nucleus attribution  5208
+autolink_nodes 5207 5208 satelite elaboration-additional  5209
+create-a-node-here really 84.15 202 {\nWe were lucky."}
+nextSentence really
+autolink_nodes 5125 5206 satelite elaboration-additional  5210
+autolink_nodes 5108 5210 satelite elaboration-additional  5211
+autolink_nodes 5206 197 satelite consequence-s  5212
+autolink_nodes 5209 202 satelite comment  5213
+autolink_nodes 5211 5213 satelite elaboration-additional  5214
+collapsed_nodes {5041 5040 5031 5068 5080 5084 5094 5095 5056 5104 5119 5138 5144 5148 5153 5122 5176 5167 5202}
+collapsed_nodes {5068 5080 5084 5094 5095 5104 5119 5138 5144 5148 5153 5122 5176 5167 5202}
+collapsed_nodes {5068 5084 5094 5095 5104 5119 5138 5144 5148 5153 5122 5176 5167 5202}
+collapsed_nodes {5068 5094 5095 5104 5119 5138 5144 5148 5153 5122 5176 5167 5202}
+collapsed_nodes {5068 5104 5119 5138 5144 5148 5153 5122 5176 5167 5202}
+collapsed_nodes {5068 5119 5138 5144 5148 5153 5122 5176 5167 5202}
+collapsed_nodes {5068 5138 5144 5148 5153 5176 5167 5202}
+collapsed_nodes {5068 5176 5167 5202}
+collapsed_nodes {5068}
+collapsed_nodes {}
+#disconnect_node 147 modify
+#UNDID

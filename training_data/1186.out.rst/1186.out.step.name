@@ -1,0 +1,70 @@
+nextSentence really
+create-a-node-here really 2.144 1 {\nTrading in Cineplex Odeon Corp. shares was halted on the New York and Toronto stock exchanges late yesterday afternoon at the company's request,}
+create-a-node-here really 2.186 2 { Toronto Stock Exchange officials said.}
+nextSentence really
+autolink_nodes 1 2 satelite attribution  5001
+create-a-node-here really 4.80 3 { \n\nBrian Hemming, a spokesman for the company's committee of independent directors,}
+create-a-node-here really 4.103 4 { established in May }
+create-a-node-here really 4.153 5 {to solicit and evaluate offers for the company,}
+create-a-node-here really 4.162 6 { said }
+create-a-node-here really 4.224 7 {it was expected to make an announcement early this morning.}
+nextSentence really
+autolink_nodes 6 7 nucleus attribution  5002
+autolink_nodes 4 5 satelite purpose  5003
+autolink_nodes 3 5003 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 5004 5002 multinuclear Same-Unit  5005
+create-a-node-here really 5.20 8 {\nBut Mr. Hemming said}
+create-a-node-here really 5.122 9 { he wasn't aware of the nature of the talks under way between committee members and their advisers.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5006
+autolink_nodes 5005 5006 satelite elaboration-additional  5007
+autolink_nodes 5001 5007 satelite elaboration-additional  5008
+nextSentence really
+create-a-node-here really 7.76 10 { \n\nCineplex traded on the New York Stock Exchange at $11.25 a share, up $1.125,}
+create-a-node-here really 7.107 11 { before trading was halted.}
+nextSentence really
+autolink_nodes 10 11 satelite temporal-before  5009
+collapsed_nodes {5007}
+autolink_nodes 5008 5009 satelite elaboration-additional  5010
+create-a-node-here really 9.40 12 { \n\nAnalysts have speculated in recent days }
+create-a-node-here really 9.68 13 {that the value of offers}
+create-a-node-here really 9.98 14 { received by the committee}
+create-a-node-here really 9.142 15 { fell well short of what they had hoped,}
+create-a-node-here really 9.286 16 { or even that the company's chairman, president and chief executive officer, Garth Drabinsky, is the only bidder for the company as a whole.}
+nextSentence really
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 5011 15 multinuclear Same-Unit  5012
+autolink_nodes 5012 16 multinuclear List above 5013
+autolink_nodes 12 5013 nucleus attribution  5014
+create-a-node-here really 10.18 17 {\nThe current effort}
+create-a-node-here really 10.49 18 { to auction off the company}
+create-a-node-here really 10.166 19 { was triggered by a dispute between Mr. Drabinsky and the Toronto-based movie chain's major shareholder, MCA Inc.}
+autolink_nodes 17 18 satelite-embedded elaboration-process-step-e  5015
+autolink_nodes 19 5015 multinuclear Same-Unit  5016
+collapsed_nodes {}
+disconnect_node 5009 disconnect
+collapsed_nodes {5007}
+autolink_nodes 5008 5009 satelite elaboration-additional  5017
+autolink_nodes 5017 5014 satelite elaboration-additional  5018
+collapsed_nodes {5007 5014}
+collapsed_nodes {5014}
+disconnect_node 5007 disconnect
+disconnect_node 5009 disconnect
+collapsed_nodes {}
+disconnect_node 5014 disconnect
+autolink_nodes 5001 5007 satelite elaboration-additional  5019
+collapsed_nodes {5007}
+autolink_nodes 5019 5009 satelite elaboration-additional  5020
+autolink_nodes 5014 5016 satelite elaboration-additional  5021
+autolink_nodes 5020 5021 satelite elaboration-additional  5022
+collapsed_nodes {}
+disconnect_node 6 disconnect
+autolink_nodes 5004 6 satelite-embedded attribution-e  5023
+change_rel 18 elaboration-object-attribute-e
+#disconnect_node 5016 disconnect
+#UNDID
+change_rel 18 elaboration-object-attribute-e
+disconnect_node 5021 disconnect
+autolink_nodes 5020 5021 satelite elaboration-additional  5024
+disconnect_node 6 disconnect
+autolink_nodes 7 6 satelite attribution  5025

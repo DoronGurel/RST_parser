@@ -1,0 +1,19 @@
+nextSentence really
+create-a-node-here really 2.151 1 {\nRandolph W. McElroy, a vice chairman of this bank-holding company, was named to the additional position of chairman of its principal unit, Sovran Bank.}
+nextSentence really
+create-a-node-here really 3.89 2 {\nMr. McElroy, 54 years old, will remain president and chief executive officer of the unit.}
+nextSentence really
+autolink_nodes 1 2 satelite elaboration-additional  5001
+create-a-node-here really 4.84 3 {\nSovran also named John B. Werner a vice chairman of the parent company and the unit }
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+create-a-node-here really 4.178 4 {and elected him to the newly created position of chief credit officer of Sovran Financial, }
+autolink_nodes 3 4 multinuclear List  5003
+create-a-node-here really 4.236 5 {increasing the number of corporate board members to 35.}
+nextSentence really
+autolink_nodes 4 5 satelite result  5004
+create-a-node-here really 5.96 6 {\nMr. Werner, 58, was formerly senior executive vice president of the parent company and the unit.}
+nextSentence really
+autolink_nodes 5003 6 satelite elaboration-additional  5005
+collapsed_nodes {5002}
+nextSentence really
+collapsed_nodes {}

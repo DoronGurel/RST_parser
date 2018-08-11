@@ -1,0 +1,163 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.132 1 {\nThe following were among Friday's offerings and pricings in the U.S. and non-U.S. capital markets, with terms and syndicate manager,}
+create-a-node-here really 2.184 2 { as compiled by Dow Jones Capital Markets Report:}
+#autolink_nodes 1 2 satelite circumstance  5001
+#UNDID
+autolink_nodes 1 2 satelite attribution  5001
+create-a-node-here really 4.19 3 { \n\nDow Chemical Co. --}
+create-a-node-here really 4.76 4 { $150 million of 8.55% senior notes due Oct. 15, 2009,}
+create-a-node-here really 4.94 5 { priced at par.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 5.10 6 {\nThe issue,}
+create-a-node-here really 5.76 7 { which is puttable back to the company at par on Oct. 15, 1999,}
+create-a-node-here really 5.156 8 { was priced at a spread of 50 basis points above the Treasury's 10-year note.}
+nextSentence really
+#autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5003
+#autolink_nodes 5003 8 multinuclear Same-Unit  5004
+#autolink_nodes 5002 5004 satelite elaboration-additional  5005
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 6 7 satelite-embedded elaboration-additional-e  5003
+autolink_nodes 8 5003 multinuclear Same-Unit  5004
+autolink_nodes 5002 5004 satelite elaboration-additional  5005
+create-a-node-here really 6.91 9 {\nRated single-A-1 by Moody's Investors Service Inc. and single-A by Standard & Poor's Corp.,}
+create-a-node-here really 6.151 10 { the non-callable issue will be sold through underwriters}
+create-a-node-here really 6.193 11 { led by Merrill Lynch Capital Markets.}
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5006 9 satelite circumstance  5007
+autolink_nodes 5005 5007 satelite elaboration-additional  5008
+autolink_nodes 3 5008 satelite elaboration-general-specific  5009
+collapsed_nodes {5008}
+create-a-node-here really 8.23 12 { \n\nCentel Capital Corp. --}
+create-a-node-here really 8.76 13 { $150 million of 9% debentures due Oct. 15, 2019,}
+nextSentence really
+create-a-node-here really 8.97 14 { priced at 99.943}
+create-a-node-here really 8.118 15 { to yield 9.008%.}
+nextSentence really
+autolink_nodes 14 15 satelite purpose  5010
+autolink_nodes 13 5010 satelite-embedded elaboration-object-attribute-e  5011
+create-a-node-here really 9.23 16 {\nThe non-callable issue,}
+create-a-node-here really 9.73 17 { which can be put back to the company in 1999,}
+create-a-node-here really 9.142 18 { was priced at 99 basis points above the Treasury's 10-year note.}
+nextSentence really
+#autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5012
+#UNDID
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5012
+autolink_nodes 18 5012 multinuclear Same-Unit  5013
+autolink_nodes 5011 5013 satelite elaboration-additional  5014
+create-a-node-here really 10.48 19 {\nRated Baa-1 by Moody's and triple-B-plus by S&P,}
+create-a-node-here really 10.96 20 { the issue will be sold through underwriters}
+create-a-node-here really 10.128 21 { led by Morgan Stanley & Co.}
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 5015 19 satelite circumstance  5016
+autolink_nodes 5014 5016 satelite elaboration-additional  5017
+autolink_nodes 12 5017 satelite elaboration-general-specific  5018
+collapsed_nodes {5008 5017}
+create-a-node-here really 12.35 22 { \n\nFederal Home Loan Mortgage Corp. --}
+create-a-node-here really 12.81 23 { $500 million of Remic mortgage securities}
+create-a-node-here really 12.143 24 { offered in 13 classes by Prudential-Bache Securities Inc.}
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5019
+create-a-node-here really 13.25 25 {\nThe offering, Series 102,}
+create-a-node-here really 13.135 26 { backed by Freddie Mac 8 1/2% securities with a weighted average remaining term to maturity of 28.4 years,}
+create-a-node-here really 13.187 27 { was priced before the market's afternoon surge.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 27 5020 multinuclear Same-Unit  5021
+create-a-node-here really 14.13 28 {\nAmong classes}
+create-a-node-here really 14.51 29 { for which details were available,}
+nextSentence really
+create-a-node-here really 14.190 30 { yields ranged from 8.78%, or 75 basis points over two-year Treasury securities, to 10.05%, or 200 basis points over 10-year Treasurys.}
+nextSentence really
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 30 5022 multinuclear Same-Unit  5023
+autolink_nodes 5019 5021 satelite elaboration-additional  5024
+autolink_nodes 5024 5023 satelite elaboration-additional  5025
+autolink_nodes 22 5025 satelite elaboration-general-specific  5026
+collapsed_nodes {5008 5017 5025}
+create-a-node-here really 16.35 31 { \n\nFederal Home Loan Mortgage Corp. --}
+create-a-node-here really 16.81 32 { $300 million of Remic mortgage securities}
+create-a-node-here really 16.129 33 { offered by Citicorp Securities Markets Inc.}
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5027
+create-a-node-here really 17.69 34 {\nThe offering, Series 101, is backed by Freddie Mac 9 1/2% securities.}
+nextSentence really
+autolink_nodes 5027 34 satelite elaboration-additional  5028
+create-a-node-here really 18.46 35 {\nPricing details weren't immediately available.}
+nextSentence really
+autolink_nodes 5028 35 satelite elaboration-additional  5029
+autolink_nodes 31 5029 satelite elaboration-general-specific  5030
+collapsed_nodes {5008 5017 5025 5029}
+create-a-node-here really 20.35 36 { \n\nFederal Home Loan Mortgage Corp. --}
+create-a-node-here really 20.85 37 { $200 million of stripped mortgage securities }
+create-a-node-here really 20.124 38 {underwritten by BT Securities Corp.}
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5031
+create-a-node-here really 21.32 39 {\nThe agency's first strips issue,}
+create-a-node-here really 21.80 40 { collateralized by Freddie Mac 8% securities}
+create-a-node-here really 21.115 41 { pooled into a single security }
+create-a-node-here really 21.134 42 {called a Giant,}
+create-a-node-here really 21.204 43 { will be divided into interest-only and principal-only securities.}
+nextSentence really
+#autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5032
+#autolink_nodes 40 5032 satelite-embedded elaboration-object-attribute-e  5033
+#autolink_nodes 39 5033 satelite-embedded elaboration-object-attribute-e  5034
+#autolink_nodes 43 5034 multinuclear Same-Unit  5035
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 41 42 satelite-embedded elaboration-additional-e  5032
+autolink_nodes 40 5032 satelite-embedded elaboration-object-attribute-e  5033
+autolink_nodes 39 5033 satelite-embedded elaboration-object-attribute-e  5034
+autolink_nodes 43 5034 multinuclear Same-Unit  5035
+autolink_nodes 5031 5035 satelite elaboration-additional  5036
+create-a-node-here really 22.53 44 {\nThe collateral is being sold by a thrift institution.}
+autolink_nodes 5035 44 satelite elaboration-additional  5037
+create-a-node-here really 23.103 45 {\nThe principal-only securities will be repackaged by BT Securities into a Freddie Mac Remic, Series 103,}
+create-a-node-here really 23.135 46 { that will have six classes.}
+nextSentence really
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5038
+create-a-node-here really 24.70 47 {\nThe interest-only securities will be sold separately by BT Securities.}
+nextSentence really
+autolink_nodes 5038 47 multinuclear List  5039
+create-a-node-here really 25.94 48 {\nThe principal-only securities pay the principal from the underlying Freddie Mac 8% securities,}
+create-a-node-here really 25.152 49 { while the interest-only securities pay only interest.}
+nextSentence really
+change_rel 47 Contrast
+autolink_nodes 48 49 multinuclear Contrast  5040
+autolink_nodes 5039 5040 satelite elaboration-additional  5041
+autolink_nodes 5037 5041 satelite elaboration-additional  5042
+create-a-node-here really 26.16 50 {\nFreddie Mac said}
+create-a-node-here really 26.72 51 { the principal-only securities were priced at 58 1/4}
+create-a-node-here really 26.92 52 { to yield 8.45%,}
+create-a-node-here really 26.179 53 { assuming an average life of eight years and a prepayment of 160% of the PSA model.}
+nextSentence really
+autolink_nodes 51 52 satelite purpose  5043
+autolink_nodes 5043 53 satelite condition  5044
+autolink_nodes 50 5044 nucleus attribution  5045
+nextSentence really
+create-a-node-here really 27.51 54 {\nThe interest-only securities were priced at 35 1/2 }
+create-a-node-here really 27.71 55 {to yield 10.72%.}
+nextSentence really
+autolink_nodes 54 55 satelite purpose  5046
+autolink_nodes 5045 5046 multinuclear Contrast  5047
+autolink_nodes 5041 5047 satelite elaboration-additional  5048
+autolink_nodes 36 5036 satelite elaboration-general-specific  5049
+collapsed_nodes {5008 5017 5025 5029 5036}
+collapsed_nodes {5008 5017 5025 5029}
+collapsed_nodes {5008 5017 5025 5029 5036}
+autolink_nodes 5018 5009 multinuclear List  5050
+autolink_nodes 5050 5026 multinuclear List below 5050
+autolink_nodes 5050 5030 multinuclear List below 5050
+autolink_nodes 5050 5049 multinuclear List below 5050
+#autolink_nodes 5001 5050 satelite elaboration-set-member  5051
+#UNDID
+autolink_nodes 5001 5050 satelite-embedded elaboration-set-member-e  5051
+create-a-node-here really 29.72 56 { \n\nThere were no major Eurobond or foreign bond offerings in Europe Friday.}
+autolink_nodes 5051 56 satelite elaboration-additional  5052
+collapsed_nodes {5017 5025 5029 5036}
+collapsed_nodes {5025 5029 5036}
+collapsed_nodes {5029 5036}
+collapsed_nodes {5036}
+collapsed_nodes {}

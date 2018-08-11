@@ -1,0 +1,18 @@
+nextSentence really
+create-a-node-here really 2.128 1 {\nDavid Shaffer was named to the new post of executive vice president of the Maxwell Macmillan group of this communications giant.}
+nextSentence really
+create-a-node-here really 3.89 2 {\nMr. Shaffer takes primary responsibility for the electronic and technical-services group.}
+nextSentence really
+create-a-node-here really 4.68 3 {\nHe had been group vice president of the electronic-publishing group.}
+nextSentence really
+create-a-node-here really 5.164 4 {\nAlso, Sheldon Aboff, formerly a vice president at Maxwell, was named group vice president with responsibility for various electronic and publishing-group companies.}
+nextSentence really
+autolink_nodes 1 2 satelite elaboration-additional  5001
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+autolink_nodes 5002 4 multinuclear List  5003
+#create-a-node-here really 6.0 5 { \n}
+#nextSentence really
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID

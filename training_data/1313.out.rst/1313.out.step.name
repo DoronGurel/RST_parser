@@ -1,0 +1,119 @@
+nextSentence really
+create-a-node-here really 2.18 1 {\nThe Mouth is back.}
+nextSentence really
+create-a-node-here really 4.18 2 { \n\nMorton Downey Jr.,}
+create-a-node-here really 4.62 3 { who self-destructed as a talk-show host }
+create-a-node-here really 4.107 4 {and frequently verbally abused his guests,}
+create-a-node-here really 4.227 5 { has been signed to co-host a half-hour nightly program on the Consumer News and Business Channel, the cable channel }
+create-a-node-here really 4.300 6 {partly owned by the General Electric Co. 's National Broadcasting Co. }
+showText really
+create-a-node-here really 6.143 7 {\n\nThe premiere of "Showdown," with Mr. Downey and Richard G. Carter, a columnist with the New York Daily News, is scheduled for Dec. 4 at 8 p.m. }
+create-a-node-here really 6.196 8 {CNBC is available to 13 million cable households. }
+create-a-node-here really 8.16 9 {\n\nMr. Downey said }
+create-a-node-here really 8.56 10 {he is not going to change his style, }
+create-a-node-here really 8.66 11 {which }
+create-a-node-here really 8.88 12 {some critics said }
+create-a-node-here really 8.107 13 {was flamboyant }
+create-a-node-here really 8.139 14 {and others deemed offensive.}
+create-a-node-here really 8.192 15 { "But I'm going to proceed in a more logical way.}
+create-a-node-here really 9.29 16 {\nI'm not going to do anything }
+create-a-node-here really 10.0 17 {that is not acceptable in anyone's home.\n}
+create-a-node-here really 10.55 18 {But that doesn't mean I'm not going to get angry." }
+autolink_nodes 12 13 nucleus attribution  5001
+autolink_nodes 14 5001 multinuclear List  5002
+autolink_nodes 5002 11 multinuclear Same-Unit above 5003
+autolink_nodes 10 5003 satelite-embedded elaboration-additional-e  5004
+autolink_nodes 3 4 multinuclear List  5005
+autolink_nodes 2 5005 satelite-embedded elaboration-additional-e  5006
+autolink_nodes 5 5006 multinuclear Same-Unit  5007
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5008
+autolink_nodes 5004 9 satelite attribution  5009
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5010
+create-a-node-here really 12.42 19 {\n\nMichael Eskridge, president of CNBC, said }
+autolink_nodes 8 7 multinuclear List  5011
+autolink_nodes 5007 5011 satelite elaboration-additional  5012
+autolink_nodes 18 5010 satelite concession  5013
+#autolink_nodes 15 5013 satelite antithesis  5014
+#UNDID
+autolink_nodes 15 5013 satelite antithesis  5014
+autolink_nodes 5009 5014 satelite concession  5015
+collapsed_nodes {5014}
+create-a-node-here really 12.50 20 {that}
+create-a-node-here really 12.96 21 { although there will be a studio audience,}
+create-a-node-here really 12.175 22 { viewers will no longer have to endure the shouting of "Mort! Mort! Mort!" }
+create-a-node-here really 12.285 23 {But just how does Mr. Downey's unorthodox style mesh with the sedate tone of CNBC's business programming? }
+create-a-node-here really 14.57 24 {\n\n"Ninety percent of Mort's old show fits into our style," }
+create-a-node-here really 14.80 25 {said Mr. Eskridge. }
+create-a-node-here really 14.111 26 {"That is consumer issues." }
+create-a-node-here really 16.51 27 {\n\nMr. Downey's previous show, a one-hour shout fest, }
+create-a-node-here really 16.78 28 {syndciated by MCA Inc. }
+create-a-node-here really 16.118 29 {and produced by Quantum Media Inc., }
+create-a-node-here really 16.143 30 {was canceled in July }
+create-a-node-here really 16.192 31 {after advertisers and stations abandoned it. }
+autolink_nodes 22 21 satelite concession  5016
+autolink_nodes 5016 20 multinuclear Same-Unit  5017
+autolink_nodes 5017 19 satelite attribution  5018
+autolink_nodes 24 25 satelite attribution  5019
+autolink_nodes 29 28 multinuclear List  5020
+autolink_nodes 27 5020 satelite-embedded elaboration-additional-e  5021
+autolink_nodes 30 5021 multinuclear Same-Unit  5022
+#autolink_nodes 31 5022 multinuclear Cause-Result  5023
+#UNDID
+autolink_nodes 5022 31 satelite result  5023
+autolink_nodes 5019 26 satelite elaboration-general-specific  5024
+autolink_nodes 5024 23 multinuclear Question-Answer  5025
+autolink_nodes 5012 1 satelite evaluation-s  5026
+autolink_nodes 5026 5015 satelite elaboration-additional  5027
+collapsed_nodes {}
+collapsed_nodes {5014}
+autolink_nodes 5015 5018 satelite elaboration-additional  5028
+collapsed_nodes {5014 5018}
+autolink_nodes 5028 5025 satelite interpretation-s  5029
+collapsed_nodes {5014 5018 5025}
+collapsed_nodes {5014 5018 5025 5003}
+collapsed_nodes {5014 5018 5025 5003 5011}
+collapsed_nodes {5014 5018 5025 5003 5011 5029}
+autolink_nodes 5027 5023 satelite background  5030
+collapsed_nodes {5014 5018 5025 5003 5011 5029 5023}
+collapsed_nodes {5014 5018 5025 5003 5029 5023}
+collapsed_nodes {5023}
+#disconnect_node 5014 disconnect
+#autolink_nodes 5009 5014 multinuclear Contrast  5031
+#UNDID
+#UNDID
+disconnect_node 5014 disconnect
+autolink_nodes 5009 5014 multinuclear Contrast  5031
+collapsed_nodes {5023}
+disconnect_node 5025 disconnect
+disconnect_node 5018 disconnect
+disconnect_node 5031 disconnect
+#disconnect_node 5014 disconnect
+#UNDID
+disconnect_node 1 disconnect
+disconnect_node 5011 disconnect
+disconnect_node 5008 disconnect
+disconnect_node 5014 disconnect
+disconnect_node 5023 disconnect
+autolink_nodes 5008 5006 multinuclear Same-Unit  5032
+autolink_nodes 5032 1 satelite evaluation-s  5033
+autolink_nodes 5014 5009 multinuclear Contrast  5034
+#autolink_nodes 5011 5034 satelite elaboration-set-member  5035
+#collapsed_nodes {5023 5034}
+#UNDID
+autolink_nodes 5011 5034 satelite elaboration-additional  5035
+collapsed_nodes {5023 5034}
+autolink_nodes 5035 5018 satelite elaboration-additional  5036
+disconnect_node 26 disconnect
+autolink_nodes 5019 26 satelite result  5037
+autolink_nodes 5036 5025 satelite topic-shift  5038
+autolink_nodes 5036 5025 satelite topic-shift  5039
+#autolink_nodes 5038 5033 satelite problem-solution-s  5040
+#UNDID
+#autolink_nodes 5038 5033 nucleus summary-n  5040
+#UNDID
+#autolink_nodes 5038 5033 nucleus summary-s  5040
+#UNDID
+autolink_nodes 5038 5033 nucleus summary-n  5040
+collapsed_nodes {5023}
+collapsed_nodes {}
+autolink_nodes 5037 5023 satelite background  5041

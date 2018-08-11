@@ -1,0 +1,119 @@
+nextSentence really
+create-a-node-here really 2.27 1 {\nBank of New England Corp., }
+create-a-node-here really 2.123 2 {seeking to streamline its business after a year of weak earnings and mounting loan problems, }
+create-a-node-here really 2.131 3 {said }
+autolink_nodes 2 3 nucleus-embedded reason-e  5001
+autolink_nodes 1 5001 multinuclear Same-Unit  5002
+disconnect_node 2 modify
+autolink_nodes 3 2 satelite-embedded purpose-e  5003
+create-a-node-here really 2.163 4 {it will sell some operations }
+create-a-node-here really 2.199 5 {and lay off 4% of its work force.}
+nextSentence really
+autolink_nodes 4 5 multinuclear List  5004
+autolink_nodes 5002 5004 nucleus attribution  5005
+create-a-node-here really 4.39 6 { \n\nThe bank holding company also reported }
+nextSentence really
+nextSentence really
+create-a-node-here really 4.174 7 {that third-quarter profit dropped 41%, to $42.7 million, or 61 cents a share, from the year-earlier $72.3 million, or $1.04 a share.}
+nextSentence really
+autolink_nodes 6 7 nucleus attribution  5006
+autolink_nodes 5005 5006 satelite explanation-argumentative  5007
+create-a-node-here really 6.51 8 { \n\nAmong its restructuring measures, the company said }
+create-a-node-here really 6.129 9 {it plans to sell 53 of its 453 branch offices and to lay off 800 employees.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5008
+autolink_nodes 5007 5008 satelite elaboration-general-specific  5009
+create-a-node-here really 7.105 10 {\nAltogether, employment is expected to decline to less than 16,000 from the current level of about 18,000.}
+nextSentence really
+autolink_nodes 5009 10 satelite evaluation-s  5010
+create-a-node-here really 9.48 11 { \n\nWalter Connolly, chairman, said in an interview }
+create-a-node-here really 9.217 12 {that the company expects to record pretax gains of $100 million to $125 million from the sale of its leasing operations and of certain financial processing services.}
+nextSentence really
+autolink_nodes 11 12 nucleus attribution  5011
+disconnect_node 10 disconnect
+autolink_nodes 5008 10 satelite evaluation-s  5012
+autolink_nodes 10 5011 multinuclear List  5013
+create-a-node-here really 10.42 13 {\nIn a prepared statement, the company said }
+create-a-node-here really 10.96 14 {it expects to realize those gains before year end.}
+nextSentence really
+autolink_nodes 13 14 nucleus attribution  5014
+autolink_nodes 5011 5014 satelite elaboration-additional  5015
+create-a-node-here really 12.65 15 { \n\nNonperforming assets continued to pile up in the latest quarter, }
+create-a-node-here really 12.185 16 {rising to $900 million, or 3.52% of loans and leases, from $667 million, or 2.68%, at the end of the second quarter.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-general-specific-e  5016
+create-a-node-here really 13.98 17 {\nSome $170 million of the $233 million increase in nonperforming loans was related to real estate, }
+create-a-node-here really 13.176 18 {and roughly three-quarters of that was in the troubled New England market,}
+autolink_nodes 17 18 satelite elaboration-additional  5017
+create-a-node-here really 13.226 19 { according to Richard Driscoll, vice chairman.}
+nextSentence really
+autolink_nodes 5017 19 satelite attribution  5018
+autolink_nodes 5016 5018 multinuclear List  5019
+autolink_nodes 5009 5019 satelite elaboration-additional  5020
+create-a-node-here really 15.18 20 { \n\nMr. Driscoll said }
+create-a-node-here really 15.28 21 {that, }
+create-a-node-here really 15.95 22 {despite continued weakness in the region's real estate market, }
+create-a-node-here really 15.199 23 {Bank of New England expects the rate of increase in nonperforming assets to slow in coming quarters.}
+nextSentence really
+autolink_nodes 22 23 nucleus-embedded concession-e  5021
+autolink_nodes 21 5021 multinuclear Same-Unit  5022
+autolink_nodes 20 5022 nucleus attribution  5023
+create-a-node-here really 16.19 24 {\nMr. Connolly noted }
+create-a-node-here really 16.136 25 {that net third-quarter charge-offs, at $63 million, improved slightly from the $67 million in the second quarter.}
+nextSentence really
+autolink_nodes 24 25 nucleus attribution  5024
+create-a-node-here really 17.17 26 {\nAnd he indicated }
+create-a-node-here really 17.98 27 {that more substantial improvement is expected in the next couple of quarters.}
+nextSentence really
+autolink_nodes 26 27 nucleus attribution  5025
+autolink_nodes 5024 5025 satelite elaboration-additional  5026
+autolink_nodes 5023 5026 satelite evidence  5027
+autolink_nodes 5020 5027 satelite antithesis  5028
+create-a-node-here really 19.111 28 { \n\nThe company increased its loan loss reserve to $354 million from $342 million at the end of the second quarter.}
+nextSentence really
+nextSentence really
+create-a-node-here really 20.70 29 {\nTotal assets slipped to $31.4 billion, from $32 billion as of June 30.}
+nextSentence really
+autolink_nodes 28 29 multinuclear List  5029
+create-a-node-here really 22.50 30 { \n\nAmong other restructuring measures, the bank said }
+create-a-node-here really 22.134 31 {it will close its loan production offices in Chicago, New York and Philadelphia.}
+nextSentence really
+autolink_nodes 30 31 nucleus attribution  5030
+autolink_nodes 5029 5030 nucleus circumstance  5031
+create-a-node-here really 23.81 32 {\nThe Chicago office figured prominently in the bank's problems earlier this year, }
+create-a-node-here really 23.161 33 {when $65 million in loans to Chicago businessman William Stoecker went sour.}
+nextSentence really
+autolink_nodes 32 33 multinuclear Consequence  5032
+autolink_nodes 5031 5032 satelite elaboration-additional  5033
+autolink_nodes 5028 5033 multinuclear List  5034
+create-a-node-here really 26.63 34 { \n\nIn an internal memorandum to employees, Messrs.\nConnolly and Driscoll described the restructuring as an effort }
+create-a-node-here really 26.104 35 {to continue rationalizing operations }
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5035
+create-a-node-here really 26.170 36 {assembled during a series of mergers over the past five years.}
+nextSentence really
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5036
+autolink_nodes 5034 5035 satelite interpretation-s  5037
+disconnect_node 5026 modify
+autolink_nodes 5023 5026 satelite explanation-argumentative  5038
+disconnect_node 5025 disconnect
+autolink_nodes 5038 5025 multinuclear List  5039
+disconnect_node 5039 disconnect
+autolink_nodes 5019 5039 satelite antithesis  5040
+disconnect_node 5039 disconnect
+autolink_nodes 5019 5039 nucleus antithesis  5041
+disconnect_node 5024 modify
+autolink_nodes 5023 5024 multinuclear List  5042
+disconnect_node 5025 disconnect
+autolink_nodes 5024 5025 satelite elaboration-additional  5043
+disconnect_node 5032 modify
+autolink_nodes 5030 5032 satelite consequence-n below 5044
+disconnect_node 33 modify
+autolink_nodes 32 33 satelite circumstance  5045
+disconnect_node 5045 modify
+autolink_nodes 5030 5045 satelite explanation-argumentative below 5046
+disconnect_node 5031 disconnect
+disconnect_node 5041 disconnect
+autolink_nodes 5012 5041 satelite evaluation-s  5047
+disconnect_node 5035 disconnect
+autolink_nodes 5047 5031 multinuclear List  5048
+autolink_nodes 5009 5035 satelite comment  5049

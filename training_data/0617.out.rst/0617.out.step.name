@@ -1,0 +1,530 @@
+nextSentence really
+create-a-node-here really 2.85 1 {\nGeneral Motors Corp. 's general counsel hopes to cut the number of outside law firms }
+create-a-node-here really 2.108 2 {the auto maker uses }
+create-a-node-here really 2.150 3 {from about 700 to 200 within two years.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 4.17 4 { \n\nHarry J. Pearce, }
+create-a-node-here really 4.55 5 {named general counsel in May 1987, }
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5003
+create-a-node-here really 4.63 6 {says }
+autolink_nodes 5003 6 multinuclear Same-Unit  5004
+create-a-node-here really 4.119 7 {the reduction is a cost-cutting measure and an effort}
+autolink_nodes 5004 7 nucleus attribution  5005
+create-a-node-here really 4.206 8 { to let the No. 1 auto maker's 134-lawyer in-house legal department take on matters }
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e below 5006
+create-a-node-here really 4.253 9 {it is better equipped and trained to handle.}
+nextSentence really
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 5002 5005 satelite reason  5008
+create-a-node-here really 5.64 10 {\nGM trimmed about 40 firms from its approved local counsel list, }
+create-a-node-here really 5.84 11 {Mr. Pearce says.}
+nextSentence really
+autolink_nodes 10 11 satelite attribution  5009
+autolink_nodes 5008 5009 satelite elaboration-general-specific  5010
+disconnect_node 5009 modify
+autolink_nodes 5008 5009 satelite means  5011
+create-a-node-here really 7.36 12 { \n\nThe move is consistent with a trend }
+create-a-node-here really 7.93 13 {for corporate legal staffs to do more work in-house, }
+create-a-node-here really 7.136 14 {instead of farming it out to law firms.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 13 14 multinuclear Contrast  5013
+autolink_nodes 5011 5012 satelite explanation-argumentative  5014
+create-a-node-here really 8.149 15 {\nMr. Pearce set up GM's first in-house litigation group in May with four lawyers, all former assistant U.S. attorneys with extensive trial experience.}
+nextSentence really
+autolink_nodes 5014 15 satelite enablement  5015
+disconnect_node 5009 modify
+autolink_nodes 5008 5009 satelite means below 5016
+create-a-node-here really 9.42 16 {\nHe intends to add to the litigation staff.}
+nextSentence really
+autolink_nodes 15 16 satelite elaboration-additional  5017
+create-a-node-here really 10.25 17 {\nAmong the types of cases }
+create-a-node-here really 10.60 18 {the in-house litigators handle }
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5018
+create-a-node-here really 10.77 19 {are disputes }
+autolink_nodes 5018 19 multinuclear Same-Unit  5019
+create-a-node-here really 10.101 20 {involving companies }
+create-a-node-here really 10.156 21 {doing business with GM and product-related actions,}
+#autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5020
+#autolink_nodes 19 5020 satelite-embedded elaboration-object-attribute-e  5021
+#UNDID
+#autolink_nodes 19 5020 satelite-embedded elaboration-object-attribute-e  5021
+#UNDID
+#UNDID
+#autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5020
+#UNDID
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5021
+create-a-node-here really 10.175 22 { including one }
+autolink_nodes 5021 22 satelite-embedded elaboration-general-specific-e  5022
+create-a-node-here really 10.221 23 {in which a driver is suing GM for damages }
+create-a-node-here really 10.253 24 {resulting from an accident. }
+autolink_nodes 23 24 satelite-embedded result-e  5023
+autolink_nodes 22 5023 satelite-embedded elaboration-object-attribute-e  5024
+disconnect_node 5024 modify
+autolink_nodes 5021 5024 satelite-embedded example-e  5025
+create-a-node-here really 12.89 25 {\n\nMr. Pearce has also encouraged his staff to work more closely with GM's technical staffs }
+create-a-node-here really 12.127 26 {to help prevent future litigation.}
+nextSentence really
+autolink_nodes 25 26 satelite purpose  5026
+autolink_nodes 5017 5019 satelite elaboration-additional  5027
+autolink_nodes 5027 5026 multinuclear List  5028
+create-a-node-here really 13.46 27 {\nGM lawyers have been working with technicians }
+create-a-node-here really 13.93 28 {to develop more uniform welding procedures }
+autolink_nodes 27 28 satelite question-answer-s  5029
+create-a-node-here really 13.108 29 {-- the way }
+create-a-node-here really 13.132 30 {a vehicle is welded }
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5030
+create-a-node-here really 13.172 31 {has a lot to do with its durability.}
+nextSentence really
+autolink_nodes 5030 31 multinuclear Same-Unit  5031
+autolink_nodes 5029 5031 satelite explanation-argumentative  5032
+disconnect_node 28 modify
+autolink_nodes 27 28 satelite purpose below 5033
+create-a-node-here really 14.30 32 {\nThe lawyers also monitor suits}
+create-a-node-here really 14.73 33 { to identify specific automobile parts }
+autolink_nodes 32 33 satelite purpose  5034
+create-a-node-here really 14.115 34 {that cause the biggest legal problems.}
+nextSentence really
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5035
+autolink_nodes 5032 5034 multinuclear List  5036
+autolink_nodes 5026 5036 satelite consequence-s  5037
+create-a-node-here really 16.16 35 { \n\nMr. Pearce says }
+create-a-node-here really 16.51 36 {law firms with the best chance }
+create-a-node-here really 16.96 37 {of retaining or winning business with GM }
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5038
+create-a-node-here really 16.114 38 {will be those }
+autolink_nodes 5038 38 multinuclear Same-Unit  5039
+autolink_nodes 35 5039 nucleus attribution  5040
+create-a-node-here really 16.173 39 {providing the highest-quality service at the best cost }
+autolink_nodes 38 39 satelite-embedded elaboration-object-attribute-e  5041
+create-a-node-here really 16.247 40 {-- echoing similar directives from GM's auto operations to suppliers. }
+autolink_nodes 5040 40 satelite comment  5042
+create-a-node-here really 18.62 41 {\n\nThis doesn't necessarily mean larger firms have an advantage; }
+disconnect_node 40 modify
+autolink_nodes 5040 40 satelite restatement  5043
+autolink_nodes 5015 5043 satelite comment  5044
+create-a-node-here really 18.82 42 {Mr. Pearce said }
+create-a-node-here really 18.125 43 {GM works with a number of smaller firms}
+autolink_nodes 42 43 nucleus attribution  5045
+create-a-node-here really 18.148 44 { it regards highly.}
+nextSentence really
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e below 5046
+#autolink_nodes 41 5045 satelite explanation-argumentative  5047
+#UNDID
+autolink_nodes 41 5045 satelite explanation-argumentative  5047
+autolink_nodes 5043 5047 satelite interpretation-s  5048
+create-a-node-here really 19.41 45 {\nMr. Pearce has shaken up GM's legal staff}
+create-a-node-here really 19.72 46 { by eliminating all titles }
+create-a-node-here really 19.116 47 {and establishing several new functions, }
+autolink_nodes 46 47 multinuclear List  5049
+autolink_nodes 45 5049 satelite means  5050
+create-a-node-here really 19.155 48 {including a special-projects group }
+create-a-node-here really 19.208 49 {that has made films on safety and drunk driving. }
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5051
+autolink_nodes 47 5051 satelite-embedded elaboration-general-specific-e  5052
+autolink_nodes 5044 5050 satelite interpretation-s  5053
+create-a-node-here really 21.68 50 {\n\nFEDERAL PROSECUTORS are concluding fewer criminal cases with trials.}
+nextSentence really
+create-a-node-here really 23.96 51 { \n\nThat's a finding of a new study of the Justice Department by researchers at Syracuse University.}
+nextSentence really
+create-a-node-here really 24.40 52 {\nDavid Burnham, one of the authors, says }
+create-a-node-here really 24.106 53 {fewer trials probably means a growing number of plea bargains.}
+nextSentence really
+#autolink_nodes 50 50 schema Title  5053
+#autolink_nodes 52 53 nucleus attribution  5054
+#UNDID
+#UNDID
+#autolink_nodes 50 53 satelite attribution  5054
+#autolink_nodes 51 5054 multinuclear attribution  5055
+#UNDID
+#UNDID
+autolink_nodes 50 51 satelite attribution  5054
+autolink_nodes 52 53 nucleus attribution  5055
+autolink_nodes 5054 5055 satelite conclusion  5056
+create-a-node-here really 25.57 54 {\nIn 1980, 18% of federal prosecutions concluded at trial; }
+create-a-node-here really 25.83 55 {in 1987, only 9% did. }
+autolink_nodes 54 55 multinuclear Comparison  5057
+autolink_nodes 5055 5057 satelite evidence  5058
+create-a-node-here really 27.51 56 {\n\nThe study covered 11 major U.S. attorneys' offices }
+create-a-node-here really 27.125 57 {-- including those in Manhattan and Brooklyn, N.Y., and New Jersey -- }
+autolink_nodes 56 57 satelite-embedded elaboration-set-member-e  5059
+create-a-node-here really 27.147 58 {from 1980 to 1987.}
+nextSentence really
+autolink_nodes 5059 58 multinuclear Same-Unit  5060
+autolink_nodes 5056 5060 satelite background  5061
+create-a-node-here really 29.48 59 { \n\nThe Justice Department rejected the implication }
+create-a-node-here really 29.116 60 {that its prosecutors are currently more willing to plea bargain.}
+nextSentence really
+autolink_nodes 59 60 nucleus attribution  5062
+autolink_nodes 5061 5062 satelite antithesis  5063
+create-a-node-here really 29.179 61 { "Our felony caseloads have been consistent for 20 years," }
+autolink_nodes 5062 61 satelite explanation-argumentative  5064
+create-a-node-here really 29.233 62 {with about 15% of all prosecutions going to trial,}
+autolink_nodes 61 62 satelite manner  5065
+create-a-node-here really 29.268 63 { a department spokeswoman said.}
+nextSentence really
+autolink_nodes 5065 63 satelite attribution  5066
+create-a-node-here really 30.77 64 {\nThe discrepancy is somewhat perplexing in that the Syracuse researchers said }
+create-a-node-here really 30.135 65 {they based their conclusions on government statistics.}
+nextSentence really
+autolink_nodes 64 65 nucleus attribution  5067
+#autolink_nodes 5063 5067 satelite comment  5068
+#UNDID
+autolink_nodes 5063 5067 satelite comment  5068
+create-a-node-here really 32.44 66 { \n\n"One possible explanation for this decline" }
+create-a-node-here really 32.74 67 {in taking cases to trial, }
+autolink_nodes 66 67 satelite-embedded elaboration-object-attribute-e  5069
+create-a-node-here really 32.96 68 {says Mr. Burnham, }
+autolink_nodes 5069 68 satelite-embedded attribution-e  5070
+#create-a-node-here really 32.139 69 {"is that the number of defendants being}
+#create-a-node-here really 32.186 70 { charged with crimes by all U.S. attorneys }
+#UNDID
+#UNDID
+create-a-node-here really 32.134 69 {"is that the number of defendants }
+create-a-node-here really 32.186 70 {being charged with crimes by all U.S. attorneys }
+autolink_nodes 69 70 satelite-embedded elaboration-object-attribute-e  5071
+#autolink_nodes 69 70 multinuclear elaboration-object-attribute-e  5072
+#create-a-node-here really 32.220 71 {has substantially increased." }
+#UNDID
+#UNDID
+create-a-node-here really 32.220 71 {has substantially increased." }
+autolink_nodes 5071 71 multinuclear Same-Unit  5072
+#autolink_nodes 5070 5072 multinuclear Same-Unit  5073
+#UNDID
+disconnect_node 71 disconnect
+autolink_nodes 5070 5071 multinuclear Same-Unit  5073
+autolink_nodes 5073 71 multinuclear Same-Unit below 5073
+autolink_nodes 5068 5073 satelite explanation-argumentative  5074
+create-a-node-here really 34.9 72 {\n\nIn 1980, }
+create-a-node-here really 34.29 73 {the study says, }
+autolink_nodes 72 73 satelite-embedded attribution-e  5075
+create-a-node-here really 34.114 74 {prosecutors surveyed filed charges against 25 defendants for each 100,000 people }
+create-a-node-here really 34.142 75 {aged 18 years and older.}
+nextSentence really
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e  5076
+autolink_nodes 5075 5076 multinuclear Same-Unit  5077
+create-a-node-here really 35.74 76 {\nIn 1987, prosecutors filed against 35 defendants for every 100,000 adults.}
+nextSentence really
+autolink_nodes 5077 76 multinuclear Comparison above 5078
+autolink_nodes 5073 5078 satelite evidence  5079
+create-a-node-here really 37.32 77 { \n\nAnother finding from the study: }
+create-a-node-here really 37.87 78 {Prosecutors set significantly different priorities.}
+nextSentence really
+autolink_nodes 77 78 satelite elaboration-general-specific  5080
+create-a-node-here really 38.80 79 {\nThe Manhattan U.S. attorney's office stressed criminal cases from 1980 to 1987, }
+create-a-node-here really 38.122 80 {averaging 43 for every 100,000 adults.}
+nextSentence really
+nextSentence really
+autolink_nodes 79 80 satelite evaluation-s  5081
+#autolink_nodes 79 80 satelite evaluation-s  5082
+#create-a-node-here really 40.0 81 {\nBut the New Jersey U.S. attorney averaged 16.\n}
+#UNDID
+#UNDID
+create-a-node-here really 40.0 81 {\nBut the New Jersey U.S. attorney averaged 16.\n}
+autolink_nodes 5081 81 multinuclear Contrast  5082
+create-a-node-here really 40.130 82 {On the civil side, the Manhattan prosecutor filed an average of only 11 cases for every 100,000 adults during the same period;}
+create-a-node-here really 40.180 83 { the San Francisco U.S. attorney averaged 79. }
+autolink_nodes 82 83 multinuclear Contrast  5083
+autolink_nodes 5082 5083 multinuclear List above 5084
+autolink_nodes 78 5084 satelite evidence  5085
+create-a-node-here really 42.72 84 {\n\nThe study is to provide reporters, academic experts and others raw data }
+create-a-node-here really 42.111 85 {on which to base further inquiries.}
+nextSentence really
+autolink_nodes 84 85 satelite-embedded elaboration-object-attribute-e  5086
+#autolink_nodes 5074 5086 satelite purpose  5087
+#UNDID
+autolink_nodes 5074 5080 multinuclear List  5087
+#autolink_nodes 5087 5086 satelite purpose  5088
+#UNDID
+autolink_nodes 5087 5086 satelite purpose  5088
+autolink_nodes 5053 5088 multinuclear Topic-Shift  5089
+create-a-node-here really 44.33 86 { \n\nIMELDA MARCOS asks for dismissal,}
+#create-a-node-here really 44.62 87 { says she was kidnapped. }
+#UNDID
+create-a-node-here really 44.43 87 { says }
+#create-a-node-here really 44.64 88 {she was kidnapped}
+#UNDID
+create-a-node-here really 45.0 88 {she was kidnapped. \n}
+autolink_nodes 87 88 nucleus attribution  5090
+autolink_nodes 86 5090 multinuclear List  5091
+create-a-node-here really 46.115 89 {\nThe former first lady of the Philippines, asked a federal court in Manhattan to dismiss an indictment against her, }
+create-a-node-here really 46.148 90 {claiming among other things, }
+create-a-node-here really 46.192 91 {that she was abducted from her homeland.}
+nextSentence really
+collapsed_nodes {}
+collapsed_nodes {}
+autolink_nodes 90 91 nucleus attribution  5092
+autolink_nodes 89 5092 satelite explanation-argumentative  5093
+autolink_nodes 5091 5093 satelite summary-n  5094
+create-a-node-here really 47.254 92 {\nMrs. Marcos and her late husband, former Philippines President Ferdinand Marcos, were charged with embezzling more than $100 million from that country and then fraudulently concealing much of the money through purchases of prime real estate in Manhattan.}
+nextSentence really
+autolink_nodes 5094 92 satelite circumstance  5095
+create-a-node-here really 49.129 93 { \n\nMrs. Marcos's attorneys asked federal Judge John F. Keenan to give them access to all U.S. documents about her alleged abduction.}
+nextSentence really
+create-a-node-here really 50.41 94 {\nThe U.S. attorney's office, in documents }
+create-a-node-here really 50.67 95 {it filed in response, }
+autolink_nodes 94 95 satelite-embedded elaboration-object-attribute-e  5096
+create-a-node-here really 50.76 96 {said }
+create-a-node-here really 50.117 97 {Mrs. Marcos was making the "fanciful }
+create-a-node-here really 50.153 98 {-- and factually unsupported -- }
+autolink_nodes 97 98 satelite-embedded elaboration-additional-e  5097
+create-a-node-here really 50.163 99 {claim }
+autolink_nodes 5097 99 multinuclear Same-Unit  5098
+autolink_nodes 5096 96 multinuclear Same-Unit  5099
+create-a-node-here really 50.209 100 {that she was kidnapped into this country" }
+create-a-node-here really 50.265 101 {in order to obtain classified material in the case.}
+nextSentence really
+autolink_nodes 100 101 satelite purpose  5100
+#autolink_nodes 99 5100 satelite-embedded elaboration-object-attribute-e  5101
+#UNDID
+autolink_nodes 99 5100 satelite-embedded elaboration-object-attribute-e  5101
+autolink_nodes 5099 5098 nucleus attribution  5102
+autolink_nodes 93 5102 satelite interpretation-s  5103
+autolink_nodes 5095 5103 satelite elaboration-additional  5104
+create-a-node-here really 51.21 102 {\nThe office also said }
+create-a-node-here really 51.101 103 {Mrs. Marcos and her husband weren't brought to the U.S. against their will }
+create-a-node-here really 52.0 104 {after Mr. Marcos was ousted as president.\n}
+autolink_nodes 103 104 satelite temporal-after  5105
+autolink_nodes 102 5105 nucleus attribution  5106
+create-a-node-here really 52.56 105 {The prosecutor quoted statements from the Marcoses }
+#create-a-node-here really 52.84 106 {in which they said they}
+#autolink_nodes 105 106 satelite-embedded elaboration-object-attribute-e  5107
+#UNDID
+#UNDID
+create-a-node-here really 52.80 106 {in which they said }
+autolink_nodes 105 106 satelite-embedded elaboration-object-attribute-e  5107
+create-a-node-here really 52.148 107 {they were in this country at the invitation of President Reagan}
+create-a-node-here really 52.210 108 { and that they were enjoying the hospitality of the U.S. }
+autolink_nodes 107 108 multinuclear List  5108
+autolink_nodes 106 5108 nucleus attribution  5109
+autolink_nodes 5106 5107 satelite evidence  5110
+autolink_nodes 5104 5110 satelite elaboration-additional  5111
+create-a-node-here really 54.28 109 {\n\nLawyers for Mrs. Marcos say }
+create-a-node-here really 54.38 110 {that }
+create-a-node-here really 54.97 111 {because she was taken to the U.S. against her wishes, }
+autolink_nodes 110 111 satelite-embedded circumstance-e  5112
+create-a-node-here really 54.151 112 {the federal court lacks jurisdiction in the case.}
+nextSentence really
+autolink_nodes 5112 112 multinuclear Same-Unit  5113
+autolink_nodes 109 5113 nucleus attribution  5114
+autolink_nodes 5110 5114 multinuclear Contrast  5115
+autolink_nodes 5089 5111 multinuclear Topic-Shift below 5115
+create-a-node-here really 56.48 113 { \n\nTHE FEDERAL COURT of appeals in Manhattan ruled }
+create-a-node-here really 57.0 114 {that the dismissal of a 1980 indictment against former Bank of Crete owner George Koskotas should be reconsidered.\n}
+autolink_nodes 113 114 nucleus attribution  5116
+create-a-node-here really 57.21 115 {The indictment, }
+create-a-node-here really 57.43 116 {which was sealed }
+create-a-node-here really 57.102 117 {and apparently forgotten by investigators until 1987, }
+autolink_nodes 116 117 multinuclear List  5117
+autolink_nodes 115 5117 satelite-embedded elaboration-additional-e  5118
+create-a-node-here really 57.181 118 {charges Mr. Koskotas and three others with tax fraud and other violations.}
+nextSentence really
+autolink_nodes 5118 118 multinuclear Same-Unit  5119
+#autolink_nodes 114 5119 satelite elaboration-general-specific above 5119
+#UNDID
+autolink_nodes 5116 5119 satelite elaboration-general-specific  5120
+create-a-node-here really 58.55 119 {\nHe made numerous trips to the U.S. in the early 1980s, }
+create-a-node-here really 58.91 120 {but wasn't arrested until 1987 }
+autolink_nodes 119 120 nucleus antithesis  5121
+create-a-node-here really 59.0 121 {when he showed up as a guest of then-Vice President George Bush at a government function.\n}
+autolink_nodes 120 121 satelite temporal-same-time below 5122
+disconnect_node 121 modify
+autolink_nodes 120 121 satelite circumstance below 5123
+autolink_nodes 5120 5121 satelite elaboration-additional  5124
+create-a-node-here really 59.60 122 {A federal judge in Manhattan threw out the indictment, }
+create-a-node-here really 59.73 123 {finding }
+create-a-node-here really 59.168 124 {that the seven-year delay violated the defendant's constitutional right to a speedy trial.}
+nextSentence really
+autolink_nodes 123 124 nucleus attribution  5125
+autolink_nodes 122 5125 satelite reason  5126
+create-a-node-here really 60.33 125 {\nThe appeals court, however, said }
+create-a-node-here really 60.75 126 {the judge didn't adequately consider }
+autolink_nodes 125 126 nucleus attribution  5127
+create-a-node-here really 60.146 127 {whether the delay would actually hurt the chances of a fair trial.}
+nextSentence really
+autolink_nodes 126 127 nucleus attribution-n  5128
+autolink_nodes 5126 5127 multinuclear Contrast  5129
+disconnect_node 5121 disconnect
+autolink_nodes 5126 5121 satelite background  5130
+autolink_nodes 5120 5129 satelite elaboration-additional  5131
+disconnect_node 5129 modify
+autolink_nodes 5120 5129 satelite explanation-argumentative  5132
+create-a-node-here really 61.49 128 {\nMr. Koskotas is fighting extradition proceedings }
+create-a-node-here really 61.86 129 {that would return him to Greece,}
+autolink_nodes 128 129 satelite-embedded elaboration-object-attribute-e  5133
+create-a-node-here really 61.174 130 { where he is charged with embezzling more than $250 million from the Bank of Crete.}
+nextSentence really
+#autolink_nodes 5133 130 satelite elaboration-general-specific  5134
+#UNDID
+autolink_nodes 5133 130 satelite elaboration-general-specific  5134
+autolink_nodes 5132 5134 multinuclear Temporal-Same-Time  5135
+create-a-node-here really 62.46 131 {\nHis attorney couldn't be reached for comment. }
+autolink_nodes 5135 131 satelite elaboration-additional  5136
+autolink_nodes 5089 5136 multinuclear Topic-Shift below 5136
+create-a-node-here really 64.22 132 {\n\nPRO BONO VOLUNTARISM: }
+autolink_nodes 132 132 schema Title  5136
+create-a-node-here really 64.40 133 {In an effort }
+#create-a-node-here really 64.60 134 {to stave off a }
+#UNDID
+create-a-node-here really 64.65 134 {to stave off a plan }
+autolink_nodes 133 134 satelite-embedded elaboration-object-attribute-e  5137
+create-a-node-here really 64.169 135 {that would require all lawyers in New York state to provide twenty hours of free legal aid a year, }
+autolink_nodes 134 135 satelite-embedded elaboration-object-attribute-e  5138
+create-a-node-here really 64.223 136 {the state bar recommended an alternative program }
+autolink_nodes 5137 136 multinuclear Same-Unit  5139
+create-a-node-here really 64.285 137 {to increase voluntary participation in pro bono programs.}
+nextSentence really
+autolink_nodes 136 137 satelite-embedded elaboration-object-attribute-e  5140
+#create-a-node-here really 65.231 138 {\nThe state bar association's policy making body, the House of Delegate, voted Saturday to ask Chief Judge Sol Wachtler to give the bar's voluntary program three years to prove its effectiveness before considering mandatory pro bono.}
+#nextSentence really
+#create-a-node-here really 65.648 139 { "We believe our suggested plan is more likely to improve the availability of quality legal service to the poor than is the proposed mandatory pro bono plan and will achieve that objective without the divisiveness, distraction, administrative burdens and possible failure that we fear would accompany an attempt to impose a mandatory plan," said Justin L. Vigdor of Rochester, who headed the bar's pro bono study}
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 65.193 138 {\nThe state bar association's policy making body, the House of Delegate, voted Saturday to ask Chief Judge Sol Wachtler to give the bar's voluntary program three years to prove its effectiveness }
+autolink_nodes 5139 138 satelite elaboration-additional  5141
+create-a-node-here really 65.237 139 {before considering mandatory pro bono. }
+autolink_nodes 138 139 satelite temporal-before  5142
+create-a-node-here really 65.254 140 {"We believe }
+create-a-node-here really 65.358 141 {our suggested plan is more likely to improve the availability of quality legal service to the poor }
+create-a-node-here really 65.408 142 {than is the proposed mandatory pro bono plan }
+autolink_nodes 141 142 multinuclear Comparison  5143
+#create-a-node-here really 65.528 143 {and will achieve that objective without the divisiveness, distraction, administrative burdens and possible failure }
+#UNDID
+create-a-node-here really 65.445 143 {and will achieve that objective }
+autolink_nodes 5143 143 multinuclear List above 5144
+create-a-node-here really 65.533 144 {without the divisiveness, distraction, administrative burdens and possible failure }
+autolink_nodes 143 144 satelite manner  5145
+create-a-node-here really 65.543 145 {that }
+create-a-node-here really 65.556 146 {we fear }
+autolink_nodes 145 146 satelite-embedded attribution-e  5146
+create-a-node-here really 65.588 147 {would accompany an attempt }
+autolink_nodes 5146 147 multinuclear Same-Unit  5147
+create-a-node-here really 65.622 148 {to impose a mandatory plan," }
+autolink_nodes 147 148 satelite-embedded elaboration-object-attribute-e  5148
+autolink_nodes 144 5147 satelite-embedded elaboration-object-attribute-e  5149
+autolink_nodes 140 5144 nucleus attribution  5150
+create-a-node-here really 65.663 149 {said Justin L. Vigdor of Rochester, }
+autolink_nodes 5150 149 satelite attribution  5151
+create-a-node-here really 65.714 150 {who headed the bar's pro bono study committee.}
+nextSentence really
+autolink_nodes 149 150 satelite-embedded elaboration-additional-e  5152
+autolink_nodes 5141 5151 satelite evaluation-s  5153
+autolink_nodes 5153 5153 schema Text  5153
+autolink_nodes 132 5153 multinuclear TextualOrganization  5154
+autolink_nodes 5089 5154 multinuclear Topic-Shift below 5154
+create-a-node-here really 67.36 151 { \n\nDALLAS AND HOUSTON law firms merge: }
+autolink_nodes 151 151 schema Title  5154
+create-a-node-here really 67.143 152 {Jackson & Walker, a 130-lawyer firm in Dallas and Datson & Scofield, a 70-lawyer firm in Houston said }
+create-a-node-here really 67.187 153 {they have agreed in principle to merge.}
+nextSentence really
+autolink_nodes 152 153 nucleus attribution  5155
+create-a-node-here really 68.23 154 {\nThe consolidated firm, }
+create-a-node-here really 68.76 155 {which would rank among the 10 largest in Texas, }
+autolink_nodes 154 155 satelite-embedded elaboration-additional-e  5156
+create-a-node-here really 68.127 156 {would operate under the name Jackson & Walker.}
+nextSentence really
+autolink_nodes 5156 156 multinuclear Same-Unit  5157
+autolink_nodes 5155 5157 satelite consequence-s  5158
+create-a-node-here really 69.67 157 {\nThe merger must be formally approved by the partners of both firms }
+#create-a-node-here really 69.112 158 {but is expected to be completed by year }
+#autolink_nodes 157 158 nucleus antithesis  5159
+#UNDID
+#UNDID
+create-a-node-here really 70.0 158 {but is expected to be completed by year end.\n}
+autolink_nodes 157 158 nucleus antithesis  5159
+autolink_nodes 5158 5159 satelite elaboration-additional  5160
+create-a-node-here really 70.58 159 {Jackson & Walker has an office in Fort Worth, Texas, }
+#create-a-node-here really 70.113 160 {and Dotson & Scofield has an office in New Orleans}
+#autolink_nodes 159 160 multinuclear List  5161
+#autolink_nodes 5160 5161 satelite elaboration-additional  5162
+#disconnect_node 5161 modify
+#autolink_nodes 5160 5161 satelite background  5163
+#UNDID
+#UNDID
+#autolink_nodes 5162 5162 schema Text  5162
+#autolink_nodes 151 5162 multinuclear TextualOrganization  5163
+#autolink_nodes 5089 5163 multinuclear Topic-Shift below 5163
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 70.114 160 {and Dotson & Scofield has an office in New Orleans.}
+nextSentence really
+autolink_nodes 159 160 multinuclear List  5161
+autolink_nodes 5160 5161 satelite elaboration-additional  5162
+autolink_nodes 5162 5162 schema Text  5162
+autolink_nodes 151 5162 multinuclear TextualOrganization  5163
+autolink_nodes 5089 5163 multinuclear Topic-Shift below 5163
+create-a-node-here really 72.10 161 { \n\nPILING ON?}
+nextSentence really
+autolink_nodes 161 161 schema Title  5163
+create-a-node-here really 73.38 162 {\nPiggybacking on government assertions }
+create-a-node-here really 73.126 163 {that General Electric Co. may have covered up fraudulent billings to the Pentagon, }
+create-a-node-here really 73.205 164 {two shareholders have filed a civil racketeering suit against the company.}
+nextSentence really
+autolink_nodes 162 163 satelite-embedded elaboration-object-attribute-e  5164
+autolink_nodes 5164 164 nucleus circumstance  5165
+create-a-node-here really 74.113 165 {\nThe suit was filed by plaintiffs' securities lawyer Richard D. Greenfield in U.S. District Court in Philadelphia.}
+nextSentence really
+autolink_nodes 5165 165 satelite elaboration-additional  5166
+create-a-node-here really 75.60 166 {\nHe seeks damages from the company's 15 directors on grounds }
+nextSentence really
+nextSentence really
+nextSentence really
+#create-a-node-here really 75.133 167 {that they either "participated in or condoned the illegal acts . . .}
+#UNDID
+create-a-node-here really 75.134 167 {that they either "participated in or condoned the illegal acts . . . }
+create-a-node-here really 75.198 168 {or utterly failed to carry out their duties as directors." }
+autolink_nodes 167 168 multinuclear Disjunction  5167
+autolink_nodes 166 5167 satelite-embedded elaboration-object-attribute-e  5168
+autolink_nodes 5166 5168 satelite elaboration-general-specific  5169
+create-a-node-here really 75.350 169 {GE is defending itself against government criminal charges of fraud and false claims in connection with a logistics-computer contract for the Army.}
+nextSentence really
+autolink_nodes 5169 169 satelite background  5170
+create-a-node-here really 76.56 170 {\nThe trial begins today in federal court in Philadelphia.}
+nextSentence really
+autolink_nodes 5170 170 satelite elaboration-additional  5171
+create-a-node-here really 77.86 171 {\nThe government's assertions of the cover-up were made in last minute pretrial motions.}
+nextSentence really
+#autolink_nodes 5171 171 satelite comment  5172
+#UNDID
+autolink_nodes 5171 171 satelite elaboration-additional  5172
+create-a-node-here really 78.4 172 {\nGE, }
+#create-a-node-here really 78.61 173 {which vehemently denies the government's allegations}
+#create-a-node-here really 78.155 174 {, denounced Mr. Greenfield's suit. "It is a cheap-shot suit -- procedurally defective and}
+#UNDID
+#UNDID
+create-a-node-here really 78.63 173 {which vehemently denies the government's allegations, }
+autolink_nodes 172 173 satelite-embedded elaboration-additional-e  5173
+create-a-node-here really 78.101 174 {denounced Mr. Greenfield's suit. }
+autolink_nodes 5173 174 multinuclear Same-Unit  5174
+autolink_nodes 5172 5174 multinuclear Contrast  5175
+create-a-node-here really 78.131 175 {"It is a cheap-shot suit }
+create-a-node-here really 78.191 176 {-- procedurally defective and thoroughly fallacious -- }
+autolink_nodes 175 176 satelite-embedded elaboration-additional-e  5176
+create-a-node-here really 78.250 177 {which was hurriedly filed by a contingency-fee lawyer }
+autolink_nodes 5176 177 satelite-embedded elaboration-object-attribute-e  5177
+create-a-node-here really 78.290 178 {as a result of newspaper reports," }
+autolink_nodes 177 178 satelite result  5178
+create-a-node-here really 78.317 179 {said a GE spokeswoman.}
+nextSentence really
+autolink_nodes 5177 179 satelite attribution  5179
+autolink_nodes 5174 5179 satelite elaboration-general-specific  5180
+create-a-node-here really 79.10 180 {\nShe added }
+nextSentence really
+create-a-node-here really 79.90 181 {that the company was considering bringing sanctions against Mr. Greenfield }
+autolink_nodes 180 181 nucleus attribution  5181
+create-a-node-here really 79.156 182 {for making "grossly inaccurate and unsupported allegations." }
+autolink_nodes 181 182 satelite circumstance below 5182
+disconnect_node 182 modify
+autolink_nodes 181 182 satelite reason below 5183
+autolink_nodes 5179 5181 satelite elaboration-additional  5184
+autolink_nodes 5175 5175 schema Text  5184
+autolink_nodes 161 5175 multinuclear TextualOrganization  5185
+autolink_nodes 5089 5185 multinuclear Topic-Shift below 5185

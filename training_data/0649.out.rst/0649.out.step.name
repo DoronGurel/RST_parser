@@ -1,0 +1,61 @@
+nextSentence really
+create-a-node-here really 2.25 1 {\nSharp Corp., Tokyo, said }
+nextSentence really
+create-a-node-here really 2.87 2 {net income in its first half rose 59% to 18.32 billion yen }
+nextSentence really
+create-a-node-here really 2.107 3 {($128.9 million) }
+nextSentence really
+create-a-node-here really 2.148 4 {from 11.53 billion yen a year earlier.}
+nextSentence really
+create-a-node-here really 4.82 5 { \n\nThe consumer electronics, home appliances and information-processing concern said }
+create-a-node-here really 4.111 6 {revenue in the six months }
+create-a-node-here really 4.129 7 {ended Sept. 30 }
+nextSentence really
+nextSentence really
+create-a-node-here really 4.187 8 {rose 8.9% to 517.85 billion yen from 475.6 billion yen.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 6.129 9 { \n\nSales of information-processing products and electric parts increased a strong 22% to 236.23 billion yen from 194.24 billion yen }
+create-a-node-here really 6.169 10 {and accounted for 46% of total sales.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 2 3 satelite restatement below 5002
+autolink_nodes 5002 4 multinuclear Comparison  5003
+autolink_nodes 5 6 nucleus attribution  5004
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e below 5005
+autolink_nodes 5005 8 multinuclear Same-Unit  5006
+nextSentence really
+create-a-node-here really 8.78 11 { \n\nIn audio equipment, sales rose 13% to 44.3 billion yen from 39.19 billion yen.}
+nextSentence really
+create-a-node-here really 9.40 12 {\nSales of electric appliances were flat, }
+create-a-node-here really 9.96 13 {and sales of electronic equipment declined slightly.}
+nextSentence really
+create-a-node-here really 11.43 14 { \n\nSharp projected sales for the current year }
+create-a-node-here really 11.62 15 {ending March 31}
+create-a-node-here really 11.127 16 { at 1.6 trillion yen, a 7% increase the previous fiscal year.}
+nextSentence really
+create-a-node-here really 12.8 17 {\nIt said }
+create-a-node-here really 12.58 18 {it expects net to rise 45% to 380 billion yen.}
+nextSentence really
+autolink_nodes 9 10 satelite consequence-s  5007
+autolink_nodes 5007 11 multinuclear List  5008
+#autolink_nodes 5008 12 multinuclear List above 5009
+#UNDID
+#autolink_nodes 5008 12 multinuclear List above 5009
+#UNDID
+#autolink_nodes 12 5008 multinuclear List  5009
+#UNDID
+autolink_nodes 5008 12 multinuclear List below 5008
+autolink_nodes 5008 13 multinuclear List below 5008
+autolink_nodes 5004 5008 satelite elaboration-additional  5009
+autolink_nodes 5001 5009 satelite elaboration-additional  5010
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 5011 16 nucleus attribution  5012
+autolink_nodes 17 18 nucleus attribution  5013
+autolink_nodes 5012 5013 multinuclear List  5014
+autolink_nodes 5008 5014 satelite elaboration-additional  5015
+collapsed_nodes {5010}
+collapsed_nodes {}
+collapsed_nodes {5010}
+collapsed_nodes {}

@@ -1,0 +1,34 @@
+nextSentence really
+create-a-node-here really 2.40 1 {\nAmerican Telephone & Telegraph Co. said }
+create-a-node-here really 2.69 2 {it will spend $20 million }
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.115 3 {to build a factory in Guadalajara, Mexico, }
+autolink_nodes 2 3 satelite purpose below 5002
+create-a-node-here really 2.155 4 {to make telephone answering machines.}
+nextSentence really
+autolink_nodes 5002 4 satelite purpose below 5003
+create-a-node-here really 4.87 5 { \n\nConstruction of the 265,000-square-foot facility will begin next year, with production }
+create-a-node-here really 4.121 6 {expected to start in late 1991.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+create-a-node-here really 5.80 7 {\nWhen fully operational, the Guadalajara factory will employ about 1,500 workers }
+create-a-node-here really 5.146 8 {and have annual operating expenses of $5 million to $6 million.}
+nextSentence really
+autolink_nodes 7 8 multinuclear List  5005
+autolink_nodes 5004 5005 satelite elaboration-additional  5006
+autolink_nodes 5001 5006 satelite elaboration-general-specific  5007
+create-a-node-here really 7.28 9 { \n\nAn AT&T representative said }
+create-a-node-here really 7.104 10 {that the Guadalajara factory will make a full line of answering machines.}
+nextSentence really
+autolink_nodes 9 10 nucleus attribution  5008
+autolink_nodes 5005 5008 multinuclear List above 5009
+create-a-node-here really 8.49 11 {\nAT&T already has a factory in Matamoros, Mexico, }
+create-a-node-here really 8.80 12 {to make electrical devices.}
+nextSentence really
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5010
+create-a-node-here really 9.60 13 {\nIt also purchases data systems products from a manufacturer }
+create-a-node-here really 9.83 14 {based in Monterrey.}
+nextSentence really
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 5010 5011 multinuclear List  5012
+autolink_nodes 5007 5012 satelite elaboration-additional  5013

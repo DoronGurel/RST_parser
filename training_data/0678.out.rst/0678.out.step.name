@@ -1,0 +1,228 @@
+nextSentence really
+create-a-node-here really 2.109 1 {\nThe following U.S. Treasury, corporate and municipal offerings are tentatively scheduled for sale this week, }
+create-a-node-here really 2.159 2 {according to Dow Jones Capital Markets Report: }
+autolink_nodes 1 2 satelite attribution  5001
+nextSentence really
+create-a-node-here really 4.49 3 {\n\n$15.6 billion of three-month and six-month bills.}
+nextSentence really
+create-a-node-here really 4.96 4 { $2 billion of 51-day cash management bills.}
+nextSentence really
+autolink_nodes 3 4 multinuclear List  5002
+create-a-node-here really 6.32 5 { \n\nAssociated Natural Gas Corp. -- }
+#create-a-node-here really 8.26 6 {1.4 million common shares, via Dillon Read & Co. \n\nB & H Crude Carriers Ltd. }
+#create-a-node-here really 8.86 7 {-- Four million common shares, via Salomon Brothers Inc. }
+#UNDID
+#UNDID
+create-a-node-here really 6.83 6 {1.4 million common shares, via Dillon Read & Co.}
+autolink_nodes 5 6 satelite elaboration-general-specific  5003
+#create-a-node-here really 8.26 7 { \n\nB & H Crude Carriers Ltd. }
+#create-a-node-here really 8.86 8 {-- Four million common shares, via Salomon Brothers Inc. }
+#autolink_nodes 7 8 satelite elaboration-general-specific  5004
+#autolink_nodes 5003 5004 multinuclear List  5005
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 8.29 7 { \n\nB & H Crude Carriers Ltd. -- }
+create-a-node-here really 8.86 8 {Four million common shares, via Salomon Brothers Inc. }
+autolink_nodes 7 8 satelite elaboration-general-specific  5004
+autolink_nodes 5002 5003 multinuclear List below 5004
+autolink_nodes 5002 5004 multinuclear List below 5004
+create-a-node-here really 10.26 9 {\n\nChemical Banking Corp. -- }
+create-a-node-here really 10.80 10 {14 million common shares, via Goldman, Sachs & Co. }
+autolink_nodes 9 10 satelite elaboration-general-specific  5005
+autolink_nodes 5002 5005 multinuclear List below 5005
+create-a-node-here really 12.31 11 {\n\nChemex Pharmaceuticals Inc. -- }
+#create-a-node-here really 12.139 12 {1.2 million units consisting of two shares of common stock and one common warrant, via PaineWebber Inc. }
+#autolink_nodes 11 12 satelite elaboration-general-specific  5006
+#autolink_nodes 5002 5006 multinuclear List below 5006
+#create-a-node-here really 14.17 13 {\n\nComcast Corp. -- }
+#create-a-node-here really 14.93 14 {$150 million convertible debentures, via Merrill Lynch Capital Markets. }
+#autolink_nodes 13 14 satelite elaboration-general-specific  5007
+#autolink_nodes 5002 5007 multinuclear List below 5007
+#create-a-node-here really 16.22 15 {\n\nEnergy Service Co. -- }
+#nextSentence really
+#create-a-node-here really 17.18 16 {9.5 million common shares, via Alex.\nBrown & Sons Inc. }
+#autolink_nodes 15 16 satelite elaboration-general-specific  5008
+#autolink_nodes 5002 5008 multinuclear List below 5008
+#create-a-node-here really 19.25 17 {\n\nHarmonia Bancorp Inc. -- }
+#create-a-node-here really 19.86 18 {4,750,000 common shares, via Shearson Lehman Hutton Inc. }
+#autolink_nodes 17 18 satelite elaboration-general-specific  5009
+#autolink_nodes 5002 5009 multinuclear List below 5009
+#create-a-node-here really 21.21 19 {\n\nHealthsource Inc. -- }
+#create-a-node-here really 22.0 20 {Two million common shares, via Kidder, Peabody & Co. \n}
+#autolink_nodes 19 20 satelite elaboration-general-specific  5010
+#autolink_nodes 5002 5010 multinuclear List below 5010
+#create-a-node-here really 23.25 21 {\nImmune Response Corp. -- }
+#create-a-node-here really 23.76 22 {Three million common shares, via Merrill Lynch.}
+#nextSentence really
+#autolink_nodes 21 22 satelite elaboration-general-specific  5011
+#autolink_nodes 5002 5011 multinuclear List below 5011
+#create-a-node-here really 25.31 23 { \n\nMarsam Pharmaceuticals Inc. -- }
+#create-a-node-here really 25.98 24 {1.3 million common shares, via Smith Barney Harris Upham & Co. }
+#autolink_nodes 23 24 satelite elaboration-general-specific  5012
+#autolink_nodes 5002 5012 multinuclear List below 5012
+#create-a-node-here really 27.37 25 {\n\nPotash Corp. of Saskatchewan Inc. -- }
+#create-a-node-here really 27.85 26 {13 million common shares, via Merrill Lynch.}
+#nextSentence really
+#autolink_nodes 25 26 satelite elaboration-general-specific  5013
+#UNDID
+#autolink_nodes 25 26 satelite elaboration-general-specific  5013
+#autolink_nodes 5002 5013 multinuclear List below 5013
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 12.53 12 {1.2 million units }
+create-a-node-here really 12.122 13 {consisting of two shares of common stock and one common warrant, }
+autolink_nodes 12 13 satelite-embedded elaboration-set-member-e  5006
+create-a-node-here really 12.147 14 {via PaineWebber Inc. }
+autolink_nodes 5006 14 multinuclear Same-Unit  5007
+autolink_nodes 11 5007 satelite elaboration-general-specific  5008
+autolink_nodes 5002 5008 multinuclear List below 5008
+disconnect_node 4 disconnect
+disconnect_node 3 disconnect
+autolink_nodes 3 4 multinuclear List  5009
+create-a-node-here really 14.17 15 {\n\nComcast Corp. -- }
+create-a-node-here really 14.93 16 {$150 million convertible debentures, via Merrill Lynch Capital Markets. }
+autolink_nodes 15 16 satelite elaboration-general-specific  5010
+autolink_nodes 5002 5010 multinuclear List below 5010
+create-a-node-here really 16.22 17 {\n\nEnergy Service Co. -- }
+nextSentence really
+create-a-node-here really 17.18 18 {9.5 million common shares, via Alex.\nBrown & Sons Inc. }
+autolink_nodes 17 18 satelite elaboration-general-specific  5011
+autolink_nodes 5002 5011 multinuclear List below 5011
+create-a-node-here really 19.25 19 {\n\nHarmonia Bancorp Inc. -- }
+create-a-node-here really 19.85 20 {4,750,000 common shares, via Shearson Lehman Hutton Inc.}
+autolink_nodes 19 20 satelite elaboration-general-specific  5012
+autolink_nodes 5002 5012 multinuclear List below 5012
+create-a-node-here really 21.21 21 { \n\nHealthsource Inc. -- }
+create-a-node-here really 21.78 22 {Two million common shares, via Kidder, Peabody & Co. }
+autolink_nodes 21 22 satelite elaboration-general-specific  5013
+autolink_nodes 5002 5013 multinuclear List below 5013
+create-a-node-here really 23.25 23 {\n\nImmune Response Corp. -- }
+create-a-node-here really 23.76 24 {Three million common shares, via Merrill Lynch.}
+nextSentence really
+autolink_nodes 23 24 satelite elaboration-general-specific  5014
+autolink_nodes 5002 5014 multinuclear List below 5014
+create-a-node-here really 25.31 25 { \n\nMarsam Pharmaceuticals Inc. -- }
+create-a-node-here really 25.97 26 {1.3 million common shares, via Smith Barney Harris Upham & Co.}
+autolink_nodes 25 26 satelite elaboration-general-specific  5015
+autolink_nodes 5002 5015 multinuclear List below 5015
+create-a-node-here really 27.37 27 { \n\nPotash Corp. of Saskatchewan Inc. -- }
+create-a-node-here really 27.85 28 {13 million common shares, via Merrill Lynch.}
+nextSentence really
+autolink_nodes 27 28 satelite elaboration-general-specific  5016
+autolink_nodes 5002 5016 multinuclear List below 5016
+autolink_nodes 5009 5002 multinuclear List above 5017
+create-a-node-here really 29.10 29 { \n\nMunicipal }
+autolink_nodes 29 29 schema SectionTitle  5017
+create-a-node-here really 31.41 30 {\n\nNew Jersey Wastewater Treatment Trust -- }
+create-a-node-here really 31.75 31 {$75,075,000 of various bonds, }
+nextSentence really
+create-a-node-here really 31.211 32 {including $40.86 million Wastewater Treatment insured bonds, Series 1989A, and $34,215,000 Wastewater Treatment bonds, Series 1989B,}
+autolink_nodes 31 32 satelite-embedded example-e  5018
+create-a-node-here really 31.236 33 { via competitive bid.}
+nextSentence really
+autolink_nodes 5018 33 multinuclear Same-Unit  5019
+autolink_nodes 30 5019 satelite elaboration-general-specific  5020
+nextSentence really
+create-a-node-here really 33.44 34 { \n\nEastern Municipal Water District, Calif. -- }
+create-a-node-here really 33.98 35 {$56,565,000 of 1989 certificates of participation }
+create-a-node-here really 33.130 36 {(treatment plant projects), }
+autolink_nodes 35 36 satelite-embedded elaboration-general-specific-e  5021
+create-a-node-here really 33.154 37 {via competitive bid.}
+nextSentence really
+autolink_nodes 5021 37 multinuclear Same-Unit  5022
+autolink_nodes 34 5022 satelite elaboration-general-specific  5023
+autolink_nodes 5020 5023 multinuclear List  5024
+create-a-node-here really 35.52 38 { \n\nCalifornia Health Facilities Financing Authority -- }
+create-a-node-here really 35.102 39 {$114 million of health facility revenue bonds }
+create-a-node-here really 35.134 40 {(Catholic Healthcare West), }
+autolink_nodes 39 40 satelite-embedded elaboration-general-specific-e  5025
+create-a-node-here really 35.183 41 {Series 1989A, via a First Boston Corp. group.}
+nextSentence really
+autolink_nodes 5025 41 multinuclear Same-Unit  5026
+autolink_nodes 38 5026 satelite elaboration-general-specific  5027
+autolink_nodes 5024 5027 multinuclear List below 5027
+create-a-node-here really 37.11 42 { \n\nDetroit -- }
+create-a-node-here really 37.99 43 {$130 million of distributable state aid bonds, via a Chemical Securities Inc. group.}
+nextSentence really
+autolink_nodes 42 43 satelite elaboration-general-specific  5028
+autolink_nodes 5024 5028 multinuclear List below 5028
+create-a-node-here really 39.98 44 { \n\nMaryland Community Development Administration, Department of Housing and Community Development -- }
+create-a-node-here really 39.197 45 {$80 million of single-family program bonds, 1989 4th and 5th Series, via a Merrill Lynch group.}
+nextSentence really
+autolink_nodes 44 45 satelite elaboration-general-specific  5029
+autolink_nodes 5024 5029 multinuclear List below 5029
+create-a-node-here really 41.53 46 { \n\nMatagorda County Navigation District No. 1, Texas -- }
+#create-a-node-here really 41.123 47 {$70,315,000 of pollution control revenue Alternative Minimum Tax (}
+#create-a-node-here really 41.132 48 {AMT) }
+#UNDID
+#UNDID
+create-a-node-here really 41.122 47 {$70,315,000 of pollution control revenue Alternative Minimum Tax }
+create-a-node-here really 41.132 48 {(AMT) }
+autolink_nodes 47 48 satelite-embedded restatement-e  5030
+create-a-node-here really 41.142 49 {bonds }
+autolink_nodes 5030 49 multinuclear Same-Unit  5031
+create-a-node-here really 41.187 50 {(South Texas Project Units No. 1 and 2), }
+autolink_nodes 5031 50 satelite-embedded elaboration-general-specific-e  5032
+create-a-node-here really 41.218 51 {via a Goldman Sachs group. }
+autolink_nodes 5032 51 multinuclear Same-Unit  5033
+autolink_nodes 46 5033 satelite elaboration-general-specific  5034
+autolink_nodes 5024 5034 multinuclear List below 5034
+create-a-node-here really 43.17 52 {\n\nNew York City -- }
+create-a-node-here really 43.72 53 {$786,860,000 of bonds, Fiscal 1990 Series C and D, }
+nextSentence really
+nextSentence really
+create-a-node-here really 43.153 54 {including $729.04 million tax-exempt bonds and $57.82 million taxable bonds, }
+autolink_nodes 53 54 satelite-embedded example-e  5035
+create-a-node-here really 43.183 55 {via a Goldman Sachs group.}
+nextSentence really
+autolink_nodes 5035 55 multinuclear Same-Unit  5036
+autolink_nodes 52 5036 satelite elaboration-general-specific  5037
+autolink_nodes 5024 5037 multinuclear List below 5037
+create-a-node-here really 45.34 56 { \n\nSanta Ana Redevelopment Agency -- }
+create-a-node-here really 45.150 57 {$107 million of tax allocation bonds, 1989 Series A-D, via a Donaldson Lufkin & Jenrette Securities Corp. group.}
+nextSentence really
+autolink_nodes 56 57 satelite elaboration-general-specific  5038
+autolink_nodes 5024 5038 multinuclear List below 5038
+create-a-node-here really 47.32 58 { \n\nPending Shelby County, Tenn. -- }
+create-a-node-here really 47.114 59 {$80 million of refunding bonds, Series 1989, via a First Tennessee Bank group.}
+nextSentence really
+autolink_nodes 58 59 satelite elaboration-general-specific  5039
+autolink_nodes 5024 5039 multinuclear List below 5039
+autolink_nodes 5024 5024 schema SectionText  5039
+autolink_nodes 29 5024 multinuclear TextualOrganization  5040
+autolink_nodes 5017 5040 multinuclear List below 5040
+autolink_nodes 5001 5017 satelite elaboration-set-member  5041

@@ -1,0 +1,280 @@
+nextSentence really
+create-a-node-here really 2.29 1 {\nWhittle Communications L.P., }
+create-a-node-here really 2.110 2 {which for months has fought a public relations battle with education leaders, }
+create-a-node-here really 2.118 3 {said }
+#create-a-node-here really 2.243 4 {it has signed 500 schools in 24 states to subscribe to the controversial Channel One news program and its sister programs.}
+#nextSentence really
+#autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+#autolink_nodes 3 5001 multinuclear Same-Unit  5002
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.243 4 {it has signed 500 schools in 24 states to subscribe to the controversial Channel One news program and its sister programs.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+autolink_nodes 3 5001 multinuclear Same-Unit  5002
+autolink_nodes 4 5002 satelite attribution  5003
+create-a-node-here really 4.49 5 { \n\nChannel One, a satellite-delivered daily program }
+create-a-node-here really 4.77 6 {supported by advertising,}
+create-a-node-here really 4.120 7 { is scheduled to be launched next March.}
+nextSentence really
+create-a-node-here really 5.13 8 {\nWhittle said }
+create-a-node-here really 5.105 9 {its field staff signed up the 500 schools in 238 school districts after only eight weeks }
+create-a-node-here really 5.216 10 {and company executives now expect to reach their start-up goal of 1,000 schools before the end of this year.}
+nextSentence really
+#autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+#UNDID
+#autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+#autolink_nodes 7 5004 multinuclear Same-Unit  5005
+#autolink_nodes 9 10 nucleus consequence-n  5006
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 7 5004 multinuclear Same-Unit  5005
+autolink_nodes 9 10 nucleus consequence-n  5006
+autolink_nodes 5006 8 satelite attribution  5007
+create-a-node-here really 7.69 11 { \n\nChristopher Whittle, chairman of the Knoxville, Tenn., media company }
+create-a-node-here really 7.112 12 {that is 50% owned by Time Warner Inc., }
+create-a-node-here really 7.121 13 {said }
+create-a-node-here really 7.252 14 {that by December 1990 he expects to have Channel One installed in about 8,000 schools with a potential audience of six million.}
+create-a-node-here really 8.31 15 {\nInstallation of the TV system, }
+create-a-node-here really 8.95 16 {which includes providing free 19-inch TV sets in classrooms,}
+create-a-node-here really 8.118 17 { begins in January.}
+nextSentence really
+autolink_nodes 11 12 satelite-embedded elaboration-additional-e  5008
+autolink_nodes 13 5008 multinuclear Same-Unit  5009
+autolink_nodes 14 5009 satelite attribution  5010
+autolink_nodes 15 16 satelite-embedded elaboration-additional-e  5011
+autolink_nodes 17 5011 multinuclear Same-Unit  5012
+autolink_nodes 5010 5007 satelite evidence  5013
+create-a-node-here really 10.38 18 { \n\n"What we've done in eight weeks shows }
+create-a-node-here really 10.78 19 {we won't have enormous difficulties }
+create-a-node-here really 10.103 20 {getting to the place }
+create-a-node-here really 10.123 21 {we want to be," }
+create-a-node-here really 10.144 22 {said Mr. Whittle.}
+nextSentence really
+create-a-node-here really 11.8 23 {\nHe said }
+create-a-node-here really 11.74 24 {his sales force is signing up schools at the rate of 25 a day.}
+nextSentence really
+disconnect_node 5007 disconnect
+autolink_nodes 5010 5007 satelite enablement  5014
+#autolink_nodes 20 21 satelite-embedded elaboration-general-specific-e  5015
+#UNDID
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 19 5015 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 5016 18 satelite attribution  5017
+autolink_nodes 5017 22 satelite attribution  5018
+autolink_nodes 24 23 satelite attribution  5019
+autolink_nodes 5010 5012 satelite elaboration-additional below 5020
+autolink_nodes 5019 5018 multinuclear List  5021
+collapsed_nodes {5017}
+autolink_nodes 5014 5021 satelite evidence  5022
+collapsed_nodes {5017 5021}
+collapsed_nodes {5017 5021 5009}
+collapsed_nodes {5017 5021 5009 5007}
+collapsed_nodes {5017 5021 5009}
+autolink_nodes 5022 5005 satelite background  5023
+collapsed_nodes {5017 5021 5009 5005}
+collapsed_nodes {5017 5021 5009 5005 5012}
+collapsed_nodes {5017 5021 5009 5005 5012 5007}
+create-a-node-here really 14.0 25 { \n\nIn California and New York, state officials have opposed Channel One.\n}
+create-a-node-here really 14.21 26 {Mr. Whittle said }
+create-a-node-here really 14.88 27 {private and parochial schools in both states will be canvassed }
+#create-a-node-here really 14.99 28 {to see }
+#create-a-node-here really 14.150 29 {if they are interested in getting the programs.}
+#nextSentence really
+#autolink_nodes 28 29 satelite condition  5024
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 14.146 28 {to see if they are interested in getting the programs.}
+nextSentence really
+autolink_nodes 27 28 satelite purpose  5024
+autolink_nodes 5024 26 satelite attribution  5025
+create-a-node-here really 16.69 29 { \n\nSubscribing schools get the 12-minute daily Channel One news program,}
+create-a-node-here really 16.154 30 { whose four 30-second TV ads during each show have drawn protests from educators.}
+nextSentence really
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5026
+create-a-node-here really 18.43 31 { \n\nSubscribers also get the Classroom Channel,}
+create-a-node-here really 18.131 32 { which will feature ad-free educational programming similar to some public-TV shows,}
+create-a-node-here really 18.164 33 { and the Educator's Channel, }
+create-a-node-here really 18.250 34 {which will offer instructional programming for teachers and school administrators }
+create-a-node-here really 18.291 35 {and will be supported by advertising.}
+nextSentence really
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e  5027
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5028
+autolink_nodes 34 35 multinuclear List  5029
+autolink_nodes 5028 5027 multinuclear Same-Unit  5030
+#autolink_nodes 5030 5026 multinuclear Same-Unit below 5030
+#UNDID
+autolink_nodes 5026 5030 multinuclear List  5031
+autolink_nodes 5025 25 multinuclear Cause-Result  5032
+create-a-node-here really 21.0 36 { \n\nWhittle has met some resistance.\n}
+create-a-node-here really 21.29 37 {The Educational Network, }
+create-a-node-here really 21.77 38 {as Mr. Whittle has named the three programs,}
+#create-a-node-here really 21.179 39 { has been offered to 1,290 school districts and Whittle continues to negotiate with 919 districts.}
+#nextSentence really
+#create-a-node-here really 22.71 40 {\nAbout 10% of the school districts approached have rejected the network.}
+#nextSentence really
+#autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5033
+#autolink_nodes 39 5033 multinuclear Same-Unit  5034
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 21.125 39 { has been offered to 1,290 school districts }
+create-a-node-here really 21.183 40 {and Whittle continues to negotiate with 919 districts.}
+nextSentence really
+create-a-node-here really 22.71 41 {\nAbout 10% of the school districts approached have rejected the network.}
+nextSentence really
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5033
+#autolink_nodes 39 5033 multinuclear Same-Unit  5034
+#autolink_nodes 39 40 satelite consequence-s  5035
+#UNDID
+#UNDID
+autolink_nodes 39 5033 multinuclear Same-Unit  5034
+autolink_nodes 39 40 multinuclear List  5035
+autolink_nodes 5035 41 multinuclear List below 5035
+create-a-node-here really 24.17 42 { \n\nMr. Whittle said }
+create-a-node-here really 24.59 43 {that so far, three of the six schools }
+create-a-node-here really 24.120 44 {that carried the program in a five-week test last spring }
+create-a-node-here really 24.155 45 {have subscribed to the program.}
+create-a-node-here really 25.81 46 {\nOne of the test schools, Withrow High School in Cincinnati, rejected the project.}
+nextSentence really
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5036
+autolink_nodes 45 5036 multinuclear Same-Unit  5037
+autolink_nodes 5037 42 satelite attribution  5038
+disconnect_node 41 disconnect
+create-a-node-here really 27.86 47 { \n\nJohn Bruner, associate director of communications for Cincinnati Public Schools, said }
+create-a-node-here really 27.115 48 {Channel One was rejected }
+create-a-node-here really 27.136 49 {because students }
+create-a-node-here really 27.161 50 {watching the program }
+create-a-node-here really 27.256 51 {didn't fare particularly better on a 28-question current events quiz than a control school }
+create-a-node-here really 27.280 52 {without the program }
+create-a-node-here really 27.344 53 {and school absences were almost unchanged during the period }
+create-a-node-here really 27.381 54 {when the program was being aired.}
+nextSentence really
+autolink_nodes 49 50 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 51 52 satelite manner  5040
+autolink_nodes 5040 5039 multinuclear Same-Unit  5041
+autolink_nodes 53 54 satelite circumstance  5042
+autolink_nodes 5042 5041 multinuclear List  5043
+#autolink_nodes 5043 48 multinuclear List below 5043
+#UNDID
+autolink_nodes 48 5043 multinuclear Cause-Result  5044
+autolink_nodes 5044 47 satelite attribution  5045
+create-a-node-here really 29.53 55 { \n\n"The number of correct responses was 45% on the test }
+create-a-node-here really 29.98 56 {and school absences didn't change much," }
+create-a-node-here really 29.119 57 {said Mr. Bruner. }
+create-a-node-here really 29.160 58 {"The pilot program was received well }
+create-a-node-here really 29.192 59 {(by teachers and students), }
+create-a-node-here really 29.238 60 {but there wasn't reason enough to sign up.}
+nextSentence really
+create-a-node-here really 30.59 61 {\nWe even invited the public to stop by and see the program, }
+create-a-node-here really 30.95 62 {but there wasn't much interest."}
+nextSentence really
+autolink_nodes 56 55 multinuclear List  5046
+autolink_nodes 5046 57 satelite attribution  5047
+autolink_nodes 58 59 satelite means  5048
+autolink_nodes 5048 60 nucleus concession  5049
+autolink_nodes 61 62 nucleus concession  5050
+#autolink_nodes 5049 5047 multinuclear List  5051
+#autolink_nodes 5051 5050 multinuclear List below 5051
+#collapsed_nodes {5017 5021 5009 5005 5012 5007 5050}
+#collapsed_nodes {5017 5021 5009 5005 5012 5007 5050 5049}
+#UNDID
+#UNDID
+disconnect_node 5043 disconnect
+autolink_nodes 5043 5047 satelite restatement  5051
+collapsed_nodes {5017 5021 5009 5005 5012 5007 5047}
+collapsed_nodes {5017 5021 5009 5005 5012 5007 5047 5048}
+collapsed_nodes {5017 5021 5009 5005 5012 5007 5047 5048 5042}
+autolink_nodes 5045 5051 satelite result  5052
+autolink_nodes 5051 5049 satelite elaboration-additional  5053
+autolink_nodes 5049 5050 multinuclear List  5054
+autolink_nodes 46 5052 satelite elaboration-general-specific  5055
+collapsed_nodes {5017 5021 5009 5005 5012 5007 5047 5048 5042 5052}
+collapsed_nodes {5009 5005 5012 5007 5047 5048 5042 5052}
+autolink_nodes 5021 5032 multinuclear List below 5055
+collapsed_nodes {5009 5005 5012 5007 5047 5048 5042 5052 5021}
+#autolink_nodes 36 5031 satelite background  5056
+#collapsed_nodes {5009 5005 5012 5007 5047 5048 5042 5052 5021 5031}
+#autolink_nodes 41 5038 satelite elaboration-general-specific  5057
+#UNDID
+#UNDID
+autolink_nodes 41 5034 multinuclear List  5056
+autolink_nodes 5038 5056 multinuclear List  5057
+autolink_nodes 5038 5055 satelite example  5058
+autolink_nodes 36 5057 satelite evidence  5059
+collapsed_nodes {5009 5005 5012 5007 5047 5048 5042 5052 5021 5057}
+autolink_nodes 5059 5031 satelite background  5060
+collapsed_nodes {5009 5005 5012 5007 5047 5048 5042 5052 5021 5057 5031}
+create-a-node-here really 33.0 63 { \n\nAdvertisers are showing interest.\n}
+create-a-node-here really 33.34 64 {Last month, Whittle announced }
+create-a-node-here really 33.122 65 {it had sold $150 million in advertising time on the network to national advertisers.}
+nextSentence really
+create-a-node-here really 34.24 66 {\nMr. Whittle Friday said }
+create-a-node-here really 34.69 67 {several more advertisers have been added.}
+nextSentence really
+create-a-node-here really 35.42 68 {\nWhittle is spending $150 million initially}
+create-a-node-here really 35.69 69 { to launch the network.}
+nextSentence really
+create-a-node-here really 36.113 70 {\nInstallation of satellite dishes, TVs and videocassette equipment will cost the company about $20,000 per school,}
+create-a-node-here really 36.135 71 { Mr. Whittle said.}
+nextSentence really
+autolink_nodes 65 64 satelite attribution  5061
+autolink_nodes 67 66 satelite attribution  5062
+autolink_nodes 68 69 satelite purpose  5063
+autolink_nodes 70 71 satelite attribution  5064
+autolink_nodes 5061 5062 multinuclear List  5065
+autolink_nodes 63 5065 satelite evidence  5066
+autolink_nodes 5063 5064 satelite elaboration-general-specific  5067
+collapsed_nodes {5009 5005 5012 5007 5047 5048 5042 5052 5021 5057 5031 5065}
+autolink_nodes 5023 5060 satelite comparison  5068
+collapsed_nodes {5009 5005 5012 5007 5047 5048 5042 5052 5021 5057 5031}
+autolink_nodes 5066 5067 satelite elaboration-additional  5069
+collapsed_nodes {5009 5005 5012 5007 5047 5048 5042 5052 5021 5057 5031 5067}
+autolink_nodes 5068 5069 satelite topic-drift  5070
+collapsed_nodes {5009 5005 5012 5007 5047 5048 5042 5052 5021 5057 5031 5067 5065}
+#autolink_nodes 5070 5003 nucleus summary-n  5071
+#UNDID
+autolink_nodes 5070 5003 satelite summary-s  5071
+collapsed_nodes {5009 5012 5007 5047 5048 5042 5052 5021 5057 5031 5067 5065}
+collapsed_nodes {5012 5007 5047 5048 5042 5052 5021 5057 5031 5067 5065}
+collapsed_nodes {5012 5007 5047 5048 5042 5052 5021 5057 5031 5067 5065 5005}
+collapsed_nodes {5007 5047 5048 5042 5052 5021 5057 5031 5067 5065 5005}
+collapsed_nodes {5047 5048 5042 5052 5021 5057 5031 5067 5065 5005}
+collapsed_nodes {5047 5048 5042 5052 5057 5031 5067 5065 5005}
+disconnect_node 5021 disconnect
+disconnect_node 5018 disconnect
+autolink_nodes 5018 5021 satelite evidence  5072
+autolink_nodes 5023 5072 satelite explanation-argumentative above 5072
+disconnect_node 5069 disconnect
+disconnect_node 5060 disconnect
+disconnect_node 5005 disconnect
+autolink_nodes 5003 5005 satelite definition  5073
+collapsed_nodes {5047 5048 5042 5052 5057 5031 5067 5065}
+collapsed_nodes {5047 5048 5042 5052 5057 5031 5067 5065 5005}
+collapsed_nodes {5067 5065 5005}
+disconnect_node 41 disconnect
+autolink_nodes 5034 41 satelite elaboration-set-member  5074
+disconnect_node 59 disconnect
+autolink_nodes 58 59 satelite-embedded elaboration-additional-e  5075
+collapsed_nodes {5067 5065 5005 5031}
+collapsed_nodes {5067 5065 5005 5031 5072}
+autolink_nodes 5071 5060 satelite elaboration-additional  5076
+collapsed_nodes {5067 5065 5005 5031 5072 5060}
+collapsed_nodes {5005 5031 5072 5060}
+autolink_nodes 5076 5069 satelite elaboration-additional  5077
+disconnect_node 5073 disconnect
+collapsed_nodes {5005 5031 5072 5060 5007}
+autolink_nodes 5077 5073 nucleus summary-s  5078
+disconnect_node 5077 disconnect
+autolink_nodes 5077 5073 nucleus summary-n  5079
+collapsed_nodes {5005 5031 5072 5060 5007 5079}
+collapsed_nodes {}

@@ -1,0 +1,178 @@
+nextSentence really
+create-a-node-here really 2.25 1 {\nTime magazine, in a move }
+create-a-node-here really 2.75 2 {to reduce the costs of wooing new subscribers, }
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+#create-a-node-here really 2.174 3 {is lowering its circulation guarantee to advertisers for the second consecutive year, increasing}
+#UNDID
+create-a-node-here really 2.164 3 {is lowering its circulation guarantee to advertisers for the second consecutive year, }
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 2.200 4 {increasing its subscription rates}
+#autolink_nodes 5002 4 multinuclear List above 5003
+#UNDID
+create-a-node-here really 2.246 5 { and cutting back on merchandise giveaways.}
+nextSentence really
+autolink_nodes 4 5 multinuclear List  5003
+autolink_nodes 5003 5002 multinuclear List below 5003
+create-a-node-here really 4.98 6 { \n\nIn an announcement to its staff last week, executives at Time Warner Inc. 's weekly magazine said }
+autolink_nodes 5003 6 satelite elaboration-additional  5004
+create-a-node-here really 4.225 7 {Time will "dramatically de-emphasize" its use of electronic giveaways such as telephones in television subscription drives; }
+autolink_nodes 6 7 nucleus attribution  5005
+create-a-node-here really 4.248 8 {cut the circulation }
+autolink_nodes 7 8 multinuclear List  5006
+create-a-node-here really 4.277 9 {it guarantees advertisers }
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5007
+create-a-node-here really 4.309 10 {by 300,000, to four million; }
+autolink_nodes 5007 10 multinuclear Same-Unit  5008
+create-a-node-here really 4.386 11 {and increase the cost of its annual subscription rate by about $4 to $55.}
+nextSentence really
+#autolink_nodes 5008 11 multinuclear Same-Unit below 5008
+#UNDID
+autolink_nodes 5006 11 multinuclear List below 5008
+collapsed_nodes {5006}
+collapsed_nodes {}
+collapsed_nodes {5006}
+create-a-node-here really 6.78 12 { \n\nIn a related development, the news-weekly, for the fourth year in a row, said }
+autolink_nodes 5005 12 multinuclear List  5009
+create-a-node-here really 6.130 13 {it won't increase its advertising rates in 1990;}
+autolink_nodes 12 13 nucleus attribution  5010
+create-a-node-here really 7.0 14 { a full, four-color page in the magazine costs about $120,000.\n}
+autolink_nodes 5010 14 satelite elaboration-additional  5011
+create-a-node-here really 7.12 15 {However,}
+autolink_nodes 5011 15 nucleus antithesis  5012
+create-a-node-here really 7.74 16 { because the guaranteed circulation base is being lowered,}
+create-a-node-here really 7.135 17 { ad rates will be effectively 7.5% higher per subscriber,}
+#autolink_nodes 16 17 nucleus result  5013
+#UNDID
+autolink_nodes 16 17 nucleus-embedded result-e  5013
+autolink_nodes 15 5013 multinuclear Same-Unit  5014
+create-a-node-here really 7.197 18 { according to Richard Heinemann, Time associate publisher.}
+nextSentence really
+autolink_nodes 5014 18 satelite attribution below 5015
+collapsed_nodes {5006 5009}
+collapsed_nodes {5006 5009 5003}
+create-a-node-here really 9.70 19 { \n\nTime is following the course of some other mass-circulation magazines }
+autolink_nodes 5004 19 satelite background  5016
+create-a-node-here really 9.131 20 {that in recent years have challenged the publishing myth }
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5017
+create-a-node-here really 9.210 21 {that maintaining artificially high, and expensive, circulations is the way }
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5018
+create-a-node-here really 9.234 22 {to draw advertisers.}
+nextSentence really
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5019
+create-a-node-here really 10.154 23 {\nIn recent years, Reader's Digest, New York Times Co. 's McCall's, and most recently News Corp. 's TV Guide, have cut their massive circulation rate bases }
+autolink_nodes 5017 23 satelite example  5020
+create-a-node-here really 10.191 24 {to eliminate marginal circulation}
+autolink_nodes 23 24 satelite purpose  5021
+create-a-node-here really 10.232 25 { and hold down rates for advertisers.}
+nextSentence really
+autolink_nodes 24 25 multinuclear List  5022
+collapsed_nodes {5006 5009 5003 5020}
+create-a-node-here really 12.103 26 { \n\nDeep discounts in subscriptions and offers of free clock radios and watches have become accepted forms }
+autolink_nodes 5016 26 satelite circumstance  5023
+create-a-node-here really 12.194 27 {of attracting new subscribers in the hyper-competitive world of magazine news-weeklies.}
+nextSentence really
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5024
+create-a-node-here really 13.108 28 {\nBut Time, as part of the more cost-conscious Time Warner, wants to wean itself away from expensive gimmicks.}
+nextSentence really
+autolink_nodes 27 28 nucleus antithesis  5025
+create-a-node-here really 14.31 29 {\nBesides, Time executives think }
+autolink_nodes 5025 29 satelite elaboration-additional  5026
+create-a-node-here really 14.87 30 {selling a news magazine with a clock radio is tacky.}
+nextSentence really
+autolink_nodes 29 30 nucleus attribution  5027
+create-a-node-here really 14.137 31 { "Giveaways just give people the wrong image,"}
+autolink_nodes 5027 31 satelite elaboration-additional  5028
+create-a-node-here really 14.161 32 { said Mr. Heinemann.}
+nextSentence really
+autolink_nodes 31 32 satelite attribution  5029
+create-a-node-here really 14.217 33 { "That perception takes the focus off the magazine."}
+nextSentence really
+autolink_nodes 5029 33 satelite elaboration-additional  5030
+collapsed_nodes {5006 5009 5003 5020 5024}
+collapsed_nodes {5006 5009 5003 5020 5024 5016}
+create-a-node-here really 16.123 34 { \n\nTime magazine executives predictably paint the circulation cut as a show of strength and actually a benefit to advertisers.}
+nextSentence really
+autolink_nodes 5023 34 satelite evaluation-s  5031
+create-a-node-here really 16.176 35 { "What we are doing is screening out the readers }
+autolink_nodes 34 35 satelite explanation-argumentative  5032
+create-a-node-here really 16.226 36 {who are only casually related to the magazine }
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5033
+create-a-node-here really 16.257 37 {and don't really read it," }
+autolink_nodes 36 37 multinuclear List  5034
+create-a-node-here really 16.280 38 {said Mr. Heinemann.}
+nextSentence really
+autolink_nodes 5033 38 satelite attribution  5035
+create-a-node-here really 16.335 39 { "We are trying to create quality and involvement."}
+nextSentence really
+autolink_nodes 5035 39 satelite elaboration-additional  5036
+create-a-node-here really 18.51 40 { \n\nHowever, Time executives used the same explanation }
+autolink_nodes 5032 40 nucleus concession  5037
+collapsed_nodes {5006 5009 5003 5020 5024 5016 5036}
+create-a-node-here really 18.152 41 {when in October 1988 the magazine cut its guaranteed circulation from 4.6 million to 4.3 million.}
+nextSentence really
+autolink_nodes 40 41 satelite circumstance below 5038
+create-a-node-here really 19.29 42 {\nAnd Time's paid circulation, }
+autolink_nodes 5038 42 satelite elaboration-additional below 5039
+create-a-node-here really 19.76 43 {according to Audit Bureau of Circulations, }
+autolink_nodes 42 43 satelite attribution  5040
+create-a-node-here really 19.124 44 {dropped 7.3% to 4,393,237 in the six months }
+autolink_nodes 5040 44 multinuclear Same-Unit  5041
+create-a-node-here really 19.148 45 {ended June 30, 1989.}
+nextSentence really
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5042
+create-a-node-here really 21.54 46 { \n\nStill, Time's move is being received well, once again.}
+nextSentence really
+autolink_nodes 5037 46 satelite elaboration-additional  5043
+create-a-node-here really 21.98 47 { "It's terrific for advertisers to know }
+autolink_nodes 46 47 satelite elaboration-additional  5044
+create-a-node-here really 21.135 48 {the reader will be paying more," }
+autolink_nodes 47 48 nucleus attribution  5045
+create-a-node-here really 21.210 49 {said Michael Drexler, national media director at Bozell Inc. ad agency.}
+nextSentence really
+autolink_nodes 5045 49 satelite attribution  5046
+create-a-node-here really 21.265 50 { "A few drops in circulation are of no consequence.}
+nextSentence really
+autolink_nodes 5046 50 satelite elaboration-additional  5047
+create-a-node-here really 22.29 51 {\nIt's not a show of weakness; }
+autolink_nodes 50 51 satelite elaboration-additional  5048
+create-a-node-here really 22.79 52 {they are improving the quality of circulation }
+autolink_nodes 51 52 multinuclear List  5049
+create-a-node-here really 22.113 53 {while insuring their profits."}
+nextSentence really
+autolink_nodes 52 53 satelite circumstance  5050
+collapsed_nodes {5006 5009 5003 5020 5024 5016 5036 5037}
+create-a-node-here really 24.19 54 { \n\nMr. Heinemann said }
+autolink_nodes 5031 54 satelite elaboration-additional  5051
+create-a-node-here really 24.83 55 {the changes represent a new focus in the magazine industry: }
+autolink_nodes 54 55 nucleus attribution  5052
+create-a-node-here really 24.167 56 {a magazine's net revenue per subscriber, or the actual revenue from subscribers }
+autolink_nodes 55 56 satelite-embedded elaboration-general-specific-e below 5053
+create-a-node-here really 24.236 57 {after discounts and the cost of premiums have been stripped away.}
+nextSentence really
+autolink_nodes 56 57 satelite circumstance  5054
+create-a-node-here really 24.301 58 { "The question is how much are we getting from each reader," }
+#autolink_nodes 5052 58 satelite elaboration-additional  5055
+#UNDID
+autolink_nodes 5052 58 satelite elaboration-additional  5055
+create-a-node-here really 24.325 59 {said Mr. Heinemann. }
+autolink_nodes 58 59 satelite attribution  5056
+create-a-node-here really 26.133 60 {\n\nTime's rivals news-weeklies, Washington Post Co. 's Newsweek and U.S. News & World Report, are less reliant on electronic giveaways, }
+autolink_nodes 5055 60 multinuclear Contrast  5057
+create-a-node-here really 26.212 61 {and in recent years both have been increasing their circulation rate bases.}
+nextSentence really
+autolink_nodes 60 61 satelite elaboration-additional  5058
+create-a-node-here really 27.102 62 {\nBoth magazines are expected to announce their ad rates and circulation levels for 1990 within a month.}
+nextSentence really
+autolink_nodes 5058 62 satelite elaboration-additional  5059
+collapsed_nodes {5006 5009 5003 5020 5024 5016 5036 5037 5051}
+collapsed_nodes {}
+disconnect_node 5002 disconnect
+disconnect_node 3 disconnect
+autolink_nodes 5003 3 multinuclear List below 5059
+autolink_nodes 5003 5001 multinuclear Same-Unit above 5060
+disconnect_node 43 disconnect
+autolink_nodes 42 43 satelite-embedded attribution-e  5061
+collapsed_nodes {}
+change_rel 5056 rhetorical-question
+collapsed_nodes {5051}
+collapsed_nodes {}

@@ -1,0 +1,102 @@
+nextSentence really
+create-a-node-here really 2.158 1 {\nThe West German retailer ASKO Deutsche Kaufhaus AG plans to challenge the legality of a widely employed anti-takeover defense of companies in the Netherlands.}
+nextSentence really
+create-a-node-here really 4.75 2 { \n\nThe eventual court decision could become a landmark in Dutch corporate law }
+create-a-node-here really 4.98 3 {because the lawsuit }
+create-a-node-here really 4.120 4 {ASKO plans to file }
+create-a-node-here really 4.142 5 {would be the first }
+create-a-node-here really 4.205 6 {to challenge the entire principle and practice of companies }
+create-a-node-here really 4.272 7 {issuing voting preferred shares to management-controlled trusts }
+create-a-node-here really 4.321 8 {to dilute voting power of common stockholders.}
+nextSentence really
+create-a-node-here really 6.95 9 { \n\nUp to now only specific aspects of these defenses have been challenged, though unsuccessfully, }
+create-a-node-here really 6.125 10 {ASKO's Dutch lawyers noted.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 5 multinuclear Same-Unit  5002
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 2 5002 satelite consequence-s  5005
+collapsed_nodes {5002}
+collapsed_nodes {}
+autolink_nodes 7 8 satelite-embedded purpose-e  5006
+collapsed_nodes {5003}
+autolink_nodes 9 10 satelite attribution  5007
+create-a-node-here really 8.62 11 { \n\nShould the courts uphold the validity of this type of defense,}
+create-a-node-here really 8.138 12 { ASKO will then ask the court to overturn such a vote-diluting maneuver }
+create-a-node-here really 8.184 13 {recently deployed by Koninklijke Ahold NV.}
+nextSentence really
+create-a-node-here really 8.199 14 { ASKO says }
+create-a-node-here really 8.273 15 {the Dutch-based international food retailer hadn't reasonable grounds }
+create-a-node-here really 8.322 16 {to issue preferred stock to a friendly trust }
+create-a-node-here really 8.400 17 {and thus dilute the worth and voting power of ASKO and other shareholders.}
+nextSentence really
+create-a-node-here really 10.35 18 { \n\nSpeaking through its Dutch lawyers,}
+create-a-node-here really 10.60 19 { ASKO also disclosed }
+create-a-node-here really 10.94 20 {it holds a 15% stake in Ahold.}
+nextSentence really
+showText really
+create-a-node-here really 11.50 21 {\nIt was previously thought ASKO held a 13.6% stake }
+create-a-node-here really 11.86 22 {that was accumulated since July.}
+create-a-node-here really 13.27 23 { \n\nA spokesman for Ahold said }
+create-a-node-here really 14.0 24 {his company is confident of its own position and the propriety of the preferred-share issue.\n}
+create-a-node-here really 14.108 25 {He termed ASKO's legal actions as "unproductive" to international cooperation among European retailers. }
+autolink_nodes 12 11 satelite condition  5008
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e below 5009
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 16 17 satelite consequence-s  5011
+autolink_nodes 5010 14 satelite attribution  5012
+autolink_nodes 19 20 nucleus attribution  5013
+#autolink_nodes 5013 18 satelite manner  5014
+#UNDID
+autolink_nodes 19 18 satelite manner  5014
+autolink_nodes 21 22 satelite-embedded elaboration-additional-e  5015
+autolink_nodes 24 23 satelite attribution  5016
+autolink_nodes 5005 1 satelite enablement  5017
+collapsed_nodes {5003 5002}
+autolink_nodes 5008 5007 satelite background  5018
+collapsed_nodes {5003 5002 5007}
+disconnect_node 1 disconnect
+autolink_nodes 1 5005 satelite consequence-s  5019
+collapsed_nodes {5003 5002 5007 5005}
+#autolink_nodes 5018 5012 satelite explanation-argumentative  5020
+#UNDID
+autolink_nodes 5018 5012 satelite explanation-argumentative  5020
+autolink_nodes 5015 5013 multinuclear Contrast  5021
+collapsed_nodes {5007}
+collapsed_nodes {5007 5003}
+autolink_nodes 5005 5020 multinuclear List  5022
+collapsed_nodes {5007 5003 5022}
+autolink_nodes 5019 5021 satelite background  5023
+collapsed_nodes {5007 5003 5022 5021}
+autolink_nodes 5016 25 satelite evaluation-s  5024
+autolink_nodes 5024 5023 multinuclear Contrast  5025
+collapsed_nodes {5007 5003 5022}
+collapsed_nodes {}
+#disconnect_node 5020 disconnect
+#collapsed_nodes {}
+#UNDID
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {5024}
+collapsed_nodes {5024 5021}
+collapsed_nodes {5024 5021 5012}
+collapsed_nodes {5024 5021 5012 5007}
+collapsed_nodes {5024 5021 5012 5007 5002}
+collapsed_nodes {5021 5012 5007 5002}
+disconnect_node 25 disconnect
+#disconnect_node 5016 disconnect
+#UNDID
+disconnect_node 5016 disconnect
+autolink_nodes 25 5016 multinuclear List  5026
+collapsed_nodes {5021}
+collapsed_nodes {5021 5022}
+autolink_nodes 5023 5026 satelite evaluation-s  5027
+collapsed_nodes {5021 5022 5027}
+collapsed_nodes {}
+disconnect_node 5002 disconnect
+autolink_nodes 2 5002 satelite consequence-n  5028

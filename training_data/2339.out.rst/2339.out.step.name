@@ -1,0 +1,162 @@
+nextSentence really
+create-a-node-here really 2.37 1 {\nInstitut Merieux S.A. of France said }
+create-a-node-here really 2.174 2 {the Canadian government raised an obstacle to its proposed acquisition of Connaught BioSciences Inc. for 942 million Canadian dollars }
+showText really
+create-a-node-here really 2.197 3 {(US$801.6 million). }
+create-a-node-here really 4.13 4 {\n\nMerieux said }
+create-a-node-here really 4.86 5 {the government's minister of industry, science and technology told it }
+create-a-node-here really 4.114 6 {that he wasn't convinced }
+create-a-node-here really 4.178 7 {that the purchase is likely to be of "net benefit" to Canada.}
+create-a-node-here really 5.34 8 {\nCanadian investment rules require }
+create-a-node-here really 5.84 9 {that big foreign takeovers meet that standard. }
+create-a-node-here really 7.24 10 {\n\nThe French company said }
+create-a-node-here really 7.59 11 {the government gave it 30 days }
+create-a-node-here really 7.94 12 {in which to submit information }
+create-a-node-here really 7.136 13 {to further support its takeover plan. }
+create-a-node-here really 9.90 14 {\n\nBoth Merieux and Connaught are biotechnology research and vaccine manufacturing concerns. }
+create-a-node-here really 12.0 15 {\n\nThe government's action was unusual.\n}
+create-a-node-here really 12.64 16 {Alan Nymark, executive vice president of Investment Canada, }
+create-a-node-here really 12.102 17 {which oversees foreign takeovers, }
+create-a-node-here really 12.111 18 {said }
+create-a-node-here really 12.165 19 {it marked the first time in its four-year history }
+create-a-node-here really 12.277 20 {that the agency has made an adverse net-benefit decision about the acquisition of a publicly traded company.}
+create-a-node-here really 13.8 21 {\nHe said }
+create-a-node-here really 13.68 22 {it has reached the same conclusions about some attempts }
+create-a-node-here really 13.102 23 {to buy closely held concerns, }
+create-a-node-here really 13.160 24 {but eventually allowed those acquisitions to proceed. }
+create-a-node-here really 15.43 25 {\n\n"This isn't a change in government policy; }
+create-a-node-here really 15.85 26 {this provision has been used before," }
+create-a-node-here really 16.0 27 {said Jodi Redmond, press secretary for Harvie Andre, Canada's minister of industry, science and technology.\n}
+create-a-node-here really 16.32 28 {Mr. Andre issued the ruling }
+create-a-node-here really 16.84 29 {based on a recommendation by Investment Canada. }
+autolink_nodes 2 3 satelite-embedded restatement-e  5001
+autolink_nodes 5001 1 satelite attribution  5002
+autolink_nodes 6 5 satelite attribution  5003
+autolink_nodes 6 7 nucleus attribution-n  5004
+autolink_nodes 5 4 satelite attribution  5005
+autolink_nodes 9 8 satelite attribution  5006
+autolink_nodes 12 13 satelite-embedded purpose-e  5007
+autolink_nodes 11 5007 satelite-embedded elaboration-object-attribute-e  5008
+autolink_nodes 5008 10 satelite attribution  5009
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5010
+autolink_nodes 18 5010 multinuclear Same-Unit  5011
+autolink_nodes 19 5011 satelite attribution  5012
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e below 5013
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 5014 24 satelite consequence-s  5015
+autolink_nodes 5015 21 satelite attribution  5016
+autolink_nodes 25 26 satelite restatement  5017
+autolink_nodes 27 5017 nucleus attribution  5018
+#autolink_nodes 28 29 satelite manner  5019
+#UNDID
+autolink_nodes 28 29 satelite manner  5019
+autolink_nodes 5002 5003 multinuclear Reason  5020
+autolink_nodes 5003 5006 satelite background  5021
+collapsed_nodes {5006}
+collapsed_nodes {5006 5021}
+collapsed_nodes {}
+autolink_nodes 5021 5009 satelite consequence-s  5022
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {5009}
+collapsed_nodes {5009 5006}
+autolink_nodes 5012 5016 satelite evidence  5023
+autolink_nodes 15 5023 satelite explanation-argumentative  5024
+autolink_nodes 5018 5019 satelite evidence  5025
+collapsed_nodes {5009 5006 5023}
+autolink_nodes 5025 5024 multinuclear Contrast  5026
+create-a-node-here really 18.41 30 {\n\nSpokesmen for Merieux and Connaught said }
+create-a-node-here really 18.147 31 {they hadn't been informed of specific areas of concern by either the government or Investment Canada, }
+create-a-node-here really 18.161 32 {but added }
+create-a-node-here really 18.217 33 {they hope to have more information early this week. }
+create-a-node-here really 20.82 34 {\n\nInvestment Canada declined to comment on the reasons for the government decision. }
+create-a-node-here really 22.104 35 {\n\nViren Mehta, a partner with Mehta & Isaly, a New York-based pharmaceutical industry research firm, said }
+create-a-node-here really 22.151 36 {the government's ruling wasn't unexpected. }
+create-a-node-here really 24.41 37 {\n\n"This has become a very politicized deal,}
+create-a-node-here really 24.131 38 { concerning Canada's only large, world-class bio-research or pharmaceutical company," }
+create-a-node-here really 24.151 39 {Mr. Mehta said. }
+create-a-node-here really 26.15 40 {\n\nMr. Mehta said }
+create-a-node-here really 26.73 41 {the move that could allow the transaction to go ahead }
+create-a-node-here really 26.88 42 {as planned }
+create-a-node-here really 27.0 43 {could be an out-of-court settlement of Connaught's dispute with the University of Toronto.\n}
+create-a-node-here really 27.90 44 {The University is seeking to block the acquisition of Connaught by foreign interests, }
+create-a-node-here really 27.169 45 {citing concerns about the amount of research that would be done in Canada. }
+create-a-node-here really 29.52 46 {\n\nThe university is considering a settlement proposal }
+create-a-node-here really 30.0 47 {made by Connaught.\n}
+create-a-node-here really 30.51 48 {While neither side will disclose its contents, }
+create-a-node-here really 30.166 49 {Mr. Mehta expects it to contain more specific guarantees on research and development spending levels in Canada }
+create-a-node-here really 30.212 50 {than Merieux offered to Investment Canada.}
+create-a-node-here really 32.93 51 { \n\nSome analysts, such as Murray Grossner of Toronto-based Richardson Greenshields Inc., believe}
+create-a-node-here really 33.0 52 { the government ruling leaves the door open for other bidders, such as Switzerland's Ciba-Geigy and Chiron Corp. of Emeryville, Calif.\n}
+create-a-node-here really 33.36 53 {Officials for the two concerns, }
+create-a-node-here really 33.86 54 {which are bidding C$30 a share for Connaught, }
+create-a-node-here really 33.123 55 {couldn't be reached for comment. }
+create-a-node-here really 35.60 56 {\n\nFrench state-owned Rhone-Poulenc S.A. holds 51% of Merieux. }
+autolink_nodes 31 30 satelite attribution  5027
+autolink_nodes 32 33 nucleus attribution  5028
+autolink_nodes 5027 5028 satelite concession  5029
+#autolink_nodes 34 34 multinuclear List  5030
+#UNDID
+autolink_nodes 34 5029 multinuclear List  5030
+autolink_nodes 36 35 satelite attribution  5031
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5032
+autolink_nodes 39 5032 nucleus attribution  5033
+#autolink_nodes 41 42 satelite-embedded manner-e  5034
+#UNDID
+#autolink_nodes 41 42 satelite-embedded manner-e  5034
+#UNDID
+autolink_nodes 41 42 satelite-embedded manner-e  5034
+autolink_nodes 43 5034 multinuclear Same-Unit  5035
+autolink_nodes 5035 40 satelite attribution  5036
+#autolink_nodes 44 45 satelite-embedded means-e  5037
+#UNDID
+autolink_nodes 44 45 satelite-embedded reason-e  5037
+autolink_nodes 46 47 satelite-embedded elaboration-object-attribute-e  5038
+autolink_nodes 49 50 satelite comparison  5039
+autolink_nodes 5039 48 satelite concession  5040
+autolink_nodes 52 51 satelite attribution  5041
+autolink_nodes 53 54 satelite-embedded elaboration-additional-e  5042
+autolink_nodes 55 5042 multinuclear Same-Unit  5043
+collapsed_nodes {5009 5006 5023 5025}
+autolink_nodes 5026 14 satelite background  5044
+collapsed_nodes {5009 5006 5023 5025 5022}
+autolink_nodes 5020 5044 satelite interpretation-s  5045
+collapsed_nodes {5009 5006 5023 5025 5022 5044}
+autolink_nodes 5045 5030 satelite elaboration-additional  5046
+collapsed_nodes {5009 5006 5023 5025 5022 5044 5030}
+collapsed_nodes {5009 5006 5023 5025 5022 5044}
+autolink_nodes 5041 5043 satelite elaboration-additional  5047
+autolink_nodes 5031 5033 satelite explanation-argumentative  5048
+collapsed_nodes {5009 5006 5023 5025 5022 5044 5033}
+collapsed_nodes {5009 5006 5023 5025 5022 5044}
+autolink_nodes 5038 5037 multinuclear List  5049
+autolink_nodes 5036 5049 satelite elaboration-general-specific  5050
+collapsed_nodes {5009 5006 5023 5025 5022 5044 5049}
+autolink_nodes 5050 5040 satelite interpretation-s  5051
+autolink_nodes 5030 5048 multinuclear List below 5051
+autolink_nodes 5033 5051 satelite evidence  5052
+collapsed_nodes {5009 5006 5023 5025 5022 5044 5049 5051}
+collapsed_nodes {5009 5006 5023 5025 5022 5044 5049 5051 5052}
+autolink_nodes 5030 5047 multinuclear List below 5052
+collapsed_nodes {5009 5006 5023 5025 5022 5044 5049 5051 5052 5030}
+autolink_nodes 5046 56 satelite background  5053
+collapsed_nodes {5023 5025 5044 5049 5051 5052 5030}
+disconnect_node 5009 disconnect
+autolink_nodes 5021 5009 satelite temporal-after  5054
+disconnect_node 5009 disconnect
+autolink_nodes 5021 5009 satelite consequence-s  5055
+collapsed_nodes {5023 5025 5044 5049 5051 5052 5030 5055}
+collapsed_nodes {5049 5051 5052 5030 5055}
+collapsed_nodes {5049 5051 5052 5030 5055 5044}
+collapsed_nodes {5055 5044}
+disconnect_node 5028 disconnect
+autolink_nodes 5027 5028 satelite elaboration-additional  5056
+disconnect_node 42 disconnect
+autolink_nodes 41 42 satelite manner  5057
+disconnect_node 45 disconnect
+autolink_nodes 44 45 satelite means  5058
+disconnect_node 5038 disconnect
+autolink_nodes 5037 5038 multinuclear Cause-Result  5059
+collapsed_nodes {5055 5044 5030}
+collapsed_nodes {5044 5030}
+collapsed_nodes {}

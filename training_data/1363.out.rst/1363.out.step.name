@@ -1,0 +1,70 @@
+nextSentence really
+#create-a-node-here really 2.32 1 {\nFirst Executive Corp. said about}
+#create-a-node-here really 2.54 2 { 96% of the rights }
+#UNDID
+#UNDID
+create-a-node-here really 2.27 1 {\nFirst Executive Corp. said }
+#create-a-node-here really 2.54 2 {about 96% of the rights }
+#UNDID
+create-a-node-here really 2.54 2 {about 96% of the rights }
+create-a-node-here really 2.104 3 {to purchase its depositary shares and warrants }
+autolink_nodes 2 3 satelite elaboration-object-attribute  5001
+autolink_nodes 5001 1 satelite attribution  5002
+create-a-node-here really 2.127 4 {have been exercised.}
+nextSentence really
+autolink_nodes 5001 4 multinuclear Same-Unit  5003
+nextSentence really
+create-a-node-here really 4.125 5 { \n\nOf the 17.6 million rights units issued, just under 17 million were exercised before the Oct. 10 expiration of the offering, }
+autolink_nodes 5002 5 satelite elaboration-general-specific  5004
+create-a-node-here really 4.163 6 {the insurance holding company said.}
+nextSentence really
+autolink_nodes 5 6 satelite attribution  5005
+create-a-node-here really 5.105 7 {\nRemaining units will be sold to the underwriters, Drexel Burnham Lambert Inc. and Kidder, Peabody & Co., }
+autolink_nodes 5005 7 satelite elaboration-additional  5006
+create-a-node-here really 5.183 8 {which will also purchase an over-allotment of 2.3 million additional units.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5007
+create-a-node-here really 7.21 9 { \n\nFirst Executive said }
+autolink_nodes 5004 9 satelite result  5008
+#create-a-node-here really 7.68 10 {the offering will raise about $299 million -}
+#autolink_nodes 9 10 nucleus attribution  5009
+#UNDID
+#UNDID
+create-a-node-here really 7.67 10 {the offering will raise about $299 million }
+autolink_nodes 9 10 nucleus attribution  5009
+create-a-node-here really 7.124 11 {-- minus underwriting fees and other expenses -- that}
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e below 5010
+create-a-node-here really 7.154 12 { the company plans to use }
+autolink_nodes 5010 12 satelite means below 5011
+create-a-node-here really 8.0 13 {to write new life insurance and annuity business.\n}
+autolink_nodes 12 13 satelite purpose  5012
+create-a-node-here really 8.80 14 {In addition, analysts have viewed the rights offering as a takeover defense }
+autolink_nodes 5009 14 satelite interpretation-s  5013
+create-a-node-here really 8.145 15 {that prospectively balloons the number of shares outstanding.}
+nextSentence really
+autolink_nodes 14 15 satelite elaboration-object-attribute  5014
+create-a-node-here really 10.44 16 { \n\nEach of the units consists of two warrants, }
+autolink_nodes 5008 16 satelite background  5015
+create-a-node-here really 10.76 17 {each of which could be used }
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5016
+create-a-node-here really 10.158 18 {to purchase a half-share of common stock, and one depositary preference share.}
+nextSentence really
+autolink_nodes 17 18 satelite purpose  5017
+create-a-node-here really 11.70 19 {\nDepositary shares are convertible into common stock on a 1-to-1 basis.}
+nextSentence really
+autolink_nodes 18 19 satelite elaboration-additional  5018
+nextSentence really
+create-a-node-here really 12.72 20 {\nCurrently, the company has about 88.1 million common shares outstanding.}
+nextSentence really
+autolink_nodes 5016 20 satelite elaboration-additional  5019
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 15.0 21 { \n\nIn over-the-counter trading Monday, the stock closed at $10.625, off 37.5 cents. \n}
+nextSentence really
+autolink_nodes 5019 21 satelite elaboration-additional  5020
+collapsed_nodes {5015}
+nextSentence really
+nextSentence really
+collapsed_nodes {}

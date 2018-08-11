@@ -1,0 +1,1386 @@
+nextSentence really
+create-a-node-here really 2.62 1 {\nAt Lloyd's of London, underwriters still scratch out policies }
+create-a-node-here really 2.104 2 {using fountain pens and blotting paper.}
+nextSentence really
+autolink_nodes 1 2 satelite means  5001
+create-a-node-here really 3.62 3 {\nVisitors are ushered into the premises by red-frocked doormen }
+autolink_nodes 5001 3 multinuclear List  5002
+create-a-node-here really 3.82 4 {known as waiters,}
+autolink_nodes 3 4 satelite-embedded elaboration-additional-e  5003
+create-a-node-here really 3.171 5 { a reminder of the insurance market's origins in a coffeehouse in 17th century London.}
+nextSentence really
+autolink_nodes 5003 5 multinuclear Same-Unit  5004
+create-a-node-here really 5.39 6 { \n\nSuch trappings suggest a glorious past }
+autolink_nodes 5002 6 nucleus circumstance  5005
+create-a-node-here really 5.81 7 {but give no hint of a troubled present.}
+nextSentence really
+autolink_nodes 6 7 multinuclear Contrast  5006
+create-a-node-here really 7.93 8 { \n\nLloyd's, once a pillar of the world insurance market, is being shaken to its very foundation.}
+nextSentence really
+#autolink_nodes 5005 8 multinuclear Topic-Drift  5007
+#UNDID
+autolink_nodes 5005 8 multinuclear Topic-Drift  5007
+collapsed_nodes {5006}
+create-a-node-here really 8.108 9 {\nThe 301-year-old exchange is battered by enormous claims from a decade-long run of unprecedented disasters, }
+autolink_nodes 8 9 satelite summary-n  5008
+create-a-node-here really 9.0 10 {the most recent of which is last week's earthquake in California's Bay Area.\n}
+autolink_nodes 9 10 satelite-embedded example-e  5009
+create-a-node-here really 9.67 11 {At the same time, Lloyd's is besieged by disgruntled investors }
+autolink_nodes 5009 11 multinuclear List  5010
+create-a-node-here really 9.122 12 {and hamstrung by inefficient but time-honored ways }
+autolink_nodes 11 12 multinuclear List  5011
+create-a-node-here really 9.149 13 {of conducting business.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5012
+create-a-node-here really 10.123 14 {\nThe exchange is gradually being squeezed into narrow, less-profitable segments of the market by less hidebound competitors.}
+nextSentence really
+autolink_nodes 5010 14 multinuclear List below 5012
+create-a-node-here really 12.27 15 { \n\n"Lloyd's is on the ropes," }
+autolink_nodes 5010 15 satelite explanation-argumentative  5013
+create-a-node-here really 12.83 16 {says Peter Nutting, a Lloyd's investor for 17 years }
+autolink_nodes 15 16 satelite attribution  5014
+create-a-node-here really 12.119 17 {who now leads a dissident group }
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5015
+create-a-node-here really 12.205 18 {threatening to sue exchange underwriters for alleged mismanagement and negligence.}
+nextSentence really
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5016
+create-a-node-here really 12.236 19 { "It needs more discipline.}
+nextSentence really
+#autolink_nodes 5014 19 satelite elaboration-additional  5017
+#UNDID
+autolink_nodes 5014 19 satelite elaboration-additional  5017
+create-a-node-here really 13.30 20 {\nIt needs to sort itself out." }
+autolink_nodes 19 20 multinuclear List  5018
+collapsed_nodes {5006 5017}
+collapsed_nodes {5006 5017 5013}
+create-a-node-here really 15.77 21 {\n\nMost troublesome is the shrinking pool of "names," the well-heeled investors }
+autolink_nodes 5008 21 satelite evaluation-s  5019
+create-a-node-here really 15.101 22 {(some of them royal)}
+autolink_nodes 21 22 satelite-embedded elaboration-general-specific-e  5020
+create-a-node-here really 15.167 23 { who, as members of about 360 syndicates, underwrite policies.}
+nextSentence really
+#autolink_nodes 5020 23 satelite-embedded elaboration-additional-e  5021
+#UNDID
+autolink_nodes 5020 23 satelite-embedded elaboration-object-attribute-e  5021
+create-a-node-here really 17.0 24 {\nSome 1,750 members quit the exchange last year, more than triple the number of resignations in 1987.\n}
+autolink_nodes 5021 24 satelite explanation-argumentative  5022
+create-a-node-here really 17.57 25 {Names are resigning at an even faster pace this year.}
+nextSentence really
+autolink_nodes 24 25 multinuclear Comparison  5023
+create-a-node-here really 19.34 26 { \n\nLackluster returns are one reason.}
+nextSentence really
+autolink_nodes 5023 26 multinuclear Reason above 5024
+create-a-node-here really 20.73 27 {\nThe average after-tax return on investment in 1986, the most recent year }
+autolink_nodes 26 27 satelite explanation-argumentative  5025
+create-a-node-here really 20.109 28 {for which results are available,}
+autolink_nodes 27 28 satelite-embedded elaboration-general-specific-e  5026
+create-a-node-here really 20.124 29 { was 6.5%, }
+autolink_nodes 5026 29 multinuclear Same-Unit  5027
+create-a-node-here really 20.194 30 {according to Chatset Ltd., an insurance consulting firm in London.}
+nextSentence really
+autolink_nodes 5027 30 satelite attribution  5028
+create-a-node-here really 21.21 31 {\nIn 1985, it was 2.1%.}
+nextSentence really
+autolink_nodes 5028 31 multinuclear List  5029
+create-a-node-here really 23.56 32 { \n\nBetween 1981 and 1986, the most recent five-year period }
+autolink_nodes 5029 32 multinuclear List below 5029
+create-a-node-here really 23.93 33 {for which figures are available, }
+autolink_nodes 32 33 satelite-embedded elaboration-general-specific-e  5030
+nextSentence really
+create-a-node-here really 23.177 34 {Lloyd's reported over #3.6 billion in claims and reserves against future losses }
+autolink_nodes 5030 34 multinuclear Same-Unit  5031
+nextSentence really
+create-a-node-here really 23.223 35 {($5.7 billion at today's exchange rates), }
+autolink_nodes 34 35 satelite interpretation-s  5032
+nextSentence really
+create-a-node-here really 23.302 36 {more than double the #1.35 billion posted in the previous five-year period.}
+nextSentence really
+autolink_nodes 5032 36 multinuclear Same-Unit  5033
+collapsed_nodes {5006 5017 5013 5029}
+create-a-node-here really 25.29 37 { \n\nMany of the 31,329 investors }
+autolink_nodes 5025 37 multinuclear Cause-Result  5034
+create-a-node-here really 25.43 38 {who remain}
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5035
+create-a-node-here really 25.159 39 { are beginning to question one of the exchange's most basic tenets, the concept of unlimited personal liability.}
+nextSentence really
+autolink_nodes 5035 39 multinuclear Same-Unit  5036
+create-a-node-here really 26.32 40 {\nInvestors may reap huge profits }
+autolink_nodes 5036 40 satelite explanation-argumentative  5037
+create-a-node-here really 26.65 41 {when premiums exceed claims, }
+autolink_nodes 40 41 satelite circumstance  5038
+create-a-node-here really 26.149 42 {but they are liable to their last pound or dollar in the event of a catastrophe.}
+nextSentence really
+autolink_nodes 5038 42 multinuclear Contrast  5039
+collapsed_nodes {5006 5017 5013 5029 5034}
+collapsed_nodes {5006 5017 5013 5029 5034 5022}
+create-a-node-here really 27.46 43 {\nAnd catastrophes are getting ever more costly.}
+nextSentence really
+autolink_nodes 5007 43 multinuclear Topic-Drift below 5039
+collapsed_nodes {5006 5017 5013 5029 5034 5022 5019}
+create-a-node-here really 28.111 44 {\nLloyd's claims for the 1988 Piper Alpha oil-rig disaster in the North Sea, for instance, may reach $1 billion. }
+autolink_nodes 43 44 satelite example  5040
+#create-a-node-here really 30.110 45 {\n\nDuring the five-year period ended 1986, roughly 80% of the names had money tied up in money-losing syndicates,}
+#autolink_nodes 5040 45 satelite explanation-argumentative  5041
+#create-a-node-here really 30.148 46 { according to Chatset consultants.}
+#nextSentence really
+#autolink_nodes 45 46 satelite attribution  5042
+#create-a-node-here really 31.70 47 {\nThe peril of unlimited liability looms large for a number of them now.}
+#nextSentence really
+#autolink_nodes 5042 47 satelite cause  5043
+#UNDID
+#autolink_nodes 5042 47 satelite cause  5043
+#create-a-node-here really 31.90 48 { "I have wished }
+#autolink_nodes 47 48 satelite explanation-argumentative  5044
+#create-a-node-here really 31.106 49 {I could die }
+#autolink_nodes 48 49 nucleus attribution  5045
+#create-a-node-here really 31.127 50 {and be out of it }
+#autolink_nodes 49 50 multinuclear Cause-Result  5046
+#create-a-node-here really 31.157 51 {-- that's how bad it is," }
+#autolink_nodes 5045 51 satelite evaluation-s  5047
+#create-a-node-here really 31.214 52 {Betty Atkins, a secretary from suburban London, says.}
+#autolink_nodes 5047 52 satelite attribution  5048
+#create-a-node-here really 33.12 53 { \n\nMs. Atkins, }
+#autolink_nodes 5048 53 satelite circumstance  5049
+#create-a-node-here really 33.84 54 {whose Lloyd's membership was a bonus from a former employer in 1981,}
+#autolink_nodes 53 54 satelite elaboration-additional  5050
+#create-a-node-here really 33.157 55 { belongs to Mr. Nutting's dissident group on the Outhwaite syndicate,}
+#autolink_nodes 5050 55 multinuclear Same-Unit  5051
+#create-a-node-here really 33.217 56 { which has been hard hit by asbestos reinsurance claims.}
+#nextSentence really
+#autolink_nodes 55 56 satelite elaboration-additional  5052
+#UNDID
+#create-a-node-here really 34.12 57 {\nMs. Atkins, }
+#UNDID
+#autolink_nodes 55 56 satelite elaboration-additional  5052
+#create-a-node-here really 34.12 57 {\nMs. Atkins, }
+#autolink_nodes 5051 57 multinuclear List above 5053
+#create-a-node-here really 34.98 58 {who underwrote #20,000, or about $32,000, of insurance coverage on that syndicate,}
+#autolink_nodes 57 58 satelite elaboration-additional  5054
+#create-a-node-here really 34.163 59 { now faces potential losses of roughly #70,000, or $111,000. }
+#autolink_nodes 5054 59 multinuclear Same-Unit  5055
+#create-a-node-here really 34.203 60 {"If Lloyd's wants #70,000 out of me }
+#autolink_nodes 5055 60 satelite problem-solution-s  5056
+#create-a-node-here really 34.250 61 {they will have to take everything I've got }
+#autolink_nodes 60 61 nucleus condition  5057
+#create-a-node-here really 34.284 62 {-- and even then I don't know }
+#UNDID
+#create-a-node-here really 34.271 62 {-- and even then }
+#autolink_nodes 5057 62 nucleus concession  5058
+#UNDID
+#autolink_nodes 5057 62 nucleus concession  5058
+#create-a-node-here really 34.288 63 {I don't know }
+#create-a-node-here really 34.314 64 {if it will be enough,"}
+#autolink_nodes 63 64 nucleus attribution  5059
+#autolink_nodes 62 5059 multinuclear Same-Unit  5060
+#create-a-node-here really 34.328 65 { she says.}
+#nextSentence really
+#autolink_nodes 5058 65 satelite attribution  5061
+#UNDID
+#autolink_nodes 5058 65 satelite attribution  5061
+#disconnect_node 63 disconnect
+#autolink_nodes 64 63 satelite attribution-n  5062
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 34.311 63 {I don't know if it will be enough," }
+#autolink_nodes 62 63 nucleus concession  5059
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 34.284 62 {-- and even then I don't know }
+#autolink_nodes 5057 62 nucleus concession  5058
+#create-a-node-here really 34.311 63 {if it will be enough," }
+#autolink_nodes 62 63 nucleus attribution-n  5059
+#create-a-node-here really 34.324 64 {she says.}
+#nextSentence really
+#autolink_nodes 5058 64 satelite attribution  5060
+#collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5060}
+#collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5060 5053}
+#collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5060 5053 5044}
+#create-a-node-here really 36.44 65 { \n\nUnease is widespread among exchange members.}
+#nextSentence really
+#autolink_nodes 5041 65 satelite cause  5061
+#create-a-node-here really 36.78 66 { "I can't think of any reason }
+#autolink_nodes 65 66 satelite explanation-argumentative  5062
+#create-a-node-here really 36.104 67 {to join Lloyd's now," }
+#autolink_nodes 66 67 satelite-embedded elaboration-object-attribute-e  5063
+#create-a-node-here really 36.182 68 {says Keith Whitten, a British businessman and a Lloyd's member since 1979.}
+#nextSentence really
+#autolink_nodes 5063 68 satelite attribution  5064
+#create-a-node-here really 36.222 69 { "The downside is very considerable,}
+#autolink_nodes 5064 69 satelite explanation-argumentative  5065
+#create-a-node-here really 36.274 70 { and at the moment the upside is very marginal."}
+#nextSentence really
+#autolink_nodes 69 70 multinuclear List  5066
+#create-a-node-here really 36.305 71 { If profits don't improve, }
+#autolink_nodes 5066 71 satelite elaboration-additional  5067
+#create-a-node-here really 36.326 72 {Mr. Whitten says }
+#autolink_nodes 71 72 nucleus condition  5068
+#create-a-node-here really 36.355 73 {he may quit the exchange.}
+#nextSentence really
+#autolink_nodes 72 73 nucleus attribution  5069
+#collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5060 5053 5044 5067}
+#create-a-node-here really 38.35 74 { \n\nMeanwhile, competition from rivals }
+#collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5060 5053 5044 5067 5062}
+#autolink_nodes 5007 74 multinuclear Topic-Drift below 5069
+#collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5060 5053 5044 5067 5062 5061}
+#create-a-node-here really 38.63 75 {unencumbered by history }
+#autolink_nodes 74 75 satelite-embedded elaboration-additional-e  5070
+#create-a-node-here really 38.83 76 {is intensifying.}
+#nextSentence really
+#autolink_nodes 5070 76 multinuclear Same-Unit  5071
+#create-a-node-here really 39.137 77 {\nLloyd's is being squeezed out of low-margin but more consistently profitable product lines such as primary property and marine insurance.}
+#nextSentence really
+#autolink_nodes 5071 77 satelite explanation-argumentative  5072
+#nextSentence really
+#create-a-node-here really 40.120 78 {\nOver the past decade, competitors have chipped away at the exchange's share of the #2.5 billion marine market in London,}
+#autolink_nodes 77 78 satelite background  5073
+#create-a-node-here really 40.166 79 { where half the world's ships are insured.}
+#nextSentence really
+#autolink_nodes 78 79 satelite-embedded elaboration-additional-e  5074
+#create-a-node-here really 42.67 80 { \n\nLloyd's 66% stake in that market has shrunk to 50% in that period, }
+#autolink_nodes 5074 80 satelite elaboration-general-specific  5075
+#create-a-node-here really 42.158 81 {according to an official at the Institute of London Underwriters, a Lloyd's competitor.}
+#nextSentence really
+#autolink_nodes 80 81 satelite attribution  5076
+#nextSentence really
+#create-a-node-here really 42.200 82 { (The official asked not to be named.)}
+#autolink_nodes 81 82 satelite elaboration-additional  5077
+#create-a-node-here really 42.295 83 { Much of the business has gone to the institute, an association of more than 100 insurers, }
+#autolink_nodes 5076 83 satelite elaboration-additional  5078
+#create-a-node-here really 42.408 84 {including Cigna Corp., Allianz Versicherungs AG of West Germany and Britain's Commercial Union Assurance PLC.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5060 5053 5044}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 30.28 45 {\n\nDuring the five-year period }
+autolink_nodes 5040 45 satelite explanation-argumentative  5041
+create-a-node-here really 30.44 46 {ended 1986, }
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5042
+create-a-node-here really 30.118 47 {roughly 80% of the names had money tied up in money-losing syndicates,}
+autolink_nodes 5042 47 multinuclear Same-Unit  5043
+create-a-node-here really 30.156 48 { according to Chatset consultants.}
+nextSentence really
+autolink_nodes 5043 48 satelite attribution  5044
+create-a-node-here really 31.70 49 {\nThe peril of unlimited liability looms large for a number of them now.}
+nextSentence really
+autolink_nodes 5044 49 satelite cause  5045
+create-a-node-here really 31.90 50 { "I have wished }
+autolink_nodes 5045 50 satelite explanation-argumentative  5046
+create-a-node-here really 31.106 51 {I could die }
+create-a-node-here really 31.127 52 {and be out of it }
+autolink_nodes 51 52 multinuclear Cause-Result  5047
+autolink_nodes 50 5047 nucleus attribution  5048
+create-a-node-here really 31.157 53 {-- that's how bad it is," }
+autolink_nodes 5048 53 satelite evaluation-s  5049
+create-a-node-here really 31.214 54 {Betty Atkins, a secretary from suburban London, says.}
+nextSentence really
+autolink_nodes 5049 54 satelite attribution  5050
+create-a-node-here really 33.12 55 { \n\nMs. Atkins, }
+autolink_nodes 5050 55 satelite circumstance  5051
+create-a-node-here really 33.84 56 {whose Lloyd's membership was a bonus from a former employer in 1981,}
+autolink_nodes 55 56 satelite-embedded elaboration-general-specific-e  5052
+create-a-node-here really 33.158 57 { belongs to Mr. Nutting's dissident group on the Outhwaite syndicate, }
+autolink_nodes 5052 57 multinuclear Same-Unit  5053
+create-a-node-here really 33.217 58 {which has been hard hit by asbestos reinsurance claims.}
+nextSentence really
+autolink_nodes 57 58 satelite-embedded elaboration-additional-e  5054
+create-a-node-here really 34.12 59 {\nMs. Atkins, }
+autolink_nodes 5053 59 multinuclear List above 5055
+create-a-node-here really 34.99 60 {who underwrote #20,000, or about $32,000, of insurance coverage on that syndicate, }
+autolink_nodes 59 60 satelite-embedded elaboration-additional-e  5056
+create-a-node-here really 34.162 61 {now faces potential losses of roughly #70,000, or $111,000.}
+nextSentence really
+autolink_nodes 5056 61 multinuclear Same-Unit  5057
+create-a-node-here really 34.203 62 { "If Lloyd's wants #70,000 out of me }
+autolink_nodes 5057 62 multinuclear Problem-Solution above 5058
+create-a-node-here really 34.250 63 {they will have to take everything I've got }
+autolink_nodes 62 63 nucleus condition  5059
+create-a-node-here really 34.284 64 {-- and even then I don't know }
+autolink_nodes 5059 64 nucleus concession  5060
+create-a-node-here really 34.311 65 {if it will be enough," }
+autolink_nodes 64 65 nucleus attribution-n  5061
+create-a-node-here really 34.324 66 {she says.}
+nextSentence really
+autolink_nodes 5060 66 satelite attribution  5062
+collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5058}
+collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5058 5055}
+collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5058 5055 5051}
+collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5058 5055 5051 5046}
+create-a-node-here really 36.44 67 { \n\nUnease is widespread among exchange members.}
+nextSentence really
+autolink_nodes 5041 67 multinuclear Reason  5063
+create-a-node-here really 36.77 68 { "I can't think of any reason}
+autolink_nodes 67 68 satelite explanation-argumentative  5064
+create-a-node-here really 36.104 69 { to join Lloyd's now," }
+autolink_nodes 68 69 satelite-embedded elaboration-object-attribute-e  5065
+create-a-node-here really 36.182 70 {says Keith Whitten, a British businessman and a Lloyd's member since 1979.}
+nextSentence really
+autolink_nodes 5065 70 satelite attribution  5066
+create-a-node-here really 36.223 71 { "The downside is very considerable, }
+autolink_nodes 5066 71 satelite elaboration-additional  5067
+create-a-node-here really 36.274 72 {and at the moment the upside is very marginal."}
+nextSentence really
+autolink_nodes 71 72 multinuclear List  5068
+create-a-node-here really 36.304 73 { If profits don't improve,}
+autolink_nodes 5068 73 satelite elaboration-additional  5069
+create-a-node-here really 36.326 74 { Mr. Whitten says }
+create-a-node-here really 36.355 75 {he may quit the exchange.}
+nextSentence really
+autolink_nodes 74 75 nucleus attribution  5070
+autolink_nodes 73 5070 nucleus condition  5071
+collapsed_nodes {5006 5017 5013 5029 5034 5022 5019 5058 5055 5051 5046}
+collapsed_nodes {5006 5058 5055 5051 5046}
+collapsed_nodes {5006}
+disconnect_node 56 disconnect
+autolink_nodes 55 56 satelite-embedded elaboration-additional-e  5072
+collapsed_nodes {5006 5053}
+collapsed_nodes {5006 5053 5069}
+collapsed_nodes {5006 5053 5069 5064}
+collapsed_nodes {5006 5053 5069 5064 5055}
+collapsed_nodes {5006 5053 5069 5064 5055 5051}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013}
+create-a-node-here really 38.35 76 { \n\nMeanwhile, competition from rivals }
+autolink_nodes 5007 76 multinuclear Topic-Drift below 5072
+create-a-node-here really 38.63 77 {unencumbered by history }
+autolink_nodes 76 77 satelite-embedded elaboration-object-attribute-e  5073
+create-a-node-here really 38.83 78 {is intensifying.}
+nextSentence really
+autolink_nodes 5073 78 multinuclear Same-Unit  5074
+create-a-node-here really 39.137 79 {\nLloyd's is being squeezed out of low-margin but more consistently profitable product lines such as primary property and marine insurance.}
+nextSentence really
+autolink_nodes 5074 79 satelite explanation-argumentative  5075
+nextSentence really
+create-a-node-here really 40.121 80 {\nOver the past decade, competitors have chipped away at the exchange's share of the #2.5 billion marine market in London, }
+autolink_nodes 79 80 satelite background  5076
+create-a-node-here really 40.166 81 {where half the world's ships are insured.}
+nextSentence really
+autolink_nodes 80 81 satelite-embedded elaboration-additional-e  5077
+create-a-node-here really 42.66 82 { \n\nLloyd's 66% stake in that market has shrunk to 50% in that period,}
+autolink_nodes 5077 82 satelite elaboration-part-whole  5078
+create-a-node-here really 42.158 83 { according to an official at the Institute of London Underwriters, a Lloyd's competitor.}
+nextSentence really
+autolink_nodes 82 83 satelite attribution  5079
+nextSentence really
+create-a-node-here really 42.200 84 { (The official asked not to be named.)}
+autolink_nodes 83 84 satelite elaboration-additional  5080
+create-a-node-here really 42.295 85 { Much of the business has gone to the institute, an association of more than 100 insurers, }
+autolink_nodes 5078 85 satelite elaboration-additional  5081
+create-a-node-here really 42.408 86 {including Cigna Corp., Allianz Versicherungs AG of West Germany and Britain's Commercial Union Assurance PLC.}
+nextSentence really
+autolink_nodes 85 86 satelite example  5082
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078}
+create-a-node-here really 44.47 87 { \n\nLloyd's has endured decades of genteel decline.}
+nextSentence really
+autolink_nodes 5075 87 multinuclear List  5083
+#create-a-node-here really 45.54 88 {\nAt the peak of its power and influence a century ago, }
+#autolink_nodes 87 88 satelite explanation-argumentative  5084
+#create-a-node-here really 45.113 89 {Lloyd's dominated the insurance world with a 50% stake.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 46.0 88 {\nAt the peak of its power and influence a century ago, Lloyd's dominated the insurance world with a 50% stake.\n}
+autolink_nodes 87 88 satelite explanation-argumentative  5084
+create-a-node-here really 46.53 89 {It virtually dictated how ships were to be built }
+autolink_nodes 88 89 multinuclear List  5085
+create-a-node-here really 46.150 90 {and it monitored commerce through a unrivaled intelligence network in ports around the globe.}
+nextSentence really
+autolink_nodes 89 90 multinuclear List  5086
+create-a-node-here really 48.41 91 { \n\nToday, Lloyd's share of the world market,}
+autolink_nodes 5084 91 multinuclear Contrast  5087
+create-a-node-here really 48.72 92 { excluding life insurance, }
+autolink_nodes 91 92 satelite-embedded elaboration-part-whole-e  5088
+create-a-node-here really 48.88 93 {is about 2%.}
+nextSentence really
+autolink_nodes 5088 93 multinuclear Same-Unit  5089
+#create-a-node-here really 48.123 94 { (Its stake is even smaller if }
+#autolink_nodes 5089 94 satelite elaboration-additional  5090
+#UNDID
+#UNDID
+create-a-node-here really 48.120 94 { (Its stake is even smaller }
+autolink_nodes 5089 94 satelite elaboration-additional  5090
+create-a-node-here really 48.156 95 {if life insurance is included.) }
+#autolink_nodes 94 95 satelite circumstance  5091
+#UNDID
+autolink_nodes 94 95 satelite condition  5091
+create-a-node-here really 48.201 96 {Bigger rivals, such as Aetna and Allianz,}
+autolink_nodes 5090 96 multinuclear Comparison  5092
+create-a-node-here really 48.239 97 { backed by armies of statisticians}
+autolink_nodes 96 97 satelite-embedded elaboration-additional-e  5093
+create-a-node-here really 48.285 98 { using computers in hundreds of branches, }
+autolink_nodes 97 98 satelite-embedded elaboration-additional-e  5094
+create-a-node-here really 48.314 99 {operate more efficiently }
+autolink_nodes 5093 99 multinuclear Same-Unit  5095
+create-a-node-here really 48.351 100 {and often can offer lower rates, }
+autolink_nodes 5095 100 multinuclear List above 5096
+create-a-node-here really 48.368 101 {brokers say.}
+nextSentence really
+autolink_nodes 5096 101 satelite attribution  5097
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005}
+create-a-node-here really 49.171 102 {\nThough Lloyd's pioneered such now-standard policies as worker's compensation insurance, burglary insurance for homeowners and businesses, and bankers' liability insurance,}
+autolink_nodes 5007 102 multinuclear Topic-Drift below 5097
+create-a-node-here really 49.226 103 { competitors now underwrite most of that business.}
+nextSentence really
+#autolink_nodes 102 103 nucleus concession  5098
+#UNDID
+autolink_nodes 102 103 nucleus concession  5098
+create-a-node-here really 51.100 104 { \n\nBeyond that, many big oil, chemical and airline companies are siphoning off big chunks of the market}
+autolink_nodes 5098 104 satelite elaboration-additional  5099
+create-a-node-here really 52.0 105 { by insuring themselves through "captive" offshore companies for industry-specific coverage.\n}
+autolink_nodes 104 105 satelite means  5100
+create-a-node-here really 52.28 106 {Even Lloyd's specialty }
+autolink_nodes 5099 106 nucleus concession  5101
+create-a-node-here really 52.64 107 {-- unusually risky ventures -- }
+#autolink_nodes 106 107 satelite-embedded elaboration-additional-e above 5101
+#UNDID
+autolink_nodes 106 107 satelite-embedded elaboration-additional-e below 5102
+#create-a-node-here really 52.89 108 {is being challenged.}
+#nextSentence really
+#autolink_nodes 5102 108 multinuclear Same-Unit  5103
+#create-a-node-here really 53.92 109 {\nOnly 10 years ago, for instance, Lloyd's was the pre-eminent insurer of thoroughbred horses.}
+#autolink_nodes 5103 109 satelite example below 5104
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 52.89 108 {is being challenged.}
+nextSentence really
+autolink_nodes 5102 108 multinuclear Same-Unit  5103
+create-a-node-here really 53.92 109 {\nOnly 10 years ago, for instance, Lloyd's was the pre-eminent insurer of thoroughbred horses.}
+nextSentence really
+autolink_nodes 5103 109 satelite example below 5104
+nextSentence really
+create-a-node-here really 54.98 110 {\nBut since 1981, Kirk Horse Insurance Inc. of Lexington, Ky. has grabbed a 20% stake of the market.}
+nextSentence really
+autolink_nodes 109 110 nucleus concession  5105
+create-a-node-here really 56.29 111 { \n\nRonald Kirk, president, says }
+autolink_nodes 5101 111 satelite explanation-argumentative  5106
+create-a-node-here really 56.55 112 {Lloyd's has suffered }
+autolink_nodes 111 112 nucleus attribution  5107
+create-a-node-here really 56.140 113 {because its structure doesn't allow underwriters to deal directly with clients; }
+autolink_nodes 112 113 satelite cause below 5108
+create-a-node-here really 56.181 114 {brokers are required intermediaries.}
+nextSentence really
+autolink_nodes 113 114 satelite restatement  5109
+create-a-node-here really 57.6 115 {\nThus, }
+autolink_nodes 5108 115 multinuclear Cause-Result  5110
+create-a-node-here really 57.22 116 {he asserts,}
+create-a-node-here really 57.71 117 { Lloyd's can't react quickly to competition.}
+nextSentence really
+autolink_nodes 116 117 nucleus attribution  5111
+autolink_nodes 115 5111 multinuclear Same-Unit  5112
+create-a-node-here really 57.122 118 { "Lloyd's has lost control of the situation," }
+autolink_nodes 5112 118 satelite elaboration-additional  5113
+create-a-node-here really 57.135 119 {he says.}
+nextSentence really
+autolink_nodes 118 119 satelite attribution  5114
+#create-a-node-here really 57.172 120 { "They aren't controlling their }
+#autolink_nodes 5114 120 satelite restatement  5115
+#UNDID
+#UNDID
+create-a-node-here really 57.180 120 { "They aren't controlling their destiny }
+autolink_nodes 5114 120 satelite restatement  5115
+create-a-node-here really 57.205 121 {like they used to." }
+autolink_nodes 120 121 multinuclear Comparison  5116
+create-a-node-here really 59.42 122 {\n\nMurray Lawrence, Lloyd's chairman, agrees }
+autolink_nodes 5107 122 satelite elaboration-additional  5117
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113}
+create-a-node-here really 59.81 123 {the exchange faces big challenges.}
+nextSentence really
+autolink_nodes 122 123 nucleus attribution  5118
+create-a-node-here really 59.114 124 { "This is a watershed time, }
+autolink_nodes 5118 124 satelite explanation-argumentative  5119
+create-a-node-here really 59.160 125 {and we are trying to plot our way ahead,"}
+autolink_nodes 124 125 multinuclear List  5120
+create-a-node-here really 59.174 126 { he says.}
+nextSentence really
+autolink_nodes 5120 126 satelite attribution  5121
+create-a-node-here really 59.209 127 { "We have been a great market }
+autolink_nodes 5121 127 satelite circumstance  5122
+create-a-node-here really 59.234 128 {for inventing risks }
+autolink_nodes 127 128 satelite-embedded elaboration-object-attribute-e  5123
+create-a-node-here really 59.274 129 {which other people then take, copy }
+autolink_nodes 128 129 satelite-embedded elaboration-additional-e  5124
+create-a-node-here really 59.294 130 {and cut rates."}
+nextSentence really
+#autolink_nodes 129 130 multinuclear Reason  5125
+#UNDID
+autolink_nodes 129 130 nucleus enablement  5125
+create-a-node-here really 61.8 131 { \n\nLloyd's,}
+autolink_nodes 5123 131 satelite elaboration-additional  5126
+create-a-node-here really 61.22 132 { he says,}
+create-a-node-here really 61.93 133 { is cut off from "the vast body of premium down at the bottom end }
+autolink_nodes 132 133 nucleus attribution  5127
+autolink_nodes 131 5127 multinuclear Same-Unit  5128
+create-a-node-here really 62.0 134 {which acts as a steadying influence" against catastrophic losses.\n}
+autolink_nodes 133 134 satelite-embedded elaboration-additional-e below 5129
+create-a-node-here really 62.108 135 {By that, he means low-margin but low-risk products such as certain types of primary property insurance.}
+nextSentence really
+autolink_nodes 5128 135 satelite interpretation-s  5130
+create-a-node-here really 63.14 136 {\nThe exchange, }
+autolink_nodes 5130 136 satelite elaboration-additional  5131
+create-a-node-here really 63.27 137 {he says,}
+create-a-node-here really 63.72 138 { must find new products and new markets.}
+nextSentence really
+autolink_nodes 137 138 nucleus attribution  5132
+autolink_nodes 136 5132 multinuclear Same-Unit  5133
+create-a-node-here really 65.27 139 { \n\nThat won't be an easy task.}
+nextSentence really
+autolink_nodes 5133 139 satelite comment  5134
+create-a-node-here really 66.33 140 {\nTradition is dictator at Lloyd's.}
+nextSentence really
+autolink_nodes 139 140 satelite explanation-argumentative  5135
+create-a-node-here really 67.88 141 {\nThree years ago, the exchange took up residence in a space-age tower of steel and glass }
+#autolink_nodes 140 141 satelite explanation-argumentative  5136
+#UNDID
+autolink_nodes 140 141 satelite explanation-argumentative  5136
+create-a-node-here really 67.141 142 {-- evocative of the kind of modern architecture }
+autolink_nodes 141 142 satelite-embedded elaboration-additional-e  5137
+create-a-node-here really 67.191 143 {that Britain's Prince Charles has denounced. }
+autolink_nodes 142 143 satelite-embedded elaboration-additional-e  5138
+nextSentence really
+create-a-node-here really 67.249 144 {(Some exchange wags call the building "the oil rig.")}
+autolink_nodes 5137 144 satelite elaboration-additional  5139
+#create-a-node-here really 67.379 145 { But along with such treasured artifacts as Lord Nelson's spyglass, Lloyd's also brought its outmoded ways of doing business.}
+#nextSentence really
+#autolink_nodes 5139 145 nucleus concession  5140
+#UNDID
+#autolink_nodes 5139 145 nucleus concession  5140
+#create-a-node-here really 69.74 146 { \n\nThe Lloyd's market actively underwrites insurance just 4 1/2 hours a day, }
+#autolink_nodes 145 146 satelite explanation-argumentative below 5141
+#create-a-node-here really 69.91 147 {brokers say.}
+#autolink_nodes 146 147 satelite attribution  5142
+#nextSentence really
+#nextSentence really
+#create-a-node-here really 71.0 148 {\nUnderwriting doesn't get under way until after morning tea at 10 a.m.\n}
+#autolink_nodes 5142 148 satelite explanation-argumentative  5143
+#create-a-node-here really 71.36 149 {A two-hour lunch break follows.}
+#nextSentence really
+#autolink_nodes 148 149 multinuclear List  5144
+#nextSentence really
+#nextSentence really
+#create-a-node-here really 72.68 150 {\nThings wind down at about 4:30 p.m., just in time for afternoon tea.}
+#nextSentence really
+#autolink_nodes 5144 150 multinuclear List below 5144
+#create-a-node-here really 74.65 151 { \n\nLloyd's vast trading hall houses a warren of well-polished desks.}
+#nextSentence really
+#autolink_nodes 5141 151 multinuclear List  5145
+#create-a-node-here really 75.58 152 {\nThe hall's few computers are used mostly to send messages.}
+#nextSentence really
+#autolink_nodes 151 152 multinuclear List  5146
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143}
+#autolink_nodes 5140 151 satelite elaboration-additional  5145
+#create-a-node-here really 76.0 152 {\nThe hall's few computers are used mostly to send messages.\n}
+#UNDID
+#UNDID
+#autolink_nodes 5143 151 multinuclear List  5145
+#create-a-node-here really 76.0 152 {\nThe hall's few computers are used mostly to send messages.\n}
+#autolink_nodes 151 152 multinuclear List  5146
+#create-a-node-here really 76.31 153 {Sandwiched between desks, }
+#autolink_nodes 5146 153 satelite explanation-argumentative  5147
+#create-a-node-here really 76.64 154 {underwriters sit on benches }
+#autolink_nodes 153 154 nucleus-embedded elaboration-additional-e  5148
+#create-a-node-here really 76.102 155 {surrounded by stacks of policies.}
+#nextSentence really
+#autolink_nodes 154 155 satelite-embedded elaboration-additional-e below 5149
+#create-a-node-here really 77.8 156 {\nBrokers }
+#autolink_nodes 5148 156 multinuclear List  5150
+#create-a-node-here really 77.36 157 {clutching thick folders}
+#autolink_nodes 156 157 satelite-embedded elaboration-additional-e  5151
+#create-a-node-here really 77.57 158 { stand in lines,}
+#autolink_nodes 5151 158 multinuclear Same-Unit  5152
+#create-a-node-here really 77.81 159 { waiting their turn}
+#autolink_nodes 158 159 satelite purpose  5153
+#create-a-node-here really 77.116 160 { to speak to the underwriters.}
+#nextSentence really
+#autolink_nodes 159 160 satelite-embedded elaboration-object-attribute-e  5154
+#create-a-node-here really 78.56 161 {\nA broker may have to approach as many as 20 underwriters}
+#autolink_nodes 5152 161 satelite elaboration-additional  5155
+#create-a-node-here really 78.115 162 { who insure the endeavors on behalf of the syndicates.}
+#nextSentence really
+#autolink_nodes 161 162 satelite-embedded elaboration-additional-e  5156
+#create-a-node-here really 79.48 163 {\nIt could take six months for a claim to be paid.}
+#nextSentence really
+#autolink_nodes 5156 163 satelite elaboration-additional  5157
+#create-a-node-here really 81.14 164 { \n\n"The system," }
+#autolink_nodes 5157 164 satelite elaboration-additional  5158
+#UNDID
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157}
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152}
+#autolink_nodes 5150 164 satelite elaboration-additional  5158
+#create-a-node-here really 81.66 165 {says Nicholas Samengo-Turner, a Lloyd's broker }
+#create-a-node-here really 81.101 166 {who left the exchange in 1985,}
+#autolink_nodes 165 166 satelite-embedded elaboration-additional-e  5159
+#create-a-node-here really 81.140 167 { "is so ludicrously unprofessional}
+#autolink_nodes 5159 167 nucleus attribution  5160
+#autolink_nodes 164 5160 multinuclear Same-Unit  5161
+#create-a-node-here really 81.166 168 { it drives you mad." }
+#autolink_nodes 5161 168 satelite consequence-s  5162
+#UNDID
+#autolink_nodes 5161 168 satelite consequence-s  5162
+#disconnect_node 5162 disconnect
+#autolink_nodes 5150 5162 satelite evaluation-s  5163
+#create-a-node-here really 83.48 169 {\n\nSome maintain underwriters also have been inept.}
+#nextSentence really
+#autolink_nodes 5163 169 multinuclear List  5164
+#create-a-node-here really 84.44 170 {\nJohn Wetherell, a Lloyd's underwriter, says }
+#autolink_nodes 169 170 satelite explanation-argumentative  5165
+#create-a-node-here really 84.125 171 {he and his fellow underwriters underestimated by as much as 50% the premiums}
+#autolink_nodes 170 171 nucleus attribution  5166
+#create-a-node-here really 84.193 172 { they should have charged for property risks from 1980 to 1985.}
+#nextSentence really
+#autolink_nodes 171 172 satelite-embedded elaboration-additional-e below 5167
+#create-a-node-here really 84.262 173 { "How unprofessional we must have appeared to the outside world }
+#autolink_nodes 5166 173 satelite evaluation-s  5168
+#create-a-node-here really 84.322 174 {-- how incompetent at risk assessment and evaluation," }
+#autolink_nodes 173 174 satelite elaboration-additional  5169
+#create-a-node-here really 84.335 175 {he says.}
+#nextSentence really
+#autolink_nodes 5169 175 satelite attribution  5170
+#create-a-node-here really 85.51 176 {\nLloyd's officials decline to comment on the matter.}
+#nextSentence really
+#autolink_nodes 5165 176 satelite elaboration-additional  5171
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171}
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164}
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140}
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140 5134}
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140 5134 5131}
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140 5134 5131 5122}
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140 5134 5131 5122 5117}
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140 5134 5131 5122 5117 5106}
+#create-a-node-here really 87.45 177 { \n\nMore recently, property rates have increased.}
+#nextSentence really
+#autolink_nodes 5007 177 multinuclear Topic-Drift below 5171
+#create-a-node-here really 88.23 178 {\nMany at Lloyd's expect }
+#autolink_nodes 177 178 satelite elaboration-additional  5172
+#create-a-node-here really 88.109 179 {the San Francisco earthquake will cause the industry to boost rates even further.}
+#nextSentence really
+#autolink_nodes 178 179 nucleus attribution  5173
+#create-a-node-here really 89.21 180 {\nBut it will be years }
+#autolink_nodes 5173 180 nucleus concession  5174
+#create-a-node-here really 89.109 181 {before it is clear whether higher rates will offset the payouts for such disasters.}
+#nextSentence really
+#autolink_nodes 180 181 nucleus circumstance  5175
+#create-a-node-here really 91.75 182 { \n\nThe magnitude of the exchange's problems may not become known for some time}
+#autolink_nodes 5175 182 satelite explanation-argumentative below 5176
+#create-a-node-here really 91.109 183 { because of Lloyd's practice }
+#autolink_nodes 182 183 satelite result  5177
+#create-a-node-here really 91.156 184 {of leaving the books open for three years }
+#autolink_nodes 183 184 satelite elaboration-object-attribute  5178
+#create-a-node-here really 91.199 185 {to allow for the settlement of claims.}
+#nextSentence really
+#autolink_nodes 184 185 satelite topic-shift  5179
+#UNDID
+#autolink_nodes 184 185 satelite purpose  5179
+#create-a-node-here really 93.0 186 {\nLloyd's only recently reported its financial results for 1986.\n}
+#autolink_nodes 5178 186 satelite example  5180
+#create-a-node-here really 93.71 187 {That year, it posted record pretax profit of #650 million, a gain }
+#autolink_nodes 186 187 satelite circumstance  5181
+#create-a-node-here really 93.123 188 {it attributes to higher rates and fewer claims.}
+#nextSentence really
+#autolink_nodes 187 188 satelite-embedded elaboration-additional-e  5182
+#create-a-node-here really 95.22 189 { \n\nBut Mr. Lawrence says }
+#autolink_nodes 5182 189 nucleus concession  5183
+#create-a-node-here really 95.79 190 {reported profit will be down in 1987, 1988 and 1989,}
+#autolink_nodes 189 190 nucleus attribution  5184
+#create-a-node-here really 95.115 191 { though he declines to specify }
+#autolink_nodes 5184 191 multinuclear Contrast  5185
+#create-a-node-here really 95.150 192 {how steep the decline will be.}
+#nextSentence really
+#autolink_nodes 191 192 nucleus attribution-n  5186
+#create-a-node-here really 96.23 193 {\nInsurance analysts say }
+#autolink_nodes 5183 193 satelite explanation-argumentative  5187
+#create-a-node-here really 96.141 194 {the exchange's downturn in profitability is likely to be aggravated by more than $600 million in aviation losses }
+#autolink_nodes 193 194 nucleus attribution  5188
+#create-a-node-here really 96.215 195 {(including the 1988 Pan Am airline disaster over Lockerbie, Scotland)}
+#autolink_nodes 194 195 satelite example below 5189
+#create-a-node-here really 96.294 196 { and a still-uncalculated chunk of claims from September's Hurricane Hugo.}
+#nextSentence really
+#autolink_nodes 5189 196 multinuclear Same-Unit  5190
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140 5134 5131 5122 5117 5106 5187}
+#create-a-node-here really 98.13 197 { \n\nLloyd's says }
+#autolink_nodes 5181 197 satelite elaboration-additional  5191
+#create-a-node-here really 98.118 198 {the departures of names isn't likely to hurt its underwriting capacity, currently about #11 billion.}
+#nextSentence really
+#autolink_nodes 197 198 nucleus attribution  5192
+#create-a-node-here really 99.18 199 {\nMr. Lawrence says }
+#autolink_nodes 5192 199 satelite elaboration-additional  5193
+#create-a-node-here really 99.111 200 {the drain of funds has been offset by an increase in investments by the remaining names.}
+#nextSentence really
+#autolink_nodes 199 200 nucleus attribution  5194
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140 5134 5131 5122 5117 5106 5187 5191}
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140 5134 5131 5122 5117 5106 5187 5191 5174}
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140 5134 5131 5122 5117 5106 5187 5191 5174 5172}
+#create-a-node-here really 100.55 201 {\nMeanwhile, the exchange has been trying to lower costs.}
+#nextSentence really
+#autolink_nodes 5007 201 multinuclear Topic-Drift below 5194
+#nextSentence really
+#create-a-node-here really 100.109 202 { (It recently cut its work force by 9%, or 213.) }
+#autolink_nodes 201 202 satelite elaboration-additional  5195
+#UNDID
+#autolink_nodes 201 202 satelite explanation-argumentative  5195
+#create-a-node-here really 102.39 203 {\n\nBut Lloyd's is hampered in its efforts }
+#autolink_nodes 5195 203 nucleus concession  5196
+#create-a-node-here really 102.67 204 {to overhaul operations }
+#autolink_nodes 203 204 satelite-embedded elaboration-object-attribute-e below 5197
+#create-a-node-here really 103.0 205 {by its reluctance to embrace modern technology.\n}
+#UNDID
+#create-a-node-here really 102.90 205 {by its reluctance }
+#autolink_nodes 5197 205 multinuclear Same-Unit  5198
+#create-a-node-here really 103.0 206 {to embrace modern technology.\n}
+#autolink_nodes 205 206 satelite-embedded elaboration-object-attribute-e  5199
+#create-a-node-here really 103.99 207 {Mr. Wetherell, the underwriter, reckons half of his business could be transacted by computer, }
+#create-a-node-here really 103.131 208 {cutting costs at least 10%.}
+#nextSentence really
+#autolink_nodes 207 208 satelite purpose  5200
+#UNDID
+#autolink_nodes 207 208 multinuclear Cause-Result  5200
+#create-a-node-here really 104.82 209 {\nThough Lloyd's has talked for years about computerizing underwriting transactions,}
+#autolink_nodes 5200 209 satelite background  5201
+#create-a-node-here really 105.0 210 { the effort hasn't gotten very far.\n}
+#autolink_nodes 209 210 nucleus concession  5202
+#create-a-node-here really 105.108 211 {Competition among underwriters and brokers makes them loath to centralize price and policy information.}
+#nextSentence really
+#autolink_nodes 5202 211 satelite explanation-argumentative  5203
+#create-a-node-here really 106.82 212 {\nBoth groups cling to traditional face-to-face dealings, even for routine policies.}
+#nextSentence really
+#autolink_nodes 211 212 satelite elaboration-additional  5204
+#autolink_nodes 5198 5201 satelite explanation-argumentative below 5205
+#create-a-node-here really 108.50 213 { \n\nLloyd's overblown bureaucracy also hampers efforts}
+#autolink_nodes 5205 213 multinuclear List  5206
+#create-a-node-here really 108.87 214 { to update marketing strategies.}
+#nextSentence really
+#autolink_nodes 213 214 satelite-embedded elaboration-object-attribute-e  5207
+#create-a-node-here really 109.78 215 {\nSome underwriters have been pressing for years to tap the low-margin business }
+#create-a-node-here really 109.130 216 {by selling some policies directly to consumers.}
+#nextSentence really
+#autolink_nodes 215 216 satelite means  5208
+#create-a-node-here really 110.68 217 {\nLloyd's presently sells only auto insurance directly to the public, }
+#autolink_nodes 5208 217 satelite explanation-argumentative  5209
+#create-a-node-here really 110.152 218 {and such policies are sold only in limited markets such as the U.K. and Canada.}
+#nextSentence really
+#autolink_nodes 217 218 satelite elaboration-additional  5210
+#create-a-node-here really 112.116 219 { \n\nBut such changes must be cleared by four internal committees and dozens of underwriters, brokers and administrators }
+#autolink_nodes 5209 219 nucleus concession  5211
+#create-a-node-here really 112.146 220 {before being implemented.}
+#nextSentence really
+#autolink_nodes 219 220 nucleus circumstance  5212
+#create-a-node-here really 113.13 221 {\nThe proposal }
+#autolink_nodes 5212 221 multinuclear Cause-Result  5213
+#create-a-node-here really 113.49 222 {to sell directly to the public }
+#autolink_nodes 221 222 satelite-embedded elaboration-object-attribute-e  5214
+#create-a-node-here really 113.94 223 {remains mired in bureaucratic quicksand.}
+#nextSentence really
+#autolink_nodes 5214 223 multinuclear Same-Unit  5215
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140 5134 5131 5122 5117 5106 5187 5191 5174 5172 5209}
+#autolink_nodes 5207 5211 satelite explanation-argumentative  5216
+#create-a-node-here really 115.49 224 { \n\nLloyd's is moving forward on some fronts, though.}
+#nextSentence really
+#autolink_nodes 5216 224 nucleus concession  5217
+#create-a-node-here really 116.18 225 {\nMr. Lawrence says }
+#autolink_nodes 224 225 satelite elaboration-additional below 5218
+#create-a-node-here really 116.64 226 {the exchange is updating some procedures }
+#autolink_nodes 225 226 nucleus attribution  5219
+#create-a-node-here really 116.105 227 {to make speedier payments on claims.}
+#nextSentence really
+#autolink_nodes 226 227 satelite purpose below 5220
+#create-a-node-here really 117.74 228 {\nBy next year, all underwriters will be linked to a communications network }
+#autolink_nodes 5220 228 satelite explanation-argumentative below 5221
+#UNDID
+#autolink_nodes 5220 228 satelite example below 5221
+#create-a-node-here really 117.118 229 {that could reduce paper work on claims.}
+#autolink_nodes 228 229 satelite elaboration-additional  5222
+#collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5143 5157 5152 5171 5164 5140 5134 5131 5122 5117 5106 5187 5191 5174 5172 5209 5007}
+#collapsed_nodes {}
+#UNDID
+#collapsed_nodes {}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 68.0 146 { \n}
+#UNDID
+#UNDID
+create-a-node-here really 67.360 145 { But along with such treasured artifacts as Lord Nelson's spyglass, Lloyd's also brought its outmoded ways}
+autolink_nodes 5139 145 nucleus concession  5140
+create-a-node-here really 67.384 146 { of doing business.}
+nextSentence really
+autolink_nodes 145 146 satelite-embedded elaboration-object-attribute-e below 5141
+create-a-node-here really 69.73 147 { \n\nThe Lloyd's market actively underwrites insurance just 4 1/2 hours a day,}
+autolink_nodes 5141 147 satelite explanation-argumentative below 5142
+create-a-node-here really 69.91 148 { brokers say.}
+nextSentence really
+autolink_nodes 147 148 satelite attribution  5143
+nextSentence really
+create-a-node-here really 70.69 149 {\nUnderwriting doesn't get under way until after morning tea at 10 a.m.}
+nextSentence really
+autolink_nodes 5143 149 multinuclear List  5144
+create-a-node-here really 71.31 150 {\nA two-hour lunch break follows.}
+nextSentence really
+autolink_nodes 5144 150 multinuclear List below 5144
+nextSentence really
+nextSentence really
+create-a-node-here really 72.68 151 {\nThings wind down at about 4:30 p.m., just in time for afternoon tea.}
+nextSentence really
+autolink_nodes 5144 151 multinuclear List below 5144
+create-a-node-here really 74.65 152 { \n\nLloyd's vast trading hall houses a warren of well-polished desks.}
+nextSentence really
+autolink_nodes 5144 152 multinuclear List above 5145
+create-a-node-here really 75.33 153 {\nThe hall's few computers are used}
+autolink_nodes 5145 153 multinuclear List below 5145
+create-a-node-here really 75.63 154 { mostly to send messages.}
+nextSentence really
+autolink_nodes 153 154 satelite purpose  5146
+create-a-node-here really 76.25 155 {\nSandwiched between desks,}
+create-a-node-here really 76.59 156 { underwriters sit on benches }
+#autolink_nodes 155 156 nucleus-embedded elaboration-additional-e  5147
+#UNDID
+autolink_nodes 155 156 nucleus-embedded elaboration-additional-e  5147
+autolink_nodes 5145 5147 satelite explanation-argumentative  5148
+create-a-node-here really 76.97 157 {surrounded by stacks of policies.}
+autolink_nodes 156 157 satelite-embedded elaboration-additional-e below 5149
+create-a-node-here really 77.8 158 {\nBrokers }
+autolink_nodes 5147 158 multinuclear List  5150
+create-a-node-here really 77.37 159 {clutching thick folders }
+autolink_nodes 158 159 satelite-embedded elaboration-additional-e  5151
+create-a-node-here really 77.57 160 {stand in lines,}
+autolink_nodes 5151 160 multinuclear Same-Unit  5152
+create-a-node-here really 77.82 161 { waiting their turn }
+autolink_nodes 160 161 satelite purpose  5153
+create-a-node-here really 77.116 162 {to speak to the underwriters.}
+nextSentence really
+autolink_nodes 161 162 satelite-embedded elaboration-object-attribute-e  5154
+create-a-node-here really 78.57 163 {\nA broker may have to approach as many as 20 underwriters }
+autolink_nodes 5152 163 satelite elaboration-additional  5155
+create-a-node-here really 78.115 164 {who insure the endeavors on behalf of the syndicates.}
+nextSentence really
+autolink_nodes 163 164 satelite-embedded elaboration-additional-e  5156
+create-a-node-here really 79.48 165 {\nIt could take six months for a claim to be paid.}
+nextSentence really
+autolink_nodes 5156 165 satelite elaboration-additional  5157
+create-a-node-here really 81.14 166 { \n\n"The system," }
+autolink_nodes 5157 166 satelite explanation-argumentative  5158
+create-a-node-here really 81.66 167 {says Nicholas Samengo-Turner, a Lloyd's broker }
+autolink_nodes 166 167 satelite attribution  5159
+create-a-node-here really 81.101 168 {who left the exchange in 1985,}
+autolink_nodes 167 168 satelite-embedded elaboration-additional-e  5160
+create-a-node-here really 81.140 169 { "is so ludicrously unprofessional}
+autolink_nodes 5159 169 multinuclear Same-Unit  5161
+create-a-node-here really 81.165 170 { it drives you mad."}
+nextSentence really
+autolink_nodes 5161 170 satelite consequence-s  5162
+create-a-node-here really 83.14 171 { \n\nSome maintain }
+autolink_nodes 5162 171 multinuclear List  5163
+create-a-node-here really 83.53 172 {underwriters also have been inept.}
+nextSentence really
+autolink_nodes 171 172 nucleus attribution  5164
+create-a-node-here really 84.44 173 {\nJohn Wetherell, a Lloyd's underwriter, says }
+autolink_nodes 5164 173 satelite elaboration-general-specific  5165
+create-a-node-here really 84.126 174 {he and his fellow underwriters underestimated by as much as 50% the premiums }
+autolink_nodes 173 174 nucleus attribution  5166
+create-a-node-here really 84.193 175 {they should have charged for property risks from 1980 to 1985.}
+nextSentence really
+autolink_nodes 174 175 satelite-embedded elaboration-object-attribute-e below 5167
+create-a-node-here really 84.262 176 { "How unprofessional we must have appeared to the outside world }
+autolink_nodes 5166 176 satelite evaluation-s  5168
+create-a-node-here really 84.322 177 {-- how incompetent at risk assessment and evaluation," }
+autolink_nodes 176 177 satelite elaboration-additional  5169
+create-a-node-here really 84.335 178 {he says.}
+nextSentence really
+autolink_nodes 5169 178 satelite attribution  5170
+create-a-node-here really 85.51 179 {\nLloyd's officials decline to comment on the matter.}
+nextSentence really
+#autolink_nodes 5168 179 satelite elaboration-additional  5171
+#UNDID
+autolink_nodes 5165 179 satelite elaboration-additional  5171
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158 5147}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158 5147 5150}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158 5147 5150 5148}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158 5147 5150 5148 5136}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158 5147 5150 5148 5136 5106}
+create-a-node-here really 88.0 180 { \n\nMore recently, property rates have increased.\n}
+autolink_nodes 5007 180 multinuclear Topic-Drift below 5171
+create-a-node-here really 88.28 181 {Many at Lloyd's expect }
+autolink_nodes 180 181 satelite elaboration-additional  5172
+create-a-node-here really 88.114 182 {the San Francisco earthquake will cause the industry to boost rates even further.}
+nextSentence really
+autolink_nodes 181 182 nucleus attribution  5173
+create-a-node-here really 89.21 183 {\nBut it will be years }
+autolink_nodes 5173 183 satelite explanation-argumentative  5174
+create-a-node-here really 89.109 184 {before it is clear whether higher rates will offset the payouts for such disasters.}
+nextSentence really
+autolink_nodes 183 184 nucleus circumstance  5175
+create-a-node-here really 91.75 185 { \n\nThe magnitude of the exchange's problems may not become known for some time}
+change_rel 5175 concession
+disconnect_node 5175 disconnect
+autolink_nodes 5173 5175 nucleus concession  5176
+autolink_nodes 5176 185 satelite explanation-argumentative  5177
+create-a-node-here really 91.109 186 { because of Lloyd's practice }
+autolink_nodes 185 186 nucleus result  5178
+create-a-node-here really 91.155 187 {of leaving the books open for three years}
+autolink_nodes 186 187 satelite-embedded elaboration-object-attribute-e below 5179
+create-a-node-here really 91.199 188 { to allow for the settlement of claims.}
+nextSentence really
+autolink_nodes 187 188 satelite purpose  5180
+create-a-node-here really 92.62 189 {\nLloyd's only recently reported its financial results for 1986.}
+nextSentence really
+autolink_nodes 5178 189 satelite example  5181
+create-a-node-here really 93.65 190 {\nThat year, it posted record pretax profit of #650 million, a gain}
+autolink_nodes 189 190 satelite circumstance  5182
+create-a-node-here really 93.118 191 { it attributes to higher rates and fewer claims.}
+nextSentence really
+autolink_nodes 190 191 satelite-embedded elaboration-additional-e  5183
+create-a-node-here really 95.22 192 { \n\nBut Mr. Lawrence says }
+autolink_nodes 5182 192 nucleus concession  5184
+create-a-node-here really 95.80 193 {reported profit will be down in 1987, 1988 and 1989, }
+autolink_nodes 192 193 nucleus attribution  5185
+create-a-node-here really 95.115 194 {though he declines to specify }
+autolink_nodes 5185 194 multinuclear Contrast  5186
+create-a-node-here really 95.150 195 {how steep the decline will be.}
+nextSentence really
+autolink_nodes 194 195 nucleus attribution-n  5187
+create-a-node-here really 96.23 196 {\nInsurance analysts say }
+autolink_nodes 5186 196 satelite explanation-argumentative below 5188
+create-a-node-here really 96.141 197 {the exchange's downturn in profitability is likely to be aggravated by more than $600 million in aviation losses }
+autolink_nodes 196 197 nucleus attribution  5189
+create-a-node-here really 96.215 198 {(including the 1988 Pan Am airline disaster over Lockerbie, Scotland)}
+#autolink_nodes 197 198 satelite example below 5190
+#create-a-node-here really 96.294 199 { and a still-uncalculated chunk of claims from September's Hurricane Hugo.}
+#nextSentence really
+#autolink_nodes 5190 199 multinuclear Same-Unit  5191
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 197 198 satelite-embedded example-e below 5190
+create-a-node-here really 96.295 199 { and a still-uncalculated chunk of claims from September's Hurricane Hugo. }
+autolink_nodes 5190 199 multinuclear Same-Unit  5191
+create-a-node-here really 98.13 200 {\n\nLloyd's says }
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158 5147 5150 5148 5136 5106 5186}
+autolink_nodes 5184 200 satelite elaboration-additional  5192
+create-a-node-here really 98.118 201 {the departures of names isn't likely to hurt its underwriting capacity, currently about #11 billion.}
+nextSentence really
+autolink_nodes 200 201 nucleus attribution  5193
+create-a-node-here really 99.18 202 {\nMr. Lawrence says }
+autolink_nodes 5193 202 satelite elaboration-additional  5194
+create-a-node-here really 99.111 203 {the drain of funds has been offset by an increase in investments by the remaining names.}
+nextSentence really
+autolink_nodes 202 203 nucleus attribution  5195
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158 5147 5150 5148 5136 5106 5186 5192}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158 5147 5150 5148 5136 5106 5186 5192 5177}
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158 5147 5150 5148 5136 5106 5186 5192 5177 5172}
+create-a-node-here really 100.55 204 {\nMeanwhile, the exchange has been trying to lower costs.}
+nextSentence really
+autolink_nodes 5007 204 multinuclear Topic-Drift below 5195
+nextSentence really
+create-a-node-here really 100.109 205 { (It recently cut its work force by 9%, or 213.) }
+autolink_nodes 204 205 satelite explanation-argumentative  5196
+create-a-node-here really 102.38 206 {\n\nBut Lloyd's is hampered in its efforts}
+autolink_nodes 5196 206 nucleus concession  5197
+create-a-node-here really 102.66 207 { to overhaul operations}
+autolink_nodes 206 207 satelite-embedded elaboration-object-attribute-e below 5198
+create-a-node-here really 102.90 208 { by its reluctance }
+autolink_nodes 5198 208 satelite means below 5199
+create-a-node-here really 102.124 209 {to embrace modern technology.}
+nextSentence really
+autolink_nodes 208 209 satelite-embedded elaboration-object-attribute-e  5200
+create-a-node-here really 103.40 210 {\nMr. Wetherell, the underwriter, reckons }
+autolink_nodes 5199 210 satelite explanation-argumentative below 5201
+create-a-node-here really 103.98 211 {half of his business could be transacted by computer,}
+autolink_nodes 210 211 nucleus attribution  5202
+create-a-node-here really 103.131 212 { cutting costs at least 10%.}
+nextSentence really
+autolink_nodes 211 212 multinuclear Cause-Result  5203
+create-a-node-here really 104.82 213 {\nThough Lloyd's has talked for years about computerizing underwriting transactions,}
+autolink_nodes 5202 213 satelite background  5204
+create-a-node-here really 104.122 214 { the effort hasn't gotten very far.}
+nextSentence really
+autolink_nodes 213 214 nucleus concession  5205
+create-a-node-here really 105.103 215 {\nCompetition among underwriters and brokers makes them loath to centralize price and policy information.}
+nextSentence really
+autolink_nodes 5205 215 satelite explanation-argumentative  5206
+create-a-node-here really 106.82 216 {\nBoth groups cling to traditional face-to-face dealings, even for routine policies.}
+nextSentence really
+autolink_nodes 215 216 satelite elaboration-additional  5207
+create-a-node-here really 108.51 217 { \n\nLloyd's overblown bureaucracy also hampers efforts }
+autolink_nodes 5201 217 multinuclear List  5208
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158 5147 5150 5148 5136 5106 5186 5192 5177 5172 5204}
+create-a-node-here really 108.87 218 {to update marketing strategies.}
+nextSentence really
+autolink_nodes 217 218 satelite-embedded elaboration-object-attribute-e  5209
+create-a-node-here really 109.77 219 {\nSome underwriters have been pressing for years to tap the low-margin business}
+autolink_nodes 5209 219 satelite explanation-argumentative  5210
+create-a-node-here really 109.130 220 { by selling some policies directly to consumers.}
+nextSentence really
+autolink_nodes 219 220 satelite means  5211
+create-a-node-here really 110.68 221 {\nLloyd's presently sells only auto insurance directly to the public, }
+autolink_nodes 5211 221 satelite explanation-argumentative  5212
+create-a-node-here really 110.152 222 {and such policies are sold only in limited markets such as the U.K. and Canada.}
+nextSentence really
+autolink_nodes 221 222 satelite elaboration-additional  5213
+create-a-node-here really 112.116 223 { \n\nBut such changes must be cleared by four internal committees and dozens of underwriters, brokers and administrators }
+autolink_nodes 5213 223 nucleus concession  5214
+create-a-node-here really 112.146 224 {before being implemented.}
+nextSentence really
+autolink_nodes 223 224 nucleus circumstance  5215
+create-a-node-here really 113.12 225 {\nThe proposal}
+autolink_nodes 5215 225 multinuclear Cause-Result  5216
+create-a-node-here really 113.49 226 { to sell directly to the public }
+autolink_nodes 225 226 satelite-embedded elaboration-object-attribute-e  5217
+create-a-node-here really 113.94 227 {remains mired in bureaucratic quicksand.}
+nextSentence really
+autolink_nodes 5217 227 multinuclear Same-Unit  5218
+create-a-node-here really 115.49 228 { \n\nLloyd's is moving forward on some fronts, though.}
+nextSentence really
+#autolink_nodes 5214 228 nucleus concession  5219
+#UNDID
+collapsed_nodes {5006 5053 5069 5064 5055 5051 5063 5037 5034 5022 5015 5017 5013 5078 5097 5087 5083 5019 5005 5113 5171 5163 5158 5147 5150 5148 5136 5106 5186 5192 5177 5172 5204 5214}
+autolink_nodes 5210 228 nucleus concession  5219
+create-a-node-here really 116.18 229 {\nMr. Lawrence says }
+autolink_nodes 228 229 satelite elaboration-additional below 5220
+create-a-node-here really 116.63 230 {the exchange is updating some procedures}
+autolink_nodes 229 230 nucleus attribution  5221
+create-a-node-here really 116.105 231 { to make speedier payments on claims.}
+autolink_nodes 230 231 satelite purpose below 5222
+create-a-node-here really 117.73 232 {\nBy next year, all underwriters will be linked to a communications network}
+autolink_nodes 5221 232 satelite example  5223
+create-a-node-here really 117.118 233 { that could reduce paper work on claims.}
+nextSentence really
+autolink_nodes 232 233 satelite-embedded elaboration-object-attribute-e  5224
+collapsed_nodes {}
+disconnect_node 35 disconnect
+autolink_nodes 34 35 satelite-embedded interpretation-s-e  5225
+disconnect_node 116 disconnect
+autolink_nodes 115 116 satelite-embedded attribution-e  5226
+disconnect_node 132 disconnect
+autolink_nodes 131 132 satelite-embedded attribution-e  5227
+disconnect_node 137 disconnect
+autolink_nodes 136 137 satelite-embedded attribution-e  5228
+disconnect_node 5160 disconnect
+autolink_nodes 166 5160 satelite-embedded attribution-e  5229
+collapsed_nodes {5007}
+collapsed_nodes {}
+collapsed_nodes {5007}
+collapsed_nodes {}

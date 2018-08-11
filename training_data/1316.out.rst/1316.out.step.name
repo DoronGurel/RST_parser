@@ -1,0 +1,129 @@
+nextSentence really
+create-a-node-here really 2.81 1 {\nIngersoll Publications Co. agreed to buy the New Haven Register in a transaction }
+create-a-node-here really 2.107 2 {valued at $275 million }
+create-a-node-here really 3.0 3 {from Goodson Newspaper Group Inc. \n}
+#autolink_nodes 1 3 multinuclear Same-Unit  5001
+#UNDID
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 4.63 4 {\nAs part of the agreement, Goodson also terminated the contract }
+autolink_nodes 5002 4 satelite elaboration-additional  5003
+change_rel 4 elaboration-part-whole
+create-a-node-here really 4.120 5 {under which Ingersoll manages Goodson's 66 newspapers,}
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5004
+create-a-node-here really 4.176 6 { ending a long association between the two companies }
+autolink_nodes 5004 6 satelite result  5005
+create-a-node-here really 4.224 7 {that has turned increasingly bitter recently.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 5.141 8 {\nGoodson has accused Ingersoll of paying less attention to its properties and more to such ventures as the recent launch of the St. Louis Sun.}
+nextSentence really
+autolink_nodes 5003 8 satelite elaboration-additional  5007
+create-a-node-here really 7.95 9 { \n\nUnder the terms of the accord, Ingersoll will pay about $255 million for the Register, a daily }
+autolink_nodes 8 9 satelite elaboration-part-whole  5008
+create-a-node-here really 7.149 10 {that Goodson bought for about $170 million in 1986.}
+nextSentence really
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5009
+create-a-node-here really 8.85 11 {\nGoodson will pay the additional $20 million in settlement of the management contract.}
+nextSentence really
+autolink_nodes 5009 11 multinuclear List  5010
+create-a-node-here really 9.23 12 {\nGoodson also announced }
+autolink_nodes 5008 12 satelite elaboration-additional  5011
+create-a-node-here really 9.101 13 {that it hired the former president and senior vice president of Ingersoll }
+autolink_nodes 12 13 nucleus attribution  5012
+create-a-node-here really 9.131 14 {to run the Goodson papers.}
+nextSentence really
+autolink_nodes 13 14 satelite purpose below 5013
+create-a-node-here really 11.0 15 {\nBoth executives left the company after clashes with Chairman Ralph Ingersoll Jr. \n}
+autolink_nodes 5012 15 satelite cause  5014
+change_rel 15 reason
+create-a-node-here really 12.8 16 {\nGoodson,}
+autolink_nodes 5007 16 satelite background  5015
+create-a-node-here really 12.34 17 { which is based here, }
+autolink_nodes 16 17 satelite elaboration-object-attribute  5016
+create-a-node-here really 12.68 18 {will use part of the proceeds }
+autolink_nodes 5016 18 multinuclear Same-Unit  5017
+create-a-node-here really 12.89 19 {to pay down debt }
+autolink_nodes 18 19 satelite purpose  5018
+create-a-node-here really 12.178 20 {associated with its purchase of the Morristown Daily Record for $155 million in 1987.}
+nextSentence really
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5019
+nextSentence really
+create-a-node-here really 13.138 21 {\nThe New Jersey paper, like the New Haven, Conn., paper, was purchased by Ingersoll on Goodson's behalf as part of the management contract.}
+nextSentence really
+autolink_nodes 20 21 satelite explanation-argumentative  5020
+create-a-node-here really 14.28 22 {\nIndustry analysts have said }
+autolink_nodes 21 22 satelite reason  5021
+create-a-node-here really 14.84 23 {that the purchase price for the paper was too high, }
+autolink_nodes 22 23 nucleus attribution  5022
+change_rel 5022 explanation-argumentative
+change_rel 5021 elaboration-part-whole
+create-a-node-here really 14.127 24 {causing a strain on Goodson's finances.}
+nextSentence really
+#autolink_nodes 23 24 satelite result below 5023
+#UNDID
+autolink_nodes 23 24 nucleus cause  5023
+create-a-node-here really 15.50 25 {\nInvestment bankers familiar with the company said }
+autolink_nodes 24 25 satelite result below 5024
+create-a-node-here really 15.112 26 {Goodson is seeking a new bank credit line of $190 million }
+autolink_nodes 25 26 nucleus attribution  5025
+create-a-node-here really 16.0 27 {and may have to sell additional newspapers. \n}
+autolink_nodes 26 27 multinuclear List  5026
+create-a-node-here really 17.98 28 {\nDavid N. Hurwitz, president and chief operating officer of Goodson, said in a telephone interview }
+autolink_nodes 27 28 satelite comment  5027
+create-a-node-here really 17.152 29 {that the company doesn't currently have any plans }
+autolink_nodes 28 29 nucleus attribution  5028
+create-a-node-here really 17.186 30 {to sell additional newspapers.}
+nextSentence really
+autolink_nodes 29 30 satelite purpose below 5029
+create-a-node-here really 19.25 31 { \n\nGoodson said David Carr, }
+autolink_nodes 5017 31 satelite comment  5030
+change_rel 31 elaboration-part-whole
+create-a-node-here really 19.177 32 {former president of Ingersoll Publications, and Ray Cockburn, former senior vice president, would head the new in-house management team at Goodson, }
+autolink_nodes 31 32 nucleus attribution  5031
+create-a-node-here really 19.223 33 {which had revenue of $225 million in 1988.}
+nextSentence really
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e below 5032
+create-a-node-here really 21.165 34 { \n\nThe association between the two companies stretches back thirty years to a friendship between television producer Mark Goodson and Ingersoll founder Ralph Ingersoll.}
+nextSentence really
+autolink_nodes 5015 34 satelite elaboration-additional  5033
+create-a-node-here really 22.61 35 {\nThe latter's son, Ralph Ingersoll Jr., took over the company }
+autolink_nodes 34 35 satelite background  5034
+create-a-node-here really 22.110 36 {and has been managing the Goodson properties }
+autolink_nodes 35 36 multinuclear List  5035
+create-a-node-here really 22.179 37 {and acting as an agent in the purchase of newspapers for Goodson.}
+nextSentence really
+autolink_nodes 5035 37 multinuclear List below 5035
+create-a-node-here really 23.159 38 {\nBut in recent years, Mr. Ingersoll began focusing more on expanding his own newspaper empire in partnership with investment banking firm Warburg, Pincus & Co. }
+autolink_nodes 5034 38 satelite antithesis  5036
+create-a-node-here really 23.242 39 {Ingersoll has 28 dailies and 200 other non-daily papers in the U.S. and Europe.}
+nextSentence really
+autolink_nodes 5036 39 satelite elaboration-additional  5037
+create-a-node-here really 24.17 40 {\nThe company said }
+#autolink_nodes 39 40 multinuclear List  5038
+#UNDID
+autolink_nodes 39 40 multinuclear List  5038
+create-a-node-here really 25.0 41 {its revenue will exceed $750 million this year. \n}
+autolink_nodes 40 41 nucleus attribution  5039
+create-a-node-here really 26.58 42 {\nIngersoll President Robert M. Jelenic said in a statement }
+autolink_nodes 5037 42 satelite comment  5040
+create-a-node-here really 26.140 43 {that the company is "delighted by the conclusion of the Goodson relationship" }
+autolink_nodes 42 43 nucleus attribution  5041
+create-a-node-here really 26.221 44 {and will be able to "concentrate all our energies" on Ingersoll's own papers.}
+nextSentence really
+autolink_nodes 43 44 multinuclear List  5042
+create-a-node-here really 27.52 45 {\nMr. Goodson, in his own statement, was less upbeat, }
+create-a-node-here really 27.63 46 {saying }
+autolink_nodes 45 46 nucleus evaluation-s  5043
+autolink_nodes 5041 5043 multinuclear Contrast  5044
+create-a-node-here really 27.182 47 {"unfortunately over the past few years, it has become increasingly clear that Ralph and I have different agendas," }
+autolink_nodes 46 47 nucleus attribution  5045
+create-a-node-here really 27.245 48 {and that he feels "more comfortable with a management team }
+autolink_nodes 47 48 multinuclear List  5046
+create-a-node-here really 27.314 49 {whose sole interest and responsibility is in the Goodson papers."}
+nextSentence really
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5047
+nextSentence really
+nextSentence really
+collapsed_nodes {5033}
+collapsed_nodes {}

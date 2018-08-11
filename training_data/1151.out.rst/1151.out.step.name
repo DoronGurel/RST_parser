@@ -1,0 +1,143 @@
+nextSentence really
+create-a-node-here really 2.48 1 {\nThe stock market's woes spooked currency traders}
+create-a-node-here really 2.107 2 { but prompted a quiet little party among bond investors.}
+nextSentence really
+autolink_nodes 1 2 multinuclear Contrast  5001
+create-a-node-here really 4.71 3 { \n\nPrices of long-term Treasury bonds moved inversely to the stock market }
+autolink_nodes 5001 3 nucleus evaluation-s  5002
+create-a-node-here really 4.123 4 {as investors sought safety amid growing evidence }
+autolink_nodes 3 4 multinuclear Temporal-Same-Time  5003
+create-a-node-here really 4.151 5 {the economy is weakening.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5004
+create-a-node-here really 5.110 6 {\nBut the shaky economic outlook and the volatile stock market forced the dollar lower against major currencies.}
+nextSentence really
+autolink_nodes 5003 6 multinuclear Contrast above 5005
+create-a-node-here really 7.76 7 { \n\nThe bond market got an early boost from the opening-hour sell-off in stocks.}
+nextSentence really
+autolink_nodes 5002 7 satelite circumstance  5006
+create-a-node-here really 8.64 8 {\nThat rout was triggered by UAL Corp. 's announcement late Monday}
+autolink_nodes 7 8 satelite circumstance  5007
+create-a-node-here really 8.125 9 { that the proposed management-labor buy-out had collapsed.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5008
+create-a-node-here really 9.123 10 {\nThe 80-point decline in the Dow Jones Industrial Average during the morning trading session touched off a flight to safety }
+autolink_nodes 5007 10 multinuclear List  5009
+create-a-node-here really 9.192 11 {that saw investors shifting assets from stocks to Treasury bonds.}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded elaboration-additional-e  5010
+create-a-node-here really 10.125 12 {\nAt its strongest, the Treasury's benchmark 30-year bond rose more than a point, or more than $10 for each $1,000 face amount.}
+nextSentence really
+autolink_nodes 5009 12 satelite elaboration-additional  5011
+create-a-node-here really 12.67 13 { \n\nAs the stock market recovered some of its losses later in the day, }
+autolink_nodes 5011 13 multinuclear Sequence  5012
+create-a-node-here really 12.93 14 {bond prices retreated.}
+nextSentence really
+autolink_nodes 13 14 nucleus circumstance  5013
+create-a-node-here really 13.18 15 {\nBut analysts said }
+autolink_nodes 5013 15 multinuclear Contrast  5014
+create-a-node-here really 13.175 16 {the combination of a second consecutive decline in monthly durable-goods orders and lackluster mid-October auto sales helped prop up the Treasury market.}
+nextSentence really
+autolink_nodes 15 16 nucleus attribution  5015
+create-a-node-here really 14.104 17 {\nA slowing economy and the implication of lower inflation and interest rates tend to bolster bond prices.}
+nextSentence really
+autolink_nodes 5015 17 satelite interpretation-s  5016
+create-a-node-here really 16.55 18 { \n\nOn the surface, the decline in September durable goods }
+autolink_nodes 5014 18 satelite explanation-argumentative  5017
+create-a-node-here really 16.75 19 {-- only 0.1% -- }
+#autolink_nodes 18 19 satelite-embedded interpretation-s-e  5018
+#UNDID
+autolink_nodes 18 19 satelite-embedded elaboration-additional-e  5018
+create-a-node-here really 17.0 20 {didn't appear very weak.\n}
+autolink_nodes 5018 20 multinuclear Same-Unit  5019
+#create-a-node-here really 17.45 21 {But orders for non-defense capital goods,}
+#autolink_nodes 5019 21 nucleus concession  5020
+#UNDID
+#UNDID
+create-a-node-here really 17.111 21 {But orders for non-defense capital goods, a precursor of future plant and equipment spending, were off 5.6%}
+autolink_nodes 5019 21 nucleus concession  5020
+#create-a-node-here really 17.133 22 { after falling 10.}
+#nextSentence really
+#UNDID
+#UNDID
+nextSentence really
+create-a-node-here really 17.146 22 { after falling 10.3% in August.}
+nextSentence really
+#autolink_nodes 21 22 satelite circumstance below 5021
+#UNDID
+autolink_nodes 21 22 satelite circumstance below 5021
+create-a-node-here really 19.21 23 { \n\nAuto makers reported }
+autolink_nodes 5020 23 satelite elaboration-additional  5022
+create-a-node-here really 19.142 24 {that mid-October sales were running at an annual rate of about 5.8 million units, far less than the 6.6 million units}
+autolink_nodes 23 24 nucleus attribution  5023
+create-a-node-here really 19.169 25 { analysts had expected.}
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e below 5024
+create-a-node-here really 20.16 26 {\nTaken together, }
+autolink_nodes 5022 26 satelite elaboration-additional  5025
+create-a-node-here really 20.82 27 {the auto-sales and durable-goods reports confirmed perceptions}
+autolink_nodes 26 27 nucleus circumstance  5026
+create-a-node-here really 20.120 28 { that the economy is bogging down.}
+nextSentence really
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e below 5027
+collapsed_nodes {5025}
+collapsed_nodes {5025 5012}
+create-a-node-here really 22.78 29 { \n\nAlthough analysts don't expect the Federal Reserve to ease credit policy soon,}
+autolink_nodes 5006 29 multinuclear Topic-Drift  5028
+collapsed_nodes {5025 5012 5002}
+create-a-node-here really 22.148 30 { reports like those yesterday help build the case for lower rates.}
+nextSentence really
+autolink_nodes 29 30 nucleus concession  5029
+create-a-node-here really 23.186 31 {\nNow bond investors are looking toward next week's report from national purchasing managers and the government's October employment report as potentially prompting the Fed to lower rates.}
+nextSentence really
+autolink_nodes 30 31 nucleus explanation-argumentative  5030
+create-a-node-here really 25.65 32 { \n\nThe stock market's precipitous drop frightened foreign investors,}
+autolink_nodes 5028 32 multinuclear Topic-Drift below 5030
+create-a-node-here really 25.103 33 { who quickly bid the dollar lower.}
+nextSentence really
+autolink_nodes 32 33 satelite-embedded elaboration-additional-e  5031
+create-a-node-here really 26.55 34 {\nBut as stock prices recovered some of the early losses,}
+autolink_nodes 5031 34 nucleus concession  5032
+create-a-node-here really 26.85 35 { so did the U.S. currency.}
+nextSentence really
+autolink_nodes 34 35 multinuclear Comparison  5033
+create-a-node-here really 27.21 36 {\nAlthough dealers said}
+autolink_nodes 5032 36 satelite elaboration-additional  5034
+create-a-node-here really 27.130 37 { investors are becoming more bearish toward the dollar in the wake of the stock market's recent troubles }
+autolink_nodes 36 37 nucleus attribution  5035
+create-a-node-here really 27.166 38 {and as the U.S. economy weakens,}
+autolink_nodes 37 38 satelite-embedded circumstance-e below 5036
+create-a-node-here really 27.207 39 { the dollar ended down only modestly.}
+nextSentence really
+autolink_nodes 5036 39 nucleus concession  5037
+collapsed_nodes {5025 5012 5002 5034}
+collapsed_nodes {5025 5012 5002 5034 5029}
+collapsed_nodes {5025 5012 5002 5029}
+collapsed_nodes {5025 5012 5002 5029 5032}
+collapsed_nodes {5025 5012 5002 5029}
+collapsed_nodes {5025 5012 5002 5029 5033}
+create-a-node-here really 29.26 40 { \n\nIn major market activity: }
+autolink_nodes 5035 40 satelite explanation-argumentative  5038
+create-a-node-here really 31.17 41 {\n\nBond prices rose.}
+nextSentence really
+autolink_nodes 40 41 satelite example  5039
+create-a-node-here really 32.106 42 {\nThe Treasury's benchmark 30-year bond gained nearly half a point, or about $5 for each $1,000 face amount.}
+nextSentence really
+autolink_nodes 41 42 satelite explanation-argumentative  5040
+create-a-node-here really 33.40 43 {\nThe yield on the issue slipped to 7.89%.}
+nextSentence really
+autolink_nodes 42 43 satelite elaboration-additional  5041
+create-a-node-here really 35.21 44 { \n\nThe dollar retreated.}
+nextSentence really
+#autolink_nodes 5041 44 multinuclear List  5042
+#UNDID
+autolink_nodes 5040 44 multinuclear List  5042
+create-a-node-here really 36.80 45 {\nIn late New York trading the currency was quoted at 1.8355 marks and 141.45 yen,}
+autolink_nodes 44 45 satelite explanation-argumentative  5043
+nextSentence really
+create-a-node-here really 36.134 46 { compared with 1.8470 marks and 141.90 yen Monday.}
+nextSentence really
+autolink_nodes 45 46 multinuclear Comparison  5044
+collapsed_nodes {5025 5012 5002 5029 5033 5028}
+collapsed_nodes {}
+collapsed_nodes {5028}
+collapsed_nodes {}

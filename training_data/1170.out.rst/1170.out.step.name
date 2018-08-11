@@ -1,0 +1,72 @@
+nextSentence really
+create-a-node-here really 2.83 1 {\nSafeway Stores Inc. reported a 69% decline in profit for the fiscal third quarter, }
+create-a-node-here really 2.95 2 {but said }
+create-a-node-here really 2.177 3 {operating improvements were masked by unusual gains in the year-earlier period.}
+nextSentence really
+create-a-node-here really 4.29 4 { \n\nThe Oakland grocery retailer,}
+autolink_nodes 2 3 nucleus attribution  5001
+autolink_nodes 1 5001 satelite elaboration-additional  5002
+create-a-node-here really 4.93 5 { closely held since a $4.2 billion leveraged buy-out in 1986,}
+create-a-node-here really 4.102 6 { said }
+create-a-node-here really 4.133 7 {profit for the three months }
+create-a-node-here really 4.150 8 {ended Sept. 9 }
+create-a-node-here really 4.170 9 {was $7.1 million,}
+create-a-node-here really 4.215 10 { compared with $23 million a year earlier.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5003
+autolink_nodes 5003 6 multinuclear Same-Unit  5004
+autolink_nodes 5004 7 nucleus attribution  5005
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e below 5006
+autolink_nodes 5006 9 multinuclear Same-Unit  5007
+#autolink_nodes 5007 10 multinuclear Same-Unit below 5007
+#UNDID
+autolink_nodes 5007 10 multinuclear Comparison above 5008
+create-a-node-here really 5.12 11 {\nBut it said }
+create-a-node-here really 5.91 12 {the year-earlier results included gains of $23.5 million from divestitures.}
+nextSentence really
+create-a-node-here really 7.51 13 { \n\nSales rose 4.2% to $3.31 billion from $3.2 billion.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 9.20 14 { \n\nFor the nine months,}
+create-a-node-here really 9.42 15 { the company said }
+create-a-node-here really 9.125 16 {profit fell 49% to $23.5 million from $46 million in the year-earlier quarter, }
+create-a-node-here really 9.187 17 {which included divestiture-related gains of $50.6 million.}
+nextSentence really
+create-a-node-here really 10.56 18 {\nSales increased 5.5% to $9.81 billion from $9.3 billion.}
+nextSentence really
+autolink_nodes 5002 5005 satelite elaboration-additional  5009
+autolink_nodes 11 12 nucleus attribution  5010
+autolink_nodes 10 5010 satelite elaboration-additional  5011
+autolink_nodes 5008 13 satelite elaboration-additional above 5011
+#autolink_nodes 15 16 nucleus attribution  5012
+#autolink_nodes 14 5012 multinuclear Same-Unit  5013
+#UNDID
+#UNDID
+autolink_nodes 14 15 satelite-embedded attribution-e  5012
+autolink_nodes 5012 16 multinuclear Same-Unit  5013
+autolink_nodes 16 17 satelite elaboration-object-attribute  5014
+autolink_nodes 5013 18 multinuclear List above 5015
+autolink_nodes 13 5015 multinuclear Topic-Drift  5016
+collapsed_nodes {5009}
+collapsed_nodes {}
+disconnect_node 17 disconnect
+#autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5017
+#collapsed_nodes {}
+#UNDID
+autolink_nodes 16 17 satelite-embedded elaboration-part-whole-e  5017
+#disconnect_node 5016 disconnect
+#UNDID
+collapsed_nodes {}
+collapsed_nodes {5009}
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {}
+#disconnect_node 5016 disconnect
+#UNDID
+disconnect_node 13 disconnect
+#autolink_nodes 5015 13 multinuclear List below 5017
+#UNDID
+autolink_nodes 5015 13 multinuclear List below 5017

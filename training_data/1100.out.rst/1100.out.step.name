@@ -1,0 +1,23 @@
+nextSentence really
+create-a-node-here really 2.33 1 {\nWestinghouse Electric Corp. said }
+create-a-node-here really 2.64 2 {it will buy Shaw-Walker Co. }
+create-a-node-here really 2.91 3 {Terms weren't disclosed.}
+nextSentence really
+create-a-node-here really 4.13 4 { \n\nShaw-Walker, }
+#create-a-node-here really 4.40 5 {based in Muskegon, Mich.}
+#nextSentence really
+#create-a-node-here really 4.115 6 {, makes metal files and desks, and seating and office systems furniture.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 4.42 5 {based in Muskegon, Mich., }
+create-a-node-here really 4.115 6 {makes metal files and desks, and seating and office systems furniture.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5003
+autolink_nodes 5003 6 multinuclear Same-Unit  5004
+autolink_nodes 5002 5004 satelite elaboration-additional  5005
+change_rel 5 elaboration-object-attribute-e

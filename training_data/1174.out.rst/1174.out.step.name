@@ -1,0 +1,315 @@
+nextSentence really
+create-a-node-here really 2.59 1 {\nIf bluebloods won't pay high prices for racehorses anymore,}
+create-a-node-here really 2.72 2 { who will?}
+nextSentence really
+autolink_nodes 1 2 nucleus condition  5001
+create-a-node-here really 4.40 3 { \n\nBreeders are betting on the common folk.}
+nextSentence really
+autolink_nodes 3 5001 multinuclear Question-Answer  5002
+nextSentence really
+create-a-node-here really 6.170 4 { \n\nThe Thoroughbred Owners and Breeders Association, a Lexington, Ky.-based trade group, has launched "seminars" for "potential investors" at race tracks around the country.}
+nextSentence really
+create-a-node-here really 7.10 5 {\nThe group,}
+create-a-node-here really 7.58 6 { which has held half a dozen seminars so far,}
+create-a-node-here really 7.155 7 { also is considering promotional videos and perhaps a pitch to Wall Street investment bankers.}
+nextSentence really
+#autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5003
+#UNDID
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5003
+autolink_nodes 5003 7 multinuclear Same-Unit  5004
+autolink_nodes 4 5004 satelite elaboration-additional  5005
+create-a-node-here really 9.46 8 { \n\n"People in this business have been insulated,"}
+create-a-node-here really 9.99 9 { says Josh Pons, a horse breeder from Bel Air, Md.}
+autolink_nodes 8 9 satelite attribution  5006
+create-a-node-here really 9.162 10 { "But the real future of this game is in a number of people }
+create-a-node-here really 9.187 11 {owning a few horses."}
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 5006 5007 nucleus antithesis  5008
+autolink_nodes 5005 5008 satelite elaboration-additional  5009
+create-a-node-here really 11.108 12 { \n\nAt the Laurel race track, the breeders are romancing people like Tim Hulings, a beer packaging plant worker.}
+nextSentence really
+create-a-node-here really 12.52 13 {\nRight now, Mr. Hulings is waving his racing program,}
+create-a-node-here really 12.111 14 { cheering for Karnak on the Nile, a sleek thoroughbred }
+create-a-node-here really 12.147 15 {galloping down the home stretch.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 13 5010 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 12 5011 satelite elaboration-additional  5012
+create-a-node-here really 14.18 16 { \n\nMr. Hulings gloats}
+create-a-node-here really 14.50 17 { that he sold all his stocks}
+create-a-node-here really 14.112 18 { a week before the market plummeted 190 points on Oct. 13,}
+create-a-node-here really 14.142 19 { and he is using the money}
+create-a-node-here really 14.180 20 { to help buy a 45-acre horse farm.}
+nextSentence really
+autolink_nodes 19 20 satelite purpose  5013
+autolink_nodes 17 18 satelite temporal-before  5014
+autolink_nodes 5014 5013 nucleus consequence-n  5015
+autolink_nodes 16 5015 nucleus attribution  5016
+autolink_nodes 5012 5016 satelite elaboration-additional  5017
+create-a-node-here really 14.225 21 { "Just imagine how exciting that would be}
+create-a-node-here really 14.253 22 { if that's your horse," }
+create-a-node-here really 14.265 23 {he says.}
+nextSentence really
+autolink_nodes 21 22 satelite condition  5018
+autolink_nodes 5018 23 satelite attribution  5019
+autolink_nodes 5016 5019 satelite comment  5020
+autolink_nodes 5009 5017 satelite example  5021
+create-a-node-here really 16.20 24 { \n\nBut experts caution }
+create-a-node-here really 16.88 25 {that this isn't a game for anyone with a weak stomach or wallet.}
+nextSentence really
+autolink_nodes 24 25 nucleus attribution  5022
+create-a-node-here really 16.121 26 { "It's a big-risk business," }
+create-a-node-here really 16.222 27 {warns Charles C. Mihalek, a Lexington attorney and former Kentucky state securities commissioner.}
+nextSentence really
+autolink_nodes 26 27 satelite attribution  5023
+autolink_nodes 5022 5023 satelite elaboration-additional  5024
+#create-a-node-here really 16.258 28 { "You have to go into it firmly }
+#create-a-node-here really 16.272 29 {believing }
+#create-a-node-here really 16.308 30 {that it's the kind of investment}
+#create-a-node-here really 16.344 31 { where you can lose everything."}
+#nextSentence really
+#autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5025
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 16.251 28 { "You have to go into it }
+create-a-node-here really 16.272 29 {firmly believing }
+create-a-node-here really 16.309 30 {that it's the kind of investment }
+create-a-node-here really 16.344 31 {where you can lose everything."}
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5025
+autolink_nodes 29 5025 nucleus attribution  5026
+autolink_nodes 28 5026 satelite manner  5027
+autolink_nodes 5024 5027 satelite interpretation-s  5028
+create-a-node-here really 18.29 32 { \n\nAnd many have done just that.}
+nextSentence really
+autolink_nodes 5028 32 nucleus circumstance  5029
+create-a-node-here really 19.60 33 {\nConsider Spendthrift Farm, a prominent Lexington horse farm }
+create-a-node-here really 19.88 34 {that went public in 1983}
+create-a-node-here really 19.112 35 { but hit hard times }
+create-a-node-here really 19.168 36 {and filed for bankruptcy-court protection last year.}
+nextSentence really
+#autolink_nodes 35 36 satelite consequence-s  5030
+#autolink_nodes 34 5030 nucleus concession  5031
+#UNDID
+#autolink_nodes 34 5030 nucleus concession  5031
+#autolink_nodes 34 33 nucleus-embedded elaboration-object-attribute-e  5032
+#UNDID
+#autolink_nodes 33 5031 satelite-embedded elaboration-object-attribute-e  5032
+#create-a-node-here really 20.73 37 {\nA group of investors recently bought the remaining assets of Spendthrift,}
+#create-a-node-here really 20.99 38 { hoping to rebuild it.}
+#autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5033
+#autolink_nodes 5033 5032 satelite circumstance  5034
+#UNDID
+#autolink_nodes 5033 5032 satelite background  5034
+#autolink_nodes 5029 5034 satelite example  5035
+#create-a-node-here really 22.50 39 { \n\nOther investors have lost millions in partnerships}
+#create-a-node-here really 22.119 40 { that bought thoroughbred racehorses or stallion breeding rights.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#disconnect_node 36 modify
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 35 36 nucleus reason  5030
+autolink_nodes 34 5030 nucleus concession  5031
+autolink_nodes 33 5031 satelite-embedded elaboration-object-attribute-e  5032
+create-a-node-here really 20.73 37 {\nA group of investors recently bought the remaining assets of Spendthrift,}
+create-a-node-here really 20.99 38 { hoping to rebuild it.}
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5033
+#autolink_nodes 5032 5033 satelite consequence-s  5034
+#UNDID
+autolink_nodes 5032 5033 satelite consequence-s  5034
+autolink_nodes 5029 5034 satelite example  5035
+create-a-node-here really 22.50 39 { \n\nOther investors have lost millions in partnerships}
+create-a-node-here really 22.119 40 { that bought thoroughbred racehorses or stallion breeding rights.}
+nextSentence really
+autolink_nodes 39 40 satelite-embedded elaboration-object-attribute-e  5036
+#autolink_nodes 5035 5036 satelite example  5037
+#UNDID
+autolink_nodes 5035 5036 satelite elaboration-additional  5037
+disconnect_node 5028 disconnect
+#autolink_nodes 5028 5037 satelite elaboration-additional  5038
+#UNDID
+autolink_nodes 5027 5037 satelite elaboration-additional  5038
+create-a-node-here really 23.59 41 {\nOne big problem has been the thoroughbred racehorse market.}
+disconnect_node 5036 disconnect
+autolink_nodes 5036 41 satelite explanation-argumentative  5039
+nextSentence really
+create-a-node-here really 24.105 42 {\nFrom 1974 to 1984, prices for the best yearlings at the summer sales rose 918% to an average of $544,681.}
+autolink_nodes 41 42 satelite elaboration-general-specific  5040
+create-a-node-here really 25.71 43 {\nSince then, prices have slumped, to an average of $395,374 this summer.}
+nextSentence really
+autolink_nodes 42 43 multinuclear Sequence  5041
+create-a-node-here really 26.31 44 {\nBut that's for the best horses,}
+create-a-node-here really 26.68 45 { with most selling for much less }
+create-a-node-here really 26.127 46 {-- as little as $100 for some pedestrian thoroughbreds.}
+nextSentence really
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5042
+#autolink_nodes 45 46 satelite-embedded elaboration-additional-e  5043
+#UNDID
+autolink_nodes 45 46 satelite elaboration-additional  5043
+autolink_nodes 43 5042 satelite elaboration-additional  5044
+#autolink_nodes 5035 5039 satelite example  5045
+#UNDID
+autolink_nodes 5035 5039 satelite elaboration-additional  5045
+collapsed_nodes {5020}
+collapsed_nodes {5020 5017}
+collapsed_nodes {}
+disconnect_node 5017 disconnect
+disconnect_node 5008 disconnect
+autolink_nodes 5002 5005 satelite elaboration-additional  5046
+autolink_nodes 5046 5008 satelite elaboration-additional  5047
+autolink_nodes 5008 5017 satelite elaboration-additional  5048
+collapsed_nodes {5020}
+autolink_nodes 5048 5028 satelite antithesis  5049
+create-a-node-here really 27.59 47 {\nEven while they move outside their traditional tony circle,}
+create-a-node-here really 27.130 48 { racehorse owners still try to capitalize on the elan of the sport.}
+autolink_nodes 47 48 nucleus antithesis  5050
+create-a-node-here really 28.16 49 {\nGlossy brochures}
+create-a-node-here really 28.45 50 { circulated at racetracks}
+create-a-node-here really 28.126 51 { gush about the limelight of the winner's circle and high-society schmoozing.}
+nextSentence really
+autolink_nodes 49 50 satelite-embedded elaboration-object-attribute-e  5051
+autolink_nodes 5051 51 multinuclear Same-Unit  5052
+autolink_nodes 5050 5052 satelite evidence  5053
+create-a-node-here really 29.21 52 {\nOne handout promises:}
+create-a-node-here really 29.86 53 { "Pedigrees, parties, post times, parimutuels and pageantry."}
+nextSentence really
+autolink_nodes 52 53 nucleus attribution  5054
+autolink_nodes 5052 5054 satelite example  5055
+create-a-node-here really 31.58 54 { \n\n"It's just a matter of marketing and promoting ourselves,"}
+create-a-node-here really 31.130 55 { says Headley Bell, a fifth-generation horse breeder from Lexington.}
+nextSentence really
+autolink_nodes 54 55 satelite attribution  5056
+autolink_nodes 5053 5056 satelite elaboration-additional  5057
+create-a-node-here really 33.27 56 { \n\nMaybe it's not that simple.}
+nextSentence really
+disconnect_node 5056 disconnect
+#autolink_nodes 5053 5056 satelite interpretation-n  5058
+#UNDID
+autolink_nodes 5053 5056 nucleus interpretation-n  5058
+autolink_nodes 5058 56 nucleus antithesis  5059
+create-a-node-here really 34.83 57 {\nFor starters, racehorse buyers have to remember the basic problem of such ventures:}
+create-a-node-here really 34.128 58 { These beasts don't come with warranties.}
+autolink_nodes 57 58 satelite-embedded elaboration-object-attribute-e  5060
+create-a-node-here really 35.49 59 {\nAnd for every champion, there are plenty of nags.}
+nextSentence really
+#autolink_nodes 5060 59 satelite interpretation-s  5061
+#UNDID
+autolink_nodes 58 59 satelite elaboration-additional  5061
+autolink_nodes 5059 5060 satelite explanation-argumentative  5062
+create-a-node-here really 36.110 60 {\nKatherine Voss, a veteran trainer at the Laurel, Md., track, offers neophytes a sobering tour of a horse barn,}
+create-a-node-here really 36.122 61 { noting }
+create-a-node-here really 36.190 62 {that only three of about a dozen horses have won sizable purses.}
+autolink_nodes 61 62 nucleus attribution  5063
+autolink_nodes 60 5063 satelite-embedded elaboration-object-attribute-e  5064
+create-a-node-here really 38.54 63 { \n\nOne brown two-year-old filly was wheezing from a cold,}
+create-a-node-here really 38.97 64 { while another had splints on its legs,}
+create-a-node-here really 38.142 65 { keeping both animals from the racetrack.}
+nextSentence really
+#autolink_nodes 63 64 multinuclear Comparison  5065
+#UNDID
+autolink_nodes 63 64 multinuclear List  5065
+autolink_nodes 5065 65 nucleus result  5066
+#autolink_nodes 5064 5066 satelite elaboration-additional  5067
+#UNDID
+disconnect_node 5065 disconnect
+autolink_nodes 5065 65 nucleus result  5067
+autolink_nodes 5064 5067 satelite elaboration-additional  5068
+create-a-node-here really 38.215 66 { "You can see the highs and lows of the business all under one roof,"}
+create-a-node-here really 38.240 67 { she tells the group.}
+autolink_nodes 66 67 satelite attribution  5069
+create-a-node-here really 38.277 68 { "There aren't too many winners."}
+nextSentence really
+autolink_nodes 5069 68 satelite comment  5070
+autolink_nodes 5068 5070 satelite elaboration-additional  5071
+autolink_nodes 5060 5071 satelite elaboration-additional  5072
+collapsed_nodes {}
+collapsed_nodes {5053}
+collapsed_nodes {5053 5038}
+autolink_nodes 5028 5062 satelite elaboration-additional  5073
+create-a-node-here really 40.27 69 { \n\nPerhaps the biggest hurdle }
+create-a-node-here really 40.43 70 {owners face }
+create-a-node-here really 40.70 71 {is convincing newcomers}
+create-a-node-here really 40.109 72 { that this is a reputable business.}
+autolink_nodes 71 72 nucleus attribution  5074
+autolink_nodes 69 70 satelite-embedded elaboration-object-attribute-e  5075
+autolink_nodes 5075 5074 multinuclear Same-Unit  5076
+create-a-node-here really 41.54 73 {\nSome badly managed partnerships have burned investors,}
+create-a-node-here really 41.124 74 { sometimes after they received advice from industry "consultants."}
+nextSentence really
+autolink_nodes 73 74 satelite circumstance  5077
+create-a-node-here really 41.173 75 { So owners have developed a "code of ethics,"}
+create-a-node-here really 41.275 76 { outlining rules for consultants and agents, and disclosure of fees and any conflicts of interest.}
+nextSentence really
+#autolink_nodes 75 76 satelite-embedded elaboration-object-attribute-e  5078
+#UNDID
+autolink_nodes 75 76 satelite-embedded elaboration-additional-e  5078
+autolink_nodes 5077 5078 nucleus result  5079
+autolink_nodes 5076 5079 satelite explanation-argumentative  5080
+create-a-node-here really 43.51 77 { \n\nBut some are skeptical of the code's effectiveness.}
+create-a-node-here really 43.102 78 { "The industry is based on individual honesty,"}
+create-a-node-here really 43.175 79 { says Cap Hershey, a Lexington horse farmer and one of the investors }
+create-a-node-here really 43.202 80 {who bought Spendthrift.}
+nextSentence really
+autolink_nodes 79 80 satelite-embedded elaboration-object-attribute-e  5081
+autolink_nodes 78 5081 satelite attribution  5082
+autolink_nodes 77 5082 satelite explanation-argumentative  5083
+#autolink_nodes 5079 5083 satelite antithesis  5084
+#UNDID
+autolink_nodes 5079 5083 nucleus antithesis  5084
+collapsed_nodes {5053 5038 5071}
+autolink_nodes 5062 5080 satelite elaboration-additional  5085
+create-a-node-here really 45.75 81 { \n\nDespite the drop in prices for thoroughbreds, owning one still isn't cheap.}
+create-a-node-here really 46.52 82 {\nAt the low end, investors can spend $15,000 or more }
+create-a-node-here really 46.102 83 {to own a racehorse in partnership with others.}
+nextSentence really
+autolink_nodes 82 83 satelite purpose  5086
+autolink_nodes 81 5086 satelite evidence  5087
+#create-a-node-here really 47.83 84 {\nAt a yearling sale, a buyer can go solo and get a horse for a few thousand dollars.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 47.40 84 {\nAt a yearling sale, a buyer can go solo }
+create-a-node-here really 47.87 85 {and get a horse for a few thousand dollars.}
+autolink_nodes 84 85 multinuclear List  5088
+create-a-node-here really 48.46 86 {\nBut that means paying the horse's maintenance;}
+create-a-node-here really 48.86 87 { on average, it costs $25,000 a year}
+create-a-node-here really 48.108 88 { to raise a horse.}
+nextSentence really
+autolink_nodes 87 88 satelite purpose  5089
+autolink_nodes 86 5089 satelite elaboration-additional  5090
+autolink_nodes 5088 5090 nucleus antithesis  5091
+autolink_nodes 5086 5091 multinuclear List  5092
+create-a-node-here really 50.10 89 { \n\nFor those }
+create-a-node-here really 50.81 90 {looking for something between a minority stake and total ownership,}
+create-a-node-here really 50.134 91 { the owners' group is considering a special sale }
+create-a-node-here really 50.217 92 {where established horse breeders would sell a 50% stake in horses to newcomers.}
+nextSentence really
+autolink_nodes 91 92 satelite-embedded elaboration-object-attribute-e  5093
+autolink_nodes 89 90 satelite-embedded elaboration-object-attribute-e  5094
+autolink_nodes 5094 5093 nucleus circumstance  5095
+collapsed_nodes {5053 5038 5071 5080}
+autolink_nodes 5085 5087 satelite elaboration-additional  5096
+collapsed_nodes {5053 5038 5071 5080 5087}
+collapsed_nodes {5053 5038 5071 5080}
+collapsed_nodes {5053 5038 5071 5080 5092}
+autolink_nodes 5087 5095 satelite problem-solution-s  5097
+collapsed_nodes {5053 5071 5080 5092}
+collapsed_nodes {5071 5080 5092}
+collapsed_nodes {5080 5092}
+collapsed_nodes {5092}
+disconnect_node 76 disconnect
+autolink_nodes 75 76 satelite elaboration-additional  5098
+collapsed_nodes {}

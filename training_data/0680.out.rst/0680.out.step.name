@@ -1,0 +1,34 @@
+nextSentence really
+create-a-node-here really 2.149 1 {\nFollowing is a weekly listing of unadited net asset values of publicly traded investment fund shares, reported by the companies as of Friday's close.}
+nextSentence really
+create-a-node-here really 3.137 2 {\nAlso shown is the closing listed market price or a dealer-to-dealer asked price of each fund's shares, with the percentage of difference.}
+nextSentence really
+autolink_nodes 1 2 satelite elaboration-additional  5001
+create-a-node-here really 6.0 3 { \n\nClosed End Bond Funds \n}
+autolink_nodes 2 3 satelite elaboration-set-member  5002
+create-a-node-here really 8.0 4 {\nFlexible Portfolio Funds \n}
+autolink_nodes 3 4 multinuclear List  5003
+create-a-node-here really 10.0 5 {\nSpecialized Equity and Convertible Funds \n}
+autolink_nodes 5003 5 multinuclear List below 5003
+create-a-node-here really 11.14 6 {\na-Ex-dividend.}
+nextSentence really
+#autolink_nodes 5003 6 multinuclear List below 5003
+#UNDID
+autolink_nodes 5003 6 satelite elaboration-set-member  5004
+create-a-node-here really 11.44 7 { b-As of Thursday's close. }
+autolink_nodes 6 7 multinuclear List  5005
+create-a-node-here really 11.93 8 {c-Translated at Commercial Rand exchange rate.}
+nextSentence really
+autolink_nodes 5005 8 multinuclear List below 5005
+create-a-node-here really 11.119 9 { e-In Canadian dollars.}
+nextSentence really
+autolink_nodes 5005 9 multinuclear List below 5005
+create-a-node-here really 11.149 10 { f-As of Wednesday's close.}
+nextSentence really
+autolink_nodes 5005 10 multinuclear List below 5005
+create-a-node-here really 11.170 11 { z-Not available.}
+nextSentence really
+autolink_nodes 5005 11 multinuclear List below 5005
+collapsed_nodes {5001}
+nextSentence really
+collapsed_nodes {}

@@ -1,0 +1,259 @@
+nextSentence really
+create-a-node-here really 2.72 1 {\nWall Street is just about ready to line the bird cage with paper stocks.}
+nextSentence really
+create-a-node-here really 4.157 2 { \n\nFor three years, a healthy economy and the export-boosting effects of a weak dollar propelled sales and earnings of the big paper companies to record levels.}
+nextSentence really
+autolink_nodes 1 2 satelite explanation-argumentative  5001
+create-a-node-here really 5.25 3 {\nAs the good times rolled }
+autolink_nodes 2 3 satelite elaboration-additional  5002
+create-a-node-here really 5.88 4 {they more than doubled their prices for pulp, a raw material}
+autolink_nodes 3 4 nucleus circumstance  5003
+create-a-node-here really 5.119 5 { used in all sorts of paper,}
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e below 5004
+create-a-node-here really 5.198 6 { to $830 a metric ton this past spring from $380 a ton at the start of 1986.}
+nextSentence really
+autolink_nodes 5004 6 multinuclear Same-Unit  5005
+create-a-node-here really 7.47 7 { \n\nBut now the companies are getting into trouble }
+autolink_nodes 5003 7 nucleus concession  5006
+create-a-node-here really 7.100 8 {because they undertook a record expansion program }
+autolink_nodes 7 8 multinuclear Cause-Result  5007
+create-a-node-here really 7.142 9 {while they were raising prices sharply.}
+nextSentence really
+autolink_nodes 8 9 multinuclear Temporal-Same-Time  5008
+create-a-node-here really 8.48 10 {\nThird-quarter profits fell at several companies.}
+nextSentence really
+autolink_nodes 5007 10 multinuclear Cause-Result above 5009
+create-a-node-here really 10.71 11 { \n\n"Put your money in a good utility or bank stock, not a paper company," }
+autolink_nodes 5006 11 satelite elaboration-additional  5010
+create-a-node-here really 10.112 12 {advises George Adler of Smith Barney.}
+nextSentence really
+autolink_nodes 11 12 satelite attribution  5011
+disconnect_node 5011 disconnect
+#autolink_nodes 5009 5011 satelite comment above 5011
+#create-a-node-here really 12.41 13 { \n\nOther analysts are nearly as pessimistic.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5006 5011 satelite comment  5012
+create-a-node-here really 13.0 13 { \n\nOther analysts are nearly as pessimistic.\n}
+autolink_nodes 5012 13 satelite evaluation-s  5013
+create-a-node-here really 13.134 14 {Gary Palmero of Oppenheimer & Co. expects a 30% decline in earnings between now and 1991 for "commodity-oriented" paper companies,}
+autolink_nodes 13 14 satelite example  5014
+create-a-node-here really 13.186 15 { which account for the majority of the industry.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-additional-e  5015
+create-a-node-here really 14.106 16 {\nRobert Schneider of Duff & Phelps sees paper-company stock prices falling 10% to 15% in 1990, perhaps 25% }
+autolink_nodes 5015 16 multinuclear List  5016
+create-a-node-here really 14.133 17 {if there's a recession.}
+nextSentence really
+autolink_nodes 16 17 satelite condition  5017
+create-a-node-here really 16.60 18 { \n\nPaper companies concede that business has been off recently.}
+nextSentence really
+autolink_nodes 5014 18 multinuclear Statement-Response  5018
+create-a-node-here really 17.73 19 {\nBut they attribute much of the weakness to customer inventory reductions.}
+nextSentence really
+autolink_nodes 18 19 satelite explanation-argumentative  5019
+create-a-node-here really 18.24 20 {\nGenerally they maintain }
+autolink_nodes 19 20 multinuclear List  5020
+create-a-node-here really 18.33 21 {that,}
+autolink_nodes 20 21 nucleus attribution  5021
+create-a-node-here really 18.127 22 { barring a recession and a further strengthening of the dollar against foreign currencies,}
+create-a-node-here really 18.180 23 { the industry isn't headed for a prolonged slump.}
+nextSentence really
+autolink_nodes 22 23 nucleus circumstance  5022
+autolink_nodes 21 5022 multinuclear Same-Unit  5023
+create-a-node-here really 18.220 24 { "It won't be an earthshaking drop,"}
+autolink_nodes 5021 24 satelite elaboration-additional  5024
+create-a-node-here really 18.255 25 { a Weyerhaeuser spokesman says.}
+nextSentence really
+autolink_nodes 24 25 satelite attribution  5025
+collapsed_nodes {5018}
+create-a-node-here really 20.182 26 { \n\nLast week Mr. Adler lowered his rating from hold to "avoid" on Boise Cascade, Champion International, Great Northern Nekoosa, International Paper, Louisiana Pacific and Weyerhaeuser.}
+nextSentence really
+#autolink_nodes 5018 26 multinuclear List above 5026
+#UNDID
+autolink_nodes 5018 26 multinuclear List above 5026
+create-a-node-here really 22.0 27 {\nOppenheimer's Mr. Palmero, meanwhile, is steering clear of Gaylord Container, Stone Container and Federal Paper Board.\n}
+autolink_nodes 26 27 multinuclear List  5027
+create-a-node-here really 22.63 28 {Mr. Schneider is cool to Georgia Pacific and Abitibi-Price.}
+nextSentence really
+autolink_nodes 5027 28 multinuclear List below 5027
+create-a-node-here really 23.52 29 {\nLawrence Ross of PaineWebber would avoid Union Camp.}
+nextSentence really
+autolink_nodes 5027 29 multinuclear List below 5027
+create-a-node-here really 25.33 30 { \n\nThe companies in question believe}
+#autolink_nodes 5027 30 multinuclear Statement-Response above 5028
+#UNDID
+autolink_nodes 5027 30 satelite evaluation-s  5028
+create-a-node-here really 26.0 31 { the analysts are too pessimistic.\n}
+autolink_nodes 30 31 nucleus attribution  5029
+create-a-node-here really 26.33 32 {Great Northern Nekoosa said, }
+autolink_nodes 5029 32 satelite explanation-argumentative  5030
+create-a-node-here really 26.70 33 {"The odds of the dire predictions}
+autolink_nodes 32 33 nucleus attribution  5031
+create-a-node-here really 26.96 34 { about us being right }
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e below 5032
+create-a-node-here really 26.111 35 {are small."}
+nextSentence really
+autolink_nodes 5032 35 multinuclear Same-Unit  5033
+create-a-node-here really 26.147 36 { International Paper emphasizes }
+change_rel 5031 example
+autolink_nodes 5033 36 multinuclear List above 5034
+create-a-node-here really 26.228 37 {that it is better positioned than most companies for the coming overcapacity }
+autolink_nodes 36 37 nucleus attribution  5035
+create-a-node-here really 26.299 38 {because its individual mills can make more than one grade of paper.}
+nextSentence really
+#create-a-node-here really 28.69 39 { \n\nA Boise-Cascade spokesman referred to a speech by Chairman John Fery,}
+#UNDID
+autolink_nodes 37 38 satelite result below 5036
+create-a-node-here really 28.69 39 { \n\nA Boise-Cascade spokesman referred to a speech by Chairman John Fery,}
+autolink_nodes 5034 39 multinuclear List below 5036
+create-a-node-here really 28.91 40 { in which he said }
+autolink_nodes 39 40 satelite-embedded elaboration-object-attribute-e  5037
+create-a-node-here really 28.129 41 {that markets generally are stable,}
+autolink_nodes 40 41 nucleus attribution  5038
+create-a-node-here really 28.191 42 { although some risk of further price deterioration exists.}
+autolink_nodes 41 42 satelite antithesis below 5039
+create-a-node-here really 30.42 43 { \n\nStone Container Chairman Roger Stone said }
+autolink_nodes 5034 43 multinuclear List below 5039
+create-a-node-here really 30.172 44 {that, unlike for some other paper products, demand for Stone's principal commodity, unbleached containerboard, remains strong.}
+nextSentence really
+autolink_nodes 43 44 nucleus attribution  5040
+create-a-node-here really 31.66 45 {\nHe expects the price for that product to rise even more next year.}
+nextSentence really
+autolink_nodes 5040 45 satelite elaboration-additional  5041
+create-a-node-here really 33.22 46 { \n\nGaylord Container said}
+autolink_nodes 5034 46 multinuclear List below 5041
+collapsed_nodes {5018 5038}
+collapsed_nodes {5018 5038 5040}
+collapsed_nodes {5018 5038 5040 39}
+collapsed_nodes {5018 5038 5040 39 5035}
+disconnect_node 32 disconnect
+autolink_nodes 5033 32 satelite attribution  5042
+collapsed_nodes {5018 5038 5040 39 5035 5037}
+create-a-node-here really 33.55 47 { analysts are skeptical of it}
+autolink_nodes 46 47 nucleus attribution  5043
+create-a-node-here really 33.96 48 { because it's carrying a lot of debt.}
+nextSentence really
+autolink_nodes 47 48 satelite reason below 5044
+create-a-node-here really 34.28 49 {\nChampion International said,}
+autolink_nodes 5034 49 multinuclear List below 5044
+create-a-node-here really 34.62 50 { "We've gotten our costs down }
+autolink_nodes 49 50 nucleus attribution  5045
+create-a-node-here really 34.120 51 {and we're better positioned for any cyclical downturn }
+autolink_nodes 50 51 nucleus circumstance  5046
+create-a-node-here really 34.146 52 {than we've ever been."}
+nextSentence really
+#create-a-node-here really 36.42 53 { \n\nLouisiana Pacific and Georgia Pacific said}
+#UNDID
+autolink_nodes 51 52 multinuclear Comparison  5047
+collapsed_nodes {5018 5038 5040 39 5035 5037 5045}
+collapsed_nodes {5018 5038 5040 39 5035 5037 5045 5043}
+collapsed_nodes {5018 5038 5040 39 5035 5037 5045 5043 5041}
+create-a-node-here really 36.43 53 { \n\nLouisiana Pacific and Georgia Pacific said }
+autolink_nodes 5034 53 multinuclear List below 5047
+create-a-node-here really 36.95 54 {a number of other analysts are recommending them}
+autolink_nodes 53 54 nucleus attribution  5048
+create-a-node-here really 36.147 55 { because of their strong wood-products business.}
+autolink_nodes 54 55 satelite reason below 5049
+collapsed_nodes {5018 5038 5040 39 5035 5037 5045 5043 5041 5048}
+create-a-node-here really 38.25 56 { \n\nFederal Paper Board said,}
+autolink_nodes 5034 56 multinuclear List below 5049
+create-a-node-here really 38.85 57 { "We're not as exposed as the popular perception of us."}
+nextSentence really
+autolink_nodes 56 57 nucleus attribution  5050
+create-a-node-here really 38.112 58 { The company explained }
+autolink_nodes 5050 58 satelite explanation-argumentative  5051
+create-a-node-here really 38.159 59 {that its main product, bleached paperboard,}
+autolink_nodes 58 59 nucleus attribution  5052
+create-a-node-here really 38.223 60 { which goes into some advertising materials and white boxes,}
+autolink_nodes 59 60 satelite-embedded elaboration-additional-e below 5053
+create-a-node-here really 38.273 61 { historically doesn't have sharp price swings.}
+nextSentence really
+autolink_nodes 5053 61 multinuclear Same-Unit  5054
+collapsed_nodes {5018 5038 5040 39 5035 5037 5045 5043 5041 5048 5051}
+collapsed_nodes {5018 5038 5040 39 5035 5037 5045 5043 5041 5048 5051 5034}
+create-a-node-here really 40.90 62 { \n\nBecause the stock prices of some paper companies already reflect an expected profit slump,}
+autolink_nodes 5026 62 satelite elaboration-additional  5055
+create-a-node-here really 40.122 63 { PaineWebber's Mr. Ross says}
+create-a-node-here really 40.137 64 { he thinks }
+#autolink_nodes 63 64 nucleus attribution  5056
+#UNDID
+autolink_nodes 63 64 nucleus attribution  5056
+create-a-node-here really 41.0 65 {that next year the share prices of some companies may fall at most only 5% to 10%.\n}
+autolink_nodes 64 65 nucleus attribution  5057
+collapsed_nodes {5018 5038 5040 39 5035 5037 5045 5043 5041 5048 5051 5034 5030}
+collapsed_nodes {5018 5038 5040 39 5035 5037 5045 5043 5041 5048 5051 5034 5030 5026}
+collapsed_nodes {}
+collapsed_nodes {5030}
+autolink_nodes 62 5056 multinuclear Cause-Result  5058
+create-a-node-here really 41.66 66 {A company such as Federal Paper Board may be overly discounted}
+autolink_nodes 5058 66 satelite elaboration-additional  5059
+create-a-node-here really 41.99 67 { and looks "tempting" to him,}
+autolink_nodes 66 67 multinuclear List  5060
+create-a-node-here really 41.112 68 { he says,}
+autolink_nodes 5060 68 satelite attribution  5061
+create-a-node-here really 41.161 69 { though he isn't yet recommending the shares.}
+nextSentence really
+autolink_nodes 5061 69 satelite antithesis  5062
+collapsed_nodes {5030 5026}
+collapsed_nodes {5030 5026 5013}
+create-a-node-here really 43.38 70 { \n\nWall Street isn't avoiding everything }
+autolink_nodes 5001 70 multinuclear Contrast  5063
+create-a-node-here really 43.63 71 {connected with paper.}
+nextSentence really
+autolink_nodes 70 71 satelite-embedded elaboration-object-attribute-e  5064
+create-a-node-here really 44.37 72 {\nMr. Palmero recommends Temple-Inland,}
+autolink_nodes 5064 72 satelite explanation-argumentative  5065
+create-a-node-here really 44.53 73 { explaining }
+autolink_nodes 72 73 satelite elaboration-additional  5066
+create-a-node-here really 44.108 74 {that it is "virtually the sole major paper company }
+autolink_nodes 73 74 nucleus attribution  5067
+create-a-node-here really 44.155 75 {not undergoing a major capacity expansion,"}
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e below 5068
+create-a-node-here really 44.232 76 { and thus should be able to lower long-term debt substantially next year.}
+nextSentence really
+autolink_nodes 5068 76 multinuclear Cause-Result  5069
+create-a-node-here really 46.31 77 { \n\nA Temple-Inland spokesman said }
+autolink_nodes 5066 77 satelite elaboration-additional  5070
+create-a-node-here really 46.79 78 {the company expects record earnings in 1989,}
+autolink_nodes 77 78 nucleus attribution  5071
+create-a-node-here really 46.125 79 { and "we're still pretty bullish" on 1990.}
+nextSentence really
+autolink_nodes 78 79 multinuclear List  5072
+create-a-node-here really 48.17 80 { \n\nThe analysts say }
+autolink_nodes 5070 80 multinuclear List  5073
+create-a-node-here really 48.61 81 {their gloomy forecasts have a flip side.}
+nextSentence really
+autolink_nodes 80 81 nucleus attribution  5074
+create-a-node-here really 49.60 82 {\nSome take a warm view of consumer-oriented paper companies, }
+autolink_nodes 5074 82 satelite example  5075
+create-a-node-here really 49.108 83 {which buy pulp from the commodity producers }
+autolink_nodes 82 83 satelite-embedded elaboration-additional-e  5076
+create-a-node-here really 49.173 84 {and should benefit from the expected declines in pulp prices.}
+nextSentence really
+autolink_nodes 83 84 multinuclear List  5077
+create-a-node-here really 50.103 85 {\nEstimates on how much pulp prices will fall next year currently run between $150 and $250 a metric ton.}
+nextSentence really
+autolink_nodes 5076 85 satelite elaboration-additional  5078
+create-a-node-here really 52.15 86 { \n\nAnalysts agree }
+autolink_nodes 5078 86 satelite evaluation-s  5079
+create-a-node-here really 52.123 87 {that the price drop should especially benefit the two big tissue makers, Scott Paper and Kimberly-Clark.}
+nextSentence really
+autolink_nodes 86 87 nucleus attribution  5080
+create-a-node-here really 53.26 88 {\nA spokesman for Scott says}
+autolink_nodes 5080 88 satelite elaboration-additional  5081
+create-a-node-here really 53.36 89 { that }
+autolink_nodes 88 89 nucleus attribution  5082
+create-a-node-here really 53.87 90 {assuming the price of pulp continues to soften,}
+create-a-node-here really 53.112 91 { "We should do well."}
+nextSentence really
+autolink_nodes 90 91 nucleus circumstance  5083
+autolink_nodes 5082 5083 multinuclear Same-Unit  5084
+collapsed_nodes {5030 5026 5013 5063}
+collapsed_nodes {}
+collapsed_nodes {5001}
+collapsed_nodes {5001 5063}
+collapsed_nodes {}
+change_rel 5067 explanation-argumentative

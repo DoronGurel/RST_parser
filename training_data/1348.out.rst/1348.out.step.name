@@ -1,0 +1,43 @@
+nextSentence really
+create-a-node-here really 2.69 1 {\nMeson Investment Ltd., a Vancouver, B.C.-based investment firm, said }
+create-a-node-here really 2.153 2 {it raised its stake in Verit Industries to 8.9% of the common shares outstanding.}
+nextSentence really
+create-a-node-here really 4.59 3 { \n\nIn a Securities and Exchange Commission filing, Meson said }
+create-a-node-here really 4.98 4 {it holds 67,400 Verit common shares,}
+create-a-node-here really 4.141 5 { including net purchases of 8,100 shares}
+create-a-node-here really 4.212 6 { bought from Oct. 10, 1988, to Oct. 11, 1989, for $3.875 to $7 each.}
+nextSentence really
+create-a-node-here really 6.86 7 { \n\nMeson is the personal holding company of Steven Morfey, a Vancouver securities dealer.}
+nextSentence really
+create-a-node-here really 7.8 8 {\nHe said }
+create-a-node-here really 7.60 9 {the transaction was made for investment purposes.}
+nextSentence really
+showText really
+create-a-node-here really 9.78 10 { \n\nOfficials for Sun Valley, Calif.-based Verit couldn't be reached for comment. }
+create-a-node-here really 11.104 11 {\n\nIn composite trading on the American Stock Exchange, Verit closed unchanged yesterday at $3.875 a share.}
+autolink_nodes 2 1 satelite attribution  5001
+autolink_nodes 4 3 satelite attribution  5002
+#autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5003
+#UNDID
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5003
+autolink_nodes 5002 5003 satelite-embedded elaboration-set-member-e  5004
+autolink_nodes 9 8 satelite attribution  5005
+autolink_nodes 5004 7 satelite background  5006
+#autolink_nodes 5006 5005 satelite reason  5007
+#UNDID
+autolink_nodes 5006 5005 satelite reason  5007
+#autolink_nodes 10 5007 multinuclear Cause-Result  5008
+#UNDID
+autolink_nodes 10 5007 nucleus cause  5008
+disconnect_node 10 disconnect
+autolink_nodes 5007 10 satelite elaboration-additional  5009
+autolink_nodes 5009 11 satelite consequence-s  5010
+disconnect_node 10 disconnect
+disconnect_node 11 disconnect
+autolink_nodes 5007 5001 nucleus summary-n  5011
+collapsed_nodes {5007}
+autolink_nodes 5011 10 satelite elaboration-additional  5012
+autolink_nodes 5012 11 satelite consequence-s  5013
+collapsed_nodes {}
+disconnect_node 7 disconnect
+autolink_nodes 5005 7 satelite background  5014

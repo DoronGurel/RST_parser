@@ -1,0 +1,239 @@
+nextSentence really
+create-a-node-here really 2.88 1 {\nYields on certificates of deposit at major banks were little changed in the latest week.}
+nextSentence really
+create-a-node-here really 4.83 2 { \n\nThe average yield on six-month CDs of $50,000 and less slipped to 7.96% from 8.00%,}
+create-a-node-here really 4.148 3 { according to Banxquote Money Markets, an information service }
+create-a-node-here really 4.162 4 {based here.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-additional-e  5001
+autolink_nodes 2 5001 satelite attribution  5002
+create-a-node-here really 5.74 5 {\nOn one-year CDs of $50,000 and less, the average slid to 8.02% from 8.06%.}
+nextSentence really
+autolink_nodes 5 5002 multinuclear List  5003
+create-a-node-here really 6.65 6 {\nBoth issues are among the most popular with individual investors.}
+nextSentence really
+autolink_nodes 5003 6 satelite elaboration-additional  5004
+autolink_nodes 1 5004 satelite evidence  5005
+#create-a-node-here really 8.97 7 { \n\n"Because of shrinkage in the economy, rates can be expected to decline over a one-year horizon," }
+#create-a-node-here really 8.142 8 {said Norberto Mehl, chairman of Banxquote.}
+#nextSentence really
+#autolink_nodes 7 8 satelite attribution  5006
+#create-a-node-here really 8.198 9 { "It's unclear how much rates can fall and how soon."}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 8.37 7 { \n\n"Because of shrinkage in the economy,}
+create-a-node-here really 8.99 8 { rates can be expected to decline over a one-year horizon,"}
+create-a-node-here really 8.145 9 { said Norberto Mehl, chairman of Banxquote.}
+autolink_nodes 7 8 nucleus consequence-n  5006
+autolink_nodes 5006 9 satelite attribution  5007
+create-a-node-here really 8.201 10 { "It's unclear how much rates can fall and how soon."}
+nextSentence really
+autolink_nodes 5005 5007 nucleus concession  5008
+create-a-node-here really 10.33 11 { \n\nChanges in CD yields in the week }
+create-a-node-here really 10.51 12 {ended Tuesday }
+create-a-node-here really 10.144 13 {were in line with blips up and down within a fairly narrow range for the last two months.}
+nextSentence really
+autolink_nodes 5008 10 satelite antithesis  5009
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5010
+#autolink_nodes 13 5010 multinuclear Same-Unit  5011
+#UNDID
+autolink_nodes 13 5010 multinuclear Same-Unit  5011
+disconnect_node 5005 disconnect
+autolink_nodes 5005 5009 satelite elaboration-additional  5012
+disconnect_node 5009 modify
+#autolink_nodes 5005 5009 satelite hypothetical  5013
+#UNDID
+autolink_nodes 5005 5009 satelite elaboration-additional  5013
+collapsed_nodes {5009}
+create-a-node-here really 11.53 14 {\nInterest rates generally began declining last spring }
+create-a-node-here really 11.107 15 {after moving steadily upward for more than a year.}
+autolink_nodes 14 15 satelite temporal-after  5014
+autolink_nodes 5011 5014 satelite elaboration-additional  5015
+create-a-node-here really 13.130 16 { \n\nThe average yield on small-denomination three-month CDs moved up two-hundredths of a percentage point in the latest week to 7.85%.}
+nextSentence really
+create-a-node-here really 14.39 17 {\nLong-term CDs declined just a fraction.}
+nextSentence really
+create-a-node-here really 15.67 18 {\nThe average yield on both two-year CDs and five-year CDs was 7.98%.}
+nextSentence really
+#autolink_nodes 17 18 multinuclear List  5016
+#UNDID
+autolink_nodes 17 18 multinuclear Comparison  5016
+autolink_nodes 5016 16 multinuclear Comparison below 5016
+autolink_nodes 5015 5016 satelite example  5017
+autolink_nodes 5013 5017 satelite elaboration-additional  5018
+create-a-node-here really 17.9 19 { \n\nOnly CDs }
+create-a-node-here really 17.43 20 {sold by major brokerage firms }
+create-a-node-here really 17.113 21 {posted significant increases in average yields in the latest week,}
+create-a-node-here really 17.164 22 { reflecting increased yields on Treasury bills }
+create-a-node-here really 17.193 23 {sold at Monday's auction.}
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5019
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 21 5020 multinuclear Same-Unit  5021
+autolink_nodes 5021 5019 satelite elaboration-additional  5022
+collapsed_nodes {5009 5017}
+autolink_nodes 5018 5022 multinuclear Contrast  5023
+create-a-node-here really 18.72 24 {\nThe average yield on six-month broker-sold CDs rose to 8.29% from 8.05% }
+create-a-node-here really 18.139 25 {and on one-year CDs the average yield rose to 8.30% from 8.09%.}
+nextSentence really
+autolink_nodes 24 25 multinuclear List  5024
+autolink_nodes 5022 5024 satelite example  5025
+create-a-node-here really 19.20 26 {\nThe brokerage firms,}
+create-a-node-here really 19.74 27 { which negotiate rates with the banks and thrifts }
+create-a-node-here really 19.88 28 {whose CDs }
+create-a-node-here really 19.102 29 {they sell,}
+create-a-node-here really 19.121 30 { generally feel}
+create-a-node-here really 19.158 31 { they have to offer clients more }
+create-a-node-here really 19.226 32 {than they can get on T-bills or from banks and thrifts directly.}
+nextSentence really
+autolink_nodes 31 32 satelite comparison  5026
+autolink_nodes 30 5026 nucleus attribution  5027
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5028
+autolink_nodes 27 5028 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 26 5029 satelite-embedded elaboration-object-attribute-e  5030
+autolink_nodes 30 5030 multinuclear Same-Unit  5031
+autolink_nodes 5025 5027 satelite explanation-argumentative  5032
+create-a-node-here really 21.7 33 { \n\nT-bills}
+create-a-node-here really 21.37 34 { sold at Monday's auction }
+create-a-node-here really 21.153 35 {yielded 7.90% for six months and 7.77% for three months, up from 7.82% and 7.61%, respectively, the week before.}
+nextSentence really
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5033
+autolink_nodes 35 5033 multinuclear Same-Unit  5034
+collapsed_nodes {5009 5017 5027}
+#autolink_nodes 5032 5034 satelite elaboration-additional  5035
+#UNDID
+autolink_nodes 5032 5034 satelite comparison  5035
+collapsed_nodes {5009 5017 5027 5034}
+#create-a-node-here really 23.136 36 { \n\nSo-called jumbo CDs, typically in denominations of $90,000 and up, also usually follow T-bills and interest rate trends in general more }
+#UNDID
+create-a-node-here really 23.147 36 { \n\nSo-called jumbo CDs, typically in denominations of $90,000 and up, also usually follow T-bills and interest rate trends in general more than those }
+create-a-node-here really 23.176 37 {aimed at small investors.}
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5036
+create-a-node-here really 24.84 38 {\nSome jumbos posted fractional changes in average yields this week, both up and down.}
+nextSentence really
+collapsed_nodes {5009 5017 5027}
+disconnect_node 5034 disconnect
+#disconnect_node 5032 disconnect
+#UNDID
+#disconnect_node 5018 disconnect
+#UNDID
+disconnect_node 5018 disconnect
+#autolink_nodes 5018 5032 nucleus antithesis  5037
+#UNDID
+autolink_nodes 5018 5032 satelite antithesis  5037
+collapsed_nodes {5009 5017 5027 5032}
+autolink_nodes 5036 38 satelite elaboration-additional  5038
+autolink_nodes 5038 5034 satelite circumstance  5039
+create-a-node-here really 25.64 39 {\nThe average yield on threemonth jumbos rose to 8.00% from 7.96%,}
+create-a-node-here really 25.129 40 { while the two-year average fell by the same amount to 7.89%.}
+disconnect_node 38 disconnect
+disconnect_node 5034 disconnect
+autolink_nodes 5034 5036 satelite elaboration-additional  5040
+autolink_nodes 38 5040 satelite circumstance  5041
+autolink_nodes 39 40 multinuclear List  5042
+create-a-node-here really 26.56 41 {\nSix-month and oneyear yields were unchanged, on average.}
+nextSentence really
+autolink_nodes 5042 41 multinuclear List below 5042
+autolink_nodes 5041 5042 satelite example  5043
+collapsed_nodes {5009 5017 5027 5032 5040}
+collapsed_nodes {5009 5017 5027 5032 5040 5004}
+autolink_nodes 5037 5043 satelite elaboration-additional  5044
+#create-a-node-here really 28.5 42 { \n\n"The }
+#create-a-node-here really 28.13 43 {(CD)}
+#create-a-node-here really 28.50 44 { market is unsettled right now," }
+#create-a-node-here really 28.80 45 {said Banxquote's Mr. Mehl.}
+#nextSentence really
+#autolink_nodes 44 43 satelite-embedded elaboration-object-attribute-e  5045
+#autolink_nodes 5045 42 multinuclear Same-Unit  5046
+#autolink_nodes 5046 45 satelite attribution  5047
+#create-a-node-here really 28.171 46 { "It's very easily influenced by changes in the stock market and the junk bond market."}
+#nextSentence really
+#autolink_nodes 5047 46 satelite explanation-argumentative  5048
+#UNDID
+#autolink_nodes 5047 46 satelite interpretation-s  5048
+#create-a-node-here really 30.85 47 { \n\nThe small changes in averages reflect generally unchanged yields at many major banks.}
+#create-a-node-here really 31.44 48 {\nSome, however, lowered yields significantly.}
+#nextSentence really
+#create-a-node-here really 32.149 49 {\nAt Chase Manhattan Bank in New York, for example, the yield on a small denomination six-month CD fell about a quarter of a percentage point to 8.06%.}
+#nextSentence really
+#create-a-node-here really 33.114 50 {\nIn California, Bank of America dropped the yield on both six-month and one-year "savings" CDs to 8.33% from 8.61%.}
+#nextSentence really
+#autolink_nodes 47 48 multinuclear Contrast  5049
+#autolink_nodes 49 50 multinuclear List  5050
+#autolink_nodes 48 5050 satelite example  5051
+#autolink_nodes 5048 5049 satelite evidence  5052
+#collapsed_nodes {5009 5017 5027 5032 5040 5004 5043}
+#autolink_nodes 5052 5044 multinuclear Contrast  5053
+#UNDID
+#UNDID
+#autolink_nodes 5049 5048 satelite circumstance  5052
+#collapsed_nodes {5009 5017 5027 5032 5040 5004 5043}
+#collapsed_nodes {5009 5017 5027 5032 5040 5004 5043 5048}
+#autolink_nodes 5044 5052 satelite elaboration-additional  5053
+#create-a-node-here really 35.164 51 { \n\nYields on money-market deposits were unchanged at an average 6.96% for $50,000 and less and down just a hundredth of a percentage point to 7.41% for jumbo deposits.}
+#collapsed_nodes {5009 5017 5027 5032 5040 5004 5043 5048 5052}
+#autolink_nodes 5053 51 satelite elaboration-additional  5054
+#collapsed_nodes {5009 5017 5027 5032 5040 5043 5048 5052}
+#collapsed_nodes {5017 5027 5032 5040 5043 5048 5052}
+#collapsed_nodes {5027 5032 5040 5043 5048 5052}
+#collapsed_nodes {5040 5043 5048 5052}
+#collapsed_nodes {5048 5052}
+#collapsed_nodes {}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+collapsed_nodes {5009 5017 5027 5032 5004}
+collapsed_nodes {5009 5017 5004}
+collapsed_nodes {5009 5017}
+collapsed_nodes {5017}
+collapsed_nodes {}
+disconnect_node 10 modify
+autolink_nodes 5007 10 satelite elaboration-additional  5045
+create-a-node-here really 28.42 42 { \n\n"The (CD) market is unsettled right now," }
+create-a-node-here really 28.72 43 {said Banxquote's Mr. Mehl.}
+autolink_nodes 42 43 satelite attribution  5046
+create-a-node-here really 28.163 44 { "It's very easily influenced by changes in the stock market and the junk bond market."}
+nextSentence really
+autolink_nodes 5046 44 satelite interpretation-s  5047
+create-a-node-here really 30.85 45 { \n\nThe small changes in averages reflect generally unchanged yields at many major banks.}
+nextSentence really
+create-a-node-here really 31.44 46 {\nSome, however, lowered yields significantly.}
+nextSentence really
+create-a-node-here really 32.149 47 {\nAt Chase Manhattan Bank in New York, for example, the yield on a small denomination six-month CD fell about a quarter of a percentage point to 8.06%.}
+nextSentence really
+create-a-node-here really 33.114 48 {\nIn California, Bank of America dropped the yield on both six-month and one-year "savings" CDs to 8.33% from 8.61%.}
+nextSentence really
+autolink_nodes 47 48 multinuclear List  5048
+autolink_nodes 46 5048 satelite example  5049
+autolink_nodes 45 5049 multinuclear Contrast  5050
+autolink_nodes 5050 5047 satelite circumstance  5051
+autolink_nodes 5044 5051 satelite elaboration-additional  5052
+create-a-node-here really 35.164 49 { \n\nYields on money-market deposits were unchanged at an average 6.96% for $50,000 and less and down just a hundredth of a percentage point to 7.41% for jumbo deposits.}
+nextSentence really
+autolink_nodes 5052 49 satelite elaboration-additional  5053

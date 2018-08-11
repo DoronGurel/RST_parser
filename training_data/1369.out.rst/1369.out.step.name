@@ -1,0 +1,40 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.91 1 {\nGeneral Electric Co. was given an $89.6 million Navy contract for nuclear propulsion parts.}
+nextSentence really
+nextSentence really
+create-a-node-here really 4.96 2 { \n\nWestinghouse Electric Corp. also won a $75.5 million Navy contract for nuclear propulsion parts.}
+nextSentence really
+nextSentence really
+create-a-node-here really 6.81 3 { \n\nFederal Data Corp. was issued a $14.5 million Navy contract for computer systems.}
+nextSentence really
+nextSentence really
+create-a-node-here really 8.105 4 { \n\nAmerican Telephone & Telegraph Co. was awarded an $11.5 million Navy contract for oceanographic services.}
+nextSentence really
+#autolink_nodes 1 2 satelite elaboration-additional  5001
+#autolink_nodes 5001 3 multinuclear List  5002
+#autolink_nodes 5002 4 multinuclear List above 5003
+#UNDID
+#autolink_nodes 5002 4 multinuclear List below 5002
+#change_rel 2 
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 1 2 multinuclear List  5001
+#UNDID
+#autolink_nodes 1 2 multinuclear List  5001
+#autolink_nodes 5001 3 multinuclear List above 5002
+#autolink_nodes 5002 4 multinuclear List below 5002
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 1 2 satelite elaboration-additional  5001
+#autolink_nodes 5001 3 multinuclear List  5002
+#autolink_nodes 5002 4 multinuclear List below 5002
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 1 2 multinuclear List  5001
+autolink_nodes 5001 3 multinuclear List below 5001
+autolink_nodes 5001 4 multinuclear List below 5001

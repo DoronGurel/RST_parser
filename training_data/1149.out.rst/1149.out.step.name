@@ -1,0 +1,201 @@
+nextSentence really
+create-a-node-here really 2.41 1 {\nThe Justice Department is in the process }
+create-a-node-here really 2.81 2 {of trying to gain control over a law }
+create-a-node-here really 2.146 3 {that federal Judge David Sentelle recently called a "monster."}
+nextSentence really
+create-a-node-here really 2.166 4 { Needless to say,}
+create-a-node-here really 2.196 5 { he was talking about RICO.}
+nextSentence really
+create-a-node-here really 3.46 6 {\nWith its recently revised guidelines for RICO,}
+create-a-node-here really 3.147 7 { Justice makes it clear that the law currently holds too many incentives for abuse by prosecutors.}
+nextSentence really
+#autolink_nodes 1 2 multinuclear Temporal-Same-Time  5001
+#autolink_nodes 2 3 satelite elaboration-additional  5002
+#UNDID
+#UNDID
+autolink_nodes 1 2 satelite-embedded purpose-e  5001
+autolink_nodes 2 3 satelite elaboration-object-attribute  5002
+autolink_nodes 4 5 nucleus comment  5003
+autolink_nodes 6 7 nucleus circumstance  5004
+autolink_nodes 5001 5003 satelite elaboration-additional  5005
+autolink_nodes 5005 5004 satelite elaboration-additional  5006
+create-a-node-here really 6.0 8 { \n\nThe text of the "new policy" guidelines from the Criminal Division are reprinted nearby.\n}
+create-a-node-here really 6.25 9 {They strongly suggest }
+create-a-node-here really 6.161 10 {that Justice's prosecutions of Drexel Burnham Lambert, Michael Milken and Princeton/Newport violated notions of fundamental fairness.}
+nextSentence really
+create-a-node-here really 7.57 11 {\nJustice is attempting to avoid a replay of these tactics.}
+nextSentence really
+create-a-node-here really 8.132 12 {\nThis amounts to an extraordinary repudiation of the tenure of New York mayoral candidate and former U.S. Attorney Rudolph Giuliani, }
+create-a-node-here really 8.205 13 {who was more inclined to gathering scalps than understanding markets.}
+nextSentence really
+autolink_nodes 9 10 nucleus attribution  5007
+autolink_nodes 8 5007 satelite elaboration-additional  5008
+autolink_nodes 5004 5008 satelite elaboration-additional  5009
+autolink_nodes 5007 11 multinuclear Problem-Solution  5010
+autolink_nodes 12 13 satelite elaboration-additional  5011
+autolink_nodes 5010 5011 satelite explanation-argumentative  5012
+create-a-node-here really 10.130 14 { \n\nThe new guidelines limit the pretrial forfeitures of assets of RICOed defendants and their investors, clients, bankers and others.}
+nextSentence really
+create-a-node-here really 11.58 15 {\nThis follows earlier new guidelines from the Tax Division }
+create-a-node-here really 11.139 16 {prohibiting Princeton/Newport-like tax cases from masquerading as RICO cases.}
+nextSentence really
+create-a-node-here really 12.64 17 {\nThe forfeiture memo cited "considerable criticism in the press, }
+create-a-node-here really 12.92 18 {because of a perception }
+create-a-node-here really 12.169 19 {that pre-trial freezing of assets is tantamount to a seizure of property }
+create-a-node-here really 12.194 20 {without due process."}
+nextSentence really
+create-a-node-here really 12.243 21 { It told prosecutors not to seek forfeitures }
+create-a-node-here really 12.305 22 {if there are "less intrusive" alternatives, such as bonds,}
+create-a-node-here really 12.394 23 { and in any case not to seek forfeitures "disproportionate to the defendant's crime."}
+nextSentence really
+autolink_nodes 15 16 satelite elaboration-object-attribute  5013
+autolink_nodes 14 5013 multinuclear Inverted-Sequence  5014
+#autolink_nodes 17 18 satelite consequence-s  5015
+#UNDID
+autolink_nodes 17 18 satelite consequence-n  5015
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 19 20 satelite manner  5017
+autolink_nodes 21 22 satelite condition  5018
+autolink_nodes 5018 23 multinuclear List  5019
+autolink_nodes 5015 5019 satelite elaboration-additional  5020
+create-a-node-here really 15.0 24 { \n\nThese changes come a tad late for Princeton/Newport, the first RICOed securities firm.\n}
+create-a-node-here really 15.47 25 {It was forced into liquidation before trial}
+create-a-node-here really 15.86 26 { when investors yanked their funds }
+create-a-node-here really 15.154 27 {after the government demanded a huge pre-trial asset forfeiture.}
+nextSentence really
+create-a-node-here really 16.28 28 {\nPrinceton/Newport investors,}
+create-a-node-here really 16.84 29 { including McKinsey & Co. and the Harvard endowment,}
+create-a-node-here really 16.116 30 { made the rational decision }
+create-a-node-here really 16.145 31 {to withdraw their money; }
+create-a-node-here really 16.213 32 {for the firm, the liquidation was sentence first, verdict later.}
+nextSentence really
+nextSentence really
+create-a-node-here really 17.86 33 {\nProsecutors wanted $23.8 million in forfeiture for alleged tax fraud of some $400,000.}
+nextSentence really
+autolink_nodes 25 26 multinuclear Temporal-Same-Time  5021
+autolink_nodes 5021 27 satelite temporal-after  5022
+autolink_nodes 24 5022 nucleus circumstance  5023
+autolink_nodes 5019 5023 satelite elaboration-additional  5024
+autolink_nodes 28 29 satelite-embedded elaboration-part-whole-e  5025
+autolink_nodes 5025 30 multinuclear Same-Unit  5026
+#autolink_nodes 30 31 satelite-embedded purpose-e  5027
+#UNDID
+autolink_nodes 30 31 satelite purpose  5027
+autolink_nodes 5022 5026 satelite elaboration-additional below 5028
+autolink_nodes 5026 32 satelite comment  5029
+autolink_nodes 32 33 satelite evidence  5030
+create-a-node-here really 19.126 34 { \n\nThe experience of Princeton/Newport and initiation of other RICO-forfeiture cases against legitimate businesses taught Drexel }
+create-a-node-here really 19.191 35 {that a RICOed investment bank would be an ex-investment bank.}
+create-a-node-here really 20.49 36 {\nDrexel therefore agreed instead to an arrangement}
+create-a-node-here really 20.85 37 { allowing it to plea to charges }
+create-a-node-here really 20.129 38 {"which the company is not in a position }
+create-a-node-here really 20.145 39 {to dispute" }
+create-a-node-here really 20.165 40 {because of RICO.}
+nextSentence really
+create-a-node-here really 20.220 41 { Part of Drexel's plea was to cut Mr. Milken loose.}
+nextSentence really
+create-a-node-here really 21.97 42 {\nSo after all the prosecutorial hoopla no one has established what, if anything, Drexel did wrong.}
+nextSentence really
+autolink_nodes 34 35 satelite elaboration-object-attribute  5031
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5032
+autolink_nodes 37 38 satelite-embedded elaboration-additional-e  5033
+#autolink_nodes 38 39 satelite elaboration-additional  5034
+#UNDID
+autolink_nodes 38 39 satelite elaboration-object-attribute  5034
+autolink_nodes 5034 40 satelite consequence-n  5035
+autolink_nodes 5031 5032 nucleus comment  5036
+autolink_nodes 5029 5036 satelite elaboration-additional  5037
+autolink_nodes 41 42 satelite temporal-after  5038
+autolink_nodes 5033 5038 satelite elaboration-additional  5039
+create-a-node-here really 23.32 43 { \n\nSo two cheers for the new rules.}
+#create-a-node-here really 24.54 44 {\nJustice has finally recognized its employees' abuses, }
+#create-a-node-here really 24.154 45 {thanks largely to the demands for reform by former U.S. attorney in Washington Joseph diGenova, }
+#create-a-node-here really 24.203 46 {who wants to salvage RICO for real criminals.}
+#nextSentence really
+#create-a-node-here really 26.43 47 { \n\nBut prosecutorial guidelines are effective }
+#create-a-node-here really 26.131 48 {only if someone at Justice is willing and able to supervise hyperactive prosecutors.}
+#nextSentence really
+#autolink_nodes 5014 5020 satelite elaboration-additional  5040
+#collapsed_nodes {5019}
+#autolink_nodes 5040 43 satelite comment  5041
+#autolink_nodes 44 45 satelite conclusion  5042
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 24.149 44 {\nJustice has finally recognized its employees' abuses, thanks largely to the demands for reform by former U.S. attorney in Washington Joseph diGenova,}
+create-a-node-here really 24.199 45 { who wants to salvage RICO for real criminals.}
+nextSentence really
+autolink_nodes 44 45 satelite elaboration-additional  5040
+create-a-node-here really 26.43 46 { \n\nBut prosecutorial guidelines are effective }
+create-a-node-here really 26.131 47 {only if someone at Justice is willing and able to supervise hyperactive prosecutors.}
+nextSentence really
+create-a-node-here really 27.132 48 {\nJudge Sentelle, of the appeals court in Washington, made this point at a Cato Institute conference last week in a remarkable speech }
+create-a-node-here really 27.151 49 {titled, "RICO: }
+create-a-node-here really 27.191 50 {The Monster That Ate Jurisprudence."}
+nextSentence really
+create-a-node-here really 27.204 51 { He said }
+create-a-node-here really 27.266 52 {ours is supposed to be "a government of laws not of men," }
+create-a-node-here really 27.302 53 {and yet RICO defenders "tell us }
+create-a-node-here really 27.354 54 {that we should rely on prosecutorial discretion }
+create-a-node-here really 27.398 55 {to protect against overbreadth of RICO."}
+nextSentence really
+create-a-node-here really 27.431 56 { No prosecutorial guidelines,}
+create-a-node-here really 27.459 57 { observed or unobserved,}
+create-a-node-here really 27.513 58 { limit civil RICO cases by plaintiffs for damages.}
+nextSentence really
+autolink_nodes 5008 5014 satelite elaboration-additional  5041
+collapsed_nodes {5014}
+#autolink_nodes 5008 5020 satelite elaboration-additional above 5041
+#UNDID
+autolink_nodes 5014 5020 satelite elaboration-additional  5042
+collapsed_nodes {5013 5004}
+autolink_nodes 5009 43 satelite comment  5043
+autolink_nodes 46 47 satelite condition  5044
+autolink_nodes 5044 48 satelite explanation-argumentative  5045
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5046
+autolink_nodes 49 50 satelite elaboration-additional  5047
+autolink_nodes 51 52 nucleus attribution  5048
+autolink_nodes 53 54 nucleus attribution  5049
+autolink_nodes 5048 5049 multinuclear Contrast  5050
+autolink_nodes 54 55 satelite purpose below 5051
+autolink_nodes 56 57 satelite-embedded elaboration-object-attribute-e  5052
+autolink_nodes 5052 58 multinuclear Same-Unit  5053
+autolink_nodes 5050 5053 satelite elaboration-additional  5054
+autolink_nodes 5045 5054 satelite elaboration-additional  5055
+create-a-node-here really 30.0 59 { \n\nWhat now for Princeton/Newport officials, Drexel and Mr. Milken?\n}
+#create-a-node-here really 30.38 60 {Justice should review these cases }
+#UNDID
+create-a-node-here really 30.38 60 {Justice should review these cases }
+create-a-node-here really 30.99 61 {to see what other prosecutorial abuses may have occurred.}
+nextSentence really
+create-a-node-here really 31.11 62 {\nWe suspect }
+create-a-node-here really 31.48 63 {that Justice will some day agree }
+create-a-node-here really 31.137 64 {that only the complete repeal of RICO can guarantee an end to injustices in its name.}
+nextSentence really
+autolink_nodes 5054 59 satelite comment  5056
+autolink_nodes 60 61 satelite purpose  5057
+autolink_nodes 62 63 nucleus attribution  5058
+autolink_nodes 63 64 satelite elaboration-object-attribute below 5059
+#autolink_nodes 5057 5058 satelite comment  5060
+#UNDID
+autolink_nodes 5057 5058 satelite comment  5060
+autolink_nodes 59 5060 satelite comment  5061
+change_rel 5060 topic-shift
+change_rel 5061 rhetorical-question
+#change_rel 5061 
+#UNDID
+change_rel 5060 rhetorical-question
+disconnect_node 5060 modify
+#autolink_nodes 59 5060 nucleus rhetorical-question  5062
+#UNDID
+autolink_nodes 59 5060 nucleus rhetorical-question  5062
+autolink_nodes 5006 5040 satelite elaboration-additional  5063
+autolink_nodes 5040 5055 satelite elaboration-additional  5064
+collapsed_nodes {}

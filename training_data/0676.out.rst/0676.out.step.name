@@ -1,0 +1,237 @@
+nextSentence really
+create-a-node-here really 2.92 1 {\n(During its centennial year, The Wall Street Journal will report events of the past century }
+#create-a-node-here really 2.149 2 {that stand as milestones of American business history.}
+#nextSentence really
+#autolink_nodes 1 2 satelite-embedded elaboration-general-specific-e  5001
+#create-a-node-here really 4.79 3 {) \n\nThomas Jefferson sold Congress on the idea of the decimal system for currency, }
+#create-a-node-here really 4.149 4 {thus saving Americans the headaches of pounds, shillings and pence.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+nextSentence really
+create-a-node-here really 2.150 2 {that stand as milestones of American business history.)}
+autolink_nodes 1 2 satelite-embedded elaboration-general-specific-e  5001
+create-a-node-here really 4.79 3 { \n\nThomas Jefferson sold Congress on the idea of the decimal system for currency, }
+create-a-node-here really 4.149 4 {thus saving Americans the headaches of pounds, shillings and pence.}
+nextSentence really
+autolink_nodes 3 4 satelite consequence-s  5002
+create-a-node-here really 5.73 5 {\nBut he struck out with the decimal system of metric weights and measures }
+autolink_nodes 5002 5 multinuclear Contrast  5003
+create-a-node-here really 5.100 6 {the French had invented.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+#autolink_nodes 5001 5003 multinuclear TextualOrganization  5005
+#change_constit 5001 Attribution
+#UNDID
+#UNDID
+change_constit 5001 Attribution
+change_constit 5003 
+disconnect_node 2 modify
+#autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5005
+#UNDID
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 6.55 7 {\nInstead, Congress opted for the inches, feet and yards }
+create-a-node-here really 6.94 8 {the colonists had brought with them.}
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+#autolink_nodes 5004 5006 nucleus preference  5007
+#UNDID
+autolink_nodes 5004 5006 nucleus preference  5007
+create-a-node-here really 8.34 9 { \n\nAmericans didn't dislike metrics; }
+create-a-node-here really 8.62 10 {they simply ignored them.}
+nextSentence really
+autolink_nodes 9 10 multinuclear List  5008
+autolink_nodes 5007 5008 satelite interpretation-s  5009
+create-a-node-here really 9.28 11 {\nScientists felt differently.}
+nextSentence really
+autolink_nodes 5008 11 multinuclear Contrast above 5010
+create-a-node-here really 10.33 12 {\nIn 1807, the Swiss mathematician }
+create-a-node-here really 10.83 13 {who headed the U.S. Coast and Geodetic Survey }
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5011
+create-a-node-here really 10.108 14 {made an "iron meter" }
+autolink_nodes 5011 14 multinuclear Same-Unit  5012
+create-a-node-here really 10.144 15 {that he had brought from Europe }
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5013
+create-a-node-here really 10.172 16 {the standard of measure.}
+nextSentence really
+autolink_nodes 5012 16 multinuclear Same-Unit below 5013
+create-a-node-here really 11.61 17 {\nBy the end of the century scientists had embraced the system.}
+nextSentence really
+autolink_nodes 5012 17 multinuclear Sequence above 5014
+autolink_nodes 5014 5003 satelite background  5015
+create-a-node-here really 13.46 18 { \n\nBusinessmen took their cue from the engineers.}
+nextSentence really
+create-a-node-here really 14.64 19 {\nWhen Congress finally passed the Metric Conversion Act in 1975, }
+create-a-node-here really 14.91 20 {industry was far ahead.}
+nextSentence really
+#autolink_nodes 19 20 nucleus circumstance  5016
+#UNDID
+autolink_nodes 19 20 nucleus temporal-same-time  5016
+autolink_nodes 18 5016 nucleus circumstance  5017
+create-a-node-here really 15.42 21 {\nBecause the law made compliance voluntary,}
+create-a-node-here really 15.82 22 { it inspired little more than jokes.}
+autolink_nodes 21 22 nucleus circumstance  5018
+autolink_nodes 5017 5018 satelite elaboration-additional  5019
+create-a-node-here really 15.129 23 { (The press had a field day with questions }
+nextSentence really
+create-a-node-here really 15.202 24 {about what would happen to "six-footer," "yardstick" and "inchworm.")}
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 22 5020 satelite example below 5021
+create-a-node-here really 17.7 25 { \n\nToday, }
+create-a-node-here really 17.45 26 {though the public is barely aware,}
+create-a-node-here really 17.96 27 { much of U.S. industry, particularly companies }
+#autolink_nodes 26 27 satelite-embedded concession-e  5022
+#UNDID
+#autolink_nodes 26 27 nucleus-embedded concession-e  5022
+#UNDID
+autolink_nodes 26 27 nucleus-embedded concession-e  5022
+#create-a-node-here really 17.114 28 {manufacturing }
+#create-a-node-here really 17.138 29 {or selling overseas,}
+#autolink_nodes 28 29 multinuclear List  5023
+#autolink_nodes 27 5023 satelite-embedded elaboration-object-attribute-e below 5024
+#create-a-node-here really 17.169 30 { have made metrics routine.}
+#nextSentence really
+#autolink_nodes 5024 30 multinuclear Same-Unit  5025
+#autolink_nodes 25 5022 multinuclear Same-Unit  5026
+#UNDID
+#UNDID
+#autolink_nodes 25 5022 multinuclear Same-Unit  5025
+#autolink_nodes 5025 30 multinuclear Same-Unit below 5025
+#autolink_nodes 5019 5025 multinuclear Sequence  5026
+#autolink_nodes 5015 5026 multinuclear Sequence  5027
+#create-a-node-here really 18.91 31 {\nGeneral Motors, for example, uses metric terms for its automobile bodies and power trains. }
+#autolink_nodes 5025 31 satelite example  5028
+#create-a-node-here really 18.96 32 {(In auto advertising, however, items such as wheelbases are still described in inches.}
+#UNDID
+#nextSentence really
+#create-a-node-here really 18.182 32 {(In auto advertising, however, items such as wheelbases are still described in inches.)}
+#autolink_nodes 31 32 multinuclear Contrast  5029
+#create-a-node-here really 18.263 33 { Farm-machine makers such as Caterpillar and Deere work in the metric system.}
+#nextSentence really
+#autolink_nodes 5029 33 multinuclear List above 5030
+#create-a-node-here really 19.45 34 {\nThe liquor industry went metric 10 years ago.}
+#nextSentence really
+#autolink_nodes 5030 34 multinuclear List below 5030
+#create-a-node-here really 21.33 35 { \n\nThe Pentagon has led the charge, }
+#create-a-node-here really 21.90 36 {particularly as military alliances spread world-wide.}
+#nextSentence really
+#autolink_nodes 35 36 satelite circumstance  5031
+#autolink_nodes 5030 5031 multinuclear List below 5031
+#create-a-node-here really 22.59 37 {\nNew weapons systems will be around until the next century, }
+#create-a-node-here really 22.127 38 {notes John Tascher, the Defense Department's metric coordinator.}
+#nextSentence really
+#autolink_nodes 37 38 satelite attribution  5032
+#autolink_nodes 5031 5032 satelite elaboration-additional  5033
+#create-a-node-here really 24.29 39 { \n\nStill, like the auto makers, }
+#create-a-node-here really 24.64 40 {when dealing with Mr. Everyman }
+#create-a-node-here really 24.110 41 {the Pentagon sticks to the tried and true.}
+#nextSentence really
+#autolink_nodes 40 41 nucleus circumstance  5034
+#autolink_nodes 39 5034 multinuclear Same-Unit  5035
+#autolink_nodes 5033 5035 satelite antithesis  5036
+#UNDID
+#autolink_nodes 5033 5035 satelite antithesis  5036
+#create-a-node-here really 25.62 42 {\nSoldiers and sailors are still measured in inches and pounds. }
+#autolink_nodes 41 42 satelite elaboration-additional below 5037
+#disconnect_node 42 disconnect
+#autolink_nodes 41 42 satelite example below 5038
+#change_constit 5027 Text
+#autolink_nodes 5027 5001 multinuclear TextualOrganization above 5039
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 17.135 28 {manufacturing or selling overseas, }
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e below 5023
+create-a-node-here really 17.165 29 {have made metrics routine.}
+nextSentence really
+autolink_nodes 25 5022 multinuclear Same-Unit  5024
+autolink_nodes 5023 29 multinuclear Same-Unit  5025
+create-a-node-here really 18.90 30 {\nGeneral Motors, for example, uses metric terms for its automobile bodies and power trains.}
+nextSentence really
+autolink_nodes 5024 30 satelite example  5026
+nextSentence really
+create-a-node-here really 18.183 31 { (In auto advertising, however, items such as wheelbases are still described in inches.) }
+autolink_nodes 30 31 satelite antithesis  5027
+create-a-node-here really 18.263 32 {Farm-machine makers such as Caterpillar and Deere work in the metric system.}
+nextSentence really
+autolink_nodes 5027 32 multinuclear List  5028
+create-a-node-here really 19.45 33 {\nThe liquor industry went metric 10 years ago.}
+nextSentence really
+autolink_nodes 5028 33 multinuclear List below 5028
+create-a-node-here really 21.33 34 { \n\nThe Pentagon has led the charge, }
+create-a-node-here really 21.90 35 {particularly as military alliances spread world-wide.}
+nextSentence really
+autolink_nodes 34 35 satelite circumstance  5029
+create-a-node-here really 22.59 36 {\nNew weapons systems will be around until the next century, }
+create-a-node-here really 22.127 37 {notes John Tascher, the Defense Department's metric coordinator.}
+nextSentence really
+autolink_nodes 36 37 satelite attribution  5030
+autolink_nodes 5029 5030 satelite elaboration-additional  5031
+autolink_nodes 5028 5031 multinuclear List below 5031
+create-a-node-here really 24.29 38 { \n\nStill, like the auto makers, }
+create-a-node-here really 24.64 39 {when dealing with Mr. Everyman }
+create-a-node-here really 24.110 40 {the Pentagon sticks to the tried and true.}
+nextSentence really
+autolink_nodes 39 40 nucleus-embedded circumstance-e  5032
+autolink_nodes 38 5032 multinuclear Same-Unit  5033
+autolink_nodes 5031 5033 satelite antithesis  5034
+create-a-node-here really 25.61 41 {\nSoldiers and sailors are still measured in inches and pounds.}
+nextSentence really
+autolink_nodes 5033 41 satelite example  5035
+autolink_nodes 5019 5026 multinuclear Sequence  5036
+autolink_nodes 5015 5036 multinuclear Sequence  5037
+autolink_nodes 5037 5037 schema Text  5037
+autolink_nodes 5001 5037 multinuclear TextualOrganization  5038
+#disconnect_node 5001 modify
+#UNDID
+#disconnect_node 5001 disconnect
+#UNDID
+#change_constit 5001 Source
+#UNDID
+disconnect_node 5001 disconnect
+autolink_nodes 5001 5001 schema Source  5038
+autolink_nodes 5001 5037 multinuclear TextualOrganization  5039

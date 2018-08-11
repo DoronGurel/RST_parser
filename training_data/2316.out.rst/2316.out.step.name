@@ -1,0 +1,201 @@
+nextSentence really
+create-a-node-here really 2.9 1 {\nThe U.S.,}
+create-a-node-here really 2.57 2 { which is finalizing its steel-import quotas,}
+create-a-node-here really 2.159 3 { is allocating a larger share of its steel market to developing and newly industrialized countries }
+create-a-node-here really 2.214 4 {which have relatively unsubsidized steel industries.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 4.76 5 { \n\nMeanwhile, the U.S. has negotiated a significant cut in Japan's steel quota,}
+create-a-node-here really 4.161 6 { and made only a minor increase to the steel allotment for the European Community.}
+nextSentence really
+autolink_nodes 5 6 multinuclear List  5004
+autolink_nodes 5002 5004 multinuclear Temporal-Same-Time above 5005
+create-a-node-here really 6.110 7 { \n\nBrazil, similar to Mexico and South Korea, is expected to negotiate a somewhat bigger share of the U.S. market}
+create-a-node-here really 6.168 8 { than it had under the previous five-year steel quotas,}
+create-a-node-here really 6.195 9 { which expired Sept. 30.}
+nextSentence really
+autolink_nodes 7 8 multinuclear Contrast  5006
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5007
+#autolink_nodes 5005 5006 multinuclear Temporal-Same-Time below 5007
+#UNDID
+#autolink_nodes 5005 5006 multinuclear List above 5008
+#UNDID
+autolink_nodes 5005 5006 satelite elaboration-additional  5008
+create-a-node-here really 7.48 10 {\nBrazil and Venezuela are the only two countries }
+create-a-node-here really 7.113 11 {that haven't completed steel talks with the U.S. for the year}
+create-a-node-here really 7.138 12 { ending Oct. 1, 1990.}
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5010
+create-a-node-here really 9.90 13 { \n\nIn recent years, U.S. steelmakers have supplied about 80% of the 100 million tons of steel}
+create-a-node-here really 9.123 14 { used annually by the nation.}
+nextSentence really
+create-a-node-here really 10.119 15 {\nOf the remaining 20% needed, the steel-quota negotiations allocate about 15% to foreign suppliers, with the difference }
+create-a-node-here really 10.149 16 {supplied mainly by Canada }
+create-a-node-here really 10.198 17 {-- which isn't included in the quota program.}
+nextSentence really
+autolink_nodes 5008 5009 satelite elaboration-additional  5011
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 5012 15 satelite elaboration-additional  5013
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 16 17 satelite elaboration-additional  5015
+#create-a-node-here really 11.104 18 {\nOther countries that don't have formal steel quotas with the U.S., such as Taiwan, Sweden and Argentina,}
+#create-a-node-here really 11.134 19 { also have supplied steel.}
+#nextSentence really
+#create-a-node-here really 12.83 20 {\nSome of these countries have in recent years made informal agreements with the U.S.}
+#create-a-node-here really 12.115 21 { that are similar to quotas.}
+#nextSentence really
+#autolink_nodes 5013 18 satelite elaboration-additional  5016
+#UNDID
+#autolink_nodes 5014 18 multinuclear List  5016
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 11.16 18 {\nOther countries }
+create-a-node-here really 11.108 19 {that don't have formal steel quotas with the U.S., such as Taiwan, Sweden and Argentina,}
+create-a-node-here really 12.0 20 { also have supplied steel.\n}
+collapsed_nodes {5008}
+autolink_nodes 5011 5013 satelite elaboration-additional  5016
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5017
+autolink_nodes 5017 20 multinuclear Same-Unit  5018
+autolink_nodes 5014 5018 multinuclear List  5019
+create-a-node-here really 12.87 21 {Some of these countries have in recent years made informal agreements with the U.S.}
+create-a-node-here really 12.119 22 { that are similar to quotas.}
+nextSentence really
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5020
+create-a-node-here really 14.46 23 { \n\nThe Bush administration earlier this year said}
+create-a-node-here really 14.80 24 { it would extend steel quotas,}
+create-a-node-here really 14.125 25 { known as voluntary restraint agreements,}
+create-a-node-here really 14.151 26 { until March 31, 1992.}
+nextSentence really
+create-a-node-here really 15.13 27 {\nIt also said }
+autolink_nodes 5019 5020 satelite elaboration-additional  5021
+autolink_nodes 23 24 nucleus attribution  5022
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e below 5023
+autolink_nodes 5023 26 multinuclear Same-Unit  5024
+autolink_nodes 5020 5022 satelite elaboration-additional  5025
+create-a-node-here really 15.62 28 {it would use that two-and-a-half year period }
+create-a-node-here really 15.107 29 {to work toward an international consensus}
+create-a-node-here really 15.156 30 { on freeing up the international steel trade,}
+create-a-node-here really 15.237 31 { which has been notoriously managed, subsidized and protected by governments.}
+nextSentence really
+create-a-node-here really 16.59 32 {\nThe U.S. termed its plan, a "trade liberalization program,"}
+create-a-node-here really 16.81 33 { despite the fact }
+create-a-node-here really 16.116 34 {that it is merely an extension.}
+nextSentence really
+autolink_nodes 27 28 nucleus attribution  5026
+autolink_nodes 28 29 satelite-embedded purpose-e below 5027
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5028
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 5022 5026 satelite elaboration-additional  5030
+autolink_nodes 32 33 satelite concession  5031
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5032
+autolink_nodes 5030 5031 satelite elaboration-additional  5033
+create-a-node-here really 18.7 35 { \n\nMexico,}
+create-a-node-here really 18.49 36 { which was one of the first countries }
+create-a-node-here really 18.95 37 {to conclude its steel talks with the U.S.,}
+create-a-node-here really 18.199 38 { virtually doubled its quota to 0.95% of the U.S. steel market from 0.48% under the previous quotas.}
+nextSentence really
+create-a-node-here really 19.13 39 {\nSouth Korea, }
+create-a-node-here really 19.58 40 {which had 1.9% under the previous quotas,}
+create-a-node-here really 19.70 41 { is set }
+create-a-node-here really 19.113 42 {to get a small increase to about 1.95%.}
+nextSentence really
+create-a-node-here really 20.64 43 {\nThat increase rises to slightly more than 2% of the U.S. market }
+nextSentence really
+create-a-node-here really 20.117 44 {if a joint Korean-U.S. steel project is included.}
+nextSentence really
+create-a-node-here really 21.77 45 {\nMeanwhile, Brazil is expected to increase its allowance from the 1.43% share }
+create-a-node-here really 21.108 46 {it has had in recent years.}
+nextSentence really
+#autolink_nodes 35 36 satelite-embedded elaboration-part-whole-e  5034
+#UNDID
+autolink_nodes 35 36 satelite-embedded elaboration-set-member-e  5034
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5035
+autolink_nodes 5034 38 multinuclear Same-Unit  5036
+autolink_nodes 39 40 satelite-embedded elaboration-object-attribute-e  5037
+autolink_nodes 5037 41 multinuclear Same-Unit  5038
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5039
+collapsed_nodes {5008 5013}
+autolink_nodes 5036 5038 multinuclear Comparison above 5040
+autolink_nodes 5016 5040 satelite elaboration-additional  5041
+autolink_nodes 43 44 satelite condition  5042
+#autolink_nodes 5038 5042 multinuclear Same-Unit below 5042
+#UNDID
+autolink_nodes 5038 5042 multinuclear Proportion above 5043
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5044
+autolink_nodes 5040 5044 multinuclear Comparison below 5044
+create-a-node-here really 23.17 47 { \n\nThe EC and Japan }
+create-a-node-here really 23.62 48 {-- the U.S.'s largest steel suppliers -- }
+create-a-node-here really 23.119 49 {haven't been filling their quotas to the full extent.}
+create-a-node-here really 24.23 50 {\nThe EC steel industry, }
+create-a-node-here really 24.77 51 {which has been coping with strong European demand,}
+create-a-node-here really 24.129 52 { has been supplying about 5% of the U.S. market }
+create-a-node-here really 24.175 53 {compared with recent quotas of about 6.7%.}
+nextSentence really
+create-a-node-here really 25.68 54 {\nJapan has been shipping steel to total about 4.5% of the U.S. market}
+create-a-node-here really 25.103 55 { compared with a quota of 5.9%.}
+nextSentence really
+autolink_nodes 47 48 satelite-embedded elaboration-object-attribute-e  5045
+autolink_nodes 5045 49 multinuclear Same-Unit  5046
+autolink_nodes 50 51 satelite-embedded elaboration-object-attribute-e  5047
+autolink_nodes 5047 52 multinuclear Same-Unit  5048
+autolink_nodes 5048 53 satelite comparison  5049
+autolink_nodes 54 55 satelite comparison  5050
+#disconnect_node 53 disconnect
+#UNDID
+autolink_nodes 5049 5050 multinuclear List  5051
+autolink_nodes 5046 5051 satelite elaboration-additional  5052
+#autolink_nodes 5040 5052 multinuclear Comparison below 5052
+#UNDID
+autolink_nodes 5040 5052 multinuclear Comparison below 5052
+create-a-node-here really 27.115 56 { \n\nIn the recent talks, the EC had its quota increased about 300,000 tons, to 7% of the U.S. market from 6.7% in 1988.}
+create-a-node-here really 28.47 57 {\nBut its quota has been as high as 6.9% in 1984.}
+nextSentence really
+create-a-node-here really 29.77 58 {\nJapan, however, has agreed to cut its quota to about 5% from 5.9% previously.}
+nextSentence really
+create-a-node-here really 31.76 59 { \n\nJapan, the EC, Brazil, Mexico and South Korea provide about 80% of the steel}
+create-a-node-here really 31.126 60 { imported to the U.S. under the quota program.}
+nextSentence really
+create-a-node-here really 32.88 61 {\nThe balance is supplied by a host of smaller exporters, such as Australia and Venezuela.}
+nextSentence really
+create-a-node-here really 34.60 62 { \n\nThe U.S. had about an extra 2% of the domestic steel market }
+create-a-node-here really 34.112 63 {to give to foreign suppliers in its quota talks.}
+nextSentence really
+create-a-node-here really 35.113 64 {\nThat was essentially made up of a 1% increase in the overall quota program and 1% from cutting Japan's allowance.}
+nextSentence really
+create-a-node-here really 37.93 65 { \n\nNegotiators from the White House trade office will repeat these quota negotiations next year }
+create-a-node-here really 37.165 66 {when they will have another 1% of the U.S. steel market to allocate.}
+nextSentence really
+create-a-node-here really 39.123 67 { \n\nThese optional 1%-a-year increases to the steel quota program are built into the Bush administration's steel-quota program }
+create-a-node-here really 39.189 68 {to give its negotiators leverage with foreign steel suppliers }
+create-a-node-here really 39.284 69 {to try to get them to withdraw subsidies and protectionism from their own steel industries.}
+nextSentence really
+autolink_nodes 56 57 satelite antithesis  5053
+autolink_nodes 5053 58 multinuclear List  5054
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5055
+autolink_nodes 5054 5055 satelite elaboration-additional  5056
+autolink_nodes 5055 61 satelite elaboration-additional  5057
+autolink_nodes 62 63 satelite-embedded elaboration-object-attribute-e  5058
+autolink_nodes 5058 64 satelite elaboration-additional  5059
+autolink_nodes 65 66 multinuclear Temporal-Same-Time  5060
+autolink_nodes 5060 67 satelite elaboration-additional  5061
+#autolink_nodes 67 68 satelite purpose  5062
+#UNDID
+autolink_nodes 67 68 satelite-embedded purpose-e  5062
+autolink_nodes 68 69 satelite purpose  5063
+collapsed_nodes {5008 5013 5046}
+collapsed_nodes {}
+autolink_nodes 5051 5056 satelite elaboration-additional  5064
+autolink_nodes 5057 5059 satelite elaboration-additional  5065
+collapsed_nodes {5065}
+autolink_nodes 5056 5061 satelite elaboration-additional  5066
+collapsed_nodes {5065 5016}
+collapsed_nodes {}
+collapsed_nodes {5041}
+collapsed_nodes {}

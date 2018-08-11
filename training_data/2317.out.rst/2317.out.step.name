@@ -1,0 +1,122 @@
+nextSentence really
+create-a-node-here really 2.75 1 {\nElcotel Inc. expects fiscal second-quarter earnings to trail 1988 results, }
+create-a-node-here really 2.94 2 {but anticipates }
+create-a-node-here really 2.185 3 {that several new products will lead to a "much stronger" performance in its second half.}
+nextSentence really
+autolink_nodes 3 2 satelite attribution  5001
+autolink_nodes 5001 1 multinuclear Contrast  5002
+create-a-node-here really 4.126 4 { \n\nElcotel, a telecommunications company, had net income of $272,000, or five cents a share, in its year-earlier second quarter, }
+create-a-node-here really 4.144 5 {ended Sept. 30.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5003
+showText really
+create-a-node-here really 6.0 6 {\nRevenue totaled $5 million.\n}
+create-a-node-here really 6.77 7 {George Pierce, chairman and chief executive officer, said in an interview }
+create-a-node-here really 6.188 8 {that earnings in the most recent quarter will be about two cents a share on revenue of just under $4 million}
+autolink_nodes 8 7 satelite attribution  5004
+autolink_nodes 6 5003 multinuclear List  5005
+#autolink_nodes 5004 5005 multinuclear List  5006
+#UNDID
+autolink_nodes 5005 5004 multinuclear List below 5005
+#create-a-node-here really 8.36 9 {. \n\nThe lower results, Mr. Pierce said, }
+#UNDID
+create-a-node-here really 8.19 9 {. \n\nThe lower results, }
+create-a-node-here really 8.39 10 {Mr. Pierce said, }
+create-a-node-here really 9.0 11 {reflect a 12-month decline in industry sales of privately owned pay telephones, Elcotel's primary business.\n}
+autolink_nodes 9 10 satelite attribution  5006
+autolink_nodes 11 5006 multinuclear Same-Unit  5007
+create-a-node-here really 9.86 12 {Although Mr. Pierce expects that line of business to strengthen in the next year, }
+create-a-node-here really 9.98 13 {he said }
+#create-a-node-here really 9.158 14 {Elcotel will also benefit from moving into other areas. }
+#UNDID
+create-a-node-here really 9.157 14 {Elcotel will also benefit from moving into other areas.}
+autolink_nodes 12 13 satelite attribution  5008
+autolink_nodes 14 5008 satelite concession  5009
+autolink_nodes 5005 5007 satelite reason  5010
+create-a-node-here really 11.83 15 { \n\nForemost among those is the company's entrance into the public facsimile business, }
+create-a-node-here really 11.103 16 {Mr. Pierce said.}
+autolink_nodes 15 16 satelite attribution  5011
+create-a-node-here really 12.68 17 {\nWithin the next year, Elcotel expects to place 10,000 fax machines, }
+create-a-node-here really 13.0 18 {made by Minolta in Japan, in hotels, municipal buildings, drugstores and other public settings around the country.\n}
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5012
+create-a-node-here really 13.63 19 {Elcotel will provide a credit-card reader for the machines }
+create-a-node-here really 13.111 20 {to collect, store and forward billing data. }
+autolink_nodes 19 20 satelite purpose  5013
+autolink_nodes 5012 5013 satelite elaboration-additional  5014
+autolink_nodes 5011 5014 satelite elaboration-additional  5015
+create-a-node-here really 15.16 21 {\n\nMr. Pierce said }
+create-a-node-here really 15.115 22 {Elcotel should realize a minimum of $10 of recurring net earnings for each machine each month. }
+autolink_nodes 22 21 satelite attribution  5016
+autolink_nodes 5013 5016 satelite elaboration-additional  5017
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {}
+collapsed_nodes {}
+disconnect_node 5017 disconnect
+disconnect_node 5016 disconnect
+disconnect_node 20 disconnect
+autolink_nodes 19 20 satelite purpose  5018
+collapsed_nodes {}
+#autolink_nodes 5012 5018 multinuclear List  5019
+#UNDID
+#autolink_nodes 5012 5018 multinuclear List  5019
+#UNDID
+#autolink_nodes 5012 5018 satelite elaboration-additional  5019
+#UNDID
+autolink_nodes 5012 5018 satelite elaboration-additional  5019
+autolink_nodes 5018 5016 satelite elaboration-additional  5020
+create-a-node-here really 17.55 23 {\n\nElcotel has also developed an automatic call processor }
+#create-a-node-here really 17.113 24 {that will make further use of the company's system for}
+#create-a-node-here really 18.0 25 { automating and handling credit-card calls and collect calls.\n}
+#autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5021
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 17.110 24 {that will make further use of the company's system }
+create-a-node-here really 18.0 25 {for automating and handling credit-card calls and collect calls.\n}
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5021
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5022
+create-a-node-here really 18.84 26 {Automatic call processors will provide that system for virtually any telephone, }
+create-a-node-here really 18.105 27 {Mr. Pierce said, }
+create-a-node-here really 18.125 28 {not just phones }
+create-a-node-here really 18.150 29 {produced by Elcotel. }
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5023
+autolink_nodes 26 27 satelite attribution  5024
+autolink_nodes 5023 5024 multinuclear Same-Unit  5025
+create-a-node-here really 20.73 30 {\n\nThe company will also be producing a new line of convenience telephones, }
+#create-a-node-here really 20.187 31 {which don't accept coins, for use in hotel lobbies, office lobbies, hospitality lounges and similar settings. }
+#UNDID
+create-a-node-here really 20.103 31 {which don't accept coins, }
+create-a-node-here really 20.191 32 {for use in hotel lobbies, office lobbies, hospitality lounges and similar settings. }
+autolink_nodes 30 31 satelite elaboration-object-attribute  5026
+autolink_nodes 5026 32 satelite purpose  5027
+create-a-node-here really 22.21 33 {\n\nMr. Pierce estimated }
+create-a-node-here really 22.146 34 {that the processors and convenience phones would produce about $5 of recurring net earnings for each machine each month. }
+autolink_nodes 34 33 satelite attribution  5028
+autolink_nodes 5021 5025 satelite elaboration-additional  5029
+collapsed_nodes {5025}
+autolink_nodes 5027 5029 multinuclear List  5030
+autolink_nodes 5030 5028 satelite elaboration-additional  5031
+collapsed_nodes {5025 5027}
+collapsed_nodes {5025 5027 5022}
+collapsed_nodes {5025 5027 5022 5028}
+collapsed_nodes {5025 5027 5022 5028 5020}
+collapsed_nodes {5025 5027 5022 5028 5020 5011}
+autolink_nodes 5015 5009 multinuclear List  5032
+#autolink_nodes 5031 5032 multinuclear List  5033
+#UNDID
+#autolink_nodes 5032 5031 multinuclear List below 5032
+#UNDID
+autolink_nodes 5032 5031 multinuclear List below 5032
+disconnect_node 5009 disconnect
+collapsed_nodes {5025 5027 5022 5028}
+autolink_nodes 5009 5032 satelite example  5033
+collapsed_nodes {5025 5027 5022 5028 5009}
+collapsed_nodes {}
+collapsed_nodes {5007}
+collapsed_nodes {5007 5004}
+collapsed_nodes {5004}
+collapsed_nodes {5004 5007}
+autolink_nodes 5010 5033 multinuclear Problem-Solution  5034
+autolink_nodes 5034 5002 satelite summary-s  5035
+collapsed_nodes {}

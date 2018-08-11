@@ -1,0 +1,205 @@
+nextSentence really
+create-a-node-here really 2.144 1 {\nRetailers in the West and parts of the South are entering the critical Christmas shopping season with more momentum than those in other regions.}
+nextSentence really
+create-a-node-here really 4.67 2 { \n\nIn a new report, the International Council of Shopping Centers said}
+create-a-node-here really 4.183 3 { sales of general merchandise in the West for the first seven months of 1989 rose 6.6% above year-earlier levels.}
+nextSentence really
+autolink_nodes 2 3 nucleus attribution  5001
+create-a-node-here really 6.72 4 { \n\nSales increased a more modest 4.8% in the South and 4.4% in the Midwest.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 7.55 5 {\nBut sales in the oil-patch state of Texas surged 12.9% }
+create-a-node-here really 7.113 6 {and sales in South Carolina jumped 10.6% in the period,}
+create-a-node-here really 7.147 7 { the New York trade group said.}
+nextSentence really
+autolink_nodes 5 6 multinuclear List  5002
+autolink_nodes 5002 7 satelite attribution  5003
+autolink_nodes 4 5003 satelite elaboration-general-specific  5004
+autolink_nodes 5001 5004 multinuclear Comparison  5005
+create-a-node-here really 9.61 8 { \n\nIn the Northeast, however, sales declined 0.4% in the period,}
+create-a-node-here really 9.104 9 { with sales in New England falling 2.6%.}
+nextSentence really
+#autolink_nodes 8 9 satelite elaboration-additional  5006
+#UNDID
+autolink_nodes 8 9 satelite elaboration-general-specific  5006
+autolink_nodes 5005 5006 multinuclear Contrast above 5007
+create-a-node-here really 11.17 10 { \n\nThe numbers show }
+create-a-node-here really 11.64 11 {that "we don't have a monolithic economy," }
+create-a-node-here really 11.114 12 {said Isaac Lagnado, council research director.}
+autolink_nodes 10 11 nucleus attribution  5008
+autolink_nodes 5008 12 satelite attribution  5009
+create-a-node-here really 11.166 13 { "There are a lot of have and have-not markets."}
+nextSentence really
+autolink_nodes 5009 13 satelite elaboration-additional  5010
+autolink_nodes 5007 5010 satelite elaboration-additional  5011
+create-a-node-here really 13.57 14 { \n\nSales nationally rose 3.9% through July, the latest month}
+create-a-node-here really 13.98 15 { for which the figures are available,}
+create-a-node-here really 13.120 16 { the council said.}
+nextSentence really
+#autolink_nodes 14 15 satelite-embedded elaboration-additional-e  5012
+#autolink_nodes 5012 16 satelite attribution  5013
+#UNDID
+#UNDID
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5012
+autolink_nodes 5012 16 satelite attribution  5013
+autolink_nodes 5011 5013 satelite elaboration-additional  5014
+create-a-node-here really 15.129 17 { \n\nThe Northern California earthquake and Hurricane Hugo are likely to temporarily damp sales growth in the West and South Carolina.}
+create-a-node-here really 16.26 18 {\nBut Mr. Lagnado predicted }
+create-a-node-here really 16.83 19 {the regional trends would continue through Christmas.}
+nextSentence really
+autolink_nodes 18 19 nucleus attribution  5015
+autolink_nodes 5015 17 satelite antithesis  5016
+create-a-node-here really 16.152 20 { "The big mo is as much of a factor in retailing as in politics,"}
+create-a-node-here really 16.165 21 { he said.}
+nextSentence really
+autolink_nodes 20 21 satelite attribution  5017
+autolink_nodes 5016 5017 satelite explanation-argumentative  5018
+create-a-node-here really 18.48 22 { \n\nThe Christmas quarter is important to retailers }
+create-a-node-here really 18.138 23 {because it represents roughly a third of their sales and nearly half of their profits.}
+nextSentence really
+autolink_nodes 22 23 satelite explanation-argumentative  5019
+autolink_nodes 5018 5019 satelite elaboration-additional  5020
+collapsed_nodes {5013}
+collapsed_nodes {5013 5010}
+autolink_nodes 5014 5020 satelite elaboration-additional  5021
+create-a-node-here really 20.38 24 { \n\nThe council's report is based on data }
+create-a-node-here really 20.91 25 {the trade group buys from the U.S. Census Bureau.}
+nextSentence really
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5022
+create-a-node-here really 21.171 26 {\nThe information on 125 metropolitan markets is supplied by retailers such as Sears, Roebuck & Co. and K mart Corp. as well as closely held concerns such as R.H. Macy & Co.}
+autolink_nodes 5022 26 satelite elaboration-additional  5023
+create-a-node-here really 22.58 27 {\nThe council plans to release its regional reports monthly.}
+nextSentence really
+autolink_nodes 5023 27 satelite elaboration-additional  5024
+collapsed_nodes {5013 5010 5020}
+autolink_nodes 5021 5024 satelite elaboration-additional  5025
+create-a-node-here really 24.17 28 { \n\nMr. Lagnado said }
+create-a-node-here really 24.95 29 {strength in employment appears to have the biggest impact on sales growth.}
+nextSentence really
+autolink_nodes 28 29 nucleus attribution  5026
+create-a-node-here really 25.107 30 {\nEl Paso, Austin and Fort Worth, the three strongest retail markets in the nation, are all located in Texas,}
+create-a-node-here really 25.157 31 { where employment grew a relatively strong 2%.}
+nextSentence really
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5027
+create-a-node-here really 26.14 32 {\nMassachusetts,}
+create-a-node-here really 26.86 33 { which has lost jobs in the computer and defense-related industries,}
+create-a-node-here really 26.133 34 { was the weakest link in bleak New England.}
+nextSentence really
+#autolink_nodes 32 33 satelite-embedded elaboration-additional-e  5028
+#autolink_nodes 5028 34 multinuclear Same-Unit  5029
+#UNDID
+#UNDID
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5028
+autolink_nodes 5028 34 multinuclear Same-Unit  5029
+autolink_nodes 5027 5029 multinuclear Contrast  5030
+autolink_nodes 5026 5030 satelite evidence  5031
+collapsed_nodes {5013 5010 5020 5024}
+autolink_nodes 5025 5031 satelite elaboration-additional  5032
+create-a-node-here really 28.88 35 { \n\nThe results reflect a reversal in the fortunes of the regions during the past two years.}
+create-a-node-here really 29.47 36 {\nIn 1987, the West had the slowest sales growth,}
+create-a-node-here really 29.117 37 { and the South and the Midwest were first and second respectively,}
+create-a-node-here really 29.147 38 { according to the council.}
+nextSentence really
+autolink_nodes 36 37 multinuclear Comparison  5033
+autolink_nodes 5033 38 satelite attribution  5034
+autolink_nodes 35 5034 satelite example  5035
+collapsed_nodes {5013 5010 5020 5024 5031}
+autolink_nodes 5032 5035 satelite elaboration-additional  5036
+create-a-node-here really 31.17 39 { \n\nMr. Lagnado said }
+create-a-node-here really 31.25 40 {that}
+#create-a-node-here really 31.87 41 { although retailers probably won't ever recover sales lost}
+#create-a-node-here really 31.143 42 { because of the California quake and Hurricane Hugo,}
+#create-a-node-here really 31.186 43 { they could see some benefits later on.}
+#nextSentence really
+#autolink_nodes 41 42 satelite-embedded consequence-n-e  5037
+#autolink_nodes 43 5037 satelite antithesis  5038
+#UNDID
+#autolink_nodes 43 5037 satelite-embedded antithesis-e  5038
+#autolink_nodes 40 5038 multinuclear Same-Unit  5039
+#autolink_nodes 5039 39 satelite attribution  5040
+#nextSentence really
+#create-a-node-here really 32.21 44 {\nStores such as Sears }
+#create-a-node-here really 32.60 45 {that sell big-ticket durable goods }
+#create-a-node-here really 32.90 46 {might actually get a boost}
+#create-a-node-here really 32.130 47 { as consumers rush to replace items }
+#create-a-node-here really 32.156 48 {lost in the disasters,}
+#create-a-node-here really 32.169 49 { he said.}
+#autolink_nodes 47 48 satelite-embedded elaboration-object-attribute-e  5041
+#autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5042
+#autolink_nodes 46 5042 multinuclear Same-Unit  5043
+#autolink_nodes 5043 5041 satelite consequence-n  5044
+#autolink_nodes 5044 49 satelite attribution  5045
+#autolink_nodes 5040 5045 satelite interpretation-s  5046
+#collapsed_nodes {5013 5010 5020 5024 5031 5035}
+#autolink_nodes 5036 5046 satelite elaboration-additional  5047
+#autolink_nodes 5047 1 nucleus summary-n  5048
+#collapsed_nodes {5013 5020 5024 5031 5035}
+#collapsed_nodes {5020 5024 5031 5035}
+#collapsed_nodes {5024 5031 5035}
+#collapsed_nodes {5024 5031}
+#collapsed_nodes {5024}
+#collapsed_nodes {}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 31.83 41 { although retailers probably won't ever recover sales }
+create-a-node-here really 31.92 42 {lost }
+create-a-node-here really 31.147 43 {because of the California quake and Hurricane Hugo,}
+create-a-node-here really 31.190 44 { they could see some benefits later on.}
+autolink_nodes 42 43 satelite consequence-n  5037
+autolink_nodes 41 5037 satelite-embedded elaboration-object-attribute-e  5038
+autolink_nodes 44 5038 satelite-embedded attribution-e  5039
+autolink_nodes 5039 40 multinuclear Same-Unit  5040
+autolink_nodes 5040 39 satelite attribution  5041
+create-a-node-here really 32.21 45 {\nStores such as Sears }
+create-a-node-here really 32.59 46 {that sell big-ticket durable goods}
+create-a-node-here really 32.90 47 { might actually get a boost}
+create-a-node-here really 32.130 48 { as consumers rush to replace items }
+create-a-node-here really 32.156 49 {lost in the disasters,}
+create-a-node-here really 32.169 50 { he said.}
+nextSentence really
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5042
+#autolink_nodes 45 46 satelite-embedded elaboration-additional-e  5043
+#UNDID
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5043
+autolink_nodes 47 5043 multinuclear Same-Unit  5044
+#autolink_nodes 5044 5042 satelite circumstance  5045
+#UNDID
+autolink_nodes 5044 5042 satelite consequence-n  5045
+autolink_nodes 5045 50 satelite attribution  5046
+autolink_nodes 5041 5046 satelite interpretation-s  5047
+autolink_nodes 5036 5047 satelite elaboration-additional  5048
+autolink_nodes 5048 1 nucleus summary-n  5049
+collapsed_nodes {5013 5010 5020 5024}
+collapsed_nodes {5013 5020 5024}
+collapsed_nodes {5020 5024}
+collapsed_nodes {5024}
+collapsed_nodes {}
+#disconnect_node 5038 modify
+#UNDID
+change_rel 5038 antithesis-e
+disconnect_node 39 disconnect
+#autolink_nodes 5040 39 satelite attribution below 5050
+#UNDID
+autolink_nodes 5047 39 satelite attribution  5050

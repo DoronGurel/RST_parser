@@ -1,0 +1,136 @@
+nextSentence really
+create-a-node-here really 2.92 1 {\n(During its centennial year, The Wall Street Journal will report events of the past century }
+#create-a-node-here really 2.149 2 {that stand as milestones of American business history.}
+#nextSentence really
+#create-a-node-here really 4.112 3 {) \n\nMORGAN STANLEY, THE ONCE STODGY investment house, in 1974 helped a corporate client complete a hostile takeover.}
+#nextSentence really
+#create-a-node-here really 5.70 4 {\nIt was the start of a boom in unfriendly, even ungentlemanly, mergers.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+nextSentence really
+create-a-node-here really 2.151 2 {that stand as milestones of American business history.) }
+create-a-node-here really 4.112 3 {\n\nMORGAN STANLEY, THE ONCE STODGY investment house, in 1974 helped a corporate client complete a hostile takeover.}
+nextSentence really
+create-a-node-here really 5.70 4 {\nIt was the start of a boom in unfriendly, even ungentlemanly, mergers.}
+nextSentence really
+create-a-node-here really 7.49 5 { \n\nOn July 18, 1974, International Nickle of Canada }
+#create-a-node-here really 7.76 6 {-- advised by Morgan -- }
+#UNDID
+create-a-node-here really 7.76 6 {-- advised by Morgan -- }
+create-a-node-here really 8.0 7 {offered $28 a share, equal to $157 million, for ESB, a Philadelphia battery maker.\n}
+autolink_nodes 1 2 satelite elaboration-object-attribute  5001
+autolink_nodes 3 4 satelite elaboration-additional  5002
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5003
+autolink_nodes 5003 7 multinuclear Same-Unit  5004
+create-a-node-here really 8.12 8 {ESB said }
+create-a-node-here really 8.105 9 {it was given only a three-hour advance warning on a "take it or leave it" basis from Inco,}
+create-a-node-here really 8.142 10 { as the Toronto company is called.}
+nextSentence really
+create-a-node-here really 10.14 11 { \n\n"ESB is aware }
+create-a-node-here really 10.107 12 {that a hostile tender offer is being made by a foreign company for all of ESB's shares," }
+create-a-node-here really 10.143 13 {said F.J. Port, ESB's president.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5005
+autolink_nodes 9 10 satelite elaboration-additional below 5006
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 5007 13 satelite attribution  5008
+autolink_nodes 5002 5004 nucleus background  5009
+autolink_nodes 5009 5005 satelite elaboration-additional  5010
+autolink_nodes 5005 5008 satelite elaboration-additional  5011
+create-a-node-here really 11.0 14 { "Hostile" thus entered the merger-acquisition lexicon.\n}
+create-a-node-here really 11.58 15 {Joseph Flom, of Skadden, Arps, Slote, Meagher & Flom, }
+create-a-node-here really 11.112 16 {which became a leading legal firm in merger cases,}
+create-a-node-here really 11.122 17 { said }
+create-a-node-here really 11.164 18 {the case "made takeovers respectable."}
+nextSentence really
+autolink_nodes 5011 14 satelite comment  5012
+#autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5013
+#UNDID
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 5013 17 multinuclear Same-Unit  5014
+autolink_nodes 5014 18 nucleus attribution  5015
+autolink_nodes 14 5015 satelite elaboration-additional  5016
+create-a-node-here really 13.17 19 { \n\nESB spurned Inco }
+create-a-node-here really 13.66 20 {and within five days ESB had a "white knight"}
+create-a-node-here really 13.89 21 { as United Aircraft}
+create-a-node-here really 13.164 22 { -- headed by Harry Gray, a shrewdly friendly acquirer of companies -- }
+create-a-node-here really 13.188 23 {offered $34 a share.}
+create-a-node-here really 14.52 24 {\nGray was advised by Goldman Sachs and Merrill Lynch.}
+nextSentence really
+create-a-node-here really 15.30 25 {\nESB directors warmly accepted,}
+create-a-node-here really 15.72 26 { but a whirlwind bidding match ensued.}
+nextSentence really
+create-a-node-here really 16.53 27 {\nWithin a few days in July, Inco raised its bid to $36}
+create-a-node-here really 16.80 28 { and United matched it.}
+nextSentence really
+nextSentence really
+create-a-node-here really 17.86 29 {\nOn a single day Inco lifted its offer to $38 and then to $41, equal to $225.5 million.}
+nextSentence really
+create-a-node-here really 18.19 30 {\nUnited met the $38 }
+create-a-node-here really 18.41 31 {but then withdrew.}
+nextSentence really
+#autolink_nodes 19 20 satelite temporal-after  5017
+#UNDID
+autolink_nodes 19 20 satelite temporal-after  5017
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5018
+autolink_nodes 5018 23 multinuclear Same-Unit  5019
+autolink_nodes 20 5019 multinuclear Temporal-Same-Time  5020
+autolink_nodes 5019 24 satelite elaboration-additional  5021
+#autolink_nodes 25 26 multinuclear Consequence  5022
+#UNDID
+#autolink_nodes 25 26 satelite result  5022
+#UNDID
+autolink_nodes 25 26 satelite result  5022
+#autolink_nodes 27 28 multinuclear Consequence  5023
+#UNDID
+autolink_nodes 27 28 satelite consequence-s  5023
+autolink_nodes 5022 5023 multinuclear Sequence  5024
+#autolink_nodes 30 31 satelite temporal-after  5025
+#UNDID
+autolink_nodes 30 31 satelite temporal-after  5025
+autolink_nodes 29 5025 satelite consequence-s  5026
+autolink_nodes 5024 5026 multinuclear Sequence below 5026
+#autolink_nodes 5017 5024 multinuclear Same-Unit  5027
+#UNDID
+autolink_nodes 5024 5017 multinuclear Sequence below 5026
+create-a-node-here really 20.39 32 { \n\nESB on July 29 accepted the Inco offer }
+create-a-node-here really 20.64 33 {and the brief battle }
+create-a-node-here really 20.131 34 {-- unlike the intricate and lengthy big takeovers of 1984-1989 }
+create-a-node-here really 21.0 35 {-- was over.\n}
+create-a-node-here really 21.92 36 {The new gritty game became a money maker for Wall Street's once austere old-name houses.}
+nextSentence really
+create-a-node-here really 22.88 37 {\nInco paid Morgan an advisory fee of about $250,000, a paltry figure by today's measures.}
+nextSentence really
+create-a-node-here really 23.182 38 {\nEarly this year Morgan and three other investment houses each received $25 million in advisory fees from Kohlberg Kravis & Roberts in its $25 billion friendly buy-out of RJR Nabisco.}
+#nextSentence really
+#UNDID
+autolink_nodes 32 33 satelite-embedded consequence-s-e  5027
+autolink_nodes 33 34 satelite-embedded elaboration-object-attribute-e  5028
+#autolink_nodes 5027 35 multinuclear Same-Unit  5029
+#UNDID
+autolink_nodes 5028 35 multinuclear Same-Unit  5029
+collapsed_nodes {5023}
+collapsed_nodes {5023 5026}
+#autolink_nodes 5024 5027 multinuclear Sequence above 5030
+#UNDID
+autolink_nodes 5024 5027 multinuclear Sequence below 5029
+autolink_nodes 36 37 satelite interpretation-s  5030
+autolink_nodes 37 38 multinuclear Contrast  5031
+collapsed_nodes {5023 5026 5017}
+collapsed_nodes {5023 5026 5017 5022}
+autolink_nodes 5016 5024 satelite elaboration-additional  5032
+collapsed_nodes {5023 5026 5017 5022 5027}
+collapsed_nodes {5023 5026 5017 5022 5027 5016}
+collapsed_nodes {5023 5026 5017 5022 5027 5016 5012}
+autolink_nodes 5010 5030 satelite elaboration-additional  5033
+autolink_nodes 5001 5033 nucleus attribution  5034
+collapsed_nodes {}
+collapsed_nodes {5034}
+collapsed_nodes {}
+disconnect_node 2 disconnect
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5035

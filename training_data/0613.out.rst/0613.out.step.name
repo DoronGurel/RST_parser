@@ -1,0 +1,38 @@
+nextSentence really
+create-a-node-here really 2.86 1 {\nThe Singapore and Kuala Lumpur stock exchanges are bracing for a turbulent separation,}
+create-a-node-here really 2.169 2 { following Malaysian Finance Minister Daim Zainuddin's long-awaited announcement}
+autolink_nodes 1 2 satelite circumstance  5001
+create-a-node-here really 2.208 3 { that the exchanges will sever ties.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 4.109 4 { \n\nOn Friday, Datuk Daim added spice to an otherwise unremarkable address on Malaysia's proposed budget for 1990}
+autolink_nodes 5001 4 satelite summary-n  5003
+create-a-node-here really 4.198 5 { by ordering the Kuala Lumpur Stock Exchange "to take appropriate action immediately" }
+autolink_nodes 4 5 satelite means  5004
+create-a-node-here really 4.255 6 {to cut its links with the Stock Exchange of Singapore.}
+nextSentence really
+autolink_nodes 5 6 satelite purpose  5005
+create-a-node-here really 6.99 7 { \n\nThe delisting of Malaysian-based companies from the Singapore exchange may not be a smooth process,}
+autolink_nodes 5004 7 satelite evaluation-s  5006
+create-a-node-here really 6.116 8 { analysts say.}
+nextSentence really
+autolink_nodes 7 8 satelite attribution  5007
+create-a-node-here really 7.40 9 {\nThough the split has long been expected,}
+autolink_nodes 5007 9 satelite explanation-argumentative  5008
+create-a-node-here really 7.106 10 { the exchanges aren't fully prepared to go their separate ways.}
+nextSentence really
+autolink_nodes 9 10 nucleus concession  5009
+create-a-node-here really 9.61 11 { \n\nThe finance minister's order wasn't sparked by a single event}
+collapsed_nodes {5008}
+collapsed_nodes {5008 5006}
+autolink_nodes 5003 11 satelite elaboration-additional  5010
+create-a-node-here really 9.144 12 { and doesn't indicate a souring in relations between the neighboring countries.}
+nextSentence really
+autolink_nodes 11 12 multinuclear List  5011
+create-a-node-here really 10.267 13 {\nRather, the two closely linked exchanges have been drifting apart for some years, with a nearly five-year-old moratorium on new dual listings, separate and different listing requirements, differing trading and settlement guidelines and diverging national-policy aims.}
+nextSentence really
+#autolink_nodes 12 13 multinuclear Contrast  5012
+#UNDID
+autolink_nodes 12 13 nucleus concession  5012
+collapsed_nodes {5008 5006 5010}
+collapsed_nodes {}

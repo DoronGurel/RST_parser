@@ -1,0 +1,365 @@
+nextSentence really
+create-a-node-here really 5.0 1 {\nPopulation Drain Ends \n\nFor Midwestern States \n}
+create-a-node-here really 6.26 2 {\nIOWA IS MAKING a comeback.}
+nextSentence really
+autolink_nodes 1 2 multinuclear TextualOrganization  5001
+create-a-node-here really 7.34 3 {\nSo are Indiana, Ohio and Michigan.}
+nextSentence really
+#autolink_nodes 2 3 multinuclear List  5002
+#UNDID
+autolink_nodes 2 3 satelite elaboration-additional  5002
+create-a-node-here really 8.53 4 {\nThe population of all four states is on the upswing, }
+autolink_nodes 5002 4 nucleus summary-n  5003
+create-a-node-here really 8.98 5 {according to new Census Bureau estimates, }
+#autolink_nodes 4 5 satelite attribution above 5003
+#UNDID
+autolink_nodes 4 5 satelite attribution below 5004
+create-a-node-here really 8.147 6 {following declines throughout the early 1980s.}
+autolink_nodes 5004 6 satelite circumstance below 5005
+create-a-node-here really 10.11 7 { \n\nThe gains, }
+autolink_nodes 5003 7 satelite elaboration-additional  5006
+create-a-node-here really 10.25 8 {to be sure,}
+create-a-node-here really 10.46 9 { are rather small.}
+nextSentence really
+autolink_nodes 8 9 nucleus comment  5007
+autolink_nodes 7 5007 multinuclear Same-Unit  5008
+create-a-node-here really 11.94 10 {\nIowa, for instance, saw its population grow by 11,000 people, or 0.4%, between 1987 and 1988, }
+autolink_nodes 5008 10 satelite example  5009
+create-a-node-here really 11.121 11 {the Census Bureau says.}
+nextSentence really
+autolink_nodes 10 11 satelite attribution  5010
+create-a-node-here really 12.58 12 {\nStill, even that modest increase is good news for a state }
+autolink_nodes 5010 12 satelite evaluation-s  5011
+create-a-node-here really 12.98 13 {that hadn't grown at all since 1981.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5012
+collapsed_nodes {5009}
+#create-a-node-here really 14.89 14 { \n\nBetween 1987 and 1988, North Dakota was the only state in the Midwest to lose population,}
+#autolink_nodes 5006 14 satelite background  5013
+#UNDID
+#UNDID
+create-a-node-here really 14.69 14 { \n\nBetween 1987 and 1988, North Dakota was the only state in the Midwest}
+autolink_nodes 5006 14 satelite background  5013
+create-a-node-here really 15.0 15 { to lose population, a loss of 4,000 people.\n}
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5014
+create-a-node-here really 15.74 16 {Six of the 12 midwestern states have been growing steadily since 1980 }
+autolink_nodes 5014 16 multinuclear List  5015
+create-a-node-here really 15.147 17 {-- Illinois, Kansas, Minnesota, Missouri, South Dakota and Wisconsin.}
+nextSentence really
+autolink_nodes 16 17 satelite-embedded elaboration-set-member-e  5016
+create-a-node-here really 17.62 18 { \n\nThe Northeast has been holding its own in the population race.}
+nextSentence really
+autolink_nodes 5015 18 multinuclear List below 5016
+create-a-node-here really 18.54 19 {\nSeven of nine states have grown each year since 1980, }
+autolink_nodes 18 19 satelite elaboration-additional  5017
+create-a-node-here really 18.78 20 {including New York, }
+autolink_nodes 19 20 satelite-embedded elaboration-set-member-e  5018
+create-a-node-here really 18.131 21 {which lost 4% of its population during the 1970s.}
+nextSentence really
+autolink_nodes 20 21 satelite-embedded elaboration-additional-e  5019
+create-a-node-here really 19.4 22 {\nAnd }
+autolink_nodes 5018 22 multinuclear List  5020
+create-a-node-here really 19.96 23 {although Pennsylvania and Massachusetts suffered slight declines earlier in the decade, }
+create-a-node-here really 19.123 24 {they are growing again.}
+nextSentence really
+autolink_nodes 23 24 nucleus concession  5021
+autolink_nodes 22 5021 multinuclear Same-Unit  5022
+create-a-node-here really 21.96 25 { \n\nAt the same time, several states in the South and West have had their own population turnaround.}
+nextSentence really
+collapsed_nodes {5009 5020}
+autolink_nodes 5015 25 multinuclear List below 5022
+collapsed_nodes {5009 5020 5016}
+collapsed_nodes {5009 5020 5016 5014}
+collapsed_nodes {5009 5020 5016 5014 5017}
+create-a-node-here really 22.13 26 {\nSeven states }
+autolink_nodes 25 26 satelite elaboration-additional  5023
+create-a-node-here really 22.46 27 {that grew in the early 1980s }
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5024
+create-a-node-here really 22.76 28 {are now losing population }
+autolink_nodes 5024 28 multinuclear Same-Unit  5025
+create-a-node-here really 22.160 29 {-- West Virginia, Mississippi, Louisiana, Oklahoma, Montana, Wyoming and Alaska.}
+nextSentence really
+autolink_nodes 5025 29 satelite-embedded elaboration-set-member-e  5026
+create-a-node-here really 24.76 30 { \n\nOverall, though, the South and West still outpace the Northeast and Midwest,}
+autolink_nodes 5023 30 satelite concession  5027
+create-a-node-here really 24.140 31 { and fast-growing states like Florida and California ensure }
+autolink_nodes 30 31 multinuclear List  5028
+create-a-node-here really 24.175 32 {that the pattern will continue.}
+nextSentence really
+autolink_nodes 31 32 nucleus attribution  5029
+create-a-node-here really 25.88 33 {\nBut the growth gap between the Sun Belt and other regions has clearly started narrowing.}
+nextSentence really
+autolink_nodes 5028 33 nucleus antithesis  5030
+collapsed_nodes {5009 5020 5016 5014 5017 5030}
+collapsed_nodes {5009 5020 5016 5014 5017 5030 5027}
+collapsed_nodes {5009 5020 5016 5014 5017 5030 5027 5013}
+collapsed_nodes {}
+create-a-node-here really 30.0 34 { \n\nMore Elderly Maintain \n\nTheir Independence \n}
+autolink_nodes 5001 34 multinuclear TextualOrganization above 5031
+collapsed_nodes {5026}
+collapsed_nodes {5026 5027}
+collapsed_nodes {5026 5027 5015}
+collapsed_nodes {5026 5027 5015 5009}
+collapsed_nodes {5026 5027 5015 5009 5013}
+create-a-node-here really 31.65 35 {\nTHANKS TO modern medicine, more couples are growing old together.}
+nextSentence really
+autolink_nodes 34 35 multinuclear TextualOrganization  5032
+create-a-node-here really 32.4 36 {\nAnd }
+nextSentence really
+autolink_nodes 35 36 satelite elaboration-additional  5033
+create-a-node-here really 32.36 37 {even after losing a spouse, }
+create-a-node-here really 33.0 38 {more of the elderly are staying independent.\n}
+autolink_nodes 37 38 nucleus concession  5034
+autolink_nodes 36 5034 multinuclear Same-Unit  5035
+create-a-node-here really 33.75 39 {A new Census Bureau study of the noninstitutionalized population shows }
+autolink_nodes 5033 39 satelite explanation-argumentative  5036
+create-a-node-here really 33.98 40 {that 64% of people }
+autolink_nodes 39 40 nucleus attribution  5037
+create-a-node-here really 33.115 41 {aged 65 to 74}
+autolink_nodes 40 41 satelite-embedded elaboration-object-attribute-e below 5038
+create-a-node-here really 33.175 42 { were living with a spouse in 1988, up from 59% in 1970.}
+nextSentence really
+autolink_nodes 5038 42 multinuclear Same-Unit  5039
+create-a-node-here really 35.61 43 { \n\nThis doesn't mean they're less likely to live alone, however.}
+nextSentence really
+#autolink_nodes 5037 43 satelite interpretation-s  5040
+#UNDID
+autolink_nodes 5037 43 satelite interpretation-s  5040
+create-a-node-here really 36.48 44 {\nThat share has remained at about 24% since 1970.}
+autolink_nodes 43 44 satelite explanation-argumentative  5041
+create-a-node-here really 37.126 45 {\nWhat has changed is that more of the young elderly are living with spouses rather than with other relatives, such as children.}
+nextSentence really
+autolink_nodes 5041 45 satelite elaboration-additional  5042
+create-a-node-here really 38.22 46 {\nIn 1988, 10% of those }
+autolink_nodes 45 46 satelite elaboration-additional  5043
+create-a-node-here really 38.40 47 {aged 65 to 74 }
+autolink_nodes 46 47 satelite-embedded elaboration-object-attribute-e  5044
+create-a-node-here really 38.107 48 {lived with relatives other than spouses, down from 15% in 1970.}
+nextSentence really
+autolink_nodes 5044 48 multinuclear Same-Unit  5045
+create-a-node-here really 40.26 49 { \n\nAs people get even older, }
+autolink_nodes 5043 49 satelite elaboration-additional  5046
+create-a-node-here really 40.50 50 {many become widowed.}
+nextSentence really
+autolink_nodes 49 50 multinuclear Sequence  5047
+create-a-node-here really 41.21 51 {\nBut even among those }
+autolink_nodes 5047 51 multinuclear Contrast above 5048
+create-a-node-here really 41.44 52 {aged 75 and older, }
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5049
+create-a-node-here really 41.58 53 {the share }
+autolink_nodes 5049 53 multinuclear Same-Unit  5050
+create-a-node-here really 41.83 54 {living with a spouse }
+autolink_nodes 53 54 satelite-embedded elaboration-object-attribute-e  5051
+create-a-node-here really 41.134 55 {rose slightly, to 40% in 1988 from 38% in 1970.}
+nextSentence really
+autolink_nodes 5050 55 multinuclear Same-Unit below 5051
+create-a-node-here really 43.96 56 { \n\nLike their younger counterparts, the older elderly are less likely to live with other relatives.}
+nextSentence really
+autolink_nodes 5050 56 satelite elaboration-additional  5052
+create-a-node-here really 44.18 57 {\nOnly 17% of those }
+autolink_nodes 56 57 satelite explanation-argumentative  5053
+create-a-node-here really 44.39 58 {aged 75 and older}
+autolink_nodes 57 58 satelite-embedded elaboration-object-attribute-e  5054
+create-a-node-here really 44.115 59 { lived with relatives other than spouses in 1988, down from 26% in 1970.}
+nextSentence really
+autolink_nodes 5054 59 multinuclear Same-Unit  5055
+create-a-node-here really 46.15 60 { \n\nThe likelihood }
+autolink_nodes 5052 60 satelite elaboration-additional  5056
+create-a-node-here really 46.56 61 {of living alone beyond the age of 75 }
+autolink_nodes 60 61 satelite-embedded elaboration-object-attribute-e  5057
+create-a-node-here really 46.90 62 {has increased to 40% from 32%.}
+nextSentence really
+autolink_nodes 5057 62 multinuclear Same-Unit  5058
+create-a-node-here really 47.45 63 {\nMore people are remaining independent longer }
+autolink_nodes 5058 63 satelite elaboration-additional  5059
+create-a-node-here really 47.115 64 {presumably because they are better off physically and financially.}
+nextSentence really
+autolink_nodes 63 64 satelite circumstance  5060
+collapsed_nodes {5026 5027 5015 5009 5013 5059}
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056}
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046}
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040}
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036}
+create-a-node-here really 52.0 65 { \n\nCareers Count Most \n\nFor the Well-to-Do \n}
+autolink_nodes 5031 65 multinuclear TextualOrganization below 5060
+create-a-node-here really 53.67 66 {\nMANY AFFLUENT people place personal success and money above family.}
+nextSentence really
+autolink_nodes 65 66 multinuclear TextualOrganization  5061
+create-a-node-here really 55.90 67 { \n\nAt least that's what a survey by Ernst & Young and Yankelovich, Clancy, Shulman indicates.}
+nextSentence really
+autolink_nodes 66 67 satelite elaboration-additional  5062
+create-a-node-here really 56.31 68 {\nTwo-thirds of respondents said }
+autolink_nodes 67 68 satelite explanation-argumentative  5063
+create-a-node-here really 56.63 69 {they strongly felt the need }
+autolink_nodes 68 69 nucleus attribution  5064
+create-a-node-here really 56.99 70 {to be successful in their jobs, }
+autolink_nodes 69 70 satelite-embedded elaboration-object-attribute-e below 5065
+create-a-node-here really 56.130 71 {while fewer than half said }
+autolink_nodes 5064 71 multinuclear List  5066
+change_rel 71 Contrast
+create-a-node-here really 56.161 72 {they strongly felt the need}
+autolink_nodes 71 72 nucleus attribution  5067
+create-a-node-here really 56.205 73 { to spend more time with their families.}
+nextSentence really
+autolink_nodes 72 73 satelite-embedded elaboration-object-attribute-e below 5068
+create-a-node-here really 57.50 74 {\nBeing successful in careers and spending the money}
+autolink_nodes 5066 74 satelite elaboration-additional  5069
+change_rel 74 interpretation-s
+create-a-node-here really 57.65 75 { they make }
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e  5070
+create-a-node-here really 57.103 76 {are top priorities for this group.}
+nextSentence really
+autolink_nodes 5070 76 multinuclear Same-Unit  5071
+create-a-node-here really 59.80 77 { \n\nUnlike most studies of the affluent market, this survey excluded the super-rich.}
+nextSentence really
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069}
+autolink_nodes 5063 77 satelite elaboration-additional  5072
+create-a-node-here really 60.53 78 {\nAverage household income for the sample was $194,000,}
+autolink_nodes 77 78 satelite explanation-argumentative  5073
+create-a-node-here really 60.107 79 { and average net assets were reported as $775,000.}
+nextSentence really
+autolink_nodes 78 79 multinuclear List  5074
+create-a-node-here really 62.97 80 { \n\nThe goal was to learn about one of today's fastest-growing income groups, the upper-middle class.}
+nextSentence really
+autolink_nodes 5073 80 satelite elaboration-additional  5075
+create-a-node-here really 63.50 81 {\nAlthough they represent only 2% of the population,}
+autolink_nodes 80 81 satelite elaboration-additional  5076
+create-a-node-here really 63.109 82 { they control nearly one-third of discretionary income.}
+nextSentence really
+autolink_nodes 81 82 nucleus concession  5077
+create-a-node-here really 65.49 83 { \n\nAcross the board, these consumers value quality, }
+autolink_nodes 5076 83 satelite elaboration-additional  5078
+create-a-node-here really 65.72 84 {buy what they like }
+autolink_nodes 83 84 multinuclear List  5079
+create-a-node-here really 65.109 85 {rather than just what they need, }
+#autolink_nodes 84 85 satelite preference  5080
+#UNDID
+autolink_nodes 84 85 satelite preference  5080
+#create-a-node-here really 65.159 86 {and appreciate products that are distinctive. }
+#autolink_nodes 5079 86 multinuclear List below 5080
+#UNDID
+#UNDID
+create-a-node-here really 65.136 86 {and appreciate products}
+autolink_nodes 5079 86 multinuclear List below 5080
+autolink_nodes 5079 86 multinuclear List below 5080
+create-a-node-here really 65.163 87 { that are distinctive. }
+autolink_nodes 86 87 satelite-embedded elaboration-object-attribute-e  5081
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078}
+create-a-node-here really 67.47 88 {\n\nDespite their considerable incomes and assets, }
+autolink_nodes 5075 88 satelite elaboration-additional  5082
+create-a-node-here really 67.118 89 {40% of the respondents in the study don't feel financially secure, }
+autolink_nodes 88 89 nucleus concession  5083
+create-a-node-here really 67.148 90 {and one-fourth don't feel }
+autolink_nodes 89 90 multinuclear List  5084
+create-a-node-here really 67.175 91 {that they have made it.}
+nextSentence really
+autolink_nodes 90 91 nucleus attribution-n  5085
+create-a-node-here really 68.31 92 {\nTwenty percent don't even feel }
+autolink_nodes 5084 92 multinuclear List above 5086
+create-a-node-here really 68.65 93 {they are financially well off.}
+nextSentence really
+autolink_nodes 92 93 nucleus attribution-n  5087
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078 5083}
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078}
+create-a-node-here really 70.64 94 { \n\nMany of the affluent aren't comfortable with themselves, either.}
+nextSentence really
+autolink_nodes 5083 94 satelite elaboration-additional  5088
+create-a-node-here really 71.20 95 {\nAbout 40% don't feel}
+autolink_nodes 94 95 satelite explanation-argumentative  5089
+create-a-node-here really 71.55 96 { they're more able than others.}
+nextSentence really
+autolink_nodes 95 96 nucleus attribution-n  5090
+create-a-node-here really 72.32 97 {\nWhile twothirds feel some guilt }
+autolink_nodes 5090 97 multinuclear List  5091
+create-a-node-here really 72.57 98 {about being affluent,}
+autolink_nodes 97 98 satelite-embedded elaboration-object-attribute-e  5092
+create-a-node-here really 72.112 99 { only 25% give $2,500 or more to charity each year.}
+nextSentence really
+autolink_nodes 5092 99 nucleus antithesis  5093
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078 5089}
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078 5089 5083}
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078}
+create-a-node-here really 74.56 100 { \n\nThirty-five percent attend religious services regularly;}
+autolink_nodes 5082 100 satelite elaboration-additional  5094
+create-a-node-here really 74.89 101 { at the same time, 60% feel }
+autolink_nodes 100 101 multinuclear Temporal-Same-Time  5095
+create-a-node-here really 74.156 102 {that in life one sometimes has to compromise one's principles.}
+nextSentence really
+autolink_nodes 101 102 nucleus attribution  5096
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078 5091}
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078 5091 5095}
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078 5091 5095 5088}
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078 5091 5095 5088 5094}
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078 5091 5095 5088 5094 5062}
+create-a-node-here really 77.0 103 { \n\nOdds and Ends \n}
+autolink_nodes 5031 103 multinuclear TextualOrganization below 5096
+create-a-node-here really 78.35 104 {\nTHE NUMBER of women and minorities }
+autolink_nodes 103 104 multinuclear TextualOrganization  5097
+create-a-node-here really 78.102 105 {who hold jobs in top management in the nation's largest banks }
+autolink_nodes 104 105 satelite-embedded elaboration-object-attribute-e  5098
+create-a-node-here really 78.140 106 {has more than doubled since 1978.}
+nextSentence really
+autolink_nodes 5098 106 multinuclear Same-Unit  5099
+create-a-node-here really 79.38 107 {\nThe American Bankers Association says }
+autolink_nodes 5099 107 satelite explanation-argumentative  5100
+create-a-node-here really 79.133 108 {that women make up 47% of officials and managers in the top 50 banks, up from 33% in 1978.}
+nextSentence really
+autolink_nodes 107 108 nucleus attribution  5101
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 80.76 109 {\nThe share of minorities in those positions has risen to 16% from 12%. . . . }
+autolink_nodes 5101 109 satelite elaboration-additional  5102
+create-a-node-here really 80.158 110 {Per-capita personal income in the U.S. grew faster than inflation last year, }
+autolink_nodes 5100 110 multinuclear Topic-Shift  5103
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078 5091 5095 5088 5094 5062 5099}
+create-a-node-here really 80.208 111 {according to the Bureau of Economic Analysis.}
+nextSentence really
+autolink_nodes 110 111 satelite attribution  5104
+create-a-node-here really 81.21 112 {\nThe amount of income }
+autolink_nodes 5104 112 satelite elaboration-additional  5105
+create-a-node-here really 81.67 113 {divvied up for each man, woman and child }
+autolink_nodes 112 113 satelite-embedded elaboration-object-attribute-e  5106
+create-a-node-here really 81.122 114 {was $16,489 in 1988, up 6.6% from $15,472 in 1987.}
+nextSentence really
+autolink_nodes 5106 114 multinuclear Same-Unit  5107
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 82.95 115 {\nPer capita personal income ranged from $11,116 in Mississippi to $23,059 in Connecticut. . . . }
+autolink_nodes 5105 115 satelite elaboration-additional  5108
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078 5091 5095 5088 5094 5062 5099 5108}
+nextSentence really
+create-a-node-here really 82.171 116 {There are 13.1 million students in college this fall, up 2% from 1988, }
+autolink_nodes 5103 116 multinuclear Topic-Shift below 5108
+create-a-node-here really 82.231 117 {the National Center for Education Statistics estimates.}
+nextSentence really
+autolink_nodes 116 117 satelite attribution  5109
+create-a-node-here really 83.21 118 {\nAbout 54% are women, }
+autolink_nodes 5109 118 satelite elaboration-set-member  5110
+create-a-node-here really 83.57 119 {and 44% are part-time students.}
+nextSentence really
+autolink_nodes 118 119 multinuclear List  5111
+collapsed_nodes {5026 5027 5015 5009 5013 5059 5056 5046 5040 5036 5069 5078 5091 5095 5088 5094 5062 5099 5108 5031}
+collapsed_nodes {}
+change_constit 1 SectionTitle
+change_constit 5013 SectionText
+change_constit 34 SectionTitle
+change_constit 5036 SectionText
+change_constit 65 SectionTitle
+change_constit 5062 SectionText
+change_constit 103 SectionTitle
+change_constit 5103 SectionText
+disconnect_node 8 disconnect
+autolink_nodes 9 8 satelite-embedded comment-e  5112
+disconnect_node 23 disconnect
+autolink_nodes 24 23 satelite-embedded concession-e  5113
+disconnect_node 37 disconnect
+autolink_nodes 38 37 satelite-embedded concession-e  5114
+collapsed_nodes {5001}
+collapsed_nodes {5001 5032}
+collapsed_nodes {5001 5032 5061}
+collapsed_nodes {5001 5032 5061 5031}
+collapsed_nodes {}

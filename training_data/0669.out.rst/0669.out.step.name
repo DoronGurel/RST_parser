@@ -1,0 +1,74 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.61 1 {\nNissan Motor Co. expects net income to reach 120 billion yen }
+create-a-node-here really 2.83 2 {(U.S. $857 million)}
+nextSentence really
+create-a-node-here really 2.162 3 { in its current fiscal year, up from 114.6 billion yen in the previous year,}
+create-a-node-here really 2.195 4 { Yutaka Kume, president, said.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded restatement-e  5001
+autolink_nodes 3 5001 multinuclear Same-Unit  5002
+autolink_nodes 5002 4 satelite attribution  5003
+create-a-node-here really 4.54 5 { \n\nMr. Kume made the earnings projection for fiscal 1990,}
+create-a-node-here really 4.79 6 { ending next March 31,}
+create-a-node-here really 4.127 7 { in an interview with U.S. automotive writers}
+create-a-node-here really 4.162 8 { attending the Tokyo Motor Show.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-additional-e  5004
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5005
+autolink_nodes 5005 5004 multinuclear Same-Unit  5006
+autolink_nodes 5003 5006 satelite elaboration-additional  5007
+create-a-node-here really 6.19 9 { \n\nThe executive said }
+create-a-node-here really 6.77 10 {that the anticipated earnings increase is fairly modest}
+create-a-node-here really 6.117 11 { because Nissan is spending heavily }
+create-a-node-here really 6.163 12 {to bolster its dealership network in Japan}
+create-a-node-here really 6.214 13 { and because of currency-exchange fluctuations.}
+nextSentence really
+autolink_nodes 11 12 satelite purpose  5008
+autolink_nodes 13 5008 multinuclear Same-Unit  5009
+autolink_nodes 10 5009 satelite explanation-argumentative  5010
+autolink_nodes 9 5010 nucleus attribution  5011
+disconnect_node 5008 modify
+autolink_nodes 13 5008 multinuclear List  5012
+autolink_nodes 5007 5011 satelite elaboration-additional  5013
+create-a-node-here really 8.23 14 { \n\nDuring the next decade,}
+create-a-node-here really 8.42 15 { Mr. Kume said,}
+create-a-node-here really 8.110 16 { Nissan plans to boost overseas vehicle production sufficiently }
+create-a-node-here really 8.163 17 {to account for a majority of sales outside Japan.}
+nextSentence really
+autolink_nodes 16 17 satelite purpose  5014
+autolink_nodes 14 15 satelite-embedded attribution-e  5015
+autolink_nodes 5014 5015 multinuclear Same-Unit  5016
+create-a-node-here really 9.10 18 {\nLast year,}
+create-a-node-here really 9.29 19 { Mr. Kume said,}
+create-a-node-here really 9.85 20 { Nissan exported slightly over one million vehicles,}
+create-a-node-here really 9.183 21 { and produced 570,000 cars and trucks at its factories in North America, Europe and Australia.}
+nextSentence really
+autolink_nodes 20 21 multinuclear List  5017
+autolink_nodes 18 19 satelite-embedded attribution-e  5018
+autolink_nodes 5018 5017 multinuclear Same-Unit  5019
+create-a-node-here really 10.12 22 {\nBut by 1992,}
+create-a-node-here really 10.26 23 { he added,}
+create-a-node-here really 10.123 24 { Nissan will build one million vehicles a year outside Japan, or sufficient to equal exports.}
+nextSentence really
+autolink_nodes 22 23 satelite-embedded attribution-e  5020
+autolink_nodes 24 5020 multinuclear Same-Unit  5021
+autolink_nodes 5021 5019 satelite comparison  5022
+autolink_nodes 5016 5022 satelite elaboration-additional  5023
+create-a-node-here really 12.26 25 { \n\n"By the end of the 1990s,"}
+create-a-node-here really 12.39 26 { he said,}
+create-a-node-here really 12.116 27 { "we want to be producing roughly two vehicles overseas for every vehicle}
+create-a-node-here really 12.148 28 { that we export from Japan."}
+nextSentence really
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 25 26 satelite-embedded attribution-e  5025
+autolink_nodes 5025 5024 multinuclear Same-Unit  5026
+create-a-node-here really 12.229 29 { That will involve a substantial increase in overseas manufacturing capacity,}
+create-a-node-here really 12.250 30 { he acknowledged,}
+create-a-node-here really 12.291 31 { but didn't provide specific details.}
+nextSentence really
+autolink_nodes 29 30 satelite attribution  5027
+autolink_nodes 5027 31 satelite antithesis  5028
+autolink_nodes 5026 5028 satelite elaboration-additional  5029
+autolink_nodes 5023 5029 satelite elaboration-additional  5030
+autolink_nodes 5030 5013 multinuclear Topic-Drift  5031

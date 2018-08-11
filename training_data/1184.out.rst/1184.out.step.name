@@ -1,0 +1,228 @@
+nextSentence really
+create-a-node-here really 2.125 1 {\nGeneral Electric Co. executives and lawyers provided "misleading and false" information to the Pentagon in 1985 in an effort }
+create-a-node-here really 2.184 2 {to cover up "longstanding fraudulent" billing practices,}
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.232 3 { federal prosecutors alleged in legal briefs.}
+nextSentence really
+autolink_nodes 5001 3 satelite attribution  5002
+create-a-node-here really 4.39 4 { \n\nThe government's startling allegations,}
+autolink_nodes 5002 4 satelite summary-n  5003
+create-a-node-here really 4.167 5 { filed only days before the scheduled start of a criminal overcharge trial against GE in Philadelphia federal district court,}
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5004
+create-a-node-here really 4.255 6 { challenge the motives and veracity of the nation's third-largest defense contractor.}
+nextSentence really
+autolink_nodes 5004 6 multinuclear Same-Unit  5005
+create-a-node-here really 6.30 7 { \n\nIn a strongly worded response }
+#autolink_nodes 5005 7 multinuclear Same-Unit below 5005
+#UNDID
+autolink_nodes 5005 7 multinuclear Statement-Response above 5006
+create-a-node-here really 6.87 8 {summarizing a filing made in the same court yesterday,}
+autolink_nodes 7 8 satelite-embedded elaboration-additional-e  5007
+create-a-node-here really 6.107 9 { GE asserted that}
+autolink_nodes 5007 9 multinuclear Same-Unit  5008
+create-a-node-here really 6.167 10 { "prosecutors have misstated the testimony of witnesses, }
+autolink_nodes 9 10 nucleus attribution  5009
+create-a-node-here really 6.191 11 {distorted documents }
+autolink_nodes 10 11 multinuclear List  5010
+create-a-node-here really 6.225 12 {and ignored important facts." }
+autolink_nodes 5010 12 multinuclear List below 5010
+create-a-node-here really 6.318 13 {The company attacked the government's allegations as "reckless and baseless mudslinging,"}
+autolink_nodes 5008 13 satelite explanation-argumentative  5011
+create-a-node-here really 6.332 14 { and said }
+autolink_nodes 13 14 multinuclear List  5012
+create-a-node-here really 6.451 15 {its management "promptly and accurately reported" to the Pentagon all relevant information about billing practices.}
+nextSentence really
+autolink_nodes 14 15 nucleus attribution  5013
+create-a-node-here really 8.46 16 { \n\nThe case strikes at the corporate image of GE,}
+collapsed_nodes {5008}
+autolink_nodes 5006 16 satelite elaboration-additional  5014
+create-a-node-here really 8.215 17 { which provides the military with everything from jet engines and electronic warfare equipment to highly classified design work on the Strategic Defense Initiative, }
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5015
+create-a-node-here really 8.270 18 {and could cause a loss of future defense contracts }
+autolink_nodes 5015 18 multinuclear List  5016
+create-a-node-here really 8.339 19 {if Pentagon and Justice Department officials take a tough stance.}
+nextSentence really
+autolink_nodes 18 19 satelite condition  5017
+create-a-node-here really 10.50 20 { \n\nThe company has been considered an industry leader}
+autolink_nodes 5016 20 satelite background  5018
+create-a-node-here really 10.149 21 { in advocating cooperation and voluntary disclosures of improper or inflated billing practices.}
+nextSentence really
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5019
+create-a-node-here really 11.30 22 {\nBut the government now claims }
+autolink_nodes 5019 22 nucleus concession  5020
+create-a-node-here really 11.128 23 {that a group of company managers and lawyers engaged in an elaborate strategy over five years }
+autolink_nodes 22 23 nucleus attribution  5021
+create-a-node-here really 11.236 24 {to obscure from federal authorities the extent and details of "widespread" fraudulent billing practices.}
+nextSentence really
+autolink_nodes 23 24 satelite purpose below 5022
+collapsed_nodes {5008 5016}
+create-a-node-here really 13.111 25 { \n\nThe problems were uncovered during a series of internal investigations of the company's Space Systems division,}
+autolink_nodes 5014 25 satelite background  5023
+create-a-node-here really 13.210 26 { which has been the focus of two separate overcharge prosecutions by the government since 1985.}
+nextSentence really
+#autolink_nodes 25 26 satelite-embedded elaboration-additional-e  5024
+#UNDID
+autolink_nodes 25 26 satelite-embedded elaboration-additional-e  5024
+create-a-node-here really 14.70 27 {\nThe dispute stems from pretrial maneuvering in the pending court case,}
+autolink_nodes 5024 27 satelite elaboration-additional  5025
+create-a-node-here really 15.0 28 { in which prosecutors have been demanding access to a host of internal company memos, reports and documents.\n}
+autolink_nodes 27 28 satelite-embedded elaboration-additional-e  5026
+create-a-node-here really 15.126 29 {Last November, a federal grand jury indicted GE on charges of fraud and false claims in connection with an alleged scheme }
+autolink_nodes 5026 29 satelite elaboration-additional  5027
+create-a-node-here really 15.198 30 {to defraud the Army of $21 million on a logistics computer contract.}
+nextSentence really
+autolink_nodes 29 30 satelite-embedded elaboration-additional-e  5028
+collapsed_nodes {5008 5016 5025}
+collapsed_nodes {5008 5016 5025 5023}
+collapsed_nodes {}
+collapsed_nodes {5011}
+collapsed_nodes {5011 5020}
+collapsed_nodes {5011 5020 5025}
+create-a-node-here really 17.37 31 { \n\nThe company, for its part, maintains }
+collapsed_nodes {5011 5020 5025 5018}
+collapsed_nodes {5011 5020 5018}
+autolink_nodes 5025 31 satelite explanation-argumentative  5029
+create-a-node-here really 17.122 32 {that many of the disputed documents are privileged attorney-client communications}
+autolink_nodes 31 32 nucleus attribution  5030
+create-a-node-here really 17.172 33 { that shouldn't be turned over to prosecutors.}
+nextSentence really
+autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e below 5031
+create-a-node-here really 18.42 34 {\nA hearing is scheduled on the issue today.}
+nextSentence really
+autolink_nodes 5029 34 satelite elaboration-additional  5032
+collapsed_nodes {5011 5020 5018 5030}
+collapsed_nodes {5011 5020 5018 5030}
+collapsed_nodes {5011 5020 5018 5030 5027}
+collapsed_nodes {5011 5020 5018 5030 5027 5032}
+collapsed_nodes {5011 5020 5018 5030 5027 5032 5006}
+create-a-node-here really 20.47 35 { \n\nThe government's 136-page filing covers events }
+autolink_nodes 5023 35 multinuclear Topic-Drift  5033
+create-a-node-here really 20.122 36 {leading up to the current case and an earlier indictment in March 1985,}
+#autolink_nodes 35 36 satelite condition  5034
+#UNDID
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5034
+create-a-node-here really 20.174 37 { when GE was accused of defrauding the Pentagon }
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5035
+autolink_nodes 36 37 satelite elaboration-object-attribute-e  5036
+create-a-node-here really 20.245 38 {by illegally claiming cost overruns on Minuteman missile contracts.}
+autolink_nodes 37 38 satelite means  5037
+create-a-node-here really 21.18 39 {\nGE pleaded guilty }
+autolink_nodes 5037 39 multinuclear Statement-Response  5038
+create-a-node-here really 21.84 40 {and paid a fine of more than $1 million in the Minuteman case,}
+autolink_nodes 39 40 satelite cause  5039
+create-a-node-here really 21.147 41 { which involved some of the same individuals and operations}
+autolink_nodes 40 41 satelite-embedded elaboration-additional-e  5040
+create-a-node-here really 21.216 42 { that are at the center of the dispute in the Philadelphia court.}
+nextSentence really
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5041
+create-a-node-here really 23.17 43 { \n\nIn order to show }
+autolink_nodes 5034 43 satelite elaboration-additional  5042
+collapsed_nodes {5011 5020 5018 5030 5027 5032 5006 5038}
+create-a-node-here really 23.73 44 {that all of its units had corrected billing problems}
+autolink_nodes 43 44 nucleus attribution  5043
+create-a-node-here really 23.140 45 { and therefore should become eligible again for new contracts, }
+autolink_nodes 44 45 nucleus reason  5044
+create-a-node-here really 23.169 46 {prosecutors contend that }
+autolink_nodes 5044 46 nucleus purpose  5045
+create-a-node-here really 23.356 47 {"high-level GE executives" and company lawyers provided "misleading statements" to then-Air Force Secretary Verne Orr and other Pentagon officials during a series of meetings in 1985.}
+nextSentence really
+autolink_nodes 46 47 nucleus attribution  5046
+create-a-node-here really 25.33 48 { \n\nOverall, the government contends }
+autolink_nodes 5043 48 multinuclear List  5047
+create-a-node-here really 25.128 49 {that GE's disclosure efforts largely were intended to "curry favor" with Pentagon officials}
+autolink_nodes 48 49 nucleus attribution  5048
+create-a-node-here really 25.234 50 { without detailing the extent of the management lapses and allegedly pervasive billing irregularities }
+autolink_nodes 49 50 satelite manner below 5049
+create-a-node-here really 25.274 51 {uncovered by company investigations.}
+nextSentence really
+autolink_nodes 50 51 satelite-embedded elaboration-object-attribute-e  5050
+create-a-node-here really 27.28 52 { \n\nProsecutors depict a company}
+autolink_nodes 5047 52 multinuclear List below 5050
+create-a-node-here really 27.106 53 { that allegedly sat on damaging evidence of overcharges from 1983 to 1985,}
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5051
+create-a-node-here really 27.153 54 { despite warnings from an internal auditor.}
+nextSentence really
+autolink_nodes 53 54 satelite concession  5052
+create-a-node-here really 28.40 55 {\nWhen GE finally disclosed the problems, }
+autolink_nodes 5051 55 satelite explanation-argumentative  5053
+create-a-node-here really 28.64 56 {prosecutors contend }
+create-a-node-here really 28.186 57 {that Mr. Orr "was erroneously informed that the {suspected} practices had only just been discovered" by GE management.}
+nextSentence really
+autolink_nodes 56 57 nucleus attribution  5054
+collapsed_nodes {5011 5020 5018 5030 5027 5032 5006}
+collapsed_nodes {}
+autolink_nodes 55 5054 multinuclear Sequence  5055
+create-a-node-here really 30.38 58 { \n\nIn its brief, the government asserted }
+autolink_nodes 5047 58 multinuclear List below 5055
+create-a-node-here really 30.82 59 {that it needs the internal GE documents }
+autolink_nodes 58 59 nucleus attribution  5056
+create-a-node-here really 30.138 60 {to rebut anticipated efforts by GE during the trial }
+autolink_nodes 59 60 satelite purpose below 5057
+create-a-node-here really 30.188 61 {to demonstrate "its good corporate character."}
+nextSentence really
+autolink_nodes 5057 61 satelite purpose below 5058
+create-a-node-here really 32.4 62 { \n\nGE, }
+autolink_nodes 5056 62 multinuclear Statement-Response  5059
+create-a-node-here really 32.111 63 {which was surprised by the last-minute subpoena for more than 100 boxes and file cabinets of documents,}
+autolink_nodes 62 63 satelite-embedded elaboration-additional-e  5060
+create-a-node-here really 32.126 64 { countered }
+autolink_nodes 5060 64 multinuclear Same-Unit  5061
+create-a-node-here really 32.218 65 {that senior GE managers didn't find out about questionable billing practices until 1985,}
+autolink_nodes 64 65 nucleus attribution  5062
+create-a-node-here really 32.331 66 { and that the information was passed on quickly to Mr. Orr at his first meeting with company representatives.}
+nextSentence really
+autolink_nodes 65 66 multinuclear List  5063
+create-a-node-here really 33.20 67 {\nSubsequent meetings,}
+autolink_nodes 5061 67 satelite elaboration-additional  5064
+create-a-node-here really 33.120 68 { initiated after the company and two of its units were briefly suspended from federal contracts,}
+autolink_nodes 67 68 satelite-embedded elaboration-additional-e  5065
+create-a-node-here really 33.135 69 { were held }
+autolink_nodes 5065 69 multinuclear Same-Unit  5066
+create-a-node-here really 33.205 70 {to familiarize Mr. Orr with the company's self-policing procedures}
+autolink_nodes 69 70 satelite purpose  5067
+create-a-node-here really 33.250 71 { and to disclose additional information, }
+autolink_nodes 70 71 multinuclear Same-Unit  5068
+create-a-node-here really 33.270 72 {according to GE.}
+nextSentence really
+autolink_nodes 5066 72 satelite attribution  5069
+collapsed_nodes {5069}
+collapsed_nodes {5069 5064}
+create-a-node-here really 35.20 73 { \n\nGE's filing contends}
+autolink_nodes 5064 73 satelite elaboration-additional  5070
+create-a-node-here really 35.150 74 { that the billing practices at the heart of the current controversy involved technical disputes rather than criminal activity.}
+nextSentence really
+autolink_nodes 73 74 nucleus attribution  5071
+create-a-node-here really 37.111 75 { \n\nThe company's conduct "does not even raise a question of wrongful corporate intent, ratification or cover-up," }
+autolink_nodes 5071 75 satelite elaboration-additional  5072
+create-a-node-here really 37.134 76 {GE's brief asserts.}
+nextSentence really
+autolink_nodes 75 76 satelite attribution  5073
+create-a-node-here really 37.180 77 { "On the contrary, it shows a corporation }
+#autolink_nodes 5073 77 nucleus antithesis  5074
+#UNDID
+collapsed_nodes {}
+autolink_nodes 5073 77 nucleus concession  5074
+create-a-node-here really 37.273 78 {reacting swiftly and aggressively to very difficult issues in largely uncharted waters." }
+autolink_nodes 77 78 satelite-embedded elaboration-object-attribute-e below 5075
+collapsed_nodes {5064}
+collapsed_nodes {5064 5059}
+collapsed_nodes {5064 5059 5042}
+collapsed_nodes {5064 5059 5042 5003}
+collapsed_nodes {}
+create-a-node-here really 39.50 79 {\n\nMr. Orr couldn't be reached for comment yesterday.}
+nextSentence really
+autolink_nodes 5033 79 satelite elaboration-additional  5076
+disconnect_node 5009 disconnect
+disconnect_node 9 disconnect
+autolink_nodes 5011 9 multinuclear Same-Unit  5077
+autolink_nodes 5077 5010 nucleus attribution  5078
+disconnect_node 5012 disconnect
+collapsed_nodes {5003}
+collapsed_nodes {}
+autolink_nodes 5078 5012 satelite elaboration-additional  5079
+disconnect_node 5062 disconnect
+disconnect_node 64 disconnect
+autolink_nodes 5060 64 multinuclear Same-Unit  5080
+autolink_nodes 5080 5063 nucleus attribution  5081
+collapsed_nodes {5003}
+collapsed_nodes {}

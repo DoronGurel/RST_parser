@@ -1,0 +1,493 @@
+nextSentence really
+create-a-node-here really 2.28 1 {\nIt was the kind of snubbing }
+create-a-node-here really 2.96 2 {rarely seen within the Congress, let alone within the same party.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 4.81 3 { \n\nSen. Alan Cranston trekked over to the House side of Capitol Hill a few days ago }
+nextSentence really
+create-a-node-here really 4.153 4 {and volunteered his testimony to fellow Democrat Rep. Henry Gonzalez.}
+nextSentence really
+autolink_nodes 3 4 multinuclear List  5002
+create-a-node-here really 5.64 5 {\nIt was offered as an expression of cooperation to Mr. Gonzalez, }
+create-a-node-here really 5.151 6 {who is investigating the $2.5 billion failure of Lincoln Savings & Loan Association.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5003
+create-a-node-here really 7.69 7 { \n\nBut instead of thanks, Sen. Cranston was treated with cool formality.}
+nextSentence really
+#autolink_nodes 5002 7 satelite purpose  5004
+#UNDID
+autolink_nodes 5002 5003 satelite purpose  5004
+autolink_nodes 5004 7 multinuclear Contrast  5005
+create-a-node-here really 7.117 8 { "Every witness receives a formal subpoena," }
+create-a-node-here really 7.143 9 {Rep. Gonzalez told him.}
+nextSentence really
+autolink_nodes 8 9 satelite attribution  5006
+autolink_nodes 7 5006 satelite evidence  5007
+create-a-node-here really 9.70 10 { \n\nSeldom have House hearings caused so much apprehension in the Senate, }
+create-a-node-here really 9.383 11 {where California Sen. Cranston and four other senators were already writhing in the glare of unfavorable publicity over the alleged looting of Lincoln by their friend and political benefactor, Charles Keating Jr., principal stockholder of Lincoln's parent company, American Continental Corp. of Phoenix, Ariz.}
+nextSentence really
+#autolink_nodes 10 11 satelite circumstance  5008
+#UNDID
+autolink_nodes 5001 5005 satelite elaboration-general-specific  5008
+autolink_nodes 10 11 satelite circumstance  5009
+autolink_nodes 5008 5009 satelite comment  5010
+create-a-node-here really 11.146 12 { \n\nAt the first day of the House Banking Committee's hearings last week, William Seidman, chairman of the Resolution Trust Corp., the federal agency }
+#create-a-node-here really 11.160 13 {created to}
+#UNDID
+create-a-node-here really 11.158 13 {created }
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5011
+create-a-node-here really 11.183 14 {to sell sick thrifts,}
+autolink_nodes 13 14 satelite purpose  5012
+create-a-node-here really 11.193 15 { said }
+#autolink_nodes 5011 15 multinuclear Same-Unit  5013
+#UNDID
+autolink_nodes 5011 15 multinuclear Same-Unit  5013
+create-a-node-here really 11.225 16 {the agency is investigating }
+autolink_nodes 5013 16 nucleus attribution  5014
+create-a-node-here really 12.0 17 {whether Lincoln made illegal political contributions.\n}
+autolink_nodes 16 17 satelite attribution below 5015
+create-a-node-here really 12.157 18 {Mr. Keating arranged nearly $1 million in donations to Sen. Cranston and his various political causes, and hundreds of thousands more to other lawmakers.}
+nextSentence really
+autolink_nodes 5014 18 satelite enablement  5016
+create-a-node-here really 13.56 19 {\nFuture witnesses include a former federal S&L regulator }
+create-a-node-here really 13.144 20 {who has accused the five senators of attempting to "subvert" the regulatory process }
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5017
+create-a-node-here really 13.188 21 {by intervening on behalf of Mr. Keating.}
+nextSentence really
+autolink_nodes 20 21 satelite means  5018
+disconnect_node 5009 modify
+autolink_nodes 5008 5009 nucleus evidence  5019
+disconnect_node 18 modify
+autolink_nodes 5014 18 satelite explanation-argumentative  5020
+create-a-node-here really 15.45 22 { \n\nUnlike many lawmakers, Chairman Gonzalez says}
+create-a-node-here really 15.106 23 { he considers intervening with regulators to be improper.}
+nextSentence really
+autolink_nodes 22 23 nucleus attribution  5021
+create-a-node-here really 15.135 24 { "When you reach a point }
+create-a-node-here really 15.211 25 {where a policy-making body is trying to shape administrative decisions, }
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5023
+create-a-node-here really 15.248 26 {then that's a no-no in my book," }
+#autolink_nodes 5022 26 multinuclear Interpretation  5024
+#UNDID
+autolink_nodes 5022 26 satelite interpretation-s  5024
+create-a-node-here really 16.0 27 {the Texas lawmaker says.\n}
+autolink_nodes 5024 27 satelite attribution  5025
+autolink_nodes 5021 5025 satelite restatement  5026
+create-a-node-here really 16.65 28 {And he has attached himself to the Lincoln story tenaciously.}
+nextSentence really
+autolink_nodes 5026 28 nucleus explanation-argumentative  5027
+create-a-node-here really 16.106 29 { "Unless the questions are answered, }
+create-a-node-here really 16.132 30 {I will keep on going."}
+nextSentence really
+#autolink_nodes 29 30 nucleus condition  5028
+#UNDID
+autolink_nodes 29 30 nucleus condition  5028
+autolink_nodes 5027 5028 satelite elaboration-additional  5029
+disconnect_node 18 modify
+#autolink_nodes 5014 18 satelite circumstance  5030
+#UNDID
+autolink_nodes 5014 18 satelite circumstance  5030
+autolink_nodes 5019 5030 satelite elaboration-additional  5031
+create-a-node-here really 19.0 31 { \n\nLawmakers often are reluctant to embarrass colleagues, even those of opposing political parties.\n}
+nextSentence really
+create-a-node-here really 19.125 32 {In the recent Housing and Urban Development Department scandal, for example, Rep. Thomas Lantos, the California Democrat }
+autolink_nodes 31 32 satelite example  5032
+create-a-node-here really 19.151 33 {who led the hearings, }
+autolink_nodes 32 33 satelite-embedded elaboration-additional-e  5033
+create-a-node-here really 19.213 34 {tiptoed through embarrassing disclosures about HUD grants }
+autolink_nodes 5033 34 multinuclear Same-Unit  5034
+create-a-node-here really 19.272 35 {secured by Sen. Alfonse D'Amato, a New York Republican.}
+nextSentence really
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5035
+create-a-node-here really 21.44 36 { \n\nBut Chairman Gonzalez is a genuine maverick.}
+nextSentence really
+autolink_nodes 5032 36 multinuclear Contrast  5036
+create-a-node-here really 22.86 37 {\nHe comes from the same political line as Wright Patman, a bank-baiting Texas populist }
+create-a-node-here really 22.135 38 {who chaired the Banking Committee until 1974.}
+nextSentence really
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5037
+autolink_nodes 36 5037 satelite comparison  5038
+create-a-node-here really 23.54 39 {\nMr. Gonzalez is also a stickler for ethical standards }
+create-a-node-here really 23.92 40 {who refuses to accept honorariums }
+create-a-node-here really 23.157 41 {and who believes in conducting official business in the open.}
+nextSentence really
+autolink_nodes 40 41 multinuclear List  5039
+autolink_nodes 39 5039 satelite-embedded elaboration-object-attribute-e  5040
+autolink_nodes 5038 5040 satelite elaboration-additional  5041
+create-a-node-here really 24.95 42 {\nEarly in his political career, as a city councilman in San Antonio, he walked out of a meeting }
+create-a-node-here really 24.131 43 {when political supporters asked }
+autolink_nodes 42 43 satelite circumstance  5042
+create-a-node-here really 24.170 44 {that the police chief be replaced, }
+autolink_nodes 43 44 nucleus attribution  5043
+create-a-node-here really 24.242 45 {denouncing the closed-door affair publicly as a "bat-roost meeting."}
+nextSentence really
+autolink_nodes 5042 45 satelite-embedded elaboration-additional-e  5044
+autolink_nodes 5040 5044 satelite evidence  5045
+nextSentence really
+create-a-node-here really 26.108 46 { \n\nThe immediate target of Rep. Gonzalez's inquiry is Danny Wall, chairman of the Office of Thrift Supervision.}
+nextSentence really
+create-a-node-here really 27.88 47 {\nAs the principal regulator of the thrift industry, Mr. Wall delayed seizing Lincoln S&L }
+create-a-node-here really 27.141 48 {for more than two years after his staff told him }
+autolink_nodes 47 48 satelite temporal-after  5046
+create-a-node-here really 27.186 49 {that the California thrift was insolvent }
+create-a-node-here really 27.250 50 {and that potential losses to taxpayers were growing rapidly.}
+nextSentence really
+autolink_nodes 49 50 multinuclear List  5047
+autolink_nodes 48 5047 nucleus attribution  5048
+autolink_nodes 46 5046 satelite circumstance  5049
+nextSentence really
+disconnect_node 11 modify
+autolink_nodes 10 11 satelite-embedded elaboration-additional-e below 5050
+autolink_nodes 5030 5017 satelite elaboration-additional  5051
+disconnect_node 5026 disconnect
+autolink_nodes 5051 5026 nucleus evaluation-n  5052
+autolink_nodes 5026 5029 satelite consequence-s below 5053
+disconnect_node 5051 disconnect
+autolink_nodes 5026 5051 nucleus evaluation-s  5054
+disconnect_node 5029 disconnect
+autolink_nodes 5026 5029 satelite consequence-s  5055
+disconnect_node 5037 modify
+autolink_nodes 36 5037 multinuclear Analogy  5056
+autolink_nodes 5054 5036 satelite circumstance  5057
+disconnect_node 5036 disconnect
+autolink_nodes 5031 5036 satelite circumstance  5058
+disconnect_node 5036 modify
+autolink_nodes 5031 5036 satelite background  5059
+create-a-node-here really 29.50 51 { \n\nRep. Gonzalez seems primed to lash out at Mr. Wall}
+create-a-node-here really 30.0 52 { when hearings resume Thursday with testimony by two federal regulators from San Francisco, William Black and Mike Patriarca.\n}
+#create-a-node-here really 30.77 53 {Mr. Wall relieved them of responsibility for supervising Lincoln in 1988.}
+#nextSentence really
+#UNDID
+#UNDID
+disconnect_node 5036 modify
+autolink_nodes 5031 5036 satelite explanation-argumentative  5060
+create-a-node-here really 30.45 53 {Mr. Wall relieved them of responsibility }
+create-a-node-here really 30.81 54 {for supervising Lincoln in 1988.}
+nextSentence really
+autolink_nodes 53 54 satelite reason  5061
+autolink_nodes 51 52 satelite circumstance  5062
+autolink_nodes 5062 5061 satelite circumstance  5063
+disconnect_node 5061 disconnect
+create-a-node-here really 31.45 55 {\nMr. Gonzalez expressed concern over a report }
+create-a-node-here really 31.116 56 {that the two had been summoned to Washington by Mr. Wall last week }
+autolink_nodes 55 56 satelite-embedded elaboration-object-attribute-e  5064
+create-a-node-here really 31.158 57 {to discuss their testimony in advance.}
+nextSentence really
+autolink_nodes 56 57 satelite purpose  5065
+create-a-node-here really 31.172 58 { "I think }
+create-a-node-here really 31.224 59 {he is trying to improperly influence a witness, }
+autolink_nodes 58 59 nucleus attribution  5066
+create-a-node-here really 31.270 60 {and by God I'm not going to tolerate it," }
+create-a-node-here really 31.282 61 {he says.}
+nextSentence really
+#autolink_nodes 5066 60 multinuclear Contrast  5067
+#UNDID
+autolink_nodes 59 60 multinuclear Contrast  5067
+autolink_nodes 5064 5066 multinuclear Interpretation  5068
+autolink_nodes 5062 5061 satelite background  5069
+autolink_nodes 5069 5068 satelite elaboration-additional  5070
+autolink_nodes 5066 61 satelite attribution  5071
+disconnect_node 5071 modify
+autolink_nodes 5064 5071 nucleus interpretation-n  5072
+disconnect_node 5061 disconnect
+autolink_nodes 52 5061 satelite background  5073
+disconnect_node 5073 modify
+autolink_nodes 51 5073 satelite means below 5074
+disconnect_node 5073 modify
+autolink_nodes 51 5073 satelite circumstance below 5075
+disconnect_node 5073 modify
+autolink_nodes 51 5073 satelite temporal-same-time below 5076
+disconnect_node 5006 modify
+autolink_nodes 7 5006 satelite elaboration-general-specific  5077
+disconnect_node 5008 modify
+autolink_nodes 5050 5008 satelite consequence-s below 5078
+disconnect_node 17 modify
+autolink_nodes 16 17 nucleus attribution  5079
+#disconnect_node 18 modify
+#autolink_nodes 5079 18 satelite background above 5079
+#UNDID
+#UNDID
+#disconnect_node 18 modify
+#autolink_nodes 5014 18 satelite background above 5079
+#UNDID
+#UNDID
+disconnect_node 18 modify
+autolink_nodes 5014 18 satelite background below 5080
+#disconnect_node 5029 modify
+#autolink_nodes 5026 5029 nucleus consequence-n  5081
+#UNDID
+#UNDID
+disconnect_node 5029 modify
+autolink_nodes 5026 5029 nucleus consequence-n  5081
+disconnect_node 5037 modify
+autolink_nodes 36 5037 satelite analogy below 5082
+disconnect_node 5043 modify
+autolink_nodes 42 5043 satelite temporal-same-time below 5083
+disconnect_node 5043 modify
+autolink_nodes 42 5043 satelite circumstance below 5084
+disconnect_node 5046 modify
+autolink_nodes 46 5046 satelite explanation-argumentative  5085
+autolink_nodes 5085 5070 satelite elaboration-additional  5086
+disconnect_node 5072 disconnect
+autolink_nodes 5086 5072 satelite elaboration-additional  5087
+create-a-node-here really 34.0 62 { \n\nMr. Wall, however, is a self-proclaimed "child of the Senate" and former staff director of its Banking Committee.\n}
+nextSentence really
+nextSentence really
+create-a-node-here really 35.17 63 {An inquiry into his handling of Lincoln S&L inevitably will drag in Sen. Cranston and the four others, Sens.\nDennis DeConcini }
+autolink_nodes 62 63 nucleus consequence-n  5088
+nextSentence really
+create-a-node-here really 35.34 64 {(D., Ariz.), }
+autolink_nodes 63 64 satelite-embedded elaboration-additional-e below 5089
+create-a-node-here really 35.50 65 {John McCain }
+autolink_nodes 5089 65 multinuclear Same-Unit  5090
+nextSentence really
+nextSentence really
+create-a-node-here really 35.67 66 {(R., Ariz.), }
+autolink_nodes 65 66 satelite-embedded elaboration-additional-e  5091
+create-a-node-here really 35.82 67 {John Glenn }
+nextSentence really
+create-a-node-here really 35.97 68 {(D., Ohio) }
+autolink_nodes 67 68 satelite-embedded elaboration-additional-e  5092
+autolink_nodes 5090 5092 multinuclear Same-Unit below 5092
+create-a-node-here really 35.119 69 {and Donald Riegle }
+nextSentence really
+nextSentence really
+create-a-node-here really 35.135 70 {(D., Mich.).}
+nextSentence really
+autolink_nodes 69 70 satelite-embedded elaboration-additional-e  5093
+autolink_nodes 5090 5093 multinuclear Same-Unit below 5093
+create-a-node-here really 36.42 71 {\nThey all attended a meeting in April 1987 }
+create-a-node-here really 36.58 72 {questioning }
+autolink_nodes 71 72 satelite-embedded elaboration-additional-e  5094
+create-a-node-here really 36.126 73 {why a federal audit of Lincoln S&L had dragged on for two years.}
+nextSentence really
+autolink_nodes 72 73 nucleus attribution  5095
+create-a-node-here really 36.144 74 { "I'm certain }
+create-a-node-here really 36.233 75 {that in the course of the hearings the names {of the senators} will be brought out," }
+autolink_nodes 74 75 nucleus attribution  5096
+create-a-node-here really 36.255 76 {Mr. Gonzalez says.}
+nextSentence really
+autolink_nodes 5096 76 satelite attribution  5097
+autolink_nodes 5088 5094 satelite elaboration-additional  5098
+#autolink_nodes 5098 5097 satelite interpretation-s  5099
+#UNDID
+autolink_nodes 5098 5097 satelite interpretation-s  5099
+create-a-node-here really 38.26 77 { \n\nThis is raising eyebrows. }
+create-a-node-here really 38.79 78 {"When I first got a glimpse at the witness list, }
+create-a-node-here really 38.102 79 {I couldn't believe }
+create-a-node-here really 38.153 80 {that they were going to go ahead and do this," }
+autolink_nodes 5099 77 satelite consequence-s  5100
+autolink_nodes 79 80 nucleus attribution-n  5101
+autolink_nodes 78 5101 nucleus temporal-same-time  5102
+create-a-node-here really 38.224 81 {says Michael Waldman, director of Congress Watch, a consumer group.}
+nextSentence really
+autolink_nodes 5102 81 satelite attribution  5103
+autolink_nodes 77 5103 satelite evidence  5104
+create-a-node-here really 38.255 82 { "There are some witnesses }
+create-a-node-here really 38.325 83 {who will be forced to testify about their meetings with senators."}
+nextSentence really
+autolink_nodes 82 83 satelite-embedded elaboration-object-attribute-e  5105
+autolink_nodes 5103 5105 satelite elaboration-additional  5106
+create-a-node-here really 40.61 84 { \n\nAnd a Democratic aide to a Banking Committee member remarks, }
+create-a-node-here really 40.92 85 {"I too am astounded by it, }
+autolink_nodes 84 85 nucleus attribution  5107
+create-a-node-here really 40.187 86 {because Gonzalez has certainly placed a lot of Democratic senators in a very bad position."}
+nextSentence really
+autolink_nodes 85 86 satelite reason below 5108
+autolink_nodes 5106 5107 multinuclear List  5109
+create-a-node-here really 42.21 87 { \n\nAll the senators say }
+create-a-node-here really 42.86 88 {they merely were trying to ensure fairness for a constituent.}
+nextSentence really
+autolink_nodes 87 88 nucleus attribution  5110
+create-a-node-here really 43.29 89 {\nMr. Keating lives in Phoenix,}
+create-a-node-here really 43.128 90 { and the California thrift's parent is an Ohio-chartered corporation with holdings in Michigan.}
+nextSentence really
+autolink_nodes 89 90 multinuclear List  5111
+autolink_nodes 5110 5111 satelite explanation-argumentative  5112
+disconnect_node 5111 modify
+autolink_nodes 5110 5111 satelite elaboration-additional  5113
+autolink_nodes 5100 5113 satelite explanation-argumentative  5114
+create-a-node-here really 45.114 91 { \n\nChairman Gonzalez expresses sympathy for Sen. Riegle, his counterpart as chairman of the Senate Banking Committee.}
+nextSentence really
+create-a-node-here really 45.131 92 { "He's wise, }
+create-a-node-here really 45.145 93 {he's good }
+autolink_nodes 92 93 multinuclear List  5115
+create-a-node-here really 45.160 94 {and I know }
+create-a-node-here really 45.185 95 {he's an honest man," }
+autolink_nodes 94 95 nucleus attribution  5116
+autolink_nodes 5115 5116 multinuclear List below 5116
+create-a-node-here really 45.204 96 {the Texan says.}
+nextSentence really
+autolink_nodes 5115 96 satelite attribution  5117
+autolink_nodes 91 5117 satelite evaluation-s  5118
+create-a-node-here really 46.162 97 {\nBut at the same time, Mr. Gonzalez hasn't forgotten a confrontation over Mr. Wall during House-Senate negotiations over S&L bailout legislation during the summer.}
+nextSentence really
+nextSentence really
+autolink_nodes 5118 97 nucleus antithesis  5119
+create-a-node-here really 48.88 98 {\nThe Senate negotiators included Sens.\nCranston and Riegle and Mr. Wall's principal sponsor, Republican Sen. Jake Garn of Utah.}
+nextSentence really
+create-a-node-here really 50.75 99 { \n\nThey were willing to trade important provisions in the bailout legislation }
+create-a-node-here really 50.106 100 {to preserve Mr. Wall's job }
+create-a-node-here really 50.149 101 {and to avoid a reconfirmation hearing }
+autolink_nodes 100 101 multinuclear List  5120
+autolink_nodes 99 5120 satelite purpose  5121
+create-a-node-here really 50.216 102 {in which he would be called upon to testify about Lincoln S&L.}
+nextSentence really
+autolink_nodes 101 102 satelite-embedded elaboration-object-attribute-e  5122
+autolink_nodes 98 5121 satelite elaboration-additional  5123
+autolink_nodes 5119 5123 satelite elaboration-general-specific  5124
+autolink_nodes 5114 5124 satelite elaboration-additional  5125
+create-a-node-here really 51.86 103 {\nMost importantly, the Senate traded away the Bush administration's controversial plan }
+create-a-node-here really 51.115 104 {to finance the bailout, }
+autolink_nodes 103 104 satelite-embedded elaboration-object-attribute-e  5126
+create-a-node-here really 51.154 105 {which was partly reinstated later.}
+nextSentence really
+autolink_nodes 104 105 satelite-embedded elaboration-additional-e  5127
+autolink_nodes 5121 5126 multinuclear List  5128
+create-a-node-here really 53.31 106 { \n\nAt the time, Mr. Gonzalez said }
+create-a-node-here really 53.62 107 {several senators told him }
+autolink_nodes 106 107 nucleus attribution  5129
+create-a-node-here really 53.119 108 {that they "could get some roadblocks out of the way }
+autolink_nodes 107 108 nucleus attribution  5130
+create-a-node-here really 53.191 109 {if there could be some understanding on Garn's insistence on Wall."}
+nextSentence really
+autolink_nodes 108 109 satelite condition below 5131
+autolink_nodes 5123 5129 satelite temporal-same-time  5132
+autolink_nodes 5087 5125 nucleus consequence-n  5133
+create-a-node-here really 53.320 110 { Now Mr. Gonzalez is holding the equivalent of reconfirmation hearings anyway, under the guise of the Lincoln investigation.}
+nextSentence really
+autolink_nodes 5124 110 nucleus concession  5134
+#create-a-node-here really 53.361 111 { "In a way, that's what this is," Mr}
+#create-a-node-here really 53.386 112 {. Gonzalez concedes.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 53.359 111 { "In a way, that's what this is," }
+create-a-node-here really 53.387 112 {Mr. Gonzalez concedes. }
+autolink_nodes 111 112 satelite attribution  5135
+autolink_nodes 110 5135 satelite interpretation-s below 5136
+create-a-node-here really 55.72 113 {\n\nEven some House Banking Committee members could suffer from the fallout.}
+nextSentence really
+nextSentence really
+#autolink_nodes 5125 113 satelite hypothetical above 5136
+#UNDID
+#autolink_nodes 5125 113 satelite hypothetical above 5136
+#UNDID
+autolink_nodes 5125 113 satelite hypothetical below 5137
+create-a-node-here really 56.77 114 {\nMr. Keating raised $20,000 for Rep. Doug Barnard's 1986 re-election campaign }
+create-a-node-here really 56.148 115 {while the Georgia Democrat was taking his side against regulators }
+autolink_nodes 114 115 satelite temporal-same-time  5138
+create-a-node-here really 56.222 116 {who wanted to curb risky investments and wholesale deposit brokering.}
+autolink_nodes 115 116 satelite-embedded elaboration-object-attribute-e  5139
+autolink_nodes 113 5138 satelite example  5140
+create-a-node-here really 57.28 117 {\nHe recently voted "present" }
+create-a-node-here really 57.74 118 {when the committee authorized a subpoena }
+autolink_nodes 117 118 satelite circumstance  5141
+create-a-node-here really 57.113 119 {to compel Mr. Keating to testify, }
+autolink_nodes 118 119 satelite-embedded elaboration-object-attribute-e  5142
+create-a-node-here really 57.147 120 {then changed his vote to yes.}
+nextSentence really
+autolink_nodes 5142 120 multinuclear Contrast  5143
+disconnect_node 120 modify
+autolink_nodes 5141 120 multinuclear Sequence  5144
+autolink_nodes 5138 5144 satelite elaboration-additional  5145
+create-a-node-here really 59.50 121 { \n\nBut the chairman's supporters have the upper hand }
+create-a-node-here really 59.140 122 {as federal regulators press a $1.1 billion fraud suit against Mr. Keating and others.}
+nextSentence really
+nextSentence really
+nextSentence really
+autolink_nodes 121 122 satelite circumstance  5146
+create-a-node-here really 60.15 123 {\nRep. Jim Leach }
+create-a-node-here really 60.31 124 {(R., Iowa) }
+autolink_nodes 123 124 satelite-embedded elaboration-additional-e  5147
+create-a-node-here really 60.41 125 {says }
+#autolink_nodes 123 125 multinuclear Same-Unit  5148
+#UNDID
+autolink_nodes 5147 125 multinuclear Same-Unit  5148
+create-a-node-here really 60.109 126 {the Lincoln S&L affair is "the biggest bank heist in history," }
+autolink_nodes 5148 126 nucleus attribution  5149
+create-a-node-here really 60.124 127 {and adds: }
+create-a-node-here really 60.149 128 {"The great question }
+create-a-node-here really 60.182 129 {that remains to be resolved }
+autolink_nodes 128 129 satelite-embedded elaboration-object-attribute-e  5150
+create-a-node-here really 60.248 130 {is whether we have a congressional Watergate in the making." }
+autolink_nodes 5150 130 multinuclear Same-Unit  5151
+autolink_nodes 127 5151 nucleus attribution  5152
+autolink_nodes 5149 5152 satelite elaboration-additional  5153
+autolink_nodes 5146 5153 satelite example  5154
+create-a-node-here really 62.10 131 {\n\nA witness }
+nextSentence really
+#create-a-node-here really 62.139 132 {set to testify on Thursday was quoted in a news report over the weekend as saying Lincoln "laundered" campaign contributions}
+#UNDID
+create-a-node-here really 62.42 132 {set to testify on Thursday }
+autolink_nodes 131 132 satelite-embedded elaboration-object-attribute-e  5155
+create-a-node-here really 62.92 133 {was quoted in a news report over the weekend }
+autolink_nodes 5155 133 multinuclear Same-Unit  5156
+create-a-node-here really 62.107 134 {as saying }
+autolink_nodes 5156 134 nucleus attribution  5157
+create-a-node-here really 63.0 135 {Lincoln "laundered" campaign contributions illegally.\n}
+autolink_nodes 134 135 nucleus attribution  5158
+create-a-node-here really 63.103 136 {But the witness, William Crawford, California's chief state thrift regulator, denies saying that. }
+autolink_nodes 5157 136 multinuclear Statement-Response  5159
+create-a-node-here really 63.122 137 {"I don't know }
+create-a-node-here really 63.164 138 {whether it was done properly or not, }
+autolink_nodes 137 138 nucleus attribution-n  5160
+create-a-node-here really 63.194 139 {because I'm not a lawyer,}
+autolink_nodes 5160 139 satelite explanation-argumentative  5161
+create-a-node-here really 63.244 140 {" he said in a telephone interview yesterday.}
+nextSentence really
+autolink_nodes 5161 140 satelite attribution  5162
+autolink_nodes 136 5162 satelite elaboration-additional  5163
+create-a-node-here really 64.12 141 {\nBut he said }
+create-a-node-here really 64.43 142 {he is prepared to testify }
+autolink_nodes 141 142 nucleus attribution  5164
+create-a-node-here really 64.149 143 {that executives of Lincoln and its parent corporation got unusually high salaries and frequent calls }
+autolink_nodes 142 143 nucleus attribution  5165
+create-a-node-here really 64.200 144 {directing them to make specific contributions.}
+nextSentence really
+autolink_nodes 143 144 satelite-embedded elaboration-object-attribute-e below 5166
+autolink_nodes 5163 5164 nucleus concession  5167
+create-a-node-here really 66.67 145 { \n\nThe committee also has summoned Mr. Wall's predecessor, Edwin Gray.}
+nextSentence really
+create-a-node-here really 67.75 146 {\nHe has characterized the five senators' roles as "tantamount to an attempt }
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 67.122 147 {to subvert the . . . regulatory process," }
+autolink_nodes 146 147 satelite-embedded elaboration-object-attribute-e  5168
+create-a-node-here really 67.162 148 {and he isn't expected to back down }
+create-a-node-here really 67.241 149 {even though the five senators have disputed his account of a 1987 meeting.}
+nextSentence really
+autolink_nodes 148 149 satelite concession  5169
+autolink_nodes 5168 5169 multinuclear List  5170
+autolink_nodes 145 5170 satelite elaboration-additional  5171
+autolink_nodes 5159 5171 multinuclear List above 5172
+autolink_nodes 5153 5172 multinuclear List  5173
+autolink_nodes 5060 5133 satelite elaboration-general-specific  5174
+autolink_nodes 5133 5154 multinuclear Contrast  5175
+create-a-node-here really 69.38 150 { \n\nSo the senators must brace themselves.}
+nextSentence really
+create-a-node-here really 70.15 151 {\nSen. Cranston, }
+create-a-node-here really 70.80 152 {as he returned to the capital last week from a one-day trip }
+create-a-node-here really 70.132 153 {to inspect earthquake damage in San Francisco, }
+autolink_nodes 152 153 satelite-embedded elaboration-object-attribute-e  5176
+create-a-node-here really 70.156 154 {sighed to an aide: }
+autolink_nodes 5176 154 nucleus temporal-same-time  5177
+autolink_nodes 151 5177 multinuclear Same-Unit  5178
+create-a-node-here really 70.189 155 {"Well, back to Keatingland."}
+nextSentence really
+autolink_nodes 5178 155 nucleus attribution  5179
+autolink_nodes 150 5179 satelite example  5180
+autolink_nodes 5174 5180 satelite comment  5181
+disconnect_node 26 disconnect
+autolink_nodes 5022 26 nucleus interpretation-n  5182
+disconnect_node 45 disconnect
+autolink_nodes 5044 45 satelite manner  5183
+disconnect_node 5095 disconnect
+autolink_nodes 71 5095 satelite elaboration-additional  5184
+disconnect_node 5109 modify
+autolink_nodes 77 5109 satelite explanation-argumentative  5185
+disconnect_node 5179 modify
+autolink_nodes 150 5179 satelite elaboration-additional  5186

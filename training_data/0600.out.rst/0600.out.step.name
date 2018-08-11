@@ -1,0 +1,8 @@
+nextSentence really
+create-a-node-here really 2.128 1 {\nSpencer J. Volk, president and chief operating officer of this consumer and industrial products company, was elected a director.}
+nextSentence really
+create-a-node-here really 3.47 2 {\nMr. Volk, 55 years old, succeeds Duncan Dwight,}
+create-a-node-here really 3.76 3 { who retired in September.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-additional-e  5001
+autolink_nodes 1 5001 satelite elaboration-additional  5002

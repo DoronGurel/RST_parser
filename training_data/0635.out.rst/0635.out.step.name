@@ -1,0 +1,42 @@
+nextSentence really
+create-a-node-here really 2.53 1 {\nCiba-Geigy AG, the big Swiss chemicals company, said }
+create-a-node-here really 2.177 2 {that it agreed in a letter of intent with Corning Inc. to acquire Corning's 50% share of Ciba Corning Diagnostics Corp., }
+create-a-node-here really 2.204 3 {based in Medfield, Mass.}
+nextSentence really
+create-a-node-here really 4.14 4 { \n\nCiba Corning, }
+create-a-node-here really 4.92 5 {which had been a 50-50 venture between Basel-based Ciba-Geigy and Corning, }
+create-a-node-here really 4.134 6 {has annual sales of about $300 million,}
+create-a-node-here really 4.160 7 { the announcement said.}
+nextSentence really
+create-a-node-here really 5.43 8 {\nTerms of the transaction weren't disclosed.}
+nextSentence really
+create-a-node-here really 6.99 9 {\nCiba Corning makes clinical diagnostics systems and related products for the medical-care industry.}
+nextSentence really
+create-a-node-here really 8.22 10 { \n\nThe announcement said }
+create-a-node-here really 8.73 11 {the acquisition should be completed by December}
+create-a-node-here really 8.120 12 { after a definitive agreement is completed }
+create-a-node-here really 8.160 13 {and regulatory approval is received.}
+nextSentence really
+create-a-node-here really 10.81 14 { \n\nCiba-Geigy intends to develop the Ciba Corning unit into a "substantial business,}
+create-a-node-here really 10.181 15 {" making the unit an "integral part" of Ciba-Geigy's "comprehensive disease management concept."}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 2 3 satelite elaboration-additional below 5002
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5003
+autolink_nodes 5003 6 multinuclear Same-Unit  5004
+autolink_nodes 5004 7 satelite attribution  5005
+autolink_nodes 5001 5005 satelite elaboration-additional  5006
+autolink_nodes 5005 8 satelite elaboration-additional  5007
+autolink_nodes 5006 9 satelite background  5008
+autolink_nodes 10 11 nucleus attribution  5009
+autolink_nodes 11 12 satelite condition below 5010
+autolink_nodes 12 13 multinuclear List  5011
+change_rel 5011 temporal-after
+#autolink_nodes 14 15 satelite consequence-s  5012
+#UNDID
+autolink_nodes 14 15 satelite consequence-s  5012
+collapsed_nodes {5006}
+autolink_nodes 5008 5009 satelite elaboration-additional  5013
+autolink_nodes 5013 5012 satelite elaboration-additional  5014
+collapsed_nodes {}
+change_rel 5011 temporal-after

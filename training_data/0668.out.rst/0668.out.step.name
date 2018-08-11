@@ -1,0 +1,61 @@
+nextSentence really
+showText really
+create-a-node-here really 2.32 1 {\nABB Asea Brown Boveri B.V. said }
+create-a-node-here really 2.114 2 {it signed a contract for the largest-ever power plant order in the Netherlands.}
+#create-a-node-here really 4.9 3 { \n\nABB said }
+#create-a-node-here really 4.25 4 {the contract,}
+#UNDID
+#UNDID
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.9 3 { \n\nABB said }
+create-a-node-here really 4.25 4 {the contract,}
+create-a-node-here really 4.92 5 { signed with the Dutch utility N.V. Energieproduktiebedrijf UNA,}
+create-a-node-here really 5.0 6 { is valued in excess of $200 million.\n}
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5002
+autolink_nodes 5002 6 multinuclear Same-Unit  5003
+autolink_nodes 3 5003 nucleus attribution  5004
+autolink_nodes 5001 5004 satelite elaboration-additional  5005
+create-a-node-here really 5.96 7 {The accord is for a turbogenerator plant at the coal-fired power station Hemweg in Amsterdam.}
+create-a-node-here really 6.116 8 {\nABB Asea Brown Boveri is the Dutch unit of the Swedish-Swiss electrical engineering group ABB Asea Brown Boveri AG. }
+autolink_nodes 7 8 satelite background  5006
+autolink_nodes 5005 5006 satelite elaboration-additional  5007
+create-a-node-here really 8.9 9 {\n\nABB said }
+create-a-node-here really 8.88 10 {a significant portion of the order will be placed with Dutch subcontractors,}
+#create-a-node-here really 8.100 11 { adding }
+#create-a-node-here really 8.151 12 {that a group has been set up for this purpose. }
+#autolink_nodes 11 12 nucleus attribution  5008
+#autolink_nodes 9 10 nucleus attribution  5009
+#autolink_nodes 5009 5008 satelite-embedded elaboration-additional-e  5010
+#disconnect_node 8 disconnect
+#autolink_nodes 5007 8 satelite elaboration-additional  5011
+#UNDID
+#autolink_nodes 5007 8 satelite elaboration-additional  5011
+#autolink_nodes 5011 5010 satelite elaboration-additional  5012
+#create-a-node-here really 11.0 13 {\n\nThe Dutch utility firm serves the Amsterdam and Utrecht areas.\n}
+#create-a-node-here really 11.79 14 {The planned turbogenerator plant is expected to go into operation in 1994. }
+#collapsed_nodes {5010}
+#autolink_nodes 5012 13 satelite elaboration-additional  5013
+#autolink_nodes 5013 14 satelite elaboration-additional  5014
+#collapsed_nodes {}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 8.99 11 { adding}
+create-a-node-here really 8.150 12 { that a group has been set up for this purpose.}
+autolink_nodes 11 12 nucleus attribution  5008
+autolink_nodes 9 10 nucleus attribution  5009
+autolink_nodes 5009 5008 satelite elaboration-additional  5010
+autolink_nodes 5007 5010 satelite elaboration-additional  5011
+create-a-node-here really 10.62 13 { \n\nThe Dutch utility firm serves the Amsterdam and Utrecht areas.}
+autolink_nodes 5011 13 satelite elaboration-additional  5012
+create-a-node-here really 11.74 14 {\nThe planned turbogenerator plant is expected to go into operation in 1994.}
+autolink_nodes 5012 14 satelite elaboration-additional  5013

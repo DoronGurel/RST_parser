@@ -1,0 +1,88 @@
+nextSentence really
+create-a-node-here really 2.74 1 {\nInco Ltd. posted a 35% decline in third-quarter net income, a performance }
+create-a-node-here really 2.122 2 {that was in line with analysts' expectations.}
+nextSentence really
+#autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+#UNDID
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 4.88 3 { \n\nThe nickel producer also raised its quarterly dividend to 25 cents a share from 20 cents}
+create-a-node-here really 4.100 4 { and said}
+create-a-node-here really 4.162 5 { it may buy back as much as 4.8% of its common outstanding.}
+autolink_nodes 4 5 nucleus attribution  5002
+autolink_nodes 3 5002 multinuclear List  5003
+#autolink_nodes 5001 5003 satelite elaboration-additional  5004
+#UNDID
+autolink_nodes 5001 5003 multinuclear List  5004
+create-a-node-here really 6.41 6 { \n\nInco shares fell after the announcements.}
+nextSentence really
+autolink_nodes 5004 6 nucleus result  5005
+create-a-node-here really 7.14 7 {\nAnalysts said }
+create-a-node-here really 7.50 8 {some investors were disappointed }
+create-a-node-here really 7.122 9 {that the cash-rich company had failed to announce a special dividend.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5006
+autolink_nodes 7 5006 nucleus attribution  5007
+autolink_nodes 5005 5007 satelite explanation-argumentative  5008
+nextSentence really
+nextSentence really
+create-a-node-here really 8.94 10 {\nInco closed at $31.125 a share, down 62.5 cents, in New York Stock Exchange composite trading.}
+nextSentence really
+autolink_nodes 5008 10 satelite elaboration-additional  5009
+create-a-node-here really 10.18 11 { \n\nSome analysts said}
+create-a-node-here really 10.28 12 { Inco,}
+create-a-node-here really 10.88 13 { which had cash reserves of $272 million as of Sept. 30,}
+create-a-node-here really 10.156 14 { could still announce a special dividend in the next few months,}
+create-a-node-here really 10.226 15 { though it would be smaller than the $10-a-share special dividend }
+create-a-node-here really 10.248 16 {it paid last year.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 12 13 satelite-embedded elaboration-additional-e  5011
+autolink_nodes 14 5011 multinuclear Same-Unit  5012
+autolink_nodes 5012 5010 satelite antithesis  5013
+autolink_nodes 11 5013 nucleus attribution  5014
+autolink_nodes 5009 5014 satelite hypothetical  5015
+nextSentence really
+create-a-node-here really 12.68 17 { \n\nThe quarterly dividend is payable Dec. 1 to shares of record Nov. 3.}
+nextSentence really
+create-a-node-here really 14.128 18 { \n\nInco's net fell to $129.3 million, or $1.23 a share, in the third quarter from $200.3 million, or $1.88 a share, a year earlier.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 15.54 19 {\nSales rose 8.2% to $848.7 million from $784.5 million.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 17.53 20 { \n\nExcluding special gains from tax-loss carry-forwards,}
+create-a-node-here really 17.127 21 { earnings in the latest quarter were $117.7 million, or $1.12 a share,}
+create-a-node-here really 17.179 22 { compared with $187.4 million, or $1.76 a share.}
+nextSentence really
+autolink_nodes 21 22 satelite comparison  5016
+autolink_nodes 5016 20 satelite circumstance  5017
+autolink_nodes 5014 17 satelite elaboration-additional  5018
+autolink_nodes 19 18 multinuclear List  5019
+autolink_nodes 5019 5017 multinuclear List below 5019
+collapsed_nodes {5018}
+create-a-node-here really 19.9 23 { \n\nInco said}
+create-a-node-here really 19.206 24 { the drop in earnings resulted mainly from lower nickel prices for the period and a temporary cut in nickel output at the company's Manitoba operations due to high levels of arsenic in the ore.}
+nextSentence really
+autolink_nodes 23 24 nucleus attribution  5020
+create-a-node-here really 21.10 25 { \n\nInco said }
+create-a-node-here really 21.97 26 {it plans to buy back as many as five million common shares over the next 12 months }
+create-a-node-here really 21.143 27 {if nickel market conditions are favorable.}
+nextSentence really
+autolink_nodes 26 27 satelite condition  5021
+autolink_nodes 25 5021 nucleus attribution  5022
+create-a-node-here really 22.91 28 {\nUnder a previous buyback program, Inco has purchased 1.7 million of its shares since April.}
+nextSentence really
+autolink_nodes 5022 28 satelite elaboration-additional  5023
+disconnect_node 5017 disconnect
+autolink_nodes 5017 5020 satelite explanation-argumentative  5024
+disconnect_node 5004 disconnect
+autolink_nodes 5004 5015 satelite consequence-s  5025
+collapsed_nodes {5018 5015}
+autolink_nodes 5025 5019 satelite elaboration-additional  5026
+autolink_nodes 5019 5024 multinuclear List below 5026
+collapsed_nodes {5018 5015 5019}
+autolink_nodes 5026 5023 satelite elaboration-additional  5027
+collapsed_nodes {5019}
+collapsed_nodes {}

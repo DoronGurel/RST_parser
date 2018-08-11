@@ -1,0 +1,385 @@
+nextSentence really
+create-a-node-here really 2.47 1 {\nSeptember's steep rise in producer prices shows}
+create-a-node-here really 2.81 2 { that inflation still persists,}
+create-a-node-here really 2.122 3 { and the pessimism over interest rates}
+create-a-node-here really 2.154 4 { caused by the new price data}
+create-a-node-here really 2.206 5 { contributed to the stock market's plunge Friday.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 5 5002 multinuclear Same-Unit  5003
+#autolink_nodes 5001 5003 multinuclear List  5004
+#UNDID
+autolink_nodes 5001 5003 nucleus consequence-n  5004
+create-a-node-here really 4.43 6 { \n\nAfter falling for three consecutive months,}
+create-a-node-here really 4.115 7 { the producer price index for finished goods shot up 0.9% last month,}
+create-a-node-here really 4.156 8 { the Labor Department reported Friday,}
+create-a-node-here really 4.183 9 { as energy prices jumped}
+create-a-node-here really 4.221 10 { after tumbling through the summer.}
+#autolink_nodes 9 10 satelite temporal-after  5005
+#UNDID
+autolink_nodes 9 10 satelite antithesis  5005
+autolink_nodes 6 7 nucleus antithesis  5006
+autolink_nodes 5006 8 satelite attribution  5007
+autolink_nodes 5007 5005 satelite explanation-argumentative  5008
+create-a-node-here really 6.20 11 { \n\nAlthough the report,}
+create-a-node-here really 6.44 12 { which was released }
+create-a-node-here really 6.79 13 {before the stock market opened,}
+nextSentence really
+create-a-node-here really 6.157 14 { didn't trigger the 190.58-point drop in the Dow Jones Industrial Average,}
+create-a-node-here really 6.175 15 { analysts said}
+create-a-node-here really 6.223 16 { it did play a role in the market's decline.}
+nextSentence really
+autolink_nodes 15 16 nucleus attribution  5009
+autolink_nodes 12 13 satelite temporal-before  5010
+autolink_nodes 11 5010 satelite-embedded elaboration-additional-e  5011
+autolink_nodes 14 5011 multinuclear Same-Unit  5012
+autolink_nodes 5009 5012 satelite antithesis  5013
+collapsed_nodes {5005}
+autolink_nodes 5008 5013 satelite elaboration-additional  5014
+create-a-node-here really 7.95 17 {\nAnalysts immediately viewed the price data, the grimmest inflation news in months, as evidence }
+create-a-node-here really 7.168 18 {that the Federal Reserve was unlikely to allow interest rates to fall}
+create-a-node-here really 7.201 19 { as many investors had hoped.}
+nextSentence really
+autolink_nodes 18 19 satelite circumstance  5015
+autolink_nodes 17 5015 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 5013 5016 satelite elaboration-additional  5017
+collapsed_nodes {}
+create-a-node-here really 9.26 20 { \n\nFurther fueling the belief}
+#create-a-node-here really 9.112 21 { that pressures in the economy were sufficient to keep the Fed from easing credit,}
+#UNDID
+create-a-node-here really 9.76 21 { that pressures in the economy were sufficient}
+create-a-node-here really 9.116 22 { to keep the Fed from easing credit,}
+create-a-node-here really 9.161 23 { the Commerce Department reported Friday }
+create-a-node-here really 9.226 24 {that retail sales grew 0.5% in September, to $145.21 billion.}
+nextSentence really
+disconnect_node 5016 disconnect
+autolink_nodes 5013 5016 satelite elaboration-additional  5018
+disconnect_node 5016 modify
+autolink_nodes 5013 5016 satelite explanation-argumentative  5019
+disconnect_node 5019 disconnect
+autolink_nodes 5019 5008 satelite circumstance  5020
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5021
+autolink_nodes 21 22 satelite purpose  5022
+autolink_nodes 23 24 nucleus attribution  5023
+autolink_nodes 5023 5021 satelite circumstance  5024
+create-a-node-here really 10.47 25 {\nThat rise came on top of a 0.7% gain in August,}
+create-a-node-here really 10.66 26 { and suggested }
+create-a-node-here really 10.124 27 {there is still healthy consumer demand in the economy.}
+nextSentence really
+autolink_nodes 26 27 nucleus attribution  5025
+autolink_nodes 5025 25 nucleus interpretation-s  5026
+autolink_nodes 5024 5026 satelite elaboration-additional  5027
+create-a-node-here really 12.9 28 { \n\n"I think }
+create-a-node-here really 12.31 29 {the Friday report,}
+create-a-node-here really 12.73 30 { combined with the actions of the Fed,}
+create-a-node-here really 12.98 31 { weakened the belief }
+create-a-node-here really 12.168 32 {that there was going to be an imminent easing of monetary policy,"}
+create-a-node-here really 12.244 33 { said Robert Dederick, chief economist at Northern Trust Co. in Chicago.}
+nextSentence really
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5028
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 5029 5028 multinuclear Same-Unit  5030
+autolink_nodes 5030 28 satelite attribution  5031
+autolink_nodes 5031 33 satelite attribution  5032
+#autolink_nodes 5032 5027 nucleus interpretation-s  5033
+#UNDID
+#autolink_nodes 5027 5032 satelite explanation-argumentative  5033
+#UNDID
+autolink_nodes 5027 5032 satelite elaboration-additional  5033
+collapsed_nodes {5021}
+autolink_nodes 5020 5033 satelite elaboration-additional  5034
+disconnect_node 5032 disconnect
+collapsed_nodes {5021 5027}
+autolink_nodes 5034 5032 satelite elaboration-additional  5035
+create-a-node-here really 14.67 34 { \n\nBut economists were divided over the extent of the inflation threat}
+create-a-node-here really 14.100 35 { signaled by the new numbers.}
+collapsed_nodes {5021 5027 5032}
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5036
+create-a-node-here really 16.48 36 { \n\n"The overall 0.9% increase is serious in itself,}
+create-a-node-here really 16.83 37 { but what is even worse is that}
+create-a-node-here really 16.114 38 { excluding food and energy,}
+create-a-node-here really 16.170 39 { the producer price index still increased by 0.7%," }
+create-a-node-here really 16.254 40 {said Gordon Richards, an economist at the National Association of Manufacturers.}
+nextSentence really
+autolink_nodes 39 38 satelite-embedded circumstance-e  5037
+autolink_nodes 5037 37 multinuclear Same-Unit  5038
+autolink_nodes 5038 36 satelite comparison  5039
+autolink_nodes 5039 40 satelite attribution  5040
+create-a-node-here really 18.172 41 { \n\nBut Sung Won Sohn, chief economist at Norwest Corp. in Minneapolis, blamed rising energy prices and the annual autumn increase in car prices for most of the September jump.}
+nextSentence really
+#create-a-node-here really 18.211 42 { "I would say this is not bad news;}
+#create-a-node-here really 18.233 43 { this is a blip," }
+#create-a-node-here really 18.245 44 {he said.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 18.190 42 { "I would say }
+create-a-node-here really 18.215 43 {this is not bad news;}
+create-a-node-here really 18.236 44 { this is a blip,"}
+create-a-node-here really 18.249 45 { he said.}
+autolink_nodes 43 44 satelite elaboration-additional  5041
+autolink_nodes 42 5041 nucleus attribution  5042
+autolink_nodes 5042 45 satelite attribution  5043
+autolink_nodes 41 5043 satelite elaboration-additional  5044
+create-a-node-here really 18.296 46 { "The core rate is not really out of line."}
+nextSentence really
+autolink_nodes 5043 46 satelite explanation-argumentative  5045
+autolink_nodes 5044 5040 multinuclear Contrast  5046
+autolink_nodes 5036 5046 satelite example  5047
+collapsed_nodes {5021 5027 5032 5008}
+collapsed_nodes {5021 5027 5032 5008 5012}
+collapsed_nodes {5021 5027 5032 5008 5012 5046}
+create-a-node-here really 20.61 47 { \n\nAll year, energy prices have skewed the producer price index,}
+create-a-node-here really 20.102 48 { which measures changes in the prices}
+create-a-node-here really 20.135 49 { producers receive for goods.}
+nextSentence really
+autolink_nodes 48 49 satelite-embedded elaboration-object-attribute-e  5048
+#autolink_nodes 47 5048 satelite definition  5049
+#UNDID
+autolink_nodes 47 5048 satelite-embedded definition-e  5049
+create-a-node-here really 21.74 50 {\nInflation unquestionably has fallen back from its torrid pace last winter,}
+create-a-node-here really 21.171 51 { when a steep run-up in world oil prices sent the index surging at double-digit annual rates.}
+autolink_nodes 50 51 satelite circumstance  5050
+create-a-node-here really 22.48 52 {\nEnergy prices then plummeted through the summer,}
+create-a-node-here really 22.111 53 { causing the index to decline for three consecutive months.}
+nextSentence really
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5051
+#autolink_nodes 51 5051 multinuclear Sequence  5052
+#UNDID
+autolink_nodes 51 5051 multinuclear Sequence  5052
+#autolink_nodes 5049 5050 satelite example  5053
+#UNDID
+#autolink_nodes 5049 5050 satelite elaboration-additional  5053
+#UNDID
+autolink_nodes 5049 5050 satelite explanation-argumentative  5053
+create-a-node-here really 24.90 54 { \n\nOverall, the index has climbed at a 5.1% compound annual rate since the start of the year,}
+create-a-node-here really 24.121 55 { the Labor Department said.}
+collapsed_nodes {5021 5027 5032 5008 5046}
+collapsed_nodes {5021 5027 5032 5046}
+disconnect_node 5008 disconnect
+collapsed_nodes {5032 5046}
+collapsed_nodes {5046}
+collapsed_nodes {5046 5012}
+autolink_nodes 5008 5035 satelite elaboration-additional  5054
+disconnect_node 5035 modify
+autolink_nodes 5008 5035 satelite consequence-s  5055
+disconnect_node 5032 disconnect
+disconnect_node 5027 disconnect
+collapsed_nodes {5046 5012 5019}
+autolink_nodes 5027 5032 satelite elaboration-additional  5056
+collapsed_nodes {5046 5012 5019 5021}
+autolink_nodes 5055 5056 satelite elaboration-additional  5057
+collapsed_nodes {5046 5012 5019 5021 5032}
+collapsed_nodes {5046 5012 5019 5021 5032 5056}
+autolink_nodes 5057 5047 satelite elaboration-additional  5058
+autolink_nodes 54 55 satelite attribution  5059
+create-a-node-here really 25.69 56 {\nWhile far more restrained than the pace at the beginning of the year,}
+create-a-node-here really 25.142 57 { that is still a steeper rise than the 4.0% increase for all of 1988.}
+nextSentence really
+autolink_nodes 56 57 nucleus antithesis  5060
+autolink_nodes 5059 5060 satelite elaboration-additional  5061
+create-a-node-here really 27.68 58 { \n\nMoreover, this year's good inflation news may have ended last month,}
+create-a-node-here really 27.107 59 { when energy prices zoomed up 6.5% }
+create-a-node-here really 27.141 60 {after plunging 7.3% in August.}
+nextSentence really
+autolink_nodes 59 60 multinuclear Inverted-Sequence  5062
+autolink_nodes 58 5062 satelite circumstance  5063
+autolink_nodes 5061 5063 satelite elaboration-additional  5064
+autolink_nodes 5053 5064 satelite elaboration-additional  5065
+create-a-node-here really 28.80 61 {\nSome analysts expect oil prices to remain relatively stable in the months ahead,}
+create-a-node-here really 28.132 62 { leaving the future pace of inflation uncertain.}
+nextSentence really
+autolink_nodes 61 62 satelite elaboration-additional  5066
+autolink_nodes 5063 5066 satelite elaboration-additional  5067
+#create-a-node-here really 30.123 63 { \n\nAnalysts had expected that the climb in oil prices last month would lead to a substantial rise in the producer price index,}
+#create-a-node-here really 30.158 64 { but the 0.9% climb was higher }
+#create-a-node-here really 30.184 65 {than most anticipated.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 30.21 63 { \n\nAnalysts had expected}
+create-a-node-here really 30.127 64 { that the climb in oil prices last month would lead to a substantial rise in the producer price index,}
+create-a-node-here really 30.162 65 { but the 0.9% climb was higher }
+create-a-node-here really 30.188 66 {than most anticipated.}
+autolink_nodes 65 66 satelite comparison  5068
+autolink_nodes 63 64 nucleus attribution  5069
+autolink_nodes 5068 5069 satelite comparison  5070
+#autolink_nodes 5066 5070 satelite elaboration-additional  5071
+#UNDID
+autolink_nodes 5066 5070 satelite background  5071
+disconnect_node 5069 modify
+autolink_nodes 5068 5069 satelite antithesis  5072
+create-a-node-here really 30.202 67 { "I think }
+create-a-node-here really 30.276 68 {the resurgence {in inflation} is going to continue for a few months," }
+create-a-node-here really 30.378 69 {said John Mueller, chief economist at Bell Mueller Cannon, a Washington economic forecasting firm.}
+nextSentence really
+autolink_nodes 67 68 nucleus attribution  5073
+autolink_nodes 5073 69 satelite attribution  5074
+create-a-node-here really 31.13 70 {\nHe predicted }
+create-a-node-here really 31.56 71 {that inflation will moderate next year,}
+create-a-node-here really 31.67 72 { saying}
+create-a-node-here really 31.123 73 { that credit conditions are fairly tight world-wide.}
+nextSentence really
+autolink_nodes 72 73 nucleus attribution  5075
+autolink_nodes 70 71 nucleus attribution  5076
+autolink_nodes 5076 5075 satelite explanation-argumentative  5077
+autolink_nodes 5074 5077 satelite elaboration-additional  5078
+collapsed_nodes {5012 5019 5021 5032 5056}
+collapsed_nodes {5012 5019 5021 5032 5056 5046}
+autolink_nodes 5047 5065 satelite elaboration-additional  5079
+collapsed_nodes {5012 5019 5021 5032 5056 5046 5065}
+create-a-node-here really 33.92 74 { \n\nBut Dirk Van Dongen, president of the National Association of Wholesaler-Distributors, said }
+create-a-node-here really 33.141 75 {that last month's rise "isn't as bad an omen"}
+create-a-node-here really 33.174 76 { as the 0.9% figure suggests.}
+nextSentence really
+autolink_nodes 75 76 satelite comparison  5080
+autolink_nodes 74 5080 nucleus attribution  5081
+create-a-node-here really 33.214 77 { "If you examine the data carefully,}
+create-a-node-here really 33.283 78 { the increase is concentrated in energy and motor vehicle prices,}
+create-a-node-here really 33.377 79 { rather than being a broad-based advance in the prices of consumer and industrial goods," }
+create-a-node-here really 33.394 80 {he explained.}
+nextSentence really
+collapsed_nodes {5012 5019 5021 5032 5056 5046 5065}
+collapsed_nodes {5012 5019 5021 5032 5056 5046 5065}
+#autolink_nodes 78 79 satelite comparison  5082
+#UNDID
+autolink_nodes 78 79 satelite comparison  5082
+disconnect_node 79 modify
+autolink_nodes 78 79 satelite antithesis  5083
+autolink_nodes 5083 77 satelite condition  5084
+autolink_nodes 5084 80 satelite attribution  5085
+autolink_nodes 5081 5085 satelite explanation-argumentative  5086
+collapsed_nodes {5012 5019 5021 5032 5056 5046}
+disconnect_node 5064 disconnect
+autolink_nodes 5053 5064 satelite elaboration-additional  5087
+disconnect_node 5064 disconnect
+autolink_nodes 5079 5064 satelite elaboration-additional  5088
+disconnect_node 5064 disconnect
+collapsed_nodes {5012 5019 5021 5032 5056 5046 5079}
+autolink_nodes 5058 5064 satelite elaboration-additional  5089
+autolink_nodes 5086 5078 multinuclear Contrast  5090
+disconnect_node 5086 disconnect
+autolink_nodes 5078 5086 multinuclear Contrast  5091
+autolink_nodes 5071 5091 satelite elaboration-additional  5092
+create-a-node-here really 35.46 81 { \n\nPassenger car prices jumped 3.8% in September,}
+create-a-node-here really 35.80 82 { after climbing 0.5% in August}
+create-a-node-here really 35.129 83 { and declining in the late spring and summer.}
+#autolink_nodes 82 83 multinuclear Inverted-Sequence  5093
+#UNDID
+autolink_nodes 82 83 multinuclear Inverted-Sequence  5093
+autolink_nodes 81 5093 satelite temporal-after  5094
+create-a-node-here really 36.18 84 {\nMany analysts said}
+create-a-node-here really 36.67 85 { the September increase was a one-time event,}
+#create-a-node-here really 36.119 86 { coming as dealers introduced their 1990 models.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 36.78 86 { coming}
+create-a-node-here really 36.123 87 { as dealers introduced their 1990 models.}
+nextSentence really
+autolink_nodes 86 87 satelite circumstance  5095
+autolink_nodes 85 5095 satelite explanation-argumentative  5096
+autolink_nodes 84 5096 nucleus attribution  5097
+autolink_nodes 5094 5097 satelite elaboration-additional  5098
+create-a-node-here really 37.75 88 {\nAlthough all the price data were adjusted for normal seasonal fluctuations,}
+create-a-node-here really 37.133 89 { car prices rose beyond the customary autumn increase.}
+nextSentence really
+autolink_nodes 88 89 nucleus concession  5099
+autolink_nodes 5097 5099 satelite elaboration-additional  5100
+create-a-node-here really 39.60 90 { \n\nPrices for capital equipment rose a hefty 1.1% in September,}
+create-a-node-here really 39.118 91 { while prices for home electronic equipment fell 1.1%.}
+nextSentence really
+autolink_nodes 90 91 multinuclear List  5101
+create-a-node-here really 40.26 92 {\nFood prices declined 0.6%,}
+create-a-node-here really 40.61 93 { after climbing 0.3% in August.}
+nextSentence really
+autolink_nodes 92 93 satelite temporal-after  5102
+autolink_nodes 5101 5102 multinuclear List below 5102
+collapsed_nodes {5012 5019 5021 5032 5056 5046 5079 5100}
+autolink_nodes 5101 5098 multinuclear List below 5102
+create-a-node-here really 42.42 94 { \n\nMeanwhile, the retail sales report showed }
+nextSentence really
+create-a-node-here really 42.102 95 {that car sales rose 0.8% in September to $32.82 billion.}
+nextSentence really
+autolink_nodes 94 95 nucleus attribution  5103
+create-a-node-here really 43.69 96 {\nBut at least part of the increase could have come from higher prices,}
+create-a-node-here really 43.88 97 { analysts said.}
+nextSentence really
+autolink_nodes 96 97 satelite attribution  5104
+autolink_nodes 5103 5104 satelite antithesis  5105
+autolink_nodes 5101 5105 multinuclear List below 5105
+create-a-node-here really 45.46 98 { \n\nSales at general merchandise stores rose 1.7% }
+create-a-node-here really 45.81 99 {after declining 0.6% in August,}
+create-a-node-here really 45.129 100 { while sales of building materials fell 1.8%}
+create-a-node-here really 45.153 101 { after rising 1.7%.}
+nextSentence really
+collapsed_nodes {5012 5019 5021 5032 5056 5046 5079 5100 5104}
+autolink_nodes 100 101 satelite temporal-after  5106
+autolink_nodes 98 99 satelite temporal-after  5107
+autolink_nodes 5101 5107 multinuclear List below 5107
+autolink_nodes 5101 5106 multinuclear List below 5107
+create-a-node-here really 47.62 102 { \n\nProducer prices for intermediate goods grew 0.4% in September,}
+create-a-node-here really 47.112 103 { after dropping for three consecutive months.}
+nextSentence really
+autolink_nodes 102 103 satelite temporal-after  5108
+autolink_nodes 5101 5108 multinuclear List below 5108
+create-a-node-here really 48.62 104 {\nPrices for crude goods, an array of raw materials, jumped 1.1%}
+create-a-node-here really 48.98 105 { after declining 1.9% in August}
+create-a-node-here really 48.131 106 { and edging up 0.2% in July.}
+nextSentence really
+autolink_nodes 105 106 multinuclear Inverted-Sequence  5109
+autolink_nodes 104 5109 satelite temporal-after  5110
+autolink_nodes 5101 5110 multinuclear List below 5110
+disconnect_node 5110 disconnect
+disconnect_node 5108 disconnect
+autolink_nodes 5108 5110 multinuclear List  5111
+collapsed_nodes {5012 5019 5021 5032 5056 5046 5079 5100 5104 5091}
+collapsed_nodes {5012 5019 5021 5032 5056 5046 5079 5100 5104 5091 5064}
+autolink_nodes 5089 5101 satelite elaboration-additional  5112
+autolink_nodes 5101 5111 satelite elaboration-additional  5113
+autolink_nodes 5112 5004 nucleus manner  5114
+#disconnect_node 5001 modify
+#UNDID
+disconnect_node 5112 modify
+autolink_nodes 5004 5112 satelite summary-n  5115
+create-a-node-here really 50.54 107 { \n\nHere are the Labor Department's producer price indexes}
+create-a-node-here really 50.70 108 { (1982=100)}
+create-a-node-here really 50.167 109 { for September, before seasonal adjustment, and the percentage changes from September, 1988.}
+autolink_nodes 107 108 satelite-embedded elaboration-additional-e  5116
+autolink_nodes 109 5116 multinuclear Same-Unit  5117
+autolink_nodes 5112 5117 satelite elaboration-additional  5118
+collapsed_nodes {5021 5032 5056 5046 5079 5100 5104 5091 5064}
+collapsed_nodes {5046 5079 5100 5104 5091 5064}
+collapsed_nodes {5100 5104 5091 5064}
+collapsed_nodes {5100 5104}
+collapsed_nodes {5104}
+collapsed_nodes {}
+disconnect_node 5117 disconnect
+#disconnect_node 5111 disconnect
+#UNDID
+disconnect_node 5113 disconnect
+collapsed_nodes {5101}
+autolink_nodes 5085 5113 satelite elaboration-additional  5119
+collapsed_nodes {}
+disconnect_node 5111 disconnect
+disconnect_node 5108 disconnect
+collapsed_nodes {5101}
+collapsed_nodes {}
+collapsed_nodes {5098}
+collapsed_nodes {5098 5102}
+collapsed_nodes {5098 5102 5106}
+autolink_nodes 5101 5108 multinuclear List below 5119
+collapsed_nodes {5098 5102 5106 5108}
+collapsed_nodes {5098 5102 5106 5108 5101}
+autolink_nodes 5101 5110 multinuclear List below 5119
+collapsed_nodes {}
+disconnect_node 5101 modify
+autolink_nodes 5085 5101 satelite elaboration-set-member  5120
+disconnect_node 5101 modify
+autolink_nodes 5085 5101 satelite elaboration-additional  5121
+autolink_nodes 5089 5117 satelite elaboration-additional  5122

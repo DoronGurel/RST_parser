@@ -1,0 +1,140 @@
+nextSentence really
+create-a-node-here really 2.94 1 {\nTexas Instruments Inc., once a pioneer in portable computer technology, today will make a bid }
+create-a-node-here really 2.133 2 {to reassert itself in that business }
+create-a-node-here really 2.180 3 {by unveiling three small personal computers.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded purpose-e  5001
+autolink_nodes 5001 3 satelite manner  5002
+create-a-node-here really 4.60 4 { \n\nThe announcements are scheduled to be made in Temple, Texas,}
+create-a-node-here really 4.102 5 { and include a so-called "notebook" PC }
+create-a-node-here really 4.141 6 {that weighs less than seven pounds, }
+create-a-node-here really 4.175 7 {has a built-in hard disk drive }
+create-a-node-here really 4.230 8 {and is powered by Intel Corp. 's 286 microprocessor.}
+nextSentence really
+create-a-node-here really 5.24 9 {\nThat introduction comes }
+create-a-node-here really 5.70 10 {only two weeks after Compaq Computer Corp.,}
+create-a-node-here really 5.85 11 { believing }
+create-a-node-here really 5.142 12 {it had a lead of three to six months on competitors, }
+create-a-node-here really 5.209 13 {introduced the first U.S. notebook computer with such features.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5003
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 6 7 multinuclear List  5005
+autolink_nodes 5005 8 multinuclear List below 5005
+#autolink_nodes 9 10 satelite temporal-after  5006
+#UNDID
+autolink_nodes 9 10 satelite temporal-after  5006
+#autolink_nodes 11 12 nucleus attribution  5007
+#autolink_nodes 10 13 multinuclear Same-Unit  5008
+#UNDID
+#autolink_nodes 5006 5007 satelite-embedded elaboration-additional-e  5008
+#UNDID
+#UNDID
+autolink_nodes 10 11 satelite-embedded elaboration-additional-e  5007
+autolink_nodes 11 12 nucleus attribution  5008
+autolink_nodes 5007 13 multinuclear Same-Unit  5009
+create-a-node-here really 7.56 14 { \n\nDespite the inevitable comparison with Compaq, however, }
+autolink_nodes 5003 5006 satelite elaboration-additional  5010
+create-a-node-here really 8.0 15 {Texas Instruments' new notebook won't be a direct competitor.\n}
+create-a-node-here really 8.78 16 {While Compaq sells its machines to businesses through computer retailers, }
+create-a-node-here really 8.228 17 {Texas Instruments will be selling most of its machines to the industrial market and to value-added resellers and original-equipment manufacturers.}
+nextSentence really
+autolink_nodes 14 15 nucleus antithesis  5011
+autolink_nodes 16 17 multinuclear Contrast  5012
+autolink_nodes 5011 5012 satelite explanation-argumentative  5013
+create-a-node-here really 10.77 18 { \n\nThe introductions also mark Texas Instruments' plunge back into a technology }
+create-a-node-here really 10.131 19 {it has all but ignored for the past several years.}
+nextSentence really
+create-a-node-here really 11.93 20 {\nAlthough the Dallas-based computer giant introduced the first portable data terminal in 1971 }
+create-a-node-here really 11.122 21 {-- a 38-pound monster -- }
+create-a-node-here really 11.186 22 {and the world's first microprocessor-based portable in 1976,}
+create-a-node-here really 11.218 23 { the only portable machines }
+create-a-node-here really 11.275 24 {it has introduced since the first part of the decade }
+create-a-node-here really 11.347 25 {have been "dumb" terminals with limited on-board processing ability.}
+nextSentence really
+create-a-node-here really 12.60 26 {\nIt stopped selling a standard personal computer a while ago.}
+nextSentence really
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5014
+#autolink_nodes 20 21 nucleus-embedded elaboration-object-attribute-e  5015
+#autolink_nodes 5015 22 multinuclear List  5016
+#UNDID
+#UNDID
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 5015 22 multinuclear Same-Unit  5016
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5017
+autolink_nodes 5017 25 multinuclear Same-Unit  5018
+autolink_nodes 5016 5018 nucleus concession  5019
+autolink_nodes 5014 5019 satelite circumstance  5020
+autolink_nodes 5019 26 satelite elaboration-additional  5021
+create-a-node-here really 14.29 27 { \n\nNow that is about to change, }
+create-a-node-here really 15.0 28 {as Texas Instruments begins marketing two 14-pound laptop PCs with 20 megabyte and 40 megabyte hard drives.\n}
+create-a-node-here really 15.38 29 {The laptops are not revolutionary }
+create-a-node-here really 15.77 30 {and, indeed, are tardy in a market }
+create-a-node-here really 15.165 31 {first opened by GRiD Systems Corp., now a unit of Tandy Corp., almost two years ago.}
+nextSentence really
+autolink_nodes 26 27 multinuclear Contrast  5022
+autolink_nodes 27 28 satelite elaboration-additional  5023
+autolink_nodes 29 30 multinuclear List  5024
+autolink_nodes 30 31 satelite elaboration-object-attribute  5025
+autolink_nodes 28 5024 satelite elaboration-additional  5026
+create-a-node-here really 17.90 32 { \n\nBut the notebook, with the more advanced microprocessor and hard disk, is more innovative.}
+nextSentence really
+create-a-node-here really 18.33 33 {\nWeighing 6.7 pounds with battery,}
+nextSentence really
+create-a-node-here really 18.80 34 { the notebook measures 8.2 by 11.7 inches, }
+create-a-node-here really 18.118 35 {has a 20-megabyte hard disk drive }
+create-a-node-here really 18.150 36 {and boasts a backlit screen }
+create-a-node-here really 18.187 37 {that is 22% larger than Compaq's.}
+nextSentence really
+create-a-node-here really 19.13 38 {\nIts keyboard,}
+create-a-node-here really 19.53 39 { according to industry consultants, }
+create-a-node-here really 19.82 40 {is better than Compaq's, }
+create-a-node-here really 19.140 41 {but its battery life of two to three hours is shorter.}
+nextSentence really
+autolink_nodes 33 34 multinuclear List  5027
+#autolink_nodes 5027 35 multinuclear List above 5028
+#UNDID
+autolink_nodes 5027 35 multinuclear List below 5027
+autolink_nodes 5027 36 multinuclear List below 5027
+autolink_nodes 36 37 multinuclear Comparison  5028
+autolink_nodes 38 39 satelite attribution  5029
+autolink_nodes 5029 40 multinuclear Same-Unit  5030
+autolink_nodes 5030 41 multinuclear Comparison above 5031
+create-a-node-here really 20.47 42 {\nIt doesn't have an internal floppy disk drive, }
+create-a-node-here really 21.0 43 {although a snap-on drive can be purchased separately.\n}
+create-a-node-here really 21.85 44 {Its greatest drawback may be its 3-inch thickness, big enough for one consultant }
+create-a-node-here really 21.116 45 {to describe it as "clunky."}
+nextSentence really
+#autolink_nodes 42 43 satelite elaboration-additional  5032
+#UNDID
+autolink_nodes 42 43 satelite elaboration-additional  5032
+#autolink_nodes 5031 5032 multinuclear Comparison below 5032
+#UNDID
+autolink_nodes 5031 5032 multinuclear List above 5033
+#autolink_nodes 5027 5033 multinuclear List above 5034
+#UNDID
+autolink_nodes 5027 5033 multinuclear List below 5033
+autolink_nodes 32 5027 satelite example  5034
+collapsed_nodes {5014}
+autolink_nodes 5020 5034 satelite elaboration-additional  5035
+#autolink_nodes 5027 44 multinuclear List below 5035
+#UNDID
+#autolink_nodes 5027 44 multinuclear List below 5035
+#UNDID
+autolink_nodes 5027 44 multinuclear Contrast above 5036
+#autolink_nodes 44 45 satelite elaboration-additional  5037
+#UNDID
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5037
+create-a-node-here really 24.0 46 { \n\nList prices on the heavier Texas Instrument laptops will be $4,999 for the TI Model 25, with a 20 megabyte disk drive, and $5,599 for the 40-megabyte Model 45.\n}
+create-a-node-here really 24.60 47 {The notebook, the TI Model 12, will be priced at $4,199.}
+nextSentence really
+autolink_nodes 46 47 multinuclear Comparison  5038
+collapsed_nodes {5014 5036}
+autolink_nodes 5035 5038 satelite elaboration-additional  5039
+autolink_nodes 5013 5039 satelite elaboration-additional  5040
+autolink_nodes 5006 5040 satelite elaboration-additional  5041
+autolink_nodes 5002 5010 satelite elaboration-additional  5042
+collapsed_nodes {5014}
+collapsed_nodes {}
+collapsed_nodes {5042}
+collapsed_nodes {}

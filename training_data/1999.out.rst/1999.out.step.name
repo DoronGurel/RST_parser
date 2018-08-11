@@ -1,0 +1,289 @@
+nextSentence really
+create-a-node-here really 2.109 1 {\nGTE Corp. and MCI Communications Corp. reported strong earnings gains to record levels for the third quarter.}
+nextSentence really
+create-a-node-here really 3.67 2 {\nSouthwestern Bell Corp. and Cincinnati Bell posted slight declines.}
+nextSentence really
+autolink_nodes 1 2 multinuclear List  5001
+create-a-node-here really 5.10 3 { \n\nGTE Corp. }
+#autolink_nodes 5001 3 satelite summary-n  5002
+#UNDID
+#autolink_nodes 5001 3 multinuclear TextualOrganization above 5002
+#change_constit 3 SectionTitle
+#change_constit 5001 
+#disconnect_node 5001 disconnect
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 5001 3 satelite summary-n  5002
+#UNDID
+autolink_nodes 5001 3 satelite summary-s  5002
+#create-a-node-here really 7.13 4 {\n\nGTE said net }
+#autolink_nodes 3 4 multinuclear TextualOrganization  5003
+#UNDID
+#UNDID
+create-a-node-here really 7.9 4 {\n\nGTE said }
+autolink_nodes 3 4 multinuclear TextualOrganization  5003
+create-a-node-here really 7.32 5 {net income rose 18%,}
+autolink_nodes 4 5 nucleus attribution  5004
+create-a-node-here really 7.128 6 { aided by higher long-distance calling volumes and an increase in telephone lines in service.}
+autolink_nodes 5 6 satelite consequence-n below 5005
+create-a-node-here really 8.60 7 {\nPretax operating profit from telephone operations rose 8.2% }
+autolink_nodes 5004 7 satelite elaboration-additional  5006
+create-a-node-here really 8.142 8 {but profits from telecommunications products and electrical products were flat.}
+nextSentence really
+autolink_nodes 7 8 multinuclear Contrast  5007
+#change_rel 5007 comparison
+#UNDID
+change_rel 8 Comparison
+create-a-node-here really 10.55 9 { \n\nRevenues rose 8.8% to $4.35 billion from $4.0 billion. }
+autolink_nodes 5006 9 satelite elaboration-additional  5008
+create-a-node-here really 12.17 10 {\n\nThe company said }
+autolink_nodes 5008 10 satelite elaboration-additional  5009
+create-a-node-here really 12.166 11 {the quarter included a 10% increase in local-exchange usage for long-distance calling and a 5% increase in the number of access lines in service.}
+nextSentence really
+autolink_nodes 10 11 nucleus attribution  5010
+create-a-node-here really 13.111 12 {\nEarlier rate reductions in Texas and California reduced the quarter's revenue and operating profit $55 million;}
+autolink_nodes 5009 12 satelite background  5011
+create-a-node-here really 13.205 13 { a year earlier, operating profit in telephone operations was reduced by a similar amount }
+autolink_nodes 12 13 multinuclear List  5012
+create-a-node-here really 13.257 14 {as a result of a provision for a reorganization.}
+nextSentence really
+autolink_nodes 13 14 satelite result  5013
+nextSentence really
+create-a-node-here really 15.88 15 { \n\nRevenue in the telecommunications products and services unit rose 27% to $728.8 million,}
+autolink_nodes 5011 15 satelite elaboration-additional  5014
+nextSentence really
+create-a-node-here really 15.146 16 { but operating profit was unchanged at $26.3 million, }
+autolink_nodes 15 16 multinuclear Contrast  5015
+create-a-node-here really 15.186 17 {partly because of start-up expenses.}
+nextSentence really
+autolink_nodes 16 17 satelite result  5016
+change_rel 5015 elaboration-part-whole
+change_rel 5007 elaboration-part-whole
+nextSentence really
+nextSentence really
+create-a-node-here really 16.109 18 {\nElectrical products' sales fell to $496.7 million from $504.5 million with higher world-wide lighting volume }
+autolink_nodes 5015 18 multinuclear List above 5017
+create-a-node-here really 16.209 19 {offset by lower domestic prices and the impact of weaker currencies in Europe and South America.}
+nextSentence really
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5018
+nextSentence really
+create-a-node-here really 17.48 20 {\nOperating profit of $37.2 million was unchanged.}
+nextSentence really
+autolink_nodes 5018 20 satelite elaboration-additional  5019
+nextSentence really
+create-a-node-here really 19.79 21 { \n\nIn composite trading on the New York Stock Exchange, GTE rose $1.25 to $64.125.}
+nextSentence really
+collapsed_nodes {5017}
+collapsed_nodes {5017 5012}
+collapsed_nodes {5017 5012 5010}
+collapsed_nodes {5017 5012 5010 5007}
+#autolink_nodes 5011 21 satelite elaboration-additional above 5019
+#UNDID
+autolink_nodes 5014 21 satelite elaboration-additional  5020
+collapsed_nodes {5017 5012 5010 5007 5011}
+change_constit 3 SectionTitle
+collapsed_nodes {}
+change_constit 5020 SectionText
+change_constit 3 SectionTitle
+collapsed_nodes {5020}
+create-a-node-here really 20.25 22 {\nMCI Communications Corp. }
+autolink_nodes 5003 22 multinuclear TextualOrganization above 5021
+create-a-node-here really 22.5 23 {\n\nMCI, }
+create-a-node-here really 22.33 24 {which stepped up efforts}
+autolink_nodes 23 24 satelite-embedded elaboration-additional-e  5022
+autolink_nodes 22 5022 multinuclear TextualOrganization  5023
+create-a-node-here really 22.104 25 { to sell long-distance telephone service to residential customers, }
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5024
+create-a-node-here really 23.0 26 {reported a 59% jump in earnings.\n}
+autolink_nodes 5022 26 multinuclear Same-Unit  5025
+create-a-node-here really 23.57 27 {Revenue rose 23% to $1.67 billion from $1.36 billion.}
+nextSentence really
+autolink_nodes 5025 27 satelite elaboration-additional  5026
+create-a-node-here really 25.61 28 { \n\nOperating profit grew 57% to $269 million from $171 million, }
+autolink_nodes 27 28 multinuclear List  5027
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 25.156 29 {while operating margins rose to 16.1% from 15.9% the previous quarter and 12.6% a year ago.}
+nextSentence really
+autolink_nodes 28 29 multinuclear List  5028
+create-a-node-here really 26.50 30 {\nDaniel Akerson, MCI chief financial officer, said }
+autolink_nodes 5026 30 satelite elaboration-additional  5029
+create-a-node-here really 26.113 31 {the company sees further improvements in operating margins.}
+nextSentence really
+autolink_nodes 30 31 nucleus attribution  5030
+create-a-node-here really 26.128 32 { "We think }
+autolink_nodes 5030 32 satelite explanation-argumentative  5031
+create-a-node-here really 26.192 33 {we can take it to the 18% range over next 18 to 24 months," }
+autolink_nodes 32 33 nucleus attribution  5032
+create-a-node-here really 26.204 34 {he said.}
+nextSentence really
+autolink_nodes 5032 34 satelite attribution  5033
+nextSentence really
+nextSentence really
+create-a-node-here really 29.0 35 { \n\nIn national over-the-counter trading, MCI fell $2.625 to $42.375.\n}
+collapsed_nodes {5020 5031}
+autolink_nodes 5029 35 satelite elaboration-additional  5034
+create-a-node-here really 29.77 36 {Charles Schellke, an analyst with Smith Barney, Harris Upham & Co., said }
+autolink_nodes 5034 36 satelite elaboration-additional  5035
+create-a-node-here really 29.147 37 {some investors apparently expected slightly better revenue growth.}
+nextSentence really
+autolink_nodes 36 37 nucleus attribution  5036
+create-a-node-here really 31.17 38 { \n\nThe company said }
+autolink_nodes 5036 38 satelite explanation-argumentative  5037
+create-a-node-here really 31.79 39 {that residential traffic grew faster than business traffic}
+autolink_nodes 38 39 nucleus attribution  5038
+create-a-node-here really 31.138 40 { and attributed that to its new PrimeTime calling plan }
+autolink_nodes 5038 40 multinuclear List  5039
+create-a-node-here really 31.217 41 {that competes with American Telephone & Telegraph's Reach Out America plan.}
+nextSentence really
+autolink_nodes 40 41 satelite-embedded elaboration-object-attribute-e  5040
+create-a-node-here really 32.124 42 {\nMCI claims about 12% of the overall long-distance telephone market but just under 10% of the $23 billion residential market.}
+nextSentence really
+autolink_nodes 5039 42 satelite elaboration-additional  5041
+create-a-node-here really 33.66 43 {\nIt has been trying to improve its share of the residential market.}
+nextSentence really
+autolink_nodes 42 43 satelite circumstance  5042
+create-a-node-here really 34.70 44 {\nThe company wants its business mix to more closely match that of AT&T }
+autolink_nodes 43 44 satelite elaboration-additional  5043
+create-a-node-here really 34.84 45 {-- a step }
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5044
+change_rel 45 elaboration-general-specific-e
+create-a-node-here really 34.96 46 {it says }
+#autolink_nodes 45 46 satelite attribution  5045
+#UNDID
+autolink_nodes 45 46 satelite-embedded attribution-e  5045
+create-a-node-here really 34.139 47 {will help prevent cross subsidization. }
+autolink_nodes 5045 47 satelite-embedded elaboration-object-attribute-e  5046
+collapsed_nodes {5020 5031 5042}
+collapsed_nodes {5020 5031 5042 5037}
+create-a-node-here really 36.16 48 {\n\nMr. Akerson said}
+autolink_nodes 5035 48 satelite elaboration-additional  5047
+create-a-node-here really 36.94 49 { MCI recorded "another solid cash positive quarter," its fourth in a row, }
+autolink_nodes 48 49 nucleus attribution  5048
+create-a-node-here really 36.202 50 {but declined to comment on whether the company is considering a dividend or is planning any acquisition.}
+nextSentence really
+autolink_nodes 5048 50 multinuclear Contrast  5049
+create-a-node-here really 37.21 51 {\nThe current quarter, }
+autolink_nodes 5049 51 satelite explanation-argumentative  5050
+create-a-node-here really 37.34 52 {he said, }
+autolink_nodes 51 52 satelite-embedded attribution-e  5051
+nextSentence really
+create-a-node-here really 38.0 53 {"looks fine.\n}
+autolink_nodes 5051 53 multinuclear Same-Unit  5052
+create-a-node-here really 38.13 54 {We think }
+autolink_nodes 5052 54 satelite elaboration-additional  5053
+create-a-node-here really 38.47 55 {revenue will continue to grow }
+autolink_nodes 54 55 nucleus attribution  5054
+create-a-node-here really 38.81 56 {and that we can control costs }
+autolink_nodes 55 56 multinuclear List  5055
+create-a-node-here really 38.117 57 {and thus improve profitability."}
+nextSentence really
+autolink_nodes 56 57 multinuclear Cause-Result  5056
+change_constit 22 SectionTitle
+change_constit 5047 SectionText
+collapsed_nodes {5020 5031 5042 5037 5047}
+create-a-node-here really 42.0 58 { \n\nSouthwestern Bell Corp. \n\n}
+autolink_nodes 5021 58 multinuclear TextualOrganization below 5056
+create-a-node-here really 42.33 59 {Southwestern Bell Corp. said }
+autolink_nodes 58 59 multinuclear TextualOrganization  5057
+create-a-node-here really 42.101 60 {net dropped 8.7%, mainly the result of four extraordinary items:}
+autolink_nodes 59 60 nucleus attribution  5058
+create-a-node-here really 42.129 61 { a franchise tax refund }
+autolink_nodes 60 61 satelite elaboration-set-member below 5059
+create-a-node-here really 42.199 62 {that its Southwestern Bell Telephone Co. unit received last year; }
+autolink_nodes 61 62 satelite-embedded elaboration-additional-e  5060
+#create-a-node-here really 42.295 63 {a production shift of several Yellow Pages directories to the fourth quarter from the third;}
+#autolink_nodes 5060 63 multinuclear List  5061
+#UNDID
+#UNDID
+create-a-node-here really 42.375 63 {a production shift of several Yellow Pages directories to the fourth quarter from the third; a rate refund in Missouri and a one-time adjustment to phone company revenues. }
+autolink_nodes 5060 63 multinuclear List  5061
+change_rel 63 Same-Unit
+create-a-node-here really 44.57 64 {\n\nRevenue slipped 1.2% to $2.21 billion from $2.23 billion.}
+nextSentence really
+autolink_nodes 5058 64 satelite elaboration-additional  5062
+create-a-node-here really 46.36 65 { \n\nThe earnings drop had been expected.}
+nextSentence really
+autolink_nodes 64 65 satelite elaboration-additional  5063
+create-a-node-here really 47.29 66 {\nChairman Zane E. Barnes said }
+autolink_nodes 65 66 satelite explanation-argumentative  5064
+create-a-node-here really 47.77 67 {Southwestern Bell's "businesses are healthy }
+autolink_nodes 66 67 nucleus attribution  5065
+create-a-node-here really 47.109 68 {and are continuing to grow."}
+nextSentence really
+autolink_nodes 67 68 multinuclear List  5066
+create-a-node-here really 49.78 69 { \n\nThe company reported a 3.1% increase in the number of access lines in service,}
+autolink_nodes 5065 69 satelite elaboration-additional  5067
+create-a-node-here really 49.97 70 { and also said }
+autolink_nodes 69 70 multinuclear List  5068
+create-a-node-here really 49.209 71 {its Southwestern Bell Mobile Systems unit added 30,000 new customers, with a current total of about 333,000.}
+nextSentence really
+autolink_nodes 70 71 nucleus attribution  5069
+nextSentence really
+create-a-node-here really 51.97 72 { \n\nSouthwestern shares fell 50 cents to $55.875 in composite trading on the New York Stock Exchange.}
+nextSentence really
+autolink_nodes 5068 72 satelite elaboration-additional  5070
+change_constit 5062 SectionText
+change_constit 58 SectionTitle
+collapsed_nodes {5020 5031 5042 5037 5047 5062}
+create-a-node-here really 53.21 73 { \n\nCincinnati Bell Inc. }
+autolink_nodes 5021 73 multinuclear TextualOrganization below 5070
+create-a-node-here really 55.26 74 {\n\nCincinnati Bell Inc. said }
+#autolink_nodes 73 74 schema Heading  5070
+#UNDID
+autolink_nodes 73 74 multinuclear TextualOrganization  5071
+create-a-node-here really 56.0 75 {net declined 1.8%.\n}
+autolink_nodes 74 75 nucleus attribution  5072
+create-a-node-here really 56.22 76 {The company noted }
+autolink_nodes 5072 76 satelite elaboration-additional  5073
+create-a-node-here really 56.107 77 {that the year-ago period was particularly strong, with an increase of nearly 70%.}
+nextSentence really
+autolink_nodes 76 77 nucleus attribution  5074
+nextSentence really
+nextSentence really
+create-a-node-here really 57.64 78 {\nRevenue jumped nearly 17% to $223.3 million from $191.4 million.}
+nextSentence really
+autolink_nodes 5074 78 satelite explanation-argumentative  5075
+create-a-node-here really 58.90 79 {\nIn composite trading on the New York Stock Exchange, Cincinnati Bell fell 25 cents to $29.}
+nextSentence really
+autolink_nodes 5073 79 satelite elaboration-additional  5076
+create-a-node-here really 60.17 80 { \n\nThe company said }
+autolink_nodes 5076 80 satelite elaboration-additional  5077
+create-a-node-here really 60.96 81 {that the number of access lines dropped slightly in the quarter, a decline }
+autolink_nodes 80 81 nucleus attribution  5078
+create-a-node-here really 60.136 82 {attributed to seasonal fluctuations.}
+nextSentence really
+autolink_nodes 81 82 satelite-embedded elaboration-object-attribute-e below 5079
+create-a-node-here really 61.67 83 {\nFor the year, however, access lines in service have increased 5.5%.}
+nextSentence really
+autolink_nodes 5078 83 nucleus antithesis  5080
+create-a-node-here really 63.27 84 { \n\nChairman D.H. Hibbard said }
+collapsed_nodes {5020 5031 5042 5037 5047 5062 5080}
+autolink_nodes 5077 84 satelite elaboration-additional  5081
+create-a-node-here really 63.72 85 {the company has set a new five year goal }
+autolink_nodes 84 85 nucleus attribution  5082
+create-a-node-here really 63.119 86 {of doubling revenues to about $1.8 billion }
+autolink_nodes 85 86 satelite-embedded elaboration-object-attribute-e below 5083
+create-a-node-here really 63.153 87 {while steadily increasing net.}
+nextSentence really
+autolink_nodes 86 87 multinuclear Temporal-Same-Time  5084
+collapsed_nodes {5020 5031 5042 5037 5047 5062 5080 5082}
+collapsed_nodes {5020 5031 5042 5037 5047 5062 5080 5082 5077}
+collapsed_nodes {5020 5031 5042 5037 5047 5062}
+change_constit 5081 SectionText
+change_constit 73 SectionTitle
+collapsed_nodes {5020 5031 5042 5037 5047 5062 5021}
+collapsed_nodes {}
+change_constit 3 SectionTitle
+change_constit 5020 SectionText
+change_constit 22 SectionTitle
+change_constit 5047 SectionText
+change_constit 58 SectionTitle
+change_constit 5062 SectionText
+change_constit 73 SectionTitle
+change_constit 5081 SectionText
+collapsed_nodes {5002}
+collapsed_nodes {}

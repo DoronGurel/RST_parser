@@ -1,0 +1,721 @@
+nextSentence really
+create-a-node-here really 2.48 1 {\nDefense intellectuals have complained for years }
+create-a-node-here really 2.97 2 {that the Pentagon cannot determine priorities }
+create-a-node-here really 2.127 3 {because it has no strategy.}
+nextSentence really
+create-a-node-here really 3.68 4 {\nLast April, the new defense secretary, Richard Cheney, acknowledged }
+create-a-node-here really 3.99 5 {that, "given an ideal world,}
+create-a-node-here really 3.143 6 { we'd have a nice, neat, orderly process.}
+nextSentence really
+create-a-node-here really 4.21 7 {\nWe'd do the strategy }
+create-a-node-here really 4.50 8 {and then we'd come around }
+create-a-node-here really 4.71 9 {and do the budget.}
+nextSentence really
+create-a-node-here really 5.33 10 {\nThis city doesn't work that way."}
+nextSentence really
+create-a-node-here really 5.68 11 { With a five-year defense plan }
+create-a-node-here really 5.105 12 {costing more than $1.6 trillion, }
+create-a-node-here really 5.160 13 {it's about time we put together a defense strategy }
+create-a-node-here really 5.189 14 {that works in Washington.}
+nextSentence really
+#autolink_nodes 6 5 satelite circumstance  5001
+#UNDID
+autolink_nodes 6 5 satelite circumstance  5001
+autolink_nodes 4 5001 nucleus attribution  5002
+autolink_nodes 9 8 multinuclear List  5003
+autolink_nodes 5003 7 satelite enablement  5004
+autolink_nodes 5004 10 multinuclear Contrast  5005
+autolink_nodes 11 12 satelite-embedded elaboration-additional-e  5006
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 13 5006 satelite elaboration-object-attribute-e  5008
+disconnect_node 5006 disconnect
+autolink_nodes 13 5006 satelite cause  5009
+#autolink_nodes 5004 5002 satelite elaboration-additional  5010
+#UNDID
+disconnect_node 10 disconnect
+autolink_nodes 5002 5004 satelite elaboration-additional  5010
+autolink_nodes 10 5010 multinuclear Contrast  5011
+autolink_nodes 5007 5011 satelite explanation-argumentative  5012
+create-a-node-here really 7.17 15 { \n\nThis won't happen}
+create-a-node-here really 7.73 16 { until strategists come down from their ivory tower }
+create-a-node-here really 8.0 17 {and learn to work in the real world of limited budgets and uncertain futures.\n}
+create-a-node-here really 8.14 18 {As it is, }
+create-a-node-here really 8.76 19 {we identify national goals and the threats to these goals,}
+create-a-node-here really 8.101 20 { we shape a strategy }
+create-a-node-here really 8.131 21 {to counter these threats, }
+create-a-node-here really 8.159 22 {we determine the forces }
+create-a-node-here really 8.195 23 {needed to execute the strategy, }
+create-a-node-here really 8.234 24 {before finally forging the budgets }
+create-a-node-here really 8.278 25 {needed to build and maintain the forces.}
+nextSentence really
+create-a-node-here really 9.56 26 {\nThese procedures consume millions of man-hours of labor }
+create-a-node-here really 9.87 27 {and produce tons of paper, }
+create-a-node-here really 9.124 28 {and each year, their end product }
+create-a-node-here really 9.161 29 {-- the Five Year Defense Plan -- }
+create-a-node-here really 9.185 30 {promptly melts away.}
+nextSentence really
+#autolink_nodes 15 16 satelite condition  5013
+#UNDID
+#autolink_nodes 16 15 nucleus condition  5013
+#UNDID
+autolink_nodes 17 16 multinuclear Cause-Result  5013
+autolink_nodes 15 5013 satelite condition  5014
+autolink_nodes 20 21 satelite-embedded purpose-e  5015
+#autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5016
+#UNDID
+autolink_nodes 22 23 satelite-embedded purpose-e  5016
+autolink_nodes 24 25 satelite-embedded purpose-e  5017
+autolink_nodes 5015 19 multinuclear Sequence  5018
+#autolink_nodes 5018 5016 multinuclear Sequence below 5018
+#UNDID
+autolink_nodes 5018 5016 multinuclear Sequence below 5018
+#autolink_nodes 5017 5018 nucleus condition  5019
+#UNDID
+autolink_nodes 5018 5017 multinuclear Sequence below 5018
+autolink_nodes 26 27 multinuclear List  5019
+autolink_nodes 28 29 satelite-embedded restatement-e  5020
+autolink_nodes 30 5020 multinuclear Same-Unit  5021
+autolink_nodes 5021 5019 nucleus concession  5022
+autolink_nodes 5018 18 satelite circumstance  5023
+collapsed_nodes {5011}
+collapsed_nodes {5011 5018}
+collapsed_nodes {5011}
+#autolink_nodes 5023 5022 multinuclear Sequence  5024
+#UNDID
+autolink_nodes 5023 5022 multinuclear Sequence  5024
+collapsed_nodes {5011 5022}
+collapsed_nodes {5011 5022 5023}
+autolink_nodes 5014 5024 satelite explanation-argumentative  5025
+disconnect_node 5024 disconnect
+autolink_nodes 5014 5024 satelite evidence  5026
+create-a-node-here really 11.28 31 { \n\nThe graph on the left shows }
+create-a-node-here really 11.49 32 {how this happens }
+create-a-node-here really 11.84 33 {(see accompanying illustration }
+create-a-node-here really 12.0 34 {-- WSJ Oct. 30, 1989).\n}
+create-a-node-here really 12.70 35 {Compare the past eight five-year plans with actual appropriations.}
+nextSentence really
+create-a-node-here really 13.43 36 {\nThe Pentagon's strategists produce budgets }
+create-a-node-here really 13.78 37 {that simply cannot be executed }
+create-a-node-here really 13.102 38 {because they assume }
+create-a-node-here really 13.159 39 {a defense strategy depends only on goals and threats.}
+nextSentence really
+create-a-node-here really 14.64 40 {\nStrategy, however, is about possibilities, not hopes and dreams.}
+nextSentence really
+create-a-node-here really 15.19 41 {\nBy ignoring costs, }
+create-a-node-here really 15.89 42 {U.S. strategists abdicate their responsibility for hard decisions.}
+nextSentence really
+create-a-node-here really 16.63 43 {\nThat puts the real strategic decisions in the hands of others: }
+create-a-node-here really 16.113 44 {bean counters, budgeteers, and pork-barrelers.}
+nextSentence really
+create-a-node-here really 17.36 45 {\nThese people have different agendas.}
+nextSentence really
+create-a-node-here really 18.16 46 {\nAnd as a result }
+create-a-node-here really 18.55 47 {-- as the recent vote by the House }
+create-a-node-here really 18.101 48 {to undo Mr. Cheney's program terminations }
+create-a-node-here really 18.114 49 {suggests }
+create-a-node-here really 18.194 50 {-- the preservation of jobs is becoming the real goal of defense "strategy."}
+nextSentence really
+create-a-node-here really 20.38 51 { \n\nHow can we turn this situation around?}
+nextSentence really
+autolink_nodes 32 31 satelite attribution  5027
+autolink_nodes 5027 33 satelite elaboration-additional  5028
+autolink_nodes 33 34 satelite attribution  5029
+autolink_nodes 36 35 satelite comparison  5030
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e below 5031
+autolink_nodes 39 38 satelite attribution  5032
+autolink_nodes 5030 5032 multinuclear Reason  5033
+autolink_nodes 42 41 satelite manner  5034
+autolink_nodes 43 44 satelite-embedded elaboration-set-member-e  5035
+#autolink_nodes 46 47 satelite-embedded evidence-e  5036
+#UNDID
+#autolink_nodes 47 48 satelite-embedded evidence-e  5036
+#UNDID
+#autolink_nodes 46 47 satelite-embedded evidence-e  5036
+#autolink_nodes 47 48 satelite-embedded purpose-e  5037
+#disconnect_node 5037 disconnect
+#UNDID
+#disconnect_node 5037 disconnect
+#UNDID
+#disconnect_node 5037 disconnect
+#UNDID
+#disconnect_node 5037 disconnect
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 47 48 satelite-embedded evidence-e  5036
+#autolink_nodes 5036 49 multinuclear Same-Unit  5037
+#autolink_nodes 49 50 nucleus attribution  5038
+#UNDID
+#autolink_nodes 49 50 nucleus attribution  5038
+#UNDID
+#UNDID
+#autolink_nodes 50 49 satelite attribution  5037
+#UNDID
+autolink_nodes 5036 49 multinuclear Same-Unit  5037
+autolink_nodes 50 5037 satelite attribution  5038
+autolink_nodes 5037 46 multinuclear Same-Unit below 5038
+autolink_nodes 5035 5034 multinuclear Cause-Result  5039
+autolink_nodes 44 45 satelite elaboration-additional  5040
+collapsed_nodes {5011 5022 5023 5037}
+#autolink_nodes 5039 5038 nucleus consequence-n  5041
+#UNDID
+autolink_nodes 5039 5038 nucleus consequence-n  5041
+collapsed_nodes {5011 5022 5023 5037 5039}
+#autolink_nodes 5033 40 satelite interpretation-s  5042
+#UNDID
+autolink_nodes 5032 40 multinuclear Contrast  5042
+collapsed_nodes {5011 5022 5023 5037}
+collapsed_nodes {5011 5022 5023 5037 5039}
+autolink_nodes 5041 5033 multinuclear Consequence  5043
+collapsed_nodes {5011 5022 5023 5037 5039 5041}
+collapsed_nodes {5011 5022 5023 5037 5039 5041 5042}
+autolink_nodes 5028 5043 satelite evidence  5044
+collapsed_nodes {5011 5022 5023 5037 5039 5041 5042 5043}
+collapsed_nodes {5011 5037 5039 5041 5042 5043}
+collapsed_nodes {5011 5037 5039 5041 5042 5043 5024}
+autolink_nodes 5024 5044 satelite evidence  5045
+collapsed_nodes {5011 5037 5039 5041 5042 5043 5022 5023 5044}
+autolink_nodes 2 1 satelite attribution  5046
+autolink_nodes 5046 3 satelite reason  5047
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5007}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011}
+autolink_nodes 5012 5047 satelite circumstance  5048
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047}
+autolink_nodes 5048 5026 satelite explanation-argumentative  5049
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026}
+create-a-node-here really 23.0 52 { \n\nReform starts in the Pentagon.\n}
+create-a-node-here really 23.108 53 {Strategists should consider the impact of budget uncertainties at the beginning of the planning process.}
+nextSentence really
+create-a-node-here really 24.22 54 {\nThey ought to examine }
+create-a-node-here really 24.117 55 {how a range of optimistic to pessimistic budget scenarios would change the defense program.}
+nextSentence really
+create-a-node-here really 25.35 56 {\nThey would then develop priorities }
+create-a-node-here really 25.85 57 {by identifying the least painful program cuts }
+create-a-node-here really 25.132 58 {as they moved from higher to lower budgets.}
+nextSentence really
+create-a-node-here really 26.38 59 {\nThey would also identify the best way }
+create-a-node-here really 26.58 60 {to add programs,}
+create-a-node-here really 26.106 61 { should the budget come in at higher levels.}
+nextSentence really
+create-a-node-here really 27.82 62 {\nThis kind of contingency analysis is common in war planning and business planning.}
+nextSentence really
+create-a-node-here really 28.19 63 {\nThere is no reason }
+create-a-node-here really 28.68 64 {that it can not be done for defense planning.}
+nextSentence really
+autolink_nodes 55 54 satelite attribution  5050
+#autolink_nodes 56 57 satelite-embedded manner-e  5051
+#UNDID
+autolink_nodes 56 57 satelite-embedded manner-e  5051
+autolink_nodes 5051 58 satelite circumstance  5052
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5053
+autolink_nodes 5053 61 satelite condition  5054
+autolink_nodes 53 5050 satelite manner  5055
+autolink_nodes 5052 5055 multinuclear Sequence  5056
+autolink_nodes 5056 5054 multinuclear Sequence below 5056
+autolink_nodes 63 64 satelite-embedded elaboration-object-attribute-e  5057
+autolink_nodes 62 5057 satelite interpretation-s  5058
+autolink_nodes 53 52 satelite circumstance below 5059
+autolink_nodes 5056 5058 satelite definition  5060
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058}
+create-a-node-here really 30.24 65 { \n\nTwo steps are necessary }
+create-a-node-here really 31.0 66 {to translate this idea into action.\n}
+create-a-node-here really 31.31 67 {Step 1 cleans up our books.}
+nextSentence really
+create-a-node-here really 32.53 68 {\nOur five-year plan contains three accounting devices }
+create-a-node-here really 32.151 69 {-- negative money, an above guidance management reserve and optimistic inflation estimates -- }
+create-a-node-here really 32.185 70 {which understate the spending }
+create-a-node-here really 32.226 71 {the Pentagon has committed itself to }
+create-a-node-here really 32.253 72 {by almost $100 billion.}
+nextSentence really
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050}
+autolink_nodes 65 66 satelite-embedded purpose-e  5061
+autolink_nodes 68 69 satelite-embedded restatement-e  5062
+autolink_nodes 5062 70 satelite-embedded elaboration-object-attribute-e  5063
+autolink_nodes 70 71 satelite-embedded elaboration-object-attribute-e  5064
+autolink_nodes 5064 72 multinuclear Same-Unit  5065
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065}
+create-a-node-here really 34.36 73 { \n\nNegative money was invented in 1988 }
+create-a-node-here really 34.164 74 {to make the 1990-94 Five Year Defense Plan conform to the numbers in President Reagan's final budget submission to Congress.}
+nextSentence really
+create-a-node-here really 35.31 75 {\nThat plan exceeded the numbers }
+create-a-node-here really 35.67 76 {contained in his budget message }
+create-a-node-here really 35.86 77 {by $45 billion.}
+nextSentence really
+create-a-node-here really 36.27 78 {\nTo make the books balance, }
+create-a-node-here really 36.54 79 {as is required by law, }
+create-a-node-here really 36.99 80 {somebody invented a new budget line item }
+create-a-node-here really 36.138 81 {that simply subtracted $45 billion.}
+nextSentence really
+create-a-node-here really 37.52 82 {\nIt is known in the Pentagon as the "negative wedge."}
+nextSentence really
+autolink_nodes 73 74 satelite purpose  5066
+autolink_nodes 75 76 satelite-embedded elaboration-object-attribute-e  5067
+autolink_nodes 77 5067 multinuclear Same-Unit  5068
+autolink_nodes 78 79 satelite-embedded circumstance-e  5069
+autolink_nodes 80 5069 satelite purpose  5070
+autolink_nodes 80 81 satelite-embedded elaboration-object-attribute-e below 5071
+autolink_nodes 5070 5068 multinuclear Cause-Result  5072
+autolink_nodes 5070 82 satelite definition  5073
+autolink_nodes 5066 5072 satelite elaboration-general-specific  5074
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072}
+create-a-node-here really 39.20 83 { \n\nThe Pentagon argues }
+create-a-node-here really 39.131 84 {that the negative wedge is the net effect of $22 billion in the as-yet unidentified procurement reductions }
+create-a-node-here really 39.175 85 {that it intends to find in future years }
+create-a-node-here really 39.237 86 {and $23 billion in an "above guidance" management reserve }
+create-a-node-here really 39.277 87 {that accounts for undefined programs}
+create-a-node-here really 39.318 88 { that will materialize in the future.}
+nextSentence really
+create-a-node-here really 41.27 89 { \n\nThe 1990 plan also assumes }
+create-a-node-here really 41.70 90 {inflation will decline to 1.7% by 1994.}
+nextSentence really
+create-a-node-here really 42.17 91 {\nMost forecasters,}
+create-a-node-here really 42.73 92 { including those in the Congressional Budget Office,}
+create-a-node-here really 42.85 93 { assume }
+create-a-node-here really 42.151 94 {inflation will be in excess of 4% in each of those five years.}
+nextSentence really
+create-a-node-here really 43.61 95 {\nAt that rate, the defense plan is underfunded by $48 billion.}
+nextSentence really
+create-a-node-here really 45.29 96 { \n\nBy adding the negative wedge }
+create-a-node-here really 45.73 97 {and recalculating the remaining program }
+create-a-node-here really 45.119 98 {using a more probable inflation estimate, }
+create-a-node-here really 45.155 99 {we arrive at a baseline program }
+create-a-node-here really 45.203 100 {costing $1.7 trillion between 1990 and 1994.}
+nextSentence really
+autolink_nodes 84 85 satelite-embedded elaboration-object-attribute-e  5075
+autolink_nodes 86 5075 multinuclear Same-Unit  5076
+autolink_nodes 5076 83 satelite attribution  5077
+autolink_nodes 86 87 satelite-embedded elaboration-object-attribute-e  5078
+autolink_nodes 87 88 satelite-embedded elaboration-object-attribute-e  5079
+autolink_nodes 90 89 satelite attribution  5080
+autolink_nodes 91 92 satelite-embedded elaboration-set-member-e  5081
+autolink_nodes 93 5081 multinuclear Same-Unit  5082
+autolink_nodes 94 5082 satelite attribution  5083
+autolink_nodes 96 97 multinuclear List  5084
+autolink_nodes 97 98 satelite-embedded means-e  5085
+autolink_nodes 99 5084 satelite means  5086
+autolink_nodes 99 100 satelite-embedded elaboration-object-attribute-e below 5087
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078}
+#autolink_nodes 5080 5083 multinuclear Contrast  5088
+#UNDID
+autolink_nodes 5080 5083 multinuclear Contrast  5088
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083}
+autolink_nodes 5077 5088 satelite circumstance  5089
+autolink_nodes 95 5089 multinuclear Cause-Result  5090
+autolink_nodes 95 5086 multinuclear List  5091
+disconnect_node 5091 disconnect
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088}
+#autolink_nodes 5089 5091 satelite consequence-s  5092
+#UNDID
+autolink_nodes 5091 5089 satelite result  5092
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084}
+autolink_nodes 5092 5074 satelite background  5093
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091}
+autolink_nodes 5063 5093 satelite explanation-argumentative  5094
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062}
+create-a-node-here really 47.88 101 { \n\nStep 2 examines how four progressively lower budget scenarios would change the baseline }
+create-a-node-here really 48.0 102 {and how these changes would affect our national security.\n}
+create-a-node-here really 48.28 103 {The graph on the right }
+create-a-node-here really 48.73 104 {(which assumes a 4% rate of inflation), }
+create-a-node-here really 48.141 105 {places these scenarios in the context of recent appropriations }
+create-a-node-here really 48.177 106 {(see accompanying illustration }
+create-a-node-here really 48.204 107 {-- WSJ Oct. 30, 1989).}
+nextSentence really
+create-a-node-here really 49.80 108 {\nNote how the baseline program assumes a sharp increase in future appropriations.}
+#nextSentence really
+#autolink_nodes 101 102 multinuclear Consequence  5095
+#autolink_nodes 103 104 satelite-embedded elaboration-additional-e  5096
+#autolink_nodes 105 5096 multinuclear Same-Unit  5097
+#autolink_nodes 5097 106 satelite elaboration-additional  5098
+#UNDID
+#autolink_nodes 106 107 satelite-embedded elaboration-additional-e  5098
+#autolink_nodes 5097 5098 satelite-embedded elaboration-additional-e  5099
+#create-a-node-here really 50.33 109 {\nStep 2 will answer the question: }
+#create-a-node-here really 50.90 110 {What happens if these increases do not materialize? }
+#autolink_nodes 5099 108 satelite interpretation-s  5100
+#autolink_nodes 5095 5100 satelite evidence  5101
+#collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 102 101 multinuclear Consequence  5095
+autolink_nodes 103 104 satelite-embedded elaboration-additional-e  5096
+autolink_nodes 5096 105 multinuclear Same-Unit  5097
+autolink_nodes 5097 106 satelite-embedded elaboration-additional-e  5098
+autolink_nodes 106 107 satelite-embedded elaboration-additional-e  5099
+autolink_nodes 5098 108 satelite interpretation-s  5100
+autolink_nodes 5095 5100 satelite evidence  5101
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100}
+create-a-node-here really 50.32 109 {\nStep 2 will answer the question:}
+create-a-node-here really 50.51 110 { What happens }
+create-a-node-here really 50.94 111 {if these increases do not materialize?}
+nextSentence really
+autolink_nodes 110 111 satelite condition  5102
+autolink_nodes 109 5102 satelite-embedded elaboration-object-attribute-e  5103
+create-a-node-here really 52.12 112 { \n\nScenario 1, }
+create-a-node-here really 52.56 113 {known as the "Constant Dollar Freeze," }
+create-a-node-here really 52.104 114 {reimburses the Pentagon for inflation only }
+create-a-node-here really 52.144 115 {-- it slopes upward at 4% per year.}
+nextSentence really
+create-a-node-here really 53.72 116 {\nThis scenario has been the rough position of the U.S. Senate since 1985,}
+create-a-node-here really 53.144 117 { and it reduces the baseline by $106 billion between 1990 and 1994.}
+nextSentence really
+create-a-node-here really 55.128 118 { \n\nScenario 3, the "Current Dollar Freeze," has been the approximate position of the House of Representatives for about four years.}
+nextSentence really
+create-a-node-here really 56.43 119 {\nIt freezes the budget at its current level,}
+create-a-node-here really 56.116 120 { and forces the Pentagon to eat the effects of inflation until 1994.}
+nextSentence really
+create-a-node-here really 57.42 121 {\nThis reduces the baseline by $229 billion.}
+nextSentence really
+create-a-node-here really 59.76 122 { \n\nScenario 2 extends the recent compromises between the House and the Senate; }
+create-a-node-here really 59.133 123 {it splits the difference between Scenarios 1 and 3, }
+create-a-node-here really 59.178 124 {by increasing the budget at 2% per year.}
+nextSentence really
+create-a-node-here really 60.40 125 {\nIt reduces the baseline by $169 billion.}
+nextSentence really
+autolink_nodes 112 113 satelite-embedded elaboration-additional-e  5104
+autolink_nodes 5104 114 multinuclear Same-Unit  5105
+#autolink_nodes 5105 115 satelite elaboration-additional  5106
+#UNDID
+autolink_nodes 5105 115 satelite consequence-s  5106
+autolink_nodes 117 116 satelite background  5107
+autolink_nodes 5106 5107 satelite consequence-s  5108
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107}
+#autolink_nodes 120 119 multinuclear Cause-Result  5109
+#UNDID
+autolink_nodes 120 119 multinuclear Cause-Result  5109
+autolink_nodes 5109 118 satelite background  5110
+autolink_nodes 5110 121 satelite consequence-s  5111
+autolink_nodes 123 124 satelite means  5112
+autolink_nodes 125 5112 multinuclear Cause-Result  5113
+autolink_nodes 5113 122 satelite background  5114
+create-a-node-here really 62.78 126 { \n\nFinally, Scenario 4 reduces the budget by 2% per year for the next five years }
+create-a-node-here really 63.0 127 {-- a total reduction of $287 billion.\n}
+create-a-node-here really 63.57 128 {This can be thought of as a pessimistic prediction, }
+create-a-node-here really 63.206 129 {perhaps driven by the sequestering effects of the Gramm-Rudman deficit reduction law or possibly a relaxation of tensions with the Soviet Union.}
+nextSentence really
+autolink_nodes 126 127 satelite-embedded consequence-s-e  5115
+autolink_nodes 128 129 satelite-embedded elaboration-additional-e  5116
+autolink_nodes 5115 5116 satelite evaluation-s  5117
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109}
+autolink_nodes 5111 5108 multinuclear List  5118
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111}
+autolink_nodes 5118 5114 multinuclear List below 5118
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115}
+autolink_nodes 5118 5117 multinuclear List below 5118
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108}
+create-a-node-here really 65.121 130 { \n\nThe strategic planners in the Joint Chiefs of Staff would construct the most effective defense program for each scenario,}
+create-a-node-here really 65.148 131 { maximizing strengths }
+create-a-node-here really 65.179 132 {and minimizing weaknesses.}
+nextSentence really
+create-a-node-here really 66.34 133 {\nThey would conclude their efforts }
+create-a-node-here really 66.97 134 {by producing a comprehensive net assessment for each plan }
+create-a-node-here really 66.240 135 {-- including the assumptions made, an analysis of its deficiencies and limitations, the impact on national security, and the best strategy}
+create-a-node-here really 66.283 136 { for working around these limitations.}
+nextSentence really
+create-a-node-here really 68.65 137 { \n\nThis exercise would reveal the true cost of a particular program }
+create-a-node-here really 68.120 138 {by forcing the strategists to make hard decisions.}
+nextSentence really
+create-a-node-here really 69.60 139 {\nIf, for example, they choose to keep the B-2 Stealth bomber,}
+create-a-node-here really 69.124 140 { they would have to sacrifice more and more other programs }
+create-a-node-here really 69.182 141 {-- such as carrier battlegroups or army divisions -- }
+create-a-node-here really 69.228 142 {as they moved toward lower budget levels.}
+nextSentence really
+create-a-node-here really 70.41 143 {\nThese trade-offs would evolve priorities }
+create-a-node-here really 70.59 144 {by revealing }
+create-a-node-here really 70.108 145 {when the cost of the B-2 became prohibitive.}
+nextSentence really
+autolink_nodes 5102 5118 satelite elaboration-general-specific  5119
+autolink_nodes 132 131 multinuclear List  5120
+autolink_nodes 130 5120 satelite-embedded manner-e  5121
+autolink_nodes 133 134 satelite means  5122
+autolink_nodes 134 135 satelite-embedded elaboration-set-member-e  5123
+#autolink_nodes 5123 136 satelite purpose  5124
+#UNDID
+autolink_nodes 5123 136 satelite-embedded purpose-e  5124
+#autolink_nodes 137 138 satelite purpose  5125
+#UNDID
+autolink_nodes 137 138 satelite means  5125
+autolink_nodes 140 139 satelite condition  5126
+autolink_nodes 140 141 satelite-embedded example-e below 5127
+autolink_nodes 5127 142 satelite circumstance below 5128
+autolink_nodes 145 144 satelite attribution  5129
+autolink_nodes 143 5129 satelite means  5130
+autolink_nodes 5126 5130 satelite consequence-s  5131
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130}
+autolink_nodes 5125 5131 satelite example  5132
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131}
+#autolink_nodes 5121 5122 multinuclear List  5133
+#UNDID
+autolink_nodes 5121 5122 satelite elaboration-general-specific  5133
+autolink_nodes 5122 5132 satelite consequence-s  5134
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134}
+create-a-node-here really 72.29 146 { \n\nSome may be tempted to argue }
+create-a-node-here really 72.122 147 {that the idea of a strategic review merely resurrects the infamous Zero-Based Budgeting }
+create-a-node-here really 72.133 148 {(ZBB) }
+create-a-node-here really 73.0 149 {concept of the Carter administration.\n}
+create-a-node-here really 73.81 150 {But ZBB did not involve the strategic planners in the Joint Chiefs of Staff,}
+create-a-node-here really 73.140 151 { and therefore degenerated into a bean-counting drill }
+create-a-node-here really 73.171 152 {driven by budget politics.}
+nextSentence really
+create-a-node-here really 74.44 153 {\nAnyway, ZBB's procedures were so cumbersome }
+create-a-node-here really 74.113 154 {that everyone involved was crushed under a burden of marginalia.}
+nextSentence really
+create-a-node-here really 75.46 155 {\nA strategic review is fundamentally different.}
+nextSentence really
+create-a-node-here really 76.61 156 {\nIt would be run by the joint chiefs under simple directions: }
+create-a-node-here really 76.123 157 {Produce the best possible force for each budget scenario }
+create-a-node-here really 76.201 158 {and provide the Secretary of Defense with a comprehensive net assessment }
+create-a-node-here really 76.238 159 {of how that force could be used }
+create-a-node-here really 76.265 160 {to achieve U.S. goals.}
+nextSentence really
+autolink_nodes 147 148 satelite-embedded restatement-e  5135
+#autolink_nodes 5135 149 satelite-embedded elaboration-object-attribute-e  5136
+#UNDID
+autolink_nodes 5135 149 satelite-embedded elaboration-additional-e  5136
+autolink_nodes 5136 146 satelite attribution  5137
+autolink_nodes 151 150 multinuclear Cause-Result  5138
+autolink_nodes 151 152 satelite-embedded elaboration-object-attribute-e  5139
+autolink_nodes 153 154 satelite consequence-s  5140
+autolink_nodes 158 159 satelite-embedded elaboration-object-attribute-e  5141
+autolink_nodes 159 160 satelite-embedded purpose-e  5142
+autolink_nodes 5141 157 multinuclear List  5143
+autolink_nodes 156 5143 satelite elaboration-general-specific  5144
+autolink_nodes 5138 5140 satelite elaboration-additional  5145
+autolink_nodes 5137 5145 multinuclear Contrast  5146
+autolink_nodes 155 5144 satelite explanation-argumentative  5147
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145}
+#autolink_nodes 5146 5147 multinuclear Contrast below 5147
+#UNDID
+autolink_nodes 5147 5146 multinuclear Contrast  5148
+autolink_nodes 5101 5094 multinuclear List  5149
+disconnect_node 5101 disconnect
+autolink_nodes 67 5094 satelite elaboration-general-specific  5150
+autolink_nodes 5101 5150 multinuclear List  5151
+autolink_nodes 5101 5103 satelite elaboration-general-specific  5152
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103}
+autolink_nodes 5061 5151 satelite elaboration-general-specific  5153
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151}
+create-a-node-here really 78.86 161 { \n\nIt might be feared that even thinking about lower budgets will hurt national security }
+create-a-node-here really 78.184 162 {because the door will be opened to opportunistic budget cutting by an irresponsible Congress.}
+create-a-node-here really 79.66 163 {\nThis argument plays well in the atmosphere of gaming and mistrust }
+create-a-node-here really 79.109 164 {permeating the Pentagon and Congress, }
+create-a-node-here really 79.159 165 {and unfortunately, there is some truth to it.}
+nextSentence really
+create-a-node-here really 80.73 166 {\nBut in the end, it must be rejected for logical as well as moral reasons.}
+nextSentence really
+create-a-node-here really 81.50 167 {\nTo say that the Pentagon should act irresponsibly }
+#create-a-node-here really 81.136 168 {because acting responsibly will provoke Congress into acting irresponsibly leads }
+#create-a-node-here really 81.159 169 {to the conclusion }
+#create-a-node-here really 81.249 170 {that the Pentagon should deliberately exaggerate its needs in the national interest; }
+#create-a-node-here really 81.313 171 {in other words, that it is justified in committing a crime }
+#create-a-node-here really 81.342 172 {-- lying to Congress -- }
+#create-a-node-here really 81.378 173 {because it is morally superior.}
+#nextSentence really
+#autolink_nodes 162 161 multinuclear Cause-Result  5154
+#autolink_nodes 163 164 satelite consequence-s  5155
+#autolink_nodes 5155 165 satelite evaluation-s  5156
+#autolink_nodes 168 167 satelite cause  5157
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 81.154 168 {because acting responsibly will provoke Congress into acting irresponsibly leads to the conclusion }
+#UNDID
+create-a-node-here really 81.130 168 {because acting responsibly will provoke Congress into acting irresponsibly }
+create-a-node-here really 81.159 169 {leads to the conclusion }
+create-a-node-here really 81.249 170 {that the Pentagon should deliberately exaggerate its needs in the national interest; }
+create-a-node-here really 81.313 171 {in other words, that it is justified in committing a crime }
+create-a-node-here really 81.342 172 {-- lying to Congress -- }
+create-a-node-here really 81.379 173 {because it is morally superior. }
+autolink_nodes 162 161 multinuclear Cause-Result  5154
+autolink_nodes 163 164 satelite-embedded elaboration-additional-e  5155
+autolink_nodes 5155 165 satelite evaluation-s  5156
+autolink_nodes 167 168 satelite cause  5157
+autolink_nodes 169 5157 multinuclear Same-Unit  5158
+autolink_nodes 169 170 satelite-embedded elaboration-object-attribute-e  5159
+autolink_nodes 171 172 satelite-embedded elaboration-general-specific-e  5160
+autolink_nodes 5160 173 satelite reason  5161
+autolink_nodes 5158 5161 satelite interpretation-s  5162
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161}
+autolink_nodes 166 5162 satelite explanation-argumentative  5163
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162}
+autolink_nodes 5154 5156 satelite evaluation-s  5164
+autolink_nodes 5164 5163 satelite concession  5165
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156}
+create-a-node-here really 83.58 174 {\n\nStrategy is not a game between the Pentagon and Congress; }
+create-a-node-here really 83.104 175 {it is the art of the possible in a world }
+create-a-node-here really 83.191 176 {where constraints force us to choose between unpleasant or imperfect alternatives.}
+nextSentence really
+create-a-node-here really 84.34 177 {\nIf we want meaningful priorities, }
+create-a-node-here really 84.73 178 {we must understand the trade-offs }
+create-a-node-here really 84.89 179 {they imply }
+create-a-node-here really 84.121 180 {before we make commitments.}
+nextSentence really
+create-a-node-here really 85.78 181 {\nStrategy is not a separate event in an idealized sequence of discrete events; }
+create-a-node-here really 85.95 182 {it is a way }
+create-a-node-here really 85.112 183 {of thinking }
+create-a-node-here really 85.236 184 {that neutralizes threats to our interests in a manner consistent with our financial, cultural and physical limitations.}
+nextSentence really
+autolink_nodes 175 176 satelite-embedded elaboration-object-attribute-e  5166
+autolink_nodes 5166 174 multinuclear Contrast  5167
+autolink_nodes 178 179 satelite-embedded elaboration-object-attribute-e  5168
+autolink_nodes 5168 180 satelite temporal-before  5169
+autolink_nodes 5169 177 satelite condition  5170
+autolink_nodes 182 183 satelite-embedded elaboration-object-attribute-e  5171
+autolink_nodes 183 184 satelite-embedded elaboration-object-attribute-e  5172
+autolink_nodes 5171 181 multinuclear Contrast  5173
+autolink_nodes 5166 5170 satelite explanation-argumentative  5174
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170}
+#autolink_nodes 5173 5167 multinuclear Contrast below 5174
+#UNDID
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171}
+#autolink_nodes 5167 5173 multinuclear Contrast below 5174
+#UNDID
+autolink_nodes 5173 5167 multinuclear Contrast above 5175
+autolink_nodes 5153 5133 satelite elaboration-additional  5176
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133}
+autolink_nodes 5060 5176 satelite elaboration-general-specific  5177
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5058 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133}
+disconnect_node 5058 disconnect
+disconnect_node 5057 disconnect
+disconnect_node 5176 disconnect
+autolink_nodes 5057 62 satelite enablement  5178
+autolink_nodes 5056 5178 satelite explanation-argumentative  5179
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178}
+autolink_nodes 5176 5179 nucleus elaboration-general-specific  5180
+autolink_nodes 5165 5148 multinuclear List  5181
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165}
+#autolink_nodes 5175 5181 multinuclear Contrast below 5181
+#UNDID
+#autolink_nodes 5175 5181 multinuclear Contrast below 5181
+#UNDID
+autolink_nodes 5181 5175 multinuclear List below 5181
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176}
+#autolink_nodes 5181 5180 nucleus elaboration-general-specific  5182
+#UNDID
+autolink_nodes 5181 5180 nucleus explanation-argumentative  5182
+autolink_nodes 5182 51 nucleus question-answer-n  5183
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182}
+autolink_nodes 5183 5049 multinuclear Problem-Solution  5184
+create-a-node-here really 88.0 185 { \n\nMr. Spinney is a permanent Pentagon official.\n}
+create-a-node-here really 88.45 186 {This is a condensed version of an essay }
+create-a-node-here really 88.123 187 {that will appear in the January issue of the Naval Institute Proceedings.}
+nextSentence really
+create-a-node-here really 89.84 188 {\nThe views expressed do not reflect the official policy of the Department of Defense.}
+#nextSentence really
+#autolink_nodes 186 187 satelite-embedded elaboration-additional-e  5185
+#autolink_nodes 5185 188 satelite interpretation-s  5186
+#UNDID
+#UNDID
+#UNDID
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5047 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182}
+autolink_nodes 186 187 satelite-embedded elaboration-additional-e  5185
+autolink_nodes 5185 185 multinuclear List  5186
+#autolink_nodes 5186 188 multinuclear List below 5186
+#UNDID
+autolink_nodes 5186 188 multinuclear List below 5186
+change_constit 5184 Text
+change_constit 5186 Footnote
+autolink_nodes 5186 5184 multinuclear TextualOrganization above 5187
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5011 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182 5047}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182 5047}
+disconnect_node 5004 disconnect
+autolink_nodes 5002 5004 satelite definition  5188
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182 5047}
+collapsed_nodes {5037 5039 5041 5042 5043 5022 5023 5044 5026 5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182 5047 5011}
+collapsed_nodes {5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182 5047 5011}
+#disconnect_node 5013 disconnect
+#UNDID
+disconnect_node 17 disconnect
+autolink_nodes 16 17 multinuclear Sequence  5189
+disconnect_node 5023 disconnect
+#autolink_nodes 5019 5023 satelite consequence-s below 5190
+#UNDID
+#autolink_nodes 5019 5023 nucleus consequence-n  5190
+#UNDID
+#autolink_nodes 5019 5023 nucleus consequence-s  5190
+#UNDID
+autolink_nodes 5019 5023 nucleus consequence-n  5190
+disconnect_node 5021 disconnect
+autolink_nodes 5019 5021 multinuclear List below 5190
+disconnect_node 35 disconnect
+autolink_nodes 5031 35 satelite result  5191
+disconnect_node 5033 disconnect
+autolink_nodes 5039 5033 multinuclear Cause-Result above 5192
+collapsed_nodes {5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182 5047 5011 5045}
+collapsed_nodes {5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182 5047 5011 5045 5186}
+collapsed_nodes {5052 5054 5050 5065 5072 5078 5083 5088 5076 5084 5074 5091 5062 5100 5107 5116 5113 5109 5111 5115 5108 5130 5131 5132 5134 5144 5145 5103 5151 5161 5162 5163 5156 5170 5171 5133 5178 5147 5165 5175 5137 5176 5182 5047 5011 5045 5186 5026}
+collapsed_nodes {5047 5011 5045 5186 5026}
+collapsed_nodes {5047 5011 5045 5186 5026 5054}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065 5062}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065 5062 5100}
+disconnect_node 120 disconnect
+autolink_nodes 119 120 multinuclear Sequence  5193
+disconnect_node 121 disconnect
+autolink_nodes 5193 121 multinuclear Cause-Result above 5194
+disconnect_node 122 disconnect
+autolink_nodes 5112 122 satelite background  5195
+disconnect_node 118 disconnect
+autolink_nodes 5193 118 satelite background  5196
+disconnect_node 115 disconnect
+autolink_nodes 5105 115 multinuclear Sequence above 5197
+disconnect_node 5107 disconnect
+autolink_nodes 5197 5107 multinuclear Cause-Result above 5198
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065 5062 5100 5198}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065 5062 5100 5198 5113}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065 5062 5100 5198 5113 5194}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065 5062 5100 5198 5113 5194 5117}
+disconnect_node 5118 disconnect
+autolink_nodes 5102 5118 multinuclear Question-Answer  5199
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065 5062 5100 5198 5113 5194 5117 5103}
+disconnect_node 5134 disconnect
+autolink_nodes 5121 5134 multinuclear Sequence  5200
+disconnect_node 5132 disconnect
+autolink_nodes 5200 5132 satelite consequence-s  5201
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065 5062 5100 5198 5113 5194 5117 5103 5122}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065 5062 5100 5198 5113 5194 5117 5103 5122 5132}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065 5062 5100 5198 5113 5194 5117 5103 5122 5132 5176}
+collapsed_nodes {5047 5011 5045 5186 5026 5054 5178 5088 5093 5065 5062 5100 5198 5113 5194 5117 5103 5122 5132 5176 5148}
+disconnect_node 5163 disconnect
+autolink_nodes 5164 5163 satelite interpretation-s  5202
+collapsed_nodes {5047 5011 5186 5054 5178 5088 5093 5065 5062 5100 5198 5113 5194 5117 5103 5122 5132 5176 5148}
+collapsed_nodes {5047 5011 5186 5054 5178 5088 5093 5065 5062 5100 5198 5113 5194 5117 5103 5122 5132 5176 5148 5183}
+collapsed_nodes {5186 5054 5178 5088 5093 5065 5062 5100 5198 5113 5194 5117 5103 5122 5132 5176 5148 5183}
+collapsed_nodes {5186}
+collapsed_nodes {}
+collapsed_nodes {}

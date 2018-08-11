@@ -1,0 +1,35 @@
+nextSentence really
+create-a-node-here really 2.118 1 {\nRockwell International Corp. bought out Ikegai Corp. 's interest in Ikegai-Goss, a joint venture of the two companies }
+create-a-node-here really 2.136 2 {based in Tokyo.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 3.29 3 {\nThe price was 3.6 billion yen}
+create-a-node-here really 3.47 4 { ($25 million).}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded restatement-e  5002
+create-a-node-here really 5.23 5 { \n\nThe agreement provides }
+create-a-node-here really 5.82 6 {that Ikegai Corp. will remain a supplier to Ikegai-Goss,}
+create-a-node-here really 5.142 7 { which makes printing presses for the newspaper industry.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-additional-e  5003
+#autolink_nodes 5 5003 nucleus attribution  5004
+#UNDID
+autolink_nodes 5 5003 nucleus attribution  5004
+autolink_nodes 5001 5002 satelite elaboration-additional  5005
+autolink_nodes 5005 5004 satelite elaboration-additional  5006
+create-a-node-here really 6.107 8 {\nThe purchase was made by Rockwell Graphic Systems, a Chicago subsidiary of the El Segundo, Calif., concern.}
+nextSentence really
+autolink_nodes 5006 8 satelite elaboration-additional  5007
+create-a-node-here really 8.12 9 { \n\nIkegai-Goss,}
+create-a-node-here really 8.46 10 { which has about 200 employees,}
+create-a-node-here really 8.110 11 { is among the industry leaders in keyless inking technology,}
+create-a-node-here really 8.154 12 { which reduces time and materials waste }
+create-a-node-here really 8.194 13 {when preparing a press for printing.}
+nextSentence really
+autolink_nodes 12 13 satelite circumstance  5008
+autolink_nodes 11 5008 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 9 10 satelite-embedded elaboration-additional-e  5010
+autolink_nodes 5009 5010 multinuclear Same-Unit  5011
+#autolink_nodes 5007 5011 satelite background  5012
+#UNDID
+autolink_nodes 5007 5011 satelite elaboration-additional  5012

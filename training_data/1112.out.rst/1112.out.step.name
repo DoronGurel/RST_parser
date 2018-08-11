@@ -1,0 +1,12 @@
+nextSentence really
+create-a-node-here really 2.128 1 {\nJohn B. Curcio, 55 years old, resigned as chairman of this diesel truck manufacturer, effective upon appointment of a successor.}
+nextSentence really
+create-a-node-here really 3.82 2 {\nLast month, Mr. Curcio was succeeded by Ralph E. Reins as chief executive officer }
+create-a-node-here really 3.151 3 {following several quarters of lackluster or declining performance.}
+nextSentence really
+#autolink_nodes 2 3 satelite temporal-after  5001
+#UNDID
+autolink_nodes 2 3 satelite consequence-n  5001
+autolink_nodes 1 5001 satelite elaboration-additional  5002
+nextSentence really
+nextSentence really

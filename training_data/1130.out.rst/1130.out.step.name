@@ -1,0 +1,80 @@
+nextSentence really
+create-a-node-here really 2.85 1 {\nThe state attorney general's office filed suit against five New York brokerage firms,}
+create-a-node-here really 2.155 2 { charging them with responsibility for much of a $200 million loss }
+create-a-node-here really 2.207 3 {incurred by the state treasurer's office in 1987.}
+nextSentence really
+create-a-node-here really 4.61 4 { \n\nThe suit sets the firms' liability at more than $185 million.}
+nextSentence really
+showText really
+showText really
+create-a-node-here really 6.157 5 { \n\nThe firms are Morgan Stanley & Co., Salomon Brothers Inc., County Natwest Government Securities Inc., Greenwich Capital Markets Inc. and Goldman, Sachs & Co.}
+create-a-node-here really 8.24 6 { \n\nThe firms have all said }
+#create-a-node-here really 9.0 7 {that West Virginia's suit is without merit.\n}
+#autolink_nodes 1 2 satelite reason  5001
+#autolink_nodes 2 3 satelite-embedded elaboration-general-specific-e  5002
+#create-a-node-here really 9.117 8 {On Friday, the firms filed a suit against West Virginia in New York state court asking for a declaratory judgment }
+#create-a-node-here really 10.0 9 {absolving them of liability.\n}
+#autolink_nodes 7 6 satelite attribution  5003
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 9.80 7 {that West Virginia's suit is without merit.\nOn Friday, the firms filed a suit against West Virginia in New York state court }
+#create-a-node-here really 9.117 8 {asking for a declaratory judgment }
+#create-a-node-here really 10.0 9 {absolving them of liability.\n}
+#autolink_nodes 1 2 satelite reason  5001
+#autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5002
+#autolink_nodes 7 6 satelite attribution  5003
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 9.0 7 {that West Virginia's suit is without merit.\n}
+create-a-node-here really 9.83 8 {On Friday, the firms filed a suit against West Virginia in New York state court }
+create-a-node-here really 9.120 9 {asking for a declaratory judgment }
+create-a-node-here really 10.0 10 {absolving them of liability.\n}
+autolink_nodes 1 2 satelite reason  5001
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 7 6 satelite attribution  5003
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 8 5004 satelite purpose  5005
+create-a-node-here really 10.25 11 {That suit is pending.}
+create-a-node-here really 12.40 12 { \n\nThe suits relate to a $200 million loss,}
+create-a-node-here really 12.67 13 { disclosed in December,}
+create-a-node-here really 13.0 14 { that was suffered by West Virginia's consolidated investment pool.\n}
+create-a-node-here really 13.79 15 {The pool invested idle cash for many state agencies and local governments. }
+create-a-node-here really 15.51 16 {\n\nIn its suit, the attorney general's office alleges }
+create-a-node-here really 15.162 17 {that brokers encouraged members of the treasurer's office to engage in high-volume, high-risk transactions }
+create-a-node-here really 15.194 18 {that benefited the brokers. }
+autolink_nodes 12 13 satelite-embedded elaboration-additional-e  5006
+autolink_nodes 5006 14 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5008
+autolink_nodes 5008 16 satelite attribution  5009
+autolink_nodes 5007 15 satelite elaboration-additional  5010
+autolink_nodes 5009 5010 satelite background  5011
+autolink_nodes 5005 11 satelite elaboration-additional  5012
+collapsed_nodes {5004}
+collapsed_nodes {5004 5010}
+autolink_nodes 5 4 multinuclear List  5013
+collapsed_nodes {5004 5010 2}
+#autolink_nodes 5013 5001 nucleus summary-n  5014
+#UNDID
+autolink_nodes 5001 5013 satelite elaboration-additional  5014
+autolink_nodes 5014 5003 satelite evaluation-s  5015
+collapsed_nodes {5004 5010 2 5003}
+autolink_nodes 5012 5015 nucleus cause  5016
+collapsed_nodes {5004 5010 2 5003 5012}
+collapsed_nodes {5004 5010 2 5003 5012 5013}
+collapsed_nodes {5004 5010 2 5003 5012 5013 5002}
+autolink_nodes 5016 5011 satelite elaboration-additional  5017
+collapsed_nodes {5004 5010 2 5003 5012 5013 5002 5011}
+collapsed_nodes {5004 5010 2 5003 5012 5013 5002 5011}
+collapsed_nodes {}
+disconnect_node 5003 disconnect
+autolink_nodes 5005 5003 satelite reason below 5018
+disconnect_node 5013 disconnect
+autolink_nodes 5001 5013 satelite elaboration-general-specific below 5019

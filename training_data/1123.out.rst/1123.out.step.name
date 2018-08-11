@@ -1,0 +1,329 @@
+nextSentence really
+create-a-node-here really 2.68 1 {\nBlue-chip advertisers have plenty of complaints about the magazines }
+create-a-node-here really 2.89 2 {they advertise in,}
+create-a-node-here really 2.221 3 { ranging from inadequate consumer research to ad "clutter" and a seemingly unchecked proliferation of special interest magazines.}
+nextSentence really
+#autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+#autolink_nodes 5001 3 satelite-embedded elaboration-additional-e  5002
+#UNDID
+#autolink_nodes 5001 3 satelite-embedded elaboration-object-attribute-e  5002
+#create-a-node-here really 4.166 4 { \n\nCriticism from such big advertisers as Estee Lauder Inc., Colgate-Palmolive Co. and Seagram Co. put a damper on the euphoria at the American Magazine Conference here.}
+#create-a-node-here really 5.139 5 {\nThe conference opened Monday with glowing reports about consumer magazines' growth in circulation and advertising revenue in the past year.}
+#nextSentence really
+#autolink_nodes 4 5 satelite elaboration-additional  5003
+#disconnect_node 3 modify
+#UNDID
+#disconnect_node 3 modify
+#autolink_nodes 5001 3 satelite-embedded elaboration-additional-e  5004
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 3 satelite-embedded elaboration-additional-e  5002
+create-a-node-here really 4.166 4 { \n\nCriticism from such big advertisers as Estee Lauder Inc., Colgate-Palmolive Co. and Seagram Co. put a damper on the euphoria at the American Magazine Conference here.}
+create-a-node-here really 5.139 5 {\nThe conference opened Monday with glowing reports about consumer magazines' growth in circulation and advertising revenue in the past year.}
+nextSentence really
+autolink_nodes 4 5 satelite elaboration-additional  5003
+create-a-node-here really 7.70 6 { \n\n"Magazines are not providing us in-depth information on circulation," }
+create-a-node-here really 7.170 7 {said Edgar Bronfman Jr., president and chief operating officer of Seagram, in a panel discussion.}
+nextSentence really
+create-a-node-here really 7.214 8 { "How do readers feel about the magazine?}
+nextSentence really
+create-a-node-here really 8.27 9 {\nHow deeply do they read it?}
+nextSentence really
+create-a-node-here really 9.25 10 {\nResearch doesn't tell us }
+create-a-node-here really 9.74 11 {whether people actually do read the magazines}
+create-a-node-here really 9.97 12 { they subscribe to.}
+autolink_nodes 6 7 satelite attribution  5004
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 10 5005 nucleus attribution  5006
+autolink_nodes 9 5006 multinuclear List  5007
+autolink_nodes 5007 8 multinuclear List below 5007
+autolink_nodes 5004 5007 satelite elaboration-general-specific  5008
+nextSentence really
+create-a-node-here really 11.56 13 {" \n\nReuben Mark, chief executive of Colgate-Palmolive, said }
+create-a-node-here really 11.148 14 {advertisers lack detailed demographic and geographic breakdowns of magazines' audiences.}
+nextSentence really
+create-a-node-here really 11.171 15 { "We need research }
+#create-a-node-here really 11.243 16 {that convinces us that magazines are a real value in reader's lives,}
+#create-a-node-here really 11.282 17 { that readers are really involved."}
+#nextSentence really
+#autolink_nodes 13 14 nucleus attribution  5009
+#autolink_nodes 16 17 multinuclear List  5010
+#autolink_nodes 15 5010 satelite-embedded elaboration-object-attribute-e  5011
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 11.193 16 {that convinces us }
+create-a-node-here really 11.247 17 {that magazines are a real value in reader's lives,}
+create-a-node-here really 11.287 18 { that readers are really involved." }
+autolink_nodes 17 18 multinuclear List  5009
+autolink_nodes 16 5009 nucleus attribution  5010
+autolink_nodes 15 5010 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 13 14 nucleus attribution  5012
+autolink_nodes 5012 5011 satelite elaboration-additional  5013
+create-a-node-here really 13.62 19 {\n\nThe critics also lambasted the magazine industry for something}
+create-a-node-here really 13.102 20 { executives often are very proud of:}
+create-a-node-here really 13.154 21 { the growth in magazine titles during the 1980s.}
+nextSentence really
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 5014 21 satelite-embedded elaboration-object-attribute-e  5015
+create-a-node-here really 14.76 22 {\nLeonard Lauder, president and chief executive officer of Estee Lauder, said }
+create-a-node-here really 14.181 23 {consumer magazines are suffering from what he called "niche-itis,"the increasing number of magazines }
+create-a-node-here really 14.235 24 {that target the idosyncratic interests of readers.}
+nextSentence really
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 22 5016 nucleus attribution  5017
+create-a-node-here really 16.48 25 { \n\n"Niche-itis fragments our advertising dollars," }
+create-a-node-here really 16.68 26 {said Mr. Lauder.}
+nextSentence really
+create-a-node-here really 16.102 27 { "We are being over-magazined.}
+nextSentence really
+autolink_nodes 25 26 satelite attribution  5018
+autolink_nodes 5017 5018 satelite elaboration-additional  5019
+autolink_nodes 5019 27 satelite evaluation-s  5020
+#create-a-node-here really 17.73 28 {\nWe are constantly faced with deciding which partnerships {with magazines}}
+#create-a-node-here really 17.91 29 { we can keep."}
+#nextSentence really
+#autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5021
+#autolink_nodes 5020 5021 satelite consequence-s  5022
+#create-a-node-here really 17.105 30 { He added:}
+#nextSentence really
+#nextSentence really
+#nextSentence really
+#create-a-node-here really 17.173 31 { "There's probably even a magazine for left-handed golfers . . .}
+#create-a-node-here really 17.225 32 { but the general interest magazine is something }
+#create-a-node-here really 17.241 33 {we all miss,}
+#create-a-node-here really 17.271 34 { and it should come back."}
+#nextSentence really
+#autolink_nodes 33 34 satelite evaluation-s  5023
+#UNDID
+#autolink_nodes 32 33 satelite-embedded elaboration-object-attribute-e  5023
+#autolink_nodes 5023 34 satelite evaluation-s  5024
+#autolink_nodes 5024 31 satelite antithesis  5025
+#autolink_nodes 30 5025 nucleus attribution  5026
+#collapsed_nodes {5021}
+#autolink_nodes 5022 5026 satelite elaboration-additional  5027
+#autolink_nodes 5015 5027 satelite elaboration-general-specific  5028
+#create-a-node-here really 19.88 35 { \n\nMr. Lauder also attacked what he sees as the wide imitation of Elle, a fashion magazine }
+#create-a-node-here really 19.135 36 {published by Diamandis Communications Inc.,}
+#create-a-node-here really 19.168 37 { and criticized the practice }
+#create-a-node-here really 19.214 38 {of stacking ads at the front of magazines.}
+#create-a-node-here really 19.294 39 { "Readers don't want to face all those ad pages at the front of a magazine,"}
+#create-a-node-here really 19.307 40 { he said.}
+#nextSentence really
+#autolink_nodes 35 36 satelite-embedded elaboration-additional-e  5029
+#autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5030
+#autolink_nodes 5029 5030 satelite elaboration-general-specific  5031
+#autolink_nodes 39 40 satelite antithesis  5032
+#UNDID
+#autolink_nodes 39 40 satelite attribution  5032
+#autolink_nodes 5031 5032 satelite explanation-argumentative  5033
+#collapsed_nodes {}
+#autolink_nodes 5013 5008 multinuclear List  5034
+#collapsed_nodes {5013}
+#autolink_nodes 5034 5028 multinuclear List below 5034
+#collapsed_nodes {5013 5028}
+#autolink_nodes 5034 5033 multinuclear List below 5034
+#collapsed_nodes {5013 5028 5008}
+#autolink_nodes 5003 5034 satelite elaboration-general-specific  5035
+#autolink_nodes 5035 5002 satelite summary-s  5036
+#collapsed_nodes {5013 5028 5008 5033}
+#create-a-node-here really 21.45 41 { \n\nMagazine editors did not take the criticisms }
+#create-a-node-here really 21.60 42 {lying down.}
+#create-a-node-here really 21.111 43 { "We spend a fortune on research information," }
+#create-a-node-here really 21.183 44 {said Steve Burzon, publisher of Meredith Corp. 's Metropolitan Home.}
+#nextSentence really
+#autolink_nodes 43 44 satelite attribution  5037
+#autolink_nodes 41 42 satelite manner  5038
+#create-a-node-here really 23.76 45 { \n\nAnd Tina Brown, editor of Conde Nast Publications Inc. 's Vanity Fair, said }
+#create-a-node-here really 23.171 46 {advertisers are frequently asked to take advertising positions in the back of her magazine }
+#create-a-node-here really 23.197 47 {to relieve ad clutter.}
+#nextSentence really
+#create-a-node-here really 23.241 48 { "But advertisers wouldn't think of it,"}
+#create-a-node-here really 23.255 49 { she said.}
+#nextSentence really
+#autolink_nodes 48 49 satelite attribution  5039
+#autolink_nodes 46 47 satelite purpose  5040
+#autolink_nodes 45 5040 nucleus attribution  5041
+#autolink_nodes 5041 5039 multinuclear Contrast  5042
+#create-a-node-here really 25.46 50 { \n\nBernard Leser, president of Conde Nast, added:}
+#create-a-node-here really 25.71 51 { "Our research shows }
+#nextSentence really
+#nextSentence really
+#nextSentence really
+#create-a-node-here really 25.115 52 {we sell more of our heavier issues . . .}
+#create-a-node-here really 25.144 53 { because readers believe }
+#create-a-node-here really 25.193 54 {they are getting more for what they pay for."}
+#nextSentence really
+#autolink_nodes 53 54 nucleus attribution  5043
+#autolink_nodes 51 52 nucleus attribution  5044
+#autolink_nodes 5044 5043 satelite reason  5045
+#autolink_nodes 50 5045 nucleus attribution  5046
+#autolink_nodes 5042 5046 multinuclear List above 5047
+#autolink_nodes 5047 5037 multinuclear List below 5047
+#autolink_nodes 5038 5047 satelite elaboration-general-specific  5048
+#autolink_nodes 5036 5048 multinuclear Contrast  5049
+#collapsed_nodes {5013 5028 5033}
+#collapsed_nodes {5028 5033}
+#collapsed_nodes {5033}
+#collapsed_nodes {}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 17.88 28 {\nWe are constantly faced with deciding which partnerships {with magazines} we can keep." }
+create-a-node-here really 17.101 29 {He added:}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 17.169 30 { "There's probably even a magazine for left-handed golfers . . .}
+create-a-node-here really 17.221 31 { but the general interest magazine is something }
+create-a-node-here really 17.237 32 {we all miss,}
+create-a-node-here really 17.267 33 { and it should come back."}
+nextSentence really
+autolink_nodes 5020 28 satelite consequence-s  5021
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 5022 33 satelite evaluation-s  5023
+autolink_nodes 5023 30 satelite antithesis  5024
+autolink_nodes 29 5024 nucleus attribution  5025
+autolink_nodes 5021 5025 satelite elaboration-additional  5026
+autolink_nodes 5015 5026 satelite elaboration-general-specific  5027
+#create-a-node-here really 19.131 34 { \n\nMr. Lauder also attacked what he sees as the wide imitation of Elle, a fashion magazine published by Diamandis Communications Inc.,}
+#UNDID
+create-a-node-here really 19.88 34 { \n\nMr. Lauder also attacked what he sees as the wide imitation of Elle, a fashion magazine }
+create-a-node-here really 19.135 35 {published by Diamandis Communications Inc.,}
+create-a-node-here really 19.168 36 { and criticized the practice }
+create-a-node-here really 19.214 37 {of stacking ads at the front of magazines.}
+create-a-node-here really 19.294 38 { "Readers don't want to face all those ad pages at the front of a magazine,"}
+create-a-node-here really 19.307 39 { he said.}
+nextSentence really
+autolink_nodes 38 39 satelite attribution  5028
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 34 35 satelite-embedded elaboration-additional-e  5030
+autolink_nodes 5030 5029 satelite elaboration-general-specific  5031
+autolink_nodes 5031 5028 satelite explanation-argumentative  5032
+collapsed_nodes {5026}
+autolink_nodes 5027 5032 multinuclear List  5033
+autolink_nodes 5033 5013 multinuclear List below 5033
+collapsed_nodes {5026 5013}
+autolink_nodes 5033 5008 multinuclear List below 5033
+autolink_nodes 5003 5033 satelite elaboration-general-specific  5034
+#autolink_nodes 5002 5034 satelite summary-n  5035
+#UNDID
+autolink_nodes 5034 5002 nucleus summary-n  5035
+collapsed_nodes {5026 5013 5034}
+create-a-node-here really 21.45 40 { \n\nMagazine editors did not take the criticisms }
+create-a-node-here really 21.60 41 {lying down.}
+autolink_nodes 40 41 satelite manner  5036
+create-a-node-here really 21.111 42 { "We spend a fortune on research information," }
+create-a-node-here really 21.183 43 {said Steve Burzon, publisher of Meredith Corp. 's Metropolitan Home.}
+nextSentence really
+autolink_nodes 42 43 satelite attribution  5037
+create-a-node-here really 23.75 44 { \n\nAnd Tina Brown, editor of Conde Nast Publications Inc. 's Vanity Fair, said}
+create-a-node-here really 23.171 45 { advertisers are frequently asked to take advertising positions in the back of her magazine }
+create-a-node-here really 23.197 46 {to relieve ad clutter.}
+nextSentence really
+autolink_nodes 45 46 satelite purpose  5038
+autolink_nodes 44 5038 nucleus attribution  5039
+create-a-node-here really 23.241 47 { "But advertisers wouldn't think of it,"}
+create-a-node-here really 23.255 48 { she said.}
+nextSentence really
+autolink_nodes 47 48 satelite attribution  5040
+autolink_nodes 5039 5040 multinuclear Contrast  5041
+create-a-node-here really 25.46 49 { \n\nBernard Leser, president of Conde Nast, added:}
+create-a-node-here really 25.71 50 { "Our research shows }
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 25.116 51 {we sell more of our heavier issues . . . }
+create-a-node-here really 25.144 52 {because readers believe }
+create-a-node-here really 25.193 53 {they are getting more for what they pay for."}
+nextSentence really
+autolink_nodes 52 53 nucleus attribution  5042
+autolink_nodes 51 5042 satelite reason  5043
+#autolink_nodes 51 50 satelite attribution below 5044
+#UNDID
+autolink_nodes 51 50 satelite attribution below 5044
+autolink_nodes 49 5043 nucleus attribution  5045
+autolink_nodes 5041 5045 multinuclear List above 5046
+autolink_nodes 5046 5037 multinuclear List below 5046
+autolink_nodes 5036 5046 satelite elaboration-general-specific  5047
+autolink_nodes 5047 5035 multinuclear Contrast  5048
+collapsed_nodes {}

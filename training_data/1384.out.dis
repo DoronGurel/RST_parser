@@ -1,0 +1,7 @@
+( Root (span 1 3)
+  ( Nucleus (span 1 2) (rel2par span)
+    ( Nucleus (leaf 1) (rel2par Comparison) (text _!Consumer spending in Britain rose 0.1% in the third quarter from the second quarter_!) )
+    ( Nucleus (leaf 2) (rel2par Comparison) (text _!and was up 3.8% from a year ago,_!) )
+  )
+  ( Satellite (leaf 3) (rel2par attribution) (text _!the Central Statistical Office estimated Friday._!) )
+)

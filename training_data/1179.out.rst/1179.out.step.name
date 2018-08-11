@@ -1,0 +1,58 @@
+nextSentence really
+create-a-node-here really 2.34 1 {\nHoneywell Inc., Minneapolis, said }
+create-a-node-here really 2.181 2 {it completed its previously announced sale of 16% of the shares outstanding in its Japanese joint venture, Yamatake-Honeywell, for $280 million.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.132 3 { \n\nThe stake was acquired by a group of 10 Japanese financial institutions and industrial corporations, primarily insurance companies, }
+create-a-node-here really 4.150 4 {Honeywell said.}
+nextSentence really
+autolink_nodes 3 4 satelite attribution  5002
+autolink_nodes 5001 5002 satelite elaboration-general-specific  5003
+create-a-node-here really 6.22 5 { \n\nProceeds will be used }
+create-a-node-here really 6.88 6 {to repurchase as many as 10 million shares of Honeywell stock, }
+autolink_nodes 5 6 satelite purpose  5004
+create-a-node-here really 6.115 7 {as previously announced.}
+nextSentence really
+autolink_nodes 5004 7 satelite temporal-before  5005
+autolink_nodes 5003 5005 satelite elaboration-additional  5006
+create-a-node-here really 8.15 8 { \n\nHoneywell said }
+create-a-node-here really 8.80 9 {a second sale of Yamatake-Honeywell is still being negotiated.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5007
+autolink_nodes 5006 5007 multinuclear Sequence  5008
+create-a-node-here really 9.13 10 {\nThe company, }
+create-a-node-here really 9.61 11 {which now holds a 34% stake in the venture, }
+autolink_nodes 10 11 satelite-embedded elaboration-additional-e  5009
+create-a-node-here really 9.79 12 {has indicated }
+autolink_nodes 5009 12 multinuclear Same-Unit  5010
+create-a-node-here really 9.140 13 {that it intends to retain at least a 20% stake long term.}
+nextSentence really
+autolink_nodes 5010 13 nucleus attribution  5011
+create-a-node-here really 10.78 14 {\nA 20% stake would allow Honeywell to include Yamatake earnings in its results.}
+nextSentence really
+autolink_nodes 5011 14 satelite reason  5012
+#create-a-node-here really 12.68 15 { \n\nA company spokesman said the gain on the sale couldn't be estimated }
+#create-a-node-here really 12.118 16 {until the "tax treatment has been determined."}
+#nextSentence really
+#autolink_nodes 15 16 satelite condition  5013
+#disconnect_node 5007 modify
+#autolink_nodes 5006 5007 multinuclear Topic-Drift  5014
+#autolink_nodes 5007 5012 satelite elaboration-general-specific  5015
+#autolink_nodes 5015 5013 satelite evaluation-s  5016
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 12.25 15 { \n\nA company spokesman said }
+create-a-node-here really 12.72 16 {the gain on the sale couldn't be estimated }
+create-a-node-here really 12.123 17 {until the "tax treatment has been determined." }
+autolink_nodes 16 17 satelite condition  5013
+autolink_nodes 15 5013 nucleus attribution  5014
+autolink_nodes 5007 5012 satelite elaboration-general-specific  5015
+autolink_nodes 5015 5014 satelite evaluation-s  5016
+disconnect_node 5016 modify
+autolink_nodes 5006 5016 multinuclear Topic-Drift  5017

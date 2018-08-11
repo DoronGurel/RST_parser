@@ -1,0 +1,475 @@
+1
+ Avis Inc.,
+5001
+span
+
+2
+ following rival Hertz Corp. 's lead,
+1
+elaboration-object-attribute-e
+
+3
+ said 
+5002
+Same-Unit
+
+4
+it is backing out of frequent-flier programs with three airlines.
+5003
+span
+
+5
+ The Garden City, N.Y., car-rental company said 
+6
+attribution
+
+6
+it won't renew contracts with NWA Inc. 's Northwest Airlines unit, Pan Am Corp. 's Pan American World Airways unit and Midway Airlines at the end of this year.
+5004
+span
+
+7
+ But it remains involved in programs with AMR Corp. 's American Airlines unit and Delta Air Lines.
+5005
+antithesis
+
+8
+ Industry estimates put Avis's annual cost of all five programs at between $8 million and $14 million.
+5011
+span
+
+9
+ A spokesman for Avis wouldn't specify the costs
+5009
+antithesis
+
+10
+ but said 
+5008
+attribution
+
+11
+the three airlines 
+5007
+span
+
+12
+being dropped 
+11
+elaboration-object-attribute-e
+
+13
+account for far less than half of the total.
+5008
+Same-Unit
+
+14
+ Budget Rent a Car Corp., of Chicago, and National Car Rental Systems Inc., of Minneapolis, both said 
+5013
+attribution
+
+15
+they had no plans 
+5013
+span
+
+16
+to follow suit.
+15
+elaboration-object-attribute-e
+
+17
+ In fact,
+5018
+span
+
+18
+ Budget indicated 
+17
+attribution-e
+
+19
+it saw some benefit
+5017
+span
+
+20
+ to staying involved in these programs,
+5016
+span
+
+21
+ in which renters earn frequent-flier miles
+5015
+List
+
+22
+ and fliers can get car-rental discounts.
+5015
+List
+
+23
+ I cannot see 
+24
+attribution-n
+
+24
+how this news by Hertz and Avis cannot benefit Budget's programs, 
+5020
+span
+
+25
+said Bob Wilson, Budget's vice president, marketing planning.
+5020
+attribution
+
+26
+ Northwest and Midway are two of the five airlines
+5023
+span
+
+27
+ with which Budget has agreements.
+26
+elaboration-object-attribute-e
+
+28
+ National also participates in the Northwest frequent-flier program along with four other airlines,
+5026
+span
+
+29
+ including Delta and USAir Group Inc. 's USAir unit.
+28
+elaboration-set-member-e
+
+30
+ A month ago, Hertz, of Park Ridge, N.J., said
+5029
+attribution
+
+31
+ that it would drop its marketing agreements at year end with Delta, America West and Texas Air Corp. 's Continental Airlines and Eastern Airlines,
+5029
+List
+
+32
+ and that pacts with American Airlines, UAL Inc's United Airlines and USAir also would be ended. . . sometime after Dec. 31.
+5029
+List
+
+33
+ At the time, Hertz said 
+5031
+attribution
+
+34
+its annual fees to those airlines amounted to $20 million
+5031
+List
+
+35
+ and that the value of redeemed awards topped $15 million.
+5031
+List
+
+36
+ Analysts and competitors, however, doubt
+37
+attribution
+
+37
+ the numbers were that high.
+5034
+span
+
+38
+ Budget said 
+39
+attribution
+
+39
+its frequent-flier costs are substantially below Avis's level.
+5036
+span
+
+40
+ Robert D. Cardillo, Avis vice president of marketing, said,
+5040
+attribution
+
+41
+ The proliferation and costs
+5039
+span
+
+42
+ attached to {frequent-flier programs}
+41
+elaboration-object-attribute-e
+
+43
+ have significantly diminished their value.
+5040
+Same-Unit
+
+44
+ This year has been difficult for both Hertz and Avis,
+5043
+span
+
+45
+ said Charles Finnie, car-rental industry analyst at Alex. Brown & Sons.
+44
+attribution
+
+46
+ They've been looking to get their costs down,
+5044
+span
+
+47
+ and this is a fairly sensible way to do it,
+46
+elaboration-additional
+
+48
+ he said.
+5044
+attribution
+
+5001
+span
+5002
+Same-Unit
+
+5002
+multinuc
+4
+attribution
+
+5003
+span
+5005
+span
+
+5004
+span
+5003
+elaboration-general-specific
+
+5005
+span
+5006
+span
+
+5006
+span
+5012
+span
+
+5007
+span
+5008
+Same-Unit
+
+5008
+multinuc
+5009
+span
+
+5009
+span
+5010
+span
+
+5010
+span
+8
+elaboration-additional
+
+5011
+span
+5006
+elaboration-additional
+
+5012
+span
+5028
+span
+
+5013
+span
+5014
+span
+
+5014
+span
+5025
+span
+
+5015
+multinuc
+20
+elaboration-object-attribute-e
+
+5016
+span
+19
+elaboration-object-attribute-e
+
+5017
+span
+5019
+Same-Unit
+
+5018
+span
+5019
+Same-Unit
+
+5019
+multinuc
+5022
+span
+
+5020
+span
+5021
+span
+
+5021
+span
+5019
+elaboration-additional
+
+5022
+span
+5024
+span
+
+5023
+span
+5027
+span
+
+5024
+span
+5014
+elaboration-additional
+
+5025
+span
+5012
+statement-response-s
+
+5026
+span
+5023
+elaboration-additional
+
+5027
+span
+5022
+elaboration-additional
+
+5028
+span
+5038
+span
+
+5029
+multinuc
+5030
+span
+
+5030
+span
+5033
+span
+
+5031
+multinuc
+5032
+span
+
+5032
+span
+5035
+span
+
+5033
+span
+5028
+elaboration-additional
+
+5034
+span
+5037
+span
+
+5035
+span
+5030
+elaboration-additional
+
+5036
+span
+5034
+example
+
+5037
+span
+5032
+antithesis
+
+5038
+span
+5042
+span
+
+5039
+span
+5040
+Same-Unit
+
+5040
+multinuc
+5041
+span
+
+5041
+span
+5038
+explanation-argumentative
+
+5042
+span
+5047
+span
+
+5043
+span
+5046
+span
+
+5044
+span
+5045
+span
+
+5045
+span
+5043
+elaboration-additional
+
+5046
+span
+5042
+elaboration-additional
+
+5047
+span
+
+
+

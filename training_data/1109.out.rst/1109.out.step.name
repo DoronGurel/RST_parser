@@ -1,0 +1,100 @@
+nextSentence really
+create-a-node-here really 2.74 1 {\nXerox Corp. 's third-quarter net income grew 6.2% on 7.3% higher revenue, }
+create-a-node-here really 2.125 2 {earning mixed reviews from Wall Street analysts.}
+nextSentence really
+autolink_nodes 1 2 satelite consequence-s  5001
+create-a-node-here really 4.173 3 { \n\nQuarter net for the business-machines and financial-services company rose to $155 million, or $1.41 a share, from $146 million, or $1.37 a share, in the year-earlier period.}
+nextSentence really
+create-a-node-here really 5.49 4 {\nRevenue rose to $4.45 billion from $4.15 billion.}
+nextSentence really
+autolink_nodes 3 4 multinuclear List  5002
+autolink_nodes 5001 5002 satelite elaboration-general-specific  5003
+nextSentence really
+create-a-node-here really 7.85 5 { \n\nIn New York Stock Exchange composite trading, Xerox closed at $62.75 a share, up $1. }
+autolink_nodes 5003 5 satelite consequence-s  5004
+#create-a-node-here really 9.82 6 {\n\nSales growth and profit in business products and systems -- Xerox's main business }
+#UNDID
+create-a-node-here really 9.57 6 {\n\nSales growth and profit in business products and systems }
+create-a-node-here really 9.88 7 {-- Xerox's main business -- }
+autolink_nodes 6 7 satelite-embedded elaboration-additional-e  5005
+create-a-node-here really 9.113 8 {were "disappointing," }
+autolink_nodes 5005 8 multinuclear Same-Unit  5006
+create-a-node-here really 9.140 9 {said B. Alex Henderson, }
+autolink_nodes 5006 9 satelite attribution  5007
+create-a-node-here really 9.204 10 {who follows the company for Prudential-Bache Securities Inc. }
+autolink_nodes 9 10 satelite-embedded elaboration-additional-e  5008
+create-a-node-here really 11.60 11 {\n\nSales of Xerox copiers and other office products grew 1.6%; }
+create-a-node-here really 11.98 12 {"we expected growth of 6% to 7%," }
+autolink_nodes 11 12 multinuclear Contrast  5009
+create-a-node-here really 12.0 13 {Mr. Henderson said.\n}
+autolink_nodes 5009 13 satelite attribution  5010
+create-a-node-here really 12.67 14 {Operating-profit margins slipped almost 18%, to 4.3% of sales, }
+create-a-node-here really 12.89 15 {the analyst noted.}
+nextSentence really
+autolink_nodes 14 15 satelite attribution  5011
+autolink_nodes 5010 5011 multinuclear List  5012
+autolink_nodes 5007 5012 satelite explanation-argumentative  5013
+create-a-node-here really 14.7 16 { \n\nStill, }
+create-a-node-here really 14.81 17 {with competitors such as Eastman Kodak Co. faltering in copier sales, }
+create-a-node-here really 14.129 18 {Xerox's sales increases "were encouraging," }
+autolink_nodes 17 18 satelite-embedded circumstance-e  5014
+autolink_nodes 16 5014 multinuclear Same-Unit  5015
+create-a-node-here really 14.181 19 {says Eugene Glazer of Dean Witter Reynolds Inc. }
+autolink_nodes 5015 19 satelite attribution  5016
+create-a-node-here really 14.230 20 {"They are holding their own in a weak market,}
+create-a-node-here really 14.270 21 { and the restructuring is working," }
+autolink_nodes 20 21 multinuclear List  5017
+create-a-node-here really 14.282 22 {he says.}
+nextSentence really
+autolink_nodes 5017 22 satelite attribution  5018
+autolink_nodes 5016 5018 satelite elaboration-additional  5019
+create-a-node-here really 16.187 23 { \n\nDavid T. Kearns, Xerox chairman and chief executive officer, cited the restructuring and "strong" cost controls for the 13% growth in profit from business products and systems operations.}
+nextSentence really
+autolink_nodes 5018 23 satelite elaboration-additional  5020
+create-a-node-here really 18.85 24 { \n\nMr. Glazer expects Xerox to experience tough sledding, though, in financial services }
+create-a-node-here really 18.131 25 {because of rate pressures and uncertainty }
+create-a-node-here really 18.178 26 {surrounding tax treatment of capital gains.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5021
+autolink_nodes 24 5021 satelite consequence-n  5022
+autolink_nodes 5019 5022 multinuclear List  5023
+create-a-node-here really 20.138 27 { \n\nIn the quarter, the Crum & Forster insurance unit reported $200 million before tax of capital gains from property and casualty operations.}
+nextSentence really
+create-a-node-here really 21.65 28 {\nThe subsidiary also increased reserves by $140 million, however, }
+create-a-node-here really 21.120 29 {and set aside an additional $25 million for claims }
+create-a-node-here really 21.154 30 {connected with Hurricane Hugo.}
+nextSentence really
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 28 5024 multinuclear List  5025
+autolink_nodes 27 5025 satelite antithesis  5026
+autolink_nodes 5004 5026 satelite elaboration-additional  5027
+disconnect_node 5026 disconnect
+create-a-node-here really 23.110 31 { \n\nFor the nine months, Xerox earned $492 million, or $4.55 a share, up 5.8% from $465 million, or $4.32 a share.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 24.56 32 {\nRevenue rose 7.6% to $12.97 billion from $12.05 billion.}
+nextSentence really
+autolink_nodes 31 32 multinuclear Temporal-Same-Time  5028
+autolink_nodes 5013 5023 multinuclear List  5029
+autolink_nodes 5004 5029 satelite elaboration-general-specific  5030
+autolink_nodes 5030 5026 satelite elaboration-additional  5031
+autolink_nodes 5031 5028 satelite elaboration-additional  5032
+#disconnect_node 18 disconnect
+#autolink_nodes 17 18 nucleus-embedded circumstance-e  5033
+#UNDID
+#UNDID
+disconnect_node 18 disconnect
+autolink_nodes 17 18 nucleus-embedded circumstance-e  5033
+disconnect_node 5020 modify
+autolink_nodes 5016 5020 satelite explanation-argumentative  5034
+disconnect_node 5022 modify
+autolink_nodes 5034 5022 multinuclear Contrast  5035
+disconnect_node 5026 disconnect
+autolink_nodes 5028 5026 satelite elaboration-part-whole  5036
+disconnect_node 5026 disconnect
+#disconnect_node 5028 disconnect
+#UNDID
+disconnect_node 5028 disconnect
+autolink_nodes 5030 5026 satelite elaboration-additional  5037
+autolink_nodes 5037 5028 satelite elaboration-additional  5038

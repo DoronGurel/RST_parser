@@ -1,0 +1,132 @@
+nextSentence really
+create-a-node-here really 2.7 1 {\nCanada,}
+create-a-node-here really 2.68 2 { which is preparing to speed up tariff cuts with the U.S.,}
+create-a-node-here really 2.142 3 { recorded a 47% narrowing in its trade surplus with the U.S. in August,}
+create-a-node-here really 2.192 4 { Statistics Canada, a federal agency, reported.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 3 5001 multinuclear Same-Unit  5002
+autolink_nodes 5002 4 satelite attribution  5003
+nextSentence really
+create-a-node-here really 4.56 5 { \n\nU.S. exports to Canada jumped 11.2% in August from July }
+create-a-node-here really 4.105 6 {while U.S. imports from Canada rose only 2.7%.}
+nextSentence really
+autolink_nodes 5 6 multinuclear Comparison  5004
+change_rel 6 Contrast
+nextSentence really
+create-a-node-here really 5.78 7 {\nAs a result, Canada's trade surplus with the U.S. narrowed to C$656.5 million }
+create-a-node-here really 5.97 8 {(US$558 million)}
+autolink_nodes 7 8 satelite-embedded statement-response-s-e  5005
+change_rel 8 restatement-e
+nextSentence really
+nextSentence really
+create-a-node-here really 5.130 9 { in August from C$1.23 billion}
+create-a-node-here really 5.151 10 { (US$1.04 billion)}
+create-a-node-here really 5.164 11 { in July.}
+nextSentence really
+autolink_nodes 9 10 satelite-embedded restatement-e  5006
+autolink_nodes 5006 5005 multinuclear Same-Unit  5007
+autolink_nodes 5007 11 multinuclear Same-Unit below 5007
+autolink_nodes 5004 5007 nucleus result  5008
+autolink_nodes 5003 5008 satelite elaboration-additional  5009
+create-a-node-here really 7.126 12 { \n\nU.S. exports benefited in August from heavy Canadian spending on new plant and equipment and a pickup in Canadian auto demand,}
+create-a-node-here really 7.155 13 { Canadian officials said.}
+nextSentence really
+autolink_nodes 12 13 satelite attribution  5010
+autolink_nodes 5008 5010 satelite elaboration-additional  5011
+create-a-node-here really 9.20 14 { \n\nThe U.S. and Canada,}
+create-a-node-here really 9.76 15 { which do more trade than any other pair of nations,}
+create-a-node-here really 9.104 16 { are to meet next month }
+create-a-node-here really 9.201 17 {to arrange an acceleration of planned tariff cuts under the U.S.-Canada free trade agreement.}
+nextSentence really
+autolink_nodes 16 17 satelite purpose  5012
+autolink_nodes 14 15 satelite-embedded elaboration-additional-e  5013
+#autolink_nodes 5012 5013 multinuclear Same-Unit  5014
+#UNDID
+autolink_nodes 5012 5013 multinuclear Same-Unit  5014
+collapsed_nodes {5011}
+autolink_nodes 5009 5014 satelite elaboration-additional  5015
+create-a-node-here really 11.93 18 { \n\nIndustries in both countries have requested a speedup of tariff cuts on hundreds of products.}
+create-a-node-here really 12.29 19 {\nSome tariffs were eliminated }
+create-a-node-here really 12.72 20 {when the trade pact took effect Jan. 1.}
+autolink_nodes 19 20 satelite circumstance  5016
+create-a-node-here really 13.70 21 {\nThe remainder were to be phased out in five or 10 annual installments,}
+create-a-node-here really 13.119 22 { with all tariffs eliminated by January 1998.}
+nextSentence really
+autolink_nodes 21 22 satelite consequence-s  5017
+autolink_nodes 5017 5016 multinuclear List  5018
+#autolink_nodes 18 5018 satelite elaboration-additional  5019
+#UNDID
+autolink_nodes 18 5018 satelite background  5019
+#autolink_nodes 5014 5019 satelite conclusion  5020
+#UNDID
+autolink_nodes 5014 5019 satelite background  5020
+disconnect_node 5018 disconnect
+autolink_nodes 5020 5018 satelite elaboration-additional  5021
+create-a-node-here really 15.101 23 { \n\nThe two countries aim to reach an agreement by early December on a package of accelerated tariff cuts}
+create-a-node-here really 15.145 24 { that would take effect early next year.}
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 5021 5022 satelite elaboration-additional  5023
+create-a-node-here really 17.24 25 { \n\nCanadian officials said }
+create-a-node-here really 17.109 26 {the trade pact has kindled an export interest among many small Canadian companies}
+create-a-node-here really 17.161 27 { that previously had little or no foreign sales.}
+nextSentence really
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 25 5024 nucleus attribution  5025
+create-a-node-here really 19.96 28 { \n\nFor such businessmen, the Canadian government is organizing 55 missions this year to U.S. states}
+create-a-node-here really 19.121 29 { bordering on Canada.}
+nextSentence really
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 5025 5026 satelite elaboration-additional  5027
+create-a-node-here really 20.67 30 {\nThe businessmen are introduced to potential agents and distributors}
+create-a-node-here really 20.107 31 { and instructed in trade procedures.}
+nextSentence really
+autolink_nodes 30 31 multinuclear List  5028
+autolink_nodes 5026 5028 satelite elaboration-additional  5029
+nextSentence really
+create-a-node-here really 21.144 32 {\nThe U.S. Commerce Department is planning to try out similar trips on U.S. businessmen in coming months under its Canada First! Outreach Program.}
+nextSentence really
+#create-a-node-here really 22.136 33 {\nParticipants in the U.S. missions to Canada are to be assisted by members of the Service Corps of Retired Executives, a volunteer group,}
+#create-a-node-here really 22.181 34 { in dealing with their export challenges.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 22.177 33 {\nParticipants in the U.S. missions to Canada are to be assisted by members of the Service Corps of Retired Executives, a volunteer group, in dealing with their export challenges.}
+autolink_nodes 32 33 satelite elaboration-additional  5030
+collapsed_nodes {5011 5023}
+autolink_nodes 5015 5027 satelite elaboration-additional  5031
+autolink_nodes 5027 5030 satelite comparison  5032
+create-a-node-here really 24.139 34 { \n\nThe Canadian government also has recently opened new trade offices in San Diego; San Juan, Puerto Rico; Miami; Princeton, N.J., and Denver,}
+nextSentence really
+create-a-node-here really 24.213 35 { bringing the total number of such Canadian offices in the U.S. to 27.}
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5033
+create-a-node-here really 25.51 36 {\nThe U.S. has six trade promotion offices in Canada.}
+nextSentence really
+autolink_nodes 5033 36 satelite comparison  5034
+collapsed_nodes {5011 5023 5032}
+autolink_nodes 5031 5034 satelite elaboration-additional  5035
+create-a-node-here really 27.172 37 { \n\nCanada's export effort has been blunted by robust home market demand and by an 18% appreciation of the Canadian dollar against its U.S. counterpart in the past three years }
+create-a-node-here really 27.228 38 {that has made Canadian goods more costly in the U.S.}
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5036
+nextSentence really
+nextSentence really
+create-a-node-here really 29.109 39 { \n\nCanada's trade surplus with all countries narrowed to C$203.5 million in August from C$528.3 million in July,}
+create-a-node-here really 29.137 40 { Statistics Canada said.}
+nextSentence really
+autolink_nodes 39 40 satelite attribution  5037
+collapsed_nodes {5011 5023 5032 5034}
+autolink_nodes 5035 5036 satelite elaboration-additional  5038
+autolink_nodes 5038 5037 satelite elaboration-additional  5039
+collapsed_nodes {5023 5032 5034}
+collapsed_nodes {5023 5032 5034 5011}
+collapsed_nodes {5023 5032 5034}
+collapsed_nodes {5023 5032 5034 5011}
+collapsed_nodes {5032 5034 5011}
+collapsed_nodes {5032 5034 5011 5023}
+collapsed_nodes {5034 5011 5023}
+collapsed_nodes {5034 5011 5023 5032}
+collapsed_nodes {5011 5023 5032}
+collapsed_nodes {5023 5032}
+collapsed_nodes {5032}
+collapsed_nodes {}

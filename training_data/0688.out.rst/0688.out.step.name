@@ -1,0 +1,154 @@
+nextSentence really
+create-a-node-here really 2.28 1 {\nMobil Corp. is in the midst }
+create-a-node-here really 2.84 2 {of cutting back its exploration and production group,}
+#create-a-node-here really 2.227 3 { which finds and develops oil and gas reserves in the U.S., by as much as 15% as part of a new restructuring of that sector of its business.}
+#nextSentence really
+#create-a-node-here really 4.36 4 { \n\nManagement advised employees Friday }
+#create-a-node-here really 4.137 5 {that it was going to reduce employment in production operations of the group by 8%, or 400 people.}
+#nextSentence really
+#create-a-node-here really 5.75 6 {\nThe exploration side of the unit has recently undergone a similar overhaul,}
+#create-a-node-here really 5.130 7 { during which it also lost as many as 400 employees,}
+#autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+#autolink_nodes 2 3 satelite elaboration-additional  5002
+#autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5003
+#autolink_nodes 5001 5003 satelite elaboration-additional  5004
+#create-a-node-here really 5.184 8 { a company spokesman said in response to questions.}
+#nextSentence really
+#create-a-node-here really 6.116 9 {\nMobil Exploration & Producing U.S. Inc., the group involved, currently has a work force of somewhat less than 5,000.}
+#nextSentence really
+#create-a-node-here really 8.87 10 { \n\nA few years ago, Mobil restructured the entire company during an industrywide shakeout.}
+#nextSentence really
+#create-a-node-here really 9.48 11 {\nBut since then U.S. oil production has declined }
+#create-a-node-here really 9.110 12 {and Mobil wants to focus its oil-finding efforts overseas.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.147 3 { which finds and develops oil and gas reserves in the U.S., }
+create-a-node-here really 2.230 4 {by as much as 15% as part of a new restructuring of that sector of its business.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 5002 4 multinuclear Same-Unit  5003
+create-a-node-here really 4.36 5 { \n\nManagement advised employees Friday }
+create-a-node-here really 4.137 6 {that it was going to reduce employment in production operations of the group by 8%, or 400 people.}
+nextSentence really
+create-a-node-here really 5.75 7 {\nThe exploration side of the unit has recently undergone a similar overhaul,}
+create-a-node-here really 5.131 8 { during which it also lost as many as 400 employees, }
+create-a-node-here really 5.184 9 {a company spokesman said in response to questions.}
+nextSentence really
+create-a-node-here really 6.116 10 {\nMobil Exploration & Producing U.S. Inc., the group involved, currently has a work force of somewhat less than 5,000.}
+nextSentence really
+#autolink_nodes 5 6 satelite elaboration-additional  5004
+#UNDID
+autolink_nodes 5 6 satelite elaboration-additional  5004
+autolink_nodes 5004 7 multinuclear List  5005
+autolink_nodes 7 8 satelite consequence-s  5006
+autolink_nodes 5006 9 satelite attribution  5007
+autolink_nodes 5005 10 satelite background  5008
+autolink_nodes 5001 5008 satelite elaboration-additional  5009
+create-a-node-here really 9.0 11 { \n\nA few years ago, Mobil restructured the entire company during an industrywide shakeout.\n}
+create-a-node-here really 9.52 12 {But since then U.S. oil production has declined }
+create-a-node-here really 9.114 13 {and Mobil wants to focus its oil-finding efforts overseas.}
+nextSentence really
+#autolink_nodes 11 12 multinuclear Sequence  5010
+#UNDID
+autolink_nodes 11 12 multinuclear Sequence  5010
+autolink_nodes 12 13 multinuclear List  5011
+autolink_nodes 5008 5010 satelite circumstance  5012
+create-a-node-here really 11.47 14 { \n\nMobil alluded to the work-force cuts last week }
+create-a-node-here really 11.123 15 {when it took a $40 million charge as part of its third-quarter earnings }
+create-a-node-here really 12.0 16 {and attributed it to a restructuring.\n}
+create-a-node-here really 12.25 17 {Mobil officials said }
+create-a-node-here really 12.72 18 {that it is unlikely any additional charges }
+create-a-node-here really 12.97 19 {related to this move }
+create-a-node-here really 12.134 20 {will be taken in future quarters.}
+nextSentence really
+autolink_nodes 14 15 satelite explanation-argumentative  5013
+autolink_nodes 15 16 multinuclear List  5014
+autolink_nodes 17 18 nucleus attribution  5015
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e below 5016
+autolink_nodes 5016 20 multinuclear Same-Unit  5017
+collapsed_nodes {5001}
+autolink_nodes 5009 5013 satelite elaboration-additional  5018
+autolink_nodes 5013 5015 satelite elaboration-additional  5019
+create-a-node-here really 14.118 21 { \n\nOn Wednesday, Mobil will begin offering separation packages and voluntary retirement in its U.S. production operation.}
+nextSentence really
+create-a-node-here really 15.21 22 {\nMobil officials said }
+create-a-node-here really 15.54 23 {they have been studying ways }
+create-a-node-here really 15.91 24 {of streamlining these operations }
+create-a-node-here really 15.117 25 {since early this year.}
+nextSentence really
+autolink_nodes 22 23 nucleus attribution  5020
+#autolink_nodes 23 24 satelite-embedded elaboration-additional-e below 5021
+#UNDID
+autolink_nodes 23 24 satelite-embedded elaboration-additional-e below 5021
+autolink_nodes 5021 25 multinuclear Same-Unit  5022
+autolink_nodes 21 5020 satelite elaboration-additional  5023
+collapsed_nodes {5001 5019}
+autolink_nodes 5018 5023 satelite elaboration-additional  5024
+create-a-node-here really 17.67 26 { \n\nDuring the coming months, layers of management will be peeled away }
+create-a-node-here really 18.0 27 {and regional offices will become more autonomous.\n}
+create-a-node-here really 18.153 28 {For greater efficiency, employees at those locations will be reorganized into teams responsible for managing the properties under their jurisdiction,}
+create-a-node-here really 18.169 29 { Mobil said.}
+nextSentence really
+create-a-node-here really 18.341 30 { "The main feature of the new organization is that each local manager will have both the authority and accountability for profitable and technically sound operations," }
+create-a-node-here really 18.398 31 {said Charles E. Spruell, president of the Mobil unit.}
+nextSentence really
+autolink_nodes 26 27 multinuclear List  5025
+autolink_nodes 28 29 satelite attribution  5026
+autolink_nodes 5025 5026 satelite elaboration-additional  5027
+autolink_nodes 30 31 satelite attribution  5028
+autolink_nodes 5027 5028 satelite explanation-argumentative  5029
+autolink_nodes 5020 5029 satelite elaboration-additional  5030
+nextSentence really
+nextSentence really
+create-a-node-here really 20.136 32 { \n\nField offices at New Orleans; Houston; Denver; Midland, Tex.; Bakersfield, Calif.; Oklahoma City; and Liberal, Kan., will be maintained.}
+nextSentence really
+create-a-node-here really 21.57 33 {\nBut the staffs at some of those locations will be slashed}
+create-a-node-here really 21.111 34 { while at others the work force will be increased.}
+nextSentence really
+create-a-node-here really 23.67 35 { \n\nFor instance, employment in Denver will be reduced to 105 from 430.}
+nextSentence really
+create-a-node-here really 24.23 36 {\nBut on the West Coast, }
+create-a-node-here really 24.107 37 {where profitable oil production is more likely than in the midcontinent region, }
+nextSentence really
+create-a-node-here really 24.180 38 {the Bakersfield, Calif., office staff of 130 will grow by 175 to 305.}
+nextSentence really
+nextSentence really
+create-a-node-here really 25.70 39 {\nThe reorganization will "focus on the value and potential of assets," }
+create-a-node-here really 25.92 40 {Mr. Spruell said. }
+#autolink_nodes 30 32 multinuclear List  5031
+#UNDID
+autolink_nodes 5028 32 multinuclear List  5031
+#autolink_nodes 32 33 satelite attribution  5032
+#UNDID
+#autolink_nodes 32 33 multinuclear Contrast  5032
+#UNDID
+autolink_nodes 32 33 satelite antithesis  5032
+autolink_nodes 33 34 multinuclear Contrast  5033
+autolink_nodes 35 36 multinuclear Contrast  5034
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5035
+autolink_nodes 5035 38 multinuclear Same-Unit  5036
+autolink_nodes 5032 5034 satelite example  5037
+autolink_nodes 39 40 satelite attribution  5038
+autolink_nodes 5034 5038 satelite elaboration-additional  5039
+collapsed_nodes {5001 5019 5024}
+collapsed_nodes {}

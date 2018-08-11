@@ -1,0 +1,166 @@
+nextSentence really
+create-a-node-here really 2.138 1 {\nYour Oct. 2 editorial "Reding, Wrighting & Erithmatic" on the recent "education summit" was like most pieces on the subject of education: }
+create-a-node-here really 2.162 2 {It had little to say.}
+nextSentence really
+autolink_nodes 1 2 satelite comment  5001
+create-a-node-here really 3.59 3 {\nOddly, though, on the very same page you printed a comment }
+create-a-node-here really 3.147 4 {that addresses one of the most serious shortcomings of the American education system.}
+nextSentence really
+#autolink_nodes 3 4 satelite-embedded elaboration-general-specific-e  5002
+#UNDID
+autolink_nodes 3 4 satelite-embedded elaboration-general-specific-e  5002
+autolink_nodes 5001 5002 multinuclear Contrast  5003
+create-a-node-here really 4.57 5 {\nUnfortunately, the comment was buried in another article,}
+create-a-node-here really 4.111 6 { so it could not stand out in an education context.}
+autolink_nodes 5 6 nucleus result  5004
+create-a-node-here really 6.44 7 { \n\nIn the Manager's Journal, Atsushi Kageyama, }
+create-a-node-here really 6.120 8 {in commenting on many differences between American and Japanese culture, }
+create-a-node-here really 6.128 9 {said,}
+#autolink_nodes 8 9 nucleus-embedded circumstance-e  5005
+#UNDID
+autolink_nodes 8 9 nucleus-embedded circumstance-e  5005
+autolink_nodes 7 5005 multinuclear Same-Unit  5006
+create-a-node-here really 6.171 10 { "Japanese children are raised in a way }
+autolink_nodes 5006 10 nucleus attribution  5007
+create-a-node-here really 6.208 11 {many Americans would find severe.}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e below 5008
+#create-a-node-here really 7.84 12 {\nAfter a wonderfully frivolous early childhood, they are exposed to rigid discipline }
+#create-a-node-here really 7.118 13 {as soon as they enter school."}
+#nextSentence really
+#autolink_nodes 12 13 satelite circumstance  5009
+#autolink_nodes 5007 5009 satelite manner  5010
+#autolink_nodes 5004 5010 satelite elaboration-general-specific  5011
+#autolink_nodes 5002 5011 satelite explanation-argumentative  5012
+#create-a-node-here really 9.25 14 { \n\nWhat far too many people }
+#create-a-node-here really 9.55 15 {concerned about education }
+#autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5013
+#create-a-node-here really 9.85 16 {either fail to understand }
+#create-a-node-here really 9.109 17 {or choose to ignore }
+#autolink_nodes 16 17 multinuclear Disjunction  5014
+#autolink_nodes 5013 5014 multinuclear Same-Unit  5015
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 9.193 16 {either fail to understand or choose to ignore is that American children, on the whole, are among the most undisciplined in the world, }
+#autolink_nodes 5013 16 multinuclear Same-Unit  5014
+#create-a-node-here really 9.282 17 {making any attempt at improvements in the mode of education potentially unsuccessful.}
+#autolink_nodes 16 17 satelite elaboration-additional  5015
+#create-a-node-here really 10.80 18 {\nUnless parents and educators alike start to develop more discipline in children,}
+#create-a-node-here really 10.160 19 { all the worthy concern, discussions and actions will not solve the problem.}
+#nextSentence really
+#autolink_nodes 18 19 nucleus condition  5016
+#autolink_nodes 5014 5016 satelite elaboration-additional  5017
+#disconnect_node 5016 modify
+#UNDID
+#autolink_nodes 5003 5017 satelite comment  5018
+#change_constit 5018 Text
+#create-a-node-here really 12.18 20 { \n\nAllen B. Richards }
+#create-a-node-here really 14.19 21 {\n\nPeterborough, N.H. }
+#autolink_nodes 20 21 satelite elaboration-additional  5019
+#change_constit 5019 Author
+#autolink_nodes 5019 5019 multinuclear TextualOrganization  5020
+#UNDID
+#autolink_nodes 5018 5019 multinuclear TextualOrganization  5020
+#change_constit 5019 Author
+#disconnect_node 4 modify
+#autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5021
+#UNDID
+#autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5021
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 15.0 20 { \n\nAllen B. Richards \n\nPeterborough, N.H. \n}
+#nextSentence really
+#autolink_nodes 20 20 schema Author  5018
+#autolink_nodes 5018 5018 schema Text  5018
+#autolink_nodes 5018 20 multinuclear TextualOrganization  5019
+#disconnect_node 20 disconnect
+#autolink_nodes 20 20 schema Signature-Block  5019
+#autolink_nodes 5018 20 multinuclear TextualOrganization  5020
+#disconnect_node 4 modify
+#autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5021
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 7.92 12 {\nAfter a wonderfully frivolous early childhood, they are exposed to rigid discipline as soon }
+create-a-node-here really 7.119 13 {as they enter school." }
+autolink_nodes 12 13 satelite comparison  5009
+create-a-node-here really 9.25 14 {\n\nWhat far too many people }
+create-a-node-here really 9.55 15 {concerned about education }
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5010
+create-a-node-here really 9.193 16 {either fail to understand or choose to ignore is that American children, on the whole, are among the most undisciplined in the world, }
+autolink_nodes 5010 16 multinuclear Same-Unit  5011
+create-a-node-here really 9.282 17 {making any attempt at improvements in the mode of education potentially unsuccessful.}
+autolink_nodes 16 17 satelite consequence-s  5012
+create-a-node-here really 10.81 18 {\nUnless parents and educators alike start to develop more discipline in children, }
+create-a-node-here really 10.160 19 {all the worthy concern, discussions and actions will not solve the problem.}
+nextSentence really
+autolink_nodes 18 19 nucleus condition  5013
+nextSentence really
+#create-a-node-here really 14.18 20 { \n\nAllen B. Richards \n\nPeterborough, N.H.}
+#autolink_nodes 20 20 schema Signature-Block  5013
+#autolink_nodes 5007 5009 satelite manner  5014
+#autolink_nodes 5004 5014 satelite elaboration-general-specific  5015
+#autolink_nodes 5002 5015 satelite explanation-argumentative  5016
+#autolink_nodes 5011 5013 satelite elaboration-additional  5017
+#autolink_nodes 5003 5017 satelite comment  5018
+#autolink_nodes 5018 5018 schema Text  5018
+#autolink_nodes 5018 20 multinuclear TextualOrganization  5019
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 12.18 20 { \n\nAllen B. Richards }
+create-a-node-here really 14.19 21 {\n\nPeterborough, N.H. }
+autolink_nodes 20 21 multinuclear List  5014
+autolink_nodes 5007 5009 satelite manner  5015
+autolink_nodes 5004 5015 satelite elaboration-general-specific  5016
+autolink_nodes 5011 5013 satelite elaboration-additional  5017
+autolink_nodes 5002 5016 satelite explanation-argumentative  5018
+autolink_nodes 5003 5017 satelite comment  5019
+autolink_nodes 5014 5014 schema Signature-Block  5019
+#autolink_nodes 5019 5019 schema Text  5019
+#UNDID
+autolink_nodes 5019 5019 schema Text  5019
+autolink_nodes 5019 5014 multinuclear TextualOrganization  5020

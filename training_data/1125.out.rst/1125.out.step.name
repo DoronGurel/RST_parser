@@ -1,0 +1,187 @@
+nextSentence really
+create-a-node-here really 2.85 1 {\nFor the real estate industry, a watchword for the 1990s will be buy, more than build.}
+nextSentence really
+create-a-node-here really 4.25 2 { \n\nThat's the word expected }
+create-a-node-here really 4.130 3 {to be on the lips of the more than 3,000 developers, pension-fund advisers and real estate financiers }
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 4.172 4 {slated to attend a four-day conference,}
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 4.198 5 { beginning here today, }
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5003
+create-a-node-here really 4.239 6 {sponsored by the Urban Land Institute.}
+nextSentence really
+autolink_nodes 5003 6 satelite-embedded elaboration-additional-e  5004
+create-a-node-here really 5.53 7 {\nThe ULI is a non-profit research and education group }
+create-a-node-here really 5.82 8 {based in Washington, D.C.,}
+#autolink_nodes 7 8 satelite-embedded elaboration-additional-e  5005
+#UNDID
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5005
+disconnect_node 6 modify
+autolink_nodes 5003 6 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 5.118 9 { with 14,000 members nationwide. }
+autolink_nodes 5005 9 multinuclear Same-Unit  5007
+autolink_nodes 6 5007 satelite elaboration-additional  5008
+autolink_nodes 1 5001 satelite elaboration-additional  5009
+create-a-node-here really 7.90 10 {\n\nWith the market overbuilt, builders are finding limited opportunities and increased risks.}
+nextSentence really
+autolink_nodes 5009 10 satelite explanation-argumentative  5010
+disconnect_node 10 modify
+autolink_nodes 5009 10 satelite evidence  5011
+create-a-node-here really 8.129 11 {\nDevelopers and money managers are looking for bargains among the thousands of financially troubled properties around the country.}
+nextSentence really
+autolink_nodes 10 11 multinuclear List  5012
+create-a-node-here really 9.102 12 {\nReal estate professionals now often bill themselves as "turnaround experts" and "workout specialists."}
+nextSentence really
+autolink_nodes 5012 12 multinuclear List below 5012
+disconnect_node 5012 modify
+autolink_nodes 5009 5012 satelite elaboration-additional  5013
+create-a-node-here really 11.131 13 { \n\nConference attendees are expected to be buzzing about the workings of the recently formed Resolution Trust Corp., a federal agency }
+create-a-node-here really 11.202 14 {charged with disposing of an estimated $200 billion of real estate }
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5014
+create-a-node-here really 11.264 15 {dumped in government hands by insolvent savings and loans.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 5013 5014 satelite elaboration-additional  5016
+create-a-node-here really 13.76 16 { \n\nDevelopers are also eyeing the real estate portfolios of major corporations.}
+nextSentence really
+disconnect_node 5014 disconnect
+disconnect_node 5012 modify
+autolink_nodes 5009 5012 satelite evidence  5017
+autolink_nodes 5012 5014 satelite elaboration-additional  5018
+create-a-node-here really 14.67 17 {\nSome plan to pursue foreign development ventures, mostly in Europe.}
+nextSentence really
+autolink_nodes 16 17 multinuclear List  5019
+create-a-node-here really 15.85 18 {\nAnd other developers may shift from commercial to residential development in the U.S.}
+autolink_nodes 5019 18 multinuclear List below 5019
+create-a-node-here really 17.116 19 { \n\n"There aren't as many economically viable alternatives for real estate developers in this country as 10 years ago," }
+create-a-node-here really 17.177 20 {says Charles Shaw, a Chicago-based real estate developer.}
+nextSentence really
+autolink_nodes 19 20 satelite attribution  5020
+create-a-node-here really 17.208 21 { "So developers are saying }
+create-a-node-here really 17.254 22 {they will look into distressed properties.}
+nextSentence really
+autolink_nodes 21 22 nucleus attribution  5021
+autolink_nodes 5020 5021 nucleus result  5022
+autolink_nodes 5019 5022 satelite explanation-argumentative  5023
+create-a-node-here really 18.39 23 {\nThey'll go into someone else's pasture }
+create-a-node-here really 18.80 24 {as long as it's greener than the one }
+create-a-node-here really 18.100 25 {they're in now."}
+nextSentence really
+#autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5024
+#UNDID
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 23 5024 satelite condition  5025
+#autolink_nodes 5021 5025 satelite elaboration-additional below 5026
+#UNDID
+autolink_nodes 5021 5025 satelite elaboration-additional below 5026
+create-a-node-here really 20.91 26 { \n\nDevelopers are also forming more joint ventures with pension funds and insurance companies }
+create-a-node-here really 21.0 27 {that can finance big projects.\n}
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5027
+autolink_nodes 5023 5027 multinuclear List  5028
+create-a-node-here really 21.57 28 {The builders are more willing to give up some equity }
+create-a-node-here really 21.104 29 {and rely on management and consulting fees }
+autolink_nodes 28 29 multinuclear List  5029
+create-a-node-here really 21.142 30 {to stay afloat in the soft market.}
+nextSentence really
+autolink_nodes 5029 30 satelite purpose  5030
+#disconnect_node 5027 disconnect
+#UNDID
+create-a-node-here really 21.192 31 { "Developers are teaming up with institutions }
+create-a-node-here really 21.231 32 {often acting as project managers," }
+#autolink_nodes 31 32 satelite-embedded elaboration-additional-e  5031
+#UNDID
+create-a-node-here really 21.323 33 {says Smedes York, ULI president and president of York Properties Inc., of Raleigh, N.C. }
+autolink_nodes 31 32 satelite-embedded elaboration-additional-e  5031
+autolink_nodes 5031 33 satelite attribution  5032
+create-a-node-here really 21.379 34 {"They are growing more pragmatic about their role." }
+autolink_nodes 5032 34 satelite interpretation-s  5033
+autolink_nodes 5030 5033 satelite explanation-argumentative  5034
+autolink_nodes 5028 5034 multinuclear List above 5035
+create-a-node-here really 23.77 35 {\n\nReal estate firms are also using their alliances with financial institutions }
+create-a-node-here really 23.108 36 {to amass acquisition funds.}
+nextSentence really
+autolink_nodes 35 36 satelite purpose  5036
+create-a-node-here really 23.271 37 { "Why should you beat your brains out fighting the environmentalists, the neighborhood groups, dealing with traffic mitigation, sewers and fighting city hall, }
+create-a-node-here really 23.346 38 {then try to convince a lender to lend you money in an overbuilt market }
+autolink_nodes 37 38 multinuclear Sequence  5037
+create-a-node-here really 23.386 39 {when you can get pension fund money,}
+create-a-node-here really 23.408 40 { buy a portfolio, }
+autolink_nodes 39 40 multinuclear Sequence  5038
+create-a-node-here really 23.435 41 {sell off pieces off it }
+autolink_nodes 5038 41 multinuclear Sequence below 5038
+create-a-node-here really 23.463 42 {and play your own game?"}
+nextSentence really
+autolink_nodes 5038 42 multinuclear Sequence below 5038
+autolink_nodes 5037 5038 satelite contingency  5039
+autolink_nodes 5036 5039 satelite rhetorical-question  5040
+create-a-node-here really 23.582 43 { says Jack Rodman, managing partner of the Los Angeles office of Kenneth Leventhal Inc. a national accounting firm.}
+nextSentence really
+autolink_nodes 5039 43 satelite attribution  5041
+autolink_nodes 5035 5040 multinuclear List below 5041
+autolink_nodes 5018 5035 satelite elaboration-additional  5042
+#create-a-node-here really 25.20 44 { \n\nBut experts say that}
+#UNDID
+create-a-node-here really 25.16 44 { \n\nBut experts say }
+create-a-node-here really 25.25 45 {that }
+create-a-node-here really 25.69 46 {when it comes to distressed properties, }
+autolink_nodes 45 46 satelite-embedded circumstance-e  5043
+create-a-node-here really 25.114 47 {finding diamonds in the rough isn't easy.}
+autolink_nodes 5043 47 multinuclear Same-Unit  5044
+autolink_nodes 44 5044 nucleus attribution  5045
+create-a-node-here really 26.77 48 {\nThe level of interest in the RTC's properties has been greater than expected,}
+create-a-node-here really 26.145 49 { and has come from larger companies than initially anticipated, }
+autolink_nodes 48 49 multinuclear List  5046
+create-a-node-here really 26.197 50 {says Stan Ross, Leventhal's co-managing partner.}
+nextSentence really
+autolink_nodes 5046 50 satelite attribution  5047
+autolink_nodes 5045 5047 multinuclear List  5048
+create-a-node-here really 27.4 51 {\nAnd }
+create-a-node-here really 27.47 52 {to succeed in the turnaround business, }
+create-a-node-here really 27.60 53 {he says, }
+autolink_nodes 52 53 satelite-embedded attribution-e  5049
+create-a-node-here really 27.118 54 {developers may have to put in a lot of money and time.}
+nextSentence really
+autolink_nodes 5049 54 nucleus-embedded purpose-e  5050
+autolink_nodes 51 5050 multinuclear Same-Unit  5051
+autolink_nodes 5047 5051 multinuclear List  5052
+create-a-node-here really 29.77 55 { \n\nFinding pension funds and other sources willing to invest is a high priority.}
+nextSentence really
+create-a-node-here really 30.81 56 {\nQuips David Shulman, director of real estate research for Salomon Brothers Inc.: }
+#create-a-node-here really 30.169 57 {"A theme of the Urban Land conference will be `take a pension fund manager to lunch.}
+#nextSentence really
+#autolink_nodes 56 57 nucleus attribution  5053
+#autolink_nodes 55 5053 nucleus circumstance  5054
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 31.0 57 {"A theme of the Urban Land conference will be `take a pension fund manager to lunch. '" \n}
+nextSentence really
+autolink_nodes 56 57 nucleus attribution  5053
+autolink_nodes 55 5053 nucleus explanation-argumentative  5054
+autolink_nodes 5048 5054 multinuclear List below 5054
+disconnect_node 5054 disconnect
+autolink_nodes 5017 5048 satelite evaluation-s  5055
+autolink_nodes 5055 5054 satelite interpretation-s  5056
+disconnect_node 5049 modify
+autolink_nodes 54 5049 satelite purpose  5057
+disconnect_node 53 modify
+autolink_nodes 52 53 satelite attribution  5058
+disconnect_node 5038 modify
+autolink_nodes 5037 5038 satelite circumstance below 5059
+#disconnect_node 5049 modify
+#autolink_nodes 54 5049 satelite-embedded purpose-e  5060
+#UNDID
+#UNDID
+#disconnect_node 5049 modify
+#UNDID
+#disconnect_node 5049 modify
+#autolink_nodes 5050 5049 satelite-embedded purpose-e  5060
+#autolink_nodes 5050 5049 satelite-embedded purpose-e  5061
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 5049 modify
+autolink_nodes 54 5049 satelite-embedded purpose-e  5060
+disconnect_node 55 disconnect
+autolink_nodes 5053 55 nucleus elaboration-additional  5061

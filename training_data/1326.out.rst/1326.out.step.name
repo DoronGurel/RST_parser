@@ -1,0 +1,17 @@
+nextSentence really
+create-a-node-here really 2.62 1 {\nNorimasa Furuta, president of Japan's Mazda Motor Corp., said }
+create-a-node-here really 2.198 2 {the Japanese car maker is planning joint production with Ford Motor Co. in Europe ahead of the European Community's 1992 integration.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.83 3 { \n\nMr. Furuta didn't disclose further details of the arrangement at a news conference,}
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+create-a-node-here really 4.96 4 { but said }
+autolink_nodes 3 4 multinuclear Contrast  5003
+create-a-node-here really 4.163 5 {the project would be undertaken with Ford's European subsidiary.}
+nextSentence really
+autolink_nodes 4 5 nucleus attribution  5004
+create-a-node-here really 6.35 6 { \n\nA Ford official confirmed in Tokyo }
+autolink_nodes 5003 6 satelite elaboration-additional  5005
+create-a-node-here really 6.104 7 {that the U.S. motor vehicle maker is studying such an arrangement.}
+nextSentence really
+autolink_nodes 6 7 nucleus attribution  5006

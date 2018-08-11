@@ -1,0 +1,500 @@
+1
+ Sales of North American-built cars and trucks plunged 20.5% in mid-October from a year earlier, 
+5001
+span
+
+2
+as domestic manufacturers paid the price for heavy incentives earlier this year.
+1
+circumstance
+
+3
+ People are waiting for {new} factory giveaways, 
+5003
+span
+
+4
+said Ben Kaye, sales manager of Bob Brest Auto World in Lynn, Mass., 
+5004
+span
+
+5
+whose sales are slow.
+4
+elaboration-object-attribute-e
+
+6
+ This trend appears to be especially true at General Motors Corp., 
+5006
+span
+
+7
+which used both dealer and consumer incentives 
+5007
+span
+
+8
+to ignite sales in August and September.
+7
+purpose
+
+9
+ Since then, deliveries have slumped.
+5007
+result
+
+10
+ GM's car sales dropped 24.8% in mid-October to 69,980, 
+5010
+Temporal-Same-Time
+
+11
+while truck sales fell 26% to 37,860.
+5010
+Temporal-Same-Time
+
+12
+ GM also had dismal results in the first 10 days of the month, 
+5012
+Temporal-Same-Time
+
+13
+while other auto makers reported mixed results.
+5012
+Temporal-Same-Time
+
+14
+ All of the Big Three suffered in the just-ended period, however, 
+5014
+span
+
+15
+with sales of all domestically made cars, 
+5015
+span
+
+16
+including those built at Japanese-managed plants, 
+15
+elaboration-object-attribute-e
+
+17
+falling 19% to 158,863 from a year earlier.
+5016
+Same-Unit
+
+18
+ The seasonal adjusted annual selling rate was six million vehicles, a small improvement from the 5.8 million rate of early October, but a big drop from the 7.1 million rate a year ago.
+5014
+background
+
+19
+ Sales of domestically made trucks also continued to be sluggish in mid-October, 
+5019
+span
+
+20
+dropping 22.8% to 94,543 from a year ago. 
+19
+elaboration-object-attribute
+
+21
+ The Big Three auto makers already have slashed fourth-quarter production plans 10.4% below year-ago levels, 
+5021
+span
+
+22
+but that may not be enough 
+5022
+span
+
+23
+to prevent inventories from ballooning 
+22
+purpose
+
+24
+if sales don't improve.
+5022
+condition
+
+25
+ Industry analyst John H. Qualls, a vice president with Hill & Knowlton in St. Louis, forecasts 
+5026
+attribution
+
+26
+that domestic auto makers will have a 93-day supply of cars at the end of the year, 
+5026
+span
+
+27
+even if car sales improve to a 6.5 million vehicle rate for the quarter.
+26
+condition
+
+28
+ Ford Motor Co. reported a 21.2% drop in sales of domestic-made cars to 46,995 and a 24.2% drop in domestic trucks to 31,143. 
+5028
+span
+
+29
+The sales are being dragged down by a glut of 1989 vehicles, 
+5029
+span
+
+30
+said Joel Pitcoff, a Ford analyst.
+29
+attribution
+
+31
+ The earlier use of incentives depleted the market of scavengers for bargain-basement 1989 cars, 
+5031
+span
+
+32
+he said.
+31
+attribution
+
+33
+ Town & Country Ford in Charlotte, N.C., still needs to move about 850 1989 cars and trucks. 
+5033
+span
+
+34
+Business had been fairly strong 
+5034
+span
+
+35
+until Hurricane Hugo hit the area, 
+5035
+span
+
+36
+but has been down since.
+35
+result
+
+37
+ Chrysler Corp. also hit the rocks in mid-October.
+5036
+span
+
+38
+ The No. 3 U.S. auto maker had a 23.7% plunge in car sales to 22,336 and a 17.5% drop in truck sales to 22,925, 
+5037
+span
+
+39
+which include its minivans and Jeeps.
+38
+elaboration-object-attribute-e
+
+40
+ Honda Motor Co., 
+5038
+span
+
+41
+which continues to have short supplies of domestically made Accords, 
+40
+elaboration-object-attribute-e
+
+42
+saw its sales of North American-built cars fall 14.1% to 8,355.
+5039
+Same-Unit
+
+43
+ But sales of domestic cars and trucks at Nissan Motor Corp. rose 26.1% to 5,651.
+5041
+span
+
+44
+ A Nissan spokesman attributed the increase to the use of incentives this year and not a year ago and to higher fleet sales. 
+43
+reason
+
+45
+Toyota Motor Corp., 
+5043
+span
+
+46
+which opened a plant in Georgetown, Ky., last year, 
+45
+elaboration-object-attribute-e
+
+47
+saw sales triple to 6,256 vehicles.
+5044
+Same-Unit
+
+48
+ > a-Totals include only vehicle sales 
+5045
+span
+
+49
+reported in the period. 
+48
+elaboration-object-attribute
+
+50
+ c-Domestic car 
+5046
+List
+
+51
+ d-Percent change greater than 999%.
+5046
+List
+
+52
+ x-There were 9 selling days in the most recent period and 9 a year earlier.
+5046
+List
+
+53
+ Percentage differences based on daily sales rate rather than sales volume.
+5046
+List
+
+5001
+span
+5002
+span
+
+5002
+span
+5005
+span
+
+5003
+span
+5001
+elaboration-additional
+
+5004
+span
+3
+attribution
+
+5005
+span
+5047
+TextualOrganization
+Text
+5006
+span
+5009
+span
+
+5007
+span
+5008
+span
+
+5008
+span
+6
+elaboration-object-attribute-e
+
+5009
+span
+5013
+List
+
+5010
+multinuc
+5011
+span
+
+5011
+span
+5006
+elaboration-general-specific
+
+5012
+multinuc
+5010
+elaboration-additional
+
+5013
+multinuc
+5002
+elaboration-general-specific
+
+5014
+span
+5017
+span
+
+5015
+span
+5016
+Same-Unit
+
+5016
+multinuc
+14
+circumstance
+
+5017
+span
+5018
+span
+
+5018
+span
+5020
+span
+
+5019
+span
+5017
+elaboration-additional
+
+5020
+span
+5013
+List
+
+5021
+span
+5024
+span
+
+5022
+span
+5023
+span
+
+5023
+span
+21
+concession
+
+5024
+span
+5027
+span
+
+5025
+span
+5021
+evaluation-s
+
+5026
+span
+5025
+span
+
+5027
+span
+5018
+explanation-argumentative
+
+5028
+span
+5032
+span
+
+5029
+span
+5030
+span
+
+5030
+span
+28
+reason
+
+5031
+span
+5029
+explanation-argumentative
+
+5032
+span
+5024
+elaboration-additional
+
+5033
+span
+5028
+elaboration-additional
+
+5034
+span
+33
+explanation-argumentative
+
+5035
+span
+34
+circumstance
+
+5036
+span
+5013
+List
+
+5037
+span
+37
+elaboration-additional
+
+5038
+span
+5039
+Same-Unit
+
+5039
+multinuc
+5040
+Contrast
+
+5040
+multinuc
+5013
+List
+
+5041
+span
+5042
+List
+
+5042
+multinuc
+5040
+Contrast
+
+5043
+span
+5044
+Same-Unit
+
+5044
+multinuc
+5042
+List
+
+5045
+span
+5046
+List
+
+5046
+multinuc
+5047
+TextualOrganization
+
+5047
+multinuc
+
+
+

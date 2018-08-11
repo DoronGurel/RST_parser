@@ -1,0 +1,454 @@
+nextSentence really
+create-a-node-here really 3.0 1 {\nPart of a Series \n}
+create-a-node-here really 4.15 2 {\nSMYRNA, Ga. -- }
+create-a-node-here really 4.106 3 {The auto-dealer strip in this booming suburb runs nearly five miles along Cobb Parkway, }
+autolink_nodes 3 3 schema Text  5000
+autolink_nodes 2 3 schema Point-of-Origin  5000
+autolink_nodes 2 3 multinuclear TextualOrganization  5001
+change_constit 1 Heading
+autolink_nodes 1 5001 multinuclear TextualOrganization  5002
+create-a-node-here really 4.147 4 {stretching from the Perimeter highway }
+autolink_nodes 3 4 satelite elaboration-additional  5003
+create-a-node-here really 4.171 5 {that circles Atlanta }
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5004
+create-a-node-here really 4.252 6 {to the "Big Chicken," a pullet-roofed fast-food restaurant and local landmark.}
+nextSentence really
+autolink_nodes 5004 6 multinuclear Same-Unit  5005
+create-a-node-here really 6.93 7 { \n\nTwenty years ago, in the infancy of suburban sprawl, just a handful of dealerships were here.}
+nextSentence really
+autolink_nodes 5003 7 satelite background  5006
+create-a-node-here really 7.17 8 {\nNow there are 23.}
+nextSentence really
+autolink_nodes 7 8 multinuclear Contrast  5007
+create-a-node-here really 8.79 9 {\nAlongside such long-familiar names as Chevrolet, Ford and Dodge are nameplates }
+autolink_nodes 8 9 satelite elaboration-set-member  5008
+create-a-node-here really 8.123 10 {that didn't exist until three years ago: }
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5009
+create-a-node-here really 8.152 11 {Acura, Sterling, Hyundai.}
+nextSentence really
+autolink_nodes 10 11 satelite example  5010
+create-a-node-here really 9.91 12 {\nUnder construction is the strip's 24th showroom, the future home of Lexus, a luxury marque }
+autolink_nodes 5007 12 satelite elaboration-additional  5011
+create-a-node-here really 9.146 13 {launched by Toyota Motor Corp. just two months ago.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-additional-e  5012
+create-a-node-here really 11.111 14 { \n\nThe 1980s have spawned an explosion of consumer choice in America, in everything from phone companies to colas.}
+nextSentence really
+autolink_nodes 5006 14 satelite explanation-argumentative  5013
+create-a-node-here really 12.15 15 {\nAnd especially,}
+autolink_nodes 14 15 satelite example  5014
+create-a-node-here really 12.55 16 { as the Cobb Parkway strip attests, }
+autolink_nodes 15 16 satelite-embedded evidence-e  5015
+create-a-node-here really 12.67 17 {in cars.}
+nextSentence really
+autolink_nodes 5015 17 multinuclear Same-Unit  5016
+create-a-node-here really 13.95 18 {\nAmericans now can choose among 572 different models of cars, vans and trucks, up from just 408 }
+autolink_nodes 5016 18 satelite elaboration-set-member  5017
+create-a-node-here really 13.121 19 {when the decade began,}
+autolink_nodes 18 19 satelite-embedded circumstance-e  5018
+create-a-node-here really 13.176 20 { according to Automotive News, a trade publication.}
+nextSentence really
+autolink_nodes 5018 20 satelite attribution  5019
+create-a-node-here really 15.55 21 { \n\nFor car marketers, it has become a much tougher battle }
+autolink_nodes 5013 21 satelite evaluation-s  5020
+create-a-node-here really 15.135 22 {to keep loyal customers from defecting to one of the new makes on the block.}
+nextSentence really
+autolink_nodes 21 22 satelite purpose  5021
+create-a-node-here really 16.86 23 {\nFor American car buyers, the proliferation of choice is both liberating and confusing.}
+nextSentence really
+autolink_nodes 5021 23 satelite interpretation-s  5022
+create-a-node-here really 18.146 24 { \n\nMalcolm MacDougall, vice chairman of the Jordan, McGrath, Case & Taylor advertising agency in New York, calls the proliferation "nameplate mania."}
+nextSentence really
+autolink_nodes 23 24 satelite comment  5023
+create-a-node-here really 18.159 25 { He says }
+create-a-node-here really 18.237 26 {the number of automobile choices is causing stress among consumers today, }
+autolink_nodes 25 26 nucleus attribution  5024
+create-a-node-here really 18.287 27 {and that people will simply ignore new models }
+autolink_nodes 26 27 multinuclear List  5025
+create-a-node-here really 18.322 28 {that lack a well-defined image.}
+nextSentence really
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 24 5024 multinuclear List  5027
+create-a-node-here really 18.342 29 { "The winners," }
+autolink_nodes 5024 29 satelite elaboration-set-member  5028
+create-a-node-here really 18.359 30 {he predicts, }
+autolink_nodes 29 30 satelite attribution  5029
+create-a-node-here really 18.395 31 {"will be brands from car makers }
+autolink_nodes 5029 31 multinuclear Same-Unit  5030
+create-a-node-here really 18.463 32 {that have traditionally been associated with quality and value."}
+nextSentence really
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e  5031
+create-a-node-here really 20.8 33 { \n\nHe says }
+autolink_nodes 5030 33 satelite elaboration-additional  5032
+create-a-node-here really 20.75 34 {it's important for a new make to be as distinctive as possible }
+autolink_nodes 33 34 nucleus attribution  5033
+create-a-node-here really 20.145 35 {while still retaining links to the parent company's quality image.}
+nextSentence really
+autolink_nodes 34 35 multinuclear List  5034
+create-a-node-here really 21.40 36 {\nHe applauds Toyota and Nissan Motor Co. }
+autolink_nodes 5034 36 satelite result below 5035
+create-a-node-here really 21.105 37 {for creating separate divisions for their new luxury models, }
+autolink_nodes 36 37 satelite reason  5036
+create-a-node-here really 21.179 38 {rather than simply adding more nameplates to their standard car lines.}
+nextSentence really
+autolink_nodes 37 38 multinuclear Contrast  5037
+disconnect_node 35 disconnect
+autolink_nodes 34 35 satelite temporal-same-time below 5038
+create-a-node-here really 23.29 39 { \n\nSome auto executives believe }
+autolink_nodes 5027 39 multinuclear List below 5038
+create-a-node-here really 23.85 40 {the benefits of more choice outweigh the drawbacks. }
+autolink_nodes 39 40 nucleus attribution  5039
+create-a-node-here really 23.120 41 {"There's more noise out there, }
+autolink_nodes 5039 41 satelite interpretation-s  5040
+create-a-node-here really 23.165 42 {and the consumer may have to work harder }
+autolink_nodes 41 42 multinuclear List  5041
+create-a-node-here really 23.189 43 {to cut through it," }
+autolink_nodes 42 43 satelite purpose  5042
+create-a-node-here really 23.292 44 {says Vincent P. Barabba, executive director of market research and planning at General Motors Corp.}
+autolink_nodes 5041 44 satelite attribution  5043
+create-a-node-here really 23.358 45 { "But the reward is that there's less need to make tradeoffs" }
+autolink_nodes 5043 45 satelite antithesis  5044
+create-a-node-here really 23.387 46 {in choosing one's wheels.}
+nextSentence really
+autolink_nodes 45 46 satelite-embedded elaboration-additional-e  5045
+create-a-node-here really 25.73 47 { \n\nJeanene Page, of North Salt Lake City, Utah, likes the broader selection.}
+nextSentence really
+autolink_nodes 5044 47 satelite evidence  5046
+create-a-node-here really 26.25 48 {\nShe wants something big, }
+autolink_nodes 47 48 satelite elaboration-additional  5047
+create-a-node-here really 26.100 49 {and already has looked at the Chrysler New Yorker and Lincoln Town Car.}
+nextSentence really
+autolink_nodes 48 49 multinuclear List  5048
+#create-a-node-here really 27.68 50 {\nNow, the 55-year-old car shopper is zeroing in on a full-sized van, }
+#UNDID
+change_rel 5048 background
+create-a-node-here really 27.68 50 {\nNow, the 55-year-old car shopper is zeroing in on a full-sized van, }
+autolink_nodes 5047 50 satelite elaboration-additional  5049
+create-a-node-here really 27.81 51 {figuring }
+autolink_nodes 50 51 satelite reason  5050
+create-a-node-here really 27.110 52 {that it's just the thing }
+autolink_nodes 51 52 satelite elaboration-additional  5051
+create-a-node-here really 27.141 53 {to haul nine grandchildren }
+autolink_nodes 52 53 satelite elaboration-object-attribute  5052
+create-a-node-here really 27.179 54 {and pull a boat at the same time. }
+autolink_nodes 53 54 multinuclear List  5053
+create-a-node-here really 27.231 55 {"That seems to be what all my friends are using }
+autolink_nodes 5051 55 satelite-embedded elaboration-object-attribute-e  5054
+create-a-node-here really 27.271 56 {to take the grandkids to the lake," }
+autolink_nodes 55 56 satelite purpose  5055
+create-a-node-here really 27.284 57 {she says.}
+nextSentence really
+autolink_nodes 5055 57 satelite attribution  5056
+change_rel 5049 example
+create-a-node-here really 29.39 58 { \n\nMarket segmentation in cars isn't new, }
+autolink_nodes 5020 58 satelite background  5057
+create-a-node-here really 29.71 59 {but it's far more extensive }
+autolink_nodes 58 59 satelite antithesis  5058
+create-a-node-here really 29.137 60 {than when Alfred P. Sloan Jr. conceived the idea 50 years ago.}
+nextSentence really
+autolink_nodes 59 60 satelite comparison  5059
+create-a-node-here really 30.35 61 {\nThe legendary GM chairman declared }
+autolink_nodes 60 61 satelite elaboration-additional  5060
+create-a-node-here really 30.103 62 {that his company would make "a car for every purse and purpose."}
+nextSentence really
+autolink_nodes 61 62 nucleus attribution  5061
+create-a-node-here really 32.52 63 { \n\nNow there are many cars for every purse and purpose.}
+nextSentence really
+autolink_nodes 5061 63 multinuclear Contrast  5062
+create-a-node-here really 33.95 64 {\nJust four years ago, GM planners divided the combined car and truck market into seven segments.}
+nextSentence really
+autolink_nodes 63 64 satelite example  5063
+create-a-node-here really 34.87 65 {\nToday, they identify 19 distinct segments for cars, and another 11 for trucks and vans.}
+nextSentence really
+autolink_nodes 64 65 multinuclear Contrast  5064
+create-a-node-here really 36.35 66 { \n\nThe number of makes has mushroomed }
+autolink_nodes 5058 66 satelite evidence  5065
+create-a-node-here really 36.115 67 {because the U.S. is the world's biggest and richest market for automobiles; }
+autolink_nodes 66 67 satelite reason  5066
+create-a-node-here really 36.165 68 {virtually every auto maker wants to sell here.}
+nextSentence really
+autolink_nodes 5066 68 satelite result  5067
+create-a-node-here really 37.37 69 {\nFor every brand like Renault or Fiat }
+create-a-node-here really 37.69 70 {that has been squeezed out, }
+autolink_nodes 69 70 satelite-embedded elaboration-object-attribute-e  5068
+create-a-node-here really 37.132 71 {others such as Isuzu, Daihatsu and Mitsubishi have come in.}
+nextSentence really
+autolink_nodes 5068 71 multinuclear Same-Unit  5069
+autolink_nodes 5067 5069 satelite evidence  5070
+#create-a-node-here really 39.73 72 { \n\nDetroit tries to counter the foreign invasion with new brands of its own.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 40.0 72 { \n\nDetroit tries to counter the foreign invasion with new brands of its own.\n}
+autolink_nodes 5069 72 satelite result  5071
+create-a-node-here really 40.41 73 {GM launched the Geo marque this year }
+autolink_nodes 72 73 satelite example  5072
+create-a-node-here really 40.58 74 {to sell cars }
+autolink_nodes 73 74 satelite purpose  5073
+create-a-node-here really 40.108 75 {made in partnership with foreign auto makers, }
+autolink_nodes 74 75 satelite-embedded elaboration-object-attribute-e  5074
+create-a-node-here really 40.178 76 {and next year GM's long-awaited Saturn cars will make their debut.}
+nextSentence really
+autolink_nodes 5073 76 multinuclear List  5075
+create-a-node-here really 41.52 77 {\nFord Motor Co. created the Merkur nameplate in 1985 }
+autolink_nodes 5075 77 multinuclear List below 5075
+create-a-node-here really 42.0 78 {to sell its German-made touring sedans in the U.S.\n}
+autolink_nodes 77 78 satelite purpose  5076
+create-a-node-here really 42.64 79 {But slow sales forced Ford to kill the brand just last week.}
+nextSentence really
+autolink_nodes 5076 79 satelite antithesis  5077
+create-a-node-here really 44.37 80 { \n\nWhen consumers have so many choices, }
+autolink_nodes 5065 80 satelite evaluation-s  5078
+create-a-node-here really 44.82 81 {brand loyalty is much harder to maintain.}
+nextSentence really
+#autolink_nodes 80 81 satelite result  5079
+#UNDID
+autolink_nodes 80 81 nucleus cause  5079
+create-a-node-here really 45.64 82 {\nThe Wall Street Journal's "American Way of Buying" survey found }
+autolink_nodes 5079 82 satelite evidence  5080
+create-a-node-here really 46.0 83 {that 53% of today's car buyers tend to switch brands.\n}
+#autolink_nodes 82 83 satelite attribution  5081
+#create-a-node-here really 46.145 84 {For the survey, Peter D. Hart Research Associates and the Roper Organization each asked about 2,000 U.S. consumers about their buying habits.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 82 83 nucleus attribution  5081
+create-a-node-here really 46.145 84 {For the survey, Peter D. Hart Research Associates and the Roper Organization each asked about 2,000 U.S. consumers about their buying habits.}
+nextSentence really
+autolink_nodes 5081 84 satelite elaboration-additional  5082
+create-a-node-here really 48.46 85 { \n\nWhich cars do Americans favor most these days?}
+nextSentence really
+autolink_nodes 5080 85 satelite example  5083
+create-a-node-here really 49.25 86 {\nIt's hard to generalize, }
+autolink_nodes 85 86 satelite concession  5084
+create-a-node-here really 49.68 87 {but age seems to be the best predictor.}
+nextSentence really
+autolink_nodes 86 87 satelite antithesis  5085
+create-a-node-here really 50.85 88 {\nAdults under age 30 like sports cars, luxury cars, convertibles and imports far more }
+autolink_nodes 5084 88 satelite example  5086
+create-a-node-here really 50.110 89 {than their elders do.}
+nextSentence really
+autolink_nodes 88 89 satelite comparison  5087
+create-a-node-here really 51.68 90 {\nThree of every 10 buyers under 30 would prefer to buy a sports car, }
+autolink_nodes 5087 90 satelite evidence  5088
+create-a-node-here really 51.118 91 {compared with just 16% of adults 30 and over, }
+autolink_nodes 90 91 satelite comparison  5089
+create-a-node-here really 51.154 92 {according to the Journal survey.}
+nextSentence really
+autolink_nodes 5089 92 satelite attribution  5090
+create-a-node-here really 53.58 93 { \n\nYoung consumers prefer luxury cars by a 37% to 28% margin }
+autolink_nodes 5090 93 multinuclear List  5091
+create-a-node-here really 53.91 94 {-- even though older buyers, }
+create-a-node-here really 53.121 95 {because of their incomes, }
+autolink_nodes 94 95 satelite reason  5092
+create-a-node-here really 53.175 96 {are more likely to actually purchase a luxury car.}
+nextSentence really
+autolink_nodes 5092 96 multinuclear Same-Unit  5093
+autolink_nodes 93 5093 satelite concession  5094
+create-a-node-here really 55.41 97 { \n\nPerhaps most striking, 35% of households }
+create-a-node-here really 55.76 98 {headed by people aged 18 to 44 }
+autolink_nodes 97 98 satelite-embedded elaboration-object-attribute-e  5095
+create-a-node-here really 55.110 99 {have at least one foreign car.}
+nextSentence really
+autolink_nodes 5095 99 multinuclear Same-Unit  5096
+autolink_nodes 5091 5096 multinuclear List below 5096
+create-a-node-here really 56.38 100 {\nThat's true of only 14% of households }
+autolink_nodes 5096 100 satelite antithesis  5097
+create-a-node-here really 56.73 101 {headed by someone 60 or older.}
+nextSentence really
+autolink_nodes 100 101 satelite-embedded elaboration-object-attribute-e  5098
+create-a-node-here really 57.44 102 {\nGenerally, imports appeal most to Americans }
+autolink_nodes 5097 102 satelite elaboration-additional  5099
+create-a-node-here really 57.70 103 {who live in the West }
+autolink_nodes 102 103 satelite-embedded elaboration-object-attribute-e  5100
+create-a-node-here really 57.130 104 {and are well-educated, affluent and, especially, young.}
+nextSentence really
+autolink_nodes 103 104 multinuclear List  5101
+create-a-node-here really 57.216 105 { "For many baby boomers, buying a domestic car is a totally foreign experience," }
+autolink_nodes 5099 105 satelite comment  5102
+create-a-node-here really 57.314 106 {says Christopher Cedergren, auto-market analyst with J.D. Power & Co. of Agoura Hills, Calif.}
+nextSentence really
+autolink_nodes 105 106 satelite attribution  5103
+create-a-node-here really 59.25 107 { \n\nSuch preferences persist }
+autolink_nodes 5102 107 satelite explanation-argumentative  5104
+create-a-node-here really 59.65 108 {even though many Americans believe }
+autolink_nodes 107 108 satelite concession  5105
+create-a-node-here really 59.133 109 {differences between imported and domestic cars are diminishing.}
+nextSentence really
+autolink_nodes 108 109 nucleus attribution  5106
+create-a-node-here really 60.34 110 {\nOnly 58% of Americans now believe }
+autolink_nodes 5106 110 satelite evidence  5107
+create-a-node-here really 60.102 111 {that foreign cars get better gas mileage than domestic models, }
+autolink_nodes 110 111 nucleus attribution  5108
+create-a-node-here really 60.155 112 {the Journal survey found, down from 68% in 1987.}
+nextSentence really
+#autolink_nodes 111 112 satelite attribution above 5108
+#create-a-node-here really 61.79 113 {\nSome 46% give foreign cars higher quality ratings, down from 50% two years ago.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5108 112 satelite attribution  5109
+create-a-node-here really 62.0 113 {\nSome 46% give foreign cars higher quality ratings, down from 50% two years ago. \n}
+#autolink_nodes 5109 113 satelite antithesis  5110
+#UNDID
+autolink_nodes 5109 113 multinuclear List  5110
+create-a-node-here really 63.32 114 {\nOn the other hand, only 42% say }
+autolink_nodes 5110 114 satelite antithesis  5111
+create-a-node-here really 63.111 115 {foreign cars are less comfortable than U.S. models, down from 55% in 1987.}
+nextSentence really
+autolink_nodes 114 115 nucleus attribution  5112
+create-a-node-here really 65.43 116 { \n\nPeople in the automotive business disagree }
+autolink_nodes 5083 116 satelite comment  5113
+create-a-node-here really 65.110 117 {over how susceptible younger Americans are to brand switching.}
+nextSentence really
+autolink_nodes 116 117 nucleus attribution  5114
+create-a-node-here really 65.148 118 { "Once buying habits are formed, }
+autolink_nodes 5114 118 satelite example  5115
+create-a-node-here really 65.182 119 {they're very hard to break," }
+autolink_nodes 118 119 nucleus concession  5116
+create-a-node-here really 65.275 120 {declares Thomas Mignanelli, executive vice president for Nissan's U.S. sales operations.}
+nextSentence really
+autolink_nodes 5116 120 satelite attribution  5117
+create-a-node-here really 67.55 121 { \n\nBut out on Cobb Parkway, Ted Negas sees it differently.}
+nextSentence really
+autolink_nodes 5117 121 multinuclear Contrast  5118
+create-a-node-here really 67.92 122 { "The competition is so intense }
+autolink_nodes 121 122 nucleus attribution  5119
+create-a-node-here really 67.173 123 {that an owner's loyalty to a dealership or a car is virtually nonexistent," }
+#autolink_nodes 122 123 satelite result above 5119
+#UNDID
+autolink_nodes 122 123 satelite result below 5120
+create-a-node-here really 67.263 124 {says Mr. Negas, vice president of Ed Voyles Oldsmobile, one of the first dealerships }
+autolink_nodes 5120 124 satelite attribution below 5121
+create-a-node-here really 68.0 125 {to locate on the strip.\n}
+autolink_nodes 124 125 satelite-embedded elaboration-object-attribute-e  5122
+create-a-node-here really 68.85 126 {Thus the very fickleness of baby boomers may make it possible to win them back, }
+autolink_nodes 5119 126 satelite result  5123
+change_rel 126 evaluation-s
+create-a-node-here really 68.127 127 {just as it was possible to lose them.}
+nextSentence really
+autolink_nodes 126 127 satelite comparison  5124
+create-a-node-here really 70.72 128 { \n\nThe battle for customer loyalty is evident along the Cobb Parkway strip.}
+nextSentence really
+autolink_nodes 5124 128 satelite elaboration-additional  5125
+create-a-node-here really 71.91 129 {\nEd Voyles Olds recently established a special section in the service department for owners }
+autolink_nodes 128 129 satelite example  5126
+#create-a-node-here really 71.161 130 {whose cars are less than a year old, so they get quicker service.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 71.133 130 {whose cars are less than a year old, }
+autolink_nodes 129 130 satelite-embedded elaboration-object-attribute-e  5127
+create-a-node-here really 72.0 131 {so they get quicker service.\n}
+autolink_nodes 5127 131 satelite purpose  5128
+create-a-node-here really 72.165 132 {Just down the street, Chris Volvo invites serious shoppers to test-drive a new Volvo to any other dealership along the strip, and compare the cars side-by-side.}
+nextSentence really
+autolink_nodes 5126 132 multinuclear List  5129
+create-a-node-here really 74.43 133 { \n\nManufacturers, too, are stretching further }
+autolink_nodes 5129 133 multinuclear List below 5129
+create-a-node-here really 74.63 134 {to lure buyers.}
+nextSentence really
+autolink_nodes 133 134 satelite purpose  5130
+create-a-node-here really 75.23 135 {\nGM's Cadillac division,}
+create-a-node-here really 75.64 136 { ignoring Detroit's long-held maxim }
+autolink_nodes 135 136 satelite elaboration-object-attribute  5131
+create-a-node-here really 75.95 137 {that safety doesn't sell, }
+autolink_nodes 136 137 satelite-embedded elaboration-object-attribute-e  5132
+create-a-node-here really 75.133 138 {is airing television commercials }
+autolink_nodes 5131 138 multinuclear Same-Unit  5133
+create-a-node-here really 75.172 139 {touting its cars' safety features.}
+nextSentence really
+autolink_nodes 138 139 satelite-embedded elaboration-additional-e  5134
+collapsed_nodes {5130}
+collapsed_nodes {5130 5001}
+collapsed_nodes {}
+collapsed_nodes {5130}
+collapsed_nodes {5130 5133}
+autolink_nodes 5125 5133 satelite hypothetical  5135
+disconnect_node 5133 disconnect
+collapsed_nodes {5130 5133}
+collapsed_nodes {5130 5133}
+collapsed_nodes {5130 5133 5125}
+collapsed_nodes {5130 5133 5125}
+autolink_nodes 5125 5133 satelite elaboration-additional  5136
+collapsed_nodes {}
+disconnect_node 5133 disconnect
+autolink_nodes 5130 5133 satelite elaboration-additional  5137
+create-a-node-here really 78.0 140 { \n\nCadillac may be on to something.\n}
+autolink_nodes 5133 140 satelite elaboration-additional  5138
+create-a-node-here really 78.45 141 {Some 60% of the survey respondents said }
+autolink_nodes 140 141 satelite evidence  5139
+create-a-node-here really 78.82 142 {they would buy anti-lock brakes }
+autolink_nodes 141 142 nucleus attribution  5140
+create-a-node-here really 78.133 143 {even if they carry a medium or high price tag.}
+nextSentence really
+autolink_nodes 142 143 satelite concession below 5141
+create-a-node-here really 79.47 144 {\nMore than 50% felt the same way about air bags.}
+nextSentence really
+autolink_nodes 5140 144 multinuclear List  5142
+create-a-node-here really 80.47 145 {\nBoth features appealed most to buyers under 45.}
+nextSentence really
+autolink_nodes 5142 145 satelite elaboration-additional  5143
+create-a-node-here really 81.90 146 {\nIn contrast, dashboard computers, power seats and turbo-charged engines had little appeal.}
+nextSentence really
+autolink_nodes 5143 146 multinuclear Contrast  5144
+create-a-node-here really 83.60 147 { \n\nBut even a little appeal has a lot of attraction these days.}
+nextSentence really
+autolink_nodes 146 147 satelite antithesis  5145
+create-a-node-here really 84.86 148 {\nGM's Pontiac division is offering a turbo-charged V-6 engine on its Grand Prix model, }
+autolink_nodes 147 148 satelite example  5146
+create-a-node-here really 84.144 149 {even though it expects to sell only about 4,000 cars }
+autolink_nodes 148 149 satelite antithesis  5147
+create-a-node-here really 84.175 150 {equipped with that option.}
+nextSentence really
+autolink_nodes 149 150 satelite-embedded elaboration-object-attribute-e  5148
+create-a-node-here really 85.12 151 {\nThe reason: }
+autolink_nodes 5147 151 satelite reason  5149
+create-a-node-here really 85.96 152 {Items with narrow appeal can be important in a market as fragmented as today's.}
+nextSentence really
+autolink_nodes 151 152 satelite-embedded elaboration-object-attribute-e  5150
+create-a-node-here really 87.73 153 { \n\nAmericans spent more than $190 billion on new cars and trucks last year, }
+autolink_nodes 152 153 satelite evaluation-s  5151
+create-a-node-here really 87.153 154 {and just 1% of that market exceeded Polaroid Co. 's sales of $1.86 billion.}
+nextSentence really
+autolink_nodes 153 154 multinuclear List  5152
+create-a-node-here really 87.183 155 { "Even if it's only 1%," }
+autolink_nodes 154 155 satelite comment  5153
+create-a-node-here really 87.211 156 {says GM's Mr. Barabba, }
+autolink_nodes 155 156 satelite attribution  5154
+create-a-node-here really 87.266 157 {"would you throw away sales the size of Polaroid?"}
+nextSentence really
+autolink_nodes 155 157 nucleus concession  5155
+disconnect_node 156 disconnect
+autolink_nodes 155 156 satelite attribution  5156
+create-a-node-here really 90.0 158 { \n\n(All buyers 47%) \n}
+nextSentence really
+autolink_nodes 5057 158 satelite topic-shift  5157
+collapsed_nodes {5002}
+nextSentence really
+nextSentence really
+collapsed_nodes {}
+disconnect_node 116 modify
+autolink_nodes 117 116 satelite attribution-n above 5157
+disconnect_node 5118 modify
+autolink_nodes 117 5118 satelite example above 5157
+change_constit 3 
+change_constit 5157 Text
+#disconnect_node 5005 modify
+#autolink_nodes 3 5005 satelite elaboration-additional below 5158
+#UNDID
+#UNDID
+disconnect_node 5005 modify
+autolink_nodes 3 5005 satelite elaboration-additional below 5158
+change_constit 3 
+change_constit 5157 Text
+#disconnect_node 5157 modify
+#UNDID
+disconnect_node 5157 modify
+#autolink_nodes 2 5157 multinuclear TextualOrganization  5159
+#UNDID
+autolink_nodes 2 5157 multinuclear TextualOrganization  5159
+change_constit 5157 Text
+change_constit 3 

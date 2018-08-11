@@ -1,0 +1,30 @@
+nextSentence really
+create-a-node-here really 2.101 1 {\nA federal judge granted a temporary stay of the California Student Aid Commission's emergency action }
+create-a-node-here really 2.206 2 {to stop guaranteeing loans for National Technical Schools, a unit of United Education & Software Inc. }
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 4.62 3 {\n\nThe California Student Aid Commission took the action Oct. 15 }
+#create-a-node-here really 4.123 4 {after a government audit cited National Technical Schools }
+#UNDID
+create-a-node-here really 4.142 4 {after a government audit cited National Technical Schools for having courses }
+create-a-node-here really 4.203 5 {too short to be eligible for the educational loan program }
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 4.277 6 {and having a student drop-out rate far in excess of federal standards, }
+autolink_nodes 5002 6 multinuclear Same-Unit  5003
+autolink_nodes 3 5003 satelite circumstance  5004
+disconnect_node 5003 modify
+autolink_nodes 3 5003 satelite temporal-after  5005
+create-a-node-here really 4.343 7 {and it alleged other serious violations of law and regulations.}
+nextSentence really
+autolink_nodes 5003 7 satelite elaboration-additional  5006
+autolink_nodes 5001 5005 satelite circumstance  5007
+create-a-node-here really 5.132 8 {\nUnited Education & Software, a Los Angeles education services company, called the commission's action "precipitous and unwarranted."}
+nextSentence really
+autolink_nodes 5007 8 satelite evaluation-s  5008
+nextSentence really
+create-a-node-here really 8.0 9 { \n\nThe court set a hearing on the emergency action for Oct. 30.\n}
+create-a-node-here really 8.126 10 {United Education & Software posted a $250,000 bond against potential losses to the student aid commission and to taxpayers }
+create-a-node-here really 8.222 11 {in guaranteeing any more loans for National Technical Schools students prior to the hearing.}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 9 5009 multinuclear List  5010
+autolink_nodes 5008 5010 satelite consequence-s  5011

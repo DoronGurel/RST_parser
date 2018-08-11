@@ -1,0 +1,307 @@
+nextSentence really
+create-a-node-here really 2.88 1 {\nWhen the Trinity Repertory Theater named Anne Bogart its artistic director last spring, }
+create-a-node-here really 2.155 2 {the nation's theatrical cognoscenti arched a collective eyebrow.}
+nextSentence really
+autolink_nodes 1 2 nucleus circumstance  5001
+#disconnect_node 1 modify
+#UNDID
+create-a-node-here really 3.68 3 {\nMs. Bogart, an acclaimed creator of deconstructed dramatic collages }
+create-a-node-here really 3.150 4 {that tear into such sacred texts as Rodgers and Hammerstein's "South Pacific," }
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 3.175 5 {is decidedly downtown.}
+autolink_nodes 5002 5 multinuclear Same-Unit  5003
+create-a-node-here really 4.90 6 {\nTrinity Rep meanwhile is one of the nation's oldest and most respected regional theaters, }
+create-a-node-here really 4.137 7 {still hosting an annual "A Christmas Carol."}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-additional-e  5004
+autolink_nodes 5003 5004 multinuclear Contrast above 5005
+autolink_nodes 5001 5005 satelite explanation-argumentative  5006
+create-a-node-here really 6.85 8 { \n\nHow would this bastion of traditional values fare in Ms. Bogart's iconoclastic hands?}
+nextSentence really
+autolink_nodes 5005 8 satelite rhetorical-question  5007
+create-a-node-here really 7.79 9 {\nShe held her fire with her first production at the Trinity earlier this season.}
+nextSentence really
+create-a-node-here really 8.115 10 {\nIt was a predictable revival of her prize-winning off-Broadway anthology of Bertolt Brecht's theoretical writings, }
+create-a-node-here really 8.148 11 {called "No Plays, No Poetry."}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded elaboration-additional-e  5008
+autolink_nodes 9 5008 satelite elaboration-general-specific  5009
+create-a-node-here really 10.71 12 { \n\nNow, with the opening of Maxim Gorky's bourgeois-bashing "Summerfolk," }
+create-a-node-here really 10.118 13 {Ms. Bogart has laid her cards on the table.}
+nextSentence really
+autolink_nodes 12 13 nucleus circumstance  5010
+create-a-node-here really 11.15 14 {\nHers is a hand }
+create-a-node-here really 11.62 15 {that will test the mettle of her audiences.}
+nextSentence really
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 5010 5011 satelite elaboration-additional  5012
+autolink_nodes 5009 5012 multinuclear Contrast  5013
+create-a-node-here really 12.16 16 {\nFor Ms. Bogart, }
+create-a-node-here really 12.66 17 {who initially studied and directed in Germany }
+create-a-node-here really 12.175 18 {(and cites such European directors as Peter Stein, Giorgio Strehler and Ariane Mnouchkine as influences) }
+autolink_nodes 17 18 multinuclear Sequence  5014
+autolink_nodes 16 5014 satelite-embedded background-e  5015
+create-a-node-here really 12.233 19 {tends to stage her productions with a Brechtian rigor }
+create-a-node-here really 12.275 20 {-- whether the text demands it or not.}
+nextSentence really
+autolink_nodes 5015 19 multinuclear Same-Unit  5016
+autolink_nodes 5016 20 satelite concession  5017
+disconnect_node 5014 disconnect
+disconnect_node 18 disconnect
+autolink_nodes 17 18 satelite-embedded elaboration-additional-e  5018
+disconnect_node 19 disconnect
+disconnect_node 20 disconnect
+autolink_nodes 5015 5018 satelite-embedded elaboration-additional-e  5019
+autolink_nodes 5019 19 multinuclear Same-Unit  5020
+autolink_nodes 5020 20 satelite concession  5021
+create-a-node-here really 13.11 21 {\nAnd Gorky, }
+create-a-node-here really 13.66 22 {considered the father of Soviet socialist realism, }
+autolink_nodes 21 22 satelite-embedded elaboration-additional-e  5022
+create-a-node-here really 13.90 23 {did not write plays }
+create-a-node-here really 13.174 24 {that easily lend themselves to deliberately antirealistic distancing techniques.}
+nextSentence really
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5023
+autolink_nodes 5022 5023 multinuclear Same-Unit  5024
+autolink_nodes 5021 5024 multinuclear Contrast  5025
+#autolink_nodes 5013 5025 multinuclear Contrast above 5026
+#UNDID
+autolink_nodes 5012 5025 satelite explanation-argumentative  5026
+create-a-node-here really 15.64 25 { \n\nGorky was a loyal if occasionally ambivalent proletarian writer }
+create-a-node-here really 15.125 26 {committed to enlightening the masses with plain speaking }
+create-a-node-here really 16.0 27 {rooted in a slightly sour version of Chekhovian humanism.\n}
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5027
+autolink_nodes 25 5027 satelite-embedded elaboration-object-attribute-e  5028
+create-a-node-here really 16.22 28 {And "Summerfolk," }
+create-a-node-here really 16.92 29 {penned in 1904 as a kind of sequel to Chekhov's "Cherry Orchard," }
+autolink_nodes 28 29 satelite-embedded elaboration-additional-e  5029
+create-a-node-here really 16.131 30 {is a lawn party of Russian yuppies }
+create-a-node-here really 16.235 31 {engaged in an exhausting ideological fight to the finish between the allrightniks and the reformers.}
+nextSentence really
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5030
+autolink_nodes 5029 5030 multinuclear Same-Unit  5031
+disconnect_node 5027 modify
+autolink_nodes 25 5027 satelite-embedded elaboration-additional-e  5032
+autolink_nodes 5028 5031 satelite example  5033
+create-a-node-here really 17.57 32 {\nAlong the way there also are lots of romantic dalliances.}
+nextSentence really
+autolink_nodes 5031 32 satelite elaboration-additional  5034
+#autolink_nodes 5024 5033 satelite background  5035
+#UNDID
+autolink_nodes 5024 5033 satelite explanation-argumentative  5035
+create-a-node-here really 20.0 33 { \n\nWisely Ms. Bogart has kept Gorky's time and place intact.\n}
+create-a-node-here really 20.36 34 {Despite the absence of samovars }
+create-a-node-here really 20.56 35 {(and a tendency }
+create-a-node-here really 20.96 36 {to turn the furniture upside down), }
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5036
+autolink_nodes 34 5036 satelite-embedded elaboration-additional-e  5037
+create-a-node-here really 20.140 37 {the production is rich in Russian ennui }
+create-a-node-here really 20.170 38 {voiced by languorous folk }
+create-a-node-here really 20.215 39 {sporting beige linen and rumpled cotton, }
+create-a-node-here really 20.258 40 {with boaters and fishing poles aplenty.}
+nextSentence really
+autolink_nodes 38 39 satelite-embedded elaboration-object-attribute-e  5038
+autolink_nodes 37 5038 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 5039 40 multinuclear Same-Unit  5040
+autolink_nodes 5037 5040 nucleus concession  5041
+autolink_nodes 33 5041 satelite evidence  5042
+create-a-node-here really 22.102 41 { \n\nBut beyond this decorative nod to tradition, Ms. Bogart and company head off in a stylistic direction }
+create-a-node-here really 22.193 42 {that all but transforms Gorky's naturalistic drama into something akin to, well, farce.}
+nextSentence really
+autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5043
+create-a-node-here really 23.23 43 {\nThe director's attempt }
+create-a-node-here really 23.100 44 {to force some Brechtian distance between her actors and their characters }
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5044
+create-a-node-here really 23.143 45 {frequently backfires with performances }
+autolink_nodes 5044 45 multinuclear Same-Unit  5045
+create-a-node-here really 23.172 46 {that are unduly mannered.}
+nextSentence really
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5046
+create-a-node-here really 24.54 47 {\nNot only do the actors stand outside their characters }
+create-a-node-here really 24.76 48 {and make it clear }
+create-a-node-here really 24.108 49 {they are at odds with them, }
+autolink_nodes 48 49 nucleus attribution  5047
+autolink_nodes 47 5047 multinuclear List  5048
+create-a-node-here really 24.158 50 {but they often literally stand on their heads.}
+nextSentence really
+autolink_nodes 5048 50 multinuclear List above 5049
+autolink_nodes 5045 5049 satelite elaboration-additional  5050
+autolink_nodes 5043 5050 satelite interpretation-s  5051
+collapsed_nodes {}
+autolink_nodes 5042 5051 multinuclear Contrast  5052
+autolink_nodes 5006 5013 satelite consequence-s  5053
+create-a-node-here really 26.54 51 { \n\nLike Peter Sellars, Ms. Bogart manipulates her actors }
+create-a-node-here really 26.84 52 {as if they were rag dolls,}
+autolink_nodes 51 52 satelite manner  5054
+create-a-node-here really 26.119 53 { sprawling them on staircases, }
+create-a-node-here really 26.149 54 {dangling them off tables, }
+create-a-node-here really 26.187 55 {even hanging them from precipices }
+#autolink_nodes 53 54 multinuclear List  5055
+#UNDID
+#autolink_nodes 53 53 multinuclear List  5055
+#UNDID
+autolink_nodes 53 54 multinuclear List  5055
+autolink_nodes 5055 55 multinuclear List below 5055
+create-a-node-here really 26.252 56 {while having them perform some gymnastic feats of derring-do.}
+autolink_nodes 5055 56 satelite temporal-same-time  5056
+autolink_nodes 5054 5056 satelite means  5057
+create-a-node-here really 27.39 57 {\nThere are moments in this "Summerfolk" }
+create-a-node-here really 27.63 58 {when the characters }
+#create-a-node-here really 27.113 59 {populating the vast multilevel country house (}
+#UNDID
+create-a-node-here really 27.112 59 {populating the vast multilevel country house }
+autolink_nodes 58 59 satelite-embedded elaboration-object-attribute-e  5058
+create-a-node-here really 27.165 60 {(which looks like a parody of Frank Lloyd Wright }
+autolink_nodes 59 60 satelite-embedded analogy-e  5059
+create-a-node-here really 27.208 61 {and is designed by Victoria Petrovich) }
+disconnect_node 60 disconnect
+autolink_nodes 60 61 multinuclear List  5060
+autolink_nodes 5059 5060 satelite-embedded elaboration-additional-e  5061
+create-a-node-here really 27.298 62 {spout philosophic bon mots with the self-conscious rat-a-tat-tat pacing of "Laugh In."}
+nextSentence really
+autolink_nodes 5058 62 multinuclear Same-Unit  5062
+autolink_nodes 57 5062 satelite-embedded elaboration-object-attribute-e  5063
+create-a-node-here really 27.338 63 { "Talk hurts from where it spurts," }
+create-a-node-here really 27.359 64 {one of them says.}
+nextSentence really
+#autolink_nodes 63 64 satelite attribution  5064
+#UNDID
+autolink_nodes 63 64 satelite attribution  5064
+autolink_nodes 5063 5064 satelite example  5065
+create-a-node-here really 28.48 65 {\nThe clash of ideologies survives this treatment,}
+create-a-node-here really 29.0 66 { but the nuance and richness of Gorky's individual characters have vanished in the scuffle.\n}
+#autolink_nodes 65 66 nucleus antithesis  5066
+#UNDID
+autolink_nodes 65 66 multinuclear Contrast  5066
+create-a-node-here really 29.21 67 {As for the humor }
+create-a-node-here really 29.53 68 {that Gorky's text provides, }
+autolink_nodes 67 68 satelite-embedded elaboration-object-attribute-e  5067
+create-a-node-here really 29.94 69 {when repainted in such broad strokes }
+create-a-node-here really 29.151 70 {(particularly by the lesser members of the ensemble) }
+autolink_nodes 69 70 satelite-embedded elaboration-additional-e  5068
+autolink_nodes 5067 5068 satelite-embedded circumstance-e  5069
+create-a-node-here really 29.182 71 {it looks and sounds forced.}
+nextSentence really
+autolink_nodes 5069 71 multinuclear Same-Unit  5070
+#autolink_nodes 5066 5070 multinuclear Inverted-Sequence above 5071
+#UNDID
+autolink_nodes 5066 5070 multinuclear List above 5071
+autolink_nodes 5065 5071 satelite interpretation-s  5072
+autolink_nodes 5057 5072 satelite elaboration-additional  5073
+autolink_nodes 5051 5073 satelite elaboration-additional  5074
+create-a-node-here really 31.50 72 { \n\nMs. Bogart does better with music than with words }
+create-a-node-here really 31.70 73 {when she wants, }
+autolink_nodes 72 73 satelite contingency  5075
+create-a-node-here really 31.100 74 {as she so often does want,}
+autolink_nodes 73 74 satelite-embedded elaboration-additional-e  5076
+create-a-node-here really 32.0 75 { to express herself through Gorky's helpless play.\n}
+autolink_nodes 5076 75 multinuclear Same-Unit  5077
+create-a-node-here really 32.65 76 {Here she has the aid of her longtime associate Jeff Helpern, }
+create-a-node-here really 32.126 77 {whom she appointed Trinity's first-ever musical director }
+create-a-node-here really 32.214 78 {and whom she equipped with a spanking new $60,000 sound system and recording studio.}
+nextSentence really
+autolink_nodes 77 78 multinuclear List  5078
+autolink_nodes 76 5078 satelite-embedded elaboration-additional-e  5079
+autolink_nodes 5075 5079 satelite enablement  5080
+create-a-node-here really 33.78 79 {\nFor Gorky, Mr. Helpern provided an aural collage of Debussy and Rachmaninoff, }
+create-a-node-here really 33.160 80 {which is less a score than a separate character with a distinct point of view.}
+nextSentence really
+#autolink_nodes 79 80 satelite-embedded elaboration-additional-e  5081
+#UNDID
+autolink_nodes 79 80 satelite-embedded interpretation-s-e  5081
+autolink_nodes 5080 5081 satelite example  5082
+autolink_nodes 5052 5082 satelite elaboration-additional  5083
+autolink_nodes 5026 5083 satelite elaboration-additional  5084
+create-a-node-here really 35.56 81 { \n\nLike Brecht, and indeed Ezra Pound, Ms. Bogart has said }
+create-a-node-here really 35.142 82 {that her intent in such manipulative staging of the classics is simply an attempt }
+autolink_nodes 81 82 nucleus attribution  5085
+create-a-node-here really 35.164 83 {to "make it new." }
+autolink_nodes 82 83 satelite-embedded elaboration-object-attribute-e below 5086
+create-a-node-here really 35.252 84 {Indeed, during a recent post-production audience discussion, the director explained }
+create-a-node-here really 35.305 85 {that her fondest artistic wish was to find a way }
+create-a-node-here really 35.346 86 {to play "Somewhere Over the Rainbow" }
+autolink_nodes 85 86 satelite-embedded elaboration-object-attribute-e  5087
+create-a-node-here really 35.425 87 {so that the song's "original beauty comes through," surmounting the cliche.}
+nextSentence really
+autolink_nodes 5087 87 satelite purpose  5088
+autolink_nodes 84 5088 nucleus attribution  5089
+autolink_nodes 5085 5089 satelite example  5090
+create-a-node-here really 36.11 88 {\nThe danger }
+create-a-node-here really 36.57 89 {that Ms. Bogart seems to be courting here }
+autolink_nodes 88 89 satelite-embedded elaboration-object-attribute-e  5091
+create-a-node-here really 36.151 90 {is one of obfuscation rather than rejuvenation, a vision so at odds with the playwright's }
+autolink_nodes 5091 90 multinuclear Same-Unit  5092
+create-a-node-here really 36.192 91 {that the two points of view nullify, }
+create-a-node-here really 36.220 92 {rather than illuminate, }
+autolink_nodes 91 92 satelite-embedded preference-e  5093
+create-a-node-here really 36.235 93 {each other.}
+nextSentence really
+autolink_nodes 5093 93 multinuclear Same-Unit  5094
+autolink_nodes 90 5094 satelite consequence-s  5095
+autolink_nodes 5090 5092 nucleus interpretation-n  5096
+autolink_nodes 5053 5096 satelite elaboration-additional  5097
+create-a-node-here really 38.52 94 { \n\nMs. Bogart's cast is part and parcel of the problem.}
+nextSentence really
+create-a-node-here really 39.163 95 {\nEd Shea and Barbara Orson never find a real reason for their love affair as the foolish, idealistic young Vass and the tirelessly humanitarian doctor Maria Lvovna.}
+nextSentence really
+create-a-node-here really 40.114 96 {\nCynthia Strickland as the long-suffering Varvara is a tiresome whiner, not the inspirational counterrevolutionary }
+create-a-node-here really 40.133 97 {Gorky intended.}
+nextSentence really
+autolink_nodes 96 97 satelite-embedded elaboration-object-attribute-e  5098
+autolink_nodes 95 5098 multinuclear List  5099
+autolink_nodes 94 5099 satelite elaboration-set-member  5100
+create-a-node-here really 41.47 98 {\nBetter to look in the corners for performances }
+create-a-node-here really 41.73 99 {that inspire or amuse.}
+nextSentence really
+autolink_nodes 98 99 satelite-embedded elaboration-object-attribute-e  5101
+disconnect_node 5099 modify
+autolink_nodes 94 5099 satelite example  5102
+autolink_nodes 5102 5101 satelite comment  5103
+create-a-node-here really 42.15 100 {\nJanice Duclos, }
+create-a-node-here really 42.101 101 {in addition to possessing one of the evening's more impressive vocal instruments,}
+autolink_nodes 100 101 satelite-embedded elaboration-additional-e  5104
+create-a-node-here really 42.189 102 { brings an unsuspected comedic touch to her role of Olga, everybody's favorite mom.}
+nextSentence really
+autolink_nodes 5104 102 multinuclear Same-Unit  5105
+create-a-node-here really 43.44 103 {\nMarni Rice plays the maid with so much edge }
+create-a-node-here really 43.76 104 {as to steal her two scenes.}
+nextSentence really
+autolink_nodes 103 104 satelite consequence-s  5106
+autolink_nodes 5105 5106 multinuclear List above 5107
+create-a-node-here really 44.51 105 {\nBut it is the Trinity Rep newcomer, Jonathan Fried }
+create-a-node-here really 44.82 106 {(Zamislov, the paralegal) }
+autolink_nodes 105 106 satelite-embedded elaboration-additional-e  5108
+create-a-node-here really 44.114 107 {who is the actor to watch, }
+autolink_nodes 5108 107 satelite-embedded elaboration-object-attribute-e  5109
+create-a-node-here really 44.147 108 {whether he is hamming it up }
+create-a-node-here really 44.191 109 {while conducting the chamber musicians }
+autolink_nodes 108 109 satelite temporal-same-time  5110
+create-a-node-here really 44.228 110 {or seducing his neighbor's wife }
+create-a-node-here really 44.246 111 {(Becca Lish) }
+autolink_nodes 110 111 satelite-embedded restatement-e  5111
+create-a-node-here really 44.272 112 {by licking her bosom.}
+nextSentence really
+autolink_nodes 5111 112 satelite purpose  5112
+autolink_nodes 5110 5112 multinuclear Disjunction  5113
+disconnect_node 5112 modify
+autolink_nodes 5110 5112 multinuclear List  5114
+autolink_nodes 5109 5114 satelite circumstance  5115
+autolink_nodes 5107 5115 multinuclear List below 5115
+autolink_nodes 5103 5107 multinuclear Contrast  5116
+disconnect_node 5096 disconnect
+autolink_nodes 5083 5096 satelite reason  5117
+autolink_nodes 5117 5116 satelite evaluation-s  5118
+disconnect_node 5116 disconnect
+disconnect_node 5096 disconnect
+disconnect_node 5082 disconnect
+autolink_nodes 5074 5082 satelite elaboration-additional  5119
+autolink_nodes 5119 5096 satelite reason  5120
+autolink_nodes 5120 5116 satelite evaluation-s  5121
+autolink_nodes 5053 5053 schema Text  5121
+create-a-node-here really 46.45 113 { \n\nMs. de Vries writes frequently about theater.}
+nextSentence really
+autolink_nodes 113 113 schema Author  5121
+autolink_nodes 5053 113 multinuclear TextualOrganization  5122
+disconnect_node 18 disconnect
+autolink_nodes 17 18 multinuclear List  5123
+disconnect_node 112 modify
+autolink_nodes 5111 112 satelite means  5124

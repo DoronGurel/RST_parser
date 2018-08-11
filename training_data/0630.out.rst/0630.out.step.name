@@ -1,0 +1,66 @@
+nextSentence really
+create-a-node-here really 2.72 1 {\nLion Nathan Ltd., a New Zealand brewing and retail concern, said Friday }
+create-a-node-here really 2.137 2 {that Bond Corp. Holdings Ltd. is "committed" to a transaction }
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.214 3 {whereby Lion Nathan would acquire 50% of Bond's Australian brewing assets.}
+nextSentence really
+autolink_nodes 2 3 satelite elaboration-general-specific below 5002
+create-a-node-here really 4.31 4 { \n\nLion Nathan issued a statement }
+create-a-node-here really 4.41 5 {saying }
+create-a-node-here really 4.217 6 {it is applying to Australia's National Companies & Securities Commission, the nation's corporate watchdog agency, for a modification to takeover regulations "similar to that}
+autolink_nodes 5 6 nucleus attribution  5003
+create-a-node-here really 4.260 7 { obtained by" S.A. Brewing Holdings Ltd.}
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e below 5004
+autolink_nodes 4 5003 satelite-embedded elaboration-general-specific-e  5005
+autolink_nodes 5001 5005 satelite elaboration-additional  5006
+create-a-node-here really 6.67 8 { \n\nSA Brewing, an Australian brewer, last Thursday was given approval }
+create-a-node-here really 6.149 9 {to acquire an option for up to 20% of Bell Resources Ltd., a unit of Bond Corp.}
+autolink_nodes 8 9 satelite purpose  5007
+autolink_nodes 5006 5007 multinuclear Comparison  5008
+create-a-node-here really 8.89 10 { \n\nBell Resources is acquiring Bond's brewing businesses for 2.5 billion Australian dollars }
+nextSentence really
+create-a-node-here really 8.110 11 {(US$1.9 billion).}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded restatement-e  5009
+autolink_nodes 9 5009 satelite elaboration-additional  5010
+create-a-node-here really 10.67 12 { \n\nS.A. brewing would make a takeover offer for all of Bell Resources }
+create-a-node-here really 10.99 13 {if it exercises the option, }
+autolink_nodes 12 13 satelite condition  5011
+create-a-node-here really 10.131 14 {according to the commission.}
+nextSentence really
+autolink_nodes 5011 14 satelite attribution  5012
+autolink_nodes 5007 5012 satelite hypothetical  5013
+create-a-node-here really 12.92 15 { \n\nBond Corp., a brewing, property, media and resources company, is selling many of its assets }
+create-a-node-here really 12.116 16 {to reduce its debts.}
+nextSentence really
+autolink_nodes 15 16 satelite purpose  5014
+autolink_nodes 5008 5014 satelite circumstance  5015
+create-a-node-here really 14.69 17 { \n\n"Lion Nathan has a concluded contract with Bond and Bell Resources," }
+create-a-node-here really 14.124 18 {said Douglas Myers, chief executive of Lion Nathan.}
+nextSentence really
+autolink_nodes 17 18 satelite attribution  5016
+#autolink_nodes 5015 5016 satelite elaboration-additional  5017
+#UNDID
+autolink_nodes 5015 5016 satelite elaboration-additional  5017
+disconnect_node 11 disconnect
+autolink_nodes 10 11 satelite restatement  5018
+disconnect_node 5010 modify
+autolink_nodes 8 5010 satelite-embedded elaboration-object-attribute-e below 5019
+disconnect_node 3 modify
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e below 5020
+disconnect_node 5003 modify
+autolink_nodes 4 5003 satelite-embedded elaboration-object-attribute-e  5021
+disconnect_node 11 modify
+autolink_nodes 10 11 satelite-embedded restatement-e  5022
+disconnect_node 5009 disconnect
+autolink_nodes 5019 5009 satelite elaboration-additional below 5023
+disconnect_node 5016 modify
+autolink_nodes 5015 5016 satelite comment  5024
+disconnect_node 5013 disconnect
+autolink_nodes 5021 5013 satelite elaboration-general-specific  5025
+disconnect_node 5016 modify
+autolink_nodes 5015 5016 satelite summary-s  5026
+disconnect_node 5003 modify
+autolink_nodes 4 5003 satelite-embedded elaboration-general-specific-e  5027
+disconnect_node 5012 modify
+autolink_nodes 5023 5012 multinuclear Consequence  5028

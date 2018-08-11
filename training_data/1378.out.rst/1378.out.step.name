@@ -1,0 +1,9 @@
+nextSentence really
+create-a-node-here really 2.40 1 {\nAmerican Telephone & Telegraph Co. said }
+create-a-node-here really 2.104 2 {it will lay off 75 to 85 technicians here, effective Nov. 1. }
+create-a-node-here really 4.71 3 {\n\nThe workers install, maintain and repair its private branch exchanges, }
+create-a-node-here really 4.122 4 {which are large intracompany telephone networks.}
+nextSentence really
+autolink_nodes 2 1 satelite attribution  5001
+autolink_nodes 3 4 satelite-embedded elaboration-additional-e  5002
+autolink_nodes 5001 5002 satelite elaboration-additional  5003

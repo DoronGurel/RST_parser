@@ -1,0 +1,19 @@
+nextSentence really
+create-a-node-here really 2.33 1 {\nNew Canaan Investments Inc. said }
+nextSentence really
+create-a-node-here really 2.160 2 {it closed the acquisition of Carr-Lowrey Glass Co. from Newell Co., a Freeport, Ill., maker of do-it-yourself home products.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.24 3 { \n\nTerms weren't disclosed.}
+nextSentence really
+autolink_nodes 5001 3 satelite manner  5002
+create-a-node-here really 6.124 4 { \n\nCarr-Lowrey, a maker of glass bottles for the cosmetics and toiletries industries, had sales last year of about $40 million.}
+nextSentence really
+autolink_nodes 5002 4 satelite background  5003
+create-a-node-here really 8.115 5 { \n\nNew Canaan Investments is a closely held investment partnership with interests primarily in the packaging industry.}
+nextSentence really
+autolink_nodes 4 5 multinuclear List  5004
+collapsed_nodes {5003}
+nextSentence really
+nextSentence really
+collapsed_nodes {}

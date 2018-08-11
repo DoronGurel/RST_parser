@@ -1,0 +1,27 @@
+nextSentence really
+create-a-node-here really 2.18 1 {\nArchive Corp. said}
+create-a-node-here really 2.73 2 { it expects to report net income for its fiscal year}
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 2.92 3 { ended Sept. 29 }
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e below 5002
+#create-a-node-here really 2.154 4 {of a record $15 million, or $1.15 a share, up 43% from $10.}
+#nextSentence really
+#autolink_nodes 5002 4 multinuclear Same-Unit  5003
+#UNDID
+#UNDID
+#UNDID
+nextSentence really
+create-a-node-here really 2.205 4 {of a record $15 million, or $1.15 a share, up 43% from $10.5 million, or 80 cents a share, for the prior year.}
+nextSentence really
+autolink_nodes 5002 4 multinuclear Same-Unit  5003
+nextSentence really
+nextSentence really
+create-a-node-here really 4.159 5 { \n\nThe Costa Mesa, Calif., maker of computer tape drives also projected record revenue for the year of $181 million, up from $122.7 million for the previous year.}
+nextSentence really
+autolink_nodes 5001 5 multinuclear List  5004
+disconnect_node 5 disconnect
+autolink_nodes 5001 5 satelite elaboration-additional  5005
+create-a-node-here really 6.159 6 { \n\nArchive attributed the gains to strong demand for its products, continued growth of the reseller market and the acquisition of Maynard Electronics in February,}
+autolink_nodes 5 6 satelite elaboration-additional  5006
+create-a-node-here really 6.219 7 { which accounted for about 14% of the company's revenue. }
+autolink_nodes 6 7 satelite-embedded elaboration-additional-e  5007

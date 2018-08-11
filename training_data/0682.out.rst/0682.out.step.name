@@ -1,0 +1,120 @@
+nextSentence really
+create-a-node-here really 2.107 1 {\nFederal investigators have identified the problem in last July's crash of a United Airlines flight in Iowa:}
+create-a-node-here really 2.129 2 { a structural flaw }
+create-a-node-here really 2.191 3 {that developed during the making of a titanium engine disk.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 1 5001 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 4.128 4 { \n\nFor several months, officials at the Federal Aviation Administration and the National Transportation Safety Board have suspected}
+create-a-node-here really 4.184 5 { that a metallurgical flaw in the disk led to a crack}
+create-a-node-here really 4.252 6 { that ultimately caused the tail engine to break apart in flight.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5003
+#autolink_nodes 4 5003 satelite-embedded elaboration-object-attribute-e  5004
+#UNDID
+autolink_nodes 4 5003 nucleus attribution  5004
+create-a-node-here really 5.42 7 {\nThe explosion sent shards of metal flying,}
+create-a-node-here really 5.96 8 { severing the DC-10's hydraulic or control systems,}
+create-a-node-here really 5.120 9 { and led to the crash}
+create-a-node-here really 5.147 10 { that killed 112 people.}
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5005 5006 satelite result  5007
+autolink_nodes 5004 5007 satelite elaboration-additional  5008
+create-a-node-here really 7.173 11 { \n\nBut investigators could confirm their theory only after the recent retrieval of a big chunk of Flight 232's tail engine from a cornfield near the Sioux City Airport in Iowa.}
+nextSentence really
+create-a-node-here really 8.89 12 {\nThe safety board will begin four days of hearings on the accident tomorrow in Sioux City.}
+nextSentence really
+autolink_nodes 5008 11 satelite elaboration-additional  5009
+autolink_nodes 5009 12 satelite elaboration-additional  5010
+#create-a-node-here really 9.159 13 {\nAmong the issues the board will examine is whether United Airlines, a unit of UAL Corp., should have been able to detect the cracks through maintenance checks.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 9.16 13 {\nAmong the issues}
+create-a-node-here really 9.44 14 { the board will examine }
+create-a-node-here really 9.167 15 {is whether United Airlines, a unit of UAL Corp., should have been able to detect the cracks through maintenance checks.}
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 15 5011 multinuclear Same-Unit  5012
+autolink_nodes 12 5012 satelite elaboration-additional  5013
+create-a-node-here really 10.31 16 {\nThe engine involved was a CF6-6}
+create-a-node-here really 10.64 17 { made by General Electric Co.}
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5014
+create-a-node-here really 12.100 18 { \n\nAnthony Broderick, the FAA's acting executive director for regulatory standards and compliance, said}
+create-a-node-here really 12.158 19 { that recent tests of the failed engine disk indicate }
+create-a-node-here really 12.174 20 {that a flaw }
+create-a-node-here really 12.205 21 {-- known as "hard alpha" --}
+create-a-node-here really 12.277 22 { occurred in the titanium during its production almost 20 years ago.}
+nextSentence really
+autolink_nodes 20 21 satelite-embedded elaboration-additional-e  5015
+autolink_nodes 5015 22 multinuclear Same-Unit  5016
+autolink_nodes 19 5016 nucleus attribution  5017
+autolink_nodes 18 5017 nucleus attribution  5018
+autolink_nodes 5018 5014 satelite background  5019
+create-a-node-here really 13.7 23 {\nHe said}
+#create-a-node-here really 13.33 24 { there wasn't any way }
+#UNDID
+create-a-node-here really 13.32 24 { there wasn't any way}
+create-a-node-here really 13.69 25 { to detect the flaw at that time,}
+create-a-node-here really 13.118 26 { and that the process has since been changed }
+create-a-node-here really 13.144 27 {to decrease the chance}
+create-a-node-here really 13.177 28 { that such flaws would occur.}
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5020
+#autolink_nodes 26 5020 satelite consequence-s  5021
+#UNDID
+autolink_nodes 26 5020 satelite purpose  5021
+#autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5022
+#autolink_nodes 5022 5021 multinuclear List  5023
+#UNDID
+#UNDID
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5022
+#autolink_nodes 5021 5022 multinuclear List  5023
+#autolink_nodes 23 5023 nucleus attribution  5024
+#autolink_nodes 5024 5019 satelite result  5025
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5021 5022 satelite antithesis  5023
+autolink_nodes 23 5023 nucleus attribution  5024
+autolink_nodes 5024 5019 satelite result  5025
+create-a-node-here really 15.28 29 { \n\nThe FAA already has ordered }
+create-a-node-here really 15.50 30 {that all 232 disks}
+create-a-node-here really 15.78 31 { made by the old process}
+create-a-node-here really 15.109 32 { be removed from the planes}
+create-a-node-here really 15.180 33 { and subjected to an ultrasonic test in a water-submersion chamber.}
+nextSentence really
+autolink_nodes 32 33 multinuclear List  5026
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5027
+autolink_nodes 5027 5026 multinuclear Same-Unit  5028
+autolink_nodes 29 5028 nucleus attribution  5029
+create-a-node-here really 16.87 34 {\nSuch tests make the FAA confident that a Sioux City-type accident "won't happen again,"}
+create-a-node-here really 16.111 35 { said Mr. Broderick.}
+nextSentence really
+autolink_nodes 34 35 satelite attribution  5030
+autolink_nodes 5029 5030 satelite elaboration-additional  5031
+create-a-node-here really 17.24 36 {\nA spokesman for GE said }
+create-a-node-here really 17.98 37 {that the company has been working with the FAA all along on this issue}
+create-a-node-here really 17.157 38 { and "will comply fully with the required inspections."}
+nextSentence really
+autolink_nodes 37 38 multinuclear List  5032
+autolink_nodes 36 5032 nucleus attribution  5033
+create-a-node-here really 17.185 39 { But he also pointed out}
+create-a-node-here really 17.253 40 { that the recalls will have no impact on GE's engine production.}
+nextSentence really
+autolink_nodes 39 40 nucleus attribution  5034
+create-a-node-here really 18.60 41 {\nThe CF6-6 series engines aren't being manufactured any more;}
+create-a-node-here really 18.141 42 { they are only being used in the DC-10 Series 10 planes currently in service,}
+create-a-node-here really 18.154 43 { he said.}
+nextSentence really
+autolink_nodes 41 42 satelite elaboration-additional  5035
+autolink_nodes 5035 43 satelite attribution  5036
+autolink_nodes 5034 5036 satelite explanation-argumentative  5037
+autolink_nodes 5033 5037 satelite elaboration-additional  5038
+autolink_nodes 5031 5038 satelite elaboration-additional  5039
+autolink_nodes 5039 5025 satelite background  5040
+collapsed_nodes {5013}
+collapsed_nodes {5013 5025}
+autolink_nodes 5010 5040 satelite elaboration-additional  5041
+autolink_nodes 5041 5002 nucleus summary-n  5042
+collapsed_nodes {5025}
+collapsed_nodes {}

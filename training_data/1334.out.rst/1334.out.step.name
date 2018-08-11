@@ -1,0 +1,143 @@
+nextSentence really
+create-a-node-here really 2.23 1 {\nIn a last-ditch effort }
+create-a-node-here really 2.69 2 {to keep its sales force and customer base, }
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+create-a-node-here really 2.103 3 {Integrated Resources Inc. said }
+create-a-node-here really 2.212 4 {it agreed in principle to transfer ownership of its broker-dealer subsidiary to two of its top executives.}
+nextSentence really
+#autolink_nodes 3 4 nucleus attribution  5002
+#autolink_nodes 5001 5002 multinuclear Same-Unit  5003
+#UNDID
+#UNDID
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+autolink_nodes 5002 4 nucleus attribution  5003
+create-a-node-here really 4.29 5 { \n\nThe financial-services firm, }
+create-a-node-here really 4.89 6 {struggling since summer to avoid a bankruptcy-law filing }
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5004
+create-a-node-here really 4.153 7 {after missing interest payments on about $1 billion of debt, }
+autolink_nodes 6 7 satelite temporal-after  5005
+create-a-node-here really 4.177 8 {will retain the right}
+autolink_nodes 5004 8 multinuclear Same-Unit  5006
+create-a-node-here really 4.206 9 { to regain the subsidiary.}
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5007
+create-a-node-here really 5.8 10 {\nIt said }
+create-a-node-here really 5.40 11 {it will exercise that right }
+create-a-node-here really 5.108 12 {only if it sells substantially all of its other core businesses.}
+nextSentence really
+autolink_nodes 11 12 satelite condition  5008
+autolink_nodes 10 5008 nucleus attribution  5009
+autolink_nodes 5006 5009 satelite elaboration-additional  5010
+create-a-node-here really 6.27 13 {\nIt also can sell the right }
+create-a-node-here really 6.56 14 {to regain the subsidiary }
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5011
+create-a-node-here really 6.77 15 {to another party.}
+nextSentence really
+autolink_nodes 5011 15 multinuclear Same-Unit  5012
+autolink_nodes 5010 5012 satelite elaboration-additional  5013
+create-a-node-here really 9.0 16 { \n\nAlso, the broker-dealer subsidiary, Integrated Resources Equity Corp., was renamed Royal Alliance Associates Inc.\n}
+create-a-node-here really 9.54 17 {Because of Integrated's widely reported troubles, }
+create-a-node-here really 9.119 18 {the unit's representatives had been requesting a name change.}
+nextSentence really
+autolink_nodes 17 18 nucleus reason  5014
+autolink_nodes 16 5014 satelite explanation-argumentative  5015
+autolink_nodes 5003 5013 satelite condition  5016
+disconnect_node 5013 modify
+autolink_nodes 5003 5013 satelite circumstance  5017
+disconnect_node 5014 modify
+autolink_nodes 16 5014 satelite background  5018
+create-a-node-here really 10.16 19 {\nRoyal Alliance, }
+create-a-node-here really 10.86 20 {to which the 3,900 representatives' licenses will be transferred, }
+autolink_nodes 19 20 satelite-embedded elaboration-additional-e  5019
+create-a-node-here really 10.109 21 {is a shell company }
+autolink_nodes 5019 21 multinuclear Same-Unit  5020
+create-a-node-here really 10.129 22 {Integrated owns.}
+nextSentence really
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5021
+autolink_nodes 5018 5020 satelite elaboration-additional  5022
+autolink_nodes 5017 5022 satelite elaboration-general-specific  5023
+create-a-node-here really 12.280 23 { \n\nIn the transaction, Integrated will transfer 100% ownership of the subsidiary to Gerard M. Lavin, executive vice president of Integrated and head of back-office operations at the subsidiary, and Gary W. Krat, executive vice president of the parent and president of the subsidiary.}
+nextSentence really
+create-a-node-here really 14.87 24 { \n\nIntegrated will pump $3.5 million to $4 million into Royal Alliance as initial funding.}
+nextSentence really
+#autolink_nodes 23 24 satelite elaboration-additional  5024
+#autolink_nodes 5023 5024 satelite elaboration-general-specific  5025
+#UNDID
+#UNDID
+autolink_nodes 5023 23 satelite elaboration-general-specific  5024
+autolink_nodes 23 24 satelite elaboration-additional  5025
+create-a-node-here really 16.31 25 { \n\nIn an interview, Mr. Krat said }
+create-a-node-here really 16.40 26 {that }
+create-a-node-here really 16.62 27 {based on criteria }
+create-a-node-here really 16.88 28 {yet to be determined, }
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 26 5026 satelite-embedded circumstance-e  5027
+create-a-node-here really 16.163 29 {he expects to distribute 49% of Royal Alliance to the representatives, }
+create-a-node-here really 17.0 30 {who sell Integrated's insurance and mutual-fund products.\n}
+autolink_nodes 29 30 satelite-embedded elaboration-additional-e  5028
+autolink_nodes 5027 5028 multinuclear Same-Unit  5029
+autolink_nodes 25 5029 nucleus attribution  5030
+create-a-node-here really 17.42 31 {If Integrated regains Royal Alliance, }
+create-a-node-here really 17.98 32 {the representatives will retain their 49% ownership.}
+nextSentence really
+autolink_nodes 31 32 nucleus condition  5031
+#autolink_nodes 5029 5031 satelite elaboration-additional above 5031
+#UNDID
+autolink_nodes 5030 5031 satelite elaboration-additional  5032
+create-a-node-here really 19.19 33 { \n\nMr. Krat indicated }
+create-a-node-here really 19.83 34 {that completion of the transaction could take several weeks,}
+autolink_nodes 33 34 nucleus attribution  5033
+create-a-node-here really 19.170 35 { and it wasn't immediately clear what would happen to the broker-dealer subsidiary }
+create-a-node-here really 19.241 36 {if Integrated files for bankruptcy-law protection in the meantime. }
+autolink_nodes 35 36 satelite condition  5034
+autolink_nodes 34 5034 multinuclear List  5035
+autolink_nodes 5032 5033 satelite elaboration-additional  5036
+create-a-node-here really 21.69 37 {\n\nThe subsidiary isn't expected to be profitable for at least one year.}
+nextSentence really
+create-a-node-here really 22.31 38 {\nIf Integrated regains the unit,}
+create-a-node-here really 22.64 39 { it would receive any profit }
+autolink_nodes 38 39 nucleus condition  5037
+create-a-node-here really 22.86 40 {the unit reports, }
+autolink_nodes 39 40 satelite-embedded elaboration-object-attribute-e below 5038
+create-a-node-here really 22.125 41 {even while the unit is independent.}
+nextSentence really
+autolink_nodes 5037 41 satelite temporal-same-time  5039
+create-a-node-here really 23.20 42 {\nIf the deal closes, }
+create-a-node-here really 23.112 43 {the two officers will draw salaries from the independent operation, not from Integrated.}
+nextSentence really
+autolink_nodes 42 43 nucleus condition  5040
+autolink_nodes 5039 5040 multinuclear List  5041
+autolink_nodes 5024 5036 satelite hypothetical  5042
+autolink_nodes 5042 37 satelite elaboration-additional  5043
+autolink_nodes 37 5041 satelite consequence-s  5044
+create-a-node-here really 25.68 44 { \n\nMany aspects of the agreement were worked out Wednesday in Chicago, }
+create-a-node-here really 25.139 45 {when Integrated senior managers met with about 150 representatives.}
+nextSentence really
+autolink_nodes 44 45 satelite temporal-same-time  5045
+create-a-node-here really 25.153 46 { "I think }
+create-a-node-here really 25.174 47 {it was something }
+create-a-node-here really 25.183 48 {that }
+autolink_nodes 47 48 satelite-embedded elaboration-object-attribute-e  5046
+#autolink_nodes 46 5046 nucleus enablement  5047
+#UNDID
+autolink_nodes 46 5046 nucleus attribution  5047
+create-a-node-here really 25.206 49 {we and they thought}
+autolink_nodes 48 49 satelite-embedded attribution-e  5048
+create-a-node-here really 25.230 50 { was constructive," }
+autolink_nodes 5048 50 multinuclear Same-Unit  5049
+autolink_nodes 5045 5047 satelite evaluation-s  5050
+create-a-node-here really 25.315 51 {said Stephen D. Weinroth, chairman and co-chief executive officer of Integrated. }
+autolink_nodes 5047 51 satelite attribution  5051
+create-a-node-here really 27.33 52 {\n\nIntegrated made its announcement }
+create-a-node-here really 27.61 53 {after the market closed.}
+nextSentence really
+nextSentence really
+autolink_nodes 52 53 satelite temporal-after  5052
+autolink_nodes 5050 5052 satelite comment  5053
+create-a-node-here really 28.96 54 {\nIn New York Stock Exchange Composite trading, Integrated shares closed at $1.125, up 12.5 cents.}
+nextSentence really
+autolink_nodes 5052 54 satelite elaboration-additional  5054
+autolink_nodes 5043 5053 satelite elaboration-additional  5055
+disconnect_node 5026 disconnect
+autolink_nodes 5028 5026 satelite-embedded condition-e  5056
+disconnect_node 5026 modify
+autolink_nodes 5028 5026 satelite-embedded circumstance-e  5057

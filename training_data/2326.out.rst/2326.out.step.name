@@ -1,0 +1,285 @@
+nextSentence really
+create-a-node-here really 2.25 1 {\nThe Bush administration, }
+create-a-node-here really 2.139 2 {trying to blunt growing demands from Western Europe for a relaxation of controls on exports to the Soviet bloc,}
+nextSentence really
+#create-a-node-here really 3.73 3 { is questioning whether Italy's Ing.\nC. Olivetti & Co. supplied militarily valuable technology to the Soviets.}
+#nextSentence really
+#autolink_nodes 1 3 multinuclear Same-Unit  5001
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.158 3 { is questioning }
+create-a-node-here really 3.73 4 {whether Italy's Ing.\nC. Olivetti & Co. supplied militarily valuable technology to the Soviets.}
+nextSentence really
+autolink_nodes 1 2 satelite purpose  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+autolink_nodes 3 4 satelite purpose  5003
+nextSentence really
+#create-a-node-here really 5.95 5 { \n\nMost of the Western European members of Coordinating Committee on Multilateral Export Controls,}
+#UNDID
+create-a-node-here really 5.117 5 { \n\nMost of the Western European members of Coordinating Committee on Multilateral Export Controls, the unofficial forum }
+create-a-node-here really 5.195 6 {through which the U.S. and its allies align their export-control policies, }
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+#create-a-node-here really 6.0 7 {are expected to argue for more liberal export rules at a meeting to be held in Paris Oct. 25 and 26.\n}
+#autolink_nodes 5004 7 multinuclear Same-Unit  5005
+#autolink_nodes 5002 5005 satelite summary-n  5006
+#create-a-node-here really 6.61 8 {They plan to press specifically for a relaxation of rules }
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 5.263 7 {are expected to argue for more liberal export rules at a meeting }
+autolink_nodes 5004 7 multinuclear Same-Unit  5005
+create-a-node-here really 6.0 8 {to be held in Paris Oct. 25 and 26.\n}
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5002 5005 satelite summary-n  5007
+create-a-node-here really 6.61 9 {They plan to press specifically for a relaxation of rules }
+autolink_nodes 5005 9 satelite elaboration-general-specific  5008
+create-a-node-here really 7.0 10 {governing exports of machine tools, computers and other high-technology products. \n}
+#autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5009
+#UNDID
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5009
+create-a-node-here really 8.33 11 {\nBut the Bush administration says }
+create-a-node-here really 8.62 12 {it wants to see evidence }
+#autolink_nodes 11 12 satelite attribution  5010
+#UNDID
+autolink_nodes 11 12 nucleus attribution  5010
+create-a-node-here really 8.149 13 {that all Cocom members are complying fully with existing export-control procedures }
+create-a-node-here really 8.199 14 {before it will support further liberalization.}
+nextSentence really
+#autolink_nodes 13 14 nucleus condition  5011
+#UNDID
+#autolink_nodes 5010 13 satelite-embedded elaboration-object-attribute-e  5011
+#UNDID
+autolink_nodes 5010 13 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 5011 14 nucleus condition  5012
+create-a-node-here really 9.19 15 {\nTo make its point, }
+create-a-node-here really 9.83 16 {it is challenging the Italian government to explain reports }
+autolink_nodes 15 16 nucleus purpose  5013
+create-a-node-here really 9.179 17 {that Olivetti may have supplied the Soviet Union with sophisticated computer-driven devices }
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e below 5014
+#create-a-node-here really 11.0 18 {that could be used to build parts for combat aircraft. \n\n}
+#UNDID
+#create-a-node-here really 10.0 18 {that could be used to build parts for combat aircraft. \n}
+#UNDID
+create-a-node-here really 9.202 18 {that could be used }
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5015
+create-a-node-here really 10.0 19 {to build parts for combat aircraft. \n}
+#autolink_nodes 18 19 satelite topic-shift  5016
+#UNDID
+autolink_nodes 18 19 satelite purpose  5016
+autolink_nodes 5012 5013 satelite elaboration-additional  5017
+autolink_nodes 5008 5017 multinuclear Contrast  5018
+create-a-node-here really 11.25 20 {\nThe London Sunday Times, }
+create-a-node-here really 11.69 21 {which first reported the U.S. concerns, }
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5019
+disconnect_node 4 disconnect
+autolink_nodes 3 4 nucleus attribution  5020
+create-a-node-here really 11.139 22 {cited a U.S. intelligence report as the source of the allegations }
+autolink_nodes 5019 22 multinuclear Same-Unit  5021
+create-a-node-here really 11.275 23 {that Olivetti exported $25 million in "embargoed, state-of-the-art, flexible manufacturing systems to the Soviet aviation industry."}
+nextSentence really
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5022
+create-a-node-here really 11.335 24 { Olivetti reportedly began shipping these tools in 1984.}
+nextSentence really
+autolink_nodes 5021 24 satelite elaboration-additional  5023
+create-a-node-here really 13.42 25 { \n\nA State Department spokesman acknowledged }
+create-a-node-here really 13.129 26 {that the U.S. is discussing the allegations with the Italian government and Cocom, }
+autolink_nodes 25 26 nucleus attribution  5024
+autolink_nodes 5023 5024 nucleus background  5025
+collapsed_nodes {5024}
+collapsed_nodes {5024 5018}
+autolink_nodes 5018 5025 satelite elaboration-additional  5026
+collapsed_nodes {5024 5017}
+collapsed_nodes {5024}
+collapsed_nodes {}
+create-a-node-here really 13.169 27 {but declined to confirm any details.}
+nextSentence really
+autolink_nodes 26 27 satelite antithesis below 5027
+create-a-node-here really 14.67 28 {\nItalian President Francesco Cossiga promised a quick investigation }
+create-a-node-here really 14.111 29 {into whether Olivetti broke Cocom rules.}
+nextSentence really
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5028
+autolink_nodes 5024 5028 multinuclear Comparison  5029
+create-a-node-here really 15.99 30 {\nPresident Bush called his attention to the matter during the Italian leader's visit here last week.}
+nextSentence really
+#autolink_nodes 5029 30 multinuclear Comparison below 5029
+#UNDID
+autolink_nodes 5029 30 multinuclear Consequence above 5030
+create-a-node-here really 17.20 31 { \n\nOlivetti has denied }
+autolink_nodes 30 31 satelite elaboration-additional  5031
+create-a-node-here really 17.54 32 {that it violated Cocom rules, }
+#autolink_nodes 31 32 satelite attribution-n  5032
+#UNDID
+autolink_nodes 31 32 nucleus attribution-n  5032
+create-a-node-here really 17.68 33 {asserting }
+autolink_nodes 5032 33 multinuclear Contrast  5033
+create-a-node-here really 18.0 34 {that the reported shipments were properly licensed by the Italian authorities. \n}
+autolink_nodes 33 34 nucleus attribution  5034
+change_rel 33 
+change_rel 33 
+#disconnect_node 5034 disconnect
+#UNDID
+disconnect_node 5034 disconnect
+#disconnect_node 33 disconnect
+#UNDID
+disconnect_node 33 disconnect
+#autolink_nodes 33 34 satelite-embedded attribution-e  5035
+#UNDID
+autolink_nodes 34 33 satelite-embedded attribution-e  5035
+autolink_nodes 5032 5035 multinuclear Contrast  5036
+disconnect_node 5036 disconnect
+disconnect_node 30 disconnect
+autolink_nodes 5028 30 satelite elaboration-additional  5037
+#autolink_nodes 5029 5036 multinuclear Comparison below 5037
+#UNDID
+autolink_nodes 5029 5036 multinuclear Consequence above 5038
+create-a-node-here really 19.64 35 {\nAlthough the legality of these sales is still an open question, }
+autolink_nodes 5026 35 satelite interpretation-s  5039
+create-a-node-here really 19.108 36 {the disclosure couldn't be better timed }
+autolink_nodes 35 36 nucleus concession  5040
+create-a-node-here really 19.207 37 {to support the position of export-control hawks in the Pentagon and the intelligence community.}
+nextSentence really
+autolink_nodes 36 37 satelite purpose below 5041
+create-a-node-here really 19.302 38 { "It seems to me that a story like this breaks just before every important Cocom meeting," }
+autolink_nodes 5040 38 satelite comment  5042
+create-a-node-here really 19.373 39 {said a Washington lobbyist for a number of U.S. computer companies.}
+nextSentence really
+autolink_nodes 38 39 satelite attribution  5043
+create-a-node-here really 21.87 40 { \n\nThe Bush administration has sent conflicting signals about its export-control policies,}
+autolink_nodes 5039 40 satelite circumstance  5044
+create-a-node-here really 21.155 41 { reflecting unhealed divisions among several competing agencies.}
+nextSentence really
+autolink_nodes 40 41 satelite elaboration-object-attribute  5045
+create-a-node-here really 22.90 42 {\nLast summer, Mr. Bush moved the administration in the direction of gradual liberalization }
+autolink_nodes 5045 42 satelite temporal-before  5046
+create-a-node-here really 22.152 43 {when he told a North Atlantic Treaty Organization meeting }
+#autolink_nodes 42 43 satelite temporal-same-time  5047
+#create-a-node-here really 22.232 44 {that he would allow some exceptions to the Cocom embargo of strategic goods.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 42 43 satelite attribution  5047
+create-a-node-here really 23.0 44 {that he would allow some exceptions to the Cocom embargo of strategic goods.\n}
+autolink_nodes 5047 44 satelite elaboration-additional  5048
+create-a-node-here really 23.94 45 {But more recently, the Pentagon and the Commerce Department openly feuded over the extent }
+autolink_nodes 5046 45 satelite elaboration-additional  5049
+create-a-node-here really 23.173 46 {to which Cocom should liberalize exports of personal computers to the bloc.}
+nextSentence really
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5050
+create-a-node-here really 25.40 47 { \n\nHowever, these agencies generally agree }
+autolink_nodes 5050 47 multinuclear Contrast  5051
+create-a-node-here really 25.110 48 {that the West should be cautious about any further liberalization.}
+nextSentence really
+autolink_nodes 47 48 satelite elaboration-additional  5052
+create-a-node-here really 25.136 49 { "There's no evidence }
+autolink_nodes 5052 49 satelite elaboration-additional  5053
+create-a-node-here really 25.164 50 {that the Soviet program }
+autolink_nodes 49 50 satelite evidence  5054
+#create-a-node-here really 25.210 51 {to (illegally) acquire Western technology }
+#autolink_nodes 50 51 satelite-embedded elaboration-object-attribute-e  5055
+#create-a-node-here really 25.231 52 {has diminished," }
+#autolink_nodes 5055 52 multinuclear Same-Unit  5056
+#create-a-node-here really 25.269 53 {said a State Department spokesman.}
+#nextSentence really
+#autolink_nodes 5054 53 satelite attribution  5057
+#disconnect_node 53 disconnect
+#disconnect_node 52 disconnect
+#disconnect_node 51 disconnect
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 25.172 51 {to (}
+#UNDID
+create-a-node-here really 25.171 51 {to }
+create-a-node-here really 25.187 52 {(illegally) }
+create-a-node-here really 25.218 53 {acquire Western technology }
+autolink_nodes 52 53 nucleus-embedded elaboration-additional-e  5055
+autolink_nodes 51 5055 multinuclear Same-Unit  5056
+autolink_nodes 50 5056 satelite-embedded elaboration-object-attribute-e  5057
+#create-a-node-here really 25.237 54 {has diminished,}
+#autolink_nodes 50 54 multinuclear Same-Unit  5058
+#create-a-node-here really 25.278 55 {" said a State Department spokesman. }
+#autolink_nodes 5054 55 satelite attribution  5059
+#disconnect_node 33 modify
+#autolink_nodes 34 33 satelite attribution  5060
+#disconnect_node 5035 modify
+#autolink_nodes 5032 5035 satelite elaboration-additional  5061
+#disconnect_node 2 modify
+#autolink_nodes 3 2 satelite-embedded purpose-e  5062
+#disconnect_node 5020 modify
+#UNDID
+#disconnect_node 1 modify
+#autolink_nodes 3 1 multinuclear Same-Unit  5063
+#UNDID
+#UNDID
+#disconnect_node 2 modify
+#autolink_nodes 1 2 satelite purpose  5063
+#disconnect_node 5063 modify
+#autolink_nodes 5062 5063 multinuclear Same-Unit  5064
+#disconnect_node 2 modify
+#autolink_nodes 3 2 satelite-embedded purpose-e  5065
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 25.239 54 {has diminished," }
+autolink_nodes 5057 54 multinuclear Same-Unit  5058
+create-a-node-here really 25.278 55 {said a State Department spokesman. }
+autolink_nodes 5054 55 satelite attribution  5059
+#disconnect_node 5020 disconnect
+#disconnect_node 2 disconnect
+#autolink_nodes 3 2 satelite-embedded purpose-e  5060
+#UNDID
+#autolink_nodes 3 2 satelite-embedded purpose-e  5060
+#UNDID
+#UNDID
+#UNDID
+#disconnect_node 2 disconnect
+#disconnect_node 5020 disconnect
+#UNDID
+#disconnect_node 3 disconnect
+#disconnect_node 4 disconnect
+#UNDID
+#UNDID
+#UNDID
+#disconnect_node 5020 disconnect
+#UNDID
+#disconnect_node 2 disconnect
+#disconnect_node 3 disconnect
+#disconnect_node 4 disconnect
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 5001 disconnect
+autolink_nodes 3 5001 multinuclear Same-Unit  5060
+disconnect_node 2 modify
+autolink_nodes 3 2 satelite-embedded purpose-e  5061
+collapsed_nodes {5007}
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+collapsed_nodes {}
+disconnect_node 33 modify
+autolink_nodes 34 33 satelite attribution  5062

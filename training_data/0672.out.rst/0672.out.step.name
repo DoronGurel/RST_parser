@@ -1,0 +1,69 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.12 1 {\nThe premium }
+create-a-node-here really 2.113 2 {the elderly pay for coverage of doctor's bills under Part B of the Medicare health insurance plan }
+create-a-node-here really 2.161 3 {will rise to $29 a month in 1990 from $27.90,}
+create-a-node-here really 2.214 4 { the Department of Health and Human Services said.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 3 5001 multinuclear Same-Unit  5002
+autolink_nodes 5002 4 satelite attribution  5003
+create-a-node-here really 4.37 5 { \n\nIn addition, a second Part B premium }
+create-a-node-here really 4.119 6 {to cover the cost of the new program of insurance against catastrophic illness }
+create-a-node-here really 4.157 7 {will rise to $4.90 a month from $4,}
+create-a-node-here really 4.200 8 { if Congress doesn't change the program.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 7 5004 multinuclear Same-Unit  5005
+autolink_nodes 5005 8 satelite condition  5006
+create-a-node-here really 6.85 9 { \n\nThe House has voted to repeal most of the Catastrophic Coverage Act of 1988, however,}
+create-a-node-here really 6.182 10 { which would end the monthly catastrophic-care premium, as well as an unpopular income surtax }
+create-a-node-here really 6.244 11 {paid by about 40% of the wealthier Medicare beneficiaries.}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded elaboration-additional-e  5007
+autolink_nodes 9 5007 nucleus consequence-n  5008
+create-a-node-here really 8.88 12 { \n\nUnder a less-sweeping Senate plan, the catastrophic-care monthly premium would continue,}
+create-a-node-here really 8.119 13 { rising to $4.90 next year,}
+create-a-node-here really 8.158 14 { but the surtax would be abolished.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-additional-e  5009
+autolink_nodes 5009 14 multinuclear Contrast  5010
+autolink_nodes 5010 5008 multinuclear Comparison above 5011
+autolink_nodes 5006 5011 satelite elaboration-additional  5012
+nextSentence really
+nextSentence really
+create-a-node-here really 10.103 15 { \n\nMedicare Part B pays 80% of a beneficiary's allowable doctor's bills after an annual deductible of $75.}
+create-a-node-here really 11.71 16 {\nThe Catastrophic Coverage Act would add a stop-loss provision next year}
+create-a-node-here really 11.97 17 { to limit the maximum }
+create-a-node-here really 11.136 18 {beneficiaries must pay for doctors.}
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 16 5013 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 5014 15 satelite circumstance  5015
+create-a-node-here really 12.31 19 {\nBoth the House and Senate bills}
+create-a-node-here really 12.98 20 { to reduce the cost and coverage of the catastrophic-care plan }
+create-a-node-here really 12.144 21 {would eliminate the cap on doctor's bills.}
+nextSentence really
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 21 5016 multinuclear Same-Unit  5017
+autolink_nodes 5017 5015 satelite antithesis  5018
+create-a-node-here really 14.37 22 { \n\nIf the House prevails in its efforts }
+create-a-node-here really 14.76 23 {to kill the catastrophic-care plan,}
+create-a-node-here really 14.130 24 { the monthly Part B premium will be $29 next year.}
+nextSentence really
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5019
+#autolink_nodes 5019 24 multinuclear Same-Unit  5020
+#UNDID
+autolink_nodes 5019 24 nucleus condition  5020
+create-a-node-here really 15.28 25 {\nIf the Senate plan prevails,}
+create-a-node-here really 15.60 26 { the premium will be $33.90,}
+create-a-node-here really 15.160 27 { with the additional $4.90 going to pay for expanded hospital coverage under Part A of Medicare.}
+nextSentence really
+autolink_nodes 26 27 satelite elaboration-additional  5021
+autolink_nodes 25 5021 nucleus condition  5022
+create-a-node-here really 16.74 28 {\nMost of Part A's costs are paid by a payroll tax on workers and employers.}
+nextSentence really
+autolink_nodes 27 28 satelite elaboration-additional  5023
+autolink_nodes 5020 5022 multinuclear Comparison  5024
+autolink_nodes 5018 5024 satelite elaboration-additional  5025
+autolink_nodes 5012 5025 satelite elaboration-additional  5026
+autolink_nodes 5026 5003 satelite circumstance  5027

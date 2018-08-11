@@ -1,0 +1,88 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.48 1 {\nFrom the Sept. 30-Oct. 4 issue of The Economist:}
+change_constit 1 Source
+create-a-node-here really 4.70 2 { \n\nWhat defeated General Aoun was not only the weight of the Syrian army.}
+nextSentence really
+create-a-node-here really 5.54 3 {\nThe weight of Lebanon's history was also against him; }
+autolink_nodes 2 3 multinuclear List  5001
+create-a-node-here really 5.77 4 {and it is a history }
+create-a-node-here really 5.100 5 {Israel is in danger }
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5002
+create-a-node-here really 5.116 6 {of repeating.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 5001 5002 nucleus evaluation-n  5004
+create-a-node-here really 7.98 7 { \n\nLike Lebanon, and however unfairly, Israel is regarded by the Arab world as a colonial aberration.}
+nextSentence really
+autolink_nodes 5004 7 nucleus background  5005
+create-a-node-here really 8.98 8 {\nIts best hope of acceptance by its neighbours lies in reaching a settlement with the Palestinians.}
+nextSentence really
+autolink_nodes 7 8 multinuclear Problem-Solution  5006
+create-a-node-here really 9.51 9 {\nLike Lebanon, Israel is being remade by demography.}
+nextSentence really
+#autolink_nodes 8 9 satelite explanation-argumentative  5007
+#UNDID
+#autolink_nodes 5006 9 satelite explanation-argumentative above 5006
+#UNDID
+#autolink_nodes 5006 9 satelite explanation-argumentative below 5007
+#UNDID
+autolink_nodes 5006 9 satelite explanation-argumentative above 5006
+create-a-node-here really 10.68 10 {\nIn Greater Israel more than half the children under six are Muslims.}
+create-a-node-here really 11.51 11 {\nWithin 25 years Jews will probably be the minority.}
+nextSentence really
+autolink_nodes 10 11 multinuclear Contrast  5007
+autolink_nodes 9 5007 satelite evidence  5008
+create-a-node-here really 12.57 12 {\nYet Israel will neither share power with all these Arabs }
+create-a-node-here really 12.65 13 {nor,}
+autolink_nodes 12 13 multinuclear Disjunction  5009
+create-a-node-here really 12.103 14 { says its present prime minister, }
+autolink_nodes 13 14 satelite-embedded attribution-e  5010
+create-a-node-here really 12.166 15 {redraw its borders closer to its pre-1967 Jewish heartland.}
+nextSentence really
+autolink_nodes 5010 15 multinuclear Same-Unit  5011
+autolink_nodes 5005 5009 nucleus antithesis  5012
+create-a-node-here really 14.38 16 { \n\nBy not choosing one of these options, }
+create-a-node-here really 14.76 17 {Israelis will condemn themselves, }
+autolink_nodes 16 17 nucleus means  5013
+disconnect_node 5005 disconnect
+#autolink_nodes 5008 5009 nucleus antithesis  5014
+#UNDID
+disconnect_node 5008 disconnect
+autolink_nodes 8 5008 satelite explanation-argumentative  5014
+#autolink_nodes 5006 5009 nucleus antithesis  5015
+#UNDID
+autolink_nodes 5014 5009 nucleus antithesis  5015
+create-a-node-here really 14.101 18 {as the Maronites did,}
+autolink_nodes 17 18 satelite-embedded comparison-e below 5016
+create-a-node-here really 14.202 19 { to perpetual war with the Muslims in their midst, and so to the internal erosion of their state.}
+autolink_nodes 5016 19 multinuclear Same-Unit  5017
+autolink_nodes 5009 5013 nucleus antithesis  5018
+create-a-node-here really 15.116 20 {\nUnlike the Maronites, Israel's Jews will not let themselves become the weakest force in a system of private armies; }
+autolink_nodes 5017 20 multinuclear Contrast above 5019
+#disconnect_node 5009 modify
+#UNDID
+#disconnect_node 5009 modify
+#UNDID
+#disconnect_node 5009 disconnect
+#autolink_nodes 5013 5009 satelite consequence-n above 5019
+#UNDID
+#UNDID
+disconnect_node 5009 disconnect
+autolink_nodes 5013 5009 satelite consequence-n below 5020
+create-a-node-here really 15.150 21 {Jerusalem will become Belfast }
+create-a-node-here really 15.179 22 {before it becomes Beirut.}
+nextSentence really
+autolink_nodes 21 22 satelite comparison  5021
+autolink_nodes 5015 5021 nucleus interpretation-n  5022
+create-a-node-here really 16.38 23 {\nBut that is not much of a consolation }
+create-a-node-here really 16.83 24 {to draw from the failure of General Aoun.}
+nextSentence really
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5023
+autolink_nodes 5021 5023 satelite antithesis above 5023
+change_constit 5005 Text
+autolink_nodes 1 5005 multinuclear TextualOrganization  5024
+disconnect_node 18 modify
+autolink_nodes 17 18 satelite-embedded analogy-e  5025
+disconnect_node 5015 disconnect
+autolink_nodes 5021 5015 nucleus interpretation-s  5026

@@ -1,0 +1,382 @@
+nextSentence really
+#create-a-node-here really 2.135 1 {\nThe Voting Rights Act of 1965 was enacted to keep the promise of the Fifteenth Amendment and enable Southern blacks to go to the polls,}
+#UNDID
+create-a-node-here really 2.42 1 {\nThe Voting Rights Act of 1965 was enacted }
+create-a-node-here really 2.91 2 {to keep the promise of the Fifteenth Amendment}
+create-a-node-here really 2.142 3 { and enable Southern blacks to go to the polls, }
+autolink_nodes 2 3 multinuclear List  5001
+autolink_nodes 1 5001 satelite purpose  5002
+create-a-node-here really 2.205 4 {unhindered by literacy tests and other exclusionary devices.}
+nextSentence really
+autolink_nodes 3 4 satelite manner  5003
+create-a-node-here really 3.149 5 {\nTwenty-five years later, the Voting Rights Act has been transformed by the courts and the Justice Department into a program of racial gerrymandering }
+create-a-node-here really 3.215 6 {designed to increase the number of blacks and other minorities }
+create-a-node-here really 3.263 7 {-- Hispanics, Asians and native Americans -- }
+create-a-node-here really 3.290 8 {holding elective office.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded example-e  5004
+autolink_nodes 5004 8 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 5 5005 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5006 5002 satelite background  5007
+create-a-node-here really 5.62 9 { \n\nIn the 1980s, the Justice Department and lower federal courts }
+create-a-node-here really 5.100 10 {that enforce the Voting Rights Act }
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5008
+create-a-node-here really 5.230 11 {have required state legislatures and municipal governments to create the maximum number of "safe" minority election districts }
+autolink_nodes 5008 11 multinuclear Same-Unit  5009
+create-a-node-here really 5.247 12 {-- districts }
+create-a-node-here really 5.318 13 {where minorities form between 65% and 80% of the voting population.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 11 5010 satelite-embedded elaboration-additional-e  5011
+autolink_nodes 5006 5009 satelite enablement below 5012
+#create-a-node-here really 6.99 14 {\nThe program has even been called upon to create "safe" white electoral districts in municipalities }
+#create-a-node-here really 6.133 15 {where whites are the minority.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 6.38 14 {\nThe program has even been called upon }
+create-a-node-here really 6.103 15 {to create "safe" white electoral districts in municipalities }
+autolink_nodes 14 15 satelite purpose  5013
+create-a-node-here really 6.138 16 {where whites are the minority. }
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 5009 5013 satelite elaboration-additional  5015
+create-a-node-here really 8.60 17 {\n\nAlthough Section 2 of the act expressly disclaims requiring }
+create-a-node-here really 8.126 18 {that minorities win a proportional share of elective offices, }
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5016
+create-a-node-here really 8.218 19 {few municipal and state government plans achieve preclearance by the Justice Department }
+create-a-node-here really 8.274 20 {or survive the scrutiny of the lower federal courts }
+autolink_nodes 19 20 multinuclear Disjunction  5017
+create-a-node-here really 8.347 21 {unless they carve out as many solidly minority districts as possible.}
+nextSentence really
+autolink_nodes 5017 21 satelite condition  5018
+autolink_nodes 5016 5018 nucleus concession  5019
+autolink_nodes 5015 5019 satelite elaboration-additional  5020
+create-a-node-here really 10.38 22 { \n\nThe new goal of the Voting Rights Act }
+create-a-node-here really 10.84 23 {-- more minorities in political office -- }
+autolink_nodes 22 23 satelite-embedded elaboration-additional-e  5021
+create-a-node-here really 10.100 24 {is laudable.}
+nextSentence really
+autolink_nodes 5021 24 multinuclear Same-Unit  5022
+autolink_nodes 5007 5022 satelite evaluation-s  5023
+#create-a-node-here really 11.49 25 {\nFor the political process to work, all citizens, }
+#create-a-node-here really 11.73 26 {regardless of race, }
+#autolink_nodes 25 26 satelite-embedded concession-e  5024
+#create-a-node-here really 11.99 27 {must feel represented.}
+#nextSentence really
+#autolink_nodes 5024 27 multinuclear Same-Unit  5025
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 11.35 25 {\nFor the political process to work, }
+create-a-node-here really 11.53 26 {all citizens, }
+create-a-node-here really 11.77 27 {regardless of race, }
+autolink_nodes 26 27 satelite-embedded concession-e  5024
+create-a-node-here really 12.0 28 {must feel represented.\n}
+autolink_nodes 5024 28 multinuclear Same-Unit  5025
+autolink_nodes 25 5025 nucleus purpose  5026
+create-a-node-here really 12.28 29 {One essential indicator }
+create-a-node-here really 12.46 30 {that they are }
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5027
+create-a-node-here really 12.140 31 {is that members of minority groups get elected to public office with reasonable frequency.}
+nextSentence really
+autolink_nodes 5027 31 multinuclear Same-Unit  5028
+autolink_nodes 5026 5028 satelite enablement  5029
+autolink_nodes 5023 5029 satelite elaboration-additional  5030
+create-a-node-here really 13.7 32 {\nAs is, }
+create-a-node-here really 13.89 33 {blacks constitute 12% of the population, but fewer than 2% of elected leaders.}
+nextSentence really
+autolink_nodes 32 33 nucleus circumstance  5031
+create-a-node-here really 14.46 34 {\nBut racial gerrymandering is not the best way }
+create-a-node-here really 14.84 35 {to accomplish that essential goal.}
+nextSentence really
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5032
+create-a-node-here really 15.40 36 {\nIt is a quick fix for a complex problem.}
+nextSentence really
+autolink_nodes 5032 36 satelite evaluation-s  5033
+autolink_nodes 5031 5033 multinuclear Problem-Solution  5034
+create-a-node-here really 17.102 37 { \n\nFar from promoting a commonality of interests among black, white, Hispanic and other minority voters, }
+create-a-node-here really 17.133 38 {drawing the district lines }
+create-a-node-here really 17.155 39 {according to race }
+create-a-node-here really 17.168 40 {suggests }
+autolink_nodes 38 39 satelite-embedded circumstance-e  5035
+autolink_nodes 5035 40 multinuclear Same-Unit  5036
+autolink_nodes 37 5036 nucleus antithesis  5037
+create-a-node-here really 18.0 41 {that race is the voter's and the candidate's most important trait.\n}
+autolink_nodes 5036 41 nucleus attribution  5038
+autolink_nodes 5033 5037 satelite explanation-argumentative  5039
+autolink_nodes 5030 5034 multinuclear Contrast  5040
+create-a-node-here really 18.26 42 {Such a policy implies }
+create-a-node-here really 18.89 43 {that only a black politician can speak for a black person, }
+create-a-node-here really 18.162 44 {and that only a white politician can govern on behalf of a white one.}
+nextSentence really
+autolink_nodes 43 44 multinuclear List  5041
+autolink_nodes 42 5041 nucleus attribution  5042
+#autolink_nodes 41 5042 satelite interpretation-s above 5042
+#UNDID
+#autolink_nodes 5038 5042 satelite interpretation-s above 5042
+#UNDID
+autolink_nodes 5038 5042 satelite interpretation-s below 5043
+create-a-node-here really 19.84 45 {\nExamples of the divisive effects of racial gerrymandering can be seen in two cities }
+create-a-node-here really 20.0 46 {-- New York and Birmingham, Ala.\n}
+autolink_nodes 45 46 satelite-embedded elaboration-set-member-e  5044
+create-a-node-here really 20.65 47 {When they reapportion their districts after the 1990 census, }
+create-a-node-here really 20.140 48 {every other municipality and state in the country will face this issue.}
+nextSentence really
+autolink_nodes 47 48 nucleus circumstance  5045
+autolink_nodes 5044 5045 satelite elaboration-additional  5046
+#autolink_nodes 5043 5046 satelite example below 5047
+#UNDID
+#autolink_nodes 5043 5046 satelite example below 5047
+#UNDID
+autolink_nodes 5037 5046 satelite example  5047
+create-a-node-here really 21.15 49 {\nNew York City: }
+autolink_nodes 49 49 schema SectionTitle  5047
+create-a-node-here really 21.97 50 {Racial gerrymandering has been a familiar policy in New York City since 1970, }
+create-a-node-here really 21.151 51 {when Congress first amended the Voting Rights Act }
+autolink_nodes 50 51 satelite circumstance  5048
+create-a-node-here really 22.0 52 {to expand its reach beyond the Southern states.\n}
+autolink_nodes 51 52 satelite purpose  5049
+create-a-node-here really 22.45 53 {In 1972, the Justice Department required }
+create-a-node-here really 22.110 54 {that the electoral map in the borough of Brooklyn be redrawn }
+autolink_nodes 53 54 nucleus attribution  5050
+create-a-node-here really 22.155 55 {to concentrate black and Hispanic votes, }
+autolink_nodes 54 55 satelite purpose below 5051
+create-a-node-here really 22.176 56 {despite protests }
+autolink_nodes 5051 56 satelite concession below 5052
+create-a-node-here really 22.286 57 {that the new electoral boundaries would split a neighborhood of Hasidic Jews into two different districts.}
+nextSentence really
+autolink_nodes 56 57 satelite-embedded elaboration-object-attribute-e  5053
+disconnect_node 5053 disconnect
+autolink_nodes 5050 5053 satelite concession  5054
+create-a-node-here really 24.24 58 { \n\nThis year, a commission }
+create-a-node-here really 24.51 59 {appointed by the mayor }
+autolink_nodes 58 59 satelite-embedded elaboration-object-attribute-e  5055
+create-a-node-here really 24.97 60 {to revise New York's system of government }
+autolink_nodes 59 60 satelite purpose  5056
+create-a-node-here really 24.126 61 {completed a new charter, }
+autolink_nodes 5056 61 multinuclear Same-Unit  5057
+create-a-node-here really 24.179 62 {expanding the City Council to 51 from 35 members.}
+nextSentence really
+autolink_nodes 5057 62 satelite cause  5058
+create-a-node-here really 25.17 63 {\nSometime in 1991,}
+create-a-node-here really 25.68 64 { as soon as the 1990 census becomes available, }
+create-a-node-here really 25.138 65 {a redistricting panel will redraw the City Council district lines.}
+nextSentence really
+autolink_nodes 64 65 nucleus-embedded condition-e  5059
+autolink_nodes 63 5059 multinuclear Same-Unit  5060
+autolink_nodes 5055 5060 multinuclear Sequence  5061
+autolink_nodes 5054 5061 multinuclear Sequence  5062
+autolink_nodes 5048 5062 satelite elaboration-general-specific  5063
+create-a-node-here really 26.50 66 {\nThe Charter Revision Commission has made it clear }
+create-a-node-here really 26.59 67 {that }
+create-a-node-here really 26.157 68 {in response to the expectations of the Justice Department and the commission's own commitment }
+autolink_nodes 67 68 satelite-embedded circumstance-e  5064
+create-a-node-here really 26.205 69 {to enhancing minority political leadership, }
+autolink_nodes 68 69 satelite-embedded elaboration-object-attribute-e  5065
+create-a-node-here really 26.246 70 {the new district lines will be drawn }
+autolink_nodes 5064 70 multinuclear Same-Unit  5066
+create-a-node-here really 26.303 71 {to maximize the number of solidly minority districts.}
+nextSentence really
+autolink_nodes 5066 71 satelite purpose  5067
+autolink_nodes 66 5067 nucleus attribution  5068
+autolink_nodes 5060 5068 satelite elaboration-additional  5069
+create-a-node-here really 27.68 72 {\nBlacks and Hispanics currently make up 38% of the city's population }
+create-a-node-here really 27.118 73 {and hold only 25% of the seats on the council.}
+nextSentence really
+autolink_nodes 72 73 multinuclear Contrast  5070
+create-a-node-here really 29.37 74 { \n\nSeveral of the city's black leaders, }
+create-a-node-here really 29.93 75 {including Democratic mayoral nominee David Dinkins, }
+autolink_nodes 74 75 satelite-embedded example-e  5071
+create-a-node-here really 29.139 76 {have spoken out for racial gerrymandering }
+autolink_nodes 5071 76 multinuclear Same-Unit  5072
+create-a-node-here really 29.219 77 {to accord blacks and Hispanics "the fullest opportunity for representation."}
+nextSentence really
+autolink_nodes 5072 77 satelite purpose  5073
+autolink_nodes 5070 5073 satelite elaboration-additional  5074
+create-a-node-here really 31.134 78 { \n\nIn this connection, it is important to note that several members of New York's sitting City Council represent heterogeneous districts }
+create-a-node-here really 31.218 79 {that bring together sizable black, Hispanic, and non-Hispanic white populations }
+autolink_nodes 78 79 satelite-embedded elaboration-object-attribute-e  5075
+create-a-node-here really 31.355 80 {-- Carolyn Maloney's 8th district in northern Manhattan and the south Bronx and Susan Alter's 25th district in Brooklyn, for example.}
+nextSentence really
+autolink_nodes 5075 80 satelite example  5076
+create-a-node-here really 32.35 81 {\nTo win their seats on the council, }
+create-a-node-here really 32.145 82 {these political leaders have had to listen to all the voices in their district and devise public policies }
+autolink_nodes 81 82 nucleus purpose  5077
+create-a-node-here really 32.172 83 {that would benefit all.}
+nextSentence really
+autolink_nodes 82 83 satelite-embedded elaboration-object-attribute-e below 5078
+create-a-node-here really 33.22 84 {\nOften they have found }
+create-a-node-here really 33.113 85 {that the relevant issue is not race, but rather housing, crime prevention or education.}
+nextSentence really
+autolink_nodes 84 85 nucleus attribution  5079
+autolink_nodes 5077 5079 satelite elaboration-general-specific  5080
+autolink_nodes 5076 5080 satelite elaboration-additional  5081
+autolink_nodes 5074 5081 multinuclear Contrast  5082
+autolink_nodes 5069 5082 satelite explanation-argumentative  5083
+autolink_nodes 5063 5063 schema SectionText  5083
+autolink_nodes 49 5063 multinuclear TextualOrganization  5084
+nextSentence really
+create-a-node-here really 35.18 86 { \n\nBirmingham, Ala.: }
+autolink_nodes 86 86 schema SectionTitle  5084
+create-a-node-here really 35.104 87 {The unusual situation in Birmingham vividly illustrates the divisive consequences }
+create-a-node-here really 35.160 88 {of carving out safe districts for racial minorities.}
+nextSentence really
+autolink_nodes 87 88 satelite-embedded elaboration-object-attribute-e  5085
+create-a-node-here really 36.15 89 {\nIn Birmingham, }
+create-a-node-here really 36.39 90 {which is 57% black, }
+autolink_nodes 89 90 satelite-embedded elaboration-additional-e  5086
+create-a-node-here really 36.67 91 {whites are the minority.}
+nextSentence really
+autolink_nodes 5086 91 multinuclear Same-Unit  5087
+create-a-node-here really 37.10 92 {\nInsisting }
+create-a-node-here really 37.64 93 {that they are protected by the Voting Rights Act, }
+autolink_nodes 92 93 nucleus attribution  5088
+create-a-node-here really 37.117 94 {a group of whites brought a federal suit in 1987 }
+autolink_nodes 5088 94 nucleus circumstance  5089
+create-a-node-here really 37.131 95 {to demand }
+#autolink_nodes 94 95 satelite-embedded elaboration-object-attribute-e below 5090
+#create-a-node-here really 37.206 96 {that the city abandon at-large voting for the nine member City Council }
+#create-a-node-here really 37.247 97 {and create nine electoral districts, }
+#autolink_nodes 96 97 multinuclear Sequence  5091
+#create-a-node-here really 37.287 98 {including four safe white districts.}
+#nextSentence really
+#autolink_nodes 97 98 satelite-embedded elaboration-set-member-e  5092
+#autolink_nodes 95 5091 nucleus attribution  5093
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 94 95 satelite purpose below 5090
+create-a-node-here really 37.206 96 {that the city abandon at-large voting for the nine member City Council }
+create-a-node-here really 37.247 97 {and create nine electoral districts, }
+autolink_nodes 96 97 multinuclear Sequence  5091
+create-a-node-here really 38.0 98 {including four safe white districts.\n}
+autolink_nodes 97 98 satelite-embedded elaboration-set-member-e  5092
+autolink_nodes 95 5091 nucleus attribution  5093
+autolink_nodes 5087 5089 nucleus background  5094
+create-a-node-here really 38.27 99 {The white group argued }
+create-a-node-here really 38.82 100 {that whites were not fully and fairly represented, }
+autolink_nodes 99 100 nucleus attribution  5095
+create-a-node-here really 38.160 101 {because in city-wide elections only black candidates or white candidates }
+create-a-node-here really 38.198 102 {who catered to "black interests" }
+autolink_nodes 101 102 satelite-embedded elaboration-object-attribute-e  5096
+create-a-node-here really 38.213 103 {could win.}
+nextSentence really
+autolink_nodes 5096 103 multinuclear Same-Unit  5097
+autolink_nodes 5095 5097 satelite consequence-n  5098
+#autolink_nodes 5089 5098 satelite explanation-argumentative above 5098
+#UNDID
+autolink_nodes 5089 5098 satelite explanation-argumentative below 5099
+create-a-node-here really 40.27 104 { \n\nNo federal court has ruled }
+create-a-node-here really 40.86 105 {that the Voting Rights Act protects a white minority, }
+autolink_nodes 104 105 nucleus attribution  5100
+create-a-node-here really 40.169 106 {but in June the Justice Department approved a districting plan for Birmingham }
+create-a-node-here really 41.0 107 {that carves out three white-majority districts and six black-majority districts.\n}
+autolink_nodes 106 107 satelite-embedded elaboration-object-attribute-e  5101
+disconnect_node 104 modify
+autolink_nodes 105 104 satelite attribution-n  5102
+autolink_nodes 5102 5101 nucleus concession  5103
+autolink_nodes 5094 5103 nucleus result  5104
+create-a-node-here really 41.76 108 {Richard Arrington, Birmingham's black mayor, lamented the consequences.}
+nextSentence really
+create-a-node-here really 41.103 109 { "In the past, people }
+create-a-node-here really 41.134 110 {who had to run for office }
+autolink_nodes 109 110 satelite-embedded elaboration-object-attribute-e  5105
+create-a-node-here really 41.167 111 {had to moderate their views }
+autolink_nodes 5105 111 multinuclear Same-Unit  5106
+create-a-node-here really 41.230 112 {because they couldn't afford to offend blacks or whites," }
+autolink_nodes 5106 112 satelite reason  5107
+create-a-node-here really 41.243 113 {he said.}
+nextSentence really
+autolink_nodes 5107 113 satelite attribution  5108
+create-a-node-here really 41.275 114 { "Now you go to districts, }
+create-a-node-here really 41.312 115 {you're likely to get candidates }
+autolink_nodes 114 115 nucleus contingency  5109
+create-a-node-here really 41.382 116 {whose views are more extreme, white and black, on racial issues."}
+nextSentence really
+autolink_nodes 115 116 satelite-embedded elaboration-object-attribute-e below 5110
+autolink_nodes 5108 5109 multinuclear Contrast  5111
+create-a-node-here really 41.464 117 { Two hundred years ago, critics of the new United States Constitution warned }
+create-a-node-here really 41.526 118 {that the electoral districts for Congress were too large }
+create-a-node-here really 41.585 119 {and encompassed too many different economic interests.}
+nextSentence really
+autolink_nodes 118 119 multinuclear List  5112
+autolink_nodes 117 5112 nucleus attribution  5113
+create-a-node-here really 42.86 120 {\nA small farmer and a seaport merchant could not be represented by the same spokesman, }
+create-a-node-here really 42.101 121 {they said.}
+nextSentence really
+#autolink_nodes 120 121 nucleus manner  5114
+#UNDID
+autolink_nodes 120 121 satelite attribution  5114
+autolink_nodes 5113 5114 satelite explanation-argumentative  5115
+create-a-node-here really 43.90 122 {\nBut James Madison refuted that argument in one of the most celebrated political treatises }
+create-a-node-here really 43.109 123 {ever written, }
+autolink_nodes 122 123 satelite-embedded elaboration-object-attribute-e  5116
+create-a-node-here really 44.0 124 {No. 10 of the Federalist Papers.\n}
+autolink_nodes 5116 124 multinuclear Same-Unit  5117
+autolink_nodes 5115 5117 nucleus antithesis  5118
+create-a-node-here really 44.23 125 {Madison explained }
+create-a-node-here really 44.144 126 {that a representative's duty was to speak not for the narrow interests of one group but instead for the common good.}
+nextSentence really
+autolink_nodes 125 126 nucleus attribution  5119
+autolink_nodes 5117 5119 satelite explanation-argumentative below 5120
+create-a-node-here really 45.73 127 {\nLarge, heterogeneous election districts would encourage good government, }
+create-a-node-here really 45.91 128 {said Madison,}
+autolink_nodes 127 128 satelite attribution  5121
+collapsed_nodes {}
+create-a-node-here really 45.211 129 { because a representative would be compelled to serve the interests of all his constituents and be servile to none.}
+nextSentence really
+#autolink_nodes 5121 129 satelite consequence-n  5122
+#UNDID
+autolink_nodes 5121 129 satelite consequence-n  5122
+autolink_nodes 5119 5122 satelite elaboration-additional  5123
+create-a-node-here really 48.0 130 { \n\nMadison's noble and unifying vision of the representative still can guide us.\n}
+create-a-node-here really 48.27 131 {As long as we believe }
+create-a-node-here really 48.111 132 {that all Americans, of every race and ethnic background, have common interests }
+create-a-node-here really 48.153 133 {and can live together cooperatively, }
+autolink_nodes 132 133 multinuclear List  5124
+autolink_nodes 131 5124 nucleus attribution  5125
+create-a-node-here really 48.202 134 {our political map should reflect our belief.}
+nextSentence really
+autolink_nodes 5125 134 nucleus contingency  5126
+autolink_nodes 130 5126 satelite explanation-argumentative  5127
+create-a-node-here really 49.22 135 {\nRacial gerrymandering }
+create-a-node-here really 49.77 136 {-- creating separate black and white districts -- }
+autolink_nodes 135 136 satelite-embedded definition-e  5128
+create-a-node-here really 49.87 137 {says }
+autolink_nodes 5128 137 multinuclear Same-Unit  5129
+create-a-node-here really 49.142 138 {that we have discarded that belief in our ability }
+autolink_nodes 5129 138 nucleus attribution  5130
+create-a-node-here really 49.164 139 {to live together }
+create-a-node-here really 49.204 140 {and govern ourselves as one people.}
+nextSentence really
+autolink_nodes 139 140 multinuclear List  5131
+autolink_nodes 138 5131 satelite-embedded elaboration-object-attribute-e below 5132
+autolink_nodes 5127 5130 multinuclear Contrast  5133
+autolink_nodes 5118 5133 nucleus background  5134
+autolink_nodes 108 5111 satelite elaboration-general-specific  5135
+autolink_nodes 5111 5134 satelite elaboration-additional  5136
+disconnect_node 5134 disconnect
+autolink_nodes 5135 5134 satelite elaboration-additional  5137
+#autolink_nodes 5104 5137 satelite interpretation-s  5138
+#autolink_nodes 5085 5138 satelite elaboration-general-specific  5139
+#UNDID
+#UNDID
+autolink_nodes 5085 5104 satelite elaboration-general-specific  5138
+autolink_nodes 5138 5137 satelite interpretation-s  5139
+autolink_nodes 5139 5139 schema SectionText  5139
+autolink_nodes 86 5139 multinuclear TextualOrganization  5140
+autolink_nodes 5084 5140 multinuclear List above 5141
+autolink_nodes 5046 5141 satelite elaboration-additional  5142
+autolink_nodes 5040 5040 schema Text  5142
+create-a-node-here really 51.101 141 { \n\nMs. McCaughey is a constitutional scholar at the Center for the Study of the Presidency in New York. }
+autolink_nodes 141 141 schema Author  5142
+autolink_nodes 5040 141 multinuclear TextualOrganization above 5143

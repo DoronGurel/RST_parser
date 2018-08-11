@@ -1,0 +1,49 @@
+nextSentence really
+create-a-node-here really 2.18 1 {\nLegent Corp. said }
+create-a-node-here really 2.157 2 {it expects to report net income between $6.4 million and $6.9 million, or between 32 cents and 34 cents a share, for its fourth quarter }
+create-a-node-here really 2.175 3 {ended Sept. 30.}
+nextSentence really
+create-a-node-here really 3.113 4 {\nIn the year-ago quarter, the software developer reported pro forma earnings of $4.8 million, or 24 cents a share.}
+nextSentence really
+nextSentence really
+create-a-node-here really 5.30 5 { \n\nVienna, Va.-based Legent said }
+create-a-node-here really 5.102 6 {it expects to post revenue for the quarter of more than $31 million, }
+nextSentence really
+create-a-node-here really 5.162 7 {compared with pro forma revenue of $25.2 million in 1988.}
+nextSentence really
+create-a-node-here really 7.38 8 { \n\nFor the fiscal year, the company said }
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e below 5002
+autolink_nodes 5002 4 multinuclear Contrast  5003
+autolink_nodes 5 6 nucleus attribution  5004
+autolink_nodes 6 7 multinuclear Comparison  5005
+nextSentence really
+nextSentence really
+create-a-node-here really 7.114 9 {it anticipates reporting earnings of $23 million, or about $1.15 a share,}
+create-a-node-here really 7.181 10 { including a charge of about $5.9 million, or 22 cents a share, }
+create-a-node-here really 7.207 11 {related to the merger }
+create-a-node-here really 8.0 12 {that created Legent out of Duquesne Systems Inc. and Morino Inc. in March 1989.\n}
+create-a-node-here really 8.64 13 {Revenue for fiscal 1989 is expected to exceed $124 million. }
+nextSentence really
+nextSentence really
+create-a-node-here really 10.104 14 {\n\nPro forma earnings for fiscal 1988 were $19.6 million, or 99 cents a share, on revenue of $97.2 million.}
+nextSentence really
+create-a-node-here really 12.112 15 { \n\nThe company attributed much of the growth in earnings to increased demand for its systems productivity software.}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5006
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e below 5007
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5008
+autolink_nodes 5008 12 multinuclear Same-Unit  5009
+autolink_nodes 5006 13 satelite elaboration-additional  5010
+autolink_nodes 5001 5004 satelite elaboration-additional  5011
+autolink_nodes 5011 5010 satelite elaboration-additional  5012
+autolink_nodes 5010 14 satelite elaboration-additional  5013
+collapsed_nodes {5011}
+#autolink_nodes 5012 15 satelite elaboration-additional  5014
+#UNDID
+autolink_nodes 5012 15 satelite comment  5014
+collapsed_nodes {}
+collapsed_nodes {5014}
+collapsed_nodes {}
+collapsed_nodes {5014}
+collapsed_nodes {}

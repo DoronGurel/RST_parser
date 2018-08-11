@@ -1,0 +1,33 @@
+nextSentence really
+create-a-node-here really 2.78 1 {\nRoche Holding AG, parent of the Swiss chemical and pharmaceutical group, said }
+#create-a-node-here really 2.167 2 {its group sales rose 22% in the first nine months of the year to 7.32 billion francs (}
+#nextSentence really
+#create-a-node-here really 2.185 3 {$4.51 billion).}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.166 2 {its group sales rose 22% in the first nine months of the year to 7.32 billion francs }
+nextSentence really
+create-a-node-here really 2.185 3 {($4.51 billion).}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 2 3 satelite restatement below 5002
+create-a-node-here really 4.56 4 { \n\nThe company reported good gains in all of its divisions.}
+nextSentence really
+create-a-node-here really 6.16 5 { \n\nRoche also said }
+nextSentence really
+create-a-node-here really 6.102 6 {it expects a "considerable rise" in 1989 group profit from the 641.5 million-franc }
+create-a-node-here really 6.120 7 {($396 million) }
+create-a-node-here really 6.135 8 {net in 1988.}
+nextSentence really
+autolink_nodes 5001 4 satelite elaboration-additional  5003
+autolink_nodes 5 6 nucleus attribution  5004
+autolink_nodes 6 7 satelite restatement below 5005
+autolink_nodes 5005 8 multinuclear Same-Unit  5006
+autolink_nodes 5003 5004 satelite elaboration-additional  5007
+collapsed_nodes {5007}
+collapsed_nodes {}
+disconnect_node 7 disconnect
+autolink_nodes 6 7 satelite-embedded restatement-e  5008

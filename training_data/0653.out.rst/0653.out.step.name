@@ -1,0 +1,92 @@
+nextSentence really
+create-a-node-here really 2.18 1 {\nRally's Inc. said }
+create-a-node-here really 2.86 2 {it filed suit in U.S. District Court in Delaware against a group }
+create-a-node-here really 2.110 3 {led by Burt Sugarman,}
+create-a-node-here really 2.169 4 { seeking to block the investors from buying more shares.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 4 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 1 5002 nucleus attribution  5003
+nextSentence really
+create-a-node-here really 4.53 5 { \n\nRally's, a Louisville, Ky., fast-food chain, alleges }
+create-a-node-here really 4.81 6 {that the three investors,}
+create-a-node-here really 4.118 7 { who are directors of the company,}
+create-a-node-here really 4.143 8 { broke securities laws}
+create-a-node-here really 4.192 9 { because they didn't disclose their intentions}
+create-a-node-here really 4.227 10 { to acquire a big Rally's stake.}
+nextSentence really
+#autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5004
+#autolink_nodes 8 5004 satelite evidence  5005
+#autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5006
+#autolink_nodes 5005 5006 multinuclear Same-Unit  5007
+#autolink_nodes 5 5007 nucleus attribution  5008
+#disconnect_node 7 modify
+#autolink_nodes 6 7 satelite-embedded elaboration-additional-e  5009
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 6 7 satelite-embedded elaboration-additional-e  5005
+autolink_nodes 8 5005 multinuclear Same-Unit  5006
+autolink_nodes 5006 5004 satelite evidence  5007
+autolink_nodes 5 5007 nucleus attribution  5008
+autolink_nodes 5003 5008 satelite elaboration-additional  5009
+create-a-node-here really 6.10 11 { \n\nThe group,}
+create-a-node-here really 6.70 12 { led by Giant Group Ltd. and its chairman, Mr. Sugarman,}
+create-a-node-here really 6.103 13 { owns about 45.2% of Rally's.}
+nextSentence really
+#autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5010
+#autolink_nodes 13 5010 multinuclear Same-Unit  5011
+#UNDID
+#UNDID
+autolink_nodes 11 12 satelite-embedded elaboration-additional-e  5010
+autolink_nodes 5010 13 multinuclear Same-Unit  5011
+create-a-node-here really 7.70 14 {\nIn the Securities and Exchange Commission filings, the group has said }
+create-a-node-here really 7.105 15 {it may seek control of Rally's.}
+autolink_nodes 14 15 nucleus attribution  5012
+create-a-node-here really 9.43 16 { \n\nMr. Sugarman called the lawsuit "not nice" }
+create-a-node-here really 9.56 17 {and said }
+create-a-node-here really 9.156 18 {his group will continue to push for control of the company and the removal of certain directors.}
+nextSentence really
+autolink_nodes 17 18 nucleus attribution  5013
+autolink_nodes 16 5013 multinuclear Same-Unit  5014
+autolink_nodes 5012 5014 satelite elaboration-additional  5015
+create-a-node-here really 11.10 19 { \n\nHe asserts}
+create-a-node-here really 11.35 20 { that some directors,}
+create-a-node-here really 11.100 21 { who have joined forces with company founder James Patterson,}
+create-a-node-here really 11.155 22 { have ties to Wendy's, a competing hamburger chain.}
+nextSentence really
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 22 5016 multinuclear Same-Unit  5017
+autolink_nodes 19 5017 nucleus attribution  5018
+create-a-node-here really 12.20 23 {\nThe Patterson group,}
+create-a-node-here really 12.68 24 { which controls about 42% of Rally's shares,}
+create-a-node-here really 12.95 25 { also may seek control.}
+nextSentence really
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5019
+autolink_nodes 25 5019 multinuclear Same-Unit  5020
+autolink_nodes 5018 5020 satelite elaboration-additional  5021
+autolink_nodes 5015 5021 satelite elaboration-additional  5022
+create-a-node-here really 14.18 26 { \n\nRally's also said }
+create-a-node-here really 14.63 27 {it formed a committee of three directors,}
+create-a-node-here really 14.135 28 { who aren't associated with either the Patterson or Sugarman groups,}
+create-a-node-here really 14.165 29 { to analyze the situation.}
+nextSentence really
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5023
+autolink_nodes 5023 29 satelite purpose  5024
+autolink_nodes 26 5024 nucleus attribution  5025
+collapsed_nodes {5021}
+autolink_nodes 5022 5025 satelite elaboration-additional  5026
+collapsed_nodes {}
+autolink_nodes 5011 5026 satelite elaboration-additional  5027
+disconnect_node 5025 disconnect
+disconnect_node 5021 disconnect
+autolink_nodes 5014 5021 satelite elaboration-additional  5028
+collapsed_nodes {5008}
+autolink_nodes 5009 5027 satelite elaboration-additional  5029
+autolink_nodes 5029 5025 satelite elaboration-additional  5030
+collapsed_nodes {}

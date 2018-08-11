@@ -1,0 +1,512 @@
+nextSentence really
+create-a-node-here really 2.17 1 {\nThe bond market, }
+create-a-node-here really 2.57 2 {which sometimes thrives on bad news, }
+#autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+#UNDID
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+create-a-node-here really 2.118 3 {cheered yesterday's stock market sell-off and perceptions }
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 2.156 4 {that the economy is growing weaker.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 4.62 5 { \n\nEarly in the day, bonds rose modestly on economists' forecasts}
+create-a-node-here really 4.149 6 { that this week's slate of economic data will portray an economy headed for trouble.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5004
+create-a-node-here really 5.27 7 {\nSuch news is good for bonds}
+#autolink_nodes 5004 7 satelite circumstance  5005
+#create-a-node-here really 5.131 8 { because economic weakness sometimes causes the Federal Reserve to lower interest rates in an effort }
+#autolink_nodes 7 8 nucleus result  5006
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5004 7 satelite evaluation-s  5005
+create-a-node-here really 5.130 8 { because economic weakness sometimes causes the Federal Reserve to lower interest rates in an effort}
+#autolink_nodes 7 8 nucleus interpretation-n  5006
+#UNDID
+autolink_nodes 7 8 nucleus interpretation-n  5006
+create-a-node-here really 5.159 9 { to stimulate the economy }
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e below 5007
+create-a-node-here really 5.188 10 {and stave off a recession.}
+autolink_nodes 9 10 multinuclear List  5008
+create-a-node-here really 7.105 11 { \n\nFor example, today the Department of Commerce is scheduled to release the September durable goods report.}
+nextSentence really
+autolink_nodes 5005 5002 satelite summary-s  5009
+autolink_nodes 5009 11 satelite example  5010
+create-a-node-here really 8.39 12 {\nThe consensus forecast of 14 economists}
+autolink_nodes 11 12 satelite elaboration-additional  5011
+create-a-node-here really 8.89 13 { surveyed by Dow Jones Capital Markets Report }
+autolink_nodes 12 13 satelite-embedded elaboration-additional-e  5012
+create-a-node-here really 8.132 14 {is for a 1.2% drop in September orders.}
+nextSentence really
+autolink_nodes 5012 14 multinuclear Same-Unit  5013
+create-a-node-here really 9.43 15 {\nThat would follow a 3.9% advance in August.}
+nextSentence really
+autolink_nodes 5013 15 satelite circumstance  5014
+create-a-node-here really 11.47 16 { \n\nBonds received a bigger boost later in the day }
+autolink_nodes 5010 16 multinuclear Sequence  5015
+create-a-node-here really 11.89 17 {when stock prices moved broadly lower.}
+nextSentence really
+autolink_nodes 16 17 satelite circumstance  5016
+#create-a-node-here really 12.41 18 {\nThe Dow Jones Industrial Average fell 26.}
+#nextSentence really
+#UNDID
+#UNDID
+nextSentence really
+create-a-node-here really 12.62 18 {\nThe Dow Jones Industrial Average fell 26.23 points to 2662.91.}
+nextSentence really
+autolink_nodes 5016 18 satelite elaboration-general-specific  5017
+create-a-node-here really 14.51 19 { \n\n"Bond investors have been watching stocks closely,"}
+autolink_nodes 5017 19 satelite elaboration-additional  5018
+create-a-node-here really 14.140 20 { said Joel Marver, chief fixed-income analyst at Technical Data Global Markets Group.}
+nextSentence really
+autolink_nodes 19 20 satelite attribution  5019
+create-a-node-here really 14.186 21 { "When you get a big sell-off in equities,}
+autolink_nodes 5019 21 multinuclear List  5020
+create-a-node-here really 14.225 22 { money starts to shift into bonds,"}
+autolink_nodes 21 22 nucleus circumstance  5021
+create-a-node-here really 14.257 23 { which are considered safer,}
+autolink_nodes 22 23 satelite-embedded elaboration-additional-e below 5022
+create-a-node-here really 14.270 24 { he said.}
+nextSentence really
+autolink_nodes 5021 24 satelite attribution  5023
+create-a-node-here really 16.111 25 { \n\nThe Treasury's benchmark 30-year bond ended about 1/2 point higher, or up about $5 for each $1,000 face amount,}
+collapsed_nodes {5020}
+collapsed_nodes {5020 5018}
+collapsed_nodes {5020 5018 5011}
+disconnect_node 5002 disconnect
+autolink_nodes 5015 25 multinuclear Topic-Drift above 5024
+collapsed_nodes {5020 5018 5011 5003}
+collapsed_nodes {5020 5018 5011 5003 5010}
+autolink_nodes 5024 5002 satelite summary-s  5025
+create-a-node-here really 16.164 26 { while the yield slid to 7.93% from 7.98% Friday.}
+nextSentence really
+autolink_nodes 25 26 multinuclear Contrast  5026
+create-a-node-here really 17.24 27 {\nMunicipals ended mixed, }
+autolink_nodes 5026 27 multinuclear List above 5027
+create-a-node-here really 17.92 28 {while mortgage-backed and investment-grade corporate bonds rose.}
+nextSentence really
+autolink_nodes 27 28 multinuclear List  5028
+create-a-node-here really 18.69 29 {\nPrices of high-yield, high-risk corporate securities ended unchanged.}
+nextSentence really
+autolink_nodes 5027 29 multinuclear List below 5028
+create-a-node-here really 20.149 30 { \n\nIn more evidence of the growing division between "good" and "bad" junk bonds, a $150 million issue by Imo Industries Inc. was snapped up by investors}
+autolink_nodes 5027 30 multinuclear List below 5028
+create-a-node-here really 20.250 31 { while underwriters for Beatrice Co. 's $350 million issue are considering restructuring the deal}
+#autolink_nodes 30 31 multinuclear Temporal-Same-Time  5029
+#UNDID
+autolink_nodes 30 31 multinuclear Contrast  5029
+create-a-node-here really 20.274 32 { to attract buyers. }
+autolink_nodes 31 32 satelite purpose  5030
+create-a-node-here really 22.88 33 {\n\nIn the Treasury market, analysts expect bond prices to trade in narrow ranges this week }
+autolink_nodes 5027 33 multinuclear List below 5030
+create-a-node-here really 22.142 34 {as the market takes in positive and negative news.}
+nextSentence really
+autolink_nodes 33 34 satelite circumstance  5031
+create-a-node-here really 24.101 35 { \n\n"On the negative side, the market will be affected by constant supply in all sectors of the market," }
+#autolink_nodes 5031 35 satelite elaboration-additional  5032
+#UNDID
+autolink_nodes 5031 35 satelite evaluation-s  5032
+create-a-node-here really 24.174 36 {said William M. Brachfeld, economist at Daiwa Securities America Inc.}
+autolink_nodes 35 36 satelite attribution  5033
+create-a-node-here really 24.220 37 { "On the other hand, we have economic news}
+autolink_nodes 5033 37 multinuclear Contrast  5034
+create-a-node-here really 24.290 38 { that is {expected to be} relatively positive for the bond market.}
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5035
+create-a-node-here really 25.69 39 {\nWe will go back and forth with a tilt toward slightly lower yields," }
+autolink_nodes 5035 39 multinuclear List  5036
+create-a-node-here really 25.81 40 {he said.}
+nextSentence really
+autolink_nodes 39 40 satelite attribution  5037
+create-a-node-here really 27.64 41 { \n\nToday, the Treasury will sell $10 billion of new two-year notes.}
+nextSentence really
+autolink_nodes 5027 41 multinuclear List below 5037
+create-a-node-here really 28.74 42 {\nTomorrow, Resolution Funding Corp., a division of a new government agency }
+collapsed_nodes {5020 5018 5011 5003 5010 5034}
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032}
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029}
+autolink_nodes 5027 42 multinuclear List below 5037
+create-a-node-here really 28.86 43 {created }
+autolink_nodes 42 43 satelite-embedded elaboration-object-attribute-e  5038
+create-a-node-here really 28.133 44 {to bail out the nation's troubled thrifts, }
+autolink_nodes 43 44 satelite purpose  5039
+create-a-node-here really 28.170 45 {will hold its first bond auction }
+autolink_nodes 5038 45 multinuclear Same-Unit  5040
+create-a-node-here really 28.226 46 {at which it will sell $4.5 billion of 30-year bonds.}
+nextSentence really
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5041
+create-a-node-here really 30.94 47 { \n\nSo far, money managers and other bond buyers haven't shown much interest in the Refcorp bonds.}
+nextSentence really
+autolink_nodes 5040 47 satelite elaboration-additional  5042
+create-a-node-here really 31.58 48 {\nAnalysts have mixed views about the two-year note auction.}
+nextSentence really
+autolink_nodes 5042 48 satelite evaluation-s  5043
+#create-a-node-here really 32.51 49 {\nWhile some say the auction should proceed smoothly,}
+#autolink_nodes 48 49 satelite elaboration-additional  5044
+#UNDID
+#UNDID
+create-a-node-here really 32.15 49 {\nWhile some say }
+autolink_nodes 48 49 satelite elaboration-additional  5044
+create-a-node-here really 32.55 50 {the auction should proceed smoothly,}
+autolink_nodes 49 50 nucleus attribution  5045
+create-a-node-here really 32.75 51 { others contend }
+autolink_nodes 5045 51 multinuclear Contrast  5046
+create-a-node-here really 32.259 52 {that yesterday's sale of $2.58 billion of asset-backed securities by Ford Motor Credit Corp. may have siphoned some potential institutional buyers from the government's note sale. }
+autolink_nodes 51 52 nucleus attribution  5047
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044}
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042}
+create-a-node-here really 34.159 53 {\n\nThe division of auto maker Ford Motor Co. made its debut in the asset-backed securities market with the second-largest issue in the market's four-year history.}
+nextSentence really
+autolink_nodes 5027 53 multinuclear List below 5047
+create-a-node-here really 35.31 54 {\nThe company offered securities }
+#autolink_nodes 53 54 satelite elaboration-additional  5048
+#UNDID
+autolink_nodes 53 54 satelite elaboration-additional  5048
+create-a-node-here really 35.91 55 {backed by automobile loans through an underwriting group}
+autolink_nodes 54 55 satelite-embedded elaboration-object-attribute-e  5049
+create-a-node-here really 35.124 56 { headed by First Boston Corp.}
+autolink_nodes 55 56 satelite-embedded elaboration-additional-e  5050
+create-a-node-here really 37.23 57 { \n\nThe issue yields 8.90% }
+autolink_nodes 5049 57 satelite elaboration-additional  5051
+create-a-node-here really 37.51 58 {and carries a guarantee }
+autolink_nodes 57 58 multinuclear List  5052
+create-a-node-here really 38.0 59 {covering 9% of the deal from the company.\n}
+autolink_nodes 58 59 satelite-embedded elaboration-additional-e  5053
+create-a-node-here really 38.91 60 {First Boston sweetened the terms from the original yield estimate in an apparent effort}
+autolink_nodes 5052 60 satelite elaboration-additional  5054
+create-a-node-here really 38.123 61 { to place the huge offering.}
+nextSentence really
+autolink_nodes 60 61 satelite-embedded elaboration-object-attribute-e  5055
+create-a-node-here really 39.99 62 {\nThe issue was offered at a yield nearly one percentage point above the yield on two-year Treasurys.}
+nextSentence really
+autolink_nodes 5048 62 satelite elaboration-additional  5056
+create-a-node-here really 41.115 63 { \n\nThe only asset-backed deal larger than Ford's was a $4 billion offering by General Motors Acceptance Corp. in 1986.}
+nextSentence really
+autolink_nodes 5056 63 satelite comparison  5057
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054}
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057}
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027}
+create-a-node-here really 44.0 64 { \n\nTreasury Securities \n}
+autolink_nodes 5024 64 multinuclear Topic-Drift below 5057
+create-a-node-here really 45.71 65 {\nTreasury bonds were 1/8 to 1/2 point higher yesterday in light trading.}
+nextSentence really
+autolink_nodes 64 65 multinuclear TextualOrganization  5058
+change_constit 64 SectionTitle
+change_constit 65 SectionText
+create-a-node-here really 47.56 66 { \n\nThe benchmark 30-year bond ended at a price of 102 3/32,}
+autolink_nodes 65 66 satelite elaboration-additional  5059
+create-a-node-here really 47.92 67 { compared with 101 17/32 Friday.}
+nextSentence really
+autolink_nodes 66 67 multinuclear Comparison  5060
+create-a-node-here really 48.54 68 {\nThe latest 10-year notes were quoted late at 100 17/32}
+autolink_nodes 5060 68 multinuclear List above 5061
+create-a-node-here really 48.74 69 { to yield 7.90%,}
+autolink_nodes 68 69 satelite consequence-s  5062
+create-a-node-here really 48.102 70 { compared with 100 3/32 }
+autolink_nodes 5062 70 multinuclear Comparison  5063
+create-a-node-here really 48.121 71 {to yield 7.97%.}
+nextSentence really
+autolink_nodes 70 71 satelite consequence-s  5064
+create-a-node-here really 49.56 72 {\nThe latest two-year notes were quoted late at 100 28/32 }
+autolink_nodes 5063 72 multinuclear List above 5065
+create-a-node-here really 49.75 73 {to yield 7.84%.}
+nextSentence really
+autolink_nodes 72 73 satelite consequence-s  5066
+create-a-node-here really 51.81 74 { \n\nShort-term rates rose yesterday at the government's weekly Treasury bill auction,}
+autolink_nodes 5061 74 multinuclear List below 5066
+create-a-node-here really 51.123 75 { compared with the previous bill sale.}
+nextSentence really
+autolink_nodes 74 75 multinuclear Comparison  5067
+create-a-node-here really 53.158 76 { \n\nThe Treasury sold $7.81 billion of three-month bills with an average discount rate of 7.52%, the highest since the average of 7.63% at the auction on Oct. 10.}
+nextSentence really
+autolink_nodes 5061 76 multinuclear List below 5067
+create-a-node-here really 54.158 77 {\nThe $7.81 billion of six-month Treasury bills were sold with an average discount rate of 7.50%, the highest since the average of 7.60% at the Oct. 10 auction.}
+nextSentence really
+autolink_nodes 5061 77 multinuclear List below 5067
+create-a-node-here really 56.43 78 { \n\nThe rates were up from last week's auction,}
+autolink_nodes 5061 78 satelite elaboration-additional  5068
+create-a-node-here really 56.93 79 { when they were 7.37% and 7.42%, respectively.}
+nextSentence really
+autolink_nodes 78 79 multinuclear Comparison  5069
+create-a-node-here really 58.26 80 { \n\nHere are auction details: }
+autolink_nodes 5068 80 satelite elaboration-additional  5070
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067}
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069}
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061}
+create-a-node-here really 60.81 81 {\n\nRates are determined by the difference between the purchase price and face value.}
+nextSentence really
+#create-a-node-here really 61.50 82 {\nThus, higher bidding narrows the investor's return}
+#UNDID
+#autolink_nodes 80 81 satelite elaboration-set-member  5071
+#UNDID
+autolink_nodes 80 81 satelite example  5071
+create-a-node-here really 61.50 82 {\nThus, higher bidding narrows the investor's return}
+autolink_nodes 81 82 satelite interpretation-s  5072
+create-a-node-here really 62.0 83 { while lower bidding widens it.\n}
+#autolink_nodes 82 83 multinuclear List  5073
+#UNDID
+autolink_nodes 82 83 multinuclear Contrast  5073
+create-a-node-here really 62.58 84 {The percentage rates are calculated on a 360-day year,}
+autolink_nodes 5071 84 multinuclear List  5074
+create-a-node-here really 62.124 85 { while the coupon-equivalent yield is based on a 365-day year.}
+nextSentence really
+autolink_nodes 84 85 multinuclear Contrast  5075
+#change_rel 5073 comparison
+#UNDID
+change_rel 83 Comparison
+#create-a-node-here really 65.0 86 { \n\nBoth issues are dated Oct. 26.\n}
+#UNDID
+disconnect_node 5075 disconnect
+autolink_nodes 5072 5075 multinuclear List  5076
+create-a-node-here really 65.0 86 { \n\nBoth issues are dated Oct. 26.\n}
+autolink_nodes 5076 86 multinuclear List below 5076
+create-a-node-here really 65.43 87 {The 13-week bills mature Jan. 25, 1990,}
+autolink_nodes 86 87 satelite elaboration-additional  5077
+create-a-node-here really 65.92 88 { and the 26-week bills mature April 26, 1990.}
+nextSentence really
+autolink_nodes 87 88 multinuclear Comparison  5078
+create-a-node-here really 68.0 89 { \n\nCorporate Issues \n}
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076}
+#autolink_nodes 5058 89 multinuclear TextualOrganization above 5079
+#UNDID
+#autolink_nodes 5058 89 multinuclear TextualOrganization below 5078
+#change_constit 89 SectionTitle
+#create-a-node-here really 69.76 90 {\nInvestment-grade corporates closed about 1/4 point higher in quiet trading. }
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5058 89 multinuclear TextualOrganization above 5079
+change_constit 89 SectionTitle
+create-a-node-here really 69.76 90 {\nInvestment-grade corporates closed about 1/4 point higher in quiet trading. }
+autolink_nodes 89 90 multinuclear TextualOrganization  5080
+change_constit 90 SectionText
+create-a-node-here really 71.69 91 {\n\nIn the junk bond market, Imo Industries' issue of 12-year debentures,}
+autolink_nodes 90 91 multinuclear List  5081
+create-a-node-here really 71.132 92 { considered to be one of the market's high-quality credits,}
+autolink_nodes 91 92 satelite-embedded elaboration-additional-e  5082
+create-a-node-here really 71.168 93 { was priced at par to yield 12%.}
+nextSentence really
+autolink_nodes 5082 93 multinuclear Same-Unit  5083
+create-a-node-here really 73.75 94 { \n\nPeter Karches, managing director at underwriter Morgan Stanley & Co., said }
+autolink_nodes 5083 94 satelite elaboration-additional  5084
+create-a-node-here really 73.108 95 {the issue was oversubscribed.}
+nextSentence really
+autolink_nodes 94 95 nucleus attribution  5085
+create-a-node-here really 73.138 96 { "It's a segmented market,}
+#autolink_nodes 5085 96 multinuclear List  5086
+#UNDID
+autolink_nodes 5085 96 satelite explanation-argumentative  5086
+create-a-node-here really 73.147 97 { and }
+autolink_nodes 96 97 nucleus circumstance  5087
+create-a-node-here really 73.185 98 {if you have a good, strong credit,}
+create-a-node-here really 73.223 99 { people have an appetite for it," }
+autolink_nodes 98 99 nucleus condition  5088
+autolink_nodes 97 5088 multinuclear Same-Unit  5089
+create-a-node-here really 74.0 100 {he said.\n}
+autolink_nodes 5087 100 satelite attribution  5090
+create-a-node-here really 74.158 101 {Morgan Stanley is expected to price another junk bond deal, $350 million of senior subordinated debentures by Continental Cablevision Inc., next Tuesday.}
+nextSentence really
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086}
+autolink_nodes 5084 101 satelite elaboration-additional  5091
+create-a-node-here really 76.155 102 { \n\nIn light of the recent skittishness in the high-yield market, junk bond analysts and traders expect other high-yield deals to be sweetened or restructured }
+autolink_nodes 5091 102 satelite elaboration-additional  5092
+create-a-node-here really 76.197 103 {before they are offered to investors.}
+nextSentence really
+autolink_nodes 102 103 nucleus condition  5093
+create-a-node-here really 78.140 104 { \n\nIn the case of Beatrice, Salomon Brothers Inc. is considering restructuring the reset mechanism on the $200 million portion of the offering.}
+nextSentence really
+autolink_nodes 5093 104 satelite example  5094
+create-a-node-here really 79.132 105 {\nUnder the originally contemplated terms of the offering, the notes would have been reset annually at a fixed spread above Treasurys.}
+nextSentence really
+autolink_nodes 5094 105 satelite circumstance  5095
+create-a-node-here really 80.19 106 {\nUnder the new plan }
+autolink_nodes 105 106 multinuclear Comparison  5096
+create-a-node-here really 80.41 107 {being considered,}
+autolink_nodes 106 107 satelite-embedded elaboration-object-attribute-e  5097
+create-a-node-here really 80.88 108 { the notes would reset annually at a rate }
+autolink_nodes 5097 108 multinuclear Same-Unit  5098
+create-a-node-here really 80.127 109 {to maintain a market value of 101.}
+nextSentence really
+autolink_nodes 108 109 multinuclear Consequence  5099
+nextSentence really
+nextSentence really
+create-a-node-here really 81.93 110 {\nPrice talk calls for the reset notes to be priced at a yield of between 13 1/4% and 13 1/2%. }
+autolink_nodes 5098 110 satelite elaboration-additional  5100
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096}
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096 5092}
+create-a-node-here really 83.27 111 {\n\nMortgage-Backed Securities }
+autolink_nodes 5079 111 multinuclear TextualOrganization below 5100
+change_constit 111 SectionTitle
+create-a-node-here really 85.158 112 {\n\nActivity in derivative markets was strong with four new real estate mortgage investment conduits announced and talk of several more deals in today's session. }
+autolink_nodes 111 112 multinuclear TextualOrganization  5101
+change_constit 112 SectionText
+create-a-node-here really 87.99 113 {\n\nThe Federal National Mortgage Association offered $1.2 billion of Remic securities in three issues,}
+autolink_nodes 112 113 satelite example  5102
+create-a-node-here really 87.175 114 { and the Federal Home Loan Mortgage Corp. offered a $250 million Remic }
+autolink_nodes 113 114 multinuclear List  5103
+create-a-node-here really 87.212 115 {backed by 9% 15-year securities.}
+nextSentence really
+autolink_nodes 114 115 satelite-embedded elaboration-object-attribute-e  5104
+create-a-node-here really 89.120 116 { \n\nPart of the reason for the heavy activity in derivative markets is that underwriters are repackaging mortgage securities}
+autolink_nodes 5103 116 satelite explanation-argumentative  5105
+create-a-node-here really 89.148 117 { being sold by thrifts.}
+nextSentence really
+autolink_nodes 116 117 satelite-embedded elaboration-object-attribute-e  5106
+create-a-node-here really 90.13 118 {\nTraders said }
+autolink_nodes 5106 118 multinuclear List  5107
+create-a-node-here really 90.74 119 {thrifts have stepped up their mortgage securities sales }
+autolink_nodes 118 119 nucleus attribution  5108
+create-a-node-here really 90.130 120 {as the bond market has risen in the past two weeks.}
+nextSentence really
+autolink_nodes 5108 120 satelite circumstance  5109
+create-a-node-here really 92.56 121 { \n\nIn the mortgage pass-through sector, active issues rose }
+autolink_nodes 5102 121 satelite elaboration-additional  5110
+create-a-node-here really 92.102 122 {but trailed gains in the Treasury market.}
+nextSentence really
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096 5092 5107}
+autolink_nodes 121 122 multinuclear Comparison  5111
+create-a-node-here really 94.127 123 { \n\nGovernment National Mortgage Association 9% securities for November delivery were quoted late yesterday at 98 10/32, up 10/32; }
+autolink_nodes 5111 123 multinuclear List above 5112
+create-a-node-here really 94.185 124 {and Freddie Mac 9% securities were at 97 1/2, up 1/4.}
+nextSentence really
+autolink_nodes 123 124 multinuclear List  5113
+create-a-node-here really 95.80 125 {\nThe Ginnie Mae 9% issue was yielding 8.36% to a 12-year average life assumption,}
+autolink_nodes 5113 125 satelite elaboration-additional  5114
+create-a-node-here really 95.175 126 { as the spread above the Treasury 10-year note widened slightly to 1.46 percentage points.}
+nextSentence really
+autolink_nodes 125 126 multinuclear List  5115
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096 5092 5107 5112}
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096 5092 5107 5112 5110}
+create-a-node-here really 97.11 127 { \n\nMunicipals }
+autolink_nodes 5079 127 multinuclear TextualOrganization below 5115
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096 5092 5107 5112 5110}
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096 5092}
+change_constit 127 SectionTitle
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096 5092 5101}
+change_constit 127 SectionTitle
+create-a-node-here really 99.109 128 {\n\nA $575 million San Antonio, Texas, electric and gas system revenue bond issue dominated the new issue sector.}
+nextSentence really
+autolink_nodes 127 128 multinuclear TextualOrganization  5116
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096 5092 5101 5080}
+change_constit 128 SectionText
+create-a-node-here really 101.20 129 { \n\nThe refunding issue,}
+autolink_nodes 128 129 satelite elaboration-additional  5117
+create-a-node-here really 101.69 130 { which had been in the wings for two months,}
+autolink_nodes 129 130 satelite elaboration-additional  5118
+create-a-node-here really 101.105 131 { was one of the chief offerings}
+autolink_nodes 5118 131 multinuclear Same-Unit  5119
+create-a-node-here really 101.133 132 { overhanging the market}
+autolink_nodes 131 132 satelite-embedded elaboration-object-attribute-e  5120
+create-a-node-here really 101.171 133 { and limiting price appreciation.}
+nextSentence really
+autolink_nodes 132 133 multinuclear List  5121
+create-a-node-here really 102.88 134 {\nBut alleviating that overhang failed to stimulate much activity in the secondary market,}
+autolink_nodes 5119 134 nucleus concession  5122
+create-a-node-here really 102.136 135 { where prices were off 1/8 to up 3/8 point.}
+nextSentence really
+autolink_nodes 134 135 satelite-embedded elaboration-additional-e below 5123
+create-a-node-here really 104.52 136 { \n\nAn official with lead underwriter First Boston said }
+autolink_nodes 5123 136 satelite explanation-argumentative above 5123
+create-a-node-here really 104.114 137 {orders for the San Antonio bonds were "on the slow side."}
+nextSentence really
+autolink_nodes 136 137 nucleus attribution  5124
+create-a-node-here really 104.250 138 { He attributed that to the issue's aggressive pricing and large size, as well as the general lethargy in the municipal marketplace.}
+nextSentence really
+autolink_nodes 5124 138 satelite elaboration-additional  5125
+create-a-node-here really 106.12 139 { \n\nIn addition,}
+autolink_nodes 138 139 multinuclear List  5126
+create-a-node-here really 106.28 140 { he noted, }
+autolink_nodes 139 140 satelite attribution  5127
+create-a-node-here really 106.69 141 {the issue would normally be the type}
+autolink_nodes 5127 141 multinuclear Same-Unit  5128
+create-a-node-here really 106.119 142 { purchased by property and casualty insurers,}
+autolink_nodes 141 142 satelite-embedded elaboration-object-attribute-e  5129
+create-a-node-here really 106.244 143 { but recent disasters, such as Hurricane Hugo and the Northern California earthquake, have stretched insurers' resources}
+autolink_nodes 5129 143 nucleus concession  5130
+create-a-node-here really 106.284 144 { and damped their demand for bonds.}
+nextSentence really
+autolink_nodes 143 144 multinuclear List  5131
+nextSentence really
+create-a-node-here really 108.122 145 { \n\nA $137.6 million Maryland Stadium Authority sports facilities lease revenue bond issue appeared to be off to a good start.}
+nextSentence really
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096 5092 5101 5080 5124}
+#autolink_nodes 5117 145 multinuclear List  5132
+#UNDID
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096 5092 5101 5080 5124 5123}
+change_constit 5117 SectionText
+autolink_nodes 5117 145 multinuclear List  5132
+create-a-node-here really 109.29 146 {\nThe issue was oversubscribed }
+autolink_nodes 145 146 satelite elaboration-additional  5133
+create-a-node-here really 109.57 147 {and "doing very well," }
+autolink_nodes 146 147 multinuclear List  5134
+create-a-node-here really 109.125 148 {according to an official with lead underwriter Morgan Stanley. }
+autolink_nodes 5134 148 satelite attribution  5135
+change_rel 5132 Topic-Drift
+change_rel 5133 Topic-Drift
+create-a-node-here really 111.50 149 {\n\nActivity quieted in the New York City bond market,}
+autolink_nodes 5132 149 multinuclear Topic-Drift below 5135
+create-a-node-here really 111.195 150 { where heavy investor selling last week drove yields on the issuer's full faith and credit backed bonds up as much as 0.50 percentage point.}
+nextSentence really
+autolink_nodes 149 150 satelite circumstance  5136
+create-a-node-here really 113.14 151 { \n\nForeign Bonds }
+collapsed_nodes {5020 5018 5011 5003 5010 5034 5032 5029 5044 5042 5054 5057 5027 5067 5069 5061 5076 5086 5096 5092 5101 5080 5124 5123 5116}
+autolink_nodes 5079 151 multinuclear TextualOrganization below 5136
+change_constit 151 SectionTitle
+create-a-node-here really 115.38 152 {\n\nJapanese government bonds ended lower }
+autolink_nodes 151 152 multinuclear TextualOrganization  5137
+change_constit 152 SectionText
+create-a-node-here really 115.90 153 {after the dollar rose modestly against the yen.}
+nextSentence really
+autolink_nodes 152 153 satelite circumstance  5138
+create-a-node-here really 117.80 154 { \n\nThe turnaround in the dollar fueled bearish sentiment about Japan's bond market.}
+nextSentence really
+#autolink_nodes 5138 154 satelite elaboration-additional  5139
+#UNDID
+autolink_nodes 153 154 satelite explanation-argumentative  5139
+create-a-node-here really 118.97 155 {\nThe benchmark No. 111 4.6% bond due 1998 ended on brokers' screens at a price of 95.39, off 0.28.}
+nextSentence really
+autolink_nodes 5138 155 satelite elaboration-additional  5140
+create-a-node-here really 119.24 156 {\nThe yield rose to 5.38%.}
+nextSentence really
+autolink_nodes 155 156 satelite elaboration-additional  5141
+create-a-node-here really 120.67 157 {\nWest German bond prices ended lower after a day of aimless trading.}
+nextSentence really
+autolink_nodes 5140 157 multinuclear Topic-Drift  5142
+nextSentence really
+create-a-node-here really 121.64 158 {\nThe benchmark 7% bond due October 1999 fell 0.20 point to 99.80 }
+autolink_nodes 157 158 satelite elaboration-additional  5143
+create-a-node-here really 121.85 159 {to yield 7.03%, }
+autolink_nodes 158 159 satelite consequence-s  5144
+nextSentence really
+create-a-node-here really 121.146 160 {while the 6 3/4% notes due July 1994 fell 0.10 to 97.65 }
+autolink_nodes 5144 160 multinuclear List  5145
+create-a-node-here really 121.166 161 {to yield 7.34%.}
+nextSentence really
+autolink_nodes 160 161 satelite consequence-s  5146
+create-a-node-here really 123.64 162 { \n\nBritish government bonds ended slightly higher in quiet trading }
+autolink_nodes 5142 162 multinuclear Topic-Drift below 5146
+create-a-node-here really 123.127 163 {as investors looked ahead to today's British trade report.}
+nextSentence really
+autolink_nodes 162 163 multinuclear Temporal-Same-Time  5147
+create-a-node-here really 124.71 164 {\nThe benchmark 11 3/4% Treasury bond due 2003/2007 rose 1/8 to 111 21/32}
+autolink_nodes 5147 164 satelite elaboration-additional  5148
+nextSentence really
+create-a-node-here really 124.93 165 { to yield 10.11%,}
+autolink_nodes 164 165 satelite consequence-s  5149
+create-a-node-here really 124.149 166 { while the 12% issue of 1995 rose 3/32 to 103 23/32}
+autolink_nodes 5149 166 multinuclear List  5150
+nextSentence really
+create-a-node-here really 124.171 167 { to yield 11.01%.}
+nextSentence really
+autolink_nodes 166 167 satelite consequence-s  5151
+collapsed_nodes {}
+disconnect_node 98 disconnect
+autolink_nodes 99 98 satelite-embedded condition-e  5152
+disconnect_node 109 disconnect
+autolink_nodes 5098 109 multinuclear Consequence above 5153
+disconnect_node 130 disconnect
+autolink_nodes 129 130 satelite-embedded elaboration-additional-e  5154
+disconnect_node 140 disconnect
+autolink_nodes 139 140 satelite-embedded attribution-e  5155
+collapsed_nodes {5025}
+collapsed_nodes {}

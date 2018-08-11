@@ -1,0 +1,221 @@
+nextSentence really
+create-a-node-here really 2.83 1 {\nINSURERS ARE FACING billions of dollars in damage claims from the California quake.}
+nextSentence really
+create-a-node-here really 3.37 2 {\nBut most businesses in the Bay area, }
+create-a-node-here really 3.66 3 {including Silicon Valley, }
+autolink_nodes 2 3 satelite-embedded example-e  5001
+create-a-node-here really 3.94 4 {weren't greatly affected.}
+nextSentence really
+autolink_nodes 5001 4 multinuclear Same-Unit  5002
+autolink_nodes 1 5002 multinuclear Contrast  5003
+create-a-node-here really 4.107 5 {\nComputer and software companies in the region are expecting virtually no long-term disruption in shipments.}
+nextSentence really
+autolink_nodes 5002 5 satelite interpretation-s  5004
+create-a-node-here really 5.56 6 {\nAlso, investors quickly singled out stocks of companies }
+create-a-node-here really 5.106 7 {expected to profit or suffer from the disaster.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 5004 5005 satelite evaluation-s  5006
+create-a-node-here really 7.83 8 { \n\nLeveraged buy-outs may be curbed by two rules in pending congressional legislation.}
+nextSentence really
+create-a-node-here really 8.43 9 {\nThe provisions, in deficit-reduction bills }
+create-a-node-here really 8.87 10 {recently passed by the House and Senate, }
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5007
+#create-a-node-here really 8.172 11 {could raise the price tags of such deals by up to 10% and cool the takeover boom.}
+#nextSentence really
+#autolink_nodes 5007 11 multinuclear Same-Unit  5008
+#autolink_nodes 8 5008 satelite explanation-argumentative  5009
+#create-a-node-here really 10.7 12 { \n\nA bill }
+#create-a-node-here really 10.58 13 {giving the Transportation Department the power }
+#autolink_nodes 12 13 satelite-embedded elaboration-general-specific-e  5010
+#create-a-node-here really 10.98 14 {to block airline leveraged buy-outs }
+#autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5011
+#create-a-node-here really 10.124 15 {cleared a House panel.}
+#nextSentence really
+#autolink_nodes 5010 15 multinuclear Same-Unit  5012
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 8.145 11 {could raise the price tags of such deals by up to 10% }
+create-a-node-here really 8.177 12 {and cool the takeover boom. }
+autolink_nodes 11 12 multinuclear Consequence  5008
+autolink_nodes 5007 5008 multinuclear Same-Unit  5009
+autolink_nodes 8 5009 satelite explanation-argumentative  5010
+create-a-node-here really 10.7 13 {\n\nA bill }
+create-a-node-here really 10.58 14 {giving the Transportation Department the power }
+#autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5011
+#disconnect_node 14 modify
+#UNDID
+#UNDID
+#autolink_nodes 13 14 satelite-embedded elaboration-general-specific-e  5011
+#UNDID
+autolink_nodes 13 14 satelite-embedded elaboration-general-specific-e  5011
+create-a-node-here really 10.98 15 {to block airline leveraged buy-outs }
+autolink_nodes 14 15 satelite-embedded elaboration-object-attribute-e  5012
+create-a-node-here really 10.124 16 {cleared a House panel.}
+nextSentence really
+autolink_nodes 5011 16 multinuclear Same-Unit  5013
+disconnect_node 5012 modify
+autolink_nodes 13 5012 satelite-embedded elaboration-object-attribute-e  5014
+create-a-node-here really 11.27 17 {\nBut Secretary Skinner said }
+create-a-node-here really 11.67 18 {he would urge Bush to veto the bill.}
+nextSentence really
+autolink_nodes 17 18 nucleus attribution  5015
+autolink_nodes 5013 5015 multinuclear Contrast above 5016
+autolink_nodes 5010 5016 multinuclear Topic-Drift  5017
+autolink_nodes 5003 5017 multinuclear Topic-Shift above 5018
+create-a-node-here really 13.58 19 { \n\nHousing starts sank 5.2% in September to a seven-year low.}
+nextSentence really
+create-a-node-here really 14.10 20 {\nThe drop, }
+create-a-node-here really 14.50 21 {following a 6.2% decline in August, }
+autolink_nodes 20 21 satelite-embedded temporal-after-e  5019
+create-a-node-here really 14.64 22 {indicates }
+#autolink_nodes 20 22 multinuclear Same-Unit  5020
+#UNDID
+autolink_nodes 5019 22 multinuclear Same-Unit  5020
+create-a-node-here really 14.137 23 {the industry is still being hurt by the Fed's anti-inflation battle. }
+autolink_nodes 5020 23 nucleus attribution  5021
+autolink_nodes 19 5021 satelite interpretation-s  5022
+autolink_nodes 5018 5022 multinuclear Topic-Shift below 5022
+create-a-node-here really 16.62 24 {\n\nIBM plans to buy back $1 billion of its common shares, a move }
+create-a-node-here really 16.117 25 {likely to help the computer giant's battered stock.}
+nextSentence really
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5023
+create-a-node-here really 17.14 26 {\nThe buy-back, }
+create-a-node-here really 17.52 27 {which wasn't a complete surprise, }
+autolink_nodes 26 27 satelite-embedded elaboration-additional-e  5024
+create-a-node-here really 17.70 28 {was announced }
+autolink_nodes 5024 28 multinuclear Same-Unit  5025
+create-a-node-here really 17.108 29 {after the stock market had closed.}
+nextSentence really
+autolink_nodes 5025 29 satelite temporal-after  5026
+autolink_nodes 5023 5026 satelite elaboration-additional  5027
+autolink_nodes 5018 5027 multinuclear Topic-Shift below 5027
+create-a-node-here really 19.71 30 { \n\nA capital-gains tax cut plan has been worked out by Senate Republicans.}
+nextSentence really
+create-a-node-here really 20.62 31 {\nA similar proposal may be introduced soon by Senate Democrats.}
+nextSentence really
+autolink_nodes 30 31 multinuclear List  5028
+autolink_nodes 5018 5028 multinuclear Topic-Shift below 5028
+create-a-node-here really 22.21 32 { \n\nBritish Airways said }
+create-a-node-here really 22.123 33 {it is seeking improved terms and a sharply lower price in any revised bid for United Air's parent.}
+nextSentence really
+autolink_nodes 32 33 nucleus attribution  5029
+create-a-node-here really 23.35 34 {\nThe British carrier also confirmed }
+create-a-node-here really 23.92 35 {it isn't committed to going forward with any new bid.}
+nextSentence really
+autolink_nodes 34 35 nucleus attribution  5030
+autolink_nodes 5029 5030 multinuclear List  5031
+nextSentence really
+nextSentence really
+create-a-node-here really 24.36 36 {\nUAL's stock fell $6.25, to $191.75. }
+autolink_nodes 5031 36 satelite consequence-s  5032
+autolink_nodes 5018 5032 multinuclear Topic-Shift below 5032
+create-a-node-here really 26.27 37 {\n\nStock prices rose slightly }
+create-a-node-here really 26.50 38 {as trading slowed, }
+autolink_nodes 37 38 satelite circumstance  5033
+create-a-node-here really 26.87 39 {while bonds ended little changed }
+create-a-node-here really 26.117 40 {despite a slumping dollar.}
+nextSentence really
+autolink_nodes 39 40 satelite antithesis  5034
+autolink_nodes 5033 5034 multinuclear Temporal-Same-Time  5035
+autolink_nodes 5018 5035 multinuclear Topic-Shift below 5035
+create-a-node-here really 27.50 41 {\nThe Dow Jones industrials gained 4.92, to 2643.65.}
+nextSentence really
+autolink_nodes 5035 41 satelite elaboration-general-specific  5036
+create-a-node-here really 28.39 42 {\nBut investors remain wary about stocks,}
+autolink_nodes 5036 42 multinuclear Contrast  5037
+create-a-node-here really 28.94 43 { partly because of turmoil in the junk-bond market.}
+nextSentence really
+autolink_nodes 42 43 satelite reason  5038
+create-a-node-here really 30.69 44 { \n\nB.A.T Industries may delay part of its defensive restructuring plan, }
+create-a-node-here really 30.142 45 {including the sale of its Saks Fifth Avenue and Marshall Field units.}
+nextSentence really
+autolink_nodes 44 45 satelite-embedded elaboration-general-specific-e  5039
+create-a-node-here really 31.71 46 {\nThe British conglomerate cited the recent turmoil in financial markets.}
+nextSentence really
+autolink_nodes 5039 46 satelite reason  5040
+create-a-node-here really 33.43 47 { \n\nWCRS Group announced a major restructuring }
+create-a-node-here really 33.101 48 {that largely removes it from the advertising business.}
+nextSentence really
+autolink_nodes 47 48 satelite-embedded elaboration-object-attribute-e  5041
+create-a-node-here really 34.75 49 {\nThe London-based concern will sell most of its ad unit to France's Eurocom.}
+nextSentence really
+autolink_nodes 5041 49 satelite elaboration-general-specific  5042
+autolink_nodes 5040 5042 multinuclear List  5043
+autolink_nodes 5018 5043 multinuclear Topic-Shift below 5043
+create-a-node-here really 36.78 50 { \n\nCommodore International expects to post its second consecutive quarterly loss }
+create-a-node-here really 36.138 51 {because of weak personal computer sales in some markets.}
+nextSentence really
+autolink_nodes 50 51 satelite consequence-n  5044
+autolink_nodes 5018 5044 multinuclear Topic-Shift below 5044
+create-a-node-here really 38.75 52 { \n\nJaguar hopes to reach a friendly accord with General Motors within a month }
+create-a-node-here really 38.132 53 {that may involve producing a cheaper executive model.}
+nextSentence really
+autolink_nodes 52 53 satelite-embedded elaboration-general-specific-e  5045
+autolink_nodes 5018 5045 multinuclear Topic-Shift below 5045
+create-a-node-here really 40.77 54 { \n\nSears is negotiating to refinance its Sears Tower for close to $850 million, }
+create-a-node-here really 40.94 55 {sources said.}
+nextSentence really
+disconnect_node 43 modify
+autolink_nodes 42 43 satelite consequence-n  5046
+autolink_nodes 54 55 satelite attribution  5047
+autolink_nodes 5018 5047 multinuclear Topic-Shift below 5047
+create-a-node-here really 41.57 56 {\nThe retailer was unable to find a buyer for the building.}
+nextSentence really
+autolink_nodes 5047 56 satelite consequence-n  5048
+create-a-node-here really 43.59 57 { \n\nWhitbread of Britain put its spirits division up for sale, }
+create-a-node-here really 43.103 58 {setting off a scramble among distillers.}
+nextSentence really
+autolink_nodes 57 58 satelite consequence-s  5049
+create-a-node-here really 44.36 59 {\nThe business includes Beefeater gin.}
+nextSentence really
+autolink_nodes 5049 59 satelite elaboration-general-specific  5050
+autolink_nodes 5018 5050 multinuclear Topic-Shift below 5050
+create-a-node-here really 47.0 60 { \n\nMarkets -- \n}
+create-a-node-here really 48.8 61 {\nStocks: }
+create-a-node-here really 48.38 62 {Volume 166,900,000 shares.}
+nextSentence really
+autolink_nodes 61 62 satelite elaboration-general-specific  5051
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 50.0 63 {\nDow Jones industrials 2643.65, up 4.92; transportation 1247.87, off 6.40; utilities 213.97, off 0.57. \n}
+disconnect_node 62 disconnect
+autolink_nodes 62 63 satelite elaboration-general-specific  5052
+autolink_nodes 61 5052 satelite elaboration-general-specific  5053
+create-a-node-here really 51.7 64 {\nBonds: }
+nextSentence really
+create-a-node-here really 51.61 65 {Shearson Lehman Hutton Treasury index 3371.36, off}
+autolink_nodes 64 65 satelite elaboration-general-specific  5054
+autolink_nodes 5053 5054 multinuclear List  5055
+create-a-node-here really 53.13 66 { \n\nCommodities: }
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 53.86 67 {Dow Jones futures index 129.90, up 0.18; spot index 130.36, up 0.39. }
+autolink_nodes 66 67 satelite elaboration-general-specific  5056
+autolink_nodes 5055 5056 multinuclear List below 5056
+create-a-node-here really 55.8 68 {\n\nDollar: }
+create-a-node-here really 55.60 69 {141.45 yen, off 1.30; 1.8485 marks, off 0.0182. }
+#autolink_nodes 68 69 satelite comparison  5057
+#UNDID
+autolink_nodes 68 69 multinuclear Comparison  5057
+autolink_nodes 5055 5057 multinuclear List below 5057
+autolink_nodes 60 5055 satelite elaboration-set-member  5058
+autolink_nodes 5018 5058 multinuclear Topic-Shift below 5058
+disconnect_node 31 modify
+autolink_nodes 30 31 multinuclear Comparison  5059

@@ -1,0 +1,334 @@
+nextSentence really
+create-a-node-here really 2.134 1 {\nThe airline industry's fortunes, in dazzling shape for most of the year, have taken a sudden turn for the worse in the past few weeks.}
+nextSentence really
+create-a-node-here really 4.81 2 { \n\nCiting rising fuel costs, promotional fare cuts and a general slowdown in travel,}
+create-a-node-here really 4.182 3 { several major carriers have posted or are expected to post relatively poor third-quarter results.}
+nextSentence really
+#autolink_nodes 2 3 nucleus attribution  5001
+#UNDID
+autolink_nodes 2 3 nucleus circumstance  5001
+autolink_nodes 1 5001 satelite elaboration-additional  5002
+create-a-node-here really 5.147 4 {\nYesterday, USAir Group Inc., recently one of the industry's stellar performers, posted a worse-than-expected $77.7 million net loss for the period.}
+nextSentence really
+#autolink_nodes 5001 4 satelite example  5003
+#UNDID
+autolink_nodes 5001 4 satelite example  5003
+create-a-node-here really 7.70 5 { \n\nSo far, the industry's fourth quarter isn't looking too strong either,}
+create-a-node-here really 7.177 6 { prompting many analysts to slash earning projections for the rest of the year by as much as one-fourth.}
+autolink_nodes 5 6 satelite consequence-s  5004
+#create-a-node-here really 8.51 7 {\nAnd they say the outlook for 1990 is nearly as bad.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 8.13 7 {\nAnd they say }
+create-a-node-here really 8.54 8 {the outlook for 1990 is nearly as bad.}
+nextSentence really
+autolink_nodes 7 8 nucleus attribution  5005
+autolink_nodes 5004 5005 multinuclear Sequence  5006
+autolink_nodes 5006 5002 multinuclear Sequence below 5006
+#create-a-node-here really 9.73 9 {\nAirlines in 1989 "came in like a bang and are going out like a whimper," }
+#create-a-node-here really 9.137 10 {said Kevin Murphy, an airline analyst at Morgan Stanley & Co.}
+#autolink_nodes 9 10 satelite attribution  5007
+#autolink_nodes 5006 5007 nucleus summary-n  5008
+#UNDID
+#autolink_nodes 5006 5007 satelite summary-s  5008
+#create-a-node-here really 11.56 11 { \n\nThis turn of events has put a big damper on an industry }
+#create-a-node-here really 11.102 12 {that seemed almost invincible last spring,}
+#create-a-node-here really 11.152 13 { when fares were rising at double-digit rates }
+#create-a-node-here really 11.237 14 {and many carriers seemed to be growing fat on near-monopolies in certain markets.}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 9.37 9 {\nAirlines in 1989 "came in like a bang}
+create-a-node-here really 9.75 10 { and are going out like a whimper,"}
+create-a-node-here really 9.141 11 { said Kevin Murphy, an airline analyst at Morgan Stanley & Co.}
+autolink_nodes 9 10 multinuclear Sequence  5007
+autolink_nodes 5007 11 satelite attribution  5008
+autolink_nodes 5006 5008 satelite summary-s  5009
+create-a-node-here really 11.56 12 { \n\nThis turn of events has put a big damper on an industry }
+create-a-node-here really 11.102 13 {that seemed almost invincible last spring,}
+create-a-node-here really 11.152 14 { when fares were rising at double-digit rates }
+create-a-node-here really 11.237 15 {and many carriers seemed to be growing fat on near-monopolies in certain markets.}
+autolink_nodes 14 15 multinuclear List  5010
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 13 5010 satelite circumstance  5012
+autolink_nodes 5011 5009 satelite circumstance  5013
+#create-a-node-here really 12.62 16 {\nNow, many airline companies might become a lot less attractive}
+#UNDID
+create-a-node-here really 12.98 16 {\nNow, many airline companies might become a lot less attractive as takeover targets on Wall Street.}
+nextSentence really
+autolink_nodes 5013 16 satelite hypothetical  5014
+create-a-node-here really 13.90 17 {\nThe downturn also raises questions about the carriers' ambitious orders for new airplanes,}
+nextSentence really
+create-a-node-here really 13.157 18 { which currently total $32.5 billion over the next three years.}
+#nextSentence really
+#autolink_nodes 17 18 satelite-embedded elaboration-additional-e  5015
+#UNDID
+#UNDID
+disconnect_node 16 disconnect
+autolink_nodes 17 18 satelite-embedded elaboration-additional-e  5015
+autolink_nodes 5015 16 multinuclear List  5016
+autolink_nodes 5013 5016 satelite consequence-s  5017
+create-a-node-here really 15.78 19 { \n\nFor travelers, though, the industry's problems have had some positive effects.}
+nextSentence really
+create-a-node-here really 16.69 20 {\nIn recent weeks, airlines have cut numerous fares in leisure markets }
+create-a-node-here really 16.102 21 {to try to win back customers.}
+nextSentence really
+autolink_nodes 20 21 satelite purpose  5018
+create-a-node-here really 17.55 22 {\nOthers have tried to spruce up frequent-flier programs.}
+nextSentence really
+create-a-node-here really 18.48 23 {\nPreviously, airlines were limiting the programs }
+create-a-node-here really 18.93 24 {because they were becoming too expensive.}
+nextSentence really
+autolink_nodes 23 24 satelite reason  5019
+autolink_nodes 22 5019 satelite antithesis  5020
+create-a-node-here really 20.200 25 { \n\nJust last week, for example, Trans World Airlines and Pan Am Corp. 's Pan American World Airways went so far as to offer cash rebates or gift checks of $200 to $1,000 to certain frequent-flier members}
+create-a-node-here really 20.268 26 { making trans-Atlantic flights in business class or first class.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5021
+autolink_nodes 5020 5021 satelite example  5022
+autolink_nodes 5018 5022 multinuclear List  5023
+autolink_nodes 19 5023 satelite example  5024
+autolink_nodes 5017 5024 satelite antithesis  5025
+create-a-node-here really 21.51 27 {\nThe industry's slowdown became apparent this month }
+create-a-node-here really 21.150 28 {when AMR Corp., parent of American Airlines, reported an 8.8% drop in third-quarter net income }
+create-a-node-here really 21.163 29 {and said }
+create-a-node-here really 21.211 30 {its fourth quarter would be "disappointing."}
+nextSentence really
+autolink_nodes 29 30 nucleus attribution  5026
+autolink_nodes 27 28 satelite circumstance  5027
+#autolink_nodes 5026 5027 multinuclear List  5028
+#UNDID
+autolink_nodes 28 5026 multinuclear List  5028
+collapsed_nodes {5024}
+collapsed_nodes {5024 5016}
+create-a-node-here really 21.252 31 { Shortly before that, USAir had said }
+create-a-node-here really 21.333 32 {its third-quarter results would be "significantly lower" than a year earlier.}
+autolink_nodes 31 32 nucleus attribution  5029
+nextSentence really
+create-a-node-here really 22.35 33 {\nYesterday, it provided the details:}
+nextSentence really
+create-a-node-here really 22.167 34 { Its loss of $77.7 million, or $1.86 a share, contrasted with net of $68.5 million, or $1.58 a share, in the 1988 third quarter.}
+nextSentence really
+autolink_nodes 33 34 satelite elaboration-general-specific  5030
+create-a-node-here really 23.81 35 {\nRevenue rose only 3.3% in the latest period, to $1.53 billion from $1.48 billion.}
+nextSentence really
+autolink_nodes 34 35 satelite elaboration-additional  5031
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 26.0 36 { \n\nFor the nine months, the Arlington, Va., company's net plunged 73% to $38.5 million, or 76 cents a share, from $142.2 million, or $3.28 a share.\n}
+create-a-node-here really 26.57 37 {Revenue rose 12% to $4.75 billion from $4.22 billion.}
+nextSentence really
+autolink_nodes 36 37 satelite elaboration-additional  5032
+autolink_nodes 5031 5032 satelite elaboration-additional  5033
+autolink_nodes 5029 5030 satelite elaboration-additional  5034
+create-a-node-here really 28.36 38 { \n\nThe results surprised many analysts,}
+create-a-node-here really 28.103 39 { because USAir has almost no competition in its Pittsburgh hub }
+create-a-node-here really 28.134 40 {and has expanded operations}
+create-a-node-here really 28.190 41 { by completing its acquisition of Piedmont Airlines.}
+nextSentence really
+autolink_nodes 40 41 satelite means  5035
+autolink_nodes 39 5035 multinuclear List  5036
+autolink_nodes 38 5036 satelite reason  5037
+autolink_nodes 5034 5037 satelite antithesis  5038
+#create-a-node-here really 29.78 42 {\nShortly after announcing its quarterly loss, USAir's stock tumbled $3 a share.}
+#nextSentence really
+#nextSentence really
+#create-a-node-here really 30.79 43 {\nIt ended at $40.125, down $2.375, in New York Stock Exchange composite trading.}
+#nextSentence really
+#autolink_nodes 42 43 satelite elaboration-additional  5039
+#collapsed_nodes {5024 5016 5037}
+#create-a-node-here really 32.43 44 { \n\n"Nobody was expecting this size of a loss,"}
+#create-a-node-here really 32.99 45 { said Paul Karos, an analyst with First Boston Corp.}
+#autolink_nodes 44 45 satelite attribution  5040
+#create-a-node-here really 33.22 46 {\nOne airline executive,}
+#create-a-node-here really 33.57 47 { who declined to be identified,}
+#create-a-node-here really 33.88 48 { called the loss "amazing."}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 29.44 42 {\nShortly after announcing its quarterly loss,}
+create-a-node-here really 29.82 43 { USAir's stock tumbled $3 a share.}
+#autolink_nodes 42 43 nucleus circumstance  5039
+#UNDID
+autolink_nodes 42 43 nucleus consequence-n  5039
+nextSentence really
+create-a-node-here really 30.79 44 {\nIt ended at $40.125, down $2.375, in New York Stock Exchange composite trading.}
+nextSentence really
+autolink_nodes 5039 44 satelite elaboration-additional  5040
+create-a-node-here really 32.44 45 { \n\n"Nobody was expecting this size of a loss," }
+create-a-node-here really 32.99 46 {said Paul Karos, an analyst with First Boston Corp.}
+create-a-node-here really 33.22 47 {\nOne airline executive,}
+create-a-node-here really 33.57 48 { who declined to be identified,}
+create-a-node-here really 33.88 49 { called the loss "amazing."}
+nextSentence really
+autolink_nodes 47 48 satelite-embedded elaboration-additional-e  5041
+autolink_nodes 5041 49 multinuclear Same-Unit  5042
+autolink_nodes 45 46 satelite attribution  5043
+autolink_nodes 5043 5042 satelite elaboration-additional  5044
+autolink_nodes 5040 5044 satelite elaboration-additional  5045
+collapsed_nodes {5024 5016 5037}
+create-a-node-here really 35.26 50 { \n\nIn announcing the results,}
+create-a-node-here really 35.69 51 { USAir cited many of the same problems }
+create-a-node-here really 35.131 52 {that several other industry officials have named recently.}
+nextSentence really
+autolink_nodes 5038 5045 satelite elaboration-additional  5046
+collapsed_nodes {5024 5016 5037 5045}
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5047
+autolink_nodes 5047 50 satelite circumstance  5048
+create-a-node-here really 36.8 53 {\nIt said }
+create-a-node-here really 36.74 54 {the industry's domestic traffic was flat in the third quarter;}
+create-a-node-here really 36.92 55 { analysts say }
+create-a-node-here really 36.200 56 {this was because hefty fare increases earlier in the year scared off many leisure travelers this summer.}
+nextSentence really
+autolink_nodes 55 56 nucleus attribution  5049
+autolink_nodes 53 54 nucleus attribution  5050
+autolink_nodes 5050 5049 satelite explanation-argumentative  5051
+autolink_nodes 5048 5051 satelite elaboration-additional  5052
+collapsed_nodes {5024 5016 5037 5045 5033}
+autolink_nodes 5046 5052 satelite elaboration-additional  5053
+collapsed_nodes {5024 5016 5037 5045 5033 5052}
+autolink_nodes 5028 5053 multinuclear List above 5054
+autolink_nodes 5025 5027 satelite elaboration-additional  5055
+collapsed_nodes {5024 5016 5037 5045 5033 5052 5054}
+create-a-node-here really 37.38 57 {\nTo try to combat the traffic slowdown,}
+create-a-node-here really 37.75 58 { airlines started reducing fares;}
+create-a-node-here really 37.179 59 { average fares rose only 1.7% in August, in contrast to increases of 16% each in February and March.}
+nextSentence really
+autolink_nodes 57 58 nucleus purpose  5056
+autolink_nodes 5056 59 satelite consequence-s  5057
+create-a-node-here really 38.34 60 {\nBut so far, the effort has failed,}
+create-a-node-here really 38.65 61 { and traffic is still slow.}
+nextSentence really
+autolink_nodes 60 61 multinuclear Cause-Result  5058
+autolink_nodes 5057 5058 nucleus concession  5059
+autolink_nodes 5027 5059 satelite elaboration-additional  5060
+create-a-node-here really 40.42 62 { \n\nSome other fare promotions have backfired.}
+nextSentence really
+create-a-node-here really 41.63 63 {\nThis summer, the industry introduced a "kids fly free" program,}
+create-a-node-here really 41.111 64 { in which children were allowed to fly free }
+create-a-node-here really 41.152 65 {if they were traveling with an adult.}
+nextSentence really
+autolink_nodes 64 65 satelite condition  5061
+autolink_nodes 63 5061 satelite-embedded elaboration-additional-e  5062
+create-a-node-here really 42.53 66 {\nAirlines tried to restrict the program substantially }
+create-a-node-here really 42.107 67 {by limiting the offer to certain days of the week,}
+create-a-node-here really 42.162 68 { but it still was apparently used far more heavily }
+create-a-node-here really 42.193 69 {than the airlines expected.}
+nextSentence really
+#autolink_nodes 68 69 satelite comparison  5063
+#UNDID
+autolink_nodes 68 69 satelite comparison  5063
+autolink_nodes 66 67 satelite means  5064
+autolink_nodes 5064 5063 nucleus antithesis  5065
+autolink_nodes 5065 5062 multinuclear List  5066
+autolink_nodes 62 5066 satelite evidence  5067
+autolink_nodes 5059 5067 satelite elaboration-additional  5068
+collapsed_nodes {5024 5016 5037 5045 5033 5052 5054 5068}
+collapsed_nodes {5024 5016 5037 5045 5033 5052 5054}
+collapsed_nodes {5024 5016}
+collapsed_nodes {5024 5016 5054}
+create-a-node-here really 44.18 70 { \n\nAirlines also say }
+create-a-node-here really 44.74 71 {their frequent-flier programs are squeezing profits }
+create-a-node-here really 44.142 72 {because awards are being redeemed at a heavier-than-normal rate.}
+autolink_nodes 71 72 satelite explanation-argumentative  5069
+autolink_nodes 70 5069 nucleus attribution  5070
+create-a-node-here really 45.26 73 {\nOne airline official said }
+create-a-node-here really 45.117 74 {about three times as many free-travel coupons are being turned in as in previous years }
+create-a-node-here really 45.237 75 {-- not surprisingly, as the airlines last year allowed many travelers to build up mileage at triple the normal rate.}
+nextSentence really
+autolink_nodes 73 74 nucleus attribution  5071
+#autolink_nodes 74 75 satelite explanation-argumentative below 5072
+#UNDID
+autolink_nodes 74 75 satelite explanation-argumentative above 5071
+autolink_nodes 5070 5071 satelite elaboration-additional  5072
+disconnect_node 5065 disconnect
+#autolink_nodes 5062 5065 satelite elaboration-additional  5073
+#UNDID
+disconnect_node 5062 disconnect
+autolink_nodes 5065 5062 satelite circumstance  5073
+autolink_nodes 62 5073 satelite evidence  5074
+collapsed_nodes {5024 5016 5054 5074}
+#autolink_nodes 5068 5072 satelite elaboration-additional  5075
+#UNDID
+collapsed_nodes {5024 5016 5054 5074 5068}
+autolink_nodes 5060 5072 satelite elaboration-additional  5075
+create-a-node-here really 47.46 76 { \n\nRising operating expenses are another problem.}
+create-a-node-here really 48.44 77 {\nFuel costs were up 10% in the third quarter.}
+nextSentence really
+create-a-node-here really 49.12 78 {\nLabor costs,}
+create-a-node-here really 49.56 79 { which leveled off in the past few years}
+create-a-node-here really 49.109 80 { because of lower pay scales for newer employees,}
+create-a-node-here really 49.156 81 { are on the upswing again at many carriers.}
+nextSentence really
+autolink_nodes 79 80 satelite explanation-argumentative  5076
+#autolink_nodes 78 5076 satelite-embedded elaboration-additional-e  5077
+#UNDID
+autolink_nodes 78 5076 satelite-embedded elaboration-additional-e  5077
+autolink_nodes 81 5077 multinuclear Same-Unit  5078
+autolink_nodes 5078 77 multinuclear List above 5079
+#autolink_nodes 76 5079 satelite elaboration-general-specific  5080
+#UNDID
+autolink_nodes 76 5079 satelite elaboration-additional  5080
+collapsed_nodes {5024 5016 5054 5074 5068 5072}
+autolink_nodes 5075 5080 satelite elaboration-additional  5081
+create-a-node-here really 50.56 82 {\nAnd some carriers are facing other unexpected headaches:}
+create-a-node-here really 50.142 83 { USAir, for example, blamed some of its loss on merger expenses and on disruptions}
+create-a-node-here really 50.183 84 { caused by Hurricane Hugo last month.}
+autolink_nodes 83 84 satelite-embedded elaboration-object-attribute-e  5082
+create-a-node-here really 50.243 85 { "We cannot quantify the total adverse effects of Hugo,"}
+create-a-node-here really 50.306 86 { said Edwin Colodny, chairman and president of USAir Group.}
+nextSentence really
+autolink_nodes 85 86 satelite attribution  5083
+autolink_nodes 5082 5083 satelite elaboration-additional  5084
+autolink_nodes 82 5084 satelite example  5085
+collapsed_nodes {5024 5016 5054 5074 5068 5072 5080}
+autolink_nodes 5081 5085 satelite elaboration-additional  5086
+#create-a-node-here really 52.36 87 { \n\nWhatever the cause for the downturn,}
+#create-a-node-here really 52.90 88 { few people are predicting any sudden improvement.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 52.86 87 { \n\nWhatever the cause for the downturn, few people are predicting any sudden improvement.}
+create-a-node-here really 53.125 88 {\nAirline Economics Inc., an aviation consulting firm, is projecting an industrywide operating profit of $2.5 billion for 1989,}
+create-a-node-here really 53.192 89 { compared with earlier forecasts of $3 billion to $3.5 billion.}
+nextSentence really
+autolink_nodes 88 89 satelite comparison  5087
+create-a-node-here really 54.31 90 {\nAs for 1990, the firm predicts }
+create-a-node-here really 54.96 91 {that profit will slip to between $1 billion and $1.5 billion.}
+nextSentence really
+autolink_nodes 90 91 nucleus attribution  5088
+autolink_nodes 5087 5088 satelite elaboration-additional  5089
+autolink_nodes 87 5089 satelite example  5090
+collapsed_nodes {5024 5016 5054 5074 5068 5072 5080 5085}
+autolink_nodes 5086 5090 satelite elaboration-additional  5091
+collapsed_nodes {5024 5016 5054 5072 5080 5085}
+collapsed_nodes {5024 5054 5072 5080 5085}
+collapsed_nodes {5054 5072 5080 5085}
+collapsed_nodes {5072 5080 5085}
+collapsed_nodes {5080 5085}
+collapsed_nodes {5085}
+collapsed_nodes {}
+#disconnect_node 73 disconnect
+#autolink_nodes 5071 73 satelite attribution  5092
+#UNDID
+#UNDID

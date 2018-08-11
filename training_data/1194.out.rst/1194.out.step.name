@@ -1,0 +1,50 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.184 1 {\nInternational Business Machines Corp. agreed to acquire a 15% stake in Paxus Corp., an Australian computer-software and information-services concern, for 20 million Australian dollars }
+create-a-node-here really 2.203 2 {(US$17 million).}
+autolink_nodes 1 2 satelite restatement  5001
+create-a-node-here really 4.70 3 { \n\nThe investment will be made through IBM Australia Ltd., a unit of IBM,}
+create-a-node-here really 4.107 4 { the two companies said yesterday.}
+nextSentence really
+autolink_nodes 3 4 satelite attribution  5002
+autolink_nodes 5001 5002 satelite elaboration-additional  5003
+create-a-node-here really 6.57 5 { \n\nIBM can raise its stake in Paxus to 20% over three years,}
+create-a-node-here really 6.106 6 { but agreed to not go beyond 20% in that time.}
+nextSentence really
+autolink_nodes 5 6 satelite elaboration-additional  5004
+autolink_nodes 5003 5004 satelite elaboration-additional  5005
+create-a-node-here really 8.25 7 { \n\nPaxus said in a statement}
+#create-a-node-here really 8.137 8 { it has several "well developed product and services relationships" with the U.S. computer company, and plans}
+#create-a-node-here really 8.163 9 { to expand these links.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 8.127 8 { it has several "well developed product and services relationships" with the U.S. computer company,}
+create-a-node-here really 8.163 9 { and plans to expand these links.}
+autolink_nodes 8 9 satelite elaboration-additional  5006
+autolink_nodes 7 5006 nucleus attribution  5007
+autolink_nodes 5005 5007 satelite elaboration-additional  5008
+create-a-node-here really 9.49 10 {\nThe company earns about half its revenue overseas}
+create-a-node-here really 9.82 11 { and plans further expansion.}
+nextSentence really
+autolink_nodes 10 11 multinuclear List  5009
+autolink_nodes 5007 5009 satelite elaboration-additional  5010
+create-a-node-here really 11.26 12 { \n\nA majority stake in Paxus }
+create-a-node-here really 11.57 13 {currently held by NZI Corp.}
+create-a-node-here really 11.104 14 { will be diluted to slightly less than 50% }
+create-a-node-here really 11.140 15 {after IBM acquires its interest.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 5011 14 multinuclear Same-Unit  5012
+autolink_nodes 5012 15 satelite circumstance  5013
+collapsed_nodes {5010}
+autolink_nodes 5008 5013 satelite elaboration-additional  5014
+create-a-node-here really 13.162 16 { \n\nThe agreement requires approval from Australia's Foreign Investment Review Board and National Companies and Securities Commission, and from shareholders of Paxus.}
+nextSentence really
+collapsed_nodes {5010 5013}
+autolink_nodes 5014 16 satelite elaboration-additional  5015
+disconnect_node 2 modify
+autolink_nodes 1 2 satelite-embedded restatement-e below 5016
+collapsed_nodes {5013}
+collapsed_nodes {}

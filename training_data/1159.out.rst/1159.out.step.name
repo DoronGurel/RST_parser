@@ -1,0 +1,161 @@
+nextSentence really
+create-a-node-here really 2.84 1 {\nThe Justice Department scrambled to play down the significance of its new guidelines}
+create-a-node-here really 2.111 2 { concerning prosecutions}
+create-a-node-here really 2.150 3 { under the federal racketeering law.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+create-a-node-here really 4.61 4 { \n\nThe guidelines were distributed to U.S. attorneys last summer}
+create-a-node-here really 4.130 5 { but were disclosed for the first time by press reports this week.}
+nextSentence really
+autolink_nodes 4 5 multinuclear Sequence  5003
+autolink_nodes 5002 5003 satelite elaboration-additional  5004
+create-a-node-here really 5.83 6 {\nThey discourage prosecutors, under certain circumstances, from seeking court orders}
+create-a-node-here really 5.148 7 { seizing the assets of racketeering defendants prior to trial.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 6.59 8 {\nBut David Runkel, chief Justice Department spokesman, said }
+create-a-node-here really 6.148 9 {the guidelines "are a codification and a clarification far more than a new direction."}
+nextSentence really
+autolink_nodes 8 9 nucleus attribution  5006
+autolink_nodes 5006 5005 satelite antithesis  5007
+autolink_nodes 5004 5007 satelite elaboration-additional  5008
+create-a-node-here really 8.95 10 { \n\nUse of the Racketeer Influenced and Corrupt Organizations law against white-collar defendants, }
+create-a-node-here really 8.145 11 {as opposed to alleged organized-crime figures,}
+create-a-node-here really 8.217 12 { has come under attack from some defense lawyers and legal scholars.}
+nextSentence really
+autolink_nodes 10 11 satelite-embedded antithesis-e  5009
+autolink_nodes 5009 12 multinuclear Same-Unit  5010
+create-a-node-here really 9.24 13 {\nCritics have complained }
+create-a-node-here really 9.77 14 {that the law unfairly strips defendants of assets}
+create-a-node-here really 9.107 15 { before a jury determines }
+create-a-node-here really 9.139 16 {they have committed a crime }
+create-a-node-here really 9.225 17 {and that aggressive use of the forfeiture provisions can ruin corporate defendants}
+create-a-node-here really 9.275 18 { or force them into unfavorable plea bargains.}
+nextSentence really
+autolink_nodes 17 18 multinuclear List  5011
+autolink_nodes 15 16 nucleus attribution  5012
+autolink_nodes 14 5012 satelite temporal-before  5013
+autolink_nodes 5013 5011 multinuclear List  5014
+autolink_nodes 13 5014 nucleus attribution  5015
+autolink_nodes 5010 5015 satelite elaboration-general-specific  5016
+create-a-node-here really 11.50 19 { \n\nIn the new guidelines, the Justice Department says}
+create-a-node-here really 11.60 20 { that }
+create-a-node-here really 11.117 21 {in attempting to freeze disputed assets before trial,}
+nextSentence really
+nextSentence really
+nextSentence really
+#create-a-node-here really 11.281 22 { "the government will not seek to disrupt the normal, legitimate business activities of the defendant" and "will not seek. . .to take from third parties assets }
+#create-a-node-here really 11.319 23 {legitimately transferred to them."}
+#nextSentence really
+#autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5017
+#autolink_nodes 5017 21 satelite-embedded circumstance-e  5018
+#autolink_nodes 20 5018 multinuclear Same-Unit  5019
+#autolink_nodes 19 5019 nucleus attribution  5020
+#create-a-node-here really 13.26 24 { \n\nThe guidelines also state,}
+#create-a-node-here really 13.119 25 { "The government's policy is not to seek the fullest forfeiture permissible under the law}
+#create-a-node-here really 13.198 26 { where that forfeiture would be disproportionate to the defendant's crime."}
+#nextSentence really
+#autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5021
+#autolink_nodes 24 5021 nucleus attribution  5022
+#create-a-node-here really 15.42 27 { \n\nAnother provision clarifies certain limits}
+#create-a-node-here really 15.104 28 { on when prosecutors may use tax-fraud charges as a basis }
+#create-a-node-here really 15.141 29 {for bringing a racketeering case.}
+#nextSentence really
+#autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5023
+#autolink_nodes 27 5023 satelite-embedded elaboration-object-attribute-e  5024
+#autolink_nodes 5022 5024 multinuclear List  5025
+#autolink_nodes 5025 5020 multinuclear List below 5025
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 11.224 22 { "the government will not seek to disrupt the normal, legitimate business activities of the defendant" }
+create-a-node-here really 11.285 23 {and "will not seek. . .to take from third parties assets }
+create-a-node-here really 11.324 24 {legitimately transferred to them." }
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5017
+autolink_nodes 22 5017 multinuclear List  5018
+autolink_nodes 5018 21 satelite-embedded circumstance-e  5019
+autolink_nodes 20 5019 multinuclear Same-Unit  5020
+autolink_nodes 19 5020 nucleus attribution  5021
+create-a-node-here really 13.26 25 {\n\nThe guidelines also state,}
+create-a-node-here really 13.120 26 { "The government's policy is not to seek the fullest forfeiture permissible under the law }
+create-a-node-here really 13.198 27 {where that forfeiture would be disproportionate to the defendant's crime."}
+nextSentence really
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 25 5022 nucleus attribution  5023
+create-a-node-here really 15.42 28 { \n\nAnother provision clarifies certain limits}
+create-a-node-here really 15.104 29 { on when prosecutors may use tax-fraud charges as a basis }
+create-a-node-here really 15.141 30 {for bringing a racketeering case.}
+nextSentence really
+autolink_nodes 29 30 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 28 5024 satelite-embedded elaboration-object-attribute-e  5025
+autolink_nodes 5023 5025 multinuclear List  5026
+autolink_nodes 5026 5021 multinuclear List below 5026
+autolink_nodes 5026 5016 satelite background  5027
+collapsed_nodes {5016}
+collapsed_nodes {5016 5007}
+collapsed_nodes {5016 5007 5021}
+autolink_nodes 5008 5027 satelite elaboration-additional  5028
+create-a-node-here really 17.33 31 { \n\nMr. Runkel declined to speculate }
+create-a-node-here really 17.129 32 {on whether the guidelines would curb racketeering prosecutions against corporate defendants.}
+nextSentence really
+autolink_nodes 31 32 nucleus attribution-n  5029
+create-a-node-here really 17.146 33 { "The impact,}
+create-a-node-here really 17.167 34 { if there is any,}
+create-a-node-here really 17.214 35 { will be impossible to judge ahead of time }
+create-a-node-here really 17.238 36 {because the decision}
+create-a-node-here really 17.280 37 { whether to use {racketeering charges}}
+create-a-node-here really 17.360 38 { is made in individual cases" by Justice Department officials in Washington,}
+create-a-node-here really 17.373 39 { he said.}
+nextSentence really
+autolink_nodes 35 34 satelite-embedded condition-e  5030
+autolink_nodes 5030 33 multinuclear Same-Unit  5031
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5032
+autolink_nodes 5032 38 multinuclear Same-Unit  5033
+autolink_nodes 5031 5033 satelite explanation-argumentative  5034
+autolink_nodes 5034 39 satelite attribution  5035
+autolink_nodes 5029 5035 satelite elaboration-additional  5036
+create-a-node-here really 19.15 40 { \n\nIn a memorandum}
+create-a-node-here really 19.46 41 { describing the guidelines,}
+create-a-node-here really 19.101 42 { Assistant Attorney General Edward Dennis Jr. said }
+create-a-node-here really 19.128 43 {that government efforts}
+create-a-node-here really 19.161 44 { to freeze defendants' assets}
+create-a-node-here really 19.200 45 { pending racketeering prosecutions }
+create-a-node-here really 19.267 46 {"have been the subject of considerable criticism in the press."}
+nextSentence really
+autolink_nodes 40 41 satelite-embedded elaboration-object-attribute-e  5037
+autolink_nodes 5037 42 multinuclear Same-Unit  5038
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5039
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5040
+autolink_nodes 5039 46 multinuclear Same-Unit  5041
+autolink_nodes 5038 5041 nucleus attribution  5042
+create-a-node-here really 19.292 47 { But Mr. Runkel said }
+create-a-node-here really 19.364 48 {the government isn't "backing off on these kinds of matters at all."}
+nextSentence really
+autolink_nodes 47 48 nucleus attribution  5043
+autolink_nodes 5042 5043 satelite elaboration-additional  5044
+collapsed_nodes {5016 5007 5021 5035}
+autolink_nodes 5036 5044 satelite elaboration-additional  5045
+autolink_nodes 5028 5045 satelite elaboration-additional  5046
+collapsed_nodes {5016 5007 5021}
+collapsed_nodes {5016 5007}
+collapsed_nodes {5007}
+collapsed_nodes {}

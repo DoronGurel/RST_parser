@@ -1,0 +1,318 @@
+nextSentence really
+create-a-node-here really 2.37 1 {\nThis hasn't been Kellogg Co. 's year.}
+nextSentence really
+create-a-node-here really 3.74 2 {\nThe oat-bran craze has cost the world's largest cereal maker market share.}
+nextSentence really
+create-a-node-here really 4.38 3 {\nThe company's president quit suddenly.}
+nextSentence really
+create-a-node-here really 5.47 4 {\nAnd now Kellogg is indefinitely suspending work}
+create-a-node-here really 5.95 5 { on what was to be a $1 billion cereal plant.}
+nextSentence really
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 1 2 nucleus cause  5002
+#autolink_nodes 5002 3 satelite consequence-s  5003
+#UNDID
+#autolink_nodes 3 5001 multinuclear List  5003
+#disconnect_node 1 modify
+#UNDID
+#UNDID
+autolink_nodes 5002 3 satelite consequence-s  5003
+autolink_nodes 5003 5001 satelite consequence-s  5004
+create-a-node-here really 7.17 6 { \n\nThe company said }
+create-a-node-here really 7.49 7 {it was delaying construction }
+create-a-node-here really 7.89 8 {because of current market conditions.}
+autolink_nodes 7 8 satelite reason  5005
+autolink_nodes 6 5005 nucleus attribution  5006
+autolink_nodes 5001 5006 satelite explanation-argumentative  5007
+create-a-node-here really 8.80 9 {\nBut the Memphis, Tenn., facility wasn't to begin turning out product until 1993,}
+create-a-node-here really 8.156 10 { so the decision may reveal a more pessimistic long-term outlook as well.}
+nextSentence really
+autolink_nodes 9 10 satelite interpretation-s  5008
+autolink_nodes 5006 5008 satelite antithesis  5009
+create-a-node-here really 10.8 11 { \n\nKellogg,}
+#create-a-node-here really 10.113 12 { which hasn't been as successful in capitalizing on the public's health-oriented desire for oat bran }
+#UNDID
+create-a-node-here really 10.141 12 { which hasn't been as successful in capitalizing on the public's health-oriented desire for oat bran as rival General Mills Inc.,}
+create-a-node-here really 10.213 13 { has been losing share in the $6 billion ready-to-eat cereal market.}
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 5010 13 multinuclear Same-Unit  5011
+create-a-node-here really 11.61 14 {\nKellogg's current share is believed to be slightly under 40% }
+create-a-node-here really 11.105 15 {while General Mills' share is about 27%.}
+nextSentence really
+autolink_nodes 14 15 satelite comparison  5012
+create-a-node-here really 13.35 16 { \n\nLed by its oat-based Cheerios line,}
+create-a-node-here really 13.138 17 { General Mills has gained an estimated 2% share so far this year, mostly at the expense of Kellogg.}
+nextSentence really
+autolink_nodes 16 17 nucleus circumstance  5013
+create-a-node-here really 14.53 18 {\nEach share point is worth about $60 million in sales.}
+nextSentence really
+autolink_nodes 5013 18 satelite elaboration-additional  5014
+autolink_nodes 5014 5012 satelite circumstance  5015
+autolink_nodes 5011 5015 satelite evidence  5016
+collapsed_nodes {5007}
+autolink_nodes 5004 5016 satelite elaboration-additional  5017
+create-a-node-here really 16.13 19 { \n\nAnalysts say }
+create-a-node-here really 16.121 20 {much of Kellogg's erosion has been in such core brands as Corn Flakes, Rice Krispies and Frosted Flakes,}
+create-a-node-here really 16.179 21 { which represent nearly one-third of its sales volume.}
+nextSentence really
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5018
+autolink_nodes 19 5018 nucleus attribution  5019
+create-a-node-here really 17.54 22 {\nKellogg is so anxious to turn around Corn Flakes sales}
+create-a-node-here really 17.123 23 { that it soon will begin selling boxes for as little as 99 cents,}
+create-a-node-here really 17.146 24 { trade sources say.}
+nextSentence really
+autolink_nodes 22 23 nucleus reason  5020
+autolink_nodes 5020 24 satelite attribution  5021
+create-a-node-here really 19.54 25 { \n\n"Cheerios and Honey Nut Cheerios have eaten away sales}
+create-a-node-here really 19.103 26 { normally going to Kellogg's corn-based lines}
+create-a-node-here really 19.146 27 { simply because they are made of oats,"}
+create-a-node-here really 19.199 28 { says Merrill Lynch food analyst William Maguire.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 5022 27 satelite explanation-argumentative  5023
+autolink_nodes 5023 28 satelite attribution  5024
+autolink_nodes 5021 5024 satelite circumstance  5025
+create-a-node-here really 19.269 29 { "They are not a happy group of people at Battle Creek right now."}
+nextSentence really
+nextSentence really
+create-a-node-here really 19.321 30 { Kellogg is based in Battle Creek, Mich., a city}
+create-a-node-here really 19.379 31 { that calls itself the breakfast capital of the world.}
+nextSentence really
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 29 5026 satelite elaboration-additional  5027
+autolink_nodes 5025 5027 satelite elaboration-additional  5028
+autolink_nodes 5019 5028 satelite consequence-s  5029
+collapsed_nodes {5007 5016}
+autolink_nodes 5017 5029 satelite elaboration-additional  5030
+nextSentence really
+nextSentence really
+create-a-node-here really 21.140 32 { \n\nAnother analyst, John C. Maxwell Jr. of Wheat, First Securities in Richmond, Va., recently went to a "sell" recommendation on Kellogg stock,}
+create-a-node-here really 21.236 33 { which closed Friday at $71.75, down 75 cents, in New York Stock Exchange composite trading.}
+nextSentence really
+autolink_nodes 32 33 satelite-embedded elaboration-additional-e  5031
+create-a-node-here really 21.255 34 { "I don't think}
+create-a-node-here really 21.300 35 { Kellogg can get back to 40% this year," }
+create-a-node-here really 21.312 36 {he said.}
+nextSentence really
+autolink_nodes 34 35 nucleus attribution-n  5032
+autolink_nodes 5032 36 satelite attribution  5033
+create-a-node-here really 21.355 37 { "Kellogg's main problem is life style.}
+nextSentence really
+create-a-node-here really 22.28 38 {\nPeople are reading the boxes}
+create-a-node-here really 22.46 39 { and deciding }
+create-a-node-here really 22.70 40 {they want something }
+create-a-node-here really 22.99 41 {that's `healthy' for you }
+create-a-node-here really 22.118 42 {-- oats, bran."}
+nextSentence really
+autolink_nodes 41 42 satelite-embedded elaboration-additional-e  5034
+autolink_nodes 40 5034 satelite-embedded elaboration-object-attribute-e  5035
+autolink_nodes 39 5035 nucleus attribution  5036
+autolink_nodes 38 5036 multinuclear List  5037
+autolink_nodes 37 5037 satelite elaboration-general-specific  5038
+autolink_nodes 5033 5038 satelite explanation-argumentative  5039
+create-a-node-here really 22.139 43 { Mr. Maxwell said}
+create-a-node-here really 22.168 44 { he wouldn't be surprised}
+create-a-node-here really 22.254 45 { if, over the next two years or so, General Mills' share increased to 30% or more.}
+nextSentence really
+#autolink_nodes 44 45 nucleus attribution-n  5040
+#UNDID
+autolink_nodes 44 45 satelite condition  5040
+autolink_nodes 43 5040 nucleus attribution  5041
+collapsed_nodes {5007 5016 5038}
+autolink_nodes 5039 5041 satelite elaboration-additional  5042
+autolink_nodes 5031 5042 satelite elaboration-additional  5043
+collapsed_nodes {5007 5016 5038 5029}
+autolink_nodes 5030 5043 satelite elaboration-additional  5044
+create-a-node-here really 24.30 46 { \n\nIn announcing the plant delay,}
+create-a-node-here really 24.76 47 { Kellogg Chairman William E. LaMothe said,}
+create-a-node-here really 24.154 48 { "Cereal volume growth in the U.S. has not met our expectations for 1989."}
+#autolink_nodes 47 48 nucleus attribution  5045
+#UNDID
+autolink_nodes 47 48 nucleus attribution  5045
+autolink_nodes 5045 46 satelite circumstance  5046
+create-a-node-here really 24.166 49 { He said}
+create-a-node-here really 24.200 50 { construction wouldn't resume }
+create-a-node-here really 24.239 51 {until market conditions warrant it.}
+nextSentence really
+autolink_nodes 50 51 satelite circumstance  5047
+autolink_nodes 49 5047 nucleus attribution  5048
+autolink_nodes 5046 5048 satelite elaboration-additional  5049
+create-a-node-here really 26.17 52 { \n\nKellogg indicated}
+create-a-node-here really 26.39 53 { that it has room }
+create-a-node-here really 26.51 54 {to grow }
+create-a-node-here really 26.81 55 {without adding facilities.}
+nextSentence really
+autolink_nodes 54 55 satelite circumstance  5050
+autolink_nodes 53 5050 satelite-embedded elaboration-object-attribute-e  5051
+autolink_nodes 52 5051 nucleus attribution  5052
+create-a-node-here really 27.39 56 {\nThe company has five other U.S. plants,}
+create-a-node-here really 27.104 57 { including a modern facility at its Battle Creek headquarters}
+create-a-node-here really 27.131 58 { known as Building 100,}
+create-a-node-here really 27.207 59 { which is to add bran-processing and rice-processing capacity next year.}
+nextSentence really
+#autolink_nodes 58 59 satelite-embedded elaboration-object-attribute-e  5053
+#autolink_nodes 57 5053 satelite-embedded elaboration-additional-e  5054
+#UNDID
+#UNDID
+autolink_nodes 57 58 satelite-embedded elaboration-additional-e  5053
+autolink_nodes 5053 59 satelite-embedded elaboration-object-attribute-e  5054
+autolink_nodes 56 5054 satelite elaboration-set-member  5055
+#autolink_nodes 5052 5055 satelite evidence  5056
+#UNDID
+autolink_nodes 5052 5055 satelite example  5056
+#autolink_nodes 5049 5056 satelite elaboration-additional  5057
+#UNDID
+autolink_nodes 5048 5056 satelite elaboration-additional  5057
+create-a-node-here really 29.78 60 { \n\nGeneral Mills, meanwhile, finds itself constrained from boosting sales further}
+create-a-node-here really 29.128 61 { because its plants are operating at capacity.}
+autolink_nodes 60 61 satelite reason  5058
+create-a-node-here really 30.62 62 {\nA large plant in Covington, Ga., is to come on line next year.}
+nextSentence really
+autolink_nodes 5058 62 satelite consequence-s  5059
+collapsed_nodes {5007 5016 5038 5029 5056}
+autolink_nodes 5049 5059 satelite comparison  5060
+create-a-node-here really 32.18 63 { \n\nA Kellogg officer,}
+create-a-node-here really 32.49 64 { who asked not to be named,}
+create-a-node-here really 32.59 65 { said }
+create-a-node-here really 32.145 66 {the Memphis project was "pulled in for a reconsideration of costs," an indication }
+create-a-node-here really 32.222 67 {that the ambitious plans might be scaled back in any future construction.}
+nextSentence really
+autolink_nodes 66 67 satelite-embedded elaboration-object-attribute-e  5061
+autolink_nodes 63 64 satelite-embedded elaboration-additional-e  5062
+autolink_nodes 65 5062 multinuclear Same-Unit  5063
+autolink_nodes 5063 5061 nucleus attribution  5064
+create-a-node-here really 33.37 68 {\nInitial cost estimates for the plant,}
+create-a-node-here really 33.81 69 { which was to have been built in phases,}
+create-a-node-here really 33.125 70 { ranged from $1 billion to $1.2 billion.}
+nextSentence really
+autolink_nodes 68 69 satelite-embedded elaboration-additional-e  5065
+autolink_nodes 5065 70 multinuclear Same-Unit  5066
+autolink_nodes 5064 5066 satelite elaboration-additional  5067
+collapsed_nodes {5007 5016 5038 5029 5056 5059}
+collapsed_nodes {5007 5016 5038 5029 5056 5059 5063}
+autolink_nodes 5067 5060 satelite circumstance  5068
+create-a-node-here really 35.24 71 { \n\nA company spokesman said}
+create-a-node-here really 35.105 72 { it was "possible, but highly unlikely," that the plant might never be built.}
+nextSentence really
+autolink_nodes 71 72 nucleus attribution  5069
+create-a-node-here really 35.145 73 { "As we regain our leadership level }
+create-a-node-here really 35.168 74 {where we have been,}
+#create-a-node-here really 35.262 75 { and as we continue to put new products into the marketplace and need additional capacity,}
+#create-a-node-here really 35.323 76 { we will look at resuming our involvement with our plan,"}
+#create-a-node-here really 35.336 77 { he said.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 35.233 75 { and as we continue to put new products into the marketplace }
+create-a-node-here really 35.266 76 {and need additional capacity,}
+create-a-node-here really 35.328 77 { we will look at resuming our involvement with our plan," }
+create-a-node-here really 35.340 78 {he said.}
+autolink_nodes 73 74 satelite-embedded elaboration-object-attribute-e  5070
+#autolink_nodes 75 76 nucleus consequence-n  5071
+#UNDID
+autolink_nodes 75 76 multinuclear Consequence  5071
+autolink_nodes 5071 5070 multinuclear List above 5072
+autolink_nodes 77 5072 satelite circumstance  5073
+autolink_nodes 5073 78 satelite attribution  5074
+autolink_nodes 5069 5074 satelite elaboration-additional  5075
+autolink_nodes 5068 5075 satelite elaboration-additional  5076
+create-a-node-here really 37.131 79 { \n\nThe new facility was to have been the world's most advanced cereal manufacturing plant, and Kellogg's largest construction project.}
+nextSentence really
+create-a-node-here really 38.84 80 {\nThe company had retained the Fluor Daniel unit of Fluor Corp. as general contractor.}
+nextSentence really
+autolink_nodes 79 80 satelite elaboration-additional  5077
+create-a-node-here really 40.60 81 { \n\nBut in recent weeks, construction-industry sources reported }
+create-a-node-here really 40.125 82 {that early preparation work was slowing at the 185-acre site.}
+nextSentence really
+autolink_nodes 81 82 nucleus attribution  5078
+create-a-node-here really 41.20 83 {\nSubcontractors said }
+create-a-node-here really 41.78 84 {they were told that equipment orders would be delayed.}
+nextSentence really
+autolink_nodes 83 84 nucleus attribution  5079
+create-a-node-here really 42.58 85 {\nFluor Daniel already has reassigned most of its work crew,}
+create-a-node-here really 42.80 86 { the sources said.}
+nextSentence really
+#autolink_nodes 85 86 satelite attribution  5080
+#UNDID
+autolink_nodes 85 86 satelite attribution  5080
+autolink_nodes 5079 5080 multinuclear List  5081
+autolink_nodes 5078 5081 satelite evidence  5082
+#autolink_nodes 5077 5082 satelite antithesis  5083
+#UNDID
+autolink_nodes 80 5082 satelite antithesis  5083
+collapsed_nodes {5007 5016 5038 5029 5056 5059 5063 5075}
+autolink_nodes 5076 5077 satelite elaboration-additional  5084
+create-a-node-here really 44.54 87 { \n\nLast Friday's announcement was the first official word}
+create-a-node-here really 44.91 88 { that the project was in trouble }
+create-a-node-here really 44.184 89 {and that the company's plans for a surge in market share may have been overly optimistic.}
+autolink_nodes 88 89 multinuclear List  5085
+autolink_nodes 87 5085 satelite-embedded elaboration-object-attribute-e  5086
+create-a-node-here really 45.72 90 {\nUntil recently, Kellogg had been telling its sales force and Wall Street}
+create-a-node-here really 45.135 91 { that by 1992 it intended to achieve a 50% share of market,}
+create-a-node-here really 45.166 92 { measured in dollar volume.}
+nextSentence really
+autolink_nodes 91 92 satelite-embedded elaboration-additional-e  5087
+#autolink_nodes 90 5087 nucleus attribution  5088
+#autolink_nodes 5086 5088 satelite temporal-after  5089
+#UNDID
+#UNDID
+autolink_nodes 90 5087 nucleus attribution  5088
+autolink_nodes 5086 5088 satelite temporal-after  5089
+create-a-node-here really 47.66 93 { \n\nAlthough he called current market conditions "highly competitive,"}
+create-a-node-here really 47.180 94 { Mr. LaMothe, Kellogg's chairman and chief executive officer, forecast an earnings increase for the full year.}
+autolink_nodes 93 94 nucleus antithesis  5090
+autolink_nodes 5088 5090 satelite elaboration-additional  5091
+nextSentence really
+create-a-node-here really 48.89 95 {\nLast year, the company earned $480.4 million, or $3.90 a share, on sales of $4.3 billion.}
+nextSentence really
+create-a-node-here really 50.12 96 { \n\nAs expected,}
+create-a-node-here really 50.63 97 { Kellogg reported lower third-quarter earnings.}
+nextSentence really
+autolink_nodes 96 97 nucleus circumstance  5092
+nextSentence really
+nextSentence really
+create-a-node-here really 51.88 98 {\nNet fell 16% to $123.1 million, or $1.02 a share, from $145.7 million, or $1.18 a share.}
+nextSentence really
+#autolink_nodes 5092 98 satelite evidence  5093
+#UNDID
+#autolink_nodes 5092 98 satelite elaboration-additional  5093
+#UNDID
+#autolink_nodes 5092 98 satelite elaboration-general-specific  5093
+#UNDID
+autolink_nodes 5092 98 satelite elaboration-additional  5093
+autolink_nodes 95 5093 satelite elaboration-additional  5094
+create-a-node-here really 52.52 99 {\nSales rose 4.8% to $1.20 billion from $1.14 billion.}
+autolink_nodes 5094 99 satelite elaboration-additional  5095
+nextSentence really
+create-a-node-here really 54.72 100 { \n\nThe company had a one-time charge of $14.8 million in the latest quarter}
+create-a-node-here really 54.121 101 { covering the disposition of certain assets.}
+nextSentence really
+autolink_nodes 100 101 satelite-embedded elaboration-object-attribute-e  5096
+nextSentence really
+create-a-node-here really 55.31 102 {\nThe company wouldn't elaborate,}
+create-a-node-here really 55.64 103 { citing competitive reasons.}
+#autolink_nodes 102 103 satelite-embedded elaboration-additional-e  5097
+#UNDID
+autolink_nodes 102 103 satelite elaboration-additional  5097
+autolink_nodes 5096 5097 satelite elaboration-additional  5098
+autolink_nodes 5095 5098 satelite elaboration-additional  5099
+autolink_nodes 5091 5099 satelite background  5100
+collapsed_nodes {5007 5016 5038 5029 5056 5059 5063 5075 5077}
+autolink_nodes 5084 5089 satelite elaboration-additional  5101
+collapsed_nodes {5007 5016 5038 5029 5056 5059 5063 5075 5077 5060}
+collapsed_nodes {5007 5016 5038 5029 5056 5059 5063 5075 5077 5060 5043}
+autolink_nodes 5044 5101 satelite elaboration-additional  5102
+collapsed_nodes {5016 5038 5029 5056 5059 5063 5075 5077 5060 5043}
+collapsed_nodes {5038 5029 5056 5059 5063 5075 5077 5060 5043}
+collapsed_nodes {5038 5056 5059 5063 5075 5077 5060 5043}
+collapsed_nodes {5056 5059 5063 5075 5077 5060}
+collapsed_nodes {5063 5075 5077}
+collapsed_nodes {5075 5077}
+collapsed_nodes {5077}
+collapsed_nodes {}
+disconnect_node 51 modify
+autolink_nodes 50 51 satelite condition below 5103
+disconnect_node 5100 modify
+autolink_nodes 5086 5100 satelite antithesis  5104

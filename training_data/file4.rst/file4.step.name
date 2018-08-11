@@ -1,0 +1,348 @@
+nextSentence really
+create-a-node-here really 3.13 1 {\n   The government is sharpening its newest weapon against white-collar\ndefendants : }
+create-a-node-here really 3.26 2 {the power }
+create-a-node-here really 3.75 3 {to prevent them from paying their legal bills.}
+nextSentence really
+create-a-node-here really 4.35 4 {\n   And defense lawyers are warning }
+create-a-node-here really 4.67 5 {that they won't stick around }
+create-a-node-here really 5.20 6 {if\nthey don't get paid.}
+nextSentence really
+create-a-node-here really 6.48 7 {\n   The issue has come to a boil in Newark, N.J.,}
+create-a-node-here really 7.36 8 { where federal prosecutors\nhave warned lawyers for Eddie Antar }
+#create-a-node-here really 8.32 9 {that if the founder and former chairman\nof Crazy Eddie Inc. is indicted,}
+#create-a-node-here really 9.6 10 { the government may move to seize the\nmoney }
+#create-a-node-here really 9.52 11 {that Mr. Antar is using to pay legal fees.}
+#nextSentence really
+#create-a-node-here really 11.36 12 {\n   The warning by the U.S. attorney's office follows two decisions\nby the U.S. Supreme Court last June.}
+#nextSentence really
+#create-a-node-here really 12.40 13 {\n   In those cases, the high court ruled }
+#create-a-node-here really 13.16 14 {that federal law gives prosecutors\nbroad authority }
+#create-a-node-here really 13.46 15 {to seize assets of people }
+#create-a-node-here really 14.8 16 {accused of racketeering and drug-related\ncrimes, }
+#create-a-node-here really 14.27 17 {including fees }
+#create-a-node-here really 14.68 18 {paid to lawyers before an indictment.}
+#nextSentence really
+#create-a-node-here really 15.61 19 {\n   If the government succeeds in seizing Mr. Antar's assets, }
+#create-a-node-here really 16.49 20 {he could\nbe left without top-flight legal representation, }
+#create-a-node-here really 17.20 21 {because his attorneys\nare likely to quit, }
+#create-a-node-here really 17.72 22 {according to individuals familiar with the case.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 7.44 9 {that }
+create-a-node-here really 8.32 10 {if the founder and former chairman\nof Crazy Eddie Inc. is indicted,}
+create-a-node-here really 9.6 11 { the government may move to seize the\nmoney }
+create-a-node-here really 10.0 12 {that Mr. Antar is using to pay legal fees.\n}
+create-a-node-here really 11.36 13 {   The warning by the U.S. attorney's office follows two decisions\nby the U.S. Supreme Court last June.}
+nextSentence really
+create-a-node-here really 12.40 14 {\n   In those cases, the high court ruled }
+create-a-node-here really 13.16 15 {that federal law gives prosecutors\nbroad authority }
+create-a-node-here really 13.46 16 {to seize assets of people }
+create-a-node-here really 14.8 17 {accused of racketeering and drug-related\ncrimes, }
+create-a-node-here really 14.27 18 {including fees }
+create-a-node-here really 14.68 19 {paid to lawyers before an indictment.}
+nextSentence really
+create-a-node-here really 15.61 20 {\n   If the government succeeds in seizing Mr. Antar's assets, }
+create-a-node-here really 16.48 21 {he could\nbe left without top-flight legal representation,}
+create-a-node-here really 17.20 22 { because his attorneys\nare likely to quit, }
+create-a-node-here really 17.72 23 {according to individuals familiar with the case.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+#autolink_nodes 1 5001 satelite definition  5002
+#UNDID
+autolink_nodes 1 5001 satelite-embedded elaboration-general-specific-e  5002
+autolink_nodes 5 6 satelite circumstance  5003
+autolink_nodes 5003 4 satelite attribution  5004
+autolink_nodes 9 8 satelite attribution  5005
+autolink_nodes 11 10 satelite condition  5006
+#autolink_nodes 5006 5005 multinuclear Same-Unit  5007
+#UNDID
+autolink_nodes 5006 5005 multinuclear Same-Unit  5007
+#autolink_nodes 7 5007 satelite-embedded elaboration-additional-e  5008
+#UNDID
+autolink_nodes 7 5007 satelite-embedded circumstance-e  5008
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e below 5009
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 5010 14 satelite attribution  5012
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 5011 5013 satelite elaboration-additional  5014
+autolink_nodes 21 20 satelite condition  5015
+autolink_nodes 21 22 satelite reason below 5016
+autolink_nodes 5015 23 satelite attribution  5017
+autolink_nodes 13 5012 satelite elaboration-general-specific  5018
+collapsed_nodes {5012}
+create-a-node-here really 18.50 24 {\n   A seizure also would make the case the largest }
+create-a-node-here really 19.9 25 {-- and one of the\nfirst -- }
+create-a-node-here really 20.0 26 {in which lawyers ' fees have been confiscated in a prosecution\n}
+create-a-node-here really 20.23 27 {unrelated to drugs.}
+create-a-node-here really 21.15 28 {\n   "The people }
+create-a-node-here really 21.47 29 {who suffer in the short run }
+create-a-node-here really 21.66 30 {are defendants,}
+create-a-node-here really 22.7 31 { but the\npeople }
+create-a-node-here really 22.38 32 {who suffer in the long run }
+create-a-node-here really 22.65 33 {are all of the people, }
+create-a-node-here really 23.32 34 {because there\nwon't be a vigorous private bar }
+create-a-node-here really 23.67 35 {to defend the Bill of Rights," }
+create-a-node-here really 24.45 36 {says\nGerald Lefcourt, a criminal defense attorney }
+create-a-node-here really 24.58 37 {who says }
+create-a-node-here really 25.18 38 {he has turned down\na number of cases }
+create-a-node-here really 25.53 39 {to avoid possible fee seizures.}
+nextSentence really
+create-a-node-here really 26.70 40 {\n   Mr. Antar is being investigated by a federal grand jury in Newark, }
+create-a-node-here really 26.106 41 {where prosecutors have told him }
+create-a-node-here really 27.45 42 {that they may soon seek an indictment\non racketeering and securities fraud charges.}
+nextSentence really
+create-a-node-here really 29.42 43 {\n  Under the Racketeer Influenced and Corrupt Organizations law,\nor RICO, the government has the authority }
+create-a-node-here really 30.32 44 {to seek to freeze or seize a\ndefendant's assets before trial.}
+nextSentence really
+autolink_nodes 24 25 satelite-embedded elaboration-additional-e  5019
+autolink_nodes 5019 26 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5021
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 30 5022 multinuclear Same-Unit  5023
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 33 5024 multinuclear Same-Unit  5025
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 5025 5023 multinuclear Contrast above 5027
+autolink_nodes 5025 5026 satelite result  5028
+autolink_nodes 5027 36 satelite attribution  5029
+autolink_nodes 38 39 satelite purpose  5030
+autolink_nodes 5030 37 satelite attribution  5031
+disconnect_node 37 disconnect
+autolink_nodes 36 37 satelite-embedded elaboration-additional-e  5032
+autolink_nodes 37 5030 nucleus attribution  5033
+disconnect_node 37 disconnect
+disconnect_node 5030 disconnect
+#disconnect_node 39 disconnect
+#UNDID
+autolink_nodes 36 37 satelite-embedded elaboration-additional-e  5034
+autolink_nodes 37 5030 nucleus attribution  5035
+autolink_nodes 42 41 satelite attribution  5036
+autolink_nodes 41 40 nucleus circumstance  5037
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5038
+create-a-node-here really 31.59 45 {\n  According to individuals familiar with Mr. Antar's case, }
+create-a-node-here really 32.31 46 {prosecutors\nissued their warning this week }
+create-a-node-here really 33.0 47 {after one of Mr. Antar's attorneys asked\n}
+create-a-node-here really 33.51 48 {whether legal fees might be subject to seizure.}
+create-a-node-here really 34.52 49 {\n  In a letter, prosecutors told Mr. Antar's lawyers }
+create-a-node-here really 34.61 50 {that }
+create-a-node-here really 35.36 51 {because\nof the recent Supreme Court rulings,}
+create-a-node-here really 35.59 52 { they could expect }
+create-a-node-here really 35.77 53 {that any fees }
+create-a-node-here really 36.14 54 {collected\nfrom Mr. Antar}
+create-a-node-here really 36.33 55 { may be seized.}
+nextSentence really
+create-a-node-here really 37.46 56 {\n  Prosecutors have told Mr. Antar's attorneys }
+create-a-node-here really 38.0 57 {that they believe\n}
+create-a-node-here really 38.56 58 {Mr. Antar's allegedly ill-gotten gains are so great }
+create-a-node-here really 38.75 59 {that any money }
+create-a-node-here really 39.9 60 {he\nhas used }
+create-a-node-here really 39.30 61 {to pay attorneys }
+create-a-node-here really 39.66 62 {derives from illegal activities.}
+nextSentence really
+create-a-node-here really 40.12 63 {\n  Therefore,}
+create-a-node-here really 40.27 64 { they said,}
+create-a-node-here really 41.0 65 { the money can be taken from the lawyers\n}
+create-a-node-here really 41.29 66 {even after they are paid.}
+nextSentence really
+create-a-node-here really 43.39 67 {\n  Justin Feldman and Jack Arseneault, attorneys for Mr. Antar,\nboth declined to comment on the matter.}
+nextSentence really
+autolink_nodes 46 45 satelite attribution  5039
+autolink_nodes 48 47 satelite attribution  5040
+#autolink_nodes 5039 5040 multinuclear Sequence  5041
+#UNDID
+autolink_nodes 5039 5040 multinuclear Inverted-Sequence  5041
+autolink_nodes 50 49 satelite attribution  5042
+autolink_nodes 53 54 satelite-embedded elaboration-object-attribute-e  5043
+autolink_nodes 55 5043 multinuclear Same-Unit  5044
+autolink_nodes 5044 52 satelite attribution  5045
+autolink_nodes 5045 51 satelite result  5046
+autolink_nodes 5046 5042 multinuclear Same-Unit  5047
+#autolink_nodes 60 61 satelite purpose  5048
+#UNDID
+autolink_nodes 60 61 satelite purpose  5048
+autolink_nodes 59 5048 satelite-embedded elaboration-object-attribute-e  5049
+autolink_nodes 62 5049 multinuclear Same-Unit  5050
+autolink_nodes 58 5050 satelite consequence-s  5051
+autolink_nodes 5051 57 satelite attribution  5052
+autolink_nodes 5052 56 satelite attribution  5053
+autolink_nodes 63 64 satelite-embedded attribution-e  5054
+autolink_nodes 65 5054 multinuclear Same-Unit  5055
+autolink_nodes 5055 66 satelite concession  5056
+autolink_nodes 5002 5004 multinuclear List  5057
+autolink_nodes 5007 5018 satelite temporal-before  5058
+disconnect_node 5018 disconnect
+autolink_nodes 5008 5018 satelite circumstance  5059
+autolink_nodes 5020 5017 multinuclear List  5060
+collapsed_nodes {5012 5018}
+collapsed_nodes {5012 5018 5007}
+collapsed_nodes {5012 5018 5007 5020}
+collapsed_nodes {5012 5018 5007 5020 5032}
+collapsed_nodes {5012 5018 5007 5032}
+collapsed_nodes {5012 5018 5007 5032}
+autolink_nodes 5060 5029 multinuclear List below 5060
+collapsed_nodes {5012 5018 5007 5032 5028}
+collapsed_nodes {5012 5018 5007 5032 5028 5020}
+autolink_nodes 5059 5060 satelite consequence-s  5061
+collapsed_nodes {5012 5018 5007 5032 5028 5020 5060}
+autolink_nodes 5036 5038 satelite background  5062
+disconnect_node 5004 disconnect
+autolink_nodes 5004 5002 multinuclear Cause-Result  5063
+collapsed_nodes {5012 5018 5032 5028 5020 5060}
+collapsed_nodes {5012 5018 5032 5028 5020 5060 5007}
+collapsed_nodes {5032 5028 5020 5060 5007}
+collapsed_nodes {5032 5028 5020 5060 5007 5018}
+collapsed_nodes {5007 5018}
+collapsed_nodes {5007 5018 5060}
+disconnect_node 5037 disconnect
+autolink_nodes 41 5062 nucleus attribution  5064
+disconnect_node 5038 disconnect
+autolink_nodes 5037 5038 satelite background  5065
+collapsed_nodes {5007 5018 5060 5038}
+collapsed_nodes {5007 5018 5060 5038 5050}
+autolink_nodes 5056 5053 multinuclear Cause-Result  5066
+autolink_nodes 5047 5066 satelite reason  5067
+collapsed_nodes {5007 5018 5060 5038 5050 5066}
+disconnect_node 5038 disconnect
+autolink_nodes 5041 5038 satelite background  5068
+disconnect_node 5038 disconnect
+autolink_nodes 5064 5038 satelite background  5069
+autolink_nodes 5041 5037 satelite circumstance  5070
+autolink_nodes 5067 5070 multinuclear Question-Answer  5071
+collapsed_nodes {5007 5018 5060 5038 5050 5066 5037}
+create-a-node-here really 44.48 68 {\n  In Newark, U.S. Attorney Samuel A. Alito said,}
+create-a-node-here really 45.0 69 { "I don't think\n}
+create-a-node-here really 45.29 70 {there's any legal reason }
+create-a-node-here really 47.0 71 {to limit forfeiture of attorney 's fees to drug\ncases."\n}
+create-a-node-here really 47.21 72 {  Mr. Alito said }
+create-a-node-here really 48.0 73 {his office "just responded to an attorney's question\n}
+create-a-node-here really 48.52 74 {about whether we would go after attorney's fees,}
+create-a-node-here really 49.23 75 { and that is different\nfrom actually doing it,}
+create-a-node-here really 49.60 76 { although we reserve that right."}
+nextSentence really
+create-a-node-here really 50.51 77 {\n  Mr. Antar was charged last month in a civil suit }
+create-a-node-here really 51.58 78 {filed in federal\ncourt in Newark by the Securities and Exchange Commission.}
+nextSentence really
+create-a-node-here really 53.17 79 {\n  In that suit, the SEC accused Mr. Antar of engaging in a "massive\nfinancial fraud" }
+create-a-node-here really 54.31 80 {to overstate the earnings of Crazy Eddie, Edison,\nN.J., over a three-year period.}
+nextSentence really
+create-a-node-here really 56.24 81 {\n  Through his lawyers, Mr. Antar has denied allegations in the SEC\nsuit and in civil suits }
+create-a-node-here really 57.11 82 {previously filed by shareholders against Mr. Antar\nand others.}
+nextSentence really
+create-a-node-here really 58.22 83 {\n  The SEC has alleged }
+create-a-node-here really 59.49 84 {that Mr. Antar aimed to pump up the company\n's stock price through false financial statements}
+create-a-node-here really 60.6 85 { in order to sell his\nstake }
+create-a-node-here really 60.32 86 {and reap huge profits.}
+nextSentence really
+create-a-node-here really 61.12 87 {\n  Mr. Antar,}
+create-a-node-here really 61.30 88 { the SEC said,}
+create-a-node-here really 62.41 89 { made more than $60 million from the\nsale of his shares between 1985 and 1987.}
+nextSentence really
+create-a-node-here really 63.40 90 {\n  The Justice Department has emphasized }
+create-a-node-here really 64.30 91 {that the government's fee-forfeiture\npower is to be used sparingly.}
+nextSentence really
+create-a-node-here really 65.33 92 {\n  According to department policy,}
+create-a-node-here really 66.8 93 { prosecutors must make a strong\nshowing }
+create-a-node-here really 66.49 94 {that lawyers ' fees came from assets }
+create-a-node-here really 67.0 95 {tainted by illegal profits\n}
+create-a-node-here really 67.44 96 {before any attempts at seizure are made.}
+nextSentence really
+create-a-node-here really 68.40 97 {\n  Still, criminal defense lawyers worry }
+create-a-node-here really 69.67 98 {that defendants are being\ndeprived of their Sixth Amendment right to counsel and a fair trial}
+create-a-node-here really 70.40 99 { if\nthe government can seize lawyers ' fees.}
+nextSentence really
+create-a-node-here really 71.18 100 {\n  They also worry }
+create-a-node-here really 71.28 101 {that }
+create-a-node-here really 72.14 102 {if the government applies asset-forfeiture\nlaws broadly, }
+create-a-node-here really 73.6 103 {the best defense lawyers will be unwilling to take criminal\ncases }
+create-a-node-here really 73.49 104 {unless they are assured of being paid.}
+nextSentence really
+autolink_nodes 70 69 satelite attribution  5072
+autolink_nodes 70 71 satelite-embedded elaboration-object-attribute-e below 5073
+autolink_nodes 5072 68 satelite attribution  5074
+autolink_nodes 73 74 satelite-embedded elaboration-object-attribute-e  5075
+autolink_nodes 75 76 satelite concession  5076
+disconnect_node 76 disconnect
+autolink_nodes 75 5075 multinuclear Contrast  5077
+autolink_nodes 5077 76 satelite antithesis  5078
+autolink_nodes 5078 72 satelite attribution  5079
+autolink_nodes 77 78 satelite-embedded elaboration-object-attribute-e  5080
+autolink_nodes 79 80 satelite purpose  5081
+disconnect_node 80 disconnect
+autolink_nodes 79 80 satelite manner  5082
+autolink_nodes 81 82 satelite-embedded elaboration-object-attribute-e  5083
+#autolink_nodes 85 86 multinuclear Sequence  5084
+#UNDID
+autolink_nodes 85 86 multinuclear List  5084
+autolink_nodes 84 5084 satelite purpose  5085
+autolink_nodes 5085 83 satelite attribution  5086
+autolink_nodes 87 88 satelite-embedded attribution-e  5087
+autolink_nodes 89 5087 multinuclear Same-Unit  5088
+autolink_nodes 91 90 satelite attribution  5089
+autolink_nodes 94 95 satelite-embedded elaboration-object-attribute-e  5090
+autolink_nodes 93 5090 satelite-embedded elaboration-object-attribute-e  5091
+#autolink_nodes 5091 96 satelite temporal-before  5092
+#UNDID
+autolink_nodes 96 5091 satelite condition  5092
+#autolink_nodes 5092 92 multinuclear Same-Unit  5093
+#UNDID
+autolink_nodes 5092 92 satelite attribution  5093
+autolink_nodes 98 99 satelite condition  5094
+autolink_nodes 5094 97 satelite attribution  5095
+autolink_nodes 103 104 satelite condition  5096
+autolink_nodes 5096 102 satelite condition  5097
+autolink_nodes 5097 101 multinuclear Same-Unit  5098
+autolink_nodes 5098 100 satelite attribution  5099
+autolink_nodes 5074 5079 satelite elaboration-additional  5100
+autolink_nodes 5100 67 multinuclear List  5101
+collapsed_nodes {5007 5018 5060 5038 5050 5066 5037 5079}
+autolink_nodes 5086 5088 satelite elaboration-general-specific  5102
+collapsed_nodes {5007 5018 5060 5038 5050 5066 5037 5079 5088}
+autolink_nodes 5083 5082 multinuclear Sequence  5103
+autolink_nodes 5103 5102 satelite elaboration-additional  5104
+autolink_nodes 5080 5104 satelite elaboration-general-specific  5105
+collapsed_nodes {5007 5018 5060 5038 5050 5066 5037 5079 5088 5104}
+autolink_nodes 5089 5093 satelite evidence  5106
+autolink_nodes 5095 5106 multinuclear Contrast  5107
+autolink_nodes 5095 5099 satelite elaboration-additional  5108
+disconnect_node 5067 disconnect
+autolink_nodes 5067 5070 multinuclear Sequence  5109
+collapsed_nodes {5007 5018 5060 5038 5050 5066 5037 5079 5088 5104 5067}
+#autolink_nodes 5067 5101 satelite temporal-after  5110
+#UNDID
+collapsed_nodes {5007 5018 5060 5038 5037 5079 5088 5104}
+collapsed_nodes {5007 5018 5060 5038 5037 5079 5088 5104 5066}
+autolink_nodes 5067 5101 satelite temporal-after  5110
+collapsed_nodes {5007 5018 5060 5038 5037 5079 5088 5104 5066 5101}
+collapsed_nodes {5007 5018 5060 5038 5037 5079 5088 5104 5066 5101 5110}
+autolink_nodes 5061 5109 satelite elaboration-additional  5111
+collapsed_nodes {5007 5018 5060 5038 5037 5079 5088 5104 5066 5101 5110 5109}
+autolink_nodes 5111 5105 satelite circumstance  5112
+collapsed_nodes {5007 5018 5060 5038 5037 5079 5088 5104 5066 5101 5110 5109 5105}
+#autolink_nodes 5063 5112 satelite example  5113
+#UNDID
+autolink_nodes 5063 5112 satelite example  5113
+collapsed_nodes {5007 5018 5060 5038 5037 5079 5088 5104 5066 5101 5110 5109 5105 5112}
+collapsed_nodes {5007 5018 5060 5038 5037 5079 5088 5104 5066 5101 5110 5109 5105 5112 5093}
+collapsed_nodes {5007 5018 5060 5038 5037 5079 5088 5104 5066 5101 5110 5109 5105 5112 5093 5099}
+autolink_nodes 5113 5107 satelite elaboration-additional  5114
+collapsed_nodes {5007 5018 5060 5038 5037 5079 5088 5104 5066 5101 5110 5109 5105 5112 5093 5099 5107}
+collapsed_nodes {}
+collapsed_nodes {}

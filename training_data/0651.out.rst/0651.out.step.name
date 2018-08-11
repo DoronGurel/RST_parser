@@ -1,0 +1,102 @@
+nextSentence really
+create-a-node-here really 2.133 1 {\nNelson Holdings International Ltd. shareholders approved a 1-for-10 consolidation of the company's common stock at a special meeting.}
+nextSentence really
+create-a-node-here really 4.119 2 { \n\nAt the same time, shareholders approved the adoption of a rights plan and a super-majority voting approval requirement.}
+nextSentence really
+#create-a-node-here really 5.155 3 {\nThey also approved the relocation of the company's registered office to Toronto from Vancouver and a name change to NHI Nelson Holdings International Ltd. }
+#showText really
+#create-a-node-here really 7.55 4 {\n\nFollowing the consolidation, the entertainment company,}
+#create-a-node-here really 7.125 5 { which has film and television operations in Beverly Hills, Calif.,}
+#create-a-node-here really 8.0 6 { will have about 4.1 million shares outstanding.\n}
+#create-a-node-here really 9.0 7 {The number of authorized common shares will remain at 100 million.\n}
+#create-a-node-here really 9.81 8 {Under the rights plan, holders will have one right for each common share held,}
+#create-a-node-here really 9.169 9 { with each right entitling the purchase of one common share for 100 Canadian dollars.}
+#create-a-node-here really 10.35 10 {\nThe rights plan would be triggered }
+#create-a-node-here really 10.114 11 {if a person or group acquires 20% or more of the common shares outstanding }
+#create-a-node-here really 10.163 12 {without making an offer to all shareholders. }
+#create-a-node-here really 12.160 13 {\n\nUnder the super-majority amendment, certain mergers and other transactions would require approval of holders of 80% of the company's common shares outstanding. }
+#autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5001
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 5.155 3 {\nThey also approved the relocation of the company's registered office to Toronto from Vancouver and a name change to NHI Nelson Holdings International Ltd. }
+create-a-node-here really 7.28 4 {\n\nFollowing the consolidation,}
+create-a-node-here really 7.58 5 { the entertainment company,}
+create-a-node-here really 7.129 6 { which has film and television operations in Beverly Hills, Calif., }
+create-a-node-here really 7.179 7 {will have about 4.1 million shares outstanding.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-additional-e  5001
+autolink_nodes 7 5001 multinuclear Same-Unit  5002
+autolink_nodes 5002 4 satelite temporal-after  5003
+create-a-node-here really 8.66 8 {\nThe number of authorized common shares will remain at 100 million.}
+nextSentence really
+create-a-node-here really 9.79 9 {\nUnder the rights plan, holders will have one right for each common share held, }
+create-a-node-here really 9.166 10 {with each right entitling the purchase of one common share for 100 Canadian dollars.}
+nextSentence really
+create-a-node-here really 10.35 11 {\nThe rights plan would be triggered }
+create-a-node-here really 10.114 12 {if a person or group acquires 20% or more of the common shares outstanding }
+create-a-node-here really 10.162 13 {without making an offer to all shareholders.}
+nextSentence really
+create-a-node-here really 12.159 14 { \n\nUnder the super-majority amendment, certain mergers and other transactions would require approval of holders of 80% of the company's common shares outstanding.}
+nextSentence really
+autolink_nodes 9 10 satelite elaboration-additional  5004
+autolink_nodes 12 13 satelite-embedded means-e  5005
+autolink_nodes 11 5005 satelite condition  5006
+autolink_nodes 2 1 multinuclear List  5007
+#autolink_nodes 3 5007 multinuclear List  5008
+#UNDID
+autolink_nodes 5007 3 multinuclear List below 5007
+autolink_nodes 5004 5006 satelite circumstance  5008
+collapsed_nodes {5006}
+autolink_nodes 8 5003 multinuclear Comparison  5009
+autolink_nodes 5009 5008 multinuclear Comparison below 5009
+autolink_nodes 5007 5009 satelite elaboration-additional  5010
+collapsed_nodes {5006 5009}
+autolink_nodes 5010 14 satelite circumstance  5011
+collapsed_nodes {}
+disconnect_node 5009 disconnect
+disconnect_node 8 disconnect
+#disconnect_node 5008 disconnect
+#UNDID
+disconnect_node 5003 disconnect
+disconnect_node 5006 disconnect
+disconnect_node 14 disconnect
+#autolink_nodes 5004 5006 satelite circumstance  5012
+#UNDID
+autolink_nodes 5006 5004 satelite circumstance  5012
+disconnect_node 3 disconnect
+autolink_nodes 5003 8 satelite elaboration-set-member  5013
+autolink_nodes 14 5012 multinuclear List  5014
+autolink_nodes 5013 3 multinuclear List  5015
+autolink_nodes 5007 5015 satelite result  5016
+collapsed_nodes {5015}
+autolink_nodes 5016 5014 satelite elaboration-general-specific  5017
+collapsed_nodes {}
+disconnect_node 5015 disconnect
+disconnect_node 3 disconnect
+disconnect_node 2 disconnect
+autolink_nodes 3 2 multinuclear List  5018
+#autolink_nodes 1 5018 satelite elaboration-additional below 5019
+#UNDID
+autolink_nodes 1 5018 satelite temporal-same-time below 5019
+disconnect_node 8 disconnect
+disconnect_node 5014 disconnect
+autolink_nodes 8 5003 multinuclear List  5020
+autolink_nodes 5019 5020 satelite consequence-s  5021
+disconnect_node 5004 disconnect
+autolink_nodes 5006 5004 satelite background  5022
+collapsed_nodes {5004}
+collapsed_nodes {5004 5020}
+autolink_nodes 5021 5014 satelite elaboration-additional  5023
+collapsed_nodes {5004 5020 5023}
+collapsed_nodes {}

@@ -1,0 +1,144 @@
+nextSentence really
+create-a-node-here really 2.53 1 {\nMilton Petrie, chairman of Petrie Stores Corp., said }
+nextSentence really
+create-a-node-here really 2.130 2 {he has agreed to sell his 15.2% stake in Deb Shops Corp. to Petrie Stores.}
+nextSentence really
+create-a-node-here really 4.64 3 { \n\nIn a Securities and Exchange Commission filing, Mr. Petrie said }
+create-a-node-here really 4.156 4 {that on Oct. 26 Petrie Stores agreed to purchase Mr. Petrie's 2,331,100 Deb Shops shares.}
+nextSentence really
+create-a-node-here really 5.41 5 {\nThe transaction will take place tomorrow.}
+nextSentence really
+#create-a-node-here really 7.109 6 { \n\nThe filing said Petrie Stores of Secaucus, N.J., is purchasing Mr. Petrie's Deb Shops stake as an investment.}
+#nextSentence really
+#autolink_nodes 1 2 nucleus attribution  5001
+#autolink_nodes 3 4 nucleus attribution  5002
+#autolink_nodes 5001 5002 satelite elaboration-additional  5003
+#create-a-node-here really 8.93 7 {\nAlthough Petrie Stores has considered seeking to acquire the remaining equity of Deb Stores, }
+#create-a-node-here really 8.154 8 {it has no current intention to pursue such a possibility, }
+#create-a-node-here really 8.173 9 {the filing said.}
+#nextSentence really
+#create-a-node-here really 10.34 10 { \n\nPhiladelphia-based Deb Shops said }
+#create-a-node-here really 10.114 11 {it saw little significance in Mr. Petrie selling his stock to Petrie Stores.}
+#nextSentence really
+#create-a-node-here really 10.150 12 { "We didn't look at it and say, }
+#create-a-node-here really 10.199 13 {`Oh my God, something is going to happen, '" }
+#create-a-node-here really 10.258 14 {said Stanley Uhr, vice president and corporate counsel.}
+#nextSentence really
+#create-a-node-here really 12.13 15 { \n\nMr. Uhr said }
+#create-a-node-here really 12.106 16 {that Mr. Petrie or his company have been accumulating Deb Shops stock for several years, }
+#create-a-node-here really 12.159 17 {each time issuing a similar regulatory statement.}
+#nextSentence really
+#create-a-node-here really 13.8 18 {\nHe said }
+#create-a-node-here really 13.80 19 {no discussions currently are taking place between the two companies.}
+#nextSentence really
+#autolink_nodes 5 6 multinuclear List  5004
+#autolink_nodes 5002 5004 satelite elaboration-additional  5005
+#autolink_nodes 7 8 nucleus concession  5006
+#autolink_nodes 5006 9 satelite attribution  5007
+#autolink_nodes 10 11 nucleus attribution  5008
+#autolink_nodes 12 13 multinuclear Temporal-Same-Time  5009
+#autolink_nodes 5009 14 satelite attribution  5010
+#autolink_nodes 5008 5010 satelite restatement  5011
+#UNDID
+#autolink_nodes 5009 5008 nucleus restatement  5011
+#UNDID
+#autolink_nodes 5008 5010 satelite restatement  5011
+#autolink_nodes 15 16 nucleus attribution  5012
+#autolink_nodes 16 17 satelite consequence-s below 5013
+#autolink_nodes 18 19 nucleus attribution  5014
+#autolink_nodes 5003 5007 satelite elaboration-additional  5015
+#collapsed_nodes {5003}
+#autolink_nodes 5015 5011 satelite elaboration-additional  5016
+#autolink_nodes 5011 5012 satelite elaboration-additional  5017
+#collapsed_nodes {5003 5015}
+#autolink_nodes 5016 5014 multinuclear Topic-Drift  5018
+#collapsed_nodes {}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 7.16 6 { \n\nThe filing said }
+create-a-node-here really 8.0 7 {Petrie Stores of Secaucus, N.J., is purchasing Mr. Petrie's Deb Shops stake as an investment.\n}
+create-a-node-here really 8.96 8 {Although Petrie Stores has considered seeking to acquire the remaining equity of Deb Stores, }
+create-a-node-here really 8.127 9 {it has no current intention }
+create-a-node-here really 8.160 10 {to pursue such a possibility, }
+create-a-node-here really 8.180 11 {the filing said.}
+nextSentence really
+create-a-node-here really 10.34 12 { \n\nPhiladelphia-based Deb Shops said }
+create-a-node-here really 10.114 13 {it saw little significance in Mr. Petrie selling his stock to Petrie Stores.}
+nextSentence really
+create-a-node-here really 10.141 14 { "We didn't look at it }
+create-a-node-here really 10.154 15 {and say, }
+create-a-node-here really 10.203 16 {`Oh my God, something is going to happen, '" }
+create-a-node-here really 10.262 17 {said Stanley Uhr, vice president and corporate counsel.}
+nextSentence really
+create-a-node-here really 12.13 18 { \n\nMr. Uhr said }
+create-a-node-here really 12.106 19 {that Mr. Petrie or his company have been accumulating Deb Shops stock for several years, }
+create-a-node-here really 12.159 20 {each time issuing a similar regulatory statement.}
+nextSentence really
+create-a-node-here really 13.8 21 {\nHe said }
+create-a-node-here really 13.80 22 {no discussions currently are taking place between the two companies.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 3 4 nucleus attribution  5002
+autolink_nodes 6 7 nucleus attribution  5003
+autolink_nodes 5001 5002 satelite elaboration-additional  5004
+autolink_nodes 5004 5 satelite elaboration-additional  5005
+autolink_nodes 8 9 nucleus concession  5006
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e below 5007
+autolink_nodes 5006 11 satelite attribution  5008
+autolink_nodes 12 13 nucleus attribution  5009
+#autolink_nodes 14 15 satelite attribution  5010
+#autolink_nodes 16 17 satelite attribution  5011
+#UNDID
+#UNDID
+autolink_nodes 15 16 nucleus attribution  5010
+autolink_nodes 14 5010 multinuclear List  5011
+autolink_nodes 5011 17 satelite attribution  5012
+autolink_nodes 18 19 nucleus attribution  5013
+autolink_nodes 5005 5003 satelite elaboration-additional  5014
+autolink_nodes 5003 5008 satelite elaboration-additional  5015
+autolink_nodes 5009 5012 satelite explanation-argumentative  5016
+autolink_nodes 5015 5016 satelite elaboration-additional  5017
+autolink_nodes 19 20 satelite temporal-same-time below 5018
+autolink_nodes 21 22 nucleus attribution  5019
+autolink_nodes 5013 5019 multinuclear List  5020
+autolink_nodes 5016 5020 satelite elaboration-additional  5021
+collapsed_nodes {5014}
+collapsed_nodes {}
+collapsed_nodes {5014}
+collapsed_nodes {}

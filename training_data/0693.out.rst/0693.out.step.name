@@ -1,0 +1,345 @@
+nextSentence really
+create-a-node-here really 2.47 1 {\nAlthough bullish dollar sentiment has fizzled, }
+create-a-node-here really 2.77 2 {many currency analysts say }
+autolink_nodes 1 2 nucleus concession  5001
+create-a-node-here really 2.139 3 {a massive sell-off probably won't occur in the near future.}
+nextSentence really
+autolink_nodes 2 3 nucleus attribution  5002
+create-a-node-here really 4.96 4 { \n\nWhile Wall Street's tough times and lower U.S. interest rates continue to undermine the dollar, }
+create-a-node-here really 4.169 5 {weakness in the pound and the yen is expected to offset those factors.}
+nextSentence really
+autolink_nodes 4 5 nucleus antithesis  5003
+create-a-node-here really 4.258 6 { "By default," the dollar probably will be able to hold up pretty well in coming days,}
+create-a-node-here really 4.334 7 { says Francoise Soares-Kemp, a foreign-exchange adviser at Credit Suisse.}
+nextSentence really
+autolink_nodes 6 7 satelite attribution  5004
+create-a-node-here really 4.391 8 { "We're close to the bottom" of the near-term ranges, }
+create-a-node-here really 4.407 9 {she contends.}
+nextSentence really
+autolink_nodes 8 9 satelite attribution  5005
+autolink_nodes 5004 5005 satelite elaboration-additional  5006
+autolink_nodes 5001 5003 satelite explanation-argumentative  5007
+autolink_nodes 5007 5006 satelite evaluation-s  5008
+nextSentence really
+nextSentence really
+create-a-node-here really 6.143 10 { \n\nIn late Friday afternoon New York trading, the dollar was at 1.8300 marks and 141.65 yen, off from late Thursday's 1.8400 marks and 142.10 yen.}
+nextSentence really
+create-a-node-here really 7.47 11 {\nThe pound strengthened to $1.5795 from $1.5765.}
+nextSentence really
+autolink_nodes 10 11 multinuclear Contrast  5009
+nextSentence really
+nextSentence really
+create-a-node-here really 9.114 12 { \n\nIn Tokyo Monday, the U.S. currency opened for trading at 141.70 yen, down from Friday's Tokyo close of 142.75 yen.}
+nextSentence really
+autolink_nodes 5009 12 multinuclear Comparison above 5010
+autolink_nodes 5008 5010 satelite elaboration-additional  5011
+create-a-node-here really 11.40 13 { \n\nThe dollar began Friday on a firm note, }
+create-a-node-here really 11.126 14 {gaining against all major currencies in Tokyo dealings and early European trading }
+autolink_nodes 13 14 satelite-embedded elaboration-additional-e  5012
+create-a-node-here really 11.146 15 {despite reports }
+nextSentence really
+create-a-node-here really 11.218 16 {that the Bank of Japan was seen unloading dollars around 142.70 yen.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5013
+autolink_nodes 14 5013 satelite concession  5014
+disconnect_node 5010 disconnect
+create-a-node-here really 12.14 17 {\nThe rise came }
+create-a-node-here really 12.147 18 {as traders continued to dump the pound after the sudden resignation Thursday of British Chancellor of the Exchequer Nigel Lawson.}
+nextSentence really
+autolink_nodes 17 18 satelite circumstance  5015
+autolink_nodes 5012 5015 satelite explanation-argumentative  5016
+create-a-node-here really 14.4 19 { \n\nBut }
+create-a-node-here really 14.122 20 {once the pound steadied with help from purchases by the Bank of England and the Federal Reserve Bank of New York, }
+create-a-node-here really 14.155 21 {the dollar was dragged down, }
+autolink_nodes 20 21 nucleus-embedded circumstance-e  5017
+autolink_nodes 19 5017 multinuclear Same-Unit  5018
+create-a-node-here really 14.172 22 {traders say, }
+autolink_nodes 5018 22 satelite-embedded attribution-e  5019
+create-a-node-here really 14.202 23 {by the stock-market slump }
+nextSentence really
+create-a-node-here really 14.277 24 {that left the Dow Jones Industrial Average with a loss of 17.01 points.}
+nextSentence really
+autolink_nodes 23 24 satelite-embedded elaboration-object-attribute-e  5020
+autolink_nodes 5019 5020 multinuclear Same-Unit  5021
+autolink_nodes 5016 5021 nucleus antithesis  5022
+disconnect_node 5016 disconnect
+autolink_nodes 5016 5021 multinuclear Sequence  5023
+create-a-node-here really 16.47 25 { \n\nWith the stock market wobbly and dollar buyers }
+create-a-node-here really 16.144 26 {discouraged by signs of U.S. economic weakness and the recent decline in U.S. interest rates }
+create-a-node-here really 16.222 27 {that has diminished the attractiveness of dollar-denominated investments, }
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 25 5024 satelite-embedded elaboration-object-attribute-e  5025
+create-a-node-here really 16.238 28 {traders say }
+autolink_nodes 5025 28 multinuclear Same-Unit  5026
+create-a-node-here really 16.287 29 {the dollar is still in a precarious position.}
+nextSentence really
+autolink_nodes 5026 29 nucleus attribution  5027
+autolink_nodes 5023 5027 satelite interpretation-s  5028
+create-a-node-here really 16.322 30 { "They'll be looking at levels }
+create-a-node-here really 16.347 31 {to sell the dollar," }
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5029
+create-a-node-here really 16.436 32 {says James Scalfaro, a foreign-exchange marketing representative at Bank of Montreal.}
+nextSentence really
+autolink_nodes 5029 32 satelite attribution  5030
+autolink_nodes 5027 5030 satelite elaboration-additional  5031
+create-a-node-here really 18.24 33 { \n\nWhile some analysts say }
+create-a-node-here really 18.95 34 {the dollar eventually could test support at 1.75 marks and 135 yen,}
+autolink_nodes 33 34 nucleus attribution  5032
+create-a-node-here really 18.211 35 { Mr. Scalfaro and others don't see the currency decisively sliding under support at 1.80 marks and 140 yen soon.}
+nextSentence really
+autolink_nodes 5032 35 nucleus antithesis  5033
+autolink_nodes 5031 5033 multinuclear Contrast  5034
+create-a-node-here really 20.137 36 { \n\nPredictions for limited dollar losses are based largely on the pound's weak state after Mr. Lawson's resignation and the yen's inability }
+create-a-node-here really 20.169 37 {to strengthen substantially }
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5035
+create-a-node-here really 20.204 38 {when there are dollar retreats.}
+nextSentence really
+autolink_nodes 37 38 satelite contingency  5036
+autolink_nodes 5033 5035 satelite explanation-argumentative  5037
+create-a-node-here really 21.66 39 {\nWith the pound and the yen lagging behind other major currencies, }
+create-a-node-here really 21.102 40 {"you don't have a confirmation" }
+autolink_nodes 39 40 nucleus circumstance  5038
+create-a-node-here really 21.151 41 {that a sharp dollar downturn is in the works,}
+autolink_nodes 40 41 satelite-embedded elaboration-object-attribute-e below 5039
+create-a-node-here really 21.224 42 { says Mike Malpede, senior currency analyst at Refco Inc. in Chicago.}
+nextSentence really
+autolink_nodes 5038 42 satelite attribution  5040
+#autolink_nodes 5037 5040 multinuclear List  5041
+#UNDID
+disconnect_node 5037 disconnect
+disconnect_node 5035 disconnect
+disconnect_node 5030 disconnect
+autolink_nodes 5030 5033 satelite elaboration-additional  5041
+autolink_nodes 5027 5041 multinuclear List  5042
+autolink_nodes 5035 5040 satelite interpretation-s  5043
+disconnect_node 38 modify
+autolink_nodes 5035 38 satelite circumstance below 5044
+disconnect_node 5040 modify
+autolink_nodes 5044 5040 satelite elaboration-additional  5045
+autolink_nodes 5042 5045 multinuclear Contrast above 5046
+disconnect_node 12 modify
+autolink_nodes 5009 12 multinuclear Sequence above 5047
+disconnect_node 5046 disconnect
+disconnect_node 5021 modify
+autolink_nodes 5016 5021 multinuclear Contrast  5048
+autolink_nodes 5047 5048 satelite background  5049
+disconnect_node 5006 disconnect
+autolink_nodes 5003 5006 satelite elaboration-additional  5050
+disconnect_node 5006 disconnect
+autolink_nodes 5007 5006 satelite interpretation-s  5051
+autolink_nodes 5049 5046 satelite interpretation-s  5052
+disconnect_node 5045 disconnect
+#autolink_nodes 5051 5052 satelite elaboration-additional  5053
+#UNDID
+autolink_nodes 5051 5052 satelite elaboration-additional  5053
+autolink_nodes 5053 5045 satelite interpretation-s  5054
+create-a-node-here really 23.26 43 { \n\nAs far as the pound goes, }
+create-a-node-here really 23.47 44 {some traders say }
+autolink_nodes 43 44 nucleus circumstance  5055
+create-a-node-here really 23.142 45 {a slide toward support at $1.5500 may be a favorable development for the dollar this week. }
+autolink_nodes 44 45 nucleus attribution  5056
+create-a-node-here really 25.44 46 {\n\nWhile the pound has attempted to stabilize, }
+create-a-node-here really 25.70 47 {currency analysts say }
+create-a-node-here really 25.102 48 {it is in critical condition.}
+nextSentence really
+autolink_nodes 47 48 nucleus attribution  5057
+#autolink_nodes 46 5057 nucleus circumstance  5058
+#UNDID
+autolink_nodes 46 5057 nucleus concession  5058
+autolink_nodes 5055 5058 satelite elaboration-additional  5059
+create-a-node-here really 26.43 49 {\nSterling plunged about four cents Thursday }
+autolink_nodes 5059 49 satelite evidence  5060
+create-a-node-here really 26.81 50 {and hit the week's low of $1.5765 }
+create-a-node-here really 26.133 51 {when Mr. Lawson resigned from his six-year post }
+create-a-node-here really 26.193 52 {because of a policy squabble with other cabinet members.}
+autolink_nodes 51 52 satelite consequence-n  5061
+autolink_nodes 50 5061 satelite temporal-same-time  5062
+autolink_nodes 49 5062 multinuclear Sequence  5063
+create-a-node-here really 28.32 53 { \n\nHe was succeeded by John Major, }
+create-a-node-here really 28.83 54 {who Friday expressed a desire for a firm pound }
+create-a-node-here really 28.144 55 {and supported the relatively high British interest rates }
+autolink_nodes 54 55 multinuclear List  5064
+create-a-node-here really 28.153 56 {that }
+autolink_nodes 55 56 satelite-embedded elaboration-object-attribute-e  5065
+create-a-node-here really 28.165 57 {he said }
+autolink_nodes 56 57 satelite-embedded attribution-e  5066
+create-a-node-here really 28.203 58 {"are working exactly as intended" }
+autolink_nodes 5066 58 multinuclear Same-Unit  5067
+create-a-node-here really 28.229 59 {in reducing inflation.}
+nextSentence really
+autolink_nodes 58 59 satelite purpose  5068
+autolink_nodes 53 5064 satelite-embedded elaboration-additional-e  5069
+create-a-node-here really 29.97 60 {\nBut the market remains uneasy about Mr. Major's policy strategy and the prospects for the pound, }
+create-a-node-here really 29.127 61 {currency analysts contend.}
+nextSentence really
+autolink_nodes 60 61 satelite attribution  5070
+disconnect_node 52 modify
+autolink_nodes 51 52 satelite reason  5071
+autolink_nodes 5071 5069 multinuclear Sequence  5072
+disconnect_node 5062 modify
+autolink_nodes 49 5062 multinuclear Temporal-Same-Time  5073
+disconnect_node 5072 modify
+autolink_nodes 50 5072 satelite circumstance  5074
+disconnect_node 5072 disconnect
+autolink_nodes 5073 5072 satelite circumstance  5075
+create-a-node-here really 31.72 62 { \n\nAlthough the Bank of England's tight monetary policy has fueled worries }
+create-a-node-here really 31.134 63 {that Britain's slowing economy is headed for a recession, }
+autolink_nodes 62 63 satelite-embedded elaboration-object-attribute-e  5076
+create-a-node-here really 31.190 64 {it is widely believed that Mr. Lawson's willingness }
+autolink_nodes 5076 64 nucleus concession  5077
+#create-a-node-here really 31.234 65 {to prop up the pound with interest-rate }
+#autolink_nodes 64 65 satelite-embedded elaboration-object-attribute-e below 5078
+#UNDID
+#UNDID
+create-a-node-here really 31.244 65 {to prop up the pound with interest-rate increases }
+autolink_nodes 64 65 satelite-embedded elaboration-object-attribute-e below 5078
+create-a-node-here really 31.290 66 {helped stem pound selling in recent weeks.}
+autolink_nodes 5078 66 multinuclear Same-Unit  5079
+disconnect_node 5065 modify
+autolink_nodes 54 5065 multinuclear Problem-Solution  5080
+autolink_nodes 5069 5070 satelite antithesis  5081
+disconnect_node 5070 modify
+#autolink_nodes 5069 5070 nucleus antithesis  5082
+#disconnect_node 5069 modify
+#UNDID
+#disconnect_node 5069 modify
+#UNDID
+#disconnect_node 5082 disconnect
+#disconnect_node 5069 modify
+#UNDID
+#disconnect_node 5069 disconnect
+#UNDID
+#disconnect_node 5069 disconnect
+#UNDID
+#UNDID
+#disconnect_node 5069 modify
+#UNDID
+#UNDID
+autolink_nodes 5069 5070 satelite interpretation-s  5082
+create-a-node-here really 32.23 67 {\nIf there are any signs }
+create-a-node-here really 32.92 68 {that Mr. Major will be less inclined to use interest-rate boosts }
+autolink_nodes 67 68 satelite-embedded elaboration-object-attribute-e  5083
+create-a-node-here really 32.137 69 {to rescue the pound from another plunge, }
+autolink_nodes 68 69 satelite purpose  5084
+create-a-node-here really 32.183 70 {that currency is expected to fall sharply.}
+nextSentence really
+autolink_nodes 5083 70 nucleus condition  5085
+autolink_nodes 5077 5085 satelite interpretation-s  5086
+create-a-node-here really 34.65 71 { \n\n"It's fair to say there are more risks for the pound under Major }
+create-a-node-here really 34.100 72 {than there were under Lawson," }
+#autolink_nodes 71 72 satelite comparison  5087
+#UNDID
+autolink_nodes 71 72 satelite comparison  5087
+create-a-node-here really 34.205 73 {says Malcolm Roberts, a director of international bond market research at Salomon Brothers in London.}
+autolink_nodes 5087 73 satelite attribution  5088
+create-a-node-here really 36.42 74 { \n\n"There's very little upside to sterling," }
+create-a-node-here really 36.64 75 {Mr. Roberts says, }
+autolink_nodes 74 75 satelite attribution  5089
+create-a-node-here really 36.80 76 {but he adds }
+create-a-node-here really 36.118 77 {that near-term losses may be small}
+autolink_nodes 76 77 nucleus attribution  5090
+create-a-node-here really 36.148 78 { because the selling wave }
+autolink_nodes 77 78 satelite consequence-n below 5091
+create-a-node-here really 36.190 79 {that followed Mr. Major's appointment }
+autolink_nodes 78 79 satelite-embedded elaboration-object-attribute-e  5092
+create-a-node-here really 36.224 80 {apparently has run its course.}
+nextSentence really
+autolink_nodes 5092 80 multinuclear Same-Unit  5093
+autolink_nodes 5089 5090 nucleus antithesis  5094
+create-a-node-here really 38.64 81 { \n\nBut some other analysts have a stormier forecast for the pound, }
+create-a-node-here really 38.169 82 {particularly because Britain's inflation is hovering at a relatively lofty annual rate of about 7.6% }
+create-a-node-here really 38.274 83 {and the nation is burdened with a struggling government and large current account and trade deficits.}
+nextSentence really
+autolink_nodes 82 83 multinuclear List  5095
+autolink_nodes 81 5095 satelite explanation-argumentative  5096
+disconnect_node 5095 modify
+autolink_nodes 81 5095 satelite reason  5097
+autolink_nodes 5094 5097 multinuclear Contrast  5098
+create-a-node-here really 40.42 84 { \n\nThe pound likely will fall in coming days }
+create-a-node-here really 40.103 85 {and may trade as low as 2.60 marks within the next year, }
+autolink_nodes 84 85 satelite elaboration-additional  5099
+create-a-node-here really 40.185 86 {says Nigel Rendell, an international economist at James Capel & Co. in London.}
+nextSentence really
+autolink_nodes 5099 86 satelite attribution  5100
+autolink_nodes 5097 5100 satelite example  5101
+create-a-node-here really 41.102 87 {\nThe pound was at 2.8896 marks late Friday, off sharply from 2.9511 in New York trading a week earlier.}
+nextSentence really
+autolink_nodes 5101 87 satelite evidence  5102
+create-a-node-here really 43.41 88 { \n\nIf the pound falls closer to 2.80 marks, }
+create-a-node-here really 43.135 89 {the Bank of England may raise Britain's base lending rate by one percentage point to 16%, }
+create-a-node-here really 43.156 90 {says Mr. Rendell.}
+nextSentence really
+autolink_nodes 88 89 nucleus condition  5103
+autolink_nodes 5103 90 satelite attribution  5104
+disconnect_node 87 disconnect
+autolink_nodes 87 5104 satelite interpretation-s  5105
+autolink_nodes 5100 5105 satelite elaboration-additional  5106
+create-a-node-here really 44.21 91 {\nBut such an increase,}
+create-a-node-here really 44.35 92 { he says, }
+autolink_nodes 91 92 satelite-embedded attribution-e  5107
+create-a-node-here really 44.94 93 {could be viewed by the market as "too little too late."}
+nextSentence really
+autolink_nodes 5107 93 multinuclear Same-Unit  5108
+autolink_nodes 5104 5108 satelite antithesis  5109
+create-a-node-here really 44.140 94 { The Bank of England indicated its desire }
+create-a-node-here really 44.190 95 {to leave its monetary policy unchanged Friday }
+autolink_nodes 94 95 satelite-embedded elaboration-object-attribute-e  5110
+create-a-node-here really 44.257 96 {by declining to raise the official 15% discount-borrowing rate }
+autolink_nodes 5110 96 satelite means  5111
+disconnect_node 96 modify
+autolink_nodes 5110 96 satelite manner  5112
+create-a-node-here really 44.294 97 {that it charges discount houses, }
+autolink_nodes 96 97 satelite-embedded elaboration-object-attribute-e  5113
+create-a-node-here really 44.311 98 {analysts say.}
+nextSentence really
+autolink_nodes 5112 98 satelite attribution  5114
+#autolink_nodes 5105 5114 multinuclear Problem-Solution  5115
+#UNDID
+autolink_nodes 5086 5088 satelite interpretation-s  5115
+disconnect_node 5085 modify
+autolink_nodes 5077 5085 satelite hypothetical below 5116
+autolink_nodes 5060 5115 satelite elaboration-additional  5117
+disconnect_node 5101 disconnect
+autolink_nodes 5088 5094 satelite elaboration-additional  5118
+autolink_nodes 5118 5101 multinuclear Contrast  5119
+#autolink_nodes 5117 5114 satelite problem-solution-s  5120
+#UNDID
+autolink_nodes 5117 5114 satelite problem-solution-s  5120
+autolink_nodes 5054 5120 multinuclear Topic-Drift  5121
+create-a-node-here really 46.100 99 { \n\nPound concerns aside, the lack of strong buying interest in the yen is another boon for the dollar, }
+create-a-node-here really 46.122 100 {many traders say. }
+autolink_nodes 99 100 satelite attribution  5122
+create-a-node-here really 48.58 101 {\n\nThe dollar has a "natural base of support" around 140 yen }
+create-a-node-here really 48.140 102 {because the Japanese currency hasn't been purchased heavily in recent weeks, }
+autolink_nodes 101 102 satelite consequence-n  5123
+create-a-node-here really 48.183 103 {says Ms. Soares-Kemp of Credit Suisse.}
+nextSentence really
+autolink_nodes 5123 103 satelite attribution  5124
+create-a-node-here really 49.19 104 {\nThe yen's softness,}
+create-a-node-here really 49.35 105 { she says, }
+autolink_nodes 104 105 satelite-embedded attribution-e  5125
+create-a-node-here really 49.91 106 {apparently stems from Japanese investors' interest }
+autolink_nodes 5125 106 multinuclear Same-Unit  5126
+create-a-node-here really 49.130 107 {in buying dollars against the yen }
+autolink_nodes 106 107 satelite-embedded elaboration-object-attribute-e  5127
+create-a-node-here really 49.164 108 {to purchase U.S. bond issues }
+autolink_nodes 107 108 satelite purpose  5128
+create-a-node-here really 49.246 109 {and persistent worries about this year's upheaval in the Japanese government.}
+nextSentence really
+autolink_nodes 5126 109 multinuclear Same-Unit below 5128
+autolink_nodes 5122 5124 satelite explanation-argumentative  5129
+autolink_nodes 5124 5126 satelite interpretation-s  5130
+autolink_nodes 5121 5129 multinuclear Topic-Drift below 5130
+nextSentence really
+create-a-node-here really 51.139 110 { \n\nOn New York's Commodity Exchange Friday, gold for current delivery jumped $5.80, to $378.30 an ounce, the highest settlement since July 12.}
+nextSentence really
+create-a-node-here really 52.50 111 {\nEstimated volume was a heavy seven million ounces.}
+nextSentence really
+autolink_nodes 110 111 satelite evaluation-s  5131
+nextSentence really
+create-a-node-here really 54.74 112 { \n\nIn early trading in Hong Kong Monday, gold was quoted at $378.87 an ounce.}
+nextSentence really
+autolink_nodes 5131 112 multinuclear Sequence  5132
+autolink_nodes 5121 5132 multinuclear Topic-Shift above 5133
+disconnect_node 5014 modify
+autolink_nodes 13 5014 satelite manner  5134

@@ -1,0 +1,49 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.52 1 {\nVarian Associates Inc., Palo Alto, Calif., reported }
+nextSentence really
+create-a-node-here really 2.210 2 {fiscal fourth-quarter profit plunged more than 95% to $1 million, or five cents a share, from $24.2 million, or $1.10 a share, in the year-earlier quarter.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.70 3 { \n\nThe diversified electronics company blamed the decline in the quarter }
+autolink_nodes 5001 3 satelite reason  5002
+create-a-node-here really 4.89 4 {ended Sept. 29, }
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 4.174 5 {on previously reported operating problems in its Electron Devices & Systems Group.}
+nextSentence really
+autolink_nodes 5003 5 multinuclear Same-Unit  5004
+nextSentence really
+nextSentence really
+create-a-node-here really 6.145 6 { \n\nFor the full fiscal year, Varian posted a 13% profit rise to $31.5 million, or $1.53 a share, up from $27.8 million, or $1.27 a share, last year.}
+nextSentence really
+autolink_nodes 5002 6 satelite background  5005
+create-a-node-here really 7.81 7 {\nSales for the year rose almost 15% to $1.34 billion from $1.17 billion last year.}
+nextSentence really
+autolink_nodes 6 7 satelite elaboration-additional  5006
+create-a-node-here really 9.134 8 { \n\nA profit last year in both the quarter and year included a net gain of $9.6 million, or 44 cents a share, from the sale of a division.}
+nextSentence really
+autolink_nodes 7 8 multinuclear List  5007
+nextSentence really
+create-a-node-here really 10.124 9 {\nAdditionally, the full-year profit last year reflected an after-tax restructuring charge of $22.8 million, or $1.04 a share.}
+nextSentence really
+autolink_nodes 5007 9 multinuclear List below 5007
+create-a-node-here really 12.18 10 { \n\nShares of Varian, }
+autolink_nodes 5005 10 satelite summary-s  5008
+create-a-node-here really 12.46 11 {which last month warned }
+autolink_nodes 10 11 satelite elaboration-object-attribute  5009
+create-a-node-here really 12.90 12 {there would be a fourth-quarter plunge, }
+autolink_nodes 11 12 nucleus attribution  5010
+nextSentence really
+nextSentence really
+create-a-node-here really 12.180 13 {closed at $22.75, down 62.5 cents in composite trading on the New York Stock Exchange.}
+nextSentence really
+autolink_nodes 5009 13 multinuclear Same-Unit  5011
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 15.0 14 { \n\nSales rose 18% in the fiscal fourth quarter to $364.1 million from $307.9 million on the strength in semiconductors and other products. \n}
+nextSentence really
+autolink_nodes 5011 14 satelite elaboration-additional  5012
+collapsed_nodes {5008}
+nextSentence really
+collapsed_nodes {}

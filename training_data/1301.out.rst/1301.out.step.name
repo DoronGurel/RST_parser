@@ -1,0 +1,43 @@
+nextSentence really
+create-a-node-here really 2.36 1 {\nMoody's Investors Service Inc. said }
+create-a-node-here really 2.93 2 {it lowered the debt ratings of certain long-term debt }
+create-a-node-here really 2.117 3 {held by this company.}
+nextSentence really
+create-a-node-here really 3.68 4 {\nThe debt-rating concern cited the bank's move into the Texas market,}
+create-a-node-here really 3.79 5 { noting }
+create-a-node-here really 3.192 6 {its profitability and capital adequacy measurements will be depressed relative to the bank's past performance.}
+nextSentence really
+create-a-node-here really 4.18 7 {\nMoody's also said }
+create-a-node-here really 4.79 8 {it raised its rating on the Deposit Insurance Bridge Bank,}
+create-a-node-here really 4.117 9 { now known as Bank One, Texas N.A.,}
+create-a-node-here really 4.212 10 { reflecting the support of other banking affiliates and substantial assistance for the FDIC.}
+nextSentence really
+create-a-node-here really 4.321 11 { Officials at the New York bank-holding company weren't available for comment on the debt-rating changes.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 5001 1 satelite attribution  5002
+#autolink_nodes 6 5 satelite-embedded attribution-e  5003
+#UNDID
+autolink_nodes 6 5 satelite attribution  5003
+autolink_nodes 4 5003 satelite-embedded consequence-s-e  5004
+#autolink_nodes 8 9 satelite-embedded elaboration-additional-e  5005
+#UNDID
+autolink_nodes 8 9 satelite-embedded elaboration-additional-e  5005
+autolink_nodes 5005 10 satelite evidence  5006
+autolink_nodes 5006 7 satelite attribution  5007
+autolink_nodes 5004 5007 satelite example  5008
+autolink_nodes 5008 5002 nucleus elaboration-general-specific  5009
+collapsed_nodes {5007}
+autolink_nodes 5009 11 satelite elaboration-additional  5010
+disconnect_node 5008 disconnect
+autolink_nodes 5002 5008 satelite result below 5011
+disconnect_node 5003 disconnect
+#autolink_nodes 4 5003 satelite consequence-s  5012
+#UNDID
+autolink_nodes 4 5003 satelite consequence-s  5012
+collapsed_nodes {}
+disconnect_node 11 disconnect
+disconnect_node 5007 disconnect
+autolink_nodes 5007 5011 multinuclear Contrast  5013
+autolink_nodes 5013 11 satelite elaboration-additional  5014
+collapsed_nodes {}

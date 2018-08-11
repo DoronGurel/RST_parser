@@ -1,0 +1,170 @@
+nextSentence really
+nextSentence really
+nextSentence really
+#create-a-node-here really 2.156 1 {\nHomeFed Corp. said third-quarter net income slid 14% to $23.9 million, or $1.10 per fully diluted share, from $27.9 million, or $1.21 a fully diluted share,}
+#create-a-node-here really 2.215 2 { because of increased bad assets and unexpected trouble }
+#create-a-node-here really 2.251 3 {in unloading foreclosed property.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.19 1 {\nHomeFed Corp. said }
+create-a-node-here really 2.159 2 {third-quarter net income slid 14% to $23.9 million, or $1.10 per fully diluted share, from $27.9 million, or $1.21 a fully diluted share,}
+create-a-node-here really 2.217 3 { because of increased bad assets and unexpected trouble}
+create-a-node-here really 2.254 4 { in unloading foreclosed property.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 2 5001 satelite explanation-argumentative  5002
+autolink_nodes 1 5002 nucleus attribution  5003
+create-a-node-here really 4.30 5 { \n\nThe decline surprised analysts}
+create-a-node-here really 4.61 6 { and jolted HomeFed's stock,}
+create-a-node-here really 4.94 7 { which lost 8.6% of its value,}
+nextSentence really
+nextSentence really
+create-a-node-here really 4.160 8 { closing at $38.50 on the New York Stock Exchange, down $3.625.}
+autolink_nodes 7 8 satelite-embedded elaboration-additional-e  5004
+autolink_nodes 6 5004 satelite-embedded elaboration-additional-e  5005
+autolink_nodes 5 5005 multinuclear List  5006
+autolink_nodes 5003 5006 satelite consequence-s  5007
+create-a-node-here really 6.63 9 { \n\nHomeFed had been one of the handful of large West Coast thrifts}
+create-a-node-here really 6.130 10 { that in recent quarters had counteracted interest-rate problems}
+create-a-node-here really 6.156 11 { dogging the industry }
+create-a-node-here really 6.195 12 {by keeping a lid on problem assets }
+create-a-node-here really 6.262 13 {and lending heavily into the furious California housing market.}
+nextSentence really
+autolink_nodes 12 13 multinuclear List  5008
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 5009 5008 satelite means  5010
+autolink_nodes 9 5010 satelite-embedded elaboration-object-attribute-e  5011
+autolink_nodes 5007 5011 satelite elaboration-additional  5012
+create-a-node-here really 7.109 14 {\nAnalysts had been projecting fully diluted earnings in the third quarter in the range of about $1.30 a share.}
+nextSentence really
+collapsed_nodes {5011}
+#autolink_nodes 5012 14 satelite antithesis  5013
+#UNDID
+#autolink_nodes 5012 14 satelite concession  5013
+#UNDID
+collapsed_nodes {}
+disconnect_node 5011 disconnect
+autolink_nodes 5011 14 nucleus consequence-n  5013
+create-a-node-here really 9.128 15 { \n\nHowever, HomeFed's loan originations and purchases plunged 26% in the quarter, to $1.4 billion from $1.9 billion a year earlier.}
+nextSentence really
+nextSentence really
+autolink_nodes 5013 15 nucleus concession  5014
+create-a-node-here really 10.74 16 {\nMeanwhile, non-performing assets rose to $593 million from $518.7 million.}
+nextSentence really
+nextSentence really
+create-a-node-here really 11.130 17 {\nSome $380 million of the troubled assets is repossessed real estate, a 55.6% surge from the $244.2 million of repossesed property }
+create-a-node-here really 11.158 18 {HomeFed held a year ago.}
+nextSentence really
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 16 5015 satelite elaboration-set-member  5016
+#autolink_nodes 5014 5016 satelite elaboration-set-member  5017
+#UNDID
+#autolink_nodes 5014 5016 satelite elaboration-additional  5017
+#nextSentence really
+#create-a-node-here really 12.36 19 {\nHomeFed has $17.9 billion of assets.}
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 12.36 19 {\nHomeFed has $17.9 billion of assets.}
+nextSentence really
+autolink_nodes 5016 19 satelite elaboration-additional  5017
+autolink_nodes 5014 5017 multinuclear List  5018
+disconnect_node 5013 disconnect
+autolink_nodes 5018 5013 satelite concession  5019
+disconnect_node 19 modify
+autolink_nodes 5016 19 satelite circumstance  5020
+create-a-node-here really 14.12 20 { \n\nHomeFed said}
+create-a-node-here really 14.118 21 { most of the troubled assets are apartment complexes, shopping malls and other commercial real estate.}
+nextSentence really
+autolink_nodes 20 21 nucleus attribution  5021
+create-a-node-here really 15.8 22 {\nIt said }
+create-a-node-here really 15.41 23 {about half are in California,}
+create-a-node-here really 15.89 24 { with the rest scattered across the country.}
+nextSentence really
+autolink_nodes 23 24 satelite elaboration-additional  5022
+autolink_nodes 22 5022 nucleus attribution  5023
+autolink_nodes 5021 5023 satelite elaboration-additional  5024
+create-a-node-here really 16.8 25 {\nIt said }
+create-a-node-here really 16.87 26 {sales of such properties were slower than anticipated in the third quarter,}
+create-a-node-here really 16.148 27 { but it expects sales to pick up in the rest of the year.}
+nextSentence really
+autolink_nodes 26 27 multinuclear Contrast  5025
+autolink_nodes 25 5025 nucleus attribution  5026
+autolink_nodes 5024 5026 satelite elaboration-additional  5027
+#autolink_nodes 5020 5027 satelite elaboration-additional  5028
+#UNDID
+disconnect_node 19 disconnect
+autolink_nodes 5016 19 satelite circumstance  5028
+autolink_nodes 5028 5027 satelite elaboration-additional  5029
+collapsed_nodes {5006}
+collapsed_nodes {5006 5013}
+autolink_nodes 5007 5019 satelite elaboration-additional  5030
+collapsed_nodes {5006}
+disconnect_node 5029 disconnect
+autolink_nodes 5019 5029 satelite elaboration-additional  5031
+collapsed_nodes {5006 5029}
+create-a-node-here really 18.13 28 { \n\nHomeFed said }
+create-a-node-here really 18.124 29 {the slide in loan originations was more a matter of design than a sign of cooling in the California market.}
+create-a-node-here really 19.110 30 {\nAny such downturn in California would be grim news for West Coast thrifts, particularly the less healthy ones,}
+create-a-node-here really 19.169 31 { which have performed poorly even with a torrid market.}
+nextSentence really
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5032
+autolink_nodes 28 29 nucleus attribution  5033
+create-a-node-here really 20.16 32 {\nBut HomeFed said}
+create-a-node-here really 20.74 33 { it purposely curbed loan originations in the quarter }
+create-a-node-here really 20.150 34 {because of uncertainty over the new capital requirements and regulations}
+create-a-node-here really 20.189 35 { that will emerge from negotiations}
+create-a-node-here really 20.257 36 { over implementing the government's massive thrift bailout bill.}
+nextSentence really
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e  5034
+autolink_nodes 34 5034 satelite-embedded elaboration-object-attribute-e  5035
+autolink_nodes 33 5035 satelite explanation-argumentative  5036
+autolink_nodes 32 5036 nucleus attribution  5037
+disconnect_node 5035 modify
+autolink_nodes 33 5035 satelite reason below 5038
+nextSentence really
+create-a-node-here really 21.8 37 {\nIt said }
+nextSentence really
+create-a-node-here really 21.133 38 {its real-estate operations earned a record $21.7 million, more than double year-earlier real estate profit of $9 million.}
+autolink_nodes 37 38 nucleus attribution  5039
+autolink_nodes 5032 5037 nucleus concession  5040
+autolink_nodes 5033 5040 satelite evidence  5041
+collapsed_nodes {5006 5029 5040}
+autolink_nodes 5041 5039 satelite consequence-s  5042
+create-a-node-here really 22.17 39 {\nAnd analysts said}
+create-a-node-here really 22.121 40 { they see no signs of an imminent swoon in California real estate, even with last week's earthquake.}
+nextSentence really
+autolink_nodes 39 40 nucleus attribution  5043
+#autolink_nodes 5042 5043 satelite elaboration-additional  5044
+#UNDID
+autolink_nodes 5039 5043 satelite elaboration-additional  5044
+autolink_nodes 5031 5042 satelite elaboration-additional  5045
+collapsed_nodes {5006 5040}
+collapsed_nodes {5006 5040 5029}
+disconnect_node 5042 modify
+autolink_nodes 5031 5042 satelite elaboration-additional  5046
+create-a-node-here really 24.16 41 { \n\nThe thrift said }
+create-a-node-here really 24.98 42 {earnings also were nicked in the quarter by a $4 million provision for losses }
+create-a-node-here really 24.147 43 {associated with its previously reported plan }
+create-a-node-here really 24.196 44 {to liquidate a real-estate franchise network.}
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5047
+autolink_nodes 42 5047 satelite-embedded elaboration-object-attribute-e  5048
+autolink_nodes 41 5048 nucleus attribution  5049
+nextSentence really
+nextSentence really
+create-a-node-here really 25.177 45 {\nFor the nine months, HomeFed earned $82.5 million, or $3.52 a fully diluted share, a 4.3% increase from year-earlier net income of $79.1 million, or $3.43 a fully diluted share.}
+nextSentence really
+collapsed_nodes {5006 5040 5029 5046}
+autolink_nodes 5030 5049 satelite elaboration-additional  5050
+collapsed_nodes {5006 5040 5029 5046 5049}
+autolink_nodes 5050 45 satelite elaboration-additional  5051
+collapsed_nodes {5040 5029 5046 5049}
+collapsed_nodes {5049}
+collapsed_nodes {}
+#disconnect_node 24 disconnect
+#autolink_nodes 23 24 multinuclear Same-Unit  5052
+#UNDID
+#UNDID

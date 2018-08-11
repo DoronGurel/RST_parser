@@ -1,0 +1,14 @@
+nextSentence really
+create-a-node-here really 2.180 1 {\nSun Microsystems Inc., a computer maker, announced the effectiveness of its registration statement for $125 million of 6 3/8% convertible subordinated debentures due Oct. 15, 1999.}
+nextSentence really
+create-a-node-here really 4.17 2 { \n\nThe company said }
+create-a-node-here really 4.111 3 {the debentures are being issued at an issue price of $849 for each $1,000 principal amount }
+create-a-node-here really 4.201 4 {and are convertible at any time prior to maturity at a conversion price of $25 a share.}
+nextSentence really
+#autolink_nodes 4 4 multinuclear List  5001
+#UNDID
+autolink_nodes 3 4 multinuclear List  5001
+autolink_nodes 2 5001 nucleus attribution  5002
+create-a-node-here really 6.58 5 { \n\nThe debentures are available through Goldman, Sachs & Co. }
+autolink_nodes 5002 5 multinuclear List  5003
+autolink_nodes 1 5003 satelite-embedded elaboration-additional-e  5004

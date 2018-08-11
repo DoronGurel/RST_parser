@@ -1,0 +1,150 @@
+nextSentence really
+#create-a-node-here really 2.27 1 {\nAmerican Pioneer Inc. said }
+#create-a-node-here really 2.167 2 {it agreed in principle to sell its American Pioneer Life Insurance Co. subsidiary to Harcourt Brace Jovanovich Inc. 's HBJ Insurance Cos.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.27 1 {\nAmerican Pioneer Inc. said }
+#create-a-node-here really 2.167 2 {it agreed in principle to sell its American Pioneer Life Insurance Co. subsidiary to Harcourt Brace Jovanovich Inc. 's HBJ Insurance Cos.}
+#nextSentence really
+#collapsed_nodes {}
+#collapsed_nodes {}
+#autolink_nodes 1 2 nucleus attribution-n  5001
+#UNDID
+#UNDID
+#UNDID
+nextSentence really
+create-a-node-here really 2.184 2 {it agreed in principle to sell its American Pioneer Life Insurance Co. subsidiary to Harcourt Brace Jovanovich Inc. 's HBJ Insurance Cos. for $27 million.}
+nextSentence really
+#autolink_nodes 1 2 nucleus attribution-n  5001
+#UNDID
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.64 3 { \n\nAmerican Pioneer, parent of American Pioneer Savings Bank, said }
+#create-a-node-here really 4.93 4 {the sale will add capital }
+#autolink_nodes 3 4 nucleus attribution  5002
+#create-a-node-here really 5.0 5 {and reduce the level of investments in subsidiaries for the thrift holding company. \n}
+#autolink_nodes 4 5 multinuclear List  5003
+#create-a-node-here really 6.133 6 {\nRecently, the boards of both the parent company and the thrift also voted to suspend dividends on preferred shares of both companies }
+#create-a-node-here really 6.181 7 {and convert all preferred into common shares.}
+#nextSentence really
+#autolink_nodes 6 7 multinuclear List  5004
+#autolink_nodes 5001 5002 satelite elaboration-additional  5005
+#create-a-node-here really 7.17 8 {\nThe company said }
+#create-a-node-here really 7.43 9 {the move was necessary }
+#autolink_nodes 8 9 nucleus attribution  5006
+#create-a-node-here really 7.75 10 {to meet capital requirements.}
+#nextSentence really
+#autolink_nodes 9 10 satelite purpose below 5007
+#create-a-node-here really 9.75 11 { \n\nThe transaction is subject to execution of a definitive purchase agreement }
+#create-a-node-here really 9.124 12 {and approval by various regulatory agencies, }
+#autolink_nodes 11 12 multinuclear List  5008
+#UNDID
+#UNDID
+#create-a-node-here really 10.0 12 {and approval by various regulatory agencies, including the insurance departments of the states of Florida and Indiana, the company said. \n}
+#autolink_nodes 11 12 multinuclear List  5008
+#UNDID
+#UNDID
+#create-a-node-here really 9.198 12 {and approval by various regulatory agencies, including the insurance departments of the states of Florida and Indiana, }
+#autolink_nodes 11 12 multinuclear List  5008
+#create-a-node-here really 9.220 13 {the company said. }
+#autolink_nodes 5008 13 satelite attribution  5009
+#create-a-node-here really 11.73 14 {\n\nIn the second quarter, American Pioneer reported a loss of $7.3 million, }
+#create-a-node-here really 11.133 15 {compared with net income of $1.1 million a year earlier.}
+#nextSentence really
+#autolink_nodes 14 15 satelite comparison  5010
+#create-a-node-here really 12.72 16 {\nThe banking operation had a loss of $8.7 million in the second quarter, }
+#create-a-node-here really 12.122 17 {largely because of problem real-estate loans, }
+#autolink_nodes 16 17 satelite cause  5011
+#create-a-node-here really 12.173 18 {while the insurance operations earned $884,000.}
+#nextSentence really
+#autolink_nodes 5011 18 satelite temporal-same-time  5012
+#autolink_nodes 5005 5004 satelite elaboration-additional  5013
+#autolink_nodes 5004 5006 satelite comment  5014
+#autolink_nodes 5014 5009 satelite elaboration-additional  5015
+#autolink_nodes 5010 5012 satelite elaboration-additional  5016
+#autolink_nodes 5009 5016 satelite topic-drift  5017
+#change_rel 5002 consequence-s
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 4.93 4 {the sale will add capital }
+autolink_nodes 3 4 nucleus attribution  5002
+create-a-node-here really 5.0 5 {and reduce the level of investments in subsidiaries for the thrift holding company. \n}
+autolink_nodes 4 5 multinuclear List  5003
+create-a-node-here really 6.178 6 {\nRecently, the boards of both the parent company and the thrift also voted to suspend dividends on preferred shares of both companies and convert all preferred into common shares.}
+nextSentence really
+autolink_nodes 5001 5002 satelite consequence-s  5004
+autolink_nodes 5004 6 satelite elaboration-additional  5005
+create-a-node-here really 7.17 7 {\nThe company said }
+create-a-node-here really 7.72 8 {the move was necessary to meet capital requirements.}
+nextSentence really
+autolink_nodes 7 8 nucleus attribution  5006
+autolink_nodes 6 5006 satelite comment  5007
+create-a-node-here really 9.120 9 { \n\nThe transaction is subject to execution of a definitive purchase agreement and approval by various regulatory agencies, }
+autolink_nodes 5007 9 satelite elaboration-additional  5008
+create-a-node-here really 9.196 10 {including the insurance departments of the states of Florida and Indiana,}
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5009
+create-a-node-here really 9.218 11 { the company said.}
+nextSentence really
+autolink_nodes 5009 11 satelite attribution  5010
+create-a-node-here really 11.73 12 { \n\nIn the second quarter, American Pioneer reported a loss of $7.3 million, }
+autolink_nodes 5010 12 satelite topic-drift  5011
+create-a-node-here really 11.133 13 {compared with net income of $1.1 million a year earlier.}
+nextSentence really
+autolink_nodes 12 13 satelite comparison  5012
+create-a-node-here really 12.72 14 {\nThe banking operation had a loss of $8.7 million in the second quarter, }
+autolink_nodes 5012 14 satelite elaboration-additional  5013
+create-a-node-here really 12.122 15 {largely because of problem real-estate loans, }
+autolink_nodes 14 15 satelite cause  5014
+create-a-node-here really 12.173 16 {while the insurance operations earned $884,000.}
+nextSentence really
+autolink_nodes 5014 16 satelite temporal-same-time  5015
+nextSentence really
+nextSentence really
+nextSentence really
+collapsed_nodes {5005}
+collapsed_nodes {}
+disconnect_node 11 modify
+autolink_nodes 5009 11 satelite attribution below 5016
+disconnect_node 7 modify
+autolink_nodes 8 7 satelite attribution  5017
+disconnect_node 3 modify
+autolink_nodes 5003 3 satelite attribution  5018
+disconnect_node 3 modify
+autolink_nodes 5003 3 satelite attribution  5019
+disconnect_node 1 modify
+autolink_nodes 2 1 satelite attribution below 5020

@@ -1,0 +1,553 @@
+nextSentence really
+create-a-node-here really 2.81 1 {\nThe municipal bond market is bracing for tough times through the end of the year }
+create-a-node-here really 2.133 2 {as it struggles to absorb an oversupply of bonds }
+create-a-node-here really 2.184 3 {and two of its best customers turn into sellers.}
+nextSentence really
+autolink_nodes 2 3 multinuclear List  5001
+autolink_nodes 1 5001 satelite circumstance  5002
+create-a-node-here really 4.49 4 { \n\nCommercial banks and property/casualty insurers, }
+create-a-node-here really 4.105 5 {which together own about 36% of all municipal bonds, }
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5003
+create-a-node-here really 4.153 6 {have been dumping their securities for weeks.}
+nextSentence really
+autolink_nodes 5003 6 multinuclear Same-Unit  5004
+autolink_nodes 3 5004 satelite elaboration-set-member  5005
+create-a-node-here really 5.11 7 {\nLast week, }
+create-a-node-here really 5.28 8 {traders said, }
+create-a-node-here really 5.86 9 {there were three institutional sellers for every buyer.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded attribution-e  5006
+autolink_nodes 5006 9 multinuclear Same-Unit  5007
+autolink_nodes 5004 5007 satelite elaboration-additional  5008
+create-a-node-here really 7.63 10 { \n\n"Every day we're getting new bid lists" from would-be sellers, }
+create-a-node-here really 7.83 11 {one trader said.}
+nextSentence really
+autolink_nodes 10 11 satelite attribution  5009
+create-a-node-here really 7.141 12 { "Most dealers cannot continue to absorb this supply."}
+nextSentence really
+#autolink_nodes 5009 12 satelite comment  5010
+#UNDID
+autolink_nodes 5001 5009 satelite elaboration-additional  5010
+autolink_nodes 5010 12 satelite comment  5011
+create-a-node-here really 9.143 13 { \n\nAs a result, yields on long-term muni bonds now stand at about 95% of long-term Treasury yields, the highest such level in more than two years.}
+disconnect_node 5009 disconnect
+disconnect_node 12 disconnect
+autolink_nodes 5001 5009 satelite elaboration-additional  5012
+autolink_nodes 5012 12 satelite comment  5013
+autolink_nodes 5013 13 nucleus result  5014
+create-a-node-here really 11.66 14 { \n\n"There is incredible negative psychology building in the market," }
+create-a-node-here really 11.131 15 {said Donna Avedisian, a vice president at Merrill Lynch & Co.}
+autolink_nodes 14 15 satelite attribution  5015
+create-a-node-here really 11.270 16 { "People are very concerned about who is going to step up to the plate and buy municipal bonds in the absence of institutional buyers."}
+nextSentence really
+autolink_nodes 5015 16 satelite elaboration-general-specific  5016
+create-a-node-here really 11.316 17 { The yield on a group of 25 revenue bonds }
+create-a-node-here really 11.369 18 {compiled by the Bond Buyer, a trade publication, }
+autolink_nodes 17 18 satelite-embedded elaboration-additional-e  5017
+create-a-node-here really 11.391 19 {now exceeds 7.50%.}
+nextSentence really
+autolink_nodes 5017 19 multinuclear Same-Unit  5018
+autolink_nodes 5016 5018 satelite consequence-s  5019
+autolink_nodes 5002 5019 satelite elaboration-additional  5020
+create-a-node-here really 13.149 20 { \n\nAt this week's New York City bond sale, traders expect yields on the 20-year New York bonds to nearly match the 7.9% yield on 30-year Treasury bonds.}
+nextSentence really
+nextSentence really
+create-a-node-here really 14.108 21 {\nFor an investor in the 28% federal tax bracket, 7.9% tax-free is the same as 10.38% on a taxable investment.}
+nextSentence really
+#autolink_nodes 20 21 satelite definition  5021
+#UNDID
+autolink_nodes 20 21 satelite elaboration-general-specific  5021
+disconnect_node 21 modify
+#autolink_nodes 20 21 satelite evaluation-s  5022
+#UNDID
+autolink_nodes 20 21 satelite elaboration-general-specific  5022
+create-a-node-here really 16.0 22 {\nThat's a taxable-equivalent yield nearly three percentage points more than the current yield on 30-year Treasury bonds.\n}
+autolink_nodes 5022 22 satelite evaluation-s  5023
+create-a-node-here really 16.30 23 {How quickly things change.}
+nextSentence really
+autolink_nodes 5023 23 satelite comment  5024
+create-a-node-here really 17.76 24 {\nThis past summer, investors' appetite for municipal bonds seemed insatiable.}
+nextSentence really
+disconnect_node 5007 disconnect
+autolink_nodes 5004 5007 satelite evaluation-s  5025
+disconnect_node 12 disconnect
+disconnect_node 5009 disconnect
+autolink_nodes 5009 12 satelite interpretation-s  5026
+disconnect_node 5001 disconnect
+disconnect_node 5019 disconnect
+#disconnect_node 13 disconnect
+#UNDID
+disconnect_node 13 disconnect
+autolink_nodes 1 5001 satelite circumstance  5027
+autolink_nodes 5027 5026 satelite elaboration-additional  5028
+disconnect_node 5026 disconnect
+autolink_nodes 5026 13 nucleus result  5029
+autolink_nodes 5027 5029 satelite elaboration-additional  5030
+#disconnect_node 18 modify
+#UNDID
+disconnect_node 18 modify
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5031
+autolink_nodes 5030 5019 satelite elaboration-additional  5032
+disconnect_node 21 modify
+autolink_nodes 20 21 satelite explanation-argumentative below 5033
+disconnect_node 22 disconnect
+autolink_nodes 21 22 satelite restatement  5034
+create-a-node-here really 18.60 25 {\nIndividuals eager for tax-free income drove up bond prices, }
+create-a-node-here really 18.183 26 {making state and local government debt one of the best-performing types of fixed-income investments during the period. }
+autolink_nodes 25 26 satelite consequence-s  5035
+autolink_nodes 24 5035 satelite elaboration-general-specific  5036
+create-a-node-here really 20.4 27 {\n\nBut }
+create-a-node-here really 20.27 28 {while analysts say }
+create-a-node-here really 20.76 29 {that municipal bonds still offer good value, }
+autolink_nodes 28 29 nucleus attribution  5037
+create-a-node-here really 20.112 30 {you wouldn't know it by the way }
+create-a-node-here really 20.175 31 {institutional investors are rushing to dump their holdings.}
+nextSentence really
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5038
+#autolink_nodes 5037 5038 nucleus-embedded comparison-e  5039
+#UNDID
+autolink_nodes 5037 5038 nucleus-embedded antithesis-e  5039
+autolink_nodes 27 5039 multinuclear Same-Unit  5040
+#autolink_nodes 5036 5040 multinuclear Contrast  5041
+#UNDID
+autolink_nodes 5036 5040 multinuclear Contrast  5041
+autolink_nodes 23 5041 satelite explanation-argumentative  5042
+disconnect_node 5041 modify
+autolink_nodes 23 5041 satelite elaboration-general-specific  5043
+disconnect_node 5019 modify
+autolink_nodes 5030 5019 satelite cause  5044
+autolink_nodes 5044 5024 satelite consequence-n  5045
+create-a-node-here really 22.25 32 { \n\nBond market analysts say }
+create-a-node-here really 23.0 33 {the institutional selling was triggered by several factors.\n}
+autolink_nodes 32 33 nucleus attribution  5046
+create-a-node-here really 23.56 34 {Big banks such as Chemical Bank and Chase Manhattan,}
+create-a-node-here really 23.98 35 { which have been taking heavy charges }
+create-a-node-here really 23.150 36 {to expand their Third World loan-loss reserves, }
+autolink_nodes 35 36 satelite purpose  5047
+autolink_nodes 34 5047 satelite-embedded elaboration-additional-e  5048
+create-a-node-here really 23.191 37 {aren't looking for tax-exempt income.}
+nextSentence really
+autolink_nodes 5048 37 multinuclear Same-Unit  5049
+create-a-node-here really 23.243 38 { "We don't need the shelter of tax-free bonds," }
+create-a-node-here really 23.278 39 {said a spokeswoman at Chemical.}
+nextSentence really
+autolink_nodes 38 39 satelite attribution  5050
+create-a-node-here really 25.17 40 { \n\nIn recent weeks, }
+create-a-node-here really 25.35 41 {traders said, }
+autolink_nodes 40 41 satelite-embedded attribution-e  5051
+create-a-node-here really 25.96 42 {Chemical has sold more than $1 billion of tax-free bonds.}
+nextSentence really
+autolink_nodes 5051 42 multinuclear Same-Unit  5052
+autolink_nodes 5050 5052 satelite evidence  5053
+create-a-node-here really 26.26 43 {\nThe spokeswoman confirmed }
+create-a-node-here really 26.88 44 {that the bank has significantly reduced its muni holdings,}
+autolink_nodes 43 44 nucleus attribution  5054
+create-a-node-here really 26.137 45 { but couldn't immediately confirm the amount.}
+nextSentence really
+autolink_nodes 5054 45 nucleus antithesis  5055
+autolink_nodes 5053 5055 multinuclear List  5056
+autolink_nodes 5049 5056 satelite comment  5057
+autolink_nodes 5049 5056 satelite comment  5058
+create-a-node-here really 28.68 46 { \n\nInsurance companies are rushing to sell before the end of the year, }
+#create-a-node-here really 28.155 47 {when some of their tax benefits associated with municipal bonds will be phased out.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 28.104 47 {when some of their tax benefits }
+create-a-node-here really 28.140 48 {associated with municipal bonds }
+autolink_nodes 47 48 satelite-embedded elaboration-object-attribute-e  5059
+create-a-node-here really 29.0 49 {will be phased out.\n}
+autolink_nodes 5059 49 multinuclear Same-Unit  5060
+autolink_nodes 46 5060 satelite reason  5061
+create-a-node-here really 29.80 50 {There is speculation that property/casualty firms will sell even more munis }
+create-a-node-here really 29.115 51 {as they scramble to raise cash }
+create-a-node-here really 29.133 52 {to pay claims }
+create-a-node-here really 29.202 53 {related to Hurricane Hugo and the Northern California earthquake.}
+nextSentence really
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5062
+autolink_nodes 51 5062 satelite purpose  5063
+autolink_nodes 50 5063 satelite circumstance  5064
+autolink_nodes 5061 5064 satelite elaboration-additional  5065
+disconnect_node 5064 modify
+autolink_nodes 5061 5064 satelite elaboration-general-specific  5066
+autolink_nodes 5057 5066 multinuclear List  5067
+autolink_nodes 5046 5067 satelite elaboration-general-specific  5068
+create-a-node-here really 31.40 54 { \n\nFundamental factors are at work as well.}
+nextSentence really
+create-a-node-here really 32.94 55 {\nMuni bond holders are worried about the impact of a slowing economy on tax revenue, at a time }
+create-a-node-here really 32.189 56 {when many state and local governments already face budget deficits and huge spending needs.}
+nextSentence really
+autolink_nodes 55 56 satelite-embedded elaboration-object-attribute-e  5069
+create-a-node-here really 33.64 57 {\nThe recent natural disasters, and the need of many other cities }
+create-a-node-here really 33.105 58 {to rebuild crumbling infrastructure, }
+autolink_nodes 57 58 satelite-embedded elaboration-object-attribute-e  5070
+create-a-node-here really 33.118 59 {suggests }
+autolink_nodes 5070 59 multinuclear Same-Unit  5071
+create-a-node-here really 33.178 60 {that supply of new issues will continue to rise sharply }
+autolink_nodes 5071 60 nucleus attribution  5072
+create-a-node-here really 33.211 61 {-- even as demand tapers off.}
+nextSentence really
+autolink_nodes 60 61 satelite concession below 5073
+#autolink_nodes 60 61 multinuclear concession  5074
+#UNDID
+autolink_nodes 5069 5072 satelite example  5074
+autolink_nodes 54 5074 satelite elaboration-general-specific  5075
+autolink_nodes 5068 5075 multinuclear List  5076
+#create-a-node-here really 35.76 62 { \n\n"There is just so much going on that it's difficult to pick just one factor }
+#create-a-node-here really 35.108 63 {that's driving the market," }
+#autolink_nodes 62 63 satelite-embedded elaboration-object-attribute-e  5077
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 35.32 62 { \n\n"There is just so much going on }
+create-a-node-here really 35.80 63 {that it's difficult to pick just one factor }
+autolink_nodes 62 63 nucleus consequence-n  5077
+create-a-node-here really 35.112 64 {that's driving the market," }
+autolink_nodes 63 64 satelite-embedded elaboration-object-attribute-e below 5078
+create-a-node-here really 35.230 65 {said Ronald Ian Heller, vice president at First Chicago Capital Markets Inc., a subsidiary of First Chicago Corp. }
+autolink_nodes 5077 65 satelite attribution  5079
+autolink_nodes 5076 5079 satelite interpretation-s  5080
+create-a-node-here really 37.72 66 {\n\nSome of the recent selling could actually be considered a positive sign.}
+create-a-node-here really 38.75 67 {\nMutual funds, for example, are said to be selling existing municipal bonds }
+create-a-node-here really 38.93 68 {to raise cash }
+create-a-node-here really 38.115 69 {to buy new issues.}
+nextSentence really
+autolink_nodes 68 69 satelite purpose  5081
+autolink_nodes 67 5081 satelite purpose  5082
+autolink_nodes 66 5082 satelite example  5083
+create-a-node-here really 39.52 70 {\nBecause municipal bonds yields have risen at a time }
+create-a-node-here really 39.99 71 {when interest rates generally have fallen, }
+autolink_nodes 70 71 satelite-embedded elaboration-object-attribute-e  5084
+create-a-node-here really 39.140 72 {some portfolio managers are assuming }
+create-a-node-here really 39.155 73 {that bonds }
+autolink_nodes 72 73 nucleus attribution  5085
+create-a-node-here really 39.170 74 {bought now }
+autolink_nodes 73 74 satelite-embedded elaboration-object-attribute-e below 5086
+create-a-node-here really 39.199 75 {will appreciate in value }
+create-a-node-here really 39.241 76 {as the municipal bond market rebounds.}
+nextSentence really
+autolink_nodes 5085 75 multinuclear Same-Unit  5087
+disconnect_node 72 disconnect
+autolink_nodes 5087 76 satelite contingency  5088
+autolink_nodes 72 5088 nucleus attribution  5089
+autolink_nodes 5084 5089 nucleus reason  5090
+#autolink_nodes 5082 5090 satelite explanation-argumentative  5091
+#UNDID
+autolink_nodes 5082 5090 satelite explanation-argumentative  5091
+create-a-node-here really 41.23 77 { \n\nMs. Avedisian believes }
+create-a-node-here really 41.72 78 {that the mutual funds are selling muni bonds }
+autolink_nodes 77 78 nucleus attribution  5092
+create-a-node-here really 41.107 79 {that have a negative convexity }
+#autolink_nodes 78 79 satelite-embedded elaboration-object-attribute-e below 5093
+#UNDID
+autolink_nodes 78 79 satelite-embedded elaboration-object-attribute-e below 5093
+create-a-node-here really 41.120 80 {-- those }
+create-a-node-here really 42.0 81 {that have appreciated in price slowly relative to the decline in interest rates.\n}
+autolink_nodes 80 81 satelite-embedded elaboration-object-attribute-e  5094
+autolink_nodes 79 5094 satelite-embedded definition-e  5095
+create-a-node-here really 42.16 82 {Such bonds, }
+create-a-node-here really 42.30 83 {she says, }
+autolink_nodes 82 83 satelite-embedded attribution-e  5096
+create-a-node-here really 42.44 84 {are those }
+create-a-node-here really 42.81 85 {that are nearing their call date.}
+nextSentence really
+autolink_nodes 84 85 satelite-embedded elaboration-object-attribute-e  5097
+autolink_nodes 5096 5097 multinuclear Same-Unit  5098
+autolink_nodes 5092 5098 satelite elaboration-general-specific  5099
+create-a-node-here really 44.17 86 { \n\nBut traders said }
+create-a-node-here really 44.63 87 {the market's tone could pick up this week }
+create-a-node-here really 44.123 88 {if New York City's $787 million bond offering goes well.}
+nextSentence really
+#autolink_nodes 87 88 nucleus hypothetical  5100
+#UNDID
+autolink_nodes 87 88 satelite hypothetical  5100
+autolink_nodes 86 5100 nucleus attribution  5101
+create-a-node-here really 45.102 89 {\nThe offering will include $729 million of 20-year tax-exempt bonds and $57.8 million of taxable bonds.}
+nextSentence really
+autolink_nodes 5101 89 satelite elaboration-general-specific  5102
+disconnect_node 89 modify
+autolink_nodes 5101 89 satelite elaboration-part-whole  5103
+create-a-node-here really 46.59 90 {\nA few weeks ago, New York sold $750 million of tax-exempts.}
+nextSentence really
+create-a-node-here really 48.67 91 { \n\nNew York City bonds have been beaten down for three straight weeks.}
+nextSentence really
+create-a-node-here really 49.90 92 {\nOn Friday, some issues fell nearly one point, or close to $10 for each $1,000 face amount.}
+nextSentence really
+autolink_nodes 91 92 satelite evidence  5104
+autolink_nodes 90 5104 multinuclear Contrast  5105
+autolink_nodes 5103 5105 satelite background  5106
+create-a-node-here really 51.164 93 { \n\nThe sell-off in New York City bonds was triggered by concerns about the city's financial health and political uncertainty in view of the impending mayoral election.}
+nextSentence really
+create-a-node-here really 52.37 94 {\nThe city's economy is growing weaker }
+create-a-node-here really 52.69 95 {and expenditures are rising }
+autolink_nodes 94 95 multinuclear Contrast  5107
+create-a-node-here really 52.99 96 {as tax revenue is falling.}
+nextSentence really
+autolink_nodes 5107 96 multinuclear Temporal-Same-Time above 5108
+autolink_nodes 93 5108 satelite explanation-argumentative  5109
+disconnect_node 5108 modify
+autolink_nodes 93 5108 satelite elaboration-general-specific  5110
+autolink_nodes 5099 5106 multinuclear Contrast  5111
+autolink_nodes 5111 5110 satelite explanation-argumentative  5112
+create-a-node-here really 54.45 97 { \n\n"The city has issued so much supply recently }
+create-a-node-here really 54.97 98 {that some people are getting a little concerned.}
+nextSentence really
+autolink_nodes 97 98 satelite consequence-s  5113
+create-a-node-here really 55.58 99 {\nThey'd like to see some other names in their portfolios," }
+create-a-node-here really 55.136 100 {said Michael S. Appelbaum, first vice president at Shearson Lehman Hutton.}
+nextSentence really
+autolink_nodes 99 100 satelite attribution  5114
+autolink_nodes 5113 5114 satelite comment  5115
+#create-a-node-here really 57.69 101 { \n\nBut he thinks investors may be overreacting to the market's problems.}
+#nextSentence really
+#autolink_nodes 5115 101 satelite interpretation-s  5116
+#create-a-node-here really 58.9 102 {\nOverall, }
+#create-a-node-here really 58.23 103 {he says, }
+#autolink_nodes 102 103 satelite-embedded attribution-e  5117
+#create-a-node-here really 58.62 104 {municipal prices are "very cheap" }
+#autolink_nodes 5117 104 multinuclear Same-Unit  5118
+#create-a-node-here really 58.115 105 {and represent an "excellent buying opportunity."}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 57.14 101 { \n\nBut he thinks }
+create-a-node-here really 58.0 102 {investors may be overreacting to the market's problems.\n}
+#autolink_nodes 101 102 nucleus attribution  5116
+#UNDID
+autolink_nodes 101 102 nucleus attribution  5116
+autolink_nodes 5115 5116 satelite interpretation-s  5117
+create-a-node-here really 58.14 103 {Overall, }
+#create-a-node-here really 58.26 104 {he says}
+#autolink_nodes 103 104 satelite-embedded attribution-e  5118
+#create-a-node-here really 58.67 105 {, municipal prices are "very cheap" }
+#autolink_nodes 5118 105 satelite-embedded comparison-e  5119
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 58.28 104 {he says, }
+autolink_nodes 103 104 satelite-embedded attribution-e  5118
+create-a-node-here really 58.67 105 {municipal prices are "very cheap" }
+autolink_nodes 5118 105 multinuclear Same-Unit  5119
+create-a-node-here really 58.120 106 {and represent an "excellent buying opportunity."}
+nextSentence really
+autolink_nodes 5119 106 multinuclear List above 5120
+autolink_nodes 5116 5120 satelite explanation-argumentative  5121
+#autolink_nodes 5112 5117 satelite interpretation-s  5122
+#UNDID
+autolink_nodes 5110 5117 satelite interpretation-s  5122
+#autolink_nodes 5083 5112 satelite cause  5123
+#UNDID
+autolink_nodes 5083 5112 satelite interpretation-s  5123
+autolink_nodes 5080 5123 multinuclear Contrast  5124
+#autolink_nodes 5045 5124 satelite-embedded comparison-e  5125
+#UNDID
+autolink_nodes 5024 5124 satelite elaboration-additional  5125
+create-a-node-here really 60.25 107 { \n\nFriday's Market Activity }
+autolink_nodes 107 107 schema Title  5125
+create-a-node-here really 62.92 108 {\n\nTreasury bonds fell sharply on confusion about this week's Treasury debt auction and rumors }
+create-a-node-here really 62.176 109 {that a major Japanese investor was unloading large amounts of long-term bonds. }
+autolink_nodes 108 109 satelite-embedded elaboration-object-attribute-e  5126
+create-a-node-here really 64.148 110 {\n\nThe Treasury's benchmark 30-year bond ended at a price of 102 2/32, down nearly 5/8 point from Thursday, or about $6.25 for each $1,000 face amount.}
+nextSentence really
+autolink_nodes 5126 110 satelite consequence-s  5127
+create-a-node-here really 65.43 111 {\nThe issue's yield rose to 7.93% from 7.88%.}
+nextSentence really
+autolink_nodes 110 111 multinuclear Temporal-Same-Time  5128
+create-a-node-here really 67.33 112 { \n\nLate Thursday, the Treasury said }
+create-a-node-here really 67.77 113 {it needed to raise $17 billion quickly }
+#create-a-node-here really 67.134 114 {and would do so by issuing new securities this week.}
+#nextSentence really
+#autolink_nodes 113 114 satelite enablement  5129
+#autolink_nodes 112 5129 nucleus attribution  5130
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 67.98 114 {and would do so }
+create-a-node-here really 67.140 115 {by issuing new securities this week. }
+autolink_nodes 114 115 satelite means  5129
+#autolink_nodes 113 5129 satelite consequence-s  5130
+#UNDID
+#autolink_nodes 113 5129 satelite manner  5130
+#UNDID
+autolink_nodes 113 5129 satelite enablement  5130
+autolink_nodes 112 5130 nucleus attribution  5131
+autolink_nodes 5127 5131 satelite comment  5132
+create-a-node-here really 69.143 116 {\n\nCredit market analysts expected the Treasury to cancel today's three-month and six-month sale and to sell $17 billion of cash management bills.}
+nextSentence really
+autolink_nodes 5132 116 satelite interpretation-s  5133
+create-a-node-here really 71.32 117 { \n\nInstead, the Treasury announced }
+create-a-node-here really 71.100 118 {it would sell $2 billion of 51-day cash management bills today }
+autolink_nodes 117 118 nucleus attribution  5134
+create-a-node-here really 71.114 119 {and said }
+nextSentence really
+create-a-node-here really 71.225 120 {that the weekly sale of $15.6 billion of three-month and six-month bills will take place today, as usual, }
+create-a-node-here really 71.284 121 {but the sale will settle tomorrow instead of Thursday.}
+nextSentence really
+autolink_nodes 116 5134 nucleus antithesis  5135
+#autolink_nodes 120 121 nucleus concession  5136
+#UNDID
+autolink_nodes 120 121 nucleus concession  5136
+autolink_nodes 119 5136 satelite attribution  5137
+autolink_nodes 5134 5137 multinuclear List  5138
+create-a-node-here really 73.37 122 { \n\nBy moving the settlement date ahead, }
+create-a-node-here really 73.109 123 {the Treasury can raise money under the $2.87 trillion debt ceiling }
+autolink_nodes 122 123 nucleus means  5139
+create-a-node-here really 73.150 124 {that is in effect through tomorrow, }
+autolink_nodes 123 124 satelite-embedded elaboration-object-attribute-e below 5140
+create-a-node-here really 74.0 125 {after which it reverts to $2.8 trillion. \n}
+autolink_nodes 5140 125 satelite temporal-before below 5141
+disconnect_node 5136 disconnect
+autolink_nodes 119 5136 nucleus attribution  5142
+autolink_nodes 5142 5139 satelite explanation-argumentative  5143
+create-a-node-here really 75.35 126 {\nThe market also was hurt by rumors }
+create-a-node-here really 75.136 127 {that Nippon Kangyo Kakumaru, a Japanese brokerage firm, was unloading some of the 30-year bonds }
+autolink_nodes 126 127 satelite-embedded elaboration-object-attribute-e  5144
+create-a-node-here really 75.163 128 {it recently purchased.}
+nextSentence really
+autolink_nodes 127 128 satelite-embedded elaboration-object-attribute-e  5145
+create-a-node-here really 76.16 129 {\nOne dealer said }
+create-a-node-here really 76.100 130 {the talk was that the firm sold about $500 million of bellwether 30-year bonds.}
+nextSentence really
+autolink_nodes 129 130 nucleus attribution  5146
+autolink_nodes 5144 5146 satelite elaboration-general-specific  5147
+create-a-node-here really 78.129 131 { \n\nThe firm is thought to have purchased up to $3 billion of 30-year bonds in a buying spree on Wednesday and the previous Thursday.}
+nextSentence really
+autolink_nodes 5147 131 satelite background  5148
+create-a-node-here really 80.12 132 { \n\nDealers say }
+create-a-node-here really 80.119 133 {the firm apparently has wanted to publicize its recent buying and subsequent selling of 30-year bonds }
+autolink_nodes 132 133 nucleus attribution  5149
+create-a-node-here really 80.180 134 {by using Cantor Fitzgerald Securities Corp. as a broker.}
+nextSentence really
+autolink_nodes 133 134 satelite means below 5150
+create-a-node-here really 81.87 135 {\nCantor provides price quotes to Telerate Systems Inc., a widely used electronic system.}
+nextSentence really
+autolink_nodes 134 135 satelite background  5151
+autolink_nodes 5148 5149 satelite interpretation-s  5152
+autolink_nodes 5148 5149 satelite interpretation-s  5153
+create-a-node-here really 83.38 136 { \n\nNippon Kangyo's moves puzzled traders }
+create-a-node-here really 83.92 137 {and created confusion among potential investors, }
+autolink_nodes 136 137 multinuclear List  5154
+create-a-node-here really 83.144 138 {many of whom decided to stay out of the market.}
+nextSentence really
+autolink_nodes 137 138 satelite-embedded elaboration-general-specific-e  5155
+autolink_nodes 5152 5154 satelite comment  5156
+autolink_nodes 5133 5156 multinuclear List  5157
+create-a-node-here really 84.39 139 {\nAs a result of its large-scale buying, }
+create-a-node-here really 84.66 140 {some analysts now say }
+create-a-node-here really 84.102 141 {that liquidity, or the ability }
+#create-a-node-here really 84.129 142 {to easily buy and sell}
+#autolink_nodes 141 142 satelite-embedded elaboration-object-attribute-e  5158
+#autolink_nodes 140 5158 nucleus attribution  5159
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 84.130 142 {to easily buy and sell,}
+autolink_nodes 141 142 satelite-embedded elaboration-object-attribute-e  5158
+autolink_nodes 140 5158 nucleus attribution  5159
+create-a-node-here really 84.195 143 { has been constrained in the benchmark Treasury bond issue. }
+autolink_nodes 5158 143 multinuclear Same-Unit  5160
+autolink_nodes 139 5159 nucleus result  5161
+autolink_nodes 5157 5161 satelite interpretation-s  5162
+autolink_nodes 5162 5162 schema Text  5162
+autolink_nodes 107 5162 multinuclear TextualOrganization  5163
+autolink_nodes 5045 5163 multinuclear Topic-Shift  5164
+create-a-node-here really 86.18 144 {\n\nIn other markets: }
+autolink_nodes 144 144 schema Title  5164
+create-a-node-here really 88.61 145 {\n\n-- The junk bonds of RJR Nabisco Inc. rallied Friday on news }
+create-a-node-here really 88.154 146 {that the company is selling its candy bar brands to Nestle Foods Corp. for $370 million.}
+nextSentence really
+autolink_nodes 145 146 satelite-embedded elaboration-object-attribute-e  5165
+create-a-node-here really 90.16 147 { \n\nThe sale price, }
+create-a-node-here really 90.63 148 {which was above Wall Street expectations, }
+autolink_nodes 147 148 satelite-embedded elaboration-additional-e  5166
+create-a-node-here really 90.109 149 {sent many RJR securities up by one point.}
+nextSentence really
+autolink_nodes 5166 149 multinuclear Same-Unit  5167
+autolink_nodes 5165 5167 satelite elaboration-additional  5168
+create-a-node-here really 92.90 150 { \n\n"It shows that there are buyers of high-quality assets at high prices in today's market," }
+create-a-node-here really 92.200 151 {said Robert Long, managing director and head of the high-yield research department at First Boston Corp. }
+autolink_nodes 150 151 satelite attribution  5169
+autolink_nodes 5168 5169 satelite interpretation-s  5170
+create-a-node-here really 94.28 152 {\n\nMany of the RJR securities, }
+create-a-node-here really 94.104 153 {which had been trading near their 52-week lows earlier in the session, }
+autolink_nodes 152 153 satelite-embedded elaboration-additional-e  5171
+create-a-node-here really 94.155 154 {bounced back after the company's announcement }
+autolink_nodes 5171 154 multinuclear Same-Unit  5172
+create-a-node-here really 94.296 155 {that it agreed to sell its Baby Ruth, Butterfinger and Pearson candy businesses to Nestle Foods, a unit of the Swiss-based food concern.}
+nextSentence really
+autolink_nodes 154 155 satelite-embedded elaboration-object-attribute-e  5173
+autolink_nodes 5170 5172 satelite consequence-s  5174
+create-a-node-here really 95.10 156 {\nThe sale, }
+create-a-node-here really 95.60 157 {expected to close before the end of the year,}
+autolink_nodes 156 157 satelite-embedded elaboration-additional-e  5175
+nextSentence really
+create-a-node-here really 95.125 158 { also includes a manufacturing plant in Franklin Park, Ill. }
+autolink_nodes 5175 158 multinuclear Same-Unit  5176
+autolink_nodes 5174 5176 satelite elaboration-additional  5177
+create-a-node-here really 97.48 159 {\n\nRJR's subordinated discount debentures of 2001, }
+create-a-node-here really 97.87 160 {which traded as low as 45 Friday, }
+autolink_nodes 159 160 satelite-embedded elaboration-additional-e  5178
+nextSentence really
+nextSentence really
+create-a-node-here really 97.119 161 {finished the day at 46 7/8.}
+autolink_nodes 5178 161 multinuclear Same-Unit  5179
+autolink_nodes 5177 5179 satelite consequence-s  5180
+create-a-node-here really 99.0 162 {\nOther RJR securities also closed higher.\n}
+nextSentence really
+create-a-node-here really 99.76 163 {RJR Holdings Capital Corp. 's 14.7% convertible pay-in-kind securities }
+create-a-node-here really 99.98 164 {maturing in 2009 }
+autolink_nodes 163 164 satelite-embedded elaboration-object-attribute-e  5181
+create-a-node-here really 99.131 165 {closed 1/2 higher at 86 1/2 }
+autolink_nodes 5181 165 multinuclear Same-Unit  5182
+nextSentence really
+create-a-node-here really 99.168 166 {after trading as low as 85 1/4. }
+autolink_nodes 5182 166 satelite temporal-after  5183
+autolink_nodes 162 5183 satelite example  5184
+autolink_nodes 5180 5184 satelite elaboration-additional  5185
+create-a-node-here really 101.69 167 {\n\nMost other junk bond issues finished a quarter-point lower on rumors }
+create-a-node-here really 101.174 168 {that Campeau Corp. was filing for protection from creditors under Chapter 11 of the Bankruptcy Code.}
+nextSentence really
+autolink_nodes 167 168 satelite-embedded elaboration-object-attribute-e  5186
+create-a-node-here really 102.55 169 {\nA spokesman for Campeau called the rumors "ridiculous."}
+nextSentence really
+autolink_nodes 5186 169 satelite comment  5187
+create-a-node-here really 102.111 170 { Most investment-grade bonds fell 3/8 to 1/2 point.}
+nextSentence really
+autolink_nodes 5187 170 satelite elaboration-general-specific  5188
+#autolink_nodes 5185 5188 multinuclear Comparison  5189
+#UNDID
+autolink_nodes 5185 5188 multinuclear Contrast  5189
+create-a-node-here really 104.41 171 { \n\n-- Mortgage securities fell 7/32 to 8/32 }
+#create-a-node-here really 104.92 172 {but held up better than intermediate Treasurys}
+#UNDID
+create-a-node-here really 104.94 172 {but held up better than intermediate Treasurys. }
+autolink_nodes 171 172 nucleus antithesis  5190
+create-a-node-here really 106.13 173 {\n\nDealers said }
+create-a-node-here really 106.69 174 {some defensive investors were buyers of mortgages, }
+create-a-node-here really 106.90 175 {as were dealers }
+create-a-node-here really 106.124 176 {seeking collateral for REMICs}
+autolink_nodes 175 176 satelite-embedded elaboration-object-attribute-e  5191
+create-a-node-here really 106.155 177 { priced earlier last week.}
+nextSentence really
+autolink_nodes 176 177 satelite-embedded elaboration-object-attribute-e  5192
+#autolink_nodes 174 5191 multinuclear Analogy  5193
+#UNDID
+autolink_nodes 174 5191 multinuclear Analogy  5193
+autolink_nodes 173 5193 nucleus attribution  5194
+autolink_nodes 5190 5194 satelite explanation-argumentative  5195
+create-a-node-here really 107.197 178 {\nAmong major issues, Government National Mortgage Association 9% securities for November delivery ended at 98 12/32, down 8/32 point for a yield of about 9.35% to a 12-year average life assumption. }
+autolink_nodes 5195 178 satelite example  5196
+autolink_nodes 5189 5196 multinuclear List above 5197
+autolink_nodes 5197 5197 schema Text  5197
+autolink_nodes 144 5197 multinuclear TextualOrganization  5198
+autolink_nodes 5163 5198 multinuclear Topic-Shift above 5199

@@ -1,0 +1,547 @@
+nextSentence really
+create-a-node-here really 2.107 1 {\nThe stock market's dizzying gyrations during the past few days have made a lot of individual investors wish}
+create-a-node-here really 2.149 2 { they could buy some sort of insurance.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.52 3 { \n\nAfter all, they won't soon forget the stock bargains}
+create-a-node-here really 4.107 4 { that became available after the October 1987 crash.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 5001 5002 satelite explanation-argumentative  5003
+create-a-node-here really 5.3 5 {\nBut}
+create-a-node-here really 5.79 6 { while they want to be on the alert for similar buying opportunities now,}
+create-a-node-here really 5.145 7 { they're afraid of being hammered by another terrifying plunge.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded antithesis-e  5004
+autolink_nodes 7 5004 multinuclear Same-Unit  5005
+create-a-node-here really 7.70 8 { \n\nThe solution, at least for some investors, may be a hedging technique }
+create-a-node-here really 7.130 9 {that's well known to players in the stock-options market.}
+nextSentence really
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5006
+create-a-node-here really 8.23 10 {\nCalled a "married put,"}
+create-a-node-here really 8.56 11 { the technique is carried out}
+create-a-node-here really 8.82 12 { by purchasing a stock}
+create-a-node-here really 8.140 13 { and simultaneously buying a put option on that stock.}
+nextSentence really
+autolink_nodes 12 13 multinuclear Temporal-Same-Time  5007
+autolink_nodes 11 5007 satelite means  5008
+autolink_nodes 5008 10 satelite circumstance  5009
+autolink_nodes 5009 5006 satelite elaboration-general-specific  5010
+autolink_nodes 5010 5005 multinuclear Problem-Solution  5011
+#autolink_nodes 5003 5011 satelite elaboration-additional  5012
+#UNDID
+autolink_nodes 5003 5011 satelite elaboration-additional  5012
+create-a-node-here really 10.27 14 { \n\nIt's like "fire insurance,"}
+create-a-node-here really 10.96 15 { says Harrison Roth, the senior options strategist at Cowen & Co.}
+autolink_nodes 14 15 satelite attribution  5013
+create-a-node-here really 11.71 16 {\nBecause a put option gives its owner the right, but not the obligation,}
+create-a-node-here really 11.182 17 { to sell a fixed number of shares of the stock at a stated price on or before the option's expiration date,}
+create-a-node-here really 11.256 18 { the investor is protected against a sudden drop in the stock's price.}
+autolink_nodes 16 17 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 18 5014 satelite reason  5015
+autolink_nodes 5013 5015 satelite explanation-argumentative  5016
+disconnect_node 5010 disconnect
+autolink_nodes 5005 5010 nucleus problem-solution-n  5017
+#disconnect_node 5006 disconnect
+#autolink_nodes 5009 5006 nucleus elaboration-general-specific  5018
+#UNDID
+#UNDID
+#disconnect_node 5005 disconnect
+#disconnect_node 5006 disconnect
+#disconnect_node 5009 disconnect
+#UNDID
+#UNDID
+#UNDID
+disconnect_node 5017 disconnect
+disconnect_node 5005 disconnect
+disconnect_node 5006 disconnect
+#autolink_nodes 5006 5009 satelite elaboration-general-specific  5018
+#UNDID
+#autolink_nodes 5009 5006 satelite problem-solution-n  5018
+#UNDID
+autolink_nodes 5006 5009 satelite elaboration-general-specific  5018
+autolink_nodes 5018 5005 satelite problem-solution-n  5019
+autolink_nodes 5003 5019 satelite elaboration-additional  5020
+disconnect_node 5015 disconnect
+autolink_nodes 5019 5013 satelite analogy  5021
+autolink_nodes 5013 5015 satelite explanation-argumentative  5022
+change_rel 5015 elaboration-additional
+create-a-node-here really 13.77 19 { \n\nBut most investment advisers don't recommend using married puts all the time.}
+nextSentence really
+create-a-node-here really 14.76 20 {\nThat's because the cost of buying put options eats into an investor's profit}
+create-a-node-here really 14.104 21 { when stock prices rise.}
+nextSentence really
+autolink_nodes 20 21 satelite circumstance  5023
+autolink_nodes 19 5023 satelite explanation-argumentative  5024
+create-a-node-here really 16.36 22 { \n\n"This is the type of fire insurance }
+create-a-node-here really 16.53 23 {you only buy }
+create-a-node-here really 16.92 24 {when the nearby woods are on fire,"}
+create-a-node-here really 16.111 25 { says Mr. Roth.}
+nextSentence really
+autolink_nodes 23 24 satelite circumstance  5025
+autolink_nodes 22 5025 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 5026 25 satelite attribution  5027
+#autolink_nodes 5024 5027 satelite explanation-argumentative  5028
+#UNDID
+autolink_nodes 5023 5027 satelite elaboration-additional  5028
+create-a-node-here really 16.152 26 { "You always want your house insured,}
+create-a-node-here really 16.192 27 { but you don't always feel the need }
+create-a-node-here really 16.232 28 {for your investments to be insured."}
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 5029 26 satelite antithesis  5030
+#autolink_nodes 5027 5030 satelite elaboration-additional  5031
+#UNDID
+autolink_nodes 5027 5030 satelite interpretation-s  5031
+change_rel 5030 elaboration-additional
+collapsed_nodes {5022}
+autolink_nodes 5021 5024 satelite antithesis  5032
+create-a-node-here really 18.43 29 { \n\nIn addition to hedging new stock purchases,}
+create-a-node-here really 18.103 30 { the married-put technique can be used to protect stocks}
+create-a-node-here really 18.138 31 { that an investor already owns.}
+nextSentence really
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5033
+#autolink_nodes 5033 29 satelite topic-shift  5034
+#UNDID
+#autolink_nodes 5033 29 satelite comparison  5034
+#UNDID
+autolink_nodes 29 5033 satelite elaboration-additional  5034
+create-a-node-here really 19.59 32 {\nIn either case, the investor faces three possible outcomes:}
+autolink_nodes 5034 32 satelite elaboration-additional  5035
+create-a-node-here really 21.75 33 { \n\n-- If the stock goes up in price between now and the put's expiration date,}
+create-a-node-here really 21.119 34 { the put will probably expire worthless.}
+autolink_nodes 33 34 nucleus condition  5036
+create-a-node-here really 22.45 35 {\nThe investor will be out the cost of the put,}
+create-a-node-here really 22.80 36 { which is called the "premium,"}
+create-a-node-here really 22.135 37 { and this loss will reduce the stock-market profit.}
+nextSentence really
+#autolink_nodes 35 36 satelite-embedded elaboration-additional-e  5037
+#UNDID
+autolink_nodes 35 36 satelite-embedded elaboration-additional-e  5037
+autolink_nodes 5037 37 satelite consequence-s  5038
+autolink_nodes 5036 5038 satelite elaboration-additional  5039
+create-a-node-here really 24.82 38 { \n\n-- If the stock stays at the same price between now and the put's expiration date,}
+create-a-node-here really 24.162 39 { the investor's loss will be limited to the cost of the put, less any amount}
+create-a-node-here really 24.207 40 { realized from a closing sale of the put.}
+autolink_nodes 39 40 satelite-embedded elaboration-object-attribute-e  5040
+autolink_nodes 38 5040 nucleus condition  5041
+#create-a-node-here really 25.33 41 {\nThe worst-case scenario would be }
+#create-a-node-here really 25.66 42 {if the put expires worthless.}
+#nextSentence really
+#autolink_nodes 41 42 satelite circumstance  5042
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 25.62 41 {\nThe worst-case scenario would be if the put expires worthless.}
+nextSentence really
+autolink_nodes 5041 41 satelite elaboration-additional  5042
+create-a-node-here really 27.38 42 { \n\n-- If the price of the stock declines,}
+create-a-node-here really 27.74 43 { the put will increase in value.}
+nextSentence really
+autolink_nodes 42 43 nucleus condition  5043
+create-a-node-here really 28.84 44 {\nOnce the stock price is less than the exercise price, or "strike price," of the put,}
+create-a-node-here really 28.149 45 { the gain will match the loss on the stock dollar for dollar.}
+nextSentence really
+autolink_nodes 44 45 nucleus condition  5044
+change_rel 44 circumstance
+autolink_nodes 5043 5044 satelite elaboration-additional  5045
+create-a-node-here really 29.74 46 {\nThe put establishes a minimum selling price for the stock during its life.}
+nextSentence really
+autolink_nodes 5045 46 satelite elaboration-additional  5046
+create-a-node-here really 31.48 47 { \n\nWhen a stock falls below the put's strike price,}
+create-a-node-here really 31.99 48 { the investor simply sells the stock at a loss }
+create-a-node-here really 31.148 49 {and simultaneously sells the put at a profit.}
+nextSentence really
+#autolink_nodes 48 49 multinuclear List  5047
+#UNDID
+autolink_nodes 48 49 multinuclear List  5047
+autolink_nodes 5047 47 satelite circumstance  5048
+create-a-node-here really 32.38 50 {\nOr, the investor can exercise the put,}
+create-a-node-here really 32.131 51 { by tendering the stock to his or her broker in return for payment from another investor }
+create-a-node-here really 32.172 52 {who has sold a put on the same stock.}
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5049
+autolink_nodes 50 5049 satelite means  5050
+autolink_nodes 5048 5050 multinuclear Disjunction  5051
+autolink_nodes 46 5051 satelite elaboration-additional  5052
+create-a-node-here really 33.68 53 {\nBrokers handle such transactions through the Options Clearing Corp.,}
+create-a-node-here really 33.108 54 { which guarantees all option trades.}
+nextSentence really
+autolink_nodes 53 54 satelite-embedded elaboration-additional-e  5053
+autolink_nodes 5050 5053 satelite elaboration-additional  5054
+autolink_nodes 5042 5046 multinuclear List  5055
+autolink_nodes 5055 5039 multinuclear List below 5055
+autolink_nodes 32 5055 satelite elaboration-set-member  5056
+collapsed_nodes {5022 5024}
+autolink_nodes 5032 5035 satelite elaboration-additional  5057
+collapsed_nodes {5022 5024 5056}
+collapsed_nodes {5022 5024 5056 5033}
+collapsed_nodes {5022 5024 5033}
+collapsed_nodes {5022 5024 5033 5055}
+#create-a-node-here really 35.75 55 { \n\nThe accompanying table shows how this strategy would work for three stocks.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 35.28 55 { \n\nThe accompanying table shows}
+create-a-node-here really 35.79 56 { how this strategy would work for three stocks.}
+autolink_nodes 55 56 nucleus attribution  5058
+create-a-node-here really 36.34 57 {\nThough not reflected in the table,}
+create-a-node-here really 36.63 58 { an investor should know }
+create-a-node-here really 36.146 59 {that the cost of the option insurance can be partially offset by any dividends }
+create-a-node-here really 36.170 60 {that the stock pays.}
+nextSentence really
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5059
+autolink_nodes 58 5059 nucleus attribution  5060
+autolink_nodes 5060 57 satelite concession  5061
+autolink_nodes 5058 5061 satelite elaboration-additional  5062
+create-a-node-here really 38.64 61 { \n\nFor example, Tenneco Inc. pays a quarterly dividend of 76 cents,}
+create-a-node-here really 38.93 62 { which would be received }
+create-a-node-here really 38.132 63 {before the February option expires }
+create-a-node-here really 38.163 64 {and, thus, reduce the cost }
+#create-a-node-here really 38.205 65 {of using the technique by that amount.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 38.190 65 {of using the technique }
+create-a-node-here really 38.209 66 {by that amount.}
+autolink_nodes 64 65 satelite-embedded elaboration-object-attribute-e  5063
+#autolink_nodes 66 63 multinuclear Same-Unit  5064
+#UNDID
+autolink_nodes 66 5063 multinuclear Same-Unit  5064
+autolink_nodes 62 63 satelite temporal-before  5065
+autolink_nodes 61 5065 satelite-embedded elaboration-object-attribute-e  5066
+autolink_nodes 5066 5064 satelite consequence-s  5067
+create-a-node-here really 39.79 67 {\nIn this case, the investor's risk wouldn't exceed 3.6% of the total investment.}
+nextSentence really
+autolink_nodes 5067 67 satelite elaboration-additional  5068
+create-a-node-here really 40.29 68 {\nTo simplify the calculations,}
+#create-a-node-here really 40.81 69 { commissions on the option and underlying stock }
+#UNDID
+create-a-node-here really 40.110 69 { commissions on the option and underlying stock aren't included in the table.}
+autolink_nodes 68 69 nucleus purpose  5069
+autolink_nodes 5061 5068 satelite example  5070
+autolink_nodes 5062 5069 satelite elaboration-additional  5071
+collapsed_nodes {5022 5024 5033}
+autolink_nodes 5051 5071 satelite elaboration-additional  5072
+collapsed_nodes {5022 5024 5033 5055}
+create-a-node-here really 42.30 70 { \n\nThere are more than 650 stocks}
+create-a-node-here really 42.75 71 { on which options may be bought and sold,}
+create-a-node-here really 42.119 72 { including some over-the-counter stocks.}
+nextSentence really
+#autolink_nodes 71 72 satelite elaboration-set-member  5073
+#UNDID
+autolink_nodes 71 72 satelite-embedded elaboration-set-member-e  5073
+autolink_nodes 70 5073 satelite-embedded elaboration-object-attribute-e  5074
+create-a-node-here really 43.51 73 {\nBut some investors might prefer a simpler strategy }
+create-a-node-here really 43.94 74 {then hedging their individual holdings.}
+autolink_nodes 73 74 satelite comparison  5075
+autolink_nodes 5075 5074 satelite circumstance  5076
+create-a-node-here really 45.16 75 { \n\nThey can do this}
+create-a-node-here really 45.48 76 { by purchasing "index puts,"}
+create-a-node-here really 45.92 77 { which are simply put options on indexes}
+create-a-node-here really 45.132 78 { that match broad baskets of stocks.}
+nextSentence really
+autolink_nodes 77 78 satelite-embedded elaboration-object-attribute-e  5077
+autolink_nodes 76 5077 satelite-embedded elaboration-object-attribute-e  5078
+autolink_nodes 75 5078 satelite means  5079
+autolink_nodes 5076 5079 satelite elaboration-additional  5080
+create-a-node-here really 46.66 79 {\nFor instance, the most popular index option is the S&P 100 option,}
+create-a-node-here really 46.95 80 { commonly called the OEX.}
+nextSentence really
+autolink_nodes 79 80 satelite-embedded elaboration-object-attribute-e  5081
+create-a-node-here really 47.25 81 {\nIt is based on the stocks}
+create-a-node-here really 47.77 82 { that make up Standard & Poor's 100-stock index.}
+nextSentence really
+autolink_nodes 81 82 satelite-embedded elaboration-object-attribute-e  5082
+autolink_nodes 5081 5082 satelite elaboration-additional  5083
+create-a-node-here really 48.76 83 {\nUnlike options on individual issues, index options are settled only in cash,}
+create-a-node-here really 48.111 84 { and no stock is ever tendered.}
+nextSentence really
+autolink_nodes 83 84 multinuclear List  5084
+autolink_nodes 5083 5084 satelite elaboration-additional  5085
+disconnect_node 5079 disconnect
+autolink_nodes 5079 5076 satelite problem-solution-n  5086
+autolink_nodes 5086 5085 satelite example  5087
+disconnect_node 5084 disconnect
+collapsed_nodes {5022 5024 5033 5055 5083}
+autolink_nodes 5087 5084 satelite elaboration-additional  5088
+create-a-node-here really 50.39 85 { \n\nBut while index options are convenient,}
+create-a-node-here really 50.76 86 { they have several disadvantages.}
+nextSentence really
+autolink_nodes 85 86 nucleus antithesis  5089
+create-a-node-here really 51.75 87 {\nFor one thing, an investor's portfolio might not closely match the S&P 100.}
+nextSentence really
+create-a-node-here really 52.116 88 {\nAs a result, the OEX insurance may or may not fully protect an investor's holdings in the event of a market decline.}
+nextSentence really
+autolink_nodes 87 88 satelite consequence-s  5090
+autolink_nodes 5089 5090 satelite example  5091
+create-a-node-here really 54.75 89 { \n\nIn addition, OEX options were suspended from trading last Friday afternoon,}
+create-a-node-here really 54.126 90 { after the stock-market sell-off got under way }
+create-a-node-here really 54.185 91 {and trading in the S&P-500 futures contract was halted.}
+nextSentence really
+#autolink_nodes 89 90 satelite temporal-after  5092
+#UNDID
+autolink_nodes 89 90 satelite temporal-after  5092
+autolink_nodes 91 5092 multinuclear List  5093
+create-a-node-here really 55.15 92 {\nSo an investor }
+create-a-node-here really 55.91 93 {who wanted to realize a profit on OEX puts after the trading suspension }
+create-a-node-here really 55.123 94 {would have been out of luck.}
+autolink_nodes 92 93 satelite-embedded elaboration-object-attribute-e  5094
+autolink_nodes 94 5094 multinuclear Same-Unit  5095
+autolink_nodes 5093 5095 nucleus result  5096
+autolink_nodes 5090 5096 multinuclear List  5097
+create-a-node-here really 56.93 95 {\nOn the other hand, only a handful of individual issues were suspended from trading on Friday.}
+nextSentence really
+#disconnect_node 5096 disconnect
+#create-a-node-here really 57.67 96 {\nNormally, once the underlying investment is suspended from trading,}
+#create-a-node-here really 57.122 97 { the options on those investments also don't trade.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 57.67 96 {\nNormally, once the underlying investment is suspended from trading,}
+#create-a-node-here really 57.122 97 { the options on those investments also don't trade.}
+#autolink_nodes 96 97 nucleus circumstance  5098
+#autolink_nodes 95 5098 satelite elaboration-additional  5099
+#autolink_nodes 5096 5099 satelite antithesis  5100
+#autolink_nodes 5091 5100 satelite elaboration-additional  5101
+#autolink_nodes 5088 5101 satelite antithesis  5102
+#autolink_nodes 5020 5102 satelite elaboration-additional  5103
+#collapsed_nodes {5022 5024 5033 5055 5083 5035}
+#collapsed_nodes {5022 5024 5033 5055 5083 5035 5076}
+#collapsed_nodes {5022 5024 5033 5055 5083 5035 5076 5009}
+#collapsed_nodes {5022 5024 5033 5055 5083 5035 5076 5009 5005}
+#collapsed_nodes {5022 5024 5033 5055 5083 5035 5076 5009}
+#disconnect_node 5057 disconnect
+#disconnect_node 5005 disconnect
+#autolink_nodes 5002 5005 satelite elaboration-additional  5104
+#autolink_nodes 5003 5057 satelite elaboration-additional below 5105
+#collapsed_nodes {5022 5024 5033 5055 5083 5035 5076 5009 5057}
+#collapsed_nodes {5022 5024 5033 5055 5083 5035 5076 5009 5057 5101}
+#create-a-node-here really 59.34 98 { \n\nUltimately, whether the insurance }
+#create-a-node-here really 59.61 99 {provided by purchasing }
+#UNDID
+#create-a-node-here really 59.46 99 {provided}
+#create-a-node-here really 59.64 100 { by purchasing}
+#create-a-node-here really 59.124 101 { puts is worthwhile depends on the cost of the options.}
+#nextSentence really
+#autolink_nodes 99 100 satelite means  5106
+#autolink_nodes 98 5106 satelite-embedded elaboration-object-attribute-e  5107
+#autolink_nodes 101 5107 multinuclear Same-Unit  5108
+#create-a-node-here really 60.51 102 {\nThat cost rises in times of high market volatility.}
+#nextSentence really
+#create-a-node-here really 61.54 103 {\nBut it still might be cheaper than taking a major hit.}
+#nextSentence really
+#UNDID
+#UNDID
+#autolink_nodes 5108 102 satelite elaboration-additional  5109
+#create-a-node-here really 61.29 103 {\nBut it still might be cheaper}
+#create-a-node-here really 61.59 104 { than taking a major hit.}
+#autolink_nodes 103 104 satelite comparison  5110
+#autolink_nodes 102 5110 satelite antithesis  5111
+#create-a-node-here really 63.14 105 { \n\nThe protection}
+#create-a-node-here really 63.43 106 { from using married puts}
+#create-a-node-here really 63.76 107 { is clearly superior to that}
+#create-a-node-here really 63.118 108 { afforded by another options strategy}
+#create-a-node-here really 63.154 109 { some investors consider using }
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 63.66 105 { \n\nThe protection from using married puts is clearly superior to that}
+#create-a-node-here really 63.109 106 { afforded by another options strategy }
+#create-a-node-here really 63.166 107 {some investors consider using during troubled times:}
+#create-a-node-here really 63.202 108 { selling call options on stocks}
+#create-a-node-here really 63.226 109 { the investor owns.}
+#nextSentence really
+#autolink_nodes 108 109 satelite-embedded elaboration-object-attribute-e  5112
+#autolink_nodes 106 107 satelite-embedded elaboration-object-attribute-e  5113
+#autolink_nodes 105 5113 satelite-embedded elaboration-object-attribute-e  5114
+#autolink_nodes 5113 5112 satelite-embedded elaboration-object-attribute-e  5115
+#autolink_nodes 5109 5114 satelite elaboration-additional  5116
+#create-a-node-here really 64.34 110 {\nA call option is similar to a put,}
+#create-a-node-here really 64.80 111 { except that it gives its owner the right}
+#create-a-node-here really 64.135 112 { to buy shares at a stated price until expiration.}
+#nextSentence really
+#autolink_nodes 111 112 satelite-embedded elaboration-object-attribute-e  5117
+#autolink_nodes 110 5117 satelite antithesis  5118
+#autolink_nodes 5112 5118 satelite definition  5119
+#create-a-node-here really 66.86 113 { \n\nSelling a call option gives an investor a small buffer against a stock-market decline.}
+#nextSentence really
+#create-a-node-here really 67.73 114 {\nThat's because it reduces the cost of the stock by the amount of premium }
+#create-a-node-here really 67.113 115 {received from the sale of the call.}
+#nextSentence really
+#autolink_nodes 114 115 satelite-embedded elaboration-object-attribute-e  5120
+#autolink_nodes 113 5120 satelite explanation-argumentative  5121
+#change_rel 5120 reason
+#create-a-node-here really 68.73 116 {\nBut if the price of the stock rises above the strike price of the option,}
+#UNDID
+#create-a-node-here really 68.3 116 {\nBut}
+#create-a-node-here really 68.78 117 { if the price of the stock rises above the strike price of the option,}
+#create-a-node-here really 68.130 118 { the stock is almost certain to be called away.}
+#autolink_nodes 116 117 satelite-embedded condition-e  5122
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 68.73 116 {\nBut if the price of the stock rises above the strike price of the option,}
+#create-a-node-here really 68.125 117 { the stock is almost certain to be called away.}
+#UNDID
+#UNDID
+#collapsed_nodes {5022 5024 5033 5055 5083 5035 5076 5009 5057}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 59.11 98 { \n\nUltimately,}
+#UNDID
+#collapsed_nodes {5022 5024 5033 5055 5083 5035 5076 5009 5057}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 57.9 96 {\nNormally,}
+create-a-node-here really 57.71 97 { once the underlying investment is suspended from trading,}
+create-a-node-here really 57.126 98 { the options on those investments also don't trade.}
+autolink_nodes 96 97 satelite-embedded circumstance-e  5098
+autolink_nodes 98 5098 multinuclear Same-Unit  5099
+autolink_nodes 95 5099 satelite elaboration-additional  5100
+autolink_nodes 5096 5100 satelite antithesis  5101
+#disconnect_node 5090 disconnect
+#disconnect_node 5101 disconnect
+#UNDID
+#UNDID
+disconnect_node 5097 disconnect
+disconnect_node 5101 disconnect
+autolink_nodes 5089 5090 satelite example  5102
+autolink_nodes 5102 5101 satelite elaboration-additional  5103
+autolink_nodes 5088 5103 satelite antithesis  5104
+collapsed_nodes {5022 5024 5033 5055 5083 5035}
+collapsed_nodes {5022 5024 5033 5055 5083 5035 5057}
+autolink_nodes 5020 5104 satelite elaboration-additional  5105
+create-a-node-here really 59.33 99 { \n\nUltimately, whether the insurance}
+create-a-node-here really 59.47 100 { provided }
+create-a-node-here really 59.71 101 {by purchasing puts }
+create-a-node-here really 59.125 102 {is worthwhile depends on the cost of the options.}
+nextSentence really
+autolink_nodes 100 101 satelite means  5106
+autolink_nodes 99 5106 satelite-embedded elaboration-object-attribute-e  5107
+autolink_nodes 102 5107 multinuclear Same-Unit  5108
+create-a-node-here really 60.51 103 {\nThat cost rises in times of high market volatility.}
+nextSentence really
+autolink_nodes 5108 103 satelite elaboration-additional  5109
+create-a-node-here really 61.30 104 {\nBut it still might be cheaper }
+create-a-node-here really 61.59 105 {than taking a major hit.}
+nextSentence really
+autolink_nodes 104 105 satelite comparison  5110
+autolink_nodes 103 5110 satelite antithesis  5111
+create-a-node-here really 63.66 106 { \n\nThe protection from using married puts is clearly superior to that}
+create-a-node-here really 63.109 107 { afforded by another options strategy }
+create-a-node-here really 63.166 108 {some investors consider using during troubled times:}
+create-a-node-here really 63.203 109 { selling call options on stocks }
+create-a-node-here really 63.226 110 {the investor owns.}
+nextSentence really
+autolink_nodes 109 110 satelite-embedded elaboration-object-attribute-e  5112
+autolink_nodes 107 108 satelite-embedded elaboration-object-attribute-e  5113
+autolink_nodes 106 5113 satelite-embedded elaboration-object-attribute-e  5114
+autolink_nodes 5113 5112 satelite-embedded elaboration-object-attribute-e  5115
+create-a-node-here really 64.34 111 {\nA call option is similar to a put,}
+create-a-node-here really 64.80 112 { except that it gives its owner the right}
+create-a-node-here really 64.135 113 { to buy shares at a stated price until expiration.}
+nextSentence really
+autolink_nodes 112 113 satelite-embedded elaboration-object-attribute-e  5116
+autolink_nodes 111 5116 satelite antithesis  5117
+#autolink_nodes 5115 5117 satelite definition  5118
+#UNDID
+#autolink_nodes 5112 5117 satelite elaboration-additional  5118
+#UNDID
+autolink_nodes 5112 5117 satelite-embedded elaboration-additional-e  5118
+autolink_nodes 5109 5114 satelite elaboration-additional  5119
+create-a-node-here really 66.86 114 { \n\nSelling a call option gives an investor a small buffer against a stock-market decline.}
+create-a-node-here really 67.72 115 {\nThat's because it reduces the cost of the stock by the amount of premium}
+create-a-node-here really 67.113 116 { received from the sale of the call.}
+nextSentence really
+autolink_nodes 115 116 satelite-embedded elaboration-object-attribute-e  5120
+autolink_nodes 114 5120 satelite reason  5121
+create-a-node-here really 68.3 117 {\nBut}
+create-a-node-here really 68.78 118 { if the price of the stock rises above the strike price of the option,}
+create-a-node-here really 68.130 119 { the stock is almost certain to be called away.}
+nextSentence really
+autolink_nodes 117 118 satelite-embedded condition-e  5122
+autolink_nodes 119 5122 multinuclear Same-Unit  5123
+create-a-node-here really 69.67 120 {\nAnd in that case, the investor misses out on any major upside gain.}
+nextSentence really
+autolink_nodes 5123 120 satelite consequence-s  5124
+autolink_nodes 5121 5124 multinuclear Contrast  5125
+disconnect_node 5121 disconnect
+autolink_nodes 5124 5121 satelite antithesis  5126
+collapsed_nodes {5022 5024 5033 5055 5083 5035 5057 5118}
+collapsed_nodes {5022 5024 5033 5055 5083 5035 5057 5118 5121}
+autolink_nodes 5114 5126 satelite elaboration-additional  5127
+collapsed_nodes {5022 5024 5033 5055 5083 5035 5057 5118 5121 5104}
+autolink_nodes 5105 5119 satelite elaboration-additional  5128
+#create-a-node-here really 71.52 121 { \n\nThese calculations exclude the effect of commissions}
+#UNDID
+#create-a-node-here really 71.96 121 { \n\nThese calculations exclude the effect of commissions paid and dividends received from the stock.}
+#UNDID
+create-a-node-here really 71.72 121 { \n\nThese calculations exclude the effect of commissions paid and dividends }
+create-a-node-here really 71.101 122 {received from the stock.}
+autolink_nodes 121 122 satelite-embedded elaboration-object-attribute-e  5129
+create-a-node-here really 72.36 123 {\nAll prices are as of Monday's close.}
+nextSentence really
+autolink_nodes 5129 123 satelite elaboration-additional  5130
+collapsed_nodes {5022 5024 5033 5055 5083 5035 5057 5118 5121 5104 5119}
+autolink_nodes 5130 5128 multinuclear Topic-Shift  5131
+collapsed_nodes {5083 5118 5121 5104 5119}
+collapsed_nodes {5118 5121 5119}
+collapsed_nodes {}
+disconnect_node 5120 modify
+autolink_nodes 114 5120 satelite explanation-argumentative  5132
+disconnect_node 74 modify
+autolink_nodes 73 74 satelite preference below 5133

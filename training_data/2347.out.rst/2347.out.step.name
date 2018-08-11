@@ -1,0 +1,265 @@
+nextSentence really
+create-a-node-here really 2.90 1 {\nWhen Justice William Brennan marks the start of his 34th year on the Supreme Court today, }
+create-a-node-here really 2.168 2 {the occasion will differ sharply from previous anniversaries of his tenure.}
+nextSentence really
+autolink_nodes 1 2 satelite temporal-same-time  5001
+create-a-node-here really 4.147 3 { \n\nFor the first time, the 83-year-old justice finds his influence almost exclusively in dissent, rather than as a force in the high court's majority.}
+nextSentence really
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+create-a-node-here really 5.143 4 {\nThis role reversal holds true, as well, for his three liberal and moderate allies, Justices Thurgood Marshall, Harry Blackmun and John Stevens.}
+nextSentence really
+autolink_nodes 3 4 satelite elaboration-set-member  5003
+create-a-node-here really 7.148 5 { \n\nBut are these four players, three of them in their 80s, ready to assume a different role after 88 years, collectively, of service on the high court?}
+nextSentence really
+create-a-node-here really 9.72 6 { \n\nEvery indication is that the four are prepared to accept this new role, }
+autolink_nodes 5 6 multinuclear Question-Answer  5004
+autolink_nodes 5002 5004 satelite explanation-argumentative  5005
+create-a-node-here really 9.96 7 {and the frustrations }
+#autolink_nodes 6 7 multinuclear List  5006
+#create-a-node-here really 9.115 8 {that go with it,}
+#autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5007
+#create-a-node-here really 9.141 9 { but in different ways.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 9.115 8 {that go with it,}
+#autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+#create-a-node-here really 10.0 9 { but in different ways.\n}
+#autolink_nodes 5006 9 multinuclear Same-Unit  5007
+#autolink_nodes 6 5007 multinuclear Same-Unit  5008
+#UNDID
+#autolink_nodes 6 5007 multinuclear Same-Unit  5008
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 6 7 multinuclear Same-Unit  5006
+create-a-node-here really 9.116 8 {that go with it, }
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5007
+create-a-node-here really 10.0 9 {but in different ways.\n}
+autolink_nodes 5006 9 multinuclear Same-Unit below 5007
+create-a-node-here really 10.63 10 {Justices Brennan and Stevens appear philosophical about it; }
+autolink_nodes 5004 10 satelite elaboration-additional  5008
+create-a-node-here really 10.118 11 {Justices Marshall and Blackmun appear fighting mad.}
+nextSentence really
+autolink_nodes 10 11 multinuclear Contrast  5009
+create-a-node-here really 12.47 12 { \n\nThe four justices are no newcomers to dissent, }
+autolink_nodes 5005 12 satelite background  5010
+create-a-node-here really 12.91 13 {often joining forces in the past decade }
+autolink_nodes 12 13 satelite elaboration-additional  5011
+create-a-node-here really 12.139 14 {to criticize the court's conservative drift.}
+nextSentence really
+autolink_nodes 13 14 satelite purpose  5012
+create-a-node-here really 13.54 15 {\nBut always, in years past, they have bucked the trend }
+autolink_nodes 5011 15 satelite antithesis  5013
+create-a-node-here really 13.101 16 {and have been able to pick up a fifth vote }
+autolink_nodes 15 16 multinuclear List  5014
+create-a-node-here really 13.180 17 {to eke out a number of major victories in civil rights and liberties cases.}
+nextSentence really
+autolink_nodes 16 17 satelite purpose  5015
+create-a-node-here really 14.14 18 {\nNow, however, }
+autolink_nodes 5013 18 satelite concession  5016
+create-a-node-here really 14.94 19 {as the court's new five-member conservative majority continues to solidify, }
+autolink_nodes 18 19 satelite temporal-same-time  5017
+create-a-node-here really 14.134 20 {victories for the liberals are rare.}
+nextSentence really
+autolink_nodes 5017 20 multinuclear Same-Unit  5018
+create-a-node-here really 16.133 21 { \n\nThe change is most dramatic for Justice Brennan, the last survivor of the mid-1960s liberal majority under Chief Justice Earl Warren.}
+nextSentence really
+autolink_nodes 5010 21 satelite evidence  5019
+create-a-node-here really 17.182 22 {\nIn the seven Supreme Court terms from the fall of 1962 through the spring of 1967, the height of the Warren Court's power, Justice Brennan cast only 25 dissenting votes in 555 cases }
+autolink_nodes 21 22 satelite background  5020
+create-a-node-here really 17.207 23 {decided by the court.}
+nextSentence really
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5021
+create-a-node-here really 18.127 24 {\nLast term alone he cast 52 dissenting votes in 133 decisions, with the contentious flag-burning ruling as his only big victory.}
+nextSentence really
+autolink_nodes 5021 24 multinuclear Contrast  5022
+create-a-node-here really 20.42 25 { \n\nBut Justice Brennan foresaw his new role, }
+autolink_nodes 5020 25 satelite elaboration-additional  5023
+create-a-node-here really 20.109 26 {strongly defending the importance of dissents in a 1985 speech.}
+nextSentence really
+autolink_nodes 25 26 satelite temporal-same-time  5024
+create-a-node-here really 20.125 27 { "Each time }
+create-a-node-here really 20.158 28 {the court revisits an issue, }
+autolink_nodes 27 28 satelite-embedded elaboration-object-attribute-e  5025
+create-a-node-here really 20.271 29 {the justices will be forced by a dissent to reconsider the fundamental questions and to rethink the result," }
+autolink_nodes 5024 5025 satelite example  5026
+create-a-node-here really 20.283 30 {he said.}
+nextSentence really
+autolink_nodes 5025 29 multinuclear List  5027
+autolink_nodes 5027 30 satelite attribution  5028
+create-a-node-here really 21.39 31 {\nMoreover, in recent months he has said }
+autolink_nodes 5028 31 multinuclear List  5029
+create-a-node-here really 21.48 32 {that }
+autolink_nodes 31 32 nucleus attribution  5030
+create-a-node-here really 21.98 33 {when he was on the winning side in the 1960s, }
+autolink_nodes 32 33 satelite temporal-same-time below 5031
+create-a-node-here really 21.110 34 {he knew }
+#create-a-node-here really 21.155 35 {that the tables might turn in the future.}
+#nextSentence really
+#autolink_nodes 34 35 nucleus attribution  5032
+#disconnect_node 33 modify
+#autolink_nodes 5032 33 satelite temporal-same-time  5033
+#UNDID
+#autolink_nodes 34 33 satelite temporal-same-time  5033
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 5031 34 multinuclear Same-Unit  5032
+create-a-node-here really 22.0 35 {that the tables might turn in the future.\n}
+autolink_nodes 5032 35 nucleus attribution  5033
+#create-a-node-here really 22.20 36 {He has said that}
+#autolink_nodes 5030 36 satelite elaboration-additional  5034
+#UNDID
+#UNDID
+create-a-node-here really 22.16 36 {He has said }
+autolink_nodes 5030 36 satelite elaboration-additional  5034
+create-a-node-here really 22.38 37 {that he now knows }
+autolink_nodes 36 37 nucleus attribution  5035
+create-a-node-here really 22.117 38 {how Justice John Harlan felt, a reference to the late conservative justice }
+autolink_nodes 37 38 satelite-embedded elaboration-additional-e below 5036
+create-a-node-here really 22.190 39 {who was the most frequent dissenter from the Warren Court's opinions.}
+nextSentence really
+autolink_nodes 38 39 satelite-embedded elaboration-additional-e  5037
+change_rel 5037 elaboration-object-attribute-e
+change_rel 5037 enablement-e
+create-a-node-here really 24.47 40 { \n\nAssociates of 81-year-old Justice Marshall say }
+autolink_nodes 5029 40 multinuclear List above 5038
+create-a-node-here really 24.110 41 {he was "depressed" about the court's direction last spring,}
+autolink_nodes 40 41 nucleus attribution  5039
+create-a-node-here really 24.144 42 { but is feisty about his role }
+autolink_nodes 41 42 satelite antithesis below 5040
+create-a-node-here really 24.221 43 {and determined to speak out against the court's cutbacks in civil rights.}
+nextSentence really
+autolink_nodes 42 43 multinuclear List  5041
+create-a-node-here really 24.259 44 { "We could sweep it under the rug }
+#autolink_nodes 5041 44 satelite topic-shift  5042
+#UNDID
+autolink_nodes 5041 44 satelite restatement  5042
+create-a-node-here really 24.276 45 {and hide it, }
+autolink_nodes 44 45 multinuclear List  5043
+create-a-node-here really 24.309 46 {but I'm not going to do it," }
+autolink_nodes 5043 46 multinuclear Contrast above 5044
+create-a-node-here really 25.0 47 {he said in a speech last month. \n}
+autolink_nodes 5044 47 satelite attribution  5045
+create-a-node-here really 26.86 48 {\nHe, like Justice Brennan, considers dissents highly important for the future, a point }
+autolink_nodes 5039 48 satelite elaboration-additional  5046
+create-a-node-here really 26.125 49 {that hasn't escaped legal scholars.}
+nextSentence really
+autolink_nodes 48 49 satelite elaboration-object-attribute  5047
+create-a-node-here really 27.49 50 {\nHarvard Law School Professor Laurence Tribe says }
+autolink_nodes 5047 50 satelite explanation-argumentative  5048
+create-a-node-here really 27.113 51 {there is a "generation-skipping" flavor to current dissents.}
+nextSentence really
+autolink_nodes 50 51 nucleus attribution  5049
+create-a-node-here really 28.35 52 {\nThe dissenters in the Warren Court,}
+autolink_nodes 5049 52 satelite elaboration-additional  5050
+create-a-node-here really 28.49 53 { he says, }
+autolink_nodes 52 53 satelite attribution  5051
+create-a-node-here really 28.96 54 {appeared to be writing for the short-term, }
+autolink_nodes 5051 54 multinuclear Same-Unit  5052
+create-a-node-here really 28.111 55 {suggesting }
+autolink_nodes 54 55 satelite elaboration-additional  5053
+create-a-node-here really 28.160 56 {that the court's direction might change soon.}
+nextSentence really
+autolink_nodes 55 56 nucleus attribution  5054
+create-a-node-here really 28.245 57 { "Brennan and Marshall are speaking in their dissents to a more distant future," }
+autolink_nodes 5054 57 satelite restatement  5055
+create-a-node-here really 28.257 58 {he says.}
+nextSentence really
+autolink_nodes 57 58 satelite attribution  5056
+create-a-node-here really 30.18 59 { \n\nJustice Blackmun, }
+autolink_nodes 5038 59 multinuclear List below 5056
+create-a-node-here really 30.51 60 {who will turn 81 next month, }
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5057
+create-a-node-here really 30.92 61 {also seems feisty about his new role.}
+nextSentence really
+autolink_nodes 5057 61 multinuclear Same-Unit  5058
+create-a-node-here really 31.15 62 {\nAssociates say }
+autolink_nodes 5058 62 satelite elaboration-additional  5059
+create-a-node-here really 31.98 63 {he takes some defeats more personally than his colleagues, especially attempts }
+autolink_nodes 62 63 nucleus attribution  5060
+create-a-node-here really 31.135 64 {to curtail the right to abortion }
+autolink_nodes 63 64 satelite-embedded elaboration-object-attribute-e below 5061
+create-a-node-here really 32.5 65 {first recognized in his 1973 opinion, Roe vs.\nWade.}
+nextSentence really
+autolink_nodes 64 65 satelite-embedded elaboration-additional-e  5062
+create-a-node-here really 34.23 66 { \n\nFriends and associates }
+autolink_nodes 5059 66 satelite elaboration-additional  5063
+create-a-node-here really 34.70 67 {who saw Justice Blackmun during the summer }
+autolink_nodes 66 67 satelite-embedded elaboration-object-attribute-e  5064
+create-a-node-here really 34.79 68 {said }
+autolink_nodes 5064 68 multinuclear Same-Unit  5065
+create-a-node-here really 34.147 69 {he was no more discouraged about the court than in recent years.}
+nextSentence really
+autolink_nodes 5065 69 nucleus attribution  5066
+create-a-node-here really 35.69 70 {\nAnd his outlook improved after successful cataract surgery in August.}
+nextSentence really
+#autolink_nodes 5066 70 multinuclear List  5067
+#UNDID
+autolink_nodes 69 70 multinuclear List  5067
+create-a-node-here really 38.0 71 { \n\nBut his level of frustration showed in a recent, impassioned speech to a group of hundreds of lawyers in Chicago.\n}
+autolink_nodes 5066 71 satelite antithesis  5068
+create-a-node-here really 38.29 72 {He concluded his remarks }
+autolink_nodes 71 72 satelite elaboration-additional  5069
+create-a-node-here really 38.77 73 {by quoting, emotionally and at some length, }
+autolink_nodes 72 73 satelite means  5070
+create-a-node-here really 38.109 74 {according to those present, }
+#autolink_nodes 73 74 satelite attribution  5071
+#UNDID
+autolink_nodes 73 74 satelite attribution  5071
+create-a-node-here really 38.208 75 {the late Martin Luther King's famous "I Have a Dream" speech from the 1963 March on Washington.}
+nextSentence really
+autolink_nodes 5071 75 multinuclear Same-Unit  5072
+create-a-node-here really 40.90 76 { \n\nJustice Stevens, 69, is probably the most philosophical of the dissenters about his role, }
+autolink_nodes 5038 76 multinuclear List below 5072
+create-a-node-here really 40.151 77 {in part because he may be the least liberal of the four, }
+autolink_nodes 76 77 satelite reason  5073
+create-a-node-here really 40.209 78 {but also because he enjoys the intellectual challenge }
+autolink_nodes 77 78 multinuclear List  5074
+create-a-node-here really 40.242 79 {of arguing with the majority }
+autolink_nodes 78 79 satelite-embedded elaboration-object-attribute-e  5075
+create-a-node-here really 40.267 80 {more than the others.}
+nextSentence really
+autolink_nodes 5075 80 multinuclear Same-Unit  5076
+create-a-node-here really 42.12 81 { \n\nIf the role }
+autolink_nodes 5019 81 satelite summary-s  5077
+create-a-node-here really 42.51 82 {these four dissenters are assuming }
+autolink_nodes 81 82 satelite-embedded elaboration-object-attribute-e  5078
+create-a-node-here really 42.106 83 {is a familiar one in modern Supreme Court history, }
+autolink_nodes 5078 83 multinuclear Same-Unit  5079
+create-a-node-here really 42.167 84 {it also differs in an important way from recent history, }
+autolink_nodes 5079 84 nucleus condition  5080
+create-a-node-here really 42.190 85 {court watchers say.}
+nextSentence really
+autolink_nodes 84 85 satelite attribution above 5080
+create-a-node-here really 42.267 86 { "The dissenters of the Warren Court were often defending a legal legacy }
+autolink_nodes 5080 86 satelite elaboration-additional  5081
+create-a-node-here really 42.293 87 {that they inherited," }
+autolink_nodes 86 87 satelite-embedded elaboration-object-attribute-e  5082
+create-a-node-here really 43.59 88 {says Prof.\nA.E. Dick Howard of the University of Virginia Law School, }
+autolink_nodes 5082 88 satelite attribution  5083
+create-a-node-here really 43.112 89 {"but the dissenters today are defending a legacy }
+autolink_nodes 5082 89 multinuclear Contrast  5084
+create-a-node-here really 43.135 90 {that they created."}
+nextSentence really
+autolink_nodes 89 90 satelite-embedded elaboration-object-attribute-e  5085
+disconnect_node 88 modify
+autolink_nodes 5084 88 satelite attribution  5086
+nextSentence really
+nextSentence really
+collapsed_nodes {5077}
+nextSentence really
+nextSentence really
+collapsed_nodes {}
+disconnect_node 85 modify
+autolink_nodes 5080 85 satelite attribution below 5087
+disconnect_node 88 modify
+autolink_nodes 5082 88 satelite attribution  5088

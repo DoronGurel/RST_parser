@@ -1,0 +1,353 @@
+nextSentence really
+create-a-node-here really 2.72 1 {\nPension funds, insurers and other behemoths of the investing world said }
+create-a-node-here really 2.133 2 {they began scooping up stocks during Friday's market rout.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 3.32 3 {\nAnd they plan to buy more today.}
+nextSentence really
+autolink_nodes 5001 3 satelite elaboration-additional  5002
+create-a-node-here really 5.92 4 { \n\nRightly or wrongly, many giant institutional investors appear to be fighting the latest war }
+autolink_nodes 5002 4 satelite explanation-argumentative  5003
+create-a-node-here really 5.118 5 {by applying the lesson }
+autolink_nodes 4 5 satelite means  5004
+create-a-node-here really 5.160 6 {they learned in the October 1987 crash:}
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 5.194 7 { Buying at the bottom pays off.}
+nextSentence really
+autolink_nodes 5005 7 satelite-embedded elaboration-general-specific-e  5006
+create-a-node-here really 7.12 8 { \n\nTo be sure, }
+autolink_nodes 5003 8 satelite elaboration-additional  5007
+create-a-node-here really 7.72 9 {big investors might put away their checkbooks in a hurry }
+autolink_nodes 8 9 nucleus comment  5008
+create-a-node-here really 7.110 10 {if stocks open sharply lower today.}
+nextSentence really
+autolink_nodes 9 10 satelite condition below 5009
+create-a-node-here really 8.23 11 {\nThey could still panic }
+autolink_nodes 5008 11 satelite hypothetical  5010
+create-a-node-here really 8.54 12 {and bail out of the market.}
+nextSentence really
+autolink_nodes 11 12 multinuclear List  5011
+create-a-node-here really 9.36 13 {\nBut their 1987 performance indicates}
+autolink_nodes 5011 13 nucleus concession  5012
+create-a-node-here really 9.72 14 { that they won't abandon stocks }
+autolink_nodes 13 14 nucleus attribution  5013
+create-a-node-here really 9.108 15 {unless conditions get far worse.}
+nextSentence really
+autolink_nodes 14 15 satelite condition below 5014
+create-a-node-here really 11.60 16 { \n\n"Last time, we got rewarded for going out and buying stocks }
+autolink_nodes 5013 16 satelite example below 5015
+create-a-node-here really 11.95 17 {when the panic was the worst," }
+autolink_nodes 16 17 satelite circumstance  5016
+create-a-node-here really 11.178 18 {said John W. Rogers, president of Chicago-based Ariel Capital Management Inc., }
+autolink_nodes 5016 18 satelite attribution  5017
+create-a-node-here really 11.219 19 {which manages $1.1 billion of stocks.}
+nextSentence really
+autolink_nodes 18 19 satelite-embedded elaboration-additional-e  5018
+create-a-node-here really 13.70 20 { \n\nMr. Rogers spent half his cash on hand Friday for "our favorite stocks}
+autolink_nodes 5017 20 satelite elaboration-additional  5019
+create-a-node-here really 13.99 21 { that have fallen apart."}
+nextSentence really
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5020
+create-a-node-here really 13.133 22 { He expects to invest the rest}
+autolink_nodes 5020 22 satelite elaboration-additional  5021
+create-a-node-here really 13.168 23 { if the market weakens further.}
+nextSentence really
+autolink_nodes 22 23 satelite condition  5022
+collapsed_nodes {5018}
+collapsed_nodes {5018 5021}
+collapsed_nodes {5018 5021 5017}
+create-a-node-here really 15.58 24 { \n\nDenver-based portfolio manager James Craig wasn't daunted }
+autolink_nodes 5019 24 multinuclear List  5023
+create-a-node-here really 15.145 25 {when Friday's rout shaved $40 million from the value of the $752 million Janus Fund}
+autolink_nodes 24 25 satelite circumstance  5024
+create-a-node-here really 15.162 26 { he oversees.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5025
+create-a-node-here really 15.177 27 { "I waited }
+autolink_nodes 5024 27 satelite explanation-argumentative  5026
+create-a-node-here really 15.194 28 {to make sure }
+autolink_nodes 27 28 satelite purpose  5027
+create-a-node-here really 15.242 29 {all the program trades had kicked through," }
+autolink_nodes 28 29 nucleus attribution  5028
+create-a-node-here really 15.254 30 {he said.}
+nextSentence really
+autolink_nodes 5027 30 satelite attribution  5029
+create-a-node-here really 16.32 31 {\nThen he jumped into the market: }
+autolink_nodes 5029 31 multinuclear Sequence  5030
+create-a-node-here really 16.80 32 {"I spent $30 million in the last half-hour."}
+nextSentence really
+autolink_nodes 31 32 satelite explanation-argumentative  5031
+collapsed_nodes {5018 5021 5017 5030}
+collapsed_nodes {5018 5021 5017 5030 5026}
+create-a-node-here really 18.47 33 { \n\nOther money managers also opened their wallets.}
+nextSentence really
+autolink_nodes 5023 33 multinuclear List below 5031
+create-a-node-here really 18.79 34 { "I was buying at the close }
+autolink_nodes 33 34 satelite explanation-argumentative  5032
+create-a-node-here really 18.92 35 {(Friday) }
+autolink_nodes 34 35 satelite-embedded elaboration-general-specific-e  5033
+create-a-node-here really 18.121 36 {and I'll be buying again }
+autolink_nodes 5033 36 multinuclear List  5034
+create-a-node-here really 18.167 37 {because I know we're getting good value," }
+autolink_nodes 36 37 satelite reason  5035
+create-a-node-here really 18.254 38 {said Frederick A. Moran, president of Moran Asset Management Inc., Greenwich, Conn.}
+nextSentence really
+autolink_nodes 5034 38 satelite attribution  5036
+create-a-node-here really 18.327 39 { "There is no justification on the fundamental level for this crash."}
+nextSentence really
+autolink_nodes 5036 39 satelite elaboration-additional  5037
+collapsed_nodes {5018 5021 5017 5030 5026 5037}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003}
+create-a-node-here really 20.21 40 { \n\nUnlike mutual funds, }
+autolink_nodes 5007 40 satelite elaboration-additional  5038
+create-a-node-here really 20.66 41 {which can be forced to sell stockholdings}
+autolink_nodes 40 41 satelite-embedded elaboration-additional-e  5039
+create-a-node-here really 20.109 42 { when investors rush to withdraw money,}
+autolink_nodes 41 42 satelite circumstance  5040
+create-a-node-here really 20.210 43 { big investors such as pension funds and insurance companies can decide to ride out market storms}
+autolink_nodes 5039 43 multinuclear Same-Unit  5041
+create-a-node-here really 20.241 44 { without jettisoning stock.}
+nextSentence really
+autolink_nodes 43 44 satelite manner  5042
+create-a-node-here really 21.30 45 {\nMost often, they do just that,}
+autolink_nodes 5041 45 satelite elaboration-additional  5043
+create-a-node-here really 21.109 46 { because stocks have proved to be the best-performing long-term investment,}
+autolink_nodes 45 46 satelite reason  5044
+create-a-node-here really 21.168 47 { attracting about $1 trillion from pension funds alone.}
+nextSentence really
+autolink_nodes 46 47 multinuclear Cause-Result  5045
+create-a-node-here really 23.32 48 { \n\n"If you bought after the crash, }
+autolink_nodes 5043 48 satelite elaboration-additional  5046
+create-a-node-here really 23.76 49 {you did very very well off the bottom," }
+autolink_nodes 48 49 nucleus condition  5047
+create-a-node-here really 24.0 50 {said Stephen B. Timbers, chief investment officer of Chicago-based Kemper Financial Services Inc.\n}
+autolink_nodes 5047 50 satelite attribution  5048
+create-a-node-here really 24.130 51 {The $56 billion California Public Employees Retirement System, for one, added $1 billion to its stock portfolio two years ago.}
+nextSentence really
+autolink_nodes 5048 51 satelite elaboration-additional  5049
+create-a-node-here really 26.47 52 { \n\n"The last crash taught institutional investors }
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044}
+autolink_nodes 5046 52 satelite explanation-argumentative  5050
+create-a-node-here really 26.91 53 {that they have to be long-term holders, }
+autolink_nodes 52 53 nucleus attribution  5051
+create-a-node-here really 26.156 54 {and that they can't react to short-term events, good or bad,"}
+autolink_nodes 53 54 multinuclear List  5052
+create-a-node-here really 26.279 55 { said Stephen L. Nesbitt, senior vice president for the pension consultants Wilshire Associates in Santa Monica, Calif.}
+nextSentence really
+autolink_nodes 5051 55 satelite attribution  5053
+create-a-node-here really 26.291 56 { "Those }
+autolink_nodes 5053 56 satelite elaboration-additional  5054
+create-a-node-here really 26.311 57 {that pulled out }
+autolink_nodes 56 57 satelite-embedded elaboration-object-attribute-e  5055
+create-a-node-here really 26.327 58 {(of stocks) }
+autolink_nodes 57 58 satelite-embedded elaboration-general-specific-e  5056
+create-a-node-here really 26.345 59 {regretted it,"}
+autolink_nodes 5055 59 multinuclear Same-Unit  5057
+create-a-node-here really 26.359 60 { he said, }
+autolink_nodes 5057 60 satelite attribution  5058
+create-a-node-here really 26.375 61 {"so I doubt }
+autolink_nodes 5058 61 satelite cause  5059
+create-a-node-here really 26.443 62 {you'll see any significant changes" in institutional portfolios }
+autolink_nodes 61 62 nucleus attribution  5060
+create-a-node-here really 26.479 63 {as a result of Friday's decline.}
+nextSentence really
+autolink_nodes 62 63 satelite result below 5061
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007}
+create-a-node-here really 28.7 64 { \n\nStocks,}
+autolink_nodes 5038 64 multinuclear Topic-Drift  5062
+create-a-node-here really 28.66 65 { as measured by the Standard & Poor's 500-stock index, }
+create-a-node-here really 28.110 66 {have been stellar performers this year, }
+#autolink_nodes 65 66 nucleus OTHER-rel  5063
+#UNDID
+autolink_nodes 65 66 nucleus OTHER-rel  5063
+autolink_nodes 64 5063 multinuclear Same-Unit  5064
+create-a-node-here really 28.152 67 {rising 27.97% before Friday's plunge, }
+autolink_nodes 5064 67 satelite elaboration-additional  5065
+create-a-node-here really 28.176 68 {excluding dividends.}
+nextSentence really
+autolink_nodes 67 68 satelite elaboration-part-whole  5066
+create-a-node-here really 29.120 69 {\nEven Friday's slump leaves investors ahead more than 20%, well above the annual average for stocks over several decades.}
+nextSentence really
+autolink_nodes 5065 69 satelite elaboration-additional  5067
+create-a-node-here really 31.30 70 { \n\n"You could go down 400 points }
+autolink_nodes 5067 70 satelite explanation-argumentative  5068
+create-a-node-here really 31.77 71 {and still have a good year in the market," }
+autolink_nodes 70 71 nucleus concession  5069
+create-a-node-here really 31.146 72 {said James D. Awad, president of New York-based BMI Capital Corp.}
+autolink_nodes 5069 72 satelite attribution  5070
+create-a-node-here really 33.27 73 { \n\nMr. Awad, however, worries }
+#autolink_nodes 5070 73 nucleus antithesis  5071
+#UNDID
+create-a-node-here really 34.0 74 {that the market "could go down 800 or 900 points in the next few days.\n}
+autolink_nodes 5070 73 nucleus antithesis  5071
+autolink_nodes 73 74 nucleus attribution  5072
+create-a-node-here really 34.18 75 {It can happen }
+autolink_nodes 5072 75 satelite hypothetical below 5073
+create-a-node-here really 34.50 76 {before you can turn around."}
+nextSentence really
+autolink_nodes 75 76 multinuclear Sequence  5074
+create-a-node-here really 34.63 77 { He said }
+autolink_nodes 5071 77 satelite elaboration-additional  5075
+create-a-node-here really 34.105 78 {he discerns many parallels with 1987, }
+autolink_nodes 77 78 nucleus attribution  5076
+create-a-node-here really 34.204 79 {including the emphasis on takeover stocks and the re-emergence of computerized program trading.}
+nextSentence really
+autolink_nodes 78 79 satelite-embedded elaboration-set-member-e below 5077
+create-a-node-here really 34.242 80 { "The only thing you don't have," }
+autolink_nodes 5076 80 nucleus concession  5078
+create-a-node-here really 34.254 81 {he said,}
+autolink_nodes 80 81 satelite attribution below 5079
+create-a-node-here really 34.300 82 { "is the `portfolio insurance' phenomenon }
+autolink_nodes 5079 82 multinuclear Same-Unit  5080
+create-a-node-here really 34.326 83 {overlaid on the rest."}
+nextSentence really
+autolink_nodes 5080 83 satelite-embedded elaboration-object-attribute-e below 5081
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007 5078}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007 5078 5075}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007 5078 5075 5068}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007 5078 5075 5068 5038}
+create-a-node-here really 36.87 84 { \n\nMost institutional investors have abandoned the portfolio insurance hedging technique, }
+autolink_nodes 5062 84 multinuclear Topic-Drift below 5081
+create-a-node-here really 36.147 85 {which is widely thought to have worsened the 1987 crash.}
+nextSentence really
+autolink_nodes 84 85 satelite-embedded elaboration-additional-e  5082
+create-a-node-here really 37.47 86 {\nNot really insurance, this tactic was designed }
+autolink_nodes 5082 86 satelite elaboration-general-specific  5083
+create-a-node-here really 37.95 87 {to soften the blow of declining stock prices}
+autolink_nodes 86 87 satelite purpose  5084
+create-a-node-here really 37.134 88 { and generate an offsetting profit }
+autolink_nodes 87 88 multinuclear List  5085
+create-a-node-here really 37.180 89 {by selling waves of S&P futures contracts.}
+nextSentence really
+autolink_nodes 5085 89 satelite means  5086
+create-a-node-here really 38.102 90 {\nIn its severest test, the $60 billion of portfolio insurance in effect in the 1987 crash didn't work, }
+autolink_nodes 5084 90 satelite elaboration-additional  5087
+create-a-node-here really 38.133 91 {as stock buyers disappeared}
+autolink_nodes 90 91 satelite circumstance  5088
+create-a-node-here really 38.187 92 { and stock and futures prices became disconnected.}
+nextSentence really
+autolink_nodes 91 92 multinuclear List  5089
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007 5078 5075 5068 5038 5084}
+create-a-node-here really 40.33 93 { \n\nEven without portfolio insurance,}
+autolink_nodes 5083 93 multinuclear Topic-Drift  5090
+create-a-node-here really 40.74 94 { market conditions were grim Friday, }
+autolink_nodes 93 94 nucleus concession  5091
+create-a-node-here really 40.98 95 {money managers said.}
+nextSentence really
+autolink_nodes 5091 95 satelite attribution  5092
+create-a-node-here really 41.13 96 {\nNeil Weisman,}
+autolink_nodes 5092 96 satelite elaboration-additional  5093
+create-a-node-here really 41.144 97 { whose New York-based Chilmark Capital Partners had converted 85% of its $220 million investment pool to cash in recent months,}
+autolink_nodes 96 97 satelite-embedded elaboration-additional-e  5094
+create-a-node-here really 41.154 98 { said }
+autolink_nodes 5094 98 multinuclear Same-Unit  5095
+create-a-node-here really 41.202 99 {he was besieged by Wall Street firms Friday }
+autolink_nodes 5095 99 nucleus attribution  5096
+create-a-node-here really 41.247 100 {asking him to take stock off their hands.}
+nextSentence really
+autolink_nodes 99 100 satelite-embedded elaboration-object-attribute-e below 5097
+create-a-node-here really 43.36 101 { \n\n"We got calls from big block houses }
+autolink_nodes 5096 101 satelite explanation-argumentative  5098
+create-a-node-here really 43.51 102 {asking us }
+autolink_nodes 101 102 satelite-embedded elaboration-object-attribute-e  5099
+create-a-node-here really 43.93 103 {if we want to make bids on anything,"}
+autolink_nodes 102 103 nucleus attribution  5100
+create-a-node-here really 43.117 104 { said Mr. Weisman, }
+autolink_nodes 5099 104 satelite attribution  5101
+create-a-node-here really 43.165 105 {who, happy with his returns on investments }
+autolink_nodes 104 105 satelite-embedded elaboration-additional-e  5102
+create-a-node-here really 43.189 106 {chalked up earlier,}
+autolink_nodes 105 106 satelite-embedded elaboration-object-attribute-e  5103
+create-a-node-here really 43.215 107 { declined the offers.}
+nextSentence really
+autolink_nodes 5103 107 multinuclear Same-Unit  5104
+create-a-node-here really 45.21 108 { \n\nMr. Weisman predicts }
+autolink_nodes 5101 108 satelite elaboration-additional  5105
+create-a-node-here really 45.79 109 {stocks will appear to stabilize in the next few days }
+autolink_nodes 108 109 nucleus attribution  5106
+create-a-node-here really 45.108 110 {before declining again, }
+autolink_nodes 109 110 multinuclear Sequence  5107
+create-a-node-here really 45.137 111 {trapping more investors.}
+nextSentence really
+autolink_nodes 5107 111 satelite cause below 5108
+create-a-node-here really 45.152 112 { "I think }
+autolink_nodes 5106 112 satelite elaboration-additional  5109
+create-a-node-here really 45.191 113 {it will be a rigor mortis rally," }
+autolink_nodes 112 113 nucleus attribution  5110
+create-a-node-here really 45.204 114 {he said.}
+nextSentence really
+autolink_nodes 5110 114 satelite attribution  5111
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007 5078 5075 5068 5038 5084 5109}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007 5078 5075 5068 5038 5084 5109 5102}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007 5078 5075 5068 5038 5084 5109 5102 5105}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007 5078 5075 5068 5038 5084 5109 5102 5105 5098}
+create-a-node-here really 46.56 115 {\nMeanwhile, Friday brought a reprieve for money managers }
+autolink_nodes 5093 115 satelite elaboration-additional  5112
+create-a-node-here really 46.128 116 {whose investment styles had put them at odds with the market rally.}
+nextSentence really
+autolink_nodes 115 116 satelite-embedded elaboration-object-attribute-e  5113
+create-a-node-here really 47.42 117 {\nEspecially gleeful were the short sellers,}
+autolink_nodes 5113 117 satelite elaboration-set-member  5114
+create-a-node-here really 47.98 118 { who have been pounded by this year's market climb.}
+nextSentence really
+autolink_nodes 117 118 satelite-embedded elaboration-additional-e  5115
+create-a-node-here really 49.32 119 { \n\nThe shorts sell borrowed shares,}
+autolink_nodes 5115 119 satelite definition  5116
+create-a-node-here really 49.54 120 { hoping to profit}
+autolink_nodes 119 120 satelite reason  5117
+create-a-node-here really 49.101 121 { by replacing them later at a lower price.}
+nextSentence really
+autolink_nodes 120 121 satelite means  5118
+#create-a-node-here really 50.84 122 {\nThe nation's largest short-selling operation is Feshbach Brothers, Palo Alto, Calif.}
+#nextSentence really
+#autolink_nodes 5116 122 satelite example  5119
+#create-a-node-here really 50.111 123 {, which said last May }
+#autolink_nodes 122 123 satelite elaboration-additional  5120
+#create-a-node-here really 50.195 124 {that its short positions had shown losses of 10% for the year up to that point.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 50.85 122 {\nThe nation's largest short-selling operation is Feshbach Brothers, Palo Alto, Calif.,}
+autolink_nodes 5116 122 satelite example  5119
+create-a-node-here really 50.111 123 { which said last May }
+autolink_nodes 122 123 satelite elaboration-additional  5120
+create-a-node-here really 50.195 124 {that its short positions had shown losses of 10% for the year up to that point.}
+nextSentence really
+autolink_nodes 123 124 nucleus attribution  5121
+create-a-node-here really 52.25 125 { \n\nAll that now has changed.}
+nextSentence really
+autolink_nodes 5120 125 nucleus concession  5122
+create-a-node-here really 52.57 126 { "We're ahead for the year }
+autolink_nodes 125 126 satelite explanation-argumentative below 5123
+create-a-node-here really 52.82 127 {because of Friday," }
+autolink_nodes 126 127 satelite result  5124
+create-a-node-here really 52.117 128 {said the firm's Kurt Feshbach.}
+nextSentence really
+autolink_nodes 5124 128 satelite attribution  5125
+create-a-node-here really 52.152 129 { "We're not making a killing, }
+autolink_nodes 5125 129 satelite elaboration-additional  5126
+create-a-node-here really 52.180 130 {but we had a good day."}
+nextSentence really
+autolink_nodes 129 130 multinuclear Contrast  5127
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007 5078 5075 5068 5038 5084 5109 5102 5105 5098 5122}
+collapsed_nodes {5018 5021 5017 5030 5026 5037 5012 5010 5003 5049 5044 5059 5054 5043 5007 5078 5075 5068 5038 5084 5109 5102 5105 5098 5122 5062}
+collapsed_nodes {}
+disconnect_node 65 disconnect
+autolink_nodes 66 65 satelite-embedded explanation-argumentative-e  5128
+disconnect_node 81 disconnect
+autolink_nodes 80 81 satelite-embedded attribution-e  5129
+collapsed_nodes {5038}
+collapsed_nodes {5038 5068}
+collapsed_nodes {5038 5068 5062}
+collapsed_nodes {}

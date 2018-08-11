@@ -1,0 +1,69 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.61 1 {\nApplied Solar Energy Corp. of City of Industry, Calif., said }
+create-a-node-here really 2.244 2 {it and its majority shareholder, American Cyanamid Co., signed a non-binding letter of intent for the acquisition of Applied Solar by McDonnell Douglas Corp. for about $38 million.}
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+create-a-node-here really 4.135 3 { \n\nThe proposed acquisition provides for a cash payment of $10 a share at closing and a contingent payment of as much as 80 cents a share }
+create-a-node-here really 4.155 4 {placed in escrow.}
+nextSentence really
+create-a-node-here really 5.55 5 {\nDetails of the escrow agreement haven't been completed,}
+create-a-node-here really 5.78 6 { the companies said.}
+nextSentence really
+#create-a-node-here really 6.49 7 {\nThere are 3.5 million shares of Applied Solar, of}
+#create-a-node-here really 6.94 8 { which American Cyanamid owns 2.7 million.}
+#nextSentence really
+#create-a-node-here really 7.76 9 {\nAmerican Cyanamid is a Wayne, N.J., chemicals, drugs and fertilizer concern.}
+#nextSentence really
+#autolink_nodes 2 3 satelite elaboration-additional below 5002
+#autolink_nodes 3 4 satelite elaboration-additional  5003
+#autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5004
+#autolink_nodes 5 6 satelite attribution  5005
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 6.47 7 {\nThere are 3.5 million shares of Applied Solar, }
+create-a-node-here really 7.0 8 {of which American Cyanamid owns 2.7 million.\n}
+create-a-node-here really 7.79 9 {American Cyanamid is a Wayne, N.J., chemicals, drugs and fertilizer concern.}
+nextSentence really
+#autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e below 5002
+#UNDID
+autolink_nodes 2 3 satelite elaboration-additional below 5002
+#autolink_nodes 3 4 satelite-embedded elaboration-additional-e  5003
+#UNDID
+autolink_nodes 3 4 satelite elaboration-additional  5003
+autolink_nodes 4 5 satelite elaboration-additional  5004
+autolink_nodes 5 6 satelite attribution  5005
+autolink_nodes 7 8 satelite elaboration-part-whole  5006
+autolink_nodes 5001 5006 satelite elaboration-additional  5007
+autolink_nodes 5007 9 satelite background  5008
+create-a-node-here really 9.170 10 { \n\nCompletion of the acquisition is subject to execution of a definitive agreement, approval by all three companies' boards and the approval of Applied Solar's shareholders.}
+create-a-node-here really 10.32 11 {\nAn Applied Solar spokesman said }
+create-a-node-here really 10.101 12 {completion is expected at the end of the year or early next year.}
+nextSentence really
+create-a-node-here really 12.66 13 { \n\nA spokeswoman for the St. Louis aerospace and defense concern said}
+create-a-node-here really 12.96 14 { it wanted the acquistion }
+create-a-node-here really 12.182 15 {because Applied Solar is involved in solar cells and solid-state laser components,}
+create-a-node-here really 12.268 16 { and this fits with McDonnell's business of laser applications for military space.}
+nextSentence really
+collapsed_nodes {5007}
+autolink_nodes 5008 10 satelite condition  5009
+autolink_nodes 11 12 nucleus attribution  5010
+autolink_nodes 13 14 nucleus attribution  5011
+#autolink_nodes 14 15 satelite reason below 5012
+#UNDID
+autolink_nodes 14 15 satelite reason below 5012
+autolink_nodes 15 16 multinuclear List  5013
+autolink_nodes 10 5010 satelite elaboration-additional  5014
+collapsed_nodes {}
+collapsed_nodes {5008}
+autolink_nodes 5009 5011 satelite elaboration-additional  5015
+collapsed_nodes {}
+collapsed_nodes {5015}
+collapsed_nodes {}

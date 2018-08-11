@@ -1,0 +1,230 @@
+nextSentence really
+create-a-node-here really 2.85 1 {\nTime Warner Inc. is considering a legal challenge to Tele-Communications Inc. 's plan}
+create-a-node-here really 2.127 2 { to buy half of Showtime Networks Inc.,}
+create-a-node-here really 2.137 3 { a move}
+create-a-node-here really 2.227 4 { that could lead to all-out war between the cable industry's two most powerful players.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 5002 5001 satelite elaboration-additional  5003
+create-a-node-here really 4.54 5 { \n\nTime is also fighting the transaction on other fronts,}
+create-a-node-here really 4.166 6 { by attempting to discourage other cable operators from joining Tele-Communications as investors in Showtime,}
+create-a-node-here really 4.203 7 { cable-TV industry executives say.}
+nextSentence really
+#autolink_nodes 5 6 satelite means  5004
+#UNDID
+#autolink_nodes 5 6 satelite elaboration-general-specific  5004
+#UNDID
+autolink_nodes 5 6 satelite elaboration-general-specific  5004
+autolink_nodes 5004 7 satelite attribution  5005
+create-a-node-here really 5.35 8 {\nTime officials declined to comment.}
+autolink_nodes 5005 8 satelite antithesis  5006
+autolink_nodes 5003 5006 satelite elaboration-additional  5007
+create-a-node-here really 7.113 9 { \n\nLast week, Tele-Communications agreed to pay Viacom Inc. $225 million for a 50% stake in its Showtime subsidiary,}
+create-a-node-here really 7.225 10 { which is a distant second to Time's Home Box Office in the delivery of pay-TV networks to cable subscribers.}
+nextSentence really
+autolink_nodes 9 10 satelite-embedded elaboration-additional-e  5008
+create-a-node-here really 8.60 11 {\nTele-Communications, the U.S.'s largest cable company, said }
+create-a-node-here really 8.123 12 {it may seek other cable partners to join in its investment.}
+nextSentence really
+autolink_nodes 11 12 nucleus attribution  5009
+autolink_nodes 5008 5009 satelite elaboration-additional  5010
+create-a-node-here really 10.46 13 { \n\nTele-Communications is HBO's largest customer,}
+create-a-node-here really 10.109 14 { and the two have a number of other business relationships.}
+nextSentence really
+autolink_nodes 13 14 satelite elaboration-additional  5011
+create-a-node-here really 11.93 15 {\nEarlier this year, Time even discussed bringing Tele-Communications in as an investor in HBO,}
+create-a-node-here really 11.132 16 { executives at both companies said.}
+nextSentence really
+autolink_nodes 15 16 satelite attribution  5012
+autolink_nodes 5012 5011 satelite circumstance  5013
+create-a-node-here really 12.67 17 {\nThe purchase of the Showtime stake is "a direct slap in our face," }
+create-a-node-here really 12.102 18 {said one senior Time executive.}
+nextSentence really
+autolink_nodes 17 18 satelite attribution  5014
+autolink_nodes 5013 5014 nucleus concession  5015
+create-a-node-here really 14.79 19 { \n\nTime is expected to mount a legal challenge in U.S. District Court in New York,}
+create-a-node-here really 14.139 20 { where Viacom in May filed a $2.5 billion antitrust suit}
+#create-a-node-here really 14.203 21 { charging Time and HBO with monopolizing the pay-TV business}
+#create-a-node-here really 14.254 22 { and trying to crush competition from Showtime.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 14.250 21 { charging Time and HBO with monopolizing the pay-TV business and trying to crush competition from Showtime.}
+autolink_nodes 20 21 satelite-embedded elaboration-additional-e  5016
+autolink_nodes 19 5016 satelite-embedded elaboration-object-attribute-e  5017
+#create-a-node-here really 15.50 22 {\nExecutives involved in plotting Time's defense say}
+#create-a-node-here really 15.88 23 { it is now preparing a countersuit}
+#create-a-node-here really 15.150 24 { naming both Viacom and Tele-Communications as defendants.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 15.10 22 {\nExecutives}
+create-a-node-here really 15.51 23 { involved in plotting Time's defense }
+create-a-node-here really 15.59 24 {say }
+create-a-node-here really 15.96 25 {it is now preparing a countersuit}
+create-a-node-here really 15.158 26 { naming both Viacom and Tele-Communications as defendants.}
+nextSentence really
+autolink_nodes 25 26 satelite-embedded elaboration-object-attribute-e  5018
+autolink_nodes 22 23 satelite-embedded elaboration-object-attribute-e  5019
+autolink_nodes 5019 24 multinuclear Same-Unit  5020
+autolink_nodes 5020 5018 nucleus attribution  5021
+autolink_nodes 5017 5021 satelite elaboration-additional  5022
+create-a-node-here really 16.19 27 {\nThe executives say }
+create-a-node-here really 16.65 28 {Time may seek to break up the transaction }
+create-a-node-here really 16.93 29 {after it is consummated,}
+create-a-node-here really 16.121 30 { or may seek constraints}
+create-a-node-here really 16.232 31 { that would prevent Tele-Communications from dropping HBO in any of its cable systems in favor of Showtime.}
+nextSentence really
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5023
+autolink_nodes 28 29 satelite temporal-after  5024
+autolink_nodes 5024 5023 multinuclear Disjunction  5025
+autolink_nodes 27 5025 nucleus attribution  5026
+autolink_nodes 5021 5026 satelite elaboration-general-specific  5027
+autolink_nodes 5010 5015 satelite elaboration-additional  5028
+collapsed_nodes {5015}
+autolink_nodes 5022 5028 satelite background  5029
+collapsed_nodes {5015 5028}
+collapsed_nodes {5015 5028 5027}
+create-a-node-here really 18.37 32 { \n\nViacom officials declined to comment.}
+nextSentence really
+create-a-node-here really 19.62 33 {\nJerome Kern, Tele-Communications' chief outside counsel, said }
+create-a-node-here really 19.104 34 {he wasn't aware of Time's legal plans.}
+nextSentence really
+autolink_nodes 33 34 nucleus attribution  5030
+autolink_nodes 32 5030 nucleus antithesis  5031
+create-a-node-here really 20.12 35 {\nBut he said }
+create-a-node-here really 20.40 36 {that any effort by Time }
+create-a-node-here really 20.127 37 {to characterize the Tele-Communications investment in Showtime as anti-competitive }
+create-a-node-here really 20.148 38 {would be "the pot}
+create-a-node-here really 20.179 39 { calling the kettle black."}
+nextSentence really
+autolink_nodes 38 39 satelite-embedded elaboration-object-attribute-e  5032
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5033
+autolink_nodes 5033 5032 multinuclear Same-Unit  5034
+autolink_nodes 35 5034 nucleus attribution  5035
+autolink_nodes 5031 5035 satelite elaboration-additional  5036
+create-a-node-here really 22.122 40 { \n\n"It's hard to see how an investment by the largest {cable operator} in the weaker of the two networks is anti-competitive,}
+create-a-node-here really 22.212 41 { when the stronger of the two networks is owned by the second largest" cable operator,}
+create-a-node-here really 22.231 42 { Mr. Kern said.}
+nextSentence really
+#autolink_nodes 40 41 satelite circumstance  5037
+#UNDID
+autolink_nodes 40 41 satelite explanation-argumentative  5037
+autolink_nodes 5037 42 satelite attribution  5038
+autolink_nodes 5035 5038 satelite explanation-argumentative  5039
+create-a-node-here really 24.55 43 { \n\nIn addition to owning HBO, with 22 million subscribers,}
+create-a-node-here really 24.108 44 { Time Warner separately operates cable-TV system }
+create-a-node-here really 24.159 45 {serving about 5.6 million cable-TV subscribers.}
+autolink_nodes 44 45 satelite-embedded elaboration-object-attribute-e  5040
+#autolink_nodes 43 5040 nucleus circumstance  5041
+#UNDID
+#autolink_nodes 43 5040 satelite comparison  5041
+#UNDID
+autolink_nodes 43 5040 satelite elaboration-additional  5041
+create-a-node-here really 25.67 46 {\nTele-Communications controls close to 12 million cable subscribers,}
+create-a-node-here really 25.105 47 { and Viacom has about one million.}
+nextSentence really
+autolink_nodes 46 47 multinuclear Comparison  5042
+autolink_nodes 5041 5042 multinuclear Comparison  5043
+autolink_nodes 5038 5043 satelite elaboration-additional  5044
+#autolink_nodes 5029 5036 multinuclear Contrast  5045
+#UNDID
+autolink_nodes 5029 5036 satelite antithesis  5045
+collapsed_nodes {5015 5028 5027 5006}
+autolink_nodes 5007 5045 satelite elaboration-additional  5046
+collapsed_nodes {5015 5028 5027 5006 5036}
+create-a-node-here really 26.38 48 {\nIn its suit against Time, Viacom says }
+create-a-node-here really 26.149 49 {the ownership of both cable systems and cable-programming networks gives the company too much market power.}
+autolink_nodes 48 49 nucleus attribution  5047
+create-a-node-here really 27.12 50 {\nTime argues }
+create-a-node-here really 27.20 51 {that}
+create-a-node-here really 27.64 52 { in joining up with Tele-Communications,}
+create-a-node-here really 27.103 53 { Viacom has potentially more power,}
+create-a-node-here really 27.186 54 { particularly since Viacom also owns cable networks MTV, VH-1 and Nick at Nite.}
+nextSentence really
+autolink_nodes 53 54 satelite reason  5048
+autolink_nodes 5048 52 satelite-embedded circumstance-e  5049
+autolink_nodes 5049 51 multinuclear Same-Unit  5050
+autolink_nodes 50 5050 nucleus attribution  5051
+autolink_nodes 5051 5047 multinuclear Contrast  5052
+autolink_nodes 5045 5052 satelite elaboration-additional  5053
+create-a-node-here really 28.89 55 {\nIronically, Tele-Communications and Time have often worked closely in the cable business.}
+nextSentence really
+create-a-node-here really 29.70 56 {\nTogether, they control nearly 40% of Turner Broadcasting Systems Inc.;}
+nextSentence really
+nextSentence really
+create-a-node-here really 29.113 57 { Tele-Communications has a 21.8% stake,}
+create-a-node-here really 29.154 58 { while Time Warner has a 17.8% stake.}
+nextSentence really
+autolink_nodes 57 58 multinuclear Comparison  5054
+#autolink_nodes 56 5054 satelite elaboration-set-member  5055
+#UNDID
+#autolink_nodes 56 5054 satelite elaboration-general-specific  5055
+#UNDID
+autolink_nodes 56 5054 satelite elaboration-set-member  5055
+autolink_nodes 55 5055 satelite elaboration-general-specific  5056
+create-a-node-here really 30.104 59 {\nBut since Time's merger with Warner Communications Inc., relations between the two have become strained.}
+autolink_nodes 5056 59 nucleus antithesis  5057
+create-a-node-here really 31.20 60 {\nEach company worries}
+#create-a-node-here really 31.95 61 { that the other is becoming too powerful and too vertically integrated.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 31.64 61 { that the other is becoming too powerful}
+create-a-node-here really 31.99 62 { and too vertically integrated.}
+nextSentence really
+autolink_nodes 61 62 multinuclear List  5058
+autolink_nodes 60 5058 nucleus attribution  5059
+autolink_nodes 5057 5059 satelite elaboration-additional  5060
+collapsed_nodes {5015 5028 5027 5006 5036 5052}
+collapsed_nodes {5015 5028 5027 5006 5036 5052 5056}
+autolink_nodes 5053 5060 satelite circumstance  5061
+create-a-node-here really 33.36 63 { \n\nMeanwhile, some legal observers say }
+create-a-node-here really 33.149 64 {the Tele-Communications investment and other developments are weakening Viacom's antitrust suit against Time.}
+nextSentence really
+autolink_nodes 63 64 nucleus attribution  5062
+create-a-node-here really 34.181 65 {\nViacom accuses Time in its suit of refusing to carry Showtime or a sister service, The Movie Channel, on Time's Manhattan Cable TV system, one of the nation's largest urban systems.}
+nextSentence really
+create-a-node-here really 35.41 66 {\nBut yesterday, Manhattan Cable announced }
+create-a-node-here really 35.107 67 {it will launch Showtime on Nov. 1 to over 230,000 subscribers.}
+nextSentence really
+autolink_nodes 66 67 nucleus attribution  5063
+#autolink_nodes 65 5063 nucleus antithesis  5064
+#UNDID
+autolink_nodes 65 5063 multinuclear Contrast  5064
+create-a-node-here really 37.82 68 { \n\nShowtime has also accused HBO of locking up the lion's share of Hollywood's movies}
+create-a-node-here really 37.145 69 { by signing exclusive contracts with all the major studios.}
+autolink_nodes 68 69 satelite means  5065
+disconnect_node 5063 disconnect
+autolink_nodes 65 5063 nucleus antithesis  5066
+create-a-node-here really 38.72 70 {\nBut Showtime has continued to sign new contracts with Hollywood studios,}
+create-a-node-here really 38.101 71 { and yesterday announced }
+create-a-node-here really 38.166 72 {it will buy movies from Columbia Pictures Entertainment Inc.,}
+create-a-node-here really 38.228 73 { which currently has a non-exclusive arrangement with HBO.}
+nextSentence really
+autolink_nodes 72 73 satelite-embedded elaboration-object-attribute-e  5067
+autolink_nodes 71 5067 nucleus attribution  5068
+autolink_nodes 70 5068 satelite evidence  5069
+autolink_nodes 5065 5069 nucleus antithesis  5070
+disconnect_node 65 modify
+autolink_nodes 5063 65 satelite concession  5071
+disconnect_node 5065 modify
+autolink_nodes 5069 5065 satelite concession  5072
+autolink_nodes 5071 5072 multinuclear List  5073
+autolink_nodes 5062 5073 satelite explanation-argumentative  5074
+collapsed_nodes {5015 5028 5027 5006 5036 5052 5056 5060}
+autolink_nodes 5061 5074 satelite elaboration-additional  5075
+collapsed_nodes {5015 5028 5027 5036 5052 5056 5060}
+collapsed_nodes {5027 5036 5052 5056 5060}
+collapsed_nodes {5036 5052 5056 5060}
+collapsed_nodes {5052 5056 5060}
+collapsed_nodes {5056 5060}
+collapsed_nodes {}
+disconnect_node 5001 disconnect
+autolink_nodes 5002 5001 multinuclear Same-Unit  5076
+#change_rel 21 
+#UNDID

@@ -1,0 +1,79 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.33 1 {\nCombustion Engineering Inc. said }
+create-a-node-here really 2.79 2 {third-quarter net income of $22.8 million, }
+autolink_nodes 1 2 nucleus attribution  5001
+nextSentence really
+create-a-node-here really 2.126 3 {reversing a $91.7 million year-earlier loss.}
+nextSentence really
+autolink_nodes 5001 3 satelite antithesis  5002
+nextSentence really
+create-a-node-here really 4.73 4 { \n\nThe Stamford, Conn., power-generation products and services company said }
+create-a-node-here really 4.109 5 {per-share earnings were 56 cents }
+autolink_nodes 4 5 nucleus attribution  5003
+create-a-node-here really 4.153 6 {compared with the year-ago loss of $2.39.}
+nextSentence really
+autolink_nodes 5 6 satelite comparison below 5004
+#autolink_nodes 5002 5003 nucleus summary-n  5005
+#UNDID
+autolink_nodes 5002 5003 satelite summary-n  5005
+create-a-node-here really 5.52 7 {\nSales fell 1.5% to $884 million from $897.2 million.}
+nextSentence really
+autolink_nodes 5003 7 satelite elaboration-additional  5006
+create-a-node-here really 7.41 8 { \n\nStrong profit in the process industries, }
+create-a-node-here really 7.82 9 {including chemical and pulp and paper,}
+#autolink_nodes 8 9 satelite-embedded elaboration-additional-e  5007
+#UNDID
+autolink_nodes 8 9 satelite-embedded elaboration-additional-e  5007
+create-a-node-here really 7.147 10 { were offset by higher interest expense and by lower earnings }
+autolink_nodes 5007 10 multinuclear Same-Unit  5008
+create-a-node-here really 8.0 11 {as the company closed out certain long-term contracts. \n}
+autolink_nodes 5008 11 satelite temporal-same-time  5009
+autolink_nodes 5005 5009 satelite elaboration-additional  5010
+create-a-node-here really 9.88 12 {\nCombustion reported improved profits in its automation and control products businesses, }
+autolink_nodes 5010 12 satelite elaboration-additional  5011
+create-a-node-here really 9.166 13 {and it narrowed its losses in its public sector and environmental segment.}
+nextSentence really
+autolink_nodes 12 13 multinuclear List  5012
+#create-a-node-here really 10.80 14 {\nPower generation had higher sales but lower earnings; the company cited factors }
+#autolink_nodes 5011 14 satelite elaboration-additional  5013
+#UNDID
+#UNDID
+create-a-node-here really 10.54 14 {\nPower generation had higher sales but lower earnings; }
+autolink_nodes 5011 14 satelite elaboration-additional  5013
+create-a-node-here really 10.84 15 {the company cited factors }
+autolink_nodes 14 15 satelite reason  5014
+create-a-node-here really 11.0 16 {including work on certain low profit-margin contracts from previous years. \n}
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5015
+nextSentence really
+nextSentence really
+create-a-node-here really 12.172 17 {\nNet in the latest quarter included a pretax gain of $22.4 million from the sale of Combustion's minority interest in Stein Industrie to GEC Alsthom N.V. of the Netherlands.}
+nextSentence really
+disconnect_node 5014 disconnect
+disconnect_node 5012 disconnect
+autolink_nodes 5009 5012 multinuclear List  5016
+autolink_nodes 5016 5014 multinuclear List below 5016
+disconnect_node 5016 disconnect
+disconnect_node 5006 disconnect
+autolink_nodes 5002 5006 nucleus summary-n  5017
+autolink_nodes 5017 5016 satelite elaboration-additional  5018
+change_rel 5002 summary-s
+change_rel 5002 summary-n
+#disconnect_node 5002 disconnect
+#UNDID
+disconnect_node 5002 disconnect
+disconnect_node 5016 disconnect
+autolink_nodes 5002 5006 satelite summary-n  5019
+autolink_nodes 5006 5016 satelite elaboration-additional  5020
+collapsed_nodes {5006}
+autolink_nodes 5019 17 satelite explanation-argumentative  5021
+collapsed_nodes {}
+create-a-node-here really 13.133 18 {\nLast year's results reflected a gain of $28.2 million on disposition of assets and a $165 million pretax provision mainly from costs }
+autolink_nodes 17 18 satelite elaboration-part-whole  5022
+create-a-node-here really 13.198 19 {of completing certain waste-to-energy and other power plants.}
+nextSentence really
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5023
+change_rel 5023 elaboration-additional
+collapsed_nodes {5021}
+nextSentence really
+collapsed_nodes {}

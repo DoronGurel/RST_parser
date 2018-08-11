@@ -1,0 +1,83 @@
+nextSentence really
+nextSentence really
+create-a-node-here really 2.132 1 {\nThe following were among Friday's offerings and pricings in the U.S. and non-U.S. capital markets, with terms and syndicate manager,}
+create-a-node-here really 2.184 2 { as compiled by Dow Jones Capital Markets Report:}
+#autolink_nodes 1 2 satelite attribution  5001
+#UNDID
+#autolink_nodes 1 2 satelite elaboration-object-attribute  5001
+#UNDID
+#autolink_nodes 1 2 satelite-embedded elaboration-object-attribute-e  5001
+#UNDID
+autolink_nodes 1 2 satelite elaboration-additional  5001
+create-a-node-here really 4.24 3 { \n\nSun Microsystems Inc. --}
+nextSentence really
+create-a-node-here really 4.105 4 { $125 million of 6 3/8% convertible subordinated debentures due Oct. 15, 1999,}
+create-a-node-here really 4.124 5 { priced at 84.90}
+create-a-node-here really 4.143 6 { to yield 7.51%.}
+nextSentence really
+autolink_nodes 5 6 satelite purpose  5002
+autolink_nodes 4 5002 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 5.64 7 {\nThe debentures are convertible into common stock at $25 a share,}
+create-a-node-here really 5.136 8 { representing a 24% conversion premium over Thursday's closing price.}
+nextSentence really
+autolink_nodes 7 8 satelite elaboration-additional  5004
+autolink_nodes 5003 5004 satelite elaboration-additional  5005
+create-a-node-here really 6.96 9 {\nRated single-B-1 by Moody's Investors Service Inc. and single-B-plus by Standard & Poor's Corp.,}
+create-a-node-here really 6.143 10 { the issue will be sold through underwriters}
+create-a-node-here really 6.175 11 { led by Goldman, Sachs & Co.}
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5006 9 satelite circumstance  5007
+autolink_nodes 5005 5007 satelite elaboration-additional  5008
+autolink_nodes 3 5008 satelite elaboration-general-specific  5009
+collapsed_nodes {5008}
+create-a-node-here really 8.14 12 { \n\nHertz Corp. --}
+create-a-node-here really 8.65 13 { $100 million of senior notes due Nov. 1, 2009,}
+#create-a-node-here really 8.96 14 { priced at par to yield 9%.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 8.83 14 { priced at par}
+create-a-node-here really 8.100 15 { to yield 9%.}
+autolink_nodes 14 15 satelite purpose  5010
+autolink_nodes 13 5010 satelite-embedded elaboration-object-attribute-e  5011
+create-a-node-here really 9.10 16 {\nThe issue,}
+create-a-node-here really 9.61 17 { which is puttable back to the company in 1999,}
+create-a-node-here really 9.143 18 { was priced at a spread of 110 basis points above the Treasury's 10-year note.}
+nextSentence really
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5012
+autolink_nodes 18 5012 multinuclear Same-Unit  5013
+autolink_nodes 5011 5013 satelite elaboration-additional  5014
+create-a-node-here really 10.48 19 {\nRated single-A-3 by Moody's and triple-B by S&P,}
+create-a-node-here really 10.97 20 { the issue will be sold through underwriters }
+create-a-node-here really 10.138 21 {led by Merrill Lynch Capital Markets.}
+nextSentence really
+autolink_nodes 20 21 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 5015 19 satelite circumstance  5016
+autolink_nodes 5014 5016 satelite elaboration-additional  5017
+autolink_nodes 12 5017 satelite elaboration-general-specific  5018
+collapsed_nodes {5008 5017}
+#create-a-node-here really 12.35 22 { \n\nCanadian Imperial Bank of Commerce }
+#UNDID
+autolink_nodes 5009 5018 multinuclear List  5019
+autolink_nodes 5001 5019 satelite-embedded elaboration-set-member-e  5020
+create-a-node-here really 12.35 22 { \n\nCanadian Imperial Bank of Commerce }
+create-a-node-here really 12.50 23 {(Canada) --}
+autolink_nodes 22 23 satelite elaboration-additional  5021
+create-a-node-here really 12.102 24 { 10 billion yen of 5.7% bonds due Nov. 17, 1992,}
+create-a-node-here really 12.124 25 { priced at 101 1/4}
+create-a-node-here really 12.159 26 { to yield 5.75% less full fees,}
+create-a-node-here really 12.191 27 { via LTCB International Ltd.}
+autolink_nodes 25 26 satelite purpose  5022
+autolink_nodes 24 5022 satelite-embedded elaboration-object-attribute-e  5023
+autolink_nodes 27 5023 multinuclear Same-Unit  5024
+autolink_nodes 5021 5024 satelite elaboration-additional  5025
+create-a-node-here really 12.207 28 { Fees 1 3/8.}
+nextSentence really
+#autolink_nodes 5025 28 satelite elaboration-additional  5026
+#UNDID
+disconnect_node 5024 disconnect
+autolink_nodes 5024 28 satelite elaboration-additional  5026
+autolink_nodes 5021 5026 satelite elaboration-general-specific  5027
+autolink_nodes 5020 5027 satelite-embedded elaboration-set-member-e  5028
+collapsed_nodes {5017}
+collapsed_nodes {}

@@ -1,0 +1,312 @@
+nextSentence really
+create-a-node-here really 2.109 1 {\nI approached "Mastergate," Larry Gelbart's new comedy at the Criterion Center, with considerable trepidation.}
+nextSentence really
+create-a-node-here really 3.9 2 {\nNothing, }
+create-a-node-here really 3.23 3 {I assumed, }
+autolink_nodes 2 3 satelite attribution  5001
+create-a-node-here really 3.107 4 {would be more hopelessly dated than a political satire on the Iran-Contra affair.}
+nextSentence really
+autolink_nodes 5001 4 multinuclear Same-Unit  5002
+autolink_nodes 1 5002 satelite elaboration-additional  5003
+create-a-node-here really 5.0 5 {\nI had underestimated, however, both Mr. Gelbart's wit and the persistence of scandal in Washington.\n}
+autolink_nodes 5003 5 satelite antithesis  5004
+create-a-node-here really 5.71 6 {Though the play clearly is framed around the events of Iran-Contra, }
+create-a-node-here really 5.136 7 {it takes in the wide sweep of scandals over the past 30 years.}
+nextSentence really
+disconnect_node 5 disconnect
+autolink_nodes 5002 5 satelite antithesis  5005
+autolink_nodes 5 7 satelite elaboration-additional  5006
+autolink_nodes 7 6 satelite antithesis  5007
+#create-a-node-here really 6.35 8 {\nIn fact, at one point Merry Chase (}
+#create-a-node-here really 6.56 9 {Melinda Mullins), }
+#create-a-node-here really 6.167 10 {a cool, carefully coiffed television announcer, recites a list of a dozen or more scandals of recent years, }
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 6.34 8 {\nIn fact, at one point Merry Chase }
+create-a-node-here really 6.56 9 {(Melinda Mullins), }
+create-a-node-here really 6.167 10 {a cool, carefully coiffed television announcer, recites a list of a dozen or more scandals of recent years, }
+create-a-node-here really 6.193 11 {concluding with those }
+create-a-node-here really 7.0 12 {affecting the Department of Housing and Urban Development and the savings and loan industry. \n}
+autolink_nodes 8 9 satelite-embedded elaboration-additional-e  5008
+autolink_nodes 5008 10 satelite-embedded elaboration-additional-e  5009
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5010
+disconnect_node 10 disconnect
+autolink_nodes 5008 10 multinuclear Same-Unit  5011
+autolink_nodes 10 5010 satelite-embedded elaboration-additional-e  5012
+autolink_nodes 5007 5009 satelite evidence  5013
+create-a-node-here really 8.180 13 {\nOnstage, a congressional hearing is in progress, complete with elegant crystal chandelier overhead and a lifesize reproduction of the signing of the Constitution in the background.}
+nextSentence really
+change_rel 5005 explanation-argumentative
+autolink_nodes 5003 13 satelite elaboration-additional  5014
+create-a-node-here really 9.135 14 {\nThe witness table is center stage and below it, the paraphernalia for the ever-present media, in this case TNN, the Total News Network.}
+nextSentence really
+autolink_nodes 13 14 nucleus background  5015
+create-a-node-here really 10.50 15 {\nNot only are there camera operators on all sides, }
+autolink_nodes 14 15 multinuclear List  5016
+create-a-node-here really 10.119 16 {but the proceedings are shown on monitors throughout the theater.}
+nextSentence really
+autolink_nodes 5016 16 multinuclear List below 5016
+create-a-node-here really 12.53 17 { \n\nThe metaphor of theater is not entirely coincidental.}
+nextSentence really
+autolink_nodes 5015 17 satelite comment  5017
+create-a-node-here really 13.26 18 {\nMr. Gelbart clearly feels }
+autolink_nodes 17 18 satelite elaboration-additional  5018
+create-a-node-here really 13.83 19 {that all the participants in a congressional hearing }
+autolink_nodes 18 19 nucleus attribution  5019
+create-a-node-here really 13.158 20 {-- the witnesses, the lawyers, the interrogators and the news media -- }
+autolink_nodes 19 20 satelite elaboration-object-attribute below 5020
+create-a-node-here really 13.177 21 {are performers.}
+nextSentence really
+autolink_nodes 5020 21 multinuclear Same-Unit  5021
+create-a-node-here really 15.38 22 { \n\nAs the story of "Mastergate" unfolds, }
+autolink_nodes 5014 22 satelite background  5022
+create-a-node-here really 15.51 23 {we learn }
+create-a-node-here really 15.146 24 {that the Internal Revenue Service confiscated one of the properties of a foreign financier }
+autolink_nodes 23 24 nucleus attribution  5023
+autolink_nodes 22 5023 satelite temporal-same-time  5024
+create-a-node-here really 15.192 25 {who owes the government millions in taxes.}
+nextSentence really
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e below 5025
+create-a-node-here really 16.9 26 {\nThe man, }
+autolink_nodes 25 26 satelite elaboration-additional  5026
+create-a-node-here really 16.23 27 {it seems, }
+autolink_nodes 26 27 satelite attribution  5027
+create-a-node-here really 16.59 28 {has a Lichtenstein corporation, }
+autolink_nodes 5027 28 multinuclear Same-Unit  5028
+create-a-node-here really 16.81 29 {licensed in Libya }
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5029
+create-a-node-here really 16.114 30 {and sheltered in the Bahamas.}
+nextSentence really
+autolink_nodes 29 30 multinuclear List  5030
+create-a-node-here really 17.89 31 {\nHe himself lives in a "consecutive series of unnumbered houses in a town in Switzerland."}
+nextSentence really
+autolink_nodes 5028 31 multinuclear List above 5031
+create-a-node-here really 17.107 32 { The property }
+create-a-node-here really 17.129 33 {seized by the IRS }
+autolink_nodes 32 33 satelite elaboration-object-attribute  5032
+create-a-node-here really 17.190 34 {is a Hollywood film studio, Master Pictures Incorporated }
+autolink_nodes 5032 34 multinuclear Same-Unit  5033
+create-a-node-here really 17.200 35 {(MPI).}
+nextSentence really
+autolink_nodes 34 35 satelite elaboration-additional  5034
+create-a-node-here really 18.52 36 {\nSupposedly the IRS will sell off the assets of MPI, }
+autolink_nodes 5031 5033 multinuclear List below 5034
+autolink_nodes 5033 36 satelite elaboration-additional  5035
+create-a-node-here really 18.60 37 {but }
+create-a-node-here really 18.79 38 {before it can, }
+autolink_nodes 37 38 satelite temporal-after  5036
+create-a-node-here really 18.204 39 {a lowly IRS agent is called into the hospital room of Wylie Slaughter, the dying head of the Central Intelligence Agency.}
+nextSentence really
+autolink_nodes 5036 39 multinuclear Same-Unit  5037
+autolink_nodes 36 5037 satelite antithesis  5038
+create-a-node-here really 20.28 40 { \n\nThe lowly agent, Abel Lamb, }
+autolink_nodes 39 40 satelite elaboration-additional  5039
+create-a-node-here really 20.36 41 {who }
+create-a-node-here really 20.59 42 {as you might guess,}
+autolink_nodes 41 42 satelite comparison  5040
+create-a-node-here really 20.95 43 { is being led to the slaughter, }
+autolink_nodes 5040 43 multinuclear Same-Unit  5041
+autolink_nodes 5038 5041 satelite elaboration-additional  5042
+disconnect_node 5041 disconnect
+#autolink_nodes 40 5041 satelite-embedded elaboration-additional-e  5043
+#UNDID
+autolink_nodes 5038 5041 satelite elaboration-additional  5043
+disconnect_node 5041 disconnect
+autolink_nodes 40 5041 satelite-embedded elaboration-additional-e  5044
+create-a-node-here really 21.0 44 {is ordered to take over the studio.\n}
+autolink_nodes 5044 44 multinuclear Same-Unit  5045
+create-a-node-here really 21.55 45 {Soon the studio is producing a $40 million picture }
+autolink_nodes 5045 45 satelite circumstance  5046
+create-a-node-here really 21.93 46 {called "Tet, the Motion Picture," }
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5047
+create-a-node-here really 21.190 47 {to distinguish it from "Tet, the Offensive," as well as "Tet, the Book" and "Tet, the Album."}
+nextSentence really
+#autolink_nodes 46 47 multinuclear Contrast  5048
+#UNDID
+autolink_nodes 46 47 multinuclear Contrast  5048
+create-a-node-here really 21.208 48 { The picture, }
+autolink_nodes 5047 48 satelite elaboration-additional  5049
+create-a-node-here really 21.271 49 {to be made in the Central American country of San Elvador, }
+autolink_nodes 48 49 satelite-embedded elaboration-additional-e  5050
+create-a-node-here really 21.349 50 {is a cover for sending $800 million of arms to Los Otros, the rebel group }
+autolink_nodes 5050 50 multinuclear Same-Unit  5051
+create-a-node-here really 21.394 51 {attempting to regain neighboring Ambigua,}
+autolink_nodes 50 51 satelite-embedded elaboration-object-attribute-e  5052
+create-a-node-here really 21.484 52 { which has been taken over by the leftist dictator Dr. Overtega, a former podiatrist, }
+autolink_nodes 51 52 satelite-embedded elaboration-additional-e  5053
+create-a-node-here really 22.0 53 {who leads a revolutionary band of foot soldiers.\n}
+autolink_nodes 52 53 satelite-embedded elaboration-additional-e  5054
+create-a-node-here really 22.12 54 {The man }
+autolink_nodes 5051 54 multinuclear List above 5055
+create-a-node-here really 22.65 55 {handling all this for the now-deceased Slaughter }
+autolink_nodes 54 55 satelite-embedded elaboration-object-attribute-e  5056
+create-a-node-here really 22.138 56 {is Major Manley Battle, Mr. Gelbart's stand in for Col. Oliver North.}
+nextSentence really
+autolink_nodes 5056 56 multinuclear Same-Unit  5057
+create-a-node-here really 24.56 57 { \n\nDirector Michael Engler has assembled a top-flight cast }
+autolink_nodes 5022 57 satelite evaluation-s  5058
+create-a-node-here really 24.157 58 {to carry out the impersonations of well-known political figures and to play the stock characters }
+autolink_nodes 57 58 satelite purpose  5059
+create-a-node-here really 25.0 59 {who invariably show up at congressional hearings.\n}
+autolink_nodes 58 59 satelite-embedded elaboration-additional-e  5060
+create-a-node-here really 25.38 60 {Daniel von Bargen is ramrod-stiff }
+autolink_nodes 5060 60 satelite example  5061
+create-a-node-here really 25.62 61 {but totally assured }
+autolink_nodes 60 61 satelite antithesis  5062
+#create-a-node-here really 25.287 62 {as Major Battle, mixing just the right brand of self-righteousness and patriotism; Jeff Weiss is fire, brimstone and teary-eyed emotionalism as the far-right senator who serves as a friendly interrogator of Major Battle; }
+#UNDID
+create-a-node-here really 25.83 62 {as Major Battle, }
+autolink_nodes 5062 62 multinuclear Same-Unit  5063
+create-a-node-here really 25.153 63 {mixing just the right brand of self-righteousness and patriotism; }
+autolink_nodes 62 63 satelite-embedded elaboration-additional-e  5064
+create-a-node-here really 25.240 64 {Jeff Weiss is fire, brimstone and teary-eyed emotionalism as the far-right senator }
+autolink_nodes 5063 64 multinuclear List above 5065
+create-a-node-here really 25.299 65 {who serves as a friendly interrogator of Major Battle; }
+#autolink_nodes 64 65 satelite-embedded elaboration-object-attribute-e  5066
+#UNDID
+autolink_nodes 64 65 satelite-embedded elaboration-additional-e  5066
+create-a-node-here really 25.341 66 {Zach Grenier is maddeningly officious }
+autolink_nodes 5065 66 multinuclear List below 5066
+create-a-node-here really 25.378 67 {playing a succession of lawyers; }
+autolink_nodes 66 67 satelite-embedded elaboration-additional-e  5067
+create-a-node-here really 25.487 68 {Joseph Daly has the perfect "aw, shucks" demeanor of George Bush in his portrayal of the vice president; }
+autolink_nodes 5065 68 multinuclear List below 5067
+create-a-node-here really 25.559 69 {and Ann McDonough is first-rate as a succession of witnesses' wives.}
+nextSentence really
+autolink_nodes 5065 69 multinuclear List below 5067
+create-a-node-here really 26.25 70 {\nWith one she is pregnant,}
+autolink_nodes 69 70 satelite elaboration-set-member  5068
+create-a-node-here really 26.81 71 { with Major Battle she is knitting an American flag,}
+autolink_nodes 70 71 multinuclear List  5069
+create-a-node-here really 26.150 72 { and as the vice president's wife she rushes in with white hair, }
+autolink_nodes 5069 72 multinuclear List below 5069
+create-a-node-here really 26.190 73 {wearing a tailored suit and pearls, }
+autolink_nodes 72 73 satelite elaboration-additional  5070
+create-a-node-here really 26.252 74 {imitating Barbara Bush's gestures down to the last detail.}
+nextSentence really
+autolink_nodes 73 74 multinuclear List  5071
+create-a-node-here really 28.79 75 { \n\nThough it's clear that Mr. Gelbart's sympathies do not lie with the far right, }
+autolink_nodes 5059 75 satelite elaboration-additional  5072
+create-a-node-here really 28.154 76 {it's also true that he is evenhanded in dispensing his satirical jabs, }
+autolink_nodes 75 76 nucleus concession  5073
+create-a-node-here really 28.248 77 {taking sharp aim at senators and congressmen of all stripes and particularly at the media.}
+nextSentence really
+autolink_nodes 76 77 satelite evidence below 5074
+create-a-node-here really 29.39 78 {\nMr. Gelbart also has fun with language.}
+nextSentence really
+autolink_nodes 5073 78 multinuclear List  5075
+create-a-node-here really 29.89 79 { "Mastergate" is subtitled "a play on words," }
+autolink_nodes 78 79 satelite explanation-argumentative  5076
+create-a-node-here really 29.143 80 {and Mr. Gelbart plays that game as well as anyone.}
+nextSentence really
+autolink_nodes 79 80 multinuclear List  5077
+create-a-node-here really 30.40 81 {\nHe describes a Mastergate flunky as one }
+autolink_nodes 5077 81 satelite evidence  5078
+create-a-node-here really 30.87 82 {who experienced a "meteoric disappearance" }
+#create-a-node-here really 30.168 83 {and found himself "handling blanket appeals at the Bureau of Indian Affairs."}
+#nextSentence really
+#UNDID
+#UNDID
+autolink_nodes 81 82 satelite-embedded elaboration-additional-e  5079
+create-a-node-here really 31.0 83 {and found himself "handling blanket appeals at the Bureau of Indian Affairs." \n}
+autolink_nodes 82 83 multinuclear List  5080
+create-a-node-here really 32.65 84 {\nThis interest in words goes beyond puns and playfulness, however.}
+nextSentence really
+autolink_nodes 5078 84 satelite elaboration-additional  5081
+create-a-node-here really 33.88 85 {\nMr. Gelbart deplores the obfuscation, the circumlocution and the debasement of language }
+autolink_nodes 84 85 nucleus concession  5082
+create-a-node-here really 33.113 86 {he sees on all sides.}
+nextSentence really
+autolink_nodes 85 86 satelite-embedded elaboration-additional-e below 5083
+create-a-node-here really 34.23 87 {\nAs the hearings begin, }
+autolink_nodes 5082 87 satelite evidence  5084
+create-a-node-here really 34.58 88 {the self-important Sen. Bowman }
+#autolink_nodes 87 88 nucleus topic-shift  5085
+#UNDID
+#autolink_nodes 87 88 nucleus temporal-before  5085
+#UNDID
+autolink_nodes 87 88 nucleus temporal-same-time  5085
+create-a-node-here really 34.77 89 {(Jerome Kilty) }
+autolink_nodes 88 89 satelite-embedded elaboration-additional-e below 5086
+create-a-node-here really 34.92 90 {announces: }
+autolink_nodes 5086 90 multinuclear Same-Unit  5087
+create-a-node-here really 34.141 91 {"Let me emphaticize one thing at the outset: }
+autolink_nodes 5087 91 nucleus attribution  5088
+create-a-node-here really 34.174 92 {We are not looking for hides }
+autolink_nodes 91 92 nucleus interpretation-s  5089
+create-a-node-here really 34.186 93 {to skin }
+autolink_nodes 92 93 satelite-embedded purpose-e below 5090
+create-a-node-here really 34.200 94 {nor goats }
+autolink_nodes 5090 94 multinuclear Same-Unit  5091
+create-a-node-here really 34.215 95 {to scape." }
+autolink_nodes 94 95 satelite-embedded purpose-e  5092
+create-a-node-here really 34.268 96 {Major Battle himself speaks in pure Pentagonese: }
+autolink_nodes 5085 96 multinuclear List  5093
+create-a-node-here really 34.319 97 {"Without further monetary-stroke-military aid, }
+autolink_nodes 96 97 satelite example  5094
+create-a-node-here really 34.358 98 {scores of Ambiguan freedom lovers, }
+#autolink_nodes 97 98 nucleus condition  5095
+#UNDID
+autolink_nodes 97 98 satelite manner  5095
+create-a-node-here really 34.415 99 {who had gone way out on their life and limbs for us, }
+autolink_nodes 98 99 satelite-embedded elaboration-object-attribute-e  5096
+create-a-node-here really 34.455 100 {were literally cut off at the knees }
+autolink_nodes 5096 100 multinuclear Same-Unit  5097
+create-a-node-here really 34.478 101 {without a paddle."}
+nextSentence really
+autolink_nodes 100 101 satelite manner  5098
+create-a-node-here really 34.513 102 { At another point he intones: }
+autolink_nodes 5095 102 multinuclear List  5099
+create-a-node-here really 34.546 103 {"Publicity is a small price }
+autolink_nodes 102 103 nucleus attribution  5100
+create-a-node-here really 34.558 104 {to pay }
+#create-a-node-here really 34.576 105 {for secrecy."}
+#nextSentence really
+#autolink_nodes 103 104 satelite-embedded purpose-e below 5101
+#UNDID
+#UNDID
+#UNDID
+autolink_nodes 103 104 satelite-embedded elaboration-additional-e below 5101
+create-a-node-here really 35.0 105 {for secrecy." \n}
+autolink_nodes 104 105 satelite reason  5102
+create-a-node-here really 36.21 106 {\nThe evening is short }
+autolink_nodes 5058 106 satelite summary-s  5103
+create-a-node-here really 36.40 107 {-- 95 minutes }
+autolink_nodes 106 107 satelite-embedded elaboration-additional-e  5104
+create-a-node-here really 36.72 108 {without an intermission -- }
+autolink_nodes 107 108 satelite-embedded manner-e  5105
+create-a-node-here really 36.90 109 {but even so, }
+create-a-node-here really 36.118 110 {as the play progresses }
+autolink_nodes 109 110 nucleus concession  5106
+autolink_nodes 5104 5106 satelite elaboration-additional  5107
+create-a-node-here really 36.178 111 {the thrust of Mr. Gelbart's satire loses its sharpness }
+#autolink_nodes 110 111 satelite-embedded manner-e below 5108
+#UNDID
+autolink_nodes 110 111 nucleus manner  5108
+create-a-node-here really 36.227 112 {as his targets pop up ever more predictably.}
+nextSentence really
+autolink_nodes 111 112 satelite temporal-same-time below 5109
+create-a-node-here really 37.65 113 {\nMost of the evening, though, is filled with rare and welcome wit.}
+nextSentence really
+autolink_nodes 5106 113 satelite comment  5110
+create-a-node-here really 38.78 114 {\nIn "Mastergate," Mr. Gelbart has provided us not just one but two commodities }
+autolink_nodes 113 114 satelite explanation-argumentative  5111
+create-a-node-here really 38.140 115 {that have all but disappeared from the Broadway theater: }
+autolink_nodes 114 115 satelite-embedded elaboration-object-attribute-e  5112
+create-a-node-here really 38.226 116 {sharp political satire and an even sharper appreciation of the value of language.}
+nextSentence really
+autolink_nodes 5112 116 satelite-embedded example-e  5113
+nextSentence really
+collapsed_nodes {5103}
+nextSentence really
+nextSentence really
+collapsed_nodes {}
+disconnect_node 20 modify
+autolink_nodes 19 20 satelite-embedded elaboration-additional-e  5114
+disconnect_node 35 modify
+autolink_nodes 34 35 satelite-embedded elaboration-additional-e  5115
+disconnect_node 110 modify
+autolink_nodes 111 110 satelite circumstance above 5115
+disconnect_node 112 modify
+autolink_nodes 111 112 satelite temporal-same-time below 5116

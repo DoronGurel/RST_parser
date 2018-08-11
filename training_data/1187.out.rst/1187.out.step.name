@@ -1,0 +1,382 @@
+nextSentence really
+create-a-node-here really 2.89 1 {\nLondon share prices closed sharply lower Tuesday on the back of Wall Street's steep drop }
+create-a-node-here really 2.142 2 {and renewed fears over U.K. economic fundamentals.}
+nextSentence really
+create-a-node-here really 3.39 3 {\nTokyo's winning streak came to an end, }
+create-a-node-here really 3.97 4 {and stocks fell in Frankfurt and across Europe as well.}
+nextSentence really
+showText really
+create-a-node-here really 5.57 5 { \n\nLondon's Financial Times 100-share index shed 40.4 points}
+create-a-node-here really 6.0 6 { to finish at 2149.3.\n}
+create-a-node-here really 6.90 7 {At London's close, the Dow Jones Industrial Average was 51.23 points lower at 2611.68. }
+autolink_nodes 2 1 nucleus consequence-n  5001
+autolink_nodes 3 5001 multinuclear List  5002
+#autolink_nodes 4 5002 multinuclear List  5003
+#UNDID
+autolink_nodes 5002 4 multinuclear List below 5002
+autolink_nodes 5 6 satelite consequence-s  5003
+create-a-node-here really 8.13 8 {\n\nDealers said }
+create-a-node-here really 8.165 9 {the initial pressure came from mildly disappointing U.K. trade figures for September and a worrisome report by the Confederation of British Industry }
+create-a-node-here really 8.295 10 {that a decline in orders for manufactured goods is depressing both business optimism and investment plans for the coming year. }
+create-a-node-here really 10.97 11 {\n\nThe trade and CBI reports refocused attention on high interest rates and corporate profitability }
+create-a-node-here really 10.185 12 {and helped rekindle underlying concerns over prospects for a recession in the U.K., }
+create-a-node-here really 10.202 13 {dealers said.}
+autolink_nodes 9 10 satelite-embedded elaboration-object-attribute-e  5004
+autolink_nodes 11 12 multinuclear List  5005
+autolink_nodes 5005 13 satelite attribution  5006
+autolink_nodes 5004 8 satelite attribution  5007
+autolink_nodes 5003 7 satelite temporal-same-time  5008
+autolink_nodes 5007 5006 satelite elaboration-additional  5009
+collapsed_nodes {5006}
+autolink_nodes 5008 5009 satelite result  5010
+collapsed_nodes {5006 5009}
+create-a-node-here really 13.0 14 { \n\nThe 30-share index fell 33.3 points to 1739.3.\n}
+create-a-node-here really 13.121 15 {Volume was a modest 405.4 million shares traded, but better than the year's lowest turnover of 276.8 million Monday. }
+create-a-node-here really 15.27 16 {\n\nMarket watchers also noted }
+create-a-node-here really 15.130 17 {an absence of institutional interest later in the session helped pave the way for broader declines }
+create-a-node-here really 15.166 18 {when Wall Street opened weaker. }
+autolink_nodes 17 18 satelite circumstance  5011
+autolink_nodes 16 5011 nucleus attribution  5012
+create-a-node-here really 17.11 19 {\n\nThey added }
+create-a-node-here really 17.91 20 {that market-makers were knocking share prices down in midafternoon in a bid }
+create-a-node-here really 17.120 21 {to attract some interest,}
+create-a-node-here really 17.196 22 { but the action largely helped open the way for London's late declines. }
+autolink_nodes 20 21 satelite-embedded purpose-e  5013
+#autolink_nodes 5013 22 multinuclear Contrast  5014
+#UNDID
+autolink_nodes 5013 22 multinuclear Contrast  5014
+autolink_nodes 19 5014 nucleus attribution  5015
+autolink_nodes 5012 5015 satelite elaboration-additional  5016
+create-a-node-here really 19.187 23 {\n\nInsurance stocks provided some early support to the market, partly on favorable brokerage recommendatons and talk of continental European interest in British life and composite insurers. }
+create-a-node-here really 21.38 24 {\n\nBritish life insurer London & General,}
+create-a-node-here really 21.77 25 { which firmed 2 pence to 356 pence }
+create-a-node-here really 21.89 26 {($5.70),}
+create-a-node-here really 21.132 27 { and composite insurer Royal Insurance,}
+create-a-node-here really 21.168 28 { which finished 13 lower at 475,}
+create-a-node-here really 21.199 29 { were featured in the talk.}
+create-a-node-here really 22.64 30 {\nOn the life insurance side, Pearl Group finished 5 lower at 640,}
+create-a-node-here really 22.103 31 { and Sun Life dropped 15 to #11.53.}
+#autolink_nodes 25 26 satelite-embedded restatement-e  5017
+#UNDID
+autolink_nodes 25 26 satelite-embedded restatement-e  5017
+autolink_nodes 27 28 satelite-embedded elaboration-additional-e  5018
+autolink_nodes 24 5017 satelite-embedded elaboration-additional-e  5019
+autolink_nodes 5018 5019 multinuclear Same-Unit  5020
+autolink_nodes 5020 29 multinuclear Same-Unit below 5020
+autolink_nodes 30 5020 multinuclear List  5021
+autolink_nodes 5021 31 multinuclear List below 5021
+collapsed_nodes {5006 5009 5020}
+autolink_nodes 23 5021 satelite example  5022
+collapsed_nodes {5006 5009 5020 5021}
+collapsed_nodes {5006 5009 5020 5021 5015}
+autolink_nodes 5010 14 multinuclear List  5023
+autolink_nodes 5023 15 multinuclear List below 5023
+autolink_nodes 5023 5016 satelite explanation-argumentative  5024
+collapsed_nodes {5006 5009 5020 5021 5015 5016}
+collapsed_nodes {5006 5009 5020 5021 5015 5016}
+collapsed_nodes {5006 5009 5020 5021}
+autolink_nodes 5015 5022 satelite elaboration-additional  5025
+collapsed_nodes {5006 5009 5020 5021 5025}
+collapsed_nodes {5006 5009 5020 5021 5025 5016}
+collapsed_nodes {5006 5009}
+disconnect_node 5022 disconnect
+collapsed_nodes {5006 5009 5015}
+create-a-node-here really 24.31 32 { \n\nJaguar finished 4 lower at 694.}
+create-a-node-here really 25.13 33 {\nDealers said }
+create-a-node-here really 25.134 34 {the market didn't react substantially to Ford Motor Co. 's disclosure to the U.S. Securities and Exchange Commission }
+create-a-node-here really 25.192 35 {that it will seek 100% of Jaguar's shares outstanding }
+create-a-node-here really 25.270 36 {when U.K. government share regulations are lifted at the end of next year.}
+autolink_nodes 34 35 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 35 36 satelite circumstance  5027
+autolink_nodes 33 5026 nucleus attribution  5028
+#autolink_nodes 32 5028 satelite result  5029
+#UNDID
+autolink_nodes 32 5028 satelite result  5029
+collapsed_nodes {5006 5009 5015 5028}
+collapsed_nodes {5006 5009 5015 5028 5021}
+collapsed_nodes {5006 5009 5015 5028 5021 5016}
+autolink_nodes 5024 5022 satelite elaboration-additional  5030
+collapsed_nodes {5006 5009 5015 5028 5021 5016 5022}
+autolink_nodes 5030 5029 satelite elaboration-additional  5031
+collapsed_nodes {5006 5009 5015 5028 5021 5016 5022 5029}
+create-a-node-here really 27.28 37 { \n\nTokyo stocks closed easier, }
+create-a-node-here really 27.77 38 {posting their first loss in six trading days,}
+create-a-node-here really 27.183 39 { partly because of programmed index-linked selling by trust investment funds in the afternoon session.}
+create-a-node-here really 29.47 40 { \n\nThe Nikkei index fell 58.97 points to 35526.55.}
+create-a-node-here really 30.38 41 {\nThe index gained 99.14 points Monday. }
+create-a-node-here really 32.85 42 {\n\nIn early trading in Tokyo Wednesday, the Nikkei index rose 17.92 points to 35544.47. }
+create-a-node-here really 35.0 43 {\n\nOn Tuesday, the Tokyo stock price index of all first section issues was down 6.31 at 2681.22.\n}
+create-a-node-here really 35.89 44 {First section volume was estimated at 900 million shares, up from 605 million Monday.}
+create-a-node-here really 37.15 45 { \n\nObservers said }
+create-a-node-here really 37.67 46 {the market again failed to find a trading focus,}
+create-a-node-here really 37.118 47 { discouraging much participation by investors. }
+create-a-node-here really 39.50 48 {\n\nThe market, however, is expected to remain stable }
+create-a-node-here really 39.97 49 {and expectations for future gains are high,}
+create-a-node-here really 39.115 50 { traders said.}
+create-a-node-here really 40.42 51 {\nSuch sentiment is being supported by word }
+create-a-node-here really 40.174 52 {that a large amount of cash from investment trust funds is scheduled to enter the market later this week and in early November. }
+create-a-node-here really 42.49 53 {\n\nThe expected amount is said to be 700 billion yen}
+create-a-node-here really 42.69 54 { ($4.93 billion)}
+create-a-node-here really 42.95 55 { to 1.05 trillion yen }
+create-a-node-here really 42.157 56 {-- the second largest amount this year in a given period, }
+create-a-node-here really 42.210 57 {following the record high set at the end of July,}
+create-a-node-here really 42.246 58 { according to market observers. }
+autolink_nodes 37 38 satelite consequence-s  5032
+autolink_nodes 5032 39 satelite result  5033
+autolink_nodes 43 42 satelite temporal-before  5034
+autolink_nodes 5034 44 multinuclear List  5035
+autolink_nodes 5035 41 satelite background  5036
+#autolink_nodes 5033 40 satelite elaboration-general-specific  5037
+#UNDID
+autolink_nodes 5036 40 multinuclear List  5037
+autolink_nodes 5033 5037 satelite elaboration-general-specific  5038
+collapsed_nodes {5006 5009 5015 5028 5021 5016 5022 5029 5037}
+autolink_nodes 46 47 satelite consequence-s  5039
+#autolink_nodes 49 48 multinuclear List  5040
+#UNDID
+autolink_nodes 49 48 multinuclear List  5040
+autolink_nodes 5040 50 satelite attribution  5041
+autolink_nodes 5039 45 satelite attribution  5042
+autolink_nodes 51 52 satelite-embedded elaboration-object-attribute-e  5043
+autolink_nodes 53 54 satelite-embedded restatement-e  5044
+autolink_nodes 55 5044 multinuclear Same-Unit  5045
+autolink_nodes 55 56 satelite-embedded elaboration-additional-e  5046
+autolink_nodes 56 57 satelite-embedded elaboration-additional-e  5047
+autolink_nodes 5045 58 satelite attribution  5048
+autolink_nodes 5043 5048 satelite elaboration-general-specific  5049
+collapsed_nodes {5006 5009 5015 5028 5021 5016 5022 5029 5037 5048}
+create-a-node-here really 44.117 59 {\n\nIn addition to a large amount of investment trust fund cash, analysts generally see the market environment improving }
+create-a-node-here really 44.161 60 {compared with the past couple of weeks. }
+create-a-node-here really 46.61 61 {\n\nToshiyuki Nishimura, an analyst at Yamaichi Securities, said,}
+create-a-node-here really 46.100 62 { "The market sentiment is bullish, }
+create-a-node-here really 46.147 63 {simply because there are few bad factors." }
+autolink_nodes 59 60 satelite comparison  5050
+autolink_nodes 62 63 satelite cause  5051
+autolink_nodes 5051 61 satelite attribution  5052
+create-a-node-here really 48.102 64 {\n\nBuying activity Tuesday centered on a wide range of midcapitalization, domestic demand-related shares }
+create-a-node-here really 48.149 65 {whose prices range from 1,000 to 2,000 yen.}
+create-a-node-here really 49.17 66 {\nInvestors expect }
+create-a-node-here really 49.76 67 {these shares will be targets of investment trust funds,}
+create-a-node-here really 49.111 68 { which often buy small amounts }
+create-a-node-here really 49.152 69 {spread across a wide range of issues.}
+create-a-node-here really 51.108 70 { \n\nOn the other hand, high-priced shares such as Pioneer Electronic and Sony failed to spark investor interest }
+create-a-node-here really 51.185 71 {because these issues are unlikely to be bought by investment trust funds,}
+create-a-node-here really 51.206 72 { observers said. }
+autolink_nodes 64 65 satelite-embedded elaboration-additional-e  5053
+autolink_nodes 68 69 satelite-embedded elaboration-object-attribute-e  5054
+autolink_nodes 67 5054 satelite-embedded elaboration-object-attribute-e  5055
+autolink_nodes 5055 66 satelite attribution  5056
+#autolink_nodes 70 71 satelite cause  5057
+#UNDID
+autolink_nodes 70 71 satelite result  5057
+autolink_nodes 5057 72 satelite attribution  5058
+autolink_nodes 5053 5056 satelite explanation-argumentative  5059
+collapsed_nodes {5006 5009 5015 5028 5021 5016 5022 5029 5037 5048 5056}
+#autolink_nodes 5059 5058 multinuclear Contrast  5060
+#UNDID
+create-a-node-here really 53.64 73 {\n\nTuesday's notable losers were highpriced shares such as Pioneer,}
+create-a-node-here really 54.0 74 { which shed 210 yen to 5,900 yen.\n}
+create-a-node-here really 54.31 75 {Sony was down 130 to 8,590.}
+create-a-node-here really 55.23 76 {\nTDK fell 120 to 5,960, }
+create-a-node-here really 55.66 77 {Fuji Photo Film declined 160 to 4,830, }
+create-a-node-here really 55.102 78 {and Fanuc dropped 160 to 7,440. }
+autolink_nodes 73 74 satelite-embedded elaboration-additional-e  5060
+#autolink_nodes 75 5060 multinuclear List  5061
+#autolink_nodes 5061 76 multinuclear List below 5061
+#UNDID
+#UNDID
+autolink_nodes 75 5060 multinuclear List  5061
+autolink_nodes 5061 76 multinuclear List below 5061
+autolink_nodes 5061 77 multinuclear List below 5061
+autolink_nodes 5061 78 multinuclear List below 5061
+collapsed_nodes {5006 5009 5015 5028 5021 5016 5022 5029 5037 5048 5056 5060}
+autolink_nodes 5058 5061 satelite example  5062
+collapsed_nodes {5006 5009 5015 5028 5021 5016 5022 5029 5037 5048 5056 5060 5061}
+autolink_nodes 5059 5062 multinuclear Contrast  5063
+autolink_nodes 5052 5063 satelite explanation-argumentative  5064
+collapsed_nodes {5006 5009 5015 5028 5021 5016 5022 5029 5037 5048 5056 5060 5061 5063}
+autolink_nodes 5050 5049 multinuclear List  5065
+autolink_nodes 5041 5065 satelite evidence  5066
+#autolink_nodes 5050 5064 satelite evidence  5067
+#UNDID
+autolink_nodes 5050 5064 satelite evidence  5067
+collapsed_nodes {5006 5009 5015 5028 5021 5016 5022 5029 5037 5048 5056 5060 5061 5063 5064}
+#autolink_nodes 5042 5066 multinuclear Contrast  5068
+#UNDID
+collapsed_nodes {5006 5009 5015 5028 5021 5016 5022 5029 5037 5048 5056 5060 5061 5063 5064 5065}
+autolink_nodes 5066 5042 multinuclear Contrast  5068
+autolink_nodes 5038 5068 satelite interpretation-s  5069
+collapsed_nodes {5006 5009 5015 5028 5021 5016 5022 5029 5037 5048 5056 5060 5061 5063 5064 5065 5068}
+collapsed_nodes {5006 5009 5015 5021 5016 5022 5037 5048 5056 5060 5061 5063 5064 5065 5068}
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068}
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068}
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021}
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029}
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022}
+create-a-node-here really 57.82 79 {\n\nShare prices on the Frankfurt stock exchange closed sharply lower in thin dealings}
+create-a-node-here really 57.191 80 { as worried investors remained idle as the result of two potentially destabilizing domestic developments.}
+create-a-node-here really 58.25 81 {\nThe DAX index fell 15.85 }
+create-a-node-here really 58.48 82 {to end at 1507.37. }
+create-a-node-here really 60.51 83 {\n\nCutting against the downward trend was Continental,}
+create-a-node-here really 60.90 84 { which jumped 4 marks to 346 marks }
+create-a-node-here really 60.100 85 {($187)}
+create-a-node-here really 60.132 86 { in heavy trading on rumors }
+create-a-node-here really 60.182 87 {that the tire maker is about to be taken over.}
+create-a-node-here really 61.21 88 {\nIt jumped 7.5 Monday.}
+autolink_nodes 79 80 satelite result  5070
+autolink_nodes 81 82 satelite consequence-s  5071
+autolink_nodes 83 84 satelite-embedded elaboration-additional-e  5072
+autolink_nodes 84 85 satelite-embedded restatement-e  5073
+#autolink_nodes 86 87 satelite-embedded elaboration-object-attribute-e  5074
+#UNDID
+autolink_nodes 86 87 satelite-embedded elaboration-object-attribute-e  5074
+autolink_nodes 5073 5074 satelite circumstance  5075
+autolink_nodes 5072 88 satelite temporal-before  5076
+create-a-node-here really 63.13 89 { \n\nTraders said }
+create-a-node-here really 63.51 90 {the market was exceptionally thin,}
+create-a-node-here really 63.99 91 { as small investors remain on the sidelines.}
+create-a-node-here really 64.24 92 {\nMarket participants say }
+create-a-node-here really 64.72 93 {investors are not only licking their wounds }
+create-a-node-here really 64.111 94 {following the turbulence last week,}
+create-a-node-here really 64.183 95 { but they have also been made nervous by two events in West Germany.}
+#autolink_nodes 5076 5071 multinuclear List  5077
+#UNDID
+autolink_nodes 5076 5071 multinuclear Contrast  5077
+autolink_nodes 90 91 satelite result  5078
+autolink_nodes 5078 89 satelite attribution  5079
+autolink_nodes 93 94 satelite temporal-before  5080
+autolink_nodes 95 5080 multinuclear List  5081
+autolink_nodes 5081 92 satelite attribution  5082
+autolink_nodes 5070 5077 satelite elaboration-general-specific  5083
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077}
+autolink_nodes 5079 5082 satelite reason  5084
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5082}
+create-a-node-here really 66.82 96 { \n\nOn Sunday, the governing Christian Democratic Union suffered a series of setbacks,}
+create-a-node-here really 66.143 97 { the extent of which became fully known only late Monday,}
+create-a-node-here really 67.0 98 { in municipal elections in Baden-Wuerttemberg.\n}
+create-a-node-here really 67.16 99 {Traders say }
+create-a-node-here really 67.42 100 {investors are worried }
+create-a-node-here really 67.130 101 {that the CDU won't be able to hold office in federal elections at the end of 1990. }
+create-a-node-here really 69.112 102 {\n\nAnd statements by the chairman of the IG Metall labor union, Franz Steinkuehler, also cast a cloud over trading,}
+create-a-node-here really 70.0 103 { dealers said.\n}
+create-a-node-here really 70.58 104 {Mr. Steinkuehler said at a convention in West Berlin }
+create-a-node-here really 70.110 105 {that the union has to prepare for "a big fight"}
+create-a-node-here really 70.200 106 { to achieve its main goal of a 35-hour workweek, down from current 37-hour workweek. }
+autolink_nodes 96 97 satelite-embedded elaboration-additional-e  5085
+autolink_nodes 98 5085 multinuclear Same-Unit  5086
+#autolink_nodes 100 101 nucleus attribution  5087
+#UNDID
+autolink_nodes 100 101 nucleus attribution  5087
+autolink_nodes 5087 99 satelite attribution  5088
+autolink_nodes 102 103 satelite attribution  5089
+autolink_nodes 105 106 satelite-embedded purpose-e  5090
+autolink_nodes 5090 104 satelite attribution  5091
+#autolink_nodes 5089 5091 satelite elaboration-additional  5092
+#UNDID
+autolink_nodes 5088 5086 satelite background  5092
+autolink_nodes 5091 5089 satelite background  5093
+autolink_nodes 5093 5092 multinuclear List  5094
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5082 5091}
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5082 5091 5086}
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086}
+#autolink_nodes 5081 5094 satelite elaboration-general-specific below 5095
+#UNDID
+autolink_nodes 5081 5094 satelite elaboration-general-specific below 5095
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094}
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082}
+autolink_nodes 5083 5084 satelite explanation-argumentative  5096
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084}
+create-a-node-here really 72.63 107 {\n\nThe decline in prices cut broadly through the blue-chip issues,}
+create-a-node-here really 72.99 108 { as Siemens tumbled 7.5 to 544,}
+create-a-node-here really 72.136 109 { Deutsche Bank plunged 7 to 657,}
+create-a-node-here really 73.0 110 { and the auto makers fell sharply as well.\n}
+create-a-node-here really 73.41 111 {Daimler-Benz dropped 12.5 to 710.5, }
+create-a-node-here really 73.94 112 {Bayerische Motoren Werke dropped 10.5 to 543.5, }
+create-a-node-here really 73.124 113 {and Volkswagen lost 7.1. }
+create-a-node-here really 75.79 114 {\n\nElsewhere, share prices closed lower in Zurich, Amsterdam, Milan and Stockholm.}
+create-a-node-here really 76.59 115 {\nUneasiness about Wall Street was cited in several markets. }
+create-a-node-here really 78.56 116 {\n\nPrices closed lower in Sydney, Singapore and Wellington,}
+create-a-node-here really 78.85 117 { were mixed in Hong Kong}
+create-a-node-here really 78.148 118 { and higher in Taipei, Manila, Paris, Brussels and Seoul. }
+create-a-node-here really 80.57 119 {\n\nHere are price trends on the world's major stock markets,}
+create-a-node-here really 80.137 120 { as calculated by Morgan Stanley Capital International Perspective, Geneva.}
+create-a-node-here really 81.33 121 {\nTo make them directly comparable,}
+create-a-node-here really 81.80 122 { each index is based on the close of 1969 }
+create-a-node-here really 81.98 123 {equaling 100.}
+#create-a-node-here really 82.41 124 {\nThe percentage change is since year-end. }
+#autolink_nodes 107 108 satelite elaboration-general-specific  5097
+#UNDID
+#UNDID
+autolink_nodes 107 108 satelite example  5097
+autolink_nodes 112 111 multinuclear List  5098
+autolink_nodes 5098 113 multinuclear List below 5098
+autolink_nodes 110 5098 satelite elaboration-general-specific  5099
+#autolink_nodes 108 109 multinuclear List  5100
+#UNDID
+autolink_nodes 108 109 multinuclear List  5100
+#autolink_nodes 5100 5099 multinuclear List below 5100
+#collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084 5100}
+#UNDID
+autolink_nodes 5096 5097 satelite elaboration-additional  5101
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084 5097}
+autolink_nodes 117 118 multinuclear Same-Unit  5102
+autolink_nodes 116 5102 multinuclear List  5103
+autolink_nodes 5103 115 multinuclear List below 5103
+autolink_nodes 5103 114 multinuclear List below 5103
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084 5097 5102}
+autolink_nodes 5069 5031 multinuclear List  5104
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084 5097 5102 5038}
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084 5097 5102 5038 5031}
+#autolink_nodes 5101 5104 multinuclear List  5105
+#UNDID
+autolink_nodes 5104 5101 multinuclear List below 5104
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084 5102 5038 5031}
+#autolink_nodes 5100 5099 multinuclear List below 5104
+#UNDID
+autolink_nodes 5100 5099 multinuclear List below 5104
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084 5102 5038 5031 5097}
+autolink_nodes 5104 5002 nucleus summary-n  5105
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084 5102 5038 5031 5097 5096}
+autolink_nodes 119 120 satelite-embedded means-e  5106
+#autolink_nodes 122 123 satelite-embedded consequence-s-e  5107
+#UNDID
+autolink_nodes 122 123 satelite-embedded consequence-s-e  5107
+autolink_nodes 5107 121 satelite purpose  5108
+#create-a-node-here really 82.41 124 {\nThe percentage change is since year-end. }
+#autolink_nodes 5108 124 satelite elaboration-additional  5109
+#UNDID
+#UNDID
+create-a-node-here really 82.41 124 {\nThe percentage change is since year-end. }
+autolink_nodes 5108 124 satelite elaboration-additional  5109
+autolink_nodes 120 5109 satelite manner  5110
+autolink_nodes 5105 5103 satelite topic-shift  5111
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084 5102 5038 5031 5097 5096 5103}
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084 5038 5031 5097 5096}
+#autolink_nodes 5103 5106 satelite elaboration-general-specific  5112
+#UNDID
+autolink_nodes 5103 5106 satelite example  5112
+collapsed_nodes {5006 5009 5015 5016 5037 5048 5056 5060 5061 5063 5064 5065 5068 5021 5029 5022 5077 5091 5086 5094 5082 5084 5038 5031 5097 5096 5112}
+collapsed_nodes {5037 5048 5056 5060 5061 5063 5064 5065 5068 5077 5091 5086 5094 5082 5084 5038 5097 5096 5112}
+collapsed_nodes {5037 5048 5056 5060 5061 5063 5064 5065 5068 5077 5091 5086 5094 5082 5084 5038 5097 5096 5112 5009}
+collapsed_nodes {5037 5048 5056 5060 5061 5063 5064 5065 5068 5077 5091 5086 5094 5082 5084 5038 5097 5096 5112 5009 5016}
+collapsed_nodes {5037 5048 5056 5060 5061 5063 5064 5065 5068 5077 5091 5086 5094 5082 5084 5038 5097 5096 5112 5009 5016 5021}
+disconnect_node 5022 disconnect
+disconnect_node 5029 disconnect
+autolink_nodes 5029 5022 multinuclear List  5113
+autolink_nodes 5024 5113 satelite example  5114
+collapsed_nodes {5037 5048 5056 5060 5061 5063 5064 5065 5068 5077 5091 5086 5094 5082 5084 5038 5097 5096 5112 5009 5016 5021 5024}
+collapsed_nodes {5077 5091 5086 5094 5082 5084 5097 5096 5112 5009 5016 5021 5024}
+disconnect_node 42 disconnect
+autolink_nodes 43 42 satelite temporal-after  5115
+collapsed_nodes {5077 5091 5086 5094 5082 5084 5097 5096 5112 5009 5016 5021 5024 5037}
+collapsed_nodes {5077 5091 5086 5094 5082 5084 5097 5096 5112 5009 5016 5021 5024 5037 5069}
+collapsed_nodes {5112 5009 5016 5021 5024 5037 5069}
+collapsed_nodes {5112 5009 5016 5021 5024 5037 5069 5101}
+collapsed_nodes {5112 5009 5016 5021 5024 5101}
+disconnect_node 5064 disconnect
+autolink_nodes 5050 5064 satelite interpretation-s  5116
+collapsed_nodes {5112 5009 5016 5021 5024 5101 5069}
+collapsed_nodes {5112 5009 5016 5021 5024 5069}
+collapsed_nodes {5112 5009 5016 5021 5024 5069 5101}
+collapsed_nodes {5009 5016 5021 5024 5069 5101}
+collapsed_nodes {}

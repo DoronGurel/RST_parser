@@ -1,0 +1,135 @@
+nextSentence really
+create-a-node-here really 2.97 1 {\nThe Senate convicted U.S. District Judge Alcee Hastings of Florida of eight impeachment articles,}
+create-a-node-here really 2.170 2 { removing the 53-year-old judge from his $89,500-a-year, lifetime job.}
+nextSentence really
+autolink_nodes 1 2 satelite consequence-s  5001
+create-a-node-here really 4.48 3 { \n\nMr. Hastings's case was particularly nettlesome }
+create-a-node-here really 4.84 4 {because it marked the first time }
+create-a-node-here really 4.154 5 {a federal official was impeached and removed from office on charges}
+create-a-node-here really 4.192 6 { of which a jury had acquitted him.}
+nextSentence really
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5002
+autolink_nodes 4 5002 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 3 5003 satelite explanation-argumentative  5004
+autolink_nodes 5001 5004 satelite elaboration-additional  5005
+#create-a-node-here really 5.43 7 {\nIn 1983, Mr. Hastings was found not guilty }
+#UNDID
+create-a-node-here really 5.114 7 {\nIn 1983, Mr. Hastings was found not guilty of accepting a $150,000 bribe in a case before him, the central charge }
+create-a-node-here really 5.151 8 {on which the Senate convicted him.}
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5005 5006 satelite background  5007
+create-a-node-here really 6.87 9 {\nHe was only the sixth federal judge ever ousted from office after an impeachment trial.}
+nextSentence really
+autolink_nodes 5007 9 satelite elaboration-additional  5008
+create-a-node-here really 8.123 10 { \n\nWith no floor debate, the Senate on Friday voted 69-26 to convict Mr. Hastings of perjury and conspiring to accept a bribe,}
+create-a-node-here really 8.156 11 { five votes more than needed.}
+nextSentence really
+autolink_nodes 10 11 satelite elaboration-additional  5009
+create-a-node-here really 9.56 12 {\nConviction on any single impeachment article was enough }
+create-a-node-here really 9.97 13 {to remove Judge Hastings from office.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 5009 5010 satelite elaboration-additional  5011
+autolink_nodes 5008 5011 satelite elaboration-additional  5012
+create-a-node-here really 10.41 14 {\nHe was found not guilty of three charges,}
+create-a-node-here really 10.67 15 { involving accusations}
+create-a-node-here really 10.161 16 { that he had improperly disclosed information about a sensitive, government investigation.}
+nextSentence really
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5013
+#autolink_nodes 14 5013 satelite-embedded elaboration-additional-e  5014
+#UNDID
+autolink_nodes 14 5013 satelite-embedded elaboration-additional-e  5014
+create-a-node-here really 11.45 17 {\nThe Senate didn't vote on six lesser charges.}
+autolink_nodes 5014 17 satelite elaboration-additional  5015
+autolink_nodes 5012 5015 satelite elaboration-additional  5016
+create-a-node-here really 13.51 18 { \n\nAlthough Mr. Hastings had been acquitted by a jury,}
+create-a-node-here really 13.65 19 { lawmakers}
+create-a-node-here really 13.107 20 { handling the prosecution in Congress }
+create-a-node-here really 13.122 21 {had argued }
+create-a-node-here really 13.188 22 {that the purpose of impeachment isn't to punish an individual.}
+nextSentence really
+autolink_nodes 21 22 nucleus attribution  5017
+autolink_nodes 19 20 satelite-embedded elaboration-object-attribute-e  5018
+#autolink_nodes 5017 5018 multinuclear Same-Unit  5019
+#UNDID
+autolink_nodes 21 5018 multinuclear Same-Unit  5019
+autolink_nodes 18 5017 nucleus concession  5020
+create-a-node-here really 14.21 23 {\nInstead, they argued }
+create-a-node-here really 14.90 24 {that impeachment aims to protect public institutions from people }
+create-a-node-here really 14.135 25 {who have abused their positions of trust,}
+create-a-node-here really 14.201 26 { irrespective of the outcome of prior criminal or civil cases.}
+autolink_nodes 24 25 satelite-embedded elaboration-object-attribute-e  5021
+#autolink_nodes 5021 26 satelite antithesis  5022
+#UNDID
+autolink_nodes 5021 26 satelite concession  5022
+autolink_nodes 23 5022 nucleus attribution  5023
+autolink_nodes 5020 5023 satelite elaboration-additional  5024
+#autolink_nodes 5015 5024 satelite elaboration-additional  5025
+#UNDID
+autolink_nodes 5016 5024 satelite elaboration-additional  5025
+disconnect_node 5015 disconnect
+autolink_nodes 5011 5015 satelite elaboration-additional  5026
+disconnect_node 5015 modify
+autolink_nodes 5011 5015 satelite antithesis  5027
+create-a-node-here really 16.31 27 { \n\nMr. Hastings faced the senators}
+create-a-node-here really 16.93 28 { and sat impassively during the first two roll-call votes,}
+create-a-node-here really 16.128 29 { then quickly left the chamber.}
+nextSentence really
+autolink_nodes 27 28 multinuclear List  5028
+autolink_nodes 29 5028 multinuclear Sequence  5029
+create-a-node-here really 17.88 30 {\nIn an impromptu news conference on the Capitol steps, he denounced the senators' action.}
+nextSentence really
+create-a-node-here really 19.67 31 { \n\n"Their opinion is devoid of the wisdom of the forefathers' teaching}
+create-a-node-here really 19.96 32 { regarding impeachment," }
+create-a-node-here really 19.118 33 {Mr. Hastings said.}
+nextSentence really
+autolink_nodes 31 32 satelite-embedded elaboration-object-attribute-e  5030
+autolink_nodes 5030 33 satelite attribution  5031
+autolink_nodes 30 5031 satelite elaboration-additional  5032
+create-a-node-here really 20.15 34 {\nFor the future,}
+create-a-node-here really 20.27 35 { he said}
+create-a-node-here really 20.69 36 { he would run for governor of Florida.}
+nextSentence really
+#autolink_nodes 34 35 satelite-embedded circumstance-e  5033
+#UNDID
+autolink_nodes 34 35 satelite-embedded attribution-e  5033
+autolink_nodes 36 5033 multinuclear Same-Unit  5034
+#autolink_nodes 5032 5029 multinuclear Sequence  5035
+#UNDID
+autolink_nodes 5032 5029 multinuclear Sequence  5035
+collapsed_nodes {5024}
+autolink_nodes 5025 5035 satelite elaboration-additional  5036
+disconnect_node 5035 disconnect
+collapsed_nodes {}
+disconnect_node 5024 disconnect
+autolink_nodes 5027 5024 satelite elaboration-additional  5037
+autolink_nodes 5037 5035 satelite elaboration-additional  5038
+autolink_nodes 5032 5034 satelite elaboration-additional  5039
+create-a-node-here really 22.75 37 { \n\nMr. Hastings was appointed to the federal bench by President Carter in 1979}
+create-a-node-here really 22.139 38 { and was one of the few black federal judges in the country.}
+autolink_nodes 37 38 multinuclear List  5040
+create-a-node-here really 23.92 39 {\nWhile he packed the Senate gallery with his supporters during some of the impeachment trial,}
+create-a-node-here really 23.156 40 { most civil rights groups kept their distance from his case.}
+nextSentence really
+autolink_nodes 39 40 nucleus antithesis  5041
+create-a-node-here really 25.37 41 { \n\nFollowing the impeachment conviction,}
+create-a-node-here really 25.178 42 { Dr. Benjamin Hooks, executive director of the National Association for the Advancement of Colored People, issued a restrained statement,}
+create-a-node-here really 25.191 43 { warning }
+create-a-node-here really 25.253 44 {that the Hastings case could set a "dangerous precedent," }
+create-a-node-here really 25.268 45 {but adding,}
+create-a-node-here really 25.329 46 { "We must respect the considered judgment of the Senate."}
+nextSentence really
+autolink_nodes 45 46 nucleus attribution  5042
+autolink_nodes 43 44 nucleus attribution  5043
+autolink_nodes 5042 5043 multinuclear Contrast  5044
+#autolink_nodes 42 5044 satelite-embedded elaboration-object-attribute-e  5045
+#UNDID
+autolink_nodes 42 5044 satelite-embedded elaboration-object-attribute-e  5045
+autolink_nodes 5045 41 satelite circumstance  5046
+autolink_nodes 5041 5046 satelite example  5047
+autolink_nodes 39 5040 satelite background  5048
+autolink_nodes 5012 5047 satelite elaboration-additional  5049
+#disconnect_node 5040 disconnect
+#autolink_nodes 5041 5040 satelite background below 5050
+#UNDID
+#UNDID

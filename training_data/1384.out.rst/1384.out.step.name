@@ -1,0 +1,9 @@
+nextSentence really
+create-a-node-here really 2.84 1 {\nConsumer spending in Britain rose 0.1% in the third quarter from the second quarter }
+create-a-node-here really 2.120 2 {and was up 3.8% from a year ago, }
+create-a-node-here really 2.171 3 {the Central Statistical Office estimated Friday.}
+nextSentence really
+autolink_nodes 1 2 multinuclear Comparison  5001
+autolink_nodes 5001 3 satelite attribution  5002
+nextSentence really
+nextSentence really

@@ -1,0 +1,355 @@
+nextSentence really
+create-a-node-here really 2.96 1 {\nUAL Corp. 's board quashed any prospects for an immediate revival of a labor-management buy-out,}
+create-a-node-here really 2.107 2 { saying }
+create-a-node-here really 2.168 3 {United Airlines' parent should remain independent for now.}
+nextSentence really
+autolink_nodes 2 3 nucleus elaboration-additional  5001
+autolink_nodes 1 5001 satelite elaboration-additional  5002
+create-a-node-here really 4.78 4 { \n\nAs a result, UAL's chairman, Stephen M. Wolf, pulled out of the buy-out effort}
+create-a-node-here really 4.114 5 { to focus on running the company.}
+nextSentence really
+autolink_nodes 4 5 satelite purpose  5003
+autolink_nodes 5002 5003 satelite consequence-s  5004
+create-a-node-here really 6.68 6 { \n\nThe two developments put the acquisition attempt back to square one }
+create-a-node-here really 6.130 7 {and leaves the airline with an array of unresolved matters,}
+create-a-node-here really 6.189 8 { including an unsettled labor situation and a management}
+create-a-node-here really 6.239 9 { scrambling to restore its damaged credibility.}
+nextSentence really
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5005
+#autolink_nodes 7 5005 satelite-embedded example-e  5006
+#UNDID
+autolink_nodes 7 5005 satelite-embedded example-e  5006
+autolink_nodes 6 5006 multinuclear List  5007
+autolink_nodes 5007 5004 nucleus cause  5008
+create-a-node-here really 8.10 10 { \n\nThe effort}
+create-a-node-here really 8.69 11 { to create the nation's largest employee-owned company }
+create-a-node-here really 8.98 12 {began unraveling Oct. 13 }
+create-a-node-here really 8.207 13 {when the labor-management group was unable to obtain financing for its $300-a-share, $6.79 billion offer.}
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5009
+autolink_nodes 10 11 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 5009 5010 multinuclear Same-Unit  5011
+create-a-node-here really 9.48 14 {\nJust last week it suffered another major setback}
+create-a-node-here really 9.157 15 { when British Airways PLC, the largest equity investor in the labor-management bid, withdrew its support.}
+nextSentence really
+#autolink_nodes 14 15 satelite circumstance  5012
+#UNDID
+autolink_nodes 14 15 satelite explanation-argumentative  5012
+autolink_nodes 5012 5011 multinuclear Sequence  5013
+collapsed_nodes {5007}
+autolink_nodes 5008 5013 satelite background  5014
+create-a-node-here really 11.23 16 { \n\nTakeover stock traders,}
+create-a-node-here really 11.63 17 { focusing on the company's intention}
+create-a-node-here really 11.88 18 { to stay independent,}
+create-a-node-here really 11.127 19 { took the announcement as bad news.}
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 16 5015 satelite-embedded elaboration-object-attribute-e  5016
+autolink_nodes 19 5016 multinuclear Same-Unit  5017
+collapsed_nodes {5007 5013}
+autolink_nodes 5014 5017 satelite consequence-s  5018
+nextSentence really
+create-a-node-here really 13.4 20 { \n\nUAL,}
+create-a-node-here really 13.120 21 { which had risen $9.875 to $178.375 in composite trading on the New York Stock Exchange on reports of a new bid }
+create-a-node-here really 13.152 22 {being prepared by the group,}
+create-a-node-here really 13.173 23 { reversed course }
+nextSentence really
+#create-a-node-here really 13.234 24 {and plummeted in off-exchange trading after the 5:09 p.m.}
+#nextSentence really
+#UNDID
+#UNDID
+nextSentence really
+create-a-node-here really 13.252 24 {and plummeted in off-exchange trading after the 5:09 p.m. EDT announcement.}
+nextSentence really
+autolink_nodes 23 24 multinuclear List  5019
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5020
+#autolink_nodes 20 5020 satelite-embedded elaboration-additional-e  5021
+#UNDID
+autolink_nodes 20 5020 satelite-embedded elaboration-object-attribute-e  5021
+autolink_nodes 5021 5019 multinuclear Same-Unit  5022
+autolink_nodes 5017 5022 satelite evidence  5023
+#create-a-node-here really 15.23 25 { \n\nAmong the first trades }
+#UNDID
+create-a-node-here really 15.22 25 { \n\nAmong the first trades}
+create-a-node-here really 15.78 26 { reported by the securities firm of Jefferies & Co.,}
+create-a-node-here really 15.110 27 { which makes a market in UAL}
+create-a-node-here really 15.144 28 { after the exchange is closed,}
+create-a-node-here really 15.233 29 { were 10,000 shares at $170, 6,000 shares at $162, 2,500 at $162, and 10,000 at $158.}
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 27 28 satelite temporal-after  5025
+autolink_nodes 25 5024 satelite-embedded elaboration-object-attribute-e  5026
+autolink_nodes 29 5026 multinuclear Same-Unit  5027
+#create-a-node-here really 17.174 30 { \n\nThe rebound in UAL stock during regular trading hours Monday was its first daily gain after six consecutive losses left the price 41% below its level before Oct. 13, the day }
+#create-a-node-here really 17.198 31 {the group announced }
+#create-a-node-here really 17.264 32 {the bank financing couldn't be obtained for the original deal.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 17.86 30 { \n\nThe rebound in UAL stock during regular trading hours Monday was its first daily gain }
+create-a-node-here really 17.178 31 {after six consecutive losses left the price 41% below its level before Oct. 13, the day }
+create-a-node-here really 17.202 32 {the group announced }
+create-a-node-here really 17.268 33 {the bank financing couldn't be obtained for the original deal.}
+nextSentence really
+autolink_nodes 32 33 nucleus attribution  5028
+autolink_nodes 31 5028 satelite-embedded elaboration-object-attribute-e  5029
+autolink_nodes 30 5029 satelite temporal-after  5030
+autolink_nodes 5022 5027 satelite elaboration-additional  5031
+collapsed_nodes {5007 5013 5027}
+autolink_nodes 5031 5030 satelite elaboration-additional  5032
+collapsed_nodes {5007 5013 5027 5023}
+create-a-node-here really 19.82 34 { \n\nTwelve of UAL's outside directors met at a five-hour meeting yesterday in Chicago }
+create-a-node-here really 19.160 35 {to consider an informal proposal from the buy-out group for a revised bid.}
+nextSentence really
+#autolink_nodes 34 35 satelite purpose  5033
+#UNDID
+autolink_nodes 34 35 satelite purpose  5033
+create-a-node-here really 20.19 36 {\nBut the board said }
+create-a-node-here really 20.52 37 {it wasn't interested for now.}
+autolink_nodes 36 37 nucleus attribution  5034
+autolink_nodes 5034 5033 satelite antithesis  5035
+#create-a-node-here really 21.14 38 {\nThat proposal,}
+#UNDID
+create-a-node-here really 21.14 38 {\nThat proposal,}
+create-a-node-here really 21.59 39 { valued at between $225 and $240 a share,}
+create-a-node-here really 21.118 40 { would have transferred majority ownership to employees}
+create-a-node-here really 21.164 41 { while leaving some stock in public hands.}
+nextSentence really
+autolink_nodes 40 41 multinuclear List  5036
+autolink_nodes 38 39 satelite-embedded elaboration-additional-e  5037
+autolink_nodes 5037 5036 multinuclear Same-Unit  5038
+autolink_nodes 5035 5038 satelite elaboration-additional  5039
+create-a-node-here really 23.53 42 { \n\nThe buy-out group had no firm financing for the plan.}
+nextSentence really
+create-a-node-here really 24.91 43 {\nAnd, with no other offers on the table, the board apparently felt no pressure to act on it.}
+nextSentence really
+autolink_nodes 42 43 nucleus circumstance  5040
+autolink_nodes 5039 5040 satelite explanation-argumentative  5041
+create-a-node-here really 26.32 44 { \n\nThe directors signaled, however,}
+create-a-node-here really 26.115 45 { that they would be willing to consider future offers or take some other action}
+create-a-node-here really 26.150 46 { to maximize shareholder value,}
+create-a-node-here really 26.161 47 { saying}
+create-a-node-here really 26.240 48 { they would continue to explore "all strategic and financial alternatives."}
+nextSentence really
+autolink_nodes 47 48 nucleus attribution  5042
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5043
+autolink_nodes 44 5043 nucleus attribution  5044
+autolink_nodes 5044 5042 satelite elaboration-additional  5045
+disconnect_node 5033 modify
+autolink_nodes 5034 5033 satelite circumstance below 5046
+autolink_nodes 5041 5045 satelite antithesis  5047
+create-a-node-here really 28.92 49 { \n\nBut it was clear that for the time being, the board wants the company to return to normalcy.}
+nextSentence really
+collapsed_nodes {5007 5013 5027 5023 5045}
+autolink_nodes 5047 49 satelite interpretation-s  5048
+create-a-node-here really 29.15 50 {\nThe board said }
+create-a-node-here really 29.32 51 {it concluded }
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 29.226 52 {that "the welfare of the company, its shareholders, its employees and the broader public . . . can best be enhanced by continued development of UAL as a strong, viable, independent company."}
+nextSentence really
+autolink_nodes 51 52 nucleus attribution  5049
+autolink_nodes 50 5049 nucleus attribution  5050
+autolink_nodes 49 5050 satelite evidence  5051
+create-a-node-here really 31.89 53 { \n\nMr. Wolf urged all employees to "now turn their full attention" to operating the airline.}
+nextSentence really
+create-a-node-here really 32.35 54 {\nHe also vowed to "make every effort}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 32.89 55 { to nurture . . . a constructive new relationship }
+create-a-node-here really 32.150 56 {that has been forged with participating employee groups."}
+nextSentence really
+autolink_nodes 55 56 satelite-embedded elaboration-object-attribute-e  5052
+autolink_nodes 54 5052 satelite-embedded elaboration-object-attribute-e  5053
+autolink_nodes 53 5053 satelite elaboration-additional  5054
+create-a-node-here really 34.36 57 { \n\nBut Mr. Wolf faces a monumental task}
+create-a-node-here really 34.84 58 { in pulling the company back together again.}
+nextSentence really
+autolink_nodes 57 58 satelite-embedded elaboration-object-attribute-e  5055
+autolink_nodes 5055 5054 satelite antithesis  5056
+create-a-node-here really 35.28 59 {\nLabor problems top the list.}
+nextSentence really
+autolink_nodes 5056 59 satelite example  5057
+create-a-node-here really 36.92 60 {\nFor a brief time, the buy-out effort seemed to solve his problems with United's pilot union.}
+nextSentence really
+create-a-node-here really 37.107 61 {\nIn return for an ownership stake in the company, the pilots were willing to agree to a seven-year contract }
+create-a-node-here really 37.199 62 {that included a no-strike clause and significant wage concessions and productivity gains}
+create-a-node-here really 37.234 63 { the union previously resisted.}
+nextSentence really
+#autolink_nodes 61 62 satelite-embedded elaboration-object-attribute-e  5058
+#UNDID
+#autolink_nodes 61 62 satelite-embedded elaboration-object-attribute-e  5058
+#UNDID
+autolink_nodes 61 62 satelite-embedded elaboration-additional-e  5058
+autolink_nodes 5058 63 satelite-embedded elaboration-object-attribute-e  5059
+autolink_nodes 60 5059 satelite explanation-argumentative  5060
+create-a-node-here really 39.53 64 { \n\nThat contract was tied to the success of the buy-out.}
+autolink_nodes 5060 64 satelite elaboration-additional  5061
+create-a-node-here really 40.78 65 {\nAs a "good-will measure," the pilots had been working four extra hours a month}
+create-a-node-here really 40.143 66 { and had agreed to fly UAL's two new Boeing 747-400 aircraft.}
+nextSentence really
+autolink_nodes 65 66 multinuclear List  5062
+disconnect_node 64 disconnect
+autolink_nodes 5059 64 satelite elaboration-additional  5063
+create-a-node-here really 41.51 67 {\nIt's uncertain if the pilots will continue to do so}
+create-a-node-here really 41.86 68 { without a contract settlement.}
+nextSentence really
+autolink_nodes 67 68 satelite circumstance  5064
+autolink_nodes 5063 5062 satelite elaboration-additional  5065
+autolink_nodes 5064 5060 satelite antithesis  5066
+create-a-node-here really 43.30 69 { \n\nThe union said late last night}
+create-a-node-here really 43.93 70 { that it is still committed to majority employee ownership }
+create-a-node-here really 43.124 71 {and that the labor disputes}
+create-a-node-here really 43.179 72 { that faced the company prior to the buy-out effort}
+create-a-node-here really 43.213 73 { "still need to be addressed."}
+nextSentence really
+autolink_nodes 71 72 satelite-embedded elaboration-object-attribute-e  5067
+autolink_nodes 5067 73 multinuclear Same-Unit  5068
+autolink_nodes 70 5068 multinuclear List  5069
+autolink_nodes 69 5069 nucleus attribution  5070
+autolink_nodes 5066 5070 satelite elaboration-additional  5071
+collapsed_nodes {5007 5013 5027 5023 5045 5060}
+create-a-node-here really 45.104 74 { \n\nThe buy-out effort also worsened already-strained relations between United's pilot and machinist unions.}
+nextSentence really
+create-a-node-here really 46.85 75 {\nThe machinists' criticisms of the labor-management bid and their threats of a strike }
+create-a-node-here really 46.147 76 {unless they received substantial wage increases this year }
+create-a-node-here really 46.178 77 {helped cool banks' interest}
+create-a-node-here really 46.212 78 { in financing the transaction.}
+nextSentence really
+autolink_nodes 77 78 satelite-embedded elaboration-object-attribute-e  5072
+autolink_nodes 75 76 satelite-embedded condition-e  5073
+autolink_nodes 5072 5073 multinuclear Same-Unit  5074
+create-a-node-here really 48.73 79 { \n\nThe machinists previously had shown themselves to be an ally to Mr. Wolf,}
+create-a-node-here really 48.130 80 { but he lost much of his credibility with that group }
+create-a-node-here really 48.173 81 {when he teamed up with the pilot union.}
+nextSentence really
+autolink_nodes 80 81 satelite reason  5075
+autolink_nodes 5075 79 satelite antithesis  5076
+create-a-node-here really 49.35 82 {\nThe machinists criticized the terms}
+create-a-node-here really 49.88 83 { Mr. Wolf and management received in the buy-out.}
+nextSentence really
+autolink_nodes 82 83 satelite-embedded elaboration-object-attribute-e  5077
+autolink_nodes 5076 5077 satelite elaboration-additional  5078
+autolink_nodes 74 5074 satelite elaboration-additional  5079
+create-a-node-here really 50.37 84 {\nThey paid $15 million for a 1% stake }
+create-a-node-here really 50.108 85 {and received an additional 9% of the company at no additional cost.}
+nextSentence really
+autolink_nodes 84 85 multinuclear List  5080
+autolink_nodes 5077 5080 satelite elaboration-additional  5081
+autolink_nodes 5079 5078 satelite elaboration-additional  5082
+autolink_nodes 5071 5082 multinuclear List  5083
+autolink_nodes 59 5083 satelite elaboration-general-specific  5084
+autolink_nodes 5018 5048 satelite elaboration-additional  5085
+collapsed_nodes {5007 5013 5027 5023 5045 5060 5083}
+create-a-node-here really 52.64 86 { \n\nHis credibility is also on the line in the investment community.}
+nextSentence really
+create-a-node-here really 53.104 87 {\nUntil the collapse of this bid, Mr. Wolf was regarded as one of the nation's savviest airline executives}
+create-a-node-here really 53.189 88 { after engineering turnarounds of Tiger International Inc. and Republic Airlines.}
+nextSentence really
+autolink_nodes 87 88 satelite reason  5086
+create-a-node-here really 55.98 89 { \n\nBut he and his chief financial officer, John Pope, sowed some of the seeds for the deal's failure }
+create-a-node-here really 55.114 90 {by insisting}
+create-a-node-here really 55.170 91 { banks accept low financing fees and interest rates,}
+nextSentence really
+create-a-node-here really 55.258 92 { while they invested in the transaction only a small fraction of the $114.3 million }
+create-a-node-here really 55.322 93 {they stood to gain from sale of their UAL stock and options.}
+nextSentence really
+autolink_nodes 92 93 satelite-embedded elaboration-object-attribute-e  5087
+autolink_nodes 90 91 nucleus attribution  5088
+#autolink_nodes 89 5088 satelite-embedded elaboration-object-attribute-e  5089
+#UNDID
+autolink_nodes 5088 5087 multinuclear Contrast  5089
+autolink_nodes 89 5089 satelite explanation-argumentative  5090
+#disconnect_node 5089 modify
+#autolink_nodes 89 5089 satelite means  5091
+#UNDID
+#UNDID
+autolink_nodes 5090 5086 satelite antithesis  5091
+autolink_nodes 86 5091 satelite elaboration-additional  5092
+autolink_nodes 5057 5092 satelite elaboration-additional  5093
+collapsed_nodes {5007 5013 5027 5023 5045 5060 5083 5050}
+collapsed_nodes {5007 5013 5027 5023 5045 5060 5083 5050 5048}
+autolink_nodes 5085 5093 satelite elaboration-additional  5094
+create-a-node-here really 57.116 94 { \n\nThe board's actions leave takeover stock traders nursing some $700 million in losses and eager to respond to anyone }
+create-a-node-here really 57.147 95 {who might make a new offer.}
+autolink_nodes 94 95 satelite-embedded elaboration-object-attribute-e  5095
+create-a-node-here really 58.60 96 {\nIt also inevitably leaves a residue of shareholder lawsuits.}
+nextSentence really
+autolink_nodes 5095 96 multinuclear List  5096
+create-a-node-here really 60.16 97 { \n\nArbitragers said}
+create-a-node-here really 60.44 98 { they were disappointed }
+create-a-node-here really 60.111 99 {the company didn't announce some recapitalization or other plan}
+create-a-node-here really 60.134 100 { to maximize value.}
+nextSentence really
+autolink_nodes 99 100 satelite-embedded elaboration-object-attribute-e  5097
+autolink_nodes 98 5097 nucleus attribution  5098
+autolink_nodes 97 5098 nucleus attribution  5099
+create-a-node-here really 61.25 101 {\nOne takeover expert noted}
+create-a-node-here really 61.114 102 { that arbitragers could force a recapitalization through the written consent process}
+create-a-node-here really 61.178 103 { under which holders may oust the board by a majority vote.}
+nextSentence really
+autolink_nodes 102 103 satelite-embedded elaboration-object-attribute-e  5100
+autolink_nodes 101 5100 nucleus attribution  5101
+autolink_nodes 5101 5099 satelite circumstance  5102
+create-a-node-here really 62.35 104 {\nThe machinists union has suggested }
+create-a-node-here really 62.73 105 {it may propose a recapitalization}
+create-a-node-here really 62.169 106 { that includes a special dividend for holders and a minority ownership stake for employees.}
+nextSentence really
+autolink_nodes 105 106 satelite-embedded elaboration-object-attribute-e  5103
+autolink_nodes 104 5103 nucleus attribution  5104
+autolink_nodes 5102 5104 multinuclear List  5105
+autolink_nodes 5096 5105 satelite elaboration-additional  5106
+create-a-node-here really 64.34 107 { \n\nLos Angeles investor Marvin Davis,}
+#create-a-node-here really 64.82 108 { whose $240-a-share offer for UAL in August}
+#create-a-node-here really 64.112 109 { triggered a bidding war,}
+#create-a-node-here really 64.123 110 { says }
+#create-a-node-here really 64.165 111 {he remains interested in the airline.}
+#nextSentence really
+#autolink_nodes 110 111 nucleus attribution  5107
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 64.107 108 { whose $240-a-share offer for UAL in August triggered a bidding war,}
+create-a-node-here really 64.118 109 { says }
+create-a-node-here really 64.160 110 {he remains interested in the airline.}
+autolink_nodes 109 110 nucleus attribution  5107
+autolink_nodes 107 108 satelite-embedded elaboration-object-attribute-e  5108
+autolink_nodes 5108 5107 multinuclear Same-Unit  5109
+create-a-node-here really 65.76 111 {\nHowever, he is restricted from making certain hostile moves by an agreement }
+create-a-node-here really 65.91 112 {he signed }
+create-a-node-here really 65.128 113 {to obtain confidential UAL data.}
+nextSentence really
+autolink_nodes 111 112 satelite-embedded elaboration-object-attribute-e  5110
+autolink_nodes 5110 113 satelite-embedded elaboration-object-attribute-e  5111
+create-a-node-here really 66.44 114 {\nEssentially, he can't make any hostile moves}
+create-a-node-here really 66.103 115 { unless he makes a tender offer at least $300 a share.}
+nextSentence really
+autolink_nodes 114 115 satelite condition  5112
+autolink_nodes 5111 5112 satelite elaboration-additional  5113
+autolink_nodes 5109 5113 satelite antithesis  5114
+collapsed_nodes {5007 5013 5027 5023 5045 5060 5083 5050 5048 5093}
+autolink_nodes 5094 5106 satelite elaboration-additional  5115
+collapsed_nodes {5007 5013 5027 5023 5045 5060 5083 5050 5048 5093 5106}
+autolink_nodes 5115 5114 satelite elaboration-additional  5116
+collapsed_nodes {5013 5027 5023 5045 5060 5083 5050 5048 5093 5106}
+collapsed_nodes {5027 5023 5045 5060 5083 5050 5048 5093 5106}
+collapsed_nodes {5045 5060 5083 5050 5048 5093 5106}
+collapsed_nodes {5060 5083 5093 5106}
+collapsed_nodes {5106}
+collapsed_nodes {}
+disconnect_node 2 modify
+autolink_nodes 3 2 satelite attribution  5117
+disconnect_node 13 disconnect
+autolink_nodes 12 13 satelite circumstance  5118
+disconnect_node 5019 disconnect
+disconnect_node 24 disconnect
+autolink_nodes 5021 23 multinuclear Same-Unit  5119
+autolink_nodes 5119 24 multinuclear List above 5120
+disconnect_node 5036 disconnect
+disconnect_node 40 disconnect
+autolink_nodes 5037 40 multinuclear Same-Unit  5121
+autolink_nodes 5121 41 multinuclear List above 5122

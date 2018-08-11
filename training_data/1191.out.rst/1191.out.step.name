@@ -1,0 +1,63 @@
+nextSentence really
+create-a-node-here really 2.33 1 {\nThe Federal Trade Commission said}
+create-a-node-here really 2.93 2 { it authorized its staff to seek a preliminary injunction}
+create-a-node-here really 2.252 3 { barring Imo Industries Inc. from acquiring the shares outstanding of the U.S. unit of the British company, United Scientific Holdings PLC, for $69 million.}
+nextSentence really
+create-a-node-here really 4.13 4 { \n\nThe FTC said }
+create-a-node-here really 4.31 5 {it "had reason }
+create-a-node-here really 4.45 6 {to believe }
+create-a-node-here really 4.171 7 {that the proposed acquisition could substantially reduce competition" in the production of certain image intensifier tubes,}
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 2 3 satelite elaboration-additional below 5002
+autolink_nodes 4 5 nucleus attribution  5003
+autolink_nodes 6 7 nucleus attribution  5004
+#autolink_nodes 6 5003 nucleus elaboration-additional  5005
+#create-a-node-here really 4.230 8 { which are important components of night-vision devices }
+#create-a-node-here really 4.272 9 {sold primarily to the defense industry.}
+#nextSentence really
+#create-a-node-here really 6.13 10 { \n\nThe FTC said }
+#create-a-node-here really 6.91 11 {it would seek to enjoin the proposed acquisition in a federal trial court,}
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#autolink_nodes 5 5004 satelite-embedded elaboration-additional-e below 5005
+#UNDID
+autolink_nodes 5 5004 satelite-embedded elaboration-object-attribute-e below 5005
+create-a-node-here really 4.230 8 { which are important components of night-vision devices }
+create-a-node-here really 4.272 9 {sold primarily to the defense industry.}
+create-a-node-here really 6.13 10 { \n\nThe FTC said }
+create-a-node-here really 6.92 11 {it would seek to enjoin the proposed acquisition in a federal trial court, }
+create-a-node-here really 6.130 12 {but declined to specify which one.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-additional-e below 5006
+autolink_nodes 8 9 satelite elaboration-additional  5007
+autolink_nodes 10 11 nucleus attribution  5008
+autolink_nodes 11 12 multinuclear List  5009
+autolink_nodes 5001 5003 satelite elaboration-additional  5010
+collapsed_nodes {5003}
+autolink_nodes 5010 5008 satelite elaboration-additional  5011
+create-a-node-here really 7.65 13 {\nUnder federal law, if the court grants a preliminary injunction, }
+#create-a-node-here really 7.115 14 {the FTC must begin administrative proceedings }
+#UNDID
+create-a-node-here really 7.115 14 {the FTC must begin administrative proceedings }
+create-a-node-here really 7.192 15 {to determine the legality of the proposed stock purchase within 20 days. }
+create-a-node-here really 9.161 16 {\n\nOfficials at the United Scientific unit, Optic-Electronic Corp. of Garland, Texas, and at Imo Industries of Lawrenceville, N.J., couldn't be reached for comment.}
+nextSentence really
+autolink_nodes 13 14 nucleus condition  5012
+autolink_nodes 14 15 satelite purpose below 5013
+autolink_nodes 5008 5012 satelite elaboration-additional  5014
+collapsed_nodes {5003 5014}
+autolink_nodes 5011 16 satelite elaboration-additional  5015
+collapsed_nodes {5003}
+collapsed_nodes {}
+collapsed_nodes {5015}
+collapsed_nodes {}
+disconnect_node 3 disconnect
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e below 5016
+disconnect_node 5007 disconnect
+autolink_nodes 7 5007 satelite-embedded elaboration-object-attribute-e  5017
+disconnect_node 9 disconnect
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5018

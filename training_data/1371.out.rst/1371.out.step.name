@@ -1,0 +1,165 @@
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 3.39 1 {\nShareholders of Nuovo Banco Ambrosiano S.p.\nA. voted to accept a bid of 5,500 lire }
+create-a-node-here really 3.49 2 {($4.03)}
+nextSentence really
+create-a-node-here really 3.113 3 { a share by France's Credit Agricole for 13.32% of the bank, }
+nextSentence really
+create-a-node-here really 4.3 4 {rejecting an earlier, equal offer by Italy's Assicurazioni Generali S.p.\nA. }
+autolink_nodes 1 2 satelite restatement  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+autolink_nodes 3 4 satelite elaboration-additional  5003
+create-a-node-here really 6.63 5 {\n\nThe move will give Nuovo Banco a badly needed foreign presence,}
+create-a-node-here really 6.123 6 { and make Credit Agricole the bank's largest shareholder.}
+nextSentence really
+create-a-node-here really 7.59 7 {\nIt also opens a rift in the bank's shareholders' syndicate }
+create-a-node-here really 7.117 8 {that could lead to a battle for control of the concern.}
+nextSentence really
+autolink_nodes 5 6 multinuclear List  5004
+#autolink_nodes 5004 7 multinuclear List below 5004
+#UNDID
+autolink_nodes 5004 7 multinuclear List below 5004
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 8.60 9 {\nNuovo Banco will become Italy's biggest private-sector bank }
+create-a-node-here really 8.149 10 {when it completes its scheduled merger with Banca Cattolica del Venetoen by year end. }
+create-a-node-here really 10.73 11 {\n\nCredit Agricole asked a Milan court to sequester the Nuovo Banco shares, }
+create-a-node-here really 10.115 12 {the Italian news agency ANSA reported.}
+nextSentence really
+create-a-node-here really 11.56 13 {\nThe tribunal is scheduled to rule on the request Friday.}
+nextSentence really
+create-a-node-here really 12.36 14 {\nNo reason for the request was given.}
+nextSentence really
+create-a-node-here really 13.70 15 {\nCredit Agricole officials couldn't be immediately reached for comment.}
+nextSentence really
+autolink_nodes 5002 5004 satelite elaboration-additional  5006
+autolink_nodes 9 10 multinuclear Temporal-Same-Time  5007
+autolink_nodes 11 12 satelite attribution  5008
+autolink_nodes 5006 5007 satelite elaboration-additional  5009
+autolink_nodes 5007 5008 satelite elaboration-additional  5010
+autolink_nodes 5008 13 satelite elaboration-additional  5011
+autolink_nodes 13 14 satelite elaboration-additional  5012
+autolink_nodes 5011 15 satelite elaboration-additional  5013
+create-a-node-here really 15.46 16 { \n\nThe decision to accept Credit Agricole's bid, }
+nextSentence really
+#create-a-node-here really 15.80 17 {valued at 283.3 billion lire (}
+#nextSentence really
+#nextSentence really
+#create-a-node-here really 15.100 18 {$207.4 million),}
+#create-a-node-here really 15.141 19 { came after a stormy weekend meeting.}
+#nextSentence really
+#nextSentence really
+#create-a-node-here really 18.45 20 {\nNuovo Banco's second largest shareholder, the Fiat S.p.\nA.-controlled investment concern, Gemina S.p.\nA., fought to have Generali's offer approved.}
+#nextSentence really
+#create-a-node-here really 19.7 21 {\nGemina,}
+#nextSentence really
+#create-a-node-here really 19.45 22 { which owns 13.26% of Nuovo Banco,}
+#create-a-node-here really 19.98 23 { abstained in the final vote on Credit Agricole, }
+#create-a-node-here really 19.163 24 {which was nonetheless approved by a majority of shareholders.}
+#nextSentence really
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 15.79 17 {valued at 283.3 billion lire }
+create-a-node-here really 15.100 18 {($207.4 million),}
+create-a-node-here really 15.141 19 { came after a stormy weekend meeting.}
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 19.0 20 {\nNuovo Banco's second largest shareholder, the Fiat S.p.\nA.-controlled investment concern, Gemina S.p.\nA., fought to have Generali's offer approved.\n}
+create-a-node-here really 19.12 21 {Gemina, }
+nextSentence really
+create-a-node-here really 19.49 22 {which owns 13.26% of Nuovo Banco,}
+create-a-node-here really 19.102 23 { abstained in the final vote on Credit Agricole, }
+create-a-node-here really 19.167 24 {which was nonetheless approved by a majority of shareholders.}
+nextSentence really
+autolink_nodes 16 17 satelite-embedded elaboration-additional-e  5014
+autolink_nodes 17 18 satelite-embedded restatement-e  5015
+autolink_nodes 5014 19 multinuclear Same-Unit  5016
+autolink_nodes 21 22 satelite-embedded elaboration-object-attribute-e  5017
+autolink_nodes 5017 23 multinuclear Same-Unit  5018
+autolink_nodes 23 24 satelite elaboration-additional  5019
+autolink_nodes 5010 5016 satelite elaboration-additional  5020
+autolink_nodes 5016 20 satelite elaboration-additional  5021
+autolink_nodes 20 5018 satelite elaboration-additional  5022
+create-a-node-here really 21.81 25 { \n\nThe linkup with Credit Agricole will give Nuovo Banco its first foreign presence }
+create-a-node-here really 21.148 26 {since it was formed from the wreck of the old Banco Ambrosiano,}
+create-a-node-here really 21.232 27 { which collapsed amid scandal after the death of Chairman Roberto Calvi in 1982.}
+create-a-node-here really 22.58 28 {\nSince then, the bank has strengthened its Italian network,}
+create-a-node-here really 22.93 29 { and has posted strong results.}
+nextSentence really
+create-a-node-here really 24.22 30 { \n\n"The shareholders felt}
+create-a-node-here really 24.61 31 { we needed a foreign presence more }
+create-a-node-here really 24.114 32 {than we needed links with an insurance company," }
+create-a-node-here really 24.149 33 {an Ambrosiano spokeswoman said.}
+nextSentence really
+autolink_nodes 25 26 satelite temporal-before  5023
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5024
+autolink_nodes 5023 28 multinuclear Sequence  5025
+autolink_nodes 28 29 multinuclear List  5026
+autolink_nodes 30 31 nucleus attribution  5027
+autolink_nodes 31 32 multinuclear Comparison  5028
+autolink_nodes 5027 33 satelite attribution  5029
+create-a-node-here really 26.27 34 { \n\nGemina said in a statement }
+create-a-node-here really 26.59 35 {that "it reserves the right }
+create-a-node-here really 26.81 36 {to take any action}
+create-a-node-here really 26.138 37 { to protect its rights as a member of the syndicate."}
+create-a-node-here really 26.170 38 { A company spokeswoman said }
+create-a-node-here really 26.215 39 {the company hadn't decided what measures }
+create-a-node-here really 26.228 40 {to take, }
+create-a-node-here really 26.265 41 {but didn't rule out legal action.}
+nextSentence really
+autolink_nodes 34 35 nucleus attribution  5030
+autolink_nodes 35 36 satelite-embedded elaboration-object-attribute-e below 5031
+autolink_nodes 36 37 satelite purpose  5032
+autolink_nodes 38 39 nucleus attribution  5033
+autolink_nodes 39 40 satelite-embedded elaboration-object-attribute-e below 5034
+autolink_nodes 5034 41 multinuclear Contrast  5035
+create-a-node-here really 28.99 42 { \n\nGenerali, Italy's biggest insurer, last month offered 5,500 lire a share for the Nuovo Banco stake }
+create-a-node-here really 28.168 43 {held by Banco Popolare di Milano, the bank's largest shareholder,}
+create-a-node-here really 28.195 44 { which announced plans }
+create-a-node-here really 28.238 45 {to sell the holdings earlier this year.}
+nextSentence really
+create-a-node-here really 30.91 46 { \n\nA Generali spokesman declined to comment on Nuovo Banco's rejection of the insurer's offer.}
+nextSentence really
+create-a-node-here really 32.99 47 { \n\nOn the Milan stock exchange, Nuovo Banco's shares jumped to 4,830 lire each from 4,695 lire Friday.}
+nextSentence really
+autolink_nodes 42 43 satelite-embedded elaboration-object-attribute-e  5036
+autolink_nodes 43 44 satelite-embedded elaboration-additional-e  5037
+autolink_nodes 44 45 nucleus attribution  5038
+change_rel 5024 circumstance
+collapsed_nodes {5016}
+autolink_nodes 5021 5025 satelite elaboration-additional  5039
+autolink_nodes 5039 5029 satelite elaboration-additional  5040
+autolink_nodes 5029 5030 satelite elaboration-additional  5041
+autolink_nodes 5030 5033 satelite elaboration-additional  5042
+autolink_nodes 5036 46 satelite elaboration-additional  5043
+autolink_nodes 5033 5043 satelite elaboration-additional  5044
+collapsed_nodes {5016 5006}
+autolink_nodes 5009 47 multinuclear Topic-Drift  5045
+collapsed_nodes {}
+collapsed_nodes {5009}
+collapsed_nodes {}
+collapsed_nodes {5009}
+collapsed_nodes {}
+disconnect_node 2 disconnect
+autolink_nodes 1 2 satelite-embedded restatement-e  5046
+disconnect_node 5015 disconnect
+autolink_nodes 16 5015 satelite-embedded elaboration-object-attribute-e  5047
+collapsed_nodes {5009}
+collapsed_nodes {}

@@ -1,0 +1,281 @@
+nextSentence really
+create-a-node-here really 3.51 1 {\n  Energetic and concrete action has been taken in Colombia during the\npast 60 days against the mafiosi of the drug trade,}
+create-a-node-here really 4.23 2 { but it has not been\nsufficiently effective,}
+create-a-node-here really 4.68 3 { because, unfortunately, it came too late.}
+nextSentence really
+autolink_nodes 2 3 satelite explanation-argumentative  5001
+autolink_nodes 5001 1 satelite concession  5002
+create-a-node-here really 5.46 4 {\n   Ten years ago, the newspaper El Espectador,}
+create-a-node-here really 6.21 5 { of which my brother\nGuillermo was editor,}
+create-a-node-here really 7.29 6 { began warning of the rise of the drug mafias and\nof their leaders' aspirations}
+create-a-node-here really 8.13 7 { to control Colombian politics, especially\nthe Congress.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5003
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e  5004
+autolink_nodes 5003 5004 multinuclear Same-Unit  5005
+create-a-node-here really 9.8 8 {\n   Then,}
+create-a-node-here really 9.58 9 { when it would have been easier to resist them,}
+create-a-node-here really 10.5 10 { nothing was\ndone }
+create-a-node-here really 10.72 11 {and my brother was murdered by the drug mafias three years ago.}
+nextSentence really
+autolink_nodes 10 11 satelite consequence-s  5006
+#autolink_nodes 5006 9 satelite-embedded concession-e  5007
+#autolink_nodes 5007 8 multinuclear Same-Unit  5008
+#UNDID
+#UNDID
+autolink_nodes 5006 9 satelite-embedded concession-e  5007
+autolink_nodes 5007 8 multinuclear Same-Unit  5008
+autolink_nodes 5008 5005 satelite background  5009
+autolink_nodes 5002 5009 satelite evidence  5010
+collapsed_nodes {5009}
+create-a-node-here really 12.48 12 {\n   The most ruthless dictatorships have not censored their press more\nbrutally than the drug mafias censor Colombia's.}
+create-a-node-here really 13.66 13 {\n   The censorship is enforced through terrorism and assassination.}
+nextSentence really
+autolink_nodes 12 13 satelite means  5011
+create-a-node-here really 15.9 14 {\n   In the past 10 years about 50 journalists have been silenced forever,\nmurdered.}
+nextSentence really
+create-a-node-here really 17.24 15 {\n   Within the past two months a bomb exploded in the offices of the\nEl Espectador in Bogota,}
+create-a-node-here really 18.14 16 { destroying a major part of its installations\nand equipment.}
+nextSentence really
+autolink_nodes 15 16 nucleus cause  5012
+autolink_nodes 5012 14 multinuclear List  5013
+create-a-node-here really 20.26 17 {\n   And only last week the newspaper Vanguardia Liberal in the city\nof Bucaramanga was bombed,}
+create-a-node-here really 20.63 18 { and its installations destroyed.}
+nextSentence really
+autolink_nodes 17 18 nucleus cause  5014
+autolink_nodes 5013 5014 multinuclear List below 5014
+#create-a-node-here really 22.35 19 {\n   Journalists and their families are constantly threatened as are\nthe newspaper distribution outlets.}
+#nextSentence really
+#UNDID
+#UNDID
+create-a-node-here really 21.60 19 {\n   Journalists and their families are constantly threatened }
+create-a-node-here really 22.35 20 {as are\nthe newspaper distribution outlets.}
+#autolink_nodes 19 20 satelite temporal-same-time  5015
+#UNDID
+#autolink_nodes 19 20 multinuclear Temporal-Same-Time  5015
+#UNDID
+autolink_nodes 19 20 multinuclear List  5015
+create-a-node-here really 23.34 21 {\n  Distribution centers are bombed,}
+create-a-node-here really 23.71 22 { and advertisers are intimidated.}
+nextSentence really
+autolink_nodes 21 22 multinuclear List  5016
+autolink_nodes 5015 5016 multinuclear List above 5017
+autolink_nodes 5013 5017 satelite summary-s  5018
+autolink_nodes 5011 5018 satelite evidence  5019
+collapsed_nodes {5009}
+collapsed_nodes {5009}
+collapsed_nodes {}
+collapsed_nodes {5009}
+#autolink_nodes 5010 5019 satelite background  5020
+#UNDID
+autolink_nodes 5019 5010 satelite background  5020
+collapsed_nodes {5009 5018}
+create-a-node-here really 24.37 23 {\n  Censorship is imposed by terrorism.}
+#autolink_nodes 5019 23 satelite restatement below 5021
+#UNDID
+autolink_nodes 5019 23 satelite restatement below 5021
+create-a-node-here really 25.63 24 {\n  If the Colombian media accept this new and hideous censorship}
+create-a-node-here really 26.15 25 { there\nis little doubt}
+create-a-node-here really 27.18 26 { that the drug mafia's terrorism someday will extend to\nall the newspapers}
+create-a-node-here really 27.51 27 { published in the free world.}
+nextSentence really
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e  5022
+autolink_nodes 25 5022 satelite-embedded elaboration-object-attribute-e  5023
+autolink_nodes 5023 24 satelite condition  5024
+create-a-node-here really 29.26 28 {\n  The solidarity of the uncensored media world-wide against drug\nterrorism is the only way }
+create-a-node-here really 29.56 29 {press freedom can survive.}
+nextSentence really
+autolink_nodes 28 29 satelite-embedded elaboration-object-attribute-e  5025
+autolink_nodes 5025 5024 multinuclear Problem-Solution  5026
+autolink_nodes 5020 5026 nucleus evaluation-n  5027
+create-a-node-here really 31.13 30 {\n  The American people and their government also woke up too late\nto the menace}
+create-a-node-here really 31.70 31 { drugs posed to the moral structure of their country.}
+nextSentence really
+#create-a-node-here really 33.49 32 {\n  Even now, the American attack upon this tremendous problem is\ntimid in relation to the magnitude of the threat.}
+#nextSentence really
+#UNDID
+#UNDID
+autolink_nodes 30 31 satelite-embedded elaboration-object-attribute-e  5028
+create-a-node-here really 33.49 32 {\n  Even now, the American attack upon this tremendous problem is\ntimid in relation to the magnitude of the threat.}
+autolink_nodes 5028 32 satelite elaboration-additional  5029
+create-a-node-here really 34.14 33 {\n  I can attest}
+create-a-node-here really 36.51 34 { that a recent Colombian visitor to the U.S. was offered\ndrugs three times in the few blocks' walk between Grand Central Terminal\nand the Waldorf Astoria Hotel in midtown Manhattan.}
+nextSentence really
+autolink_nodes 33 34 satelite attribution  5030
+#autolink_nodes 5029 5030 satelite example  5031
+#UNDID
+autolink_nodes 32 5030 satelite example  5031
+autolink_nodes 5029 5027 multinuclear Topic-Drift  5032
+create-a-node-here really 37.17 35 {\n  Colombia alone }
+create-a-node-here really 37.68 36 {-- its government, its people, its newspapers--}
+create-a-node-here really 38.21 37 {does\nnot have the capacity}
+create-a-node-here really 38.60 38 { to fight this battle successfully.}
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5033
+#autolink_nodes 35 36 satelite-embedded elaboration-additional-e  5034
+#UNDID
+#autolink_nodes 35 36 satelite elaboration-general-specific  5034
+#UNDID
+autolink_nodes 35 36 satelite-embedded elaboration-general-specific-e  5034
+autolink_nodes 5033 5034 multinuclear Same-Unit  5035
+create-a-node-here really 40.47 39 {\n  All drug-consuming countries must jointly decide to combat and\npunish the consumers and distributors of drugs.}
+nextSentence really
+create-a-node-here really 42.7 40 {\n  The U.S., as the major drug consumer, should lead this joint\neffort.}
+nextSentence really
+autolink_nodes 39 40 satelite elaboration-general-specific  5036
+create-a-node-here really 44.28 41 {\n  Reduction, if not the total cessation, of drug consumption is\nthe requirement for victory.}
+nextSentence really
+#autolink_nodes 5036 41 satelite interpretation-s  5037
+#autolink_nodes 5037 5035 multinuclear Problem-Solution  5038
+#UNDID
+#UNDID
+autolink_nodes 5036 5035 multinuclear Problem-Solution  5037
+autolink_nodes 5037 41 satelite interpretation-s  5038
+collapsed_nodes {5009 5018 5027}
+#create-a-node-here really 45.64 42 {\n  Much is being done in Colombia to fight the drug cartel mafia.}
+#UNDID
+create-a-node-here really 45.32 42 {\n  Much is being done in Colombia}
+create-a-node-here really 45.68 43 { to fight the drug cartel mafia.}
+autolink_nodes 42 43 satelite purpose  5039
+create-a-node-here really 46.75 44 {\n  Luxurious homes and ranches have been raided by the military authorities,}
+create-a-node-here really 46.153 45 { and sophisticated and powerful communications equipment have been seized.}
+nextSentence really
+autolink_nodes 44 45 multinuclear List  5040
+create-a-node-here really 47.71 46 {\n  More than 300 planes and helicopters have been impounded at airports,}
+create-a-node-here really 47.141 47 { and a large number of vehicles and launches has been confiscated.}
+nextSentence really
+autolink_nodes 46 47 multinuclear List  5041
+create-a-node-here really 49.62 48 {\n  The military has also captured enormous arsenals of powerful and\nsophisticated weapons, explosives and other war-like materiel.}
+nextSentence really
+autolink_nodes 5041 48 multinuclear List above 5042
+autolink_nodes 5042 5040 multinuclear List below 5042
+create-a-node-here really 50.29 49 {\n  Much has been accomplished }
+create-a-node-here really 51.28 50 {and public opinion decisively supports\nthe government and the army }
+create-a-node-here really 52.31 51 {-- but, on the other hand, none of the key\ndrug barons have been captured.}
+nextSentence really
+autolink_nodes 5039 5042 satelite evidence  5043
+autolink_nodes 49 50 satelite elaboration-additional  5044
+autolink_nodes 51 5044 satelite concession  5045
+collapsed_nodes {5009 5018 5027 5042}
+autolink_nodes 5043 5045 satelite elaboration-additional  5046
+create-a-node-here really 53.30 52 {\n  There has been a lot of talk}
+create-a-node-here really 54.53 53 { that a large portion of the Colombian\neconomy is sustained by the laundering of drug money.}
+nextSentence really
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5047
+create-a-node-here really 55.34 54 {\n  In my opinion, this is not true.}
+nextSentence really
+autolink_nodes 5047 54 satelite evaluation-s  5048
+create-a-node-here really 56.94 55 {\n  Laundered drug money has served only to increase, unrealistically, the price of real estate,}
+create-a-node-here really 57.0 56 { creating serious problems for low-income people\n}
+create-a-node-here really 57.38 57 {who aspire to own their own homes.}
+nextSentence really
+autolink_nodes 56 57 satelite-embedded elaboration-object-attribute-e  5049
+autolink_nodes 5049 55 nucleus cause  5050
+collapsed_nodes {5042}
+disconnect_node 15 disconnect
+autolink_nodes 16 15 nucleus cause  5051
+disconnect_node 17 disconnect
+autolink_nodes 18 17 nucleus cause  5052
+collapsed_nodes {5042 5031}
+#create-a-node-here really 58.85 58 {\n  Drug money has also gone to buy expensive cars, airplanes,  launches and nightclubs}
+#UNDID
+create-a-node-here really 58.26 58 {\n  Drug money has also gone}
+create-a-node-here really 58.89 59 { to buy expensive cars, airplanes,  launches and nightclubs}
+create-a-node-here really 58.119 60 { where drugs are consumed.}
+autolink_nodes 59 60 satelite-embedded elaboration-object-attribute-e  5053
+autolink_nodes 58 5053 satelite purpose  5054
+autolink_nodes 5054 5050 multinuclear List  5055
+create-a-node-here really 58.223 61 {   But most of the drug money is kept in investments and in financial institutions outside Colombia.}
+nextSentence really
+create-a-node-here really 60.34 62 {\n  In fact, the cooperation of those financial institutions is essential\nto the success of the drug battle.}
+nextSentence really
+autolink_nodes 61 62 satelite elaboration-additional  5056
+#autolink_nodes 5055 5056 satelite concession  5057
+#UNDID
+#autolink_nodes 5055 5056 satelite concession  5057
+#UNDID
+autolink_nodes 5056 5055 satelite concession  5057
+collapsed_nodes {5042 5031 5055}
+autolink_nodes 54 5057 satelite evidence  5058
+create-a-node-here really 63.23 63 {\n  What is of much more importance to the Colombian economy than the\nsupposed benefits of laundered drug money is higher prices for Colombia\n's legitimate products.}
+autolink_nodes 5048 63 nucleus evaluation-n  5059
+create-a-node-here really 65.32 64 {\n  The price of coffee has gone down almost 45% since the beginning\nof the year, to the lowest level}
+create-a-node-here really 65.54 65 { (after inflation)}
+create-a-node-here really 65.86 66 { since the Great Depression.}
+nextSentence really
+autolink_nodes 64 65 satelite-embedded elaboration-object-attribute-e  5060
+autolink_nodes 66 5060 multinuclear Same-Unit  5061
+create-a-node-here really 66.57 67 {\n  Market conditions point to even lower prices next year.}
+nextSentence really
+#create-a-node-here really 68.7 68 {\n  The 27-year-old coffee cartel had to be formally dissolved this\nsummer.}
+#nextSentence really
+#UNDID
+#UNDID
+autolink_nodes 5061 67 satelite elaboration-additional  5062
+create-a-node-here really 68.7 68 {\n  The 27-year-old coffee cartel had to be formally dissolved this\nsummer.}
+autolink_nodes 5062 68 multinuclear List  5063
+create-a-node-here really 70.20 69 {\n  As a result, Colombia will earn $500 million less from its coffee\nthis year than last.}
+nextSentence really
+autolink_nodes 68 69 nucleus consequence-n  5064
+create-a-node-here really 71.53 70 {\n  Our coffee growers face reductions in their income,}
+create-a-node-here really 72.55 71 { and this tempts\nthem to contemplate substituting coca crops for coffee.}
+nextSentence really
+autolink_nodes 70 71 nucleus consequence-n  5065
+autolink_nodes 5063 5065 multinuclear List below 5065
+create-a-node-here really 74.37 72 {\n  U.S. interests occasionally try to impose barriers to the import\nof another important Colombian export}
+create-a-node-here really 74.59 73 { -- cut flowers --}
+create-a-node-here really 75.7 74 { into the American\nmarket.}
+nextSentence really
+autolink_nodes 72 73 satelite-embedded elaboration-general-specific-e  5066
+autolink_nodes 74 5066 multinuclear Same-Unit  5067
+#create-a-node-here really 77.40 75 {\n  A just price and an open market for what Colombian produces and\nexports should be the policy of the U.S.}
+#UNDID
+create-a-node-here really 76.33 75 {\n  A just price and an open market}
+create-a-node-here really 77.8 76 { for what Colombian produces and\nexports }
+create-a-node-here really 77.44 77 {should be the policy of the U.S.}
+autolink_nodes 75 76 satelite-embedded elaboration-object-attribute-e  5068
+autolink_nodes 77 5068 multinuclear Same-Unit  5069
+autolink_nodes 5069 5067 multinuclear Problem-Solution above 5070
+autolink_nodes 5063 5070 multinuclear List above 5071
+autolink_nodes 5059 5071 satelite evidence  5072
+collapsed_nodes {5042 5031 5055 5071}
+collapsed_nodes {5042 5031 5055 5071 5048}
+collapsed_nodes {5042 5031 5055 5071 5048 5045}
+autolink_nodes 5046 5072 satelite elaboration-additional  5073
+autolink_nodes 5038 5073 satelite elaboration-additional  5074
+autolink_nodes 5032 5074 multinuclear Topic-Drift below 5074
+collapsed_nodes {5042 5055 5071 5048 5045}
+collapsed_nodes {5042 5055 5071 5048 5045 5074}
+create-a-node-here really 78.39 78 {\n  I take advantage of this opportunity }
+create-a-node-here really 79.7 79 {given to me by The Wall Street\nJournal}
+create-a-node-here really 79.72 80 { to make a plea to the millions of readers of this newspaper,}
+create-a-node-here really 80.16 81 { to\nbecome soldiers }
+create-a-node-here really 80.68 82 {dedicated to the fight against the use of drugs.}
+autolink_nodes 81 82 satelite-embedded elaboration-object-attribute-e  5075
+autolink_nodes 78 79 satelite-embedded elaboration-object-attribute-e  5076
+autolink_nodes 80 5075 satelite-embedded elaboration-object-attribute-e  5077
+autolink_nodes 5076 5077 satelite purpose  5078
+#create-a-node-here really 81.22 83 {\n  Each gram of cocaine}
+#UNDID
+create-a-node-here really 82.43 83 {\n  Each gram of cocaine consumed is a deadly bullet against those\nin our country and in the rest of the world}
+create-a-node-here really 82.80 84 { who fight this terrible scourge.}
+nextSentence really
+autolink_nodes 83 84 satelite-embedded elaboration-object-attribute-e  5079
+create-a-node-here really 83.60 85 {\n  A crusade of NO to the consumption of drugs is imperative.}
+nextSentence really
+autolink_nodes 5079 85 multinuclear List  5080
+autolink_nodes 5078 5080 satelite elaboration-general-specific  5081
+#autolink_nodes 5032 5081 satelite comment  5082
+#UNDID
+autolink_nodes 5032 5081 satelite comment  5082
+create-a-node-here really 84.53 86 {\n  Mr. Cano is president of El Espectador, a newspaper}
+create-a-node-here really 85.0 87 { founded by\n}
+nextSentence really
+autolink_nodes 86 87 satelite-embedded elaboration-object-attribute-e  5083
+change_constit 5083 Author
+change_constit 5082 Text
+collapsed_nodes {5042 5055 5071 5048 5045 5074 5081}
+change_constit 5083 Author
+change_constit 5082 Text
+autolink_nodes 5083 5082 multinuclear TextualOrganization  5084
+collapsed_nodes {5081}
+collapsed_nodes {}

@@ -1,0 +1,56 @@
+nextSentence really
+create-a-node-here really 2.12 1 {\nTribune Co.,}
+create-a-node-here really 2.105 2 { helped by a hefty boost in performance at its broadcasting and entertainment operations, }
+create-a-node-here really 2.113 3 {said }
+create-a-node-here really 2.159 4 {net income jumped 21% in its third quarter }
+create-a-node-here really 2.176 5 {ended Sept. 24}
+create-a-node-here really 2.208 6 { on a 3% increase in revenue.}
+nextSentence really
+autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+autolink_nodes 5002 4 nucleus attribution  5003
+autolink_nodes 4 5 satelite-embedded elaboration-additional-e below 5004
+autolink_nodes 5004 6 multinuclear Same-Unit  5005
+create-a-node-here really 4.40 7 { \n\nThe broadcasting and newspaper concern, }
+create-a-node-here really 4.60 8 {based in Chicago,}
+create-a-node-here really 4.69 9 { said }
+nextSentence really
+nextSentence really
+create-a-node-here really 4.167 10 {net was $62.7 million, or 77 cents a primary share, up from $51.6 million, or 69 cents a share.}
+nextSentence really
+create-a-node-here really 5.78 11 {\nPer-share figures this year reflect $6.8 million in preferred-share dividends;}
+create-a-node-here really 5.126 12 { the 1988 quarter didn't have such a payout.}
+nextSentence really
+autolink_nodes 7 8 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 5006 9 multinuclear Same-Unit  5007
+autolink_nodes 5007 10 nucleus attribution  5008
+autolink_nodes 10 11 satelite elaboration-additional below 5009
+autolink_nodes 11 12 multinuclear Contrast  5010
+autolink_nodes 5003 5008 satelite elaboration-additional  5011
+nextSentence really
+nextSentence really
+create-a-node-here really 7.51 13 { \n\nRevenue rose to $590.7 million from $575.1 million.}
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 10.0 14 { \n\nNine-month net climbed 19% to $174.8 million, or $2.21 a primary share, from $147.5 million, or $1.94 a share.\n}
+create-a-node-here really 10.87 15 {Nine-month per-share figures for 1989 reflect $12.9 million in preferred dividends }
+create-a-node-here really 10.143 16 {that had no counterpart in the year-earlier quarter.}
+nextSentence really
+create-a-node-here really 11.33 17 {\nRevenue rose 4% to $1.79 billion.}
+nextSentence really
+nextSentence really
+create-a-node-here really 13.91 18 { \n\nIn New York Stock Exchange composite trading Friday, Tribune closed at $49.375, down $4.75.}
+nextSentence really
+autolink_nodes 5008 13 satelite elaboration-additional  5012
+autolink_nodes 5012 14 satelite elaboration-additional  5013
+autolink_nodes 5013 15 satelite elaboration-additional  5014
+autolink_nodes 15 16 satelite-embedded elaboration-object-attribute-e  5015
+autolink_nodes 5014 17 satelite elaboration-additional  5016
+collapsed_nodes {5014}
+autolink_nodes 5011 18 satelite elaboration-additional  5017
+collapsed_nodes {}
+collapsed_nodes {5017}
+collapsed_nodes {}

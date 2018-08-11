@@ -1,0 +1,7 @@
+nextSentence really
+create-a-node-here really 2.141 1 {\nRichard W. Lock, retired vice president and treasurer of Owens-Illinois Inc., was named a director of this transportation industry supplier, }
+create-a-node-here really 2.180 2 {increasing its board to six members.}
+nextSentence really
+#autolink_nodes 1 2 satelite consequence-s  5001
+#UNDID
+autolink_nodes 1 2 satelite consequence-s  5001

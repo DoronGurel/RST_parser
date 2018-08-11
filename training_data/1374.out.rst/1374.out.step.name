@@ -1,0 +1,168 @@
+nextSentence really
+create-a-node-here really 2.12 1 {\nTandy Corp.,}
+create-a-node-here really 2.68 2 { citing sluggish sales of consumer-electronics goods,}
+create-a-node-here really 2.77 3 { said }
+create-a-node-here really 2.126 4 {net income dropped 3.3% for the first quarter }
+create-a-node-here really 2.144 5 {ended Sept. 30.}
+nextSentence really
+autolink_nodes 1 2 satelite attribution  5001
+autolink_nodes 5001 3 multinuclear Same-Unit  5002
+#autolink_nodes 3 4 nucleus attribution  5003
+#UNDID
+#autolink_nodes 3 4 nucleus attribution  5003
+#UNDID
+#autolink_nodes 3 4 nucleus attribution  5003
+#UNDID
+autolink_nodes 5002 4 nucleus attribution  5003
+autolink_nodes 4 5 satelite-embedded elaboration-object-attribute-e below 5004
+create-a-node-here really 4.12 6 { \n\nThe results,}
+create-a-node-here really 4.123 7 { which represented the fifth consecutive quarter of flat-to-lower earnings for the big electronics retailer,}
+create-a-node-here really 5.0 8 { disappointed analysts and traders.\n}
+create-a-node-here really 5.37 9 {Tandy's stock fell $1.375 a share }
+create-a-node-here really 5.56 10 {to close at $44 }
+create-a-node-here really 5.105 11 {in New York Stock Exchange composite trading.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded elaboration-object-attribute-e  5005
+autolink_nodes 5005 8 multinuclear Same-Unit  5006
+autolink_nodes 5003 5006 satelite consequence-s  5007
+autolink_nodes 9 10 satelite-embedded elaboration-additional-e  5008
+autolink_nodes 5008 11 multinuclear Same-Unit  5009
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 8.0 12 { \n\nNet for the quarter was $62.8 million, or 73 cents a share, down from $64.9 million, or 72 cents a share, a year earlier.\n}
+create-a-node-here really 8.20 13 {The company said}
+create-a-node-here really 8.55 14 { earnings would have increased }
+create-a-node-here really 8.111 15 {if it hadn't been actively repurchasing its shares, }
+create-a-node-here really 8.152 16 {thus increasing its interest expense }
+create-a-node-here really 8.189 17 {and reducing its interest income.}
+nextSentence really
+nextSentence really
+create-a-node-here really 9.91 18 {\nTandy had 86.3 million shares outstanding at Sept. 30, down from 90 million a year earlier.}
+nextSentence really
+autolink_nodes 5009 12 multinuclear List above 5010
+autolink_nodes 13 14 nucleus attribution  5011
+autolink_nodes 5011 15 nucleus condition  5012
+autolink_nodes 5012 16 satelite result  5013
+autolink_nodes 16 17 multinuclear List  5014
+autolink_nodes 5007 5010 satelite elaboration-additional  5015
+autolink_nodes 5010 5013 satelite elaboration-additional  5016
+create-a-node-here really 11.50 19 { \n\nRevenue rose 5% to $986 million from $937 million.}
+nextSentence really
+create-a-node-here really 13.11 20 { \n\nTandy said }
+create-a-node-here really 13.83 21 {consumer electronics sales at its Radio Shack stores have been slow,}
+create-a-node-here really 13.134 22 { partly because of a lack of hot, new products.}
+nextSentence really
+create-a-node-here really 15.42 23 { \n\n"Radio Shack continues to be lackluster," }
+create-a-node-here really 15.114 24 {said Dennis Telzrow, analyst with Eppler, Guerin & Turner in Dallas.}
+nextSentence really
+create-a-node-here really 16.8 25 {\nHe said }
+create-a-node-here really 16.42 26 {Tandy "has done a decent job" }
+create-a-node-here really 16.63 27 {increasing sales }
+create-a-node-here really 16.105 28 {by manufacturing computers for others }
+create-a-node-here really 16.211 29 {and expanding sales of its Grid Systems Corp. subsidiary, which sells computers to bigger businesses, }
+create-a-node-here really 16.236 30 {but "it's not enough }
+create-a-node-here really 16.279 31 {to offset the problems at Radio Shack."}
+nextSentence really
+create-a-node-here really 16.382 32 { Sales at Radio Shack stores open more than a year grew only 2% in the quarter from a year earlier,}
+create-a-node-here really 16.395 33 { he said.}
+nextSentence really
+autolink_nodes 18 19 multinuclear List  5017
+autolink_nodes 20 21 nucleus attribution  5018
+autolink_nodes 5018 22 satelite result  5019
+autolink_nodes 5017 5019 satelite elaboration-additional  5020
+autolink_nodes 23 24 nucleus attribution  5021
+autolink_nodes 25 26 nucleus attribution  5022
+#autolink_nodes 26 27 satelite-embedded elaboration-additional-e below 5023
+#UNDID
+autolink_nodes 26 27 satelite-embedded elaboration-additional-e below 5023
+autolink_nodes 27 28 satelite means  5024
+autolink_nodes 28 29 multinuclear List  5025
+#autolink_nodes 5025 30 multinuclear List below 5025
+#UNDID
+#autolink_nodes 5025 30 multinuclear Contrast above 5026
+#UNDID
+autolink_nodes 5023 30 multinuclear Same-Unit  5026
+autolink_nodes 30 31 satelite elaboration-additional  5027
+autolink_nodes 32 33 satelite attribution  5028
+create-a-node-here really 18.12 34 { \n\nAs a result,}
+create-a-node-here really 18.34 35 { Mr. Telzrow said }
+create-a-node-here really 18.119 36 {he cut his fiscal 1990 per-share earnings estimate for Tandy to $4.05 from $4.20.}
+nextSentence really
+create-a-node-here really 19.58 37 {\nTandy earned $88.8 million, or $3.64 a share, in the year }
+create-a-node-here really 19.76 38 {ended June 30.}
+nextSentence really
+autolink_nodes 5027 5028 satelite elaboration-additional  5029
+autolink_nodes 34 35 satelite attribution  5030
+autolink_nodes 5030 36 multinuclear Same-Unit  5031
+autolink_nodes 5028 5031 multinuclear Cause-Result  5032
+autolink_nodes 5019 5021 satelite elaboration-additional  5033
+autolink_nodes 5016 5020 satelite elaboration-additional  5034
+autolink_nodes 5033 5022 satelite elaboration-additional  5035
+autolink_nodes 37 38 satelite-embedded elaboration-object-attribute-e  5036
+autolink_nodes 5032 5036 satelite elaboration-additional  5037
+create-a-node-here really 21.64 39 { \n\nBarry Bryant, an analyst with Drexel Burnham Lambert Inc., said }
+create-a-node-here really 21.130 40 {Tandy also has suffered from lethargic sales of its computers }
+create-a-node-here really 21.177 41 {aimed at the home and small-office market, }
+create-a-node-here really 21.232 42 {which are less-advanced and cheaper than computers }
+create-a-node-here really 21.266 43 {aimed at the corporate market.}
+nextSentence really
+autolink_nodes 39 40 nucleus attribution  5038
+autolink_nodes 40 41 satelite-embedded elaboration-object-attribute-e below 5039
+#autolink_nodes 41 42 satelite-embedded elaboration-object-attribute-e  5040
+#UNDID
+autolink_nodes 41 42 satelite elaboration-additional  5040
+autolink_nodes 42 43 satelite-embedded elaboration-object-attribute-e  5041
+create-a-node-here really 23.51 44 { \n\nTandy has added several new products to that line, }
+create-a-node-here really 23.83 45 {including a laptop computer }
+create-a-node-here really 23.109 46 {priced around $1,000, }
+create-a-node-here really 23.173 47 {and is focusing its advertising on the easy-to-use software }
+create-a-node-here really 24.0 48 {that is packaged with its machines.\n}
+create-a-node-here really 24.39 49 {Mr. Bryant and other analysts hope }
+create-a-node-here really 24.72 50 {all those moves will combine }
+create-a-node-here really 24.143 51 {to help Tandy's results improve in the important Christmas quarter.}
+nextSentence really
+create-a-node-here really 26.42 52 { \n\n"They've been promising 13% to 15% growth }
+create-a-node-here really 26.75 53 {based on the strategic moves }
+create-a-node-here really 26.94 54 {they've made," }
+create-a-node-here really 26.106 55 {he said.}
+nextSentence really
+create-a-node-here really 26.159 56 { "If the earnings acceleration is to take place, }
+create-a-node-here really 26.191 57 {that should be the quarter."}
+nextSentence really
+autolink_nodes 44 45 satelite-embedded elaboration-part-whole-e  5042
+autolink_nodes 45 46 satelite-embedded elaboration-object-attribute-e  5043
+autolink_nodes 5042 47 multinuclear List  5044
+autolink_nodes 47 48 satelite-embedded elaboration-object-attribute-e  5045
+autolink_nodes 49 50 nucleus attribution  5046
+autolink_nodes 50 51 satelite purpose below 5047
+autolink_nodes 52 53 satelite-embedded elaboration-object-attribute-e  5048
+autolink_nodes 53 54 satelite-embedded elaboration-additional-e  5049
+autolink_nodes 5048 55 satelite attribution  5050
+autolink_nodes 5046 5050 satelite elaboration-additional  5051
+autolink_nodes 56 57 nucleus hypothetical  5052
+autolink_nodes 5051 5052 satelite elaboration-additional  5053
+#autolink_nodes 5044 5053 satelite elaboration-additional  5054
+#UNDID
+autolink_nodes 5039 5044 multinuclear Problem-Solution  5054
+autolink_nodes 5044 5053 satelite elaboration-additional  5055
+collapsed_nodes {5033}
+autolink_nodes 5035 5038 satelite elaboration-additional  5056
+disconnect_node 2 disconnect
+autolink_nodes 1 2 satelite-embedded attribution-e  5057
+#disconnect_node 2 disconnect
+#autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5058
+#UNDID
+#autolink_nodes 1 2 satelite-embedded elaboration-additional-e  5058
+#UNDID
+#UNDID
+disconnect_node 2 disconnect
+autolink_nodes 5057 2 satelite-embedded elaboration-additional-e  5058
+collapsed_nodes {5033 5015}
+collapsed_nodes {}
+disconnect_node 23 disconnect
+autolink_nodes 24 23 nucleus attribution  5059
+disconnect_node 5041 disconnect
+autolink_nodes 41 5041 satelite-embedded elaboration-additional-e  5060
+disconnect_node 54 disconnect
+autolink_nodes 53 54 satelite elaboration-additional  5061

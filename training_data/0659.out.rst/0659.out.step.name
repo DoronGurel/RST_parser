@@ -1,0 +1,72 @@
+nextSentence really
+create-a-node-here really 2.64 1 {\nNEC Corp., a Tokyo-based computer and electronics concern, said }
+nextSentence really
+create-a-node-here really 2.108 2 {net income rose 18% to 29.66 billion yen }
+nextSentence really
+create-a-node-here really 2.128 3 {($208.7 million) }
+create-a-node-here really 2.156 4 {in the fiscal first half,}
+create-a-node-here really 2.176 5 { ended Sept. 30, }
+nextSentence really
+create-a-node-here really 2.217 6 {from 25.12 billion yen a year earlier.}
+nextSentence really
+create-a-node-here really 4.62 7 { \n\nSales rose 7.4% to 1.255 trillion yen from 1.168 trillion yen.}
+nextSentence really
+create-a-node-here really 6.9 8 { \n\nNEC said }
+nextSentence really
+nextSentence really
+create-a-node-here really 6.111 9 {first-half computer sales totaled 555.5 billion yen, up 11% from 500.26 billion yen a year earlier.}
+nextSentence really
+nextSentence really
+nextSentence really
+create-a-node-here really 7.81 10 {\nSales of electrical devices rose 13% to 283.8 billion yen from 251.8 billion yen.}
+nextSentence really
+nextSentence really
+autolink_nodes 1 2 nucleus attribution  5001
+autolink_nodes 2 3 satelite restatement below 5002
+autolink_nodes 5002 4 multinuclear Same-Unit  5003
+autolink_nodes 4 5 satelite elaboration-object-attribute  5004
+autolink_nodes 5003 6 multinuclear Same-Unit below 5004
+autolink_nodes 5001 7 satelite elaboration-additional  5005
+autolink_nodes 8 9 nucleus attribution  5006
+autolink_nodes 5006 10 multinuclear List  5007
+create-a-node-here really 8.8 11 {\nIt said }
+nextSentence really
+create-a-node-here really 8.104 12 {sales of home electronic products advanced 3.7% to 44.92 billion yen from 43.34 billion yen.}
+nextSentence really
+create-a-node-here really 10.14 13 { \n\nIn the period }
+create-a-node-here really 10.30 14 {just ended, }
+create-a-node-here really 10.77 15 {computers accounted for 44% of total sales,}
+create-a-node-here really 10.91 16 { NEC said,}
+create-a-node-here really 10.131 17 { and electrical devices made up 23%.}
+nextSentence really
+create-a-node-here really 12.32 18 { \n\nNEC forecast sales for the year }
+create-a-node-here really 12.57 19 {ending next March 31 }
+create-a-node-here really 12.132 20 {of 2.74 trillion yen, an increase of 27% from the previous fiscal year.}
+nextSentence really
+create-a-node-here really 13.8 21 {\nIt said }
+create-a-node-here really 13.55 22 {net income will rise 25% to 69 billion yen.}
+nextSentence really
+autolink_nodes 11 12 nucleus attribution  5008
+autolink_nodes 5007 5008 multinuclear List below 5008
+#autolink_nodes 7 5007 satelite example  5009
+#UNDID
+autolink_nodes 7 5007 satelite explanation-argumentative  5009
+autolink_nodes 13 14 satelite-embedded elaboration-object-attribute-e  5010
+autolink_nodes 5010 15 multinuclear Same-Unit  5011
+autolink_nodes 5011 16 satelite attribution  5012
+autolink_nodes 5012 17 multinuclear Comparison  5013
+#autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5014
+#UNDID
+autolink_nodes 18 19 satelite-embedded elaboration-object-attribute-e  5014
+autolink_nodes 5014 20 nucleus attribution  5015
+autolink_nodes 21 22 nucleus attribution  5016
+#autolink_nodes 5007 5013 multinuclear List below 5016
+#UNDID
+autolink_nodes 5007 5013 multinuclear Comparison above 5017
+change_rel 5013 List
+change_rel 5013 Comparison
+change_rel 5012 List
+autolink_nodes 5015 5016 multinuclear List  5018
+collapsed_nodes {5001}
+autolink_nodes 5005 5018 satelite elaboration-additional  5019
+collapsed_nodes {}

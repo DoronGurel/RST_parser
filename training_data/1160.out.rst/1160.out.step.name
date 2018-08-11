@@ -1,0 +1,382 @@
+nextSentence really
+create-a-node-here really 2.24 1 {\nCalifornia legislators, }
+#create-a-node-here really 2.125 2 {searching for ways to pay for the $4 billion to $6 billion in damages from last week's earthquake,}
+#create-a-node-here really 2.205 3 { are laying the groundwork for a temporary increase in the state's sales tax.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 2.46 2 {searching for ways }
+create-a-node-here really 2.128 3 {to pay for the $4 billion to $6 billion in damages from last week's earthquake,}
+create-a-node-here really 2.208 4 { are laying the groundwork for a temporary increase in the state's sales tax.}
+nextSentence really
+autolink_nodes 2 3 satelite-embedded elaboration-object-attribute-e  5001
+autolink_nodes 4 5001 satelite purpose  5002
+autolink_nodes 5002 1 multinuclear Same-Unit  5003
+create-a-node-here really 4.76 5 { \n\nThe talk of a sales tax rise follows a rebuff from Congress on the question }
+create-a-node-here really 4.134 6 {of how much the federal government is willing to spend }
+create-a-node-here really 4.186 7 {to aid in California's earthquake relief efforts.}
+nextSentence really
+autolink_nodes 6 7 satelite-embedded purpose-e  5004
+autolink_nodes 5 5004 satelite-embedded elaboration-object-attribute-e  5005
+create-a-node-here really 5.55 8 {\nThe state had sought as much as $4.1 billion in relief,}
+create-a-node-here really 5.127 9 { but yesterday the House approved a more general scaled-back measure }
+create-a-node-here really 5.163 10 {calling for $2.85 billion in aid,}
+create-a-node-here really 5.236 11 { the bulk of which would go to California, with an unspecified amount}
+create-a-node-here really 5.258 12 { going to regions }
+create-a-node-here really 5.289 13 {affected by Hurricane Hugo.}
+nextSentence really
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e  5006
+autolink_nodes 11 5006 satelite-embedded elaboration-object-attribute-e  5007
+autolink_nodes 10 5007 satelite-embedded elaboration-part-whole-e  5008
+autolink_nodes 9 5008 satelite-embedded elaboration-object-attribute-e  5009
+#autolink_nodes 8 8 multinuclear Contrast  5010
+#UNDID
+#autolink_nodes 8 5009 nucleus concession  5010
+#UNDID
+autolink_nodes 8 5009 nucleus concession  5010
+collapsed_nodes {5008}
+create-a-node-here really 8.0 14 { \n\nThat leaves the state roughly $2 billion to $4 billion short.\n}
+autolink_nodes 5010 14 nucleus result  5011
+create-a-node-here really 8.89 15 {A sales tax increase appears to be the fastest and easiest to raise funds in a hurry.}
+nextSentence really
+create-a-node-here really 9.46 16 {\nAccording to the state department of finance, }
+create-a-node-here really 9.139 17 {a one-penny increase in the state's six-cent per dollar sales tax could raise $3 billion.}
+nextSentence really
+collapsed_nodes {}
+collapsed_nodes {5008}
+collapsed_nodes {}
+disconnect_node 5010 disconnect
+autolink_nodes 5005 5010 satelite elaboration-additional  5012
+collapsed_nodes {}
+collapsed_nodes {5010}
+autolink_nodes 14 5012 satelite background  5013
+collapsed_nodes {5010 5012}
+autolink_nodes 15 5013 multinuclear Problem-Solution  5014
+autolink_nodes 17 16 satelite attribution  5015
+create-a-node-here really 11.53 18 { \n\nWillie Brown, speaker of California's Assembly, said }
+create-a-node-here really 11.162 19 {that Gov. George Deukmejian has agreed to schedule a special session of the legislature within two weeks.}
+nextSentence really
+autolink_nodes 19 18 satelite attribution  5016
+create-a-node-here really 13.93 20 { \n\nCalifornia's so-called Gann limit effectively prevents the state from spending new tax money }
+create-a-node-here really 13.151 21 {and so drastically limits its options in an emergency.}
+nextSentence really
+#autolink_nodes 20 21 satelite consequence-s  5017
+#UNDID
+autolink_nodes 20 21 satelite consequence-s  5017
+create-a-node-here really 15.114 22 { \n\nBoth Mr. Brown, the state's most influential legislator, and Gov. Deukmejian favor a temporary sales tax increase }
+create-a-node-here really 15.149 23 {-- should more money be needed }
+create-a-node-here really 15.228 24 {than the state can raise from existing sources and the federal government. }
+autolink_nodes 23 24 satelite comparison  5018
+autolink_nodes 22 5018 satelite condition  5019
+create-a-node-here really 17.26 25 {\n\nAccording to a spokesman, }
+create-a-node-here really 17.76 26 {the governor is also studying the possibility }
+create-a-node-here really 17.112 27 {of raising state gasoline taxes.}
+nextSentence really
+create-a-node-here really 18.31 28 {\nMr. Brown, meanwhile, believes }
+create-a-node-here really 18.66 29 {"only one tax will be feasible,}
+create-a-node-here really 18.119 30 { and it will be a one-penny sales tax increase," }
+create-a-node-here really 18.152 31 {said Chuck Dalldorf, an aide.}
+nextSentence really
+#autolink_nodes 26 25 satelite attribution  5020
+#UNDID
+autolink_nodes 26 25 satelite attribution  5020
+autolink_nodes 26 27 satelite-embedded elaboration-object-attribute-e below 5021
+autolink_nodes 29 28 satelite attribution  5022
+autolink_nodes 29 30 multinuclear List  5023
+autolink_nodes 5022 31 satelite attribution  5024
+create-a-node-here really 20.51 32 { \n\nOne immediate source of money is an emergency fund }
+create-a-node-here really 21.0 33 {set up by Gov. Deukmejian.\n}
+create-a-node-here really 21.34 34 {The fund has about $1 billion }
+create-a-node-here really 21.52 35 {and is set up }
+create-a-node-here really 21.100 36 {to handle "precisely the kind of emergency" }
+create-a-node-here really 21.121 37 {the state faces, }
+create-a-node-here really 21.182 38 {said Tom Beermann, the Governor's deputy press secretary.}
+nextSentence really
+create-a-node-here really 22.54 39 {\nBut the fund's size is disputed by Mr. Brown's office,}
+create-a-node-here really 22.75 40 { which estimates }
+create-a-node-here really 22.128 41 {the fund holds from $630 million to $800 million.}
+nextSentence really
+create-a-node-here really 23.36 42 {\nMoreover, an aide to Mr. Brown said }
+create-a-node-here really 23.80 43 {Gov. Deukmejian "has expressed a desire }
+create-a-node-here really 23.122 44 {not to spend all the reserve on this."}
+nextSentence really
+autolink_nodes 32 33 satelite-embedded elaboration-additional-e  5025
+autolink_nodes 35 36 satelite-embedded purpose-e  5026
+autolink_nodes 36 37 satelite-embedded elaboration-object-attribute-e  5027
+autolink_nodes 5026 34 multinuclear List  5028
+autolink_nodes 5028 38 satelite attribution  5029
+#autolink_nodes 41 40 satelite attribution  5030
+#UNDID
+autolink_nodes 41 40 satelite attribution  5030
+autolink_nodes 43 44 satelite-embedded elaboration-object-attribute-e  5031
+autolink_nodes 5031 42 satelite attribution  5032
+autolink_nodes 39 5030 satelite-embedded elaboration-general-specific-e  5033
+collapsed_nodes {5010 5012 5027}
+autolink_nodes 5029 5033 satelite antithesis  5034
+disconnect_node 5033 disconnect
+autolink_nodes 5033 5032 satelite elaboration-additional  5035
+collapsed_nodes {5010 5012 5027 5032}
+#autolink_nodes 5029 5035 satelite antithesis  5036
+#UNDID
+autolink_nodes 5029 5035 satelite antithesis  5036
+collapsed_nodes {5010 5012 5027 5032 5030}
+collapsed_nodes {5010 5012 5027 5032 5030 5026}
+autolink_nodes 5025 5036 satelite elaboration-general-specific  5037
+collapsed_nodes {5010 5012 5027 5032 5030 5026 5036}
+autolink_nodes 15 5015 satelite hypothetical  5038
+collapsed_nodes {5010 5012 5027 5032 5030 5026 5036 5015}
+autolink_nodes 5020 5019 multinuclear List  5039
+autolink_nodes 5020 5024 satelite antithesis  5040
+collapsed_nodes {5010 5012 5027 5032 5030 5026 5036 5015 5024}
+autolink_nodes 5039 5037 multinuclear List below 5040
+collapsed_nodes {5010 5012 5027 5032 5030 5026 5036 5015 5024 5018}
+autolink_nodes 5039 5017 satelite circumstance  5041
+disconnect_node 5017 disconnect
+create-a-node-here really 25.47 45 { \n\nTo push through a sales tax increase, however, }
+create-a-node-here really 25.97 46 {the state will have to suspend the Gann limit,}
+create-a-node-here really 26.0 47 { citing an emergency.\n}
+create-a-node-here really 26.101 48 {And then it will be required to lower taxes by a corresponding amount during a three-year period }
+create-a-node-here really 26.143 49 {after the temporary tax increase ends,}
+create-a-node-here really 26.219 50 { said Cindy Katz, assistant director of the state department of finance.}
+nextSentence really
+create-a-node-here really 28.97 51 { \n\nA sales tax increase would require two-thirds approval in both houses of the state's legislature.}
+nextSentence really
+create-a-node-here really 29.35 52 {\nBut observers expect broad support.}
+nextSentence really
+create-a-node-here really 29.65 53 { "If there's an emergency }
+create-a-node-here really 29.118 54 {and there aren't sufficient funds from elsewhere,}
+create-a-node-here really 29.131 55 { I think }
+create-a-node-here really 29.169 56 {the attitude will be supportive," }
+create-a-node-here really 29.237 57 {said Kirk West, president of the California Chamber of Commerce.}
+nextSentence really
+autolink_nodes 46 45 satelite question-answer-s  5042
+autolink_nodes 46 47 satelite means below 5043
+autolink_nodes 5042 48 multinuclear Result  5044
+autolink_nodes 48 49 satelite temporal-after  5045
+autolink_nodes 5044 50 satelite attribution  5046
+autolink_nodes 51 52 satelite concession  5047
+autolink_nodes 54 53 multinuclear List  5048
+autolink_nodes 56 55 satelite attribution  5049
+autolink_nodes 5049 5048 satelite condition  5050
+autolink_nodes 5050 57 satelite attribution  5051
+collapsed_nodes {5010 5012 5015}
+disconnect_node 5040 disconnect
+disconnect_node 5037 disconnect
+collapsed_nodes {5010 5012 5015 5022}
+autolink_nodes 5037 5040 multinuclear List  5052
+autolink_nodes 5019 5052 satelite comparison  5053
+collapsed_nodes {5010 5012 5015 5022 5052}
+autolink_nodes 5016 5017 satelite elaboration-additional  5054
+autolink_nodes 5054 5053 satelite elaboration-additional  5055
+collapsed_nodes {5010 5012 5015 5022 5052 5019}
+disconnect_node 5045 disconnect
+disconnect_node 50 disconnect
+autolink_nodes 5042 5045 multinuclear Sequence  5056
+autolink_nodes 5056 50 satelite attribution  5057
+autolink_nodes 5057 5047 satelite elaboration-additional  5058
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5047}
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5047 5045}
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5045}
+autolink_nodes 52 5051 satelite explanation-argumentative  5059
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5045 5051}
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5045 5051 5047}
+autolink_nodes 5058 5055 satelite circumstance  5060
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5045 5051 5047 5055}
+disconnect_node 5038 disconnect
+create-a-node-here really 31.17 58 { \n\nBut others think }
+create-a-node-here really 31.104 59 {property owners ought to pay a higher portion of the state's earthquake relief tab.}
+nextSentence really
+create-a-node-here really 32.84 60 {\nSince the late 1970s, California property owners have benefited from a tax rollback }
+create-a-node-here really 32.129 61 {as a result of a state ballot initiative }
+create-a-node-here really 32.157 62 {known as Proposition 13.}
+nextSentence really
+create-a-node-here really 34.46 63 { \n\nThe state could also increase gasoline taxes; }
+create-a-node-here really 34.118 64 {every one penny increase in the tax would yield $11 million a month.}
+nextSentence really
+create-a-node-here really 35.60 65 {\nBut Gov. Deukmejian and others are reluctant to do anything }
+create-a-node-here really 35.92 66 {to harm the state's chances }
+create-a-node-here really 35.151 67 {of sharply raising gasoline taxes on a permanent basis.}
+nextSentence really
+create-a-node-here really 37.28 68 { \n\nTo raise more highway funds,}
+create-a-node-here really 37.43 69 { a measure }
+create-a-node-here really 37.108 70 {to double the state's nine-cent a gallon tax over five years }
+create-a-node-here really 37.165 71 {is set to appear on the state's June election ballot.}
+nextSentence really
+create-a-node-here really 38.14 72 {\nBut some fear }
+#create-a-node-here really 38.77 73 {imposing a temporary gasoline tax increase in the meantime }
+#create-a-node-here really 38.133 74 {could undercut support among voters for the measure.}
+#nextSentence really
+#create-a-node-here really 40.26 75 { \n\nNot everyone is convinced }
+#create-a-node-here really 40.63 76 {the state must raise new revenue }
+#create-a-node-here really 40.96 77 {to meet its earthquake needs.}
+#nextSentence really
+#create-a-node-here really 40.213 78 { "It's possible, though not probable," that the state could get by with its existing resources and federal help, }
+#create-a-node-here really 40.292 79 {said Quentin Kopp, chairman of the state senate's transportation committee.}
+#nextSentence really
+#autolink_nodes 59 58 satelite attribution  5061
+#autolink_nodes 61 62 satelite-embedded elaboration-object-attribute-e  5062
+#autolink_nodes 5062 60 nucleus cause  5063
+#UNDID
+#autolink_nodes 60 5062 satelite cause  5063
+#autolink_nodes 63 64 satelite consequence-s  5064
+#autolink_nodes 65 66 satelite-embedded elaboration-object-attribute-e  5065
+#autolink_nodes 66 67 satelite-embedded elaboration-object-attribute-e  5066
+#autolink_nodes 69 68 satelite-embedded purpose-e  5067
+#autolink_nodes 5067 70 satelite-embedded elaboration-object-attribute-e  5068
+#autolink_nodes 71 5068 multinuclear Same-Unit  5069
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 38.130 73 {imposing a temporary gasoline tax increase in the meantime could undercut support among voters for the measure. }
+create-a-node-here really 40.26 74 {\n\nNot everyone is convinced }
+create-a-node-here really 40.63 75 {the state must raise new revenue }
+create-a-node-here really 40.96 76 {to meet its earthquake needs.}
+nextSentence really
+create-a-node-here really 40.213 77 { "It's possible, though not probable," that the state could get by with its existing resources and federal help, }
+create-a-node-here really 40.292 78 {said Quentin Kopp, chairman of the state senate's transportation committee.}
+nextSentence really
+autolink_nodes 59 58 satelite attribution  5061
+autolink_nodes 61 62 satelite-embedded elaboration-object-attribute-e  5062
+#autolink_nodes 5062 60 nucleus consequence-n  5063
+#UNDID
+autolink_nodes 5062 60 nucleus consequence-n  5063
+autolink_nodes 63 64 satelite elaboration-general-specific  5064
+autolink_nodes 65 66 satelite-embedded elaboration-object-attribute-e  5065
+autolink_nodes 66 67 satelite-embedded elaboration-object-attribute-e  5066
+autolink_nodes 5064 5065 satelite concession  5067
+autolink_nodes 69 70 satelite-embedded elaboration-object-attribute-e  5068
+autolink_nodes 71 5068 multinuclear Same-Unit  5069
+autolink_nodes 5069 68 satelite purpose  5070
+autolink_nodes 73 72 satelite attribution  5071
+#autolink_nodes 5070 5071 satelite antithesis  5072
+#UNDID
+autolink_nodes 5070 5071 satelite antithesis  5072
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5045 5051 5047 5055 5071}
+autolink_nodes 5065 5072 satelite circumstance  5073
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5045 5051 5047 5055 5071 5072}
+autolink_nodes 5061 5063 satelite evidence  5074
+autolink_nodes 5067 5074 multinuclear List  5075
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067}
+autolink_nodes 75 76 satelite purpose  5076
+autolink_nodes 5076 74 satelite attribution-n  5077
+autolink_nodes 77 78 satelite attribution  5078
+#autolink_nodes 5077 5078 satelite example  5079
+#autolink_nodes 5075 5079 multinuclear List below 5079
+#UNDID
+#autolink_nodes 5075 5079 multinuclear List below 5079
+#UNDID
+#UNDID
+autolink_nodes 5077 5075 multinuclear Contrast  5079
+autolink_nodes 5077 5078 satelite example  5080
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077}
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075}
+#autolink_nodes 5079 5060 multinuclear Contrast below 5080
+#UNDID
+#autolink_nodes 5079 5060 multinuclear Contrast below 5080
+#UNDID
+autolink_nodes 5060 5079 multinuclear Contrast  5081
+autolink_nodes 5038 5081 satelite elaboration-additional  5082
+collapsed_nodes {5010 5012 5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081}
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081}
+disconnect_node 5012 disconnect
+autolink_nodes 5010 14 nucleus result  5083
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081 5010}
+autolink_nodes 5082 5012 satelite background  5084
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081 5010 5012}
+autolink_nodes 5084 5003 nucleus summary-n  5085
+create-a-node-here really 42.20 79 { \n\nSeparately, two men }
+create-a-node-here really 42.96 80 {injured in last week's earthquake-triggered freeway collapse in Oakland }
+create-a-node-here really 42.139 81 {began a legal battle against the state }
+create-a-node-here really 42.223 82 {over whether officials adequately heeded warnings about the structure's safety. }
+autolink_nodes 81 82 satelite-embedded elaboration-object-attribute-e  5086
+autolink_nodes 79 80 satelite-embedded elaboration-object-attribute-e  5087
+autolink_nodes 5086 5087 multinuclear Same-Unit  5088
+create-a-node-here really 44.12 83 {\n\nThe claims, }
+create-a-node-here really 44.65 84 {which were filed with the State Board of Control }
+create-a-node-here really 44.104 85 {but will probably end up in court, }
+create-a-node-here really 44.122 86 {are the first }
+create-a-node-here really 44.197 87 {arising out of the collapse of the so-called Cypress structure viaduct.}
+nextSentence really
+create-a-node-here really 46.30 88 { \n\nThe men can defeat immunities }
+create-a-node-here really 46.68 89 {that states often assert in court }
+create-a-node-here really 46.83 90 {by showing }
+create-a-node-here really 46.128 91 {that officials knew or should have known }
+create-a-node-here really 46.175 92 {that design of the structure was defective }
+create-a-node-here really 46.227 93 {and that they failed to make reasonable changes.}
+nextSentence really
+#create-a-node-here really 48.34 94 { \n\nA Board of Control spokesman said }
+#UNDID
+create-a-node-here really 48.29 94 { \n\nA Board of Control spokesman }
+create-a-node-here really 48.71 95 {said the board had not seen the claim }
+create-a-node-here really 48.100 96 {and declined to comment. }
+autolink_nodes 83 84 satelite-embedded elaboration-additional-e  5089
+autolink_nodes 84 85 satelite antithesis  5090
+autolink_nodes 86 5089 multinuclear Same-Unit  5091
+autolink_nodes 86 87 satelite-embedded elaboration-object-attribute-e  5092
+autolink_nodes 89 90 satelite-embedded means-e  5093
+autolink_nodes 90 91 nucleus-embedded attribution-e  5094
+autolink_nodes 91 92 nucleus-embedded attribution-e  5095
+autolink_nodes 88 5093 satelite-embedded elaboration-object-attribute-e  5096
+autolink_nodes 5095 93 multinuclear List  5097
+autolink_nodes 95 96 multinuclear List  5098
+autolink_nodes 5098 94 satelite attribution  5099
+autolink_nodes 5088 5091 satelite elaboration-additional  5100
+autolink_nodes 5100 5096 satelite elaboration-additional  5101
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081 5010 5012 5091}
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081 5010 5012 5091 5094}
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081 5010 5012 5091 5094 5096}
+autolink_nodes 5101 5099 satelite elaboration-additional  5102
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081 5010 5012 5091 5094 5096 5099}
+autolink_nodes 5085 5102 satelite topic-shift  5103
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081 5091 5094 5096 5099}
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081 5091 5094 5096 5099 5010}
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081 5091 5094 5096 5099 5010 5012}
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081 5010 5012}
+collapsed_nodes {5015 5022 5052 5019 5045 5051 5047 5055 5071 5072 5067 5077 5075 5081 5010 5012 5102}
+collapsed_nodes {5015 5010 5012 5102}
+disconnect_node 5017 disconnect
+autolink_nodes 5016 5017 satelite result below 5104
+collapsed_nodes {5015 5010 5012 5102 5017}
+collapsed_nodes {5015 5010 5012 5102 5017 5052}
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055}
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055 5047}
+disconnect_node 5063 disconnect
+autolink_nodes 5061 5063 satelite explanation-argumentative  5105
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055 5047 5063}
+disconnect_node 5071 disconnect
+#disconnect_node 5070 disconnect
+#UNDID
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055 5047 5063 5080}
+autolink_nodes 5070 5071 nucleus hypothetical  5106
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055 5047 5063 5080 5070}
+disconnect_node 5106 disconnect
+autolink_nodes 5065 5106 satelite explanation-argumentative  5107
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055 5047 5063 5080 5070 5106}
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055 5047 5063 5080 5070 5106 5067}
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055 5047 5080 5070 5106 5067}
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055 5047 5080 5070 5106 5067 5063}
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055 5047 5080 5063}
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055 5047 5080 5063 5067}
+collapsed_nodes {5015 5010 5012 5102 5017 5052 5055 5047 5080 5063 5067 5045}
+collapsed_nodes {5015 5010 5012 5017 5052 5055 5047 5080 5063 5067 5045}
+collapsed_nodes {5015 5010 5012 5017 5052 5055 5047 5080 5063 5067 5045 5102}
+collapsed_nodes {5015 5010 5012 5017 5052 5055 5047 5063 5067 5045 5102}
+collapsed_nodes {5015 5010 5012 5017 5052 5055 5047 5063 5067 5045 5102 5078}
+collapsed_nodes {}

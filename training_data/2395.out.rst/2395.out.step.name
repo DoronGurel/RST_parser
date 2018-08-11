@@ -1,0 +1,64 @@
+nextSentence really
+create-a-node-here really 2.86 1 {\nCBS Inc. is cutting "The Pat Sajak Show" down to one hour from its current 90 minutes.}
+nextSentence really
+create-a-node-here really 4.16 2 { \n\nCBS insisted the}
+create-a-node-here really 4.58 3 { move wasn't a setback for the program,}
+autolink_nodes 2 3 nucleus attribution  5001
+create-a-node-here really 4.145 4 { which is the network's first entry into the late-night talk show format since 1972.}
+nextSentence really
+autolink_nodes 3 4 satelite-embedded elaboration-additional-e below 5002
+#create-a-node-here really 6.62 5 { \n\n"I have every intention of making this the best possible show }
+#UNDID
+create-a-node-here really 6.24 5 { \n\n"I have every intention }
+create-a-node-here really 6.65 6 {of making this the best possible show }
+autolink_nodes 5 6 satelite-embedded elaboration-object-attribute-e  5003
+create-a-node-here really 6.119 7 {and having it run one hour is the best way to it," }
+autolink_nodes 5003 7 satelite enablement  5004
+create-a-node-here really 6.138 8 {said Rod Perth, }
+autolink_nodes 5004 8 satelite attribution  5005
+create-a-node-here really 6.209 9 {who was named vice president of late night entertainment in August. }
+autolink_nodes 8 9 satelite-embedded elaboration-additional-e  5006
+create-a-node-here really 6.259 10 {"This will raise the energy level of the show."}
+nextSentence really
+autolink_nodes 5005 10 satelite evaluation-s  5007
+autolink_nodes 5001 5007 multinuclear Contrast  5008
+autolink_nodes 1 5008 satelite reason  5009
+create-a-node-here really 8.52 11 { \n\nCBS will continue to program action-adventure shows }
+create-a-node-here really 8.81 12 {to follow the Sajak hour.}
+nextSentence really
+autolink_nodes 11 12 satelite purpose  5010
+autolink_nodes 5009 5010 satelite elaboration-additional  5011
+create-a-node-here really 9.66 13 {\nBut CBS News will extend its four-hour "Nightwatch" by 30 minutes }
+nextSentence really
+nextSentence really
+create-a-node-here really 9.93 14 {and begin at 1:30 a.m. }
+#autolink_nodes 13 14 satelite elaboration-additional  5012
+#UNDID
+autolink_nodes 13 14 satelite consequence-s  5012
+autolink_nodes 5010 5012 nucleus concession  5013
+create-a-node-here really 11.10 15 {\n\nThe show, }
+create-a-node-here really 11.41 16 {despite a promising start, }
+create-a-node-here really 11.85 17 {has slipped badly in the weekly ratings }
+autolink_nodes 16 17 nucleus-embedded concession-e  5014
+autolink_nodes 15 5014 multinuclear Same-Unit  5015
+create-a-node-here really 11.122 18 {as compiled by A.C. Nielsen Co., }
+autolink_nodes 17 18 satelite-embedded elaboration-object-attribute-e below 5016
+create-a-node-here really 11.256 19 {finishing far below "Tonight" on NBC, a unit of General Electric Co., and "Nightline" on ABC-TV, a unit of Capital Cities/ABC Inc.}
+#autolink_nodes 5015 19 multinuclear Same-Unit below 5016
+#UNDID
+autolink_nodes 5015 19 satelite consequence-s  5017
+create-a-node-here really 11.349 20 { Further fractioning the late-night audience is the addition of the "Arsenio Hall Show," }
+create-a-node-here really 11.397 21 {syndicated by Paramount Communications Inc. }
+autolink_nodes 20 21 satelite-embedded elaboration-additional-e  5018
+autolink_nodes 5017 5018 satelite result  5019
+autolink_nodes 5011 5019 satelite elaboration-additional  5020
+disconnect_node 5018 modify
+autolink_nodes 5017 5018 satelite consequence-n  5021
+disconnect_node 5021 modify
+autolink_nodes 5011 5021 satelite circumstance  5022
+disconnect_node 5021 disconnect
+#disconnect_node 5013 disconnect
+#UNDID
+autolink_nodes 5011 5021 multinuclear Problem-Solution  5023
+disconnect_node 12 disconnect
+autolink_nodes 11 12 satelite-embedded elaboration-object-attribute-e  5024

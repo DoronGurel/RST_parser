@@ -1,0 +1,123 @@
+nextSentence really
+create-a-node-here really 2.33 1 {\nShearson Lehman Hutton Inc. said }
+#create-a-node-here really 2.98 2 {it applied to Taiwanese securities officials for permission to}
+#autolink_nodes 1 2 nucleus attribution-n  5001
+#UNDID
+#UNDID
+create-a-node-here really 2.96 2 {it applied to Taiwanese securities officials for permission }
+autolink_nodes 1 2 nucleus attribution-n  5001
+create-a-node-here really 2.135 3 {to open brokerage offices in Taipei.}
+nextSentence really
+autolink_nodes 5001 3 satelite purpose  5002
+create-a-node-here really 4.36 4 { \n\nShearson's application is the first }
+autolink_nodes 5002 4 satelite elaboration-additional  5003
+create-a-node-here really 4.109 5 {since the Taiwan Securities and Exchange Commission announced June 21 }
+autolink_nodes 4 5 satelite temporal-after  5004
+#create-a-node-here really 4.156 6 {that it would allow foreign brokerage firms }
+#autolink_nodes 5 6 satelite elaboration-additional  5005
+#create-a-node-here really 4.190 7 {to do business in that country.}
+#nextSentence really
+#autolink_nodes 6 7 satelite purpose  5006
+#create-a-node-here really 5.81 8 {\nTaiwan officials are expected to review the Shearson application later this year.}
+#nextSentence really
+#autolink_nodes 5004 8 satelite elaboration-additional  5007
+#create-a-node-here really 7.107 9 { \n\nUnder current rules, investors in Taiwan can buy overseas stocks only through the purchase of mutual funds }
+#autolink_nodes 5003 9 satelite explanation-argumentative  5008
+#create-a-node-here really 7.156 10 {issued by local and foreign investment trusts.}
+#nextSentence really
+#autolink_nodes 9 10 satelite elaboration-additional  5009
+#create-a-node-here really 8.35 11 {\nThe new rules will allow investors }
+#autolink_nodes 5009 11 satelite comparison  5010
+#create-a-node-here really 8.70 12 {to buy foreign stocks directly.}
+#nextSentence really
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#create-a-node-here really 9.0 11 {\nThe new rules will allow investors to buy foreign stocks directly. \n}
+#autolink_nodes 5009 11 satelite comparison  5010
+#create-a-node-here really 10.30 12 {\nA spokesman for Shearson said }
+#create-a-node-here really 10.97 13 {the brokerage service will be directed at individual investors }
+#autolink_nodes 12 13 nucleus attribution-n  5011
+#UNDID
+#autolink_nodes 12 13 nucleus attribution-n  5011
+#create-a-node-here really 10.145 14 {who want to buy foreign and domestic stocks.}
+#nextSentence really
+#autolink_nodes 13 14 satelite elaboration-additional below 5012
+#create-a-node-here really 10.210 15 { "It's an attractive market with good growth opportunities," }
+#create-a-node-here really 10.223 16 {he added.}
+#nextSentence really
+#autolink_nodes 15 16 satelite attribution-n  5013
+#autolink_nodes 5010 5011 multinuclear OTHER-multinuc  5014
+#UNDID
+#autolink_nodes 5010 5011 satelite comment  5014
+#UNDID
+#autolink_nodes 5010 5011 satelite comment  5014
+#autolink_nodes 5011 5013 satelite comment  5015
+#disconnect_node 7 disconnect
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+#UNDID
+create-a-node-here really 5.0 6 {that it would allow foreign brokerage firms to do business in that country.\n}
+#change_rel 5 
+#UNDID
+#autolink_nodes 5 6 satelite elaboration-additional  5005
+#UNDID
+#autolink_nodes 5 6 satelite elaboration-additional  5005
+#UNDID
+autolink_nodes 5 6 nucleus attribution  5005
+create-a-node-here really 5.84 7 {Taiwan officials are expected to review the Shearson application later this year.}
+nextSentence really
+autolink_nodes 5004 7 satelite elaboration-additional  5006
+create-a-node-here really 7.107 8 { \n\nUnder current rules, investors in Taiwan can buy overseas stocks only through the purchase of mutual funds }
+autolink_nodes 5003 8 satelite explanation-argumentative  5007
+create-a-node-here really 7.156 9 {issued by local and foreign investment trusts.}
+nextSentence really
+autolink_nodes 8 9 satelite-embedded elaboration-object-attribute-e  5008
+create-a-node-here really 8.66 10 {\nThe new rules will allow investors to buy foreign stocks directly.}
+nextSentence really
+autolink_nodes 5008 10 satelite comparison  5009
+create-a-node-here really 10.30 11 { \n\nA spokesman for Shearson said }
+#autolink_nodes 5009 11 satelite comment  5010
+#UNDID
+create-a-node-here really 10.97 12 {the brokerage service will be directed at individual investors }
+autolink_nodes 11 12 nucleus attribution  5010
+autolink_nodes 5009 5010 satelite comment  5011
+create-a-node-here really 10.146 13 {who want to buy foreign and domestic stocks. }
+autolink_nodes 12 13 satelite-embedded elaboration-object-attribute-e below 5012
+create-a-node-here really 10.210 14 {"It's an attractive market with good growth opportunities," }
+autolink_nodes 5012 14 satelite evaluation-s below 5013
+create-a-node-here really 10.223 15 {he added.}
+nextSentence really
+autolink_nodes 14 15 satelite attribution  5014
+collapsed_nodes {5007}
+collapsed_nodes {}
+disconnect_node 1 modify
+autolink_nodes 2 1 satelite attribution above 5014
+disconnect_node 3 modify
+autolink_nodes 2 3 satelite purpose below 5015
