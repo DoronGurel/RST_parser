@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 
-def _stack_second(node):
+def _get_nearest_left_node(node):
     stop = False
     ans = None
     while(node.pnode is not None and not stop):
@@ -15,7 +15,7 @@ def _stack_second(node):
 
     return ans
 
-def _stack_second_2(node):
+def _get_two_nearest_left_nodes(node):
     counter = 0
     ans = []
     while(node.pnode is not None and counter < 2):
@@ -30,12 +30,13 @@ def tree_to_classification_decisions(tree, edu_list):
     list_of_nodes = backprop._BFTbin(tree)
     list_of_decisions = []
     for node in list_of_nodes:
-        if not node.is_leaf():# and not node.is_root():
-            list_of_decisions.append((edu_list[node.rnode.eduspan[1]], node.lnode, node.rnode, 'reduce', node.relation))
+        if not node.is_leaf():
+            if not node.is_root():
+                list_of_decisions.append((edu_list[node.rnode.eduspan[1]], node.lnode, node.rnode, 'reduce', node.relation))
             if node.rnode.is_leaf():
-                list_of_decisions.append((edu_list[node.rnode.eduspan[1]-1], node.lnode, _stack_second(node), 'shift', None))
+                list_of_decisions.append((edu_list[node.rnode.eduspan[1]-1], node.lnode, _get_nearest_left_node(node), 'shift', None))
             if node.lnode.is_leaf():
-                stack_nodes = _stack_second_2(node)
+                stack_nodes = _get_two_nearest_left_nodes(node)
                 list_of_decisions.append((edu_list[node.lnode.eduspan[1]-1], stack_nodes[0], stack_nodes[1], 'shift', None))
 
     df_result = pd.DataFrame(list_of_decisions)
