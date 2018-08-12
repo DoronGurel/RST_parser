@@ -38,6 +38,7 @@ class SpanNode(object):
     def is_root(self):
         return self.prop == 'Root'
 
+
 def _createtext(lst):
     """ Create text from a list of tokens
     :type lst: list
@@ -178,13 +179,6 @@ def buildtree_from_train(dir):
     # print 'stack[-1] = ', stack[-1].prop, stack[-1].eduspan
     # print 'stack[-2] = ', stack[-2].prop, stack[-2].eduspan
     return stack[-1]
-
-
-
-
-
-
-
 
 
 def binarizetree(tree):
