@@ -10,13 +10,15 @@ def get_is_leaf(node_1, node_2):
     ans = np.array([node_1.is_leaf(), node_2.is_leaf()], dtype=float)
     return ans
 
+
 def get_nucliarity(node_1, node_2):
     ans = np.array([node_1.prop == 'Nucleus', node_2.prop == 'Nucleus'], dtype=float)
     return ans
 
-    # def get_num_words(edu):
-    #     return len(edu)
-    #
+
+def get_num_words(edu):
+    return len(edu.split(' ')) -1
+
     # def get_first_word(edu):
     #     return edu[0]
     #
