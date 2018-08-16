@@ -1,7 +1,7 @@
 import tree_builder, backprop, parameter_extraction
 import numpy as np
 import pandas as pd
-
+import os
 
 def _get_nearest_left_node(node):
     stop = False
@@ -76,17 +76,43 @@ def class_decisions_to_dataset(df_decisions):
 
     final_dataset = pd.DataFrame(final_dataset)
     final_dataset.columns = ['params', 'decision', 'form', 'relation']
+    final_dataset = final_dataset.replace([None], [''], regex=True)
+    final_dataset['full_decision'] = final_dataset['decision'] + '-' + final_dataset['form'] + '-' + final_dataset['relation']
+
     return final_dataset
 
+def train_to_dataset():
+    tree_dataframes = []
+    for filename in os.listdir('../training_data'):
+        if filename.endswith(".dis"):
+            try:
+                print(filename)
+                # Build RST tree
+                T = tree_builder.buildtree_from_train(filename)
+                # Binarize the RST tree
+                T = tree_builder.binarizetree(T)
+                # Back-propagating information from
+                #   leaf node to root node
+                T = backprop.backprop(T)
+                edu_list = open('../training_data/' + filename.split('.')[0]
+                        + '.out.edus', 'r').read().replace('    ', '').split('\n')
+                decision_set = tree_to_classification_decisions(T, edu_list)
+                tree_dataset = class_decisions_to_dataset(decision_set)
+                tree_dataframes.append(tree_dataset)
+            except:
+                continue
 
+    total_dataset = pd.concat(tree_dataframes)
+    total_dataset.to_csv('shift_reduce_dataset.csv')
 
 if __name__ == '__main__':
-    tree = tree_builder.buildtree_from_train('/Users/tal/Desktop/rst_parser_toolkit/training_data/1100.out.dis')
-    tree = tree_builder.binarizetree(tree)
-    edu_list = open('/Users/tal/Desktop/rst_parser_toolkit/training_data/1100.out.edus', 'r').read().replace('    ', '').split('\n')
-    result = tree_to_classification_decisions(tree, edu_list)
-    result2 = class_decisions_to_dataset(result)
-    print(result2)
+    tree_dataset = train_to_dataset()
+    # tree = tree_builder.buildtree_from_train('/Users/tal/Desktop/rst_parser_toolkit/training_data/1100.out.dis')
+    # tree = tree_builder.binarizetree(tree)
+    #
+    # result = tree_to_classification_decisions(tree, edu_list)
+    # result2 = class_decisions_to_dataset(result)
+    # print(result2)
     # print(result['stack_first'][2].text)
     # print(result['stack_second'][2].text)
     # print(result['stack_second'][2].text + ' ' + result['stack_first'][2].text)
