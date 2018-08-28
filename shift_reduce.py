@@ -85,6 +85,8 @@ def run_model(queue, stack, edu_list, model, inv_label_to_index):
     params = ttd.edus_to_params(queue.peek()[1], stack.peek(), stack.peek2(), edu_list)
     action = model.predict(np.array(params).reshape(1,-1))
     action = inv_label_to_index[action[0]]
+
+    if
     exec(action + '(queue, stack)')
 
 

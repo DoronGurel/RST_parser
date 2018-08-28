@@ -1,6 +1,7 @@
 
 import tree_builder, backprop
 import os
+import utils
 
 def _postorder_DFT(tree, nodelist):
     """ Post order traversal on binary RST tree
@@ -24,7 +25,7 @@ def tree_to_dev(tree, dir, tree_num):
         if node.prop is None:
             continue
         if node.prop[0] != 'R':
-            txtfile.write("{} {} {} {} \n".format(node.eduspan[0], node.eduspan[1], node.prop[0], node.relation.split('-')[0]))
+            txtfile.write("{} {} {} {} \n".format(node.eduspan[0], node.eduspan[1], node.prop[0], node.relation))
 
 
 def train_to_gold():

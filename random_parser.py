@@ -4,7 +4,7 @@ import os
 from os import listdir
 from os.path import join
 import random
-RELATION_LIST = ['ATTRIBUTION', 'BACKGROUND', 'CAUSE', 'COMPARISON', 'CONDITION', 'CONTRAST', 'ELABORATION', 'ENABLEMENT', 'TOPICCOMMENT', 'EVALUATION', 'EXPLANATION', 'JOINT', 'MANNERMEANS', 'SUMMARY', 'TEMPORAL', 'TOPICCHANGE']
+RELATION_LIST = ['ATTRIBUTION', 'BACKGROUND', 'CAUSE', 'COMPARISON', 'CONDITION', 'CONTRAST', 'ELABORATION', 'ENABLEMENT', 'TOPICCOMMENT', 'EVALUATION', 'EXPLANATION', 'JOINT', 'MANNERMEANS', 'SUMMARY', 'TEMPORAL', 'TOPICCHANGE', 'SPAN', 'SAME-UNIT', 'textualorganization']
 
 def random_nuclearity():
     if np.random.rand() < 0.5:
@@ -17,7 +17,7 @@ def random_relation(nuclearity):
     if nuclearity == 'N':
         return 'span'
     else:
-        return random.choice(RELATION_LIST).lower()
+        return random.choice(RELATION_LIST).upper()
 
 
 def random_shift_reduce():

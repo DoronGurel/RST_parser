@@ -105,12 +105,20 @@ def class_decisions_to_dataset(df_decisions, edu_list):
 
         final_params = edus_to_params(queue_edu, stack_first, stack_second, edu_list)
         final_params.append(row['decision'])
+        final_params.append(row['form'])
+        final_params.append(row['relation'])
+
         final_dataset.append(final_params)
 
     final_dataset = pd.DataFrame(final_dataset)
     # final_dataset.columns = ['params', 'decision', 'form', 'relation']
     # final_dataset = final_dataset.replace([None], [''], regex=True)
-    # final_dataset['full_decision'] = final_dataset['decision'] + '-' + final_dataset['form'] + '-' + final_dataset['relation']
+    # final_dataset.assign(label = final_dataset.iloc[:,-3] + '-' + final_dataset.iloc[:,-2] + '-' + final_dataset.iloc[:,-1])
+    # final_dataset.iloc['label'] = final_dataset[final_dataset.columns[-3]] + '-' + final_dataset[final_dataset.columns[-2]] + '-' + final_dataset[final_dataset.columns[-1]]
+    # final_dataset.drop(final_dataset.columns[-2], axis=1)
+    # final_dataset.drop(final_dataset.columns[-2], axis=1)
+    # final_dataset.drop(final_dataset.columns[-2], axis=1)
+
 
     return final_dataset
 
@@ -141,7 +149,7 @@ def train_to_dataset():
             #     continue
 
     total_dataset = pd.concat(tree_dataframes)
-    total_dataset.to_csv('shift_reduce_dataset5.csv', index = False)
+    total_dataset.to_csv('shift_reduce_dataset7.csv', index = False)
 
 if __name__ == '__main__':
 

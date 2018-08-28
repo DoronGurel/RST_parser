@@ -1,4 +1,5 @@
 import os
+import utils
 ## datastructure.py
 ## Author: Yangfeng Ji
 ## Date: 08-29-2013
@@ -162,7 +163,7 @@ def buildtree_from_train(dir):
                 stack.append(('leaf', eduindex, eduindex))
             elif label == 'rel2par':
                 # Merge
-                relation = content.pop(0)
+                relation = utils.map_to_cluster(content.pop(0))
                 _checkcontent(label, content)
                 stack.append(('relation',relation))
             elif label == 'text':

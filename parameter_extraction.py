@@ -6,7 +6,7 @@ import tree_builder, backprop
 # embedding_dict = gensim.models.KeyedVectors.load_word2vec_format(dictFileName, binary=False)
 # embedding_dict.save_word2vec_format(dictFileName+".bin", binary=True)
 
-embedding_dict = gensim.models.KeyedVectors.load_word2vec_format('pretrained_word_vec/wiki-news-300d-1M.vec.bin', binary=True)
+embedding_dict = gensim.models.KeyedVectors.load_word2vec_format('../pretrained_word_vec/wiki-news-300d-1M.vec.bin', binary=True)
 
 
 def get_is_leaf(node_1, node_2):
