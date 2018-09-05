@@ -1,5 +1,5 @@
-import tree_builder, random_parser
-import tree_to_dataset as ttd
+import tree_builder
+from CODE import tree_to_dataset as ttd
 import numpy as np
 
 
@@ -66,29 +66,46 @@ def shift(queue,stack):
     stack.push(node)
 
 
-def reduce(queue, stack):
+def reduce(queue, stack, nucliarity, relation_1, relation_2, relation_3):
     # todo: add parser type to input, so this function would be generic for any algorithm we use
     upper = stack.pop()
     lower = stack.pop()
-    upper.prop,lower.prop = random_parser.random_nuclearity()
-    upper.relation = random_parser.random_relation(upper.prop)
-    lower.relation = random_parser.random_relation(lower.prop)
+    upper.prop = nucliarity[0]
+    lower.prop = nucliarity[1]
+    upper.relation = relation_2
+    lower.relation = relation_3
     parent_node = tree_builder.SpanNode()
     parent_node.lnode = lower
     parent_node.rnode = upper
     parent_node.eduspan = (lower.eduspan[0], upper.eduspan[1])
+    parent_node.relation = relation_1
     lower.pnode, upper.pnode = parent_node, parent_node
     stack.push(parent_node)
 
 
-def run_model(queue, stack, edu_list, model, inv_label_to_index):
-    params = ttd.edus_to_params(queue.peek()[1], stack.peek(), stack.peek2(), edu_list)
-    action = model.predict(np.array(params).reshape(1,-1))
-    action = inv_label_to_index[action[0]]
+def run_model(queue, stack, edu_list, model, inv_label_to_index, force_reduce):
+    if force_reduce:
+        queue_edu = []
+    else:
+        queue_edu = queue.peek()[1]
 
-    if
-    exec(action + '(queue, stack)')
+    params = ttd.edus_to_params(queue_edu, stack.peek(), stack.peek2(), edu_list)
 
+    model_decision = model.predict_proba(np.array(params).reshape(1,-1))
+    model_decision = np.argsort(model_decision, axis=1)[:, -2:]
+
+    if inv_label_to_index[model_decision[0][0]].split('_')[0] == 'shift' and force_reduce:
+        action = inv_label_to_index[model_decision[0][1]]
+    else:
+        action = inv_label_to_index[model_decision[0][0]]
+        action.replace('-','_')
+
+    if action.split('_')[0] == 'shift':
+        shift(queue,stack)
+    elif action.split('_')[0] == 'reduce':
+        reduce(queue, stack, action.split('_')[1], action.split('_')[2], action.split('_')[3], action.split('_')[4])
+    else:
+        raise NameError('model has produced invalid action')
 
 def shift_reduce_parser(queue, stack,edu_list , model, inv_label_to_index):
     # todo: add parser type to input, so this function would be generic for any algorithm we use
@@ -97,13 +114,15 @@ def shift_reduce_parser(queue, stack,edu_list , model, inv_label_to_index):
     elif queue.size() == 0 and stack.size() == 1:
         return stack.peek()
     else:
-        if queue.size() == 0:
-            reduce(queue, stack)
-            return shift_reduce_parser(queue,stack, edu_list, model, inv_label_to_index)
-        elif stack.size() < 2:
+        if stack.size() < 2:
             shift(queue, stack)
             return shift_reduce_parser(queue,stack, edu_list, model, inv_label_to_index)
         else:
-            run_model(queue, stack, edu_list, model, inv_label_to_index)
+            if queue.size() == 0:
+                force_reduce = True
+            else:
+                force_reduce = False
+
+            run_model(queue, stack, edu_list, model, inv_label_to_index, force_reduce)
             return shift_reduce_parser(queue, stack, edu_list, model, inv_label_to_index)
 

@@ -1,5 +1,6 @@
-import os
-import utils
+from CODE import utils
+
+
 ## datastructure.py
 ## Author: Yangfeng Ji
 ## Date: 08-29-2013

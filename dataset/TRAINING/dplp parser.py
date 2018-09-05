@@ -1,6 +1,7 @@
 import numpy as np
-import pandas as pd
-import parameter_extraction, tree_builder, backprop
+import tree_builder, backprop
+from CODE import parameter_extraction
+
 
 def _dplp_param_extraction(queue, stack, edu_list):
     queue_edu = queue.peek()
@@ -44,7 +45,7 @@ def dplp_shift_reduce(queue, stack, edu_list):
 
 if __name__ == '__main__':
 
-    for filename in os.listdir('../training_data'):
+    for filename in os.listdir('../TRAINING'):
         if filename.endswith(".dis"):
             try:
                 print(filename)
@@ -55,7 +56,7 @@ if __name__ == '__main__':
                 # Back-propagating information from
                 #   leaf node to root node
                 T = backprop.backprop(T)
-                edu_list = open('/Users/tal/Desktop/rst_parser_toolkit/training_data/' + filename.split('.')[0]
+                edu_list = open('/Users/tal/Desktop/rst_parser_toolkit/TRAINING/' + filename.split('.')[0]
                                 + '.out.edus', 'r').read().replace('    ', '').split('\n')
                 decision_set = tree_to_classification_decisions(T, edu_list)
                 tree_dataset = class_decisions_to_dataset(decision_set, edu_list)

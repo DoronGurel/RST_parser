@@ -1,7 +1,7 @@
 
 import tree_builder, backprop
 import os
-import utils
+
 
 def _postorder_DFT(tree, nodelist):
     """ Post order traversal on binary RST tree
@@ -29,12 +29,12 @@ def tree_to_dev(tree, dir, tree_num):
 
 
 def train_to_gold():
-    for filename in os.listdir('training_data'):
+    for filename in os.listdir('TRAINING'):
         if filename.endswith(".dis"):
             print(filename)
-            # text = open('training_data/{}'.format(filename), 'r').read()
+            # text = open('TRAINING/{}'.format(filename), 'r').read()
             # Build RST tree
-            T = tree_builder.buildtree_from_train('training_data/{}'.format(filename))
+            T = tree_builder.buildtree_from_train('TRAINING/{}'.format(filename))
             # Binarize the RST tree
             T = tree_builder.binarizetree(T)
             # Back-propagating information from

@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import ast
 
-table = pd.read_csv("training_data/shift_reduce_dataset3.csv")
+table = pd.read_csv("TRAINING/shift_reduce_dataset3.csv")
 number_of_features = len(ast.literal_eval(table['params'][0]))
 features_df = pd.DataFrame(columns = [i for i in range(number_of_features)])
 label_df = pd.DataFrame(columns = ['label'])
