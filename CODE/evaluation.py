@@ -99,6 +99,26 @@ def eval(gold_trees_path, predicted_trees_path):
     print(str.format("Nuclearity F1: {}", str(round(macro_f1_result[1], 4))))
     print(str.format("Relation F1: {}", str(round(macro_f1_result[2], 4))))
 
+def eval_inner(gold_trees_path, predicted_trees_path):
+    """
+    :param gold_trees_path: path to the folder containing to ground truth trees
+    :param predicted_trees_path: path to the folder containing the predicted trees
+    """
+    gold_trees = load_trees(gold_trees_path)
+    predicted_trees = load_trees(predicted_trees_path)
+    assert len(gold_trees) == len(predicted_trees), "Number of gold trees is not equal to number of predicted trees"
+    ordered_gold_trees = []
+    oredered_predicted_trees = []
+
+    for g_name in gold_trees:
+        assert g_name in predicted_trees, "Predicted trees are missing file: " + g_name
+        gold_tree = gold_trees[g_name]
+        predicted_tree = predicted_trees[g_name]
+        assert len(gold_tree) == len(predicted_tree), "Size of predicted tree is not equal to size of gold tree for tree number: " + g_name
+        ordered_gold_trees.append(gold_tree)
+        oredered_predicted_trees.append(predicted_tree)
+    macro_f1_result = macro_f1(ordered_gold_trees, oredered_predicted_trees)
+    return macro_f1_result
 
 if __name__ == '__main__':
     import sys

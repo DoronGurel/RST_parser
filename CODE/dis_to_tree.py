@@ -1,9 +1,13 @@
+import numpy as np
+import os
+from os import listdir
+from CODE.utils import *
 import re
 
 class Node(object):
     def __init__(self, role=None):
         self.text = None # Text of EDU, relevant if its a leaf node
-        self.role = role # Nucleus or Satellite
+        self.role = role # N for Nucleus or S for Satellite
         self.relation = None # relation of given span
         self.structure = None  # {Nucleus-Nucleus: NN, Nucleus-Satellite: NS, Satellite-Nucleus: SN}
         self.spanlimits = None # EDU span: [begin, end] index
@@ -16,12 +20,6 @@ class Node(object):
 
     def __repr__(self):
         return 'Node of Span: {}'.format(str(self.spanlimits))
-
-    def extract_all_attributes(self):
-        return self.role, self.text, self.relation, self.structure, self.spanlimits, self.left, self.right, self.parent, self.children
-
-    def print_all_attributes(self):
-        print(self.role, self.text, self.relation, self.structure, self.spanlimits, self.left, self.right, self.parent, self.children)
 
     def is_leaf(self):
         return self.spanlimits[0] == self.spanlimits[1]
@@ -78,6 +76,8 @@ def tree_creator(text):  # input:
             elements = elements[2:]
             item = 0  # initiate an item that will be appended to the stack after parsing
             if title in ['Nucleus', 'Satellite', 'Root']:  # Node instance
+                if title in ['Nucleus', 'Satellite']:
+                    title = title[0]
                 item = Node(role=title)  # 'declare' a Node instance
                 for element in elements:  # update the node's attributes according to the elements
                     if isinstance(element, Node):

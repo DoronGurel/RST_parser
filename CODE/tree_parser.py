@@ -1,9 +1,11 @@
-from dis_to_tree import *
+import numpy as np
 import os
+from os import listdir
 from utils import *
+from dis_to_tree import *
 
 def print_all_children(node):
-    print('working on node', node)
+    # print ('working on node', node)
     children_list = node.children
     if children_list==[]:
         print('this is a leaf')
@@ -31,20 +33,21 @@ def verify_children_and_parenthood(node):
 def synthesize_parent(L, R):
     '''
     a function used for the binarization process - creates a parent node for 
-    2 nodes that were previously children of a node with more than 2 children'''
+    2 nodes that were previously children of a node with more than 2 children
+    '''
     p = Node(role=L.role)
     p.left = L
     p.right = R
     p.children = [L, R]
     p.spanlimits = [L.spanlimits[0], R.spanlimits[1]]
 
-    if (L.role == 'Nucleus') and (R.role == 'Nucleus'):
+    if (L.role == 'N') and (R.role == 'N'):
         p.structure = 'NN'
         p.relation = L.relation
-    elif (L.role == 'Nucleus') and (R.role == 'Satellite'):
+    elif (L.role == 'N') and (R.role == 'S'):
         p.structure = 'NS'
         p.relation = L.relation
-    elif (L.role == 'Satellite') and (R.role == 'Nucleus'):
+    elif (L.role == 'S') and (R.role == 'N'):
         p.structure = 'SN'
         p.relation = R.relation
 
@@ -107,38 +110,47 @@ def reorder_nodes_for_gold(node, children_list):
         reorder_nodes_for_gold(node.children[1], children_list)
     return children_list
 
+# def reorder_nodes_for_gold(node, children_list):
+#     children_list.append(node)
+#     if (not node.left) & (not node.right):
+#         reorder_nodes_for_gold(node.left,children_list)
+#         reorder_nodes_for_gold(node.right, children_list)
+#     return children_list
 
-def goldenize(tree, dir, tree_num):
+def goldenize(tree, dir, tree_num, pred = False):
     #turns an RST tree to a gold-structure file that can be evaluated via the evaluation code.
     ordered_for_gold = reorder_nodes_for_gold(tree, [])
-    gold_file = open('../dataset/{}_GOLD/{}'.format(dir, tree_num),'w+')
+    path = 'dataset/{}_PRED/{}' if pred else 'dataset/{}_GOLD/{}'
+    gold_file = open(path.format(dir, tree_num),'w+')
     num=0 # test number of lines
     for node in ordered_for_gold:
-        if node.role in ['Nucleus', 'Satellite']: # Node is not Root noe, which does not need to be printed
+        if node.role in ['N', 'S']: # Node is not Root node, which does not need to be printed
             num+=1
             span_left = node.spanlimits[0]
             span_right = node.spanlimits[1]
             role = node.role
-            relation = map_to_cluster(node.relation)
+            relation = node.relation if pred else map_to_cluster(node.relation)
             gold_file.write("{} {} {} {} \n".format(span_left, span_right, role, relation))
+    gold_file.close()
     # print 'num of rows is {}'.format(num)
 
 def parse_all_trees(dir):
     # parses all the dis trees in a given directory, binarizes them and writes their gold-structure versions to seperate files.
-    for file in os.listdir('../dataset/{}'.format(dir)):
+    for file in os.listdir('dataset/{}'.format(dir)):
         if file.endswith('.dis'):
             tree_num = file.partition(".")[0] # not all file names are numbers, some are 'file_{some_number}'.
             # print 'CURRENT TREE IS {}'.format(tree_num)
             if tree_num.startswith('file'):
-                file_name = "../dataset/{}/{}.dis".format(dir, tree_num)
+                file_name = "dataset/{}/{}.dis".format(dir, tree_num)
             else:
-                file_name = "../dataset/{}/{}.out.dis".format(dir, tree_num)
+                file_name = "dataset/{}/{}.out.dis".format(dir, tree_num)
             file_content = open(file_name, 'r').read()
             Tree = tree_creator(file_content)
             right_binarization(Tree)
             verify_children_and_parenthood(Tree)
+
             goldenize(Tree, dir, tree_num)
     print('Finished parsing and binarizing all {} trees'.format(dir))
 # parse_all_trees('DEV')
-parse_all_trees('TRAINING')
+# parse_all_trees('TRAINING')
 

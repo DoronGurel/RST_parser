@@ -1,4 +1,4 @@
-import tree_parser, dis_to_tree, parameter_extraction
+from CODE import tree_parser, dis_to_tree, parameter_extraction
 import numpy as np
 import pandas as pd
 import os
@@ -6,6 +6,8 @@ import os
 #constants
 CONCATINATION = 'concat'
 DIFFERENCE = 'diff'
+NUM_PARAMS = 663
+
 
 def _flatten_list(alist):
     ans = []
@@ -60,37 +62,46 @@ def edus_to_params(queue_edu, stack_first, stack_second, edu_list, method):
     # queue_params, stack_first_params, stack_second_params = [], [], []
     # get params for queue
     if len(queue_edu) > 1:
-        queue_params = parameter_extraction.get_mean_word_vec(queue_edu)
+        # queue_params = parameter_extraction.get_mean_word_vec(queue_edu)
+        queue_params = parameter_extraction.get_first_word_vec(queue_edu)
+        queue_params += parameter_extraction.get_last_word_vec(queue_edu)
         queue_params += parameter_extraction.get_num_words(queue_edu)
         queue_params += parameter_extraction.get_dist_from_start_for_queue(queue_edu, edu_list)
         queue_params += parameter_extraction.get_dist_from_end_for_queue(queue_edu, edu_list)
+        queue_params += parameter_extraction.pos_tagging(queue_edu)
 
     else:
-        queue_params = np.zeros([1,303]).tolist()
+        queue_params = np.zeros([1,NUM_PARAMS]).tolist()
 
         # get params for stack first
     if stack_first is not None:
         if stack_first.text is not None:
-            stack_first_params = parameter_extraction.get_mean_word_vec(stack_first.text)
+            # stack_first_params = parameter_extraction.get_mean_word_vec(stack_first.text)
+            stack_first_params = parameter_extraction.get_first_word_vec(stack_first.text)
+            stack_first_params += parameter_extraction.get_last_word_vec(stack_first.text)
             stack_first_params += parameter_extraction.get_num_words(stack_first.text)
             stack_first_params += parameter_extraction.get_dist_from_start_for_stack(stack_first)
             stack_first_params += parameter_extraction.get_dist_from_end_for_stack(stack_first, len(edu_list))
+            stack_first_params += parameter_extraction.pos_tagging(stack_first.text)
         else:
-            stack_first_params = np.zeros([1,303]).tolist()
+            stack_first_params = np.zeros([1,NUM_PARAMS]).tolist()
     else:
-        stack_first_params = np.zeros([1,303]).tolist()
+        stack_first_params = np.zeros([1,NUM_PARAMS]).tolist()
 
         # get params for stack second
     if stack_second is not None:
         if stack_second.text is not None:
-            stack_second_params = parameter_extraction.get_mean_word_vec(stack_second.text)
+            # stack_second_params = parameter_extraction.get_mean_word_vec(stack_second.text)
+            stack_second_params = parameter_extraction.get_first_word_vec(stack_second.text)
+            stack_second_params += parameter_extraction.get_last_word_vec(stack_second.text)
             stack_second_params += parameter_extraction.get_num_words(stack_second.text)
             stack_second_params += parameter_extraction.get_dist_from_start_for_stack(stack_second)
             stack_second_params += parameter_extraction.get_dist_from_end_for_stack(stack_second, len(edu_list))
+            stack_second_params += parameter_extraction.pos_tagging(stack_second.text)
         else:
-            stack_second_params = np.zeros([1,303]).tolist()
+            stack_second_params = np.zeros([1,NUM_PARAMS]).tolist()
     else:
-        stack_second_params = np.zeros([1,303]).tolist()
+        stack_second_params = np.zeros([1,NUM_PARAMS]).tolist()
 
     queue_params = _flatten_list(queue_params)
     stack_first_params = _flatten_list(stack_first_params)
@@ -128,23 +139,23 @@ def class_decisions_to_dataset(df_decisions, edu_list, method):
 
     return final_dataset
 
-def train_to_dataset(method):
+def train_to_dataset(dataset_file, method):
     tree_dataframes = []
-    for filename in os.listdir('../dataset/TRAINING'):
+    for filename in os.listdir('dataset/TRAINING'):
         if filename.endswith(".dis"):
             print(filename)
             # Build RST tree
-            text = open('../dataset/TRAINING/' + filename, 'r').read()
+            text = open('dataset/TRAINING/' + filename, 'r').read()
             T = dis_to_tree.tree_creator(text)
             # Binarize the RST tree
             tree_parser.right_binarization(T)
             tree_parser.verify_children_and_parenthood(T)
 
             if filename.split('.')[0] in ['file1', 'file2', 'file3', 'file4', 'file5']:
-                edu_list = open('/Users/tal/Desktop/rst_parser_toolkit/dataset/TRAINING/' + filename.split('.')[0]
+                edu_list = open('dataset/TRAINING/' + filename.split('.')[0]
                                 + '.edus', 'r').read().replace('    ', '').split('\n')
             else:
-                edu_list = open('/Users/tal/Desktop/rst_parser_toolkit/dataset/TRAINING/' + filename.split('.')[0]
+                edu_list = open('dataset/TRAINING/' + filename.split('.')[0]
                                 + '.out.edus', 'r').read().replace('    ', '').split('\n')
 
             decision_set = tree_to_classification_decisions(T, edu_list)
@@ -152,7 +163,7 @@ def train_to_dataset(method):
             tree_dataframes.append(tree_dataset)
 
     total_dataset = pd.concat(tree_dataframes)
-    total_dataset.to_csv('../dataset/shift_reduce_dataset_new_node.csv', index = False)
+    total_dataset.to_csv('dataset/{}.csv'.format(dataset_file), index = False)
 
 if __name__ == '__main__':
 

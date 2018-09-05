@@ -1,0 +1,13 @@
+from CODE import evaluation
+
+# for concat, difference
+# for each model
+# for each parameter list
+#
+
+
+
+
+f1_scores = evaluation.eval_inner(gold_trees_path='dataset/TRAINING_GOLD', predicted_trees_path='dataset/TRAINING_PRED')
+
+
